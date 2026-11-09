@@ -1,28 +1,33 @@
 {
-  "updated_at": "2026-11-09T17:45:00+00:00",
+  "updated_at": "2026-11-09T18:38:50+00:00",
   "via": [
     "Meta app dashboard (API setup with Unified login), entered by hand"
   ],
   "accounts": {
     "idlyautomotive": {
       "id": "17841456459864048",
-      "username": "idlyautomotive"
+      "username": "idlyautomotive",
+      "host": "graph.facebook.com"
     },
     "idlyhype": {
       "id": "17841456251940953",
-      "username": "idlyhype"
+      "username": "idlyhype",
+      "host": "graph.facebook.com"
     },
     "idlynerd": {
       "id": "17841456588019165",
-      "username": "idlynerd"
+      "username": "idlynerd",
+      "host": "graph.facebook.com"
     },
     "idlynews": {
       "id": "17841456330541050",
-      "username": "idlynews"
+      "username": "idlynews",
+      "host": "graph.facebook.com"
     },
     "idlytech": {
       "id": "17841456360777255",
-      "username": "idlytech"
+      "username": "idlytech",
+      "host": "graph.facebook.com"
     }
   }
 }
