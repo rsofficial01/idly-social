@@ -1,0 +1,16 @@
+# secrets: never commit tokens (publish.py refresh writes to state/secrets/)
+state/secrets/
+.env
+.env.*
+*.token
+
+# caches and scratch space
+__pycache__/
+*.py[cod]
+.pytest_cache/
+_work/
+
+# posts/ keeps only the JPEGs Instagram fetches
+posts/**/*.png
+
+# committed on purpose: posts/**/*.jpg, state/posted.json, reports/

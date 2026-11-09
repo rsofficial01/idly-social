@@ -1,0 +1,3 @@
+# pipeline (cardkit/ lists its own rendering requirements)
+requests>=2.31
+Pillow>=10.0
