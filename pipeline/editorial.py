@@ -115,6 +115,9 @@ BAIT = [
     r"\blike (this )?if\b", r"\bdouble[- ]tap\b", r"\bfollow (us |@\w+ )?for (more|part)\b",
     r"\bshare (this|if|with)\b", r"\bdrop an? (comment|emoji|❤️|🔥)", r"\bsmash (that|the)\b",
     r"\blink in (the )?comments\b", r"\byou won'?t believe\b", r"\bwait for it\b", r"\bdon'?t miss\b",
+    # Share- and save-bait: the founder's rule is no engagement bait, so the caption never asks for a
+    # send or a save. Send and Keep are scored on the content itself.
+    r"\bsend (this|it) to\b", r"\bsave this\b", r"\bforward this\b",
 ]
 HYPE = [
     r"\bgame[- ]?chang\w*", r"\brevolutionary\b", r"\brevolutioni[sz]\w*", r"\bmind[- ]?blowing\b",
@@ -201,6 +204,4 @@ def gate_message(score: dict | None) -> str:
 def post_problems(caption: str, score: dict | None) -> tuple[list[str], list[str]]:
     """Caption checks plus the cross-checks between the caption and the score."""
     errs, warns = caption_problems(caption)
-    if isinstance(score, dict) and score.get("send") == 2 and not re.search(r"\bsend this to\b", caption or "", re.I):
-        errs.append("score.send is 2 but the caption has no 'Send this to …' line naming who")
     return errs, warns

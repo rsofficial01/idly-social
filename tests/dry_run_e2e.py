@@ -65,7 +65,7 @@ def stub_renderer(cards, out_dir: Path):
 def stub_post(c: dict, photo: Path) -> dict:
     stat = re.search(r"[₹$]?\d[\d,.]*\s?(crore|%|million|billion|lakh)?", " ".join([c["title"], c["dek"] or ""]))
     caption = (f"{words(c['dek'], 40)}.\n\nSTUB caption for the dry-run test; the Claude run writes the real one.\n\n"
-               f"Send this to a friend who follows {c['category']} news.\n\nWhat do you make of this?\n\n"
+               f"What do you make of this?\n\n"
                f"{editorial.LINK_LINE}\n\n#idly #{c['account']} #stub #dryrun\n\n"
                f"Photo: stub placeholder (dry run)")
     return {

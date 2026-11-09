@@ -11,8 +11,6 @@ GOOD_CAPTION = """Jio's new ₹10,000 prepaid plan covers three years on one rec
 
 You get 2.5GB a day, unlimited calls and 100 SMS a day for 1,095 days.
 
-Send this to the friend who forgets to recharge every month.
-
 Would you pay ₹10,000 up front to skip recharges for three years?
 
 Full story on idly.news (link in bio).
@@ -80,7 +78,7 @@ class Caption(unittest.TestCase):
 
     def test_bait_and_hype(self):
         errs, _ = editorial.caption_problems(GOOD_CAPTION.replace(
-            "Send this to the friend", "Tag a friend") + "\nA game-changing, AI-powered plan.")
+            "You get", "Tag a friend: you get") + "\nA game-changing, AI-powered plan.")
         joined = " ".join(errs)
         self.assertIn("engagement bait", joined)
         self.assertIn("hype wording", joined)
@@ -89,10 +87,14 @@ class Caption(unittest.TestCase):
         errs, _ = editorial.caption_problems("Just a fact line.")
         self.assertEqual(len(errs), 4)
 
-    def test_send_two_needs_send_line(self):
-        errs, _ = editorial.post_problems(GOOD_CAPTION.replace("Send this to the friend who forgets to "
-                                                               "recharge every month.\n", ""), GOOD_SCORE)
-        self.assertTrue(any("Send this to" in e for e in errs))
+    def test_send_and_save_bait_banned(self):
+        for line in ("Send this to the friend who forgets to recharge.", "Save this for your next recharge."):
+            errs, _ = editorial.post_problems(GOOD_CAPTION.replace("You get", line + "\n\nYou get"), GOOD_SCORE)
+            self.assertTrue(any("engagement bait" in e for e in errs), line)
+
+    def test_send_two_needs_no_send_line(self):
+        errs, _ = editorial.post_problems(GOOD_CAPTION, GOOD_SCORE)
+        self.assertEqual(errs, [])
 
 
 class ScoreGate(unittest.TestCase):

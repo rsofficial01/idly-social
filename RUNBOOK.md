@@ -37,8 +37,8 @@ Sports stories have no account yet. Leave them out.
   "the company says"). Skip allegations about private individuals. Charges against public figures need
   `source_count ≥ 3`.
 - **No engagement bait.** No "tag a friend", "comment YES", "like if", "share this", "double tap",
-  "follow for more", "link in comments", "you won't believe". One genuine question is fine. So is
-  "Send this to [a specific person]".
+  "follow for more", "link in comments", "you won't believe", and no "Send this to…", "Save this" or
+  "forward this" lines either (founder's rule, 9 Nov). One genuine question is fine.
 - **No "AI"-hype wording.** No game-changing, revolutionary, mind-blowing, groundbreaking, unleash,
   supercharge, AI-powered, "the future is here". State what the thing does.
 - **No promises** you can't keep ("Part 2 tomorrow at 8").
@@ -77,8 +77,6 @@ Sports stories have no account yet. Leave them out.
 ```
 <fact line(s): what happened, the key number, when/where, who it affects>
 
-Send this to <a specific person who would care>.        <- only if there is a real send reason
-
 <one genuine question from readers' own lives>
 
 Full story on idly.news (link in bio).
@@ -98,8 +96,8 @@ Score each check 2 (strong), 1 (partly) or 0 (missing). Be honest. A generous sc
 |------------|-------|---------|
 | `hook`     | Hook | The stat and headline stop a scroll in about a second: a specific, surprising number or a clear stake. |
 | `read`     | Read-through | Every line earns the next. No filler. |
-| `send`     | Send reason | A specific person would forward it, and the caption names who ("Send this to …"). |
-| `keep`     | Keep reason | Worth saving: dates, prices, deadlines, specs, eligibility, where/when. |
+| `send`     | Send reason | A specific person would forward it because of what it says. Never ask for the send in the caption. |
+| `keep`     | Keep reason | Worth saving: dates, prices, deadlines, specs, eligibility, where/when. Never ask for the save. |
 | `reply`    | Reply prompt | One genuine question from readers' own lives, not bait. |
 | `original` | Original | Our synthesis and design, photo credited, nothing reposted. |
 | `alone`    | Stands alone | The card makes complete sense with no caption or context. |
@@ -203,7 +201,7 @@ Follow the image rules. Save it as `$W/photos/<account>-<id>.jpg`, and **open it
 - Every account needs an entry in `posts` or in `skipped`, with a reason. The report flags any account
   with no decision.
 - `score.total` must equal the sum of the 7 checks, and `notes` must say why each weak check is weak.
-- If `send` is 2, the caption must contain "Send this to …".
+- Captions never ask for a send or a save ("Send this to…", "Save this"). The publisher rejects them.
 - `collaborators` is optional and defaults to none (leave it `[]` or out). It takes up to 3 Instagram
   usernames, and Instagram invites them as collaborators on the whole post. Only add one when the founder
   asked for it for that post (e.g. a sister idly account). Never the posting account itself.
