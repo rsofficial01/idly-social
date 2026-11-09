@@ -1,12 +1,12 @@
 {
   "hook": 2,
   "read": 2,
-  "send": 1,
-  "keep": 1,
+  "send": 2,
+  "keep": 2,
   "reply": 2,
   "original": 2,
   "alone": 2,
-  "total": 12,
-  "notes": "The number plus 'worst in five years' is the hook. Who is at risk and for how long helps, but most Delhi readers already feel it, so Send is 1; nothing dated to save, so Keep is 1. Passes at the floor.",
+  "total": 14,
+  "notes": "Now a 2-slide carousel. Keep 2: slide 2 carries the CPCB AQI bands (301-400 very poor, 401-500 severe) to read any AQI app by, and the caption has Delhi's Diwali-day AQI for 2021-2026 (TOI/PTI, CPCB data). Send 2: the early-warning forecast of severe air for the next few days plus the at-risk groups (children, older adults, breathing or heart conditions) is what people forward to family. Facts: idly story 1655 and its Times of India source (14 of 51 stations severe on Monday morning, CPCB bands, EWS forecast, 2021-2025 Diwali AQI).",
   "story_id": 1655
 }
