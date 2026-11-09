@@ -2,9 +2,8 @@
 
 One-time connection check for Instagram posting. **Nothing was posted.**
 
-- Command: `python3 pipeline/publish.py check --no-refresh` (run in-process, same code path, so the ids and
-  usernames Meta returned could be recorded; output scrubbed of anything token-shaped)
-- Run at: 2026-11-09 18:05 UTC (23:35 IST), scheduled Claude cloud session
+- Command: `python3 pipeline/publish.py check --no-refresh`
+- Run at: 2026-11-09 18:29 UTC (23:59 IST), scheduled Claude cloud session
 - Exit code: 1 (not ok)
 - Graph API: v27.0
 - API calls made: one, `GET graph.facebook.com/v27.0/me?fields=id,name` (shared-token fallback). It
@@ -12,12 +11,13 @@ One-time connection check for Instagram posting. **Nothing was posted.**
   token.
 - `state/accounts.json`: **not changed** by the check (it still holds the five ids entered by hand at
   17:45 UTC), so it isn't part of this commit.
+- This replaces the report from the earlier check at 18:05 UTC today, which got the same result.
 
 ## Result: all five accounts failed
 
 None of the `IG_TOKEN_*` variables was set in this session, and neither was `IG_SYSTEM_TOKEN`. So every
-account fell back to the shared token on `graph.facebook.com`, and there's no network secret for that host
-either. Meta answered:
+account fell back to the shared token on `graph.facebook.com`. The agent proxy's status listed no Meta
+network secret either. Meta answered:
 
 > GET graph.facebook.com/me -> HTTP 400, code 2500: An active access token must be used to query
 > information about the current user.
@@ -34,6 +34,8 @@ Also checked: `IG_SYSTEM_TOKEN` present: no.
 
 ## Error per account (check output)
 
+The output had no token text in it (nothing to redact).
+
 ```
 @idlynews (shared token on graph.facebook.com): no access: set IG_TOKEN_IDLYNEWS, or add the shared network secret
 @idlytech (shared token on graph.facebook.com): no access: set IG_TOKEN_IDLYTECH, or add the shared network secret
@@ -46,9 +48,9 @@ ACCESS PROBLEM (shared token): Meta got no valid shared access token. In the Cla
 ## What to do
 
 1. Open the Claude cloud **environment this scheduled task runs in** and check that its *Environment
-   variables* has all five `IG_TOKEN_IDLY…` names spelled exactly like that. If you added them in a
-   different environment, or after this session started, they won't show up here. New values only reach
-   sessions started afterwards.
+   variables* has all five `IG_TOKEN_IDLY…` names spelled exactly like that. Two checks 24 minutes apart
+   both saw none of them, so they're most likely missing from this environment or saved in a different
+   one. New values only reach sessions started after you save them.
 2. Then run `python3 pipeline/publish.py check` again in a fresh session. Each account should say `ok`
    with its host, id and posts used. Commit `state/accounts.json` if the check updates it.
 3. Until then, the twice-daily runs will skip every account (RUNBOOK: "no access" means skip).
