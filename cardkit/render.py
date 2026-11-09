@@ -1,5 +1,10 @@
-"""cardkit.render: idly Instagram news cards (1080x1350) with a photo band.
+"""cardkit.render: idly Instagram news cards (1080x1350), in two templates.
 
+    render_cards(cards, out_dir)                    # 'classic' (default): one card per dict, below
+    render_cards(posts, out_dir, template='hype')   # 'hype': full-bleed photo covers + detail slides,
+                                                    #  one folder per post (see HYPE TEMPLATE below)
+
+CLASSIC TEMPLATE
 Layout (top to bottom)
     * Photo band, full-bleed (default 600px tall), with a soft fade into the card
       background. The ember tag pill sits on it at top-left; the photo credit sits
@@ -40,6 +45,35 @@ Usage
     python3 render.py cards.json /path/out           # CLI; cards.json is a list of card dicts
 
 Inside a running asyncio loop, use ``await render_cards_async(...)`` instead.
+
+HYPE TEMPLATE (template='hype')
+A Hypebeast-style post: a full-bleed photo cover, optionally followed by detail slides.
+    * Cover: the photo cropped to 4:5 around a focal point; the white branch logo small at
+      top-centre; the headline bottom-left in white Inter 800 (100px, stepping down to 72px
+      until it fits in 3 lines), 48px from the left and 60px from the bottom, over a bottom
+      gradient whose strength follows the photo's brightness; the photo credit in 15px white
+      at 60%, running up the right edge. Nothing else.
+    * Detail slide: near-black (#0E0E10); stat in Playfair italic 900 (ember), stat label,
+      2-3 bullets; footer with the branch logo, date and "idly.news".
+
+Post dict keys
+    acct, slug, date      as for classic cards
+    slides                list of slide dicts, in order. The first is normally the cover:
+        {'type': 'cover', 'headline': ..., 'photo': path, 'photo_credit': ...,
+         'focal': (x, y), 'zoom': 1.0}
+            focal  point of the source photo to centre the crop on, as fractions (0-1) of its
+                   width and height (default (0.5, 0.5)); the crop is clamped to the image
+            zoom   >1 crops tighter (default 1: the largest 4:5 crop the photo allows)
+        {'type': 'detail', 'stat': ..., 'stat_label': ..., 'bullets': [...]}
+  shorthand: a post with no 'slides' is a single cover built from its 'headline', 'photo',
+  'photo_credit', 'focal' and 'zoom' keys.
+
+Output: <out_dir>/<slug>/01.jpg, 02.jpg, ... (JPEG q92, RGB, 1080x1350) plus the PNG masters
+as <png_dir or out_dir>/<slug>/01.png, ...  Returns the JPEG paths. A warning is printed when a
+cover photo has to be upscaled (crop narrower than 1080px) or a headline does not fit; pass
+report=[] to get one dict per slide (fitted sizes, photo scale, overflow) for build checks.
+
+    python3 render.py posts.json OUT_DIR --hype      # CLI for the hype template
 """
 from __future__ import annotations
 
@@ -51,7 +85,7 @@ import shutil
 import sys
 import tempfile
 
-from PIL import Image
+from PIL import Image, ImageFilter, ImageOps, ImageStat
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONTS = os.path.join(HERE, 'fonts')
@@ -246,8 +280,292 @@ def _check(c: dict) -> None:
         raise FileNotFoundError(f"card {c['slug']}: photo not found: {c['photo']}")
 
 
-async def render_cards_async(cards: list[dict], out_dir: str, verbose: bool = True) -> list[str]:
-    """Render cards to <out_dir>/<slug>.png and .jpg. Returns the JPEG paths (Instagram takes JPEG only)."""
+# ------------------------------------------------------------------------------------------------
+# hype template
+# ------------------------------------------------------------------------------------------------
+HYPE_BG = '#0E0E10'
+HYPE_SIDE = 48                # cover headline: left margin
+HYPE_BOTTOM = 60              # cover headline: bottom margin
+HYPE_HEAD_W = W - HYPE_SIDE - 72   # headline column; leaves room for the credit on the right edge
+HYPE_FIT = dict(max=100, min=72, step=2, lines=3)
+HYPE_LOGO_H = 60
+DETAIL_SIDE = 72
+DETAIL_FIT = dict(stat=280, statMin=150, statMaxW=W - 2 * DETAIL_SIDE, label=38, labelMin=30,
+                  bullet=41, bulletMin=32)
+UPSCALE_WARN = 1.0            # warn when a cover crop is narrower than 1080px
+
+
+def _hype_crop(path: str, focal=(0.5, 0.5), zoom: float = 1.0) -> tuple[Image.Image, float]:
+    """Crop a photo to 4:5 around `focal` (fractions of width/height) and resize to 1080x1350.
+    Returns the image and the scale factor applied (>1 means the photo was upscaled)."""
+    with Image.open(path) as src:
+        im = ImageOps.exif_transpose(src).convert('RGB')
+    aspect = W / H
+    if im.width / im.height > aspect:
+        ch = im.height
+        cw = ch * aspect
+    else:
+        cw = im.width
+        ch = cw / aspect
+    zoom = max(1.0, float(zoom or 1.0))
+    cw, ch = cw / zoom, ch / zoom
+    fx, fy = focal or (0.5, 0.5)
+    left = min(max(fx * im.width - cw / 2, 0), im.width - cw)
+    top = min(max(fy * im.height - ch / 2, 0), im.height - ch)
+    crop = im.crop((round(left), round(top), round(left + cw), round(top + ch)))
+    scale = W / crop.width
+    crop = crop.resize((W, H), Image.LANCZOS)
+    if scale > 1.15:   # light sharpening after a real upscale
+        crop = crop.filter(ImageFilter.UnsharpMask(radius=1.4, percent=55, threshold=2))
+    return crop, scale
+
+
+def _lum(im: Image.Image, box: tuple) -> float:
+    return ImageStat.Stat(im.convert('L').crop(box)).mean[0]
+
+
+def _scrim_alpha(lum: float) -> float:
+    """Darkest point of the bottom gradient: subtle on dark photos, stronger on bright ones."""
+    return round(min(0.86, max(0.5, 0.42 + lum / 255 * 0.55)), 2)
+
+
+HYPE_CSS = """
+@font-face{font-family:'Inter';src:url('file://%(fonts)s/inter.ttf');font-weight:100 900}
+@font-face{font-family:'Playfair';src:url('file://%(fonts)s/playfair-italic.ttf');font-style:italic;font-weight:400 900}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:%(W)dpx;height:%(H)dpx;background:%(bg)s}
+.s{position:relative;width:%(W)dpx;height:%(H)dpx;overflow:hidden;background:%(bg)s;color:#fff;
+   font-family:Inter;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}
+
+/* cover */
+.ph{position:absolute;left:0;top:0;width:%(W)dpx;height:%(H)dpx;display:block}
+.topfade{position:absolute;left:0;right:0;top:0;height:280px;
+         background:linear-gradient(to bottom,rgba(0,0,0,%(top_a)s) 0%%,rgba(0,0,0,0) 100%%)}
+.scrim{position:absolute;left:0;right:0;bottom:0;height:640px;
+       background:linear-gradient(to top,rgba(0,0,0,%(a0)s) 0%%,rgba(0,0,0,%(a1)s) 24%%,rgba(0,0,0,%(a2)s) 48%%,
+                  rgba(0,0,0,%(a3)s) 70%%,rgba(0,0,0,%(a4)s) 87%%,rgba(0,0,0,0) 100%%)}
+.logo{position:absolute;top:50px;left:50%%;transform:translateX(-50%%);height:%(logo_h)dpx;width:auto;display:block;
+      filter:drop-shadow(0 0 1.5px rgba(0,0,0,%(logo_edge)s)) drop-shadow(0 1px 12px rgba(0,0,0,%(logo_glow)s))}
+.credit{position:absolute;right:20px;bottom:%(bottom)dpx;writing-mode:vertical-rl;transform:rotate(180deg);
+        font:500 15px/1 Inter;letter-spacing:.2px;color:rgba(255,255,255,.6);white-space:nowrap;
+        text-shadow:0 0 8px rgba(0,0,0,.35)}
+.head{position:absolute;left:%(side)dpx;bottom:%(bottom)dpx;width:%(head_w)dpx;font-weight:800;font-size:100px;
+      line-height:1.0;letter-spacing:-.034em;color:#fff;text-wrap:balance;
+      text-shadow:0 2px 28px rgba(0,0,0,.22)}
+
+/* detail */
+.d .body{position:absolute;left:%(dside)dpx;right:%(dside)dpx;top:110px;bottom:190px;
+         display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+.d .stat{align-self:flex-start;font-family:Playfair;font-style:italic;font-weight:900;line-height:.95;
+         letter-spacing:-.02em;padding-right:28px;color:%(ember)s;white-space:nowrap}
+.d .slabel{font:600 38px/1.22 Inter;color:rgba(255,255,255,.78);margin-top:22px;max-width:936px;text-wrap:balance}
+.d .rule{height:3px;width:96px;background:rgba(255,255,255,.85);margin:40px 0 36px;flex:none}
+.d ul{list-style:none}
+.d li{font:500 41px/1.26 Inter;padding-left:40px;position:relative;margin-bottom:22px;max-width:936px;text-wrap:pretty}
+.d li:last-child{margin-bottom:0}
+.d li:before{content:'';position:absolute;left:0;top:.45em;width:15px;height:15px;background:%(ember)s;border-radius:2px}
+.d .foot{position:absolute;left:%(dside)dpx;right:%(dside)dpx;bottom:56px}
+.d .foot .line{height:2px;background:rgba(255,255,255,.18);margin-bottom:24px}
+.d .foot .row{display:flex;align-items:center}
+.d .foot img{height:58px;width:auto;display:block}
+.d .foot .date{font:600 24px/1 Inter;color:rgba(255,255,255,.6);margin-left:22px;padding-left:22px;
+               border-left:2px solid rgba(255,255,255,.6);height:30px;display:flex;align-items:center}
+.d .foot .site{margin-left:auto;font:800 27px/1 Inter;letter-spacing:-.5px}
+"""
+
+# cover: step the headline down until it fits in `lines` lines and no word overflows the column
+HYPE_COVER_JS = """
+(o) => {
+  const h = document.getElementById('head');
+  const lh = () => parseFloat(getComputedStyle(h).lineHeight);
+  const lines = () => Math.round(h.getBoundingClientRect().height / lh());
+  const wide = () => h.scrollWidth > h.clientWidth + 1;
+  let s = o.max;
+  h.style.fontSize = s + 'px';
+  while ((lines() > o.lines || wide()) && s > o.min) { s -= o.step; h.style.fontSize = s + 'px'; }
+  const r = h.getBoundingClientRect();
+  // the gradient starts ~320px above the headline's first line
+  const scrim = document.querySelector('.scrim');
+  scrim.style.height = Math.min(1100, Math.max(560, (1350 - r.top) + 320)) + 'px';
+  return {size: s, lines: lines(), overflow: lines() > o.lines || wide(), top: Math.round(r.top)};
+}
+"""
+
+# detail: stat no wider than the column, then shrink stat/label/bullets until the body fits
+HYPE_DETAIL_JS = """
+(o) => {
+  const body = document.querySelector('.body');
+  const stat = document.getElementById('stat');
+  const lab = document.querySelector('.slabel');
+  const lis = Array.from(document.querySelectorAll('li'));
+  const over = () => body.scrollHeight > body.clientHeight + 1;
+  let s = o.stat, l = o.label, b = o.bullet;
+  const set = () => { if (stat) stat.style.fontSize = s + 'px'; if (lab) lab.style.fontSize = l + 'px';
+                      lis.forEach(li => li.style.fontSize = b + 'px'); };
+  set();
+  if (stat) while (stat.getBoundingClientRect().width > o.statMaxW && s > 80) { s -= 4; set(); }
+  while (over()) {
+    if (stat && s > o.statMin) s -= 6;
+    else if (b > o.bulletMin) b -= 1;
+    else if (l > o.labelMin) l -= 1;
+    else break;
+    set();
+  }
+  return {stat: stat ? s : 0, label: l, bullet: b, overflow: over()};
+}
+"""
+
+
+def _hype_slides(post: dict) -> list[dict]:
+    if post.get('slides'):
+        return post['slides']
+    return [dict(type='cover', headline=post.get('headline'), photo=post.get('photo'),
+                 photo_credit=post.get('photo_credit'), focal=post.get('focal'), zoom=post.get('zoom'))]
+
+
+def _hype_css(**kw) -> str:
+    base = dict(fonts=FONTS, W=W, H=H, bg=HYPE_BG, ember=EMBER, side=HYPE_SIDE, bottom=HYPE_BOTTOM,
+                head_w=HYPE_HEAD_W, logo_h=HYPE_LOGO_H, dside=DETAIL_SIDE, top_a=0, logo_edge=0, logo_glow=.3,
+                a0=0, a1=0, a2=0, a3=0, a4=0)
+    base.update(kw)
+    return HYPE_CSS % base
+
+
+def hype_cover_html(post: dict, slide: dict, photo_file: str, bottom_lum: float, top_lum: float) -> str:
+    """HTML for a cover slide. `photo_file` is the already-cropped 1080x1350 image."""
+    a = _scrim_alpha(bottom_lum)
+    stops = dict(a0=a, a1=round(a * .84, 3), a2=round(a * .55, 3), a3=round(a * .25, 3), a4=round(a * .07, 3))
+    top_a = 0.40 if top_lum > 150 else (0.22 if top_lum > 90 else 0.08)
+    # a bright patch behind the logo gets a crisper, darker shadow so the white lockup still reads
+    logo_edge, logo_glow = (0.35, 0.55) if top_lum > 150 else ((0.2, 0.4) if top_lum > 110 else (0, 0.3))
+    css = _hype_css(top_a=top_a, logo_edge=logo_edge, logo_glow=logo_glow, **stops)
+    logo = os.path.join(LOGOS, f"{LOGO_FILE[post['acct']]}_white.png")
+    credit = f"<div class='credit'>{_esc(slide['photo_credit'])}</div>" if slide.get('photo_credit') else ''
+    return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
+<div class='s c'>
+  <img class='ph' src='file://{html.escape(photo_file)}'>
+  <div class='topfade'></div><div class='scrim'></div>
+  <img class='logo' src='file://{logo}'>
+  {credit}
+  <div class='head' id='head'>{_esc(slide['headline'])}</div>
+</div></body></html>"""
+
+
+def hype_detail_html(post: dict, slide: dict) -> str:
+    """HTML for a near-black detail slide (stat, label, bullets, footer)."""
+    css = _hype_css()
+    logo = os.path.join(LOGOS, f"{LOGO_FILE[post['acct']]}_white.png")
+    stat = (f"<div class='stat' id='stat'>{_esc(slide['stat'])}</div>" if (slide.get('stat') or '').strip() else '')
+    label = f"<div class='slabel'>{_esc(slide['stat_label'])}</div>" if slide.get('stat_label') else ''
+    rule = "<div class='rule'></div>" if (stat or label) and slide.get('bullets') else ''
+    bullets = ''.join(f'<li>{_esc(b)}</li>' for b in slide.get('bullets', []))
+    return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
+<div class='s d'>
+  <div class='body'>{stat}{label}{rule}<ul>{bullets}</ul></div>
+  <div class='foot'><div class='line'></div><div class='row'>
+    <img src='file://{logo}'><div class='date'>{_esc(post['date'])}</div><div class='site'>idly.news</div>
+  </div></div>
+</div></body></html>"""
+
+
+def _check_hype(p: dict) -> None:
+    for k in ('acct', 'slug'):
+        if not p.get(k):
+            raise ValueError(f"post {p.get('slug', '?')}: missing {k!r}")
+    if p['acct'] not in LOGO_FILE:
+        raise ValueError(f"post {p['slug']}: unknown acct {p['acct']!r}")
+    slides = _hype_slides(p)
+    if not 1 <= len(slides) <= 10:
+        raise ValueError(f"post {p['slug']}: needs 1-10 slides")
+    for i, s in enumerate(slides, 1):
+        kind = s.get('type', 'cover')
+        if kind == 'cover':
+            if not s.get('headline'):
+                raise ValueError(f"post {p['slug']} slide {i}: cover needs a headline")
+            if not s.get('photo') or not os.path.isfile(s['photo']):
+                raise FileNotFoundError(f"post {p['slug']} slide {i}: photo not found: {s.get('photo')}")
+        elif kind == 'detail':
+            if not p.get('date'):
+                raise ValueError(f"post {p['slug']}: detail slides need the post 'date'")
+            if not (s.get('stat') or s.get('bullets')):
+                raise ValueError(f"post {p['slug']} slide {i}: detail needs a stat or bullets")
+        else:
+            raise ValueError(f"post {p['slug']} slide {i}: unknown slide type {kind!r}")
+
+
+async def _render_hype(posts: list[dict], out_dir: str, verbose: bool, png_dir: str | None,
+                       report: list | None = None) -> list[str]:
+    from playwright.async_api import async_playwright
+
+    for p in posts:
+        _check_hype(p)
+    png_dir = png_dir or out_dir
+    tmp = tempfile.mkdtemp(prefix='cardkit_hype_')
+    written = []
+    try:
+        async with async_playwright() as pw:
+            browser = await pw.chromium.launch(executable_path=_chrome(),
+                                               args=['--no-sandbox', '--allow-file-access-from-files'])
+            page = await browser.new_page(viewport={'width': W, 'height': H}, device_scale_factor=1)
+            for p in posts:
+                jdir, pdir = os.path.join(out_dir, p['slug']), os.path.join(png_dir, p['slug'])
+                os.makedirs(jdir, exist_ok=True)
+                os.makedirs(pdir, exist_ok=True)
+                for i, s in enumerate(_hype_slides(p), 1):
+                    kind = s.get('type', 'cover')
+                    src = os.path.join(tmp, f"{p['slug']}_{i:02d}.html")
+                    if kind == 'cover':
+                        crop, scale = _hype_crop(s['photo'], s.get('focal') or (0.5, 0.5), s.get('zoom') or 1.0)
+                        photo_file = os.path.join(tmp, f"{p['slug']}_{i:02d}_photo.png")
+                        crop.save(photo_file)
+                        bottom = _lum(crop, (0, H - 520, W - 80, H))
+                        top = _lum(crop, (330, 0, 750, 170))
+                        doc = hype_cover_html(p, s, photo_file, bottom, top)
+                    else:
+                        doc = hype_detail_html(p, s)
+                    with open(src, 'w', encoding='utf-8') as f:
+                        f.write(doc)
+                    await page.goto('file://' + src)
+                    await page.evaluate('document.fonts.ready')
+                    await page.wait_for_function("Array.from(document.images).every(i => i.complete)")
+                    if kind == 'cover':
+                        info = await page.evaluate(HYPE_COVER_JS, HYPE_FIT)
+                        msg = (f"cover head {info['size']}px x{info['lines']} lines, photo scale {scale:.2f}"
+                               f", scrim {_scrim_alpha(bottom)}")
+                        if scale > UPSCALE_WARN:
+                            msg += f"  UPSCALED {scale:.2f}x (crop {round(W / scale)}px wide)"
+                    else:
+                        info = await page.evaluate(HYPE_DETAIL_JS, DETAIL_FIT)
+                        msg = f"detail stat {info['stat']}px label {info['label']}px bullets {info['bullet']}px"
+                    if info.get('overflow'):
+                        msg += '  OVERFLOW!'
+                    png = os.path.join(pdir, f'{i:02d}.png')
+                    jpg = os.path.join(jdir, f'{i:02d}.jpg')
+                    await page.screenshot(path=png, clip={'x': 0, 'y': 0, 'width': W, 'height': H})
+                    with Image.open(png) as im:
+                        im.convert('RGB').save(jpg, 'JPEG', quality=JPEG_QUALITY, subsampling=0, optimize=True)
+                    written.append(jpg)
+                    if report is not None:
+                        report.append(dict(info, slug=p['slug'], slide=i, type=kind, jpg=jpg,
+                                           scale=round(scale, 3) if kind == 'cover' else None))
+                    if verbose:
+                        print(f"[cardkit:hype] {p['slug']}/{i:02d}: {msg}")
+            await browser.close()
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    return written
+
+
+async def render_cards_async(cards: list[dict], out_dir: str, verbose: bool = True,
+                             template: str = 'classic', png_dir: str | None = None,
+                             report: list | None = None) -> list[str]:
+    """Render cards (classic) or posts (template='hype'). Returns the JPEG paths (Instagram takes JPEG only).
+    classic: <out_dir>/<slug>.png and .jpg.  hype: <out_dir>/<slug>/NN.jpg, PNGs in <png_dir or out_dir>/<slug>/.
+    hype only: pass a list as `report` to get one dict per slide (fitted sizes, photo scale, overflow)."""
+    if template == 'hype':
+        return await _render_hype(cards, out_dir, verbose, png_dir, report)
+    if template != 'classic':
+        raise ValueError(f'unknown template {template!r}')
     from playwright.async_api import async_playwright
 
     for c in cards:
@@ -286,18 +604,21 @@ async def render_cards_async(cards: list[dict], out_dir: str, verbose: bool = Tr
     return written
 
 
-def render_cards(cards: list[dict], out_dir: str, verbose: bool = True) -> list[str]:
+def render_cards(cards: list[dict], out_dir: str, verbose: bool = True,
+                 template: str = 'classic', png_dir: str | None = None,
+                 report: list | None = None) -> list[str]:
     """Synchronous wrapper around render_cards_async (do not call from inside a running event loop)."""
-    return asyncio.run(render_cards_async(cards, out_dir, verbose))
+    return asyncio.run(render_cards_async(cards, out_dir, verbose, template, png_dir, report))
 
 
 def main(argv: list[str]) -> int:
-    if len(argv) != 3:
-        print('usage: python3 render.py cards.json OUT_DIR', file=sys.stderr)
+    args = [a for a in argv[1:] if a != '--hype']
+    if len(args) != 2:
+        print('usage: python3 render.py cards.json OUT_DIR [--hype]', file=sys.stderr)
         return 2
-    with open(argv[1], encoding='utf-8') as f:
+    with open(args[0], encoding='utf-8') as f:
         cards = json.load(f)
-    for path in render_cards(cards, argv[2]):
+    for path in render_cards(cards, args[1], template='hype' if '--hype' in argv else 'classic'):
         print(path)
     return 0
 

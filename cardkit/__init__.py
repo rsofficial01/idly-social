@@ -1,6 +1,9 @@
-"""cardkit: renders idly's 1080x1350 Instagram news cards (photo band + stat + headline + bullets).
+"""cardkit: renders idly's 1080x1350 Instagram news cards.
 
     from cardkit import render_cards
-    render_cards(cards, '/path/out')   # see cardkit/render.py for the card dict format
+    render_cards(cards, '/path/out')                   # classic: photo band + stat + headline + bullets
+    render_cards(posts, '/path/out', template='hype')  # hype: full-bleed photo cover + detail slides
+    # see cardkit/render.py for the card and post dict formats
 """
-from .render import render_cards, render_cards_async, card_html  # noqa: F401
+from .render import (render_cards, render_cards_async, card_html,  # noqa: F401
+                     hype_cover_html, hype_detail_html)
