@@ -507,7 +507,7 @@ def gate(score: dict | None, force_below_gate: bool) -> bool:
 def publish_post(account: str, media: list[str], caption: str, *, score: dict | None, story_id: int | None,
                  date: str | None = None, slot: str | None = None, alt_text: str = "",
                  collaborators: list[str] | None = None, dry_run: bool = False,
-                 force_below_gate: bool = False) -> dict:
+                 force_below_gate: bool = False, idly_article: bool = True) -> dict:
     """Publish one image, or a 2-10 item carousel (images and/or .mp4/.mov videos).
     Returns {status, media_id, permalink, ...}."""
     if account not in ACCOUNTS:
@@ -515,7 +515,7 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
     if not 1 <= len(media) <= MAX_ITEMS:
         raise ValueError(f"need 1 image, or 2-{MAX_ITEMS} items for a carousel")
     collaborators = clean_collaborators(collaborators, account)
-    errs, warns = editorial.post_problems(caption, score)
+    errs, warns = editorial.post_problems(caption, score, idly_article=idly_article)
     if errs:
         raise GateRefused("refused: caption problems: " + "; ".join(errs))
     for w in warns:
@@ -744,6 +744,8 @@ def main(argv=None) -> int:
     p.add_argument("--date")
     p.add_argument("--slot", choices=["am", "pm"])
     p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--no-idly-article", action="store_true",
+                   help="the post has no idly.news article: caption must list Sources and not point to idly.news")
     p.add_argument("--force-below-gate", action="store_true",
                    help="MANUAL USE ONLY: publish a post scoring under 12/14 (loud, logged)")
     c = sub.add_parser("check", help="every account: token, id, host, publishing limit, token expiry")
@@ -758,7 +760,8 @@ def main(argv=None) -> int:
                 args.account, args.media, args.caption_file.read_text(encoding="utf-8").strip(),
                 score=json.loads(args.score_file.read_text(encoding="utf-8")), story_id=args.story_id,
                 date=args.date, slot=args.slot, alt_text=args.alt_text, collaborators=args.collaborator,
-                dry_run=args.dry_run, force_below_gate=args.force_below_gate)
+                dry_run=args.dry_run, force_below_gate=args.force_below_gate,
+                idly_article=not args.no_idly_article)
             print(json.dumps(result, indent=2))
         elif args.cmd == "check":
             report = check_accounts(online=not args.offline, expiry=not args.no_refresh)

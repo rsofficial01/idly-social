@@ -128,12 +128,19 @@ HYPE = [
 ALLEGATION_WORDS = r"\b(accused|charged|arrested|fraud|scam|bribe\w*|murder\w*|rape\w*|assault\w*|harass\w*|molest\w*|corrupt\w*|launder\w*|cheat\w*|theft|stole)\b"
 
 
-def caption_problems(caption: str) -> tuple[list[str], list[str]]:
+def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[str], list[str]]:
+    """idly_article=False is for a post with no idly.news article behind it (e.g. a founder-requested
+    special): the caption must then NOT point to idly.news and must list its sources instead."""
     errs, warns = [], []
     text = caption or ""
     lines = [l.strip() for l in text.splitlines() if l.strip()]
-    if LINK_LINE not in text:
+    if idly_article and LINK_LINE not in text:
         errs.append(f"missing the line: {LINK_LINE}")
+    if not idly_article:
+        if re.search(r"idly\.news|link in bio", text, re.I):
+            errs.append("no idly.news article: the caption must not send readers to idly.news or the bio link")
+        if not any(l.startswith("Sources:") for l in lines):
+            errs.append("no idly.news article: the caption needs a 'Sources: …' line")
     if not any(re.match(r"Photo:\s*\S", l) for l in lines):
         errs.append("missing a 'Photo: …' credit line")
     if re.search(r"\bfrom \d+ reports?\b", text, re.I):
@@ -201,7 +208,7 @@ def gate_message(score: dict | None) -> str:
     return f"score {score_total(score)}/{SCORE_MAX} (gate {GATE})"
 
 
-def post_problems(caption: str, score: dict | None) -> tuple[list[str], list[str]]:
+def post_problems(caption: str, score: dict | None, *, idly_article: bool = True) -> tuple[list[str], list[str]]:
     """Caption checks plus the cross-checks between the caption and the score."""
-    errs, warns = caption_problems(caption)
+    errs, warns = caption_problems(caption, idly_article=idly_article)
     return errs, warns

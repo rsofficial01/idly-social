@@ -92,6 +92,13 @@ class Caption(unittest.TestCase):
             errs, _ = editorial.post_problems(GOOD_CAPTION.replace("You get", line + "\n\nYou get"), GOOD_SCORE)
             self.assertTrue(any("engagement bait" in e for e in errs), line)
 
+    def test_no_idly_article_caption(self):
+        cap = GOOD_CAPTION.replace("Full story on idly.news (link in bio).", "Sources: CNBC, Yahoo Finance.")
+        self.assertEqual(editorial.caption_problems(cap, idly_article=False)[0], [])
+        errs, _ = editorial.caption_problems(GOOD_CAPTION, idly_article=False)
+        self.assertTrue(any("must not send readers" in e for e in errs))
+        self.assertTrue(any("missing the line" in e for e in editorial.caption_problems(cap)[0]))
+
     def test_send_two_needs_no_send_line(self):
         errs, _ = editorial.post_problems(GOOD_CAPTION, GOOD_SCORE)
         self.assertEqual(errs, [])
