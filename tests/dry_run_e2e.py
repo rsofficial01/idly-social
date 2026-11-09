@@ -119,8 +119,8 @@ def main():
         print(f"\ncardkit not importable ({e}); using the PIL stand-in card")
         run_day.RENDERER = stub_renderer
 
-    print("\n=== token check (offline: tokens not set yet) ===")
-    run_day.main(["--date", date, "--slot", slot, "tokens", "--offline"])
+    print("\n=== Meta access check (offline: no API calls) ===")
+    run_day.main(["--date", date, "--slot", slot, "check", "--offline"])
 
     print("\n=== 3-5. run_day dry-run (render -> publish --dry-run -> report) ===")
     code = run_day.main(["--date", date, "--slot", slot, "dry-run"])

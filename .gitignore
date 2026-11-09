@@ -1,4 +1,4 @@
-# secrets: never commit tokens (publish.py refresh writes to state/secrets/)
+# secrets: never commit tokens (Meta's token is a network secret; IG_SYSTEM_TOKEN stays in the shell)
 state/secrets/
 .env
 .env.*
@@ -13,4 +13,4 @@ _work/
 # posts/ keeps only the JPEGs Instagram fetches
 posts/**/*.png
 
-# committed on purpose: posts/**/*.jpg, state/posted.json, reports/
+# committed on purpose: posts/**/*.jpg, state/posted.json, state/accounts.json (ids only), reports/

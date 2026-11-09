@@ -11,7 +11,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 STATE_DIR = REPO / "state"
 POSTED_FILE = STATE_DIR / "posted.json"
-SECRETS_DIR = STATE_DIR / "secrets"          # gitignored; only `publish.py refresh` writes here
+ACCOUNTS_FILE = STATE_DIR / "accounts.json"  # committed: username -> Instagram account id, nothing secret
 POSTS_DIR = REPO / "posts"                   # committed; served publicly via raw.githubusercontent.com
 REPORTS_DIR = REPO / "reports"
 WORK_DIR = REPO / "_work"                    # gitignored scratch space, one folder per run
@@ -22,7 +22,14 @@ IMAGE_BASE = os.environ.get(
 
 IST = timezone(timedelta(hours=5, minutes=30), "IST")
 
-# Instagram account -> idly category and the username its token must belong to.
+# Meta access: ONE system-user access token (Facebook Login for Business) covers all five accounts.
+# In the Claude cloud environment it is a network secret: the agent proxy adds the Authorization header
+# to requests for graph.facebook.com, so the token is never in this process. Elsewhere, IG_SYSTEM_TOKEN.
+TOKEN_ENV = "IG_SYSTEM_TOKEN"
+META_APP_ID = "1533702778969280"             # "idly publisher" (not secret)
+BUSINESS_ID = os.environ.get("IG_BUSINESS_ID", "1165348135833967")   # business portfolio (not secret)
+
+# Instagram account -> idly category and the Instagram username it must resolve to.
 ACCOUNTS: dict[str, dict] = {
     "idlynews":       {"category": "news",       "username": "idlynews"},
     "idlytech":       {"category": "tech",       "username": "idlytech"},
@@ -31,15 +38,6 @@ ACCOUNTS: dict[str, dict] = {
     "idlynerd":       {"category": "nerd",       "username": "idlynerd"},
 }
 CATEGORY_TO_ACCOUNT = {v["category"]: k for k, v in ACCOUNTS.items()}  # sports: no account yet
-
-
-def token_env(account: str) -> str:
-    return f"IG_TOKEN_{account.upper()}"
-
-
-def expiry_env(account: str) -> str:
-    """Optional, non-secret: the token's expiry date (YYYY-MM-DD), used for the 10-day warning."""
-    return f"IG_TOKEN_EXPIRES_{account.upper()}"
 
 
 # ---- time -----------------------------------------------------------------
@@ -123,6 +121,26 @@ def append_posted(entry: dict) -> None:
     posted = load_posted()
     posted.append(entry)
     save_json(POSTED_FILE, posted)
+
+
+# ---- Instagram account ids (state/accounts.json) ------------------------------------
+
+def load_account_ids() -> dict[str, str]:
+    """Cached {account: Instagram professional account id}; empty until `publish.py check` discovers them."""
+    doc = load_json(ACCOUNTS_FILE, default={}) or {}
+    return {k: str(v["id"]) for k, v in (doc.get("accounts") or {}).items()
+            if k in ACCOUNTS and isinstance(v, dict) and v.get("id")}
+
+
+def save_account_ids(found: dict[str, dict], via: list[str]) -> None:
+    """Commit-safe on purpose: only account ids, usernames, which lookup found them, and when.
+    Accounts not found this time keep their old entry (publishing re-checks every id before use)."""
+    old = (load_json(ACCOUNTS_FILE, default={}) or {}).get("accounts") or {}
+    merged = {k: v for k, v in old.items() if k in ACCOUNTS}
+    merged.update({k: {"id": str(v["id"]), "username": v["username"]} for k, v in found.items()})
+    doc = {"updated_at": now_utc().isoformat(timespec="seconds"), "via": via,
+           "accounts": dict(sorted(merged.items()))}
+    save_json(ACCOUNTS_FILE, doc)
 
 
 # ---- logging ----------------------------------------------------------------

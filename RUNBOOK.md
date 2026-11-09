@@ -13,9 +13,11 @@ Sports stories have no account yet. Leave them out.
 
 ## Hard rules (never break these)
 
-1. **Secrets.** Never print, echo, log, paste or commit a token. Don't run `env`, `printenv` or `set`.
-   Don't `cat` anything in `state/secrets/`. Tokens only travel in the `Authorization: Bearer` header,
-   and the code handles that.
+1. **Secrets.** The Meta token is a network secret: the agent proxy adds it to requests for
+   `graph.facebook.com`, and you never see it. Don't look for it, and never print, echo, log, paste or
+   commit a token. Don't run `env`, `printenv` or `set`. Don't call `graph.facebook.com` by hand (curl
+   etc.): use the pipeline commands, which never print Meta's raw responses (Meta's paging links can
+   carry the token).
 2. **The gate.** Nothing below **12/14** on the 7-check score goes out. Never use `--force-below-gate`.
    It is for a human doing a manual post, not for this run.
 3. **Only this.** Publish only feed posts through `pipeline/run_day.py`. No stories, reels, comments, DMs,
@@ -127,16 +129,22 @@ pip install -r requirements.txt     # plus whatever cardkit/ needs
 python3 -m unittest discover -s tests -t . -q
 ```
 
-### 2. Fetch candidates and check tokens
+### 2. Fetch candidates and check Meta access
 
 ```bash
 $R fetch       # -> $W/candidates.json (top 5 per account, [REVIEW] flags, excluded list)
-$R tokens      # -> $W/tokens.json (set? right account? quota? days to expiry?)
+$R check       # -> $W/check.json (finds the 5 account ids, reachable? publishing limit?)
 ```
 
-- An account whose token is **not set or invalid**: skip it (reason: "token not set" or "token problem").
-- If **no** account has a working token, still do steps 3–6. Then run `$R dry-run` in place of steps 7–10,
-  commit nothing, and send the summary marked DRY RUN.
+`check` needs no token in the environment: the network secret supplies it. It finds each account's
+Instagram id (and saves them to `state/accounts.json`), checks each id is the right account, and reads
+the publishing limit (we stop at 25 posts per 24 h).
+
+- An account marked **not found**, **not reachable** or **publishing limit reached**: skip it, with that
+  reason.
+- **ACCESS PROBLEM** (no account reachable): still do steps 3–6. Then run `$R dry-run` in place of
+  steps 7–10, commit nothing, and send the summary marked DRY RUN with the access problem in it. The
+  founder has to fix the setup ([Meta access](#meta-access-one-time-setup)); you can't.
 
 ### 3. Pick a story per account
 
@@ -172,6 +180,7 @@ Follow the image rules. Save it as `$W/photos/<account>-<id>.jpg`, and **open it
       }],
       "caption": "…",
       "alt_text": "A smartphone showing a recharge screen, with the card text: …",
+      "collaborators": [],
       "photo_source": {"page": "https://commons.wikimedia.org/wiki/File:…", "licence": "CC BY-SA 4.0",
                        "author": "Jane Doe", "viewed": true},
       "score": {"hook": 2, "read": 2, "send": 2, "keep": 2, "reply": 2, "original": 2, "alone": 1,
@@ -193,6 +202,9 @@ Follow the image rules. Save it as `$W/photos/<account>-<id>.jpg`, and **open it
   with no decision.
 - `score.total` must equal the sum of the 7 checks, and `notes` must say why each weak check is weak.
 - If `send` is 2, the caption must contain "Send this to …".
+- `collaborators` is optional and defaults to none (leave it `[]` or out). It takes up to 3 Instagram
+  usernames, and Instagram invites them as collaborators on the whole post. Only add one when the founder
+  asked for it for that post (e.g. a sister idly account). Never the posting account itself.
 - If nothing goes out at all, write `"posts": []` and still run steps 7 and 11 so the report exists.
 
 ### 7. Render and stage
@@ -231,6 +243,9 @@ If a URL never goes live, `publish` skips that account and the report says why.
 $R publish     # per account: right account? quota < 25/24h? container -> FINISHED -> publish -> permalink
 ```
 
+It calls `graph.facebook.com` (Graph API v27.0) with no credentials of its own; the network secret
+adds them.
+
 It writes `state/posted.json` after every post. Re-running it is safe: an account already posted in this
 slot is skipped.
 
@@ -238,7 +253,7 @@ slot is skipped.
 
 ```bash
 $R report      # -> reports/$DATE-$SLOT.md, and prints the summary
-git add state/posted.json reports/
+git add state/posted.json state/accounts.json reports/
 git commit -m "run: $DATE $SLOT"
 git pull --rebase origin main && git push origin HEAD:main
 ```
@@ -249,14 +264,14 @@ until it lands. If it never lands, say so in the summary.
 ### 12. Send the summary
 
 End the session with a short message: the summary that `report` printed. It covers what went live
-(with permalinks and scores), what was skipped and why (with best scores), and any token that expires
-within 10 days or has a problem. Example:
+(with permalinks and scores), what was skipped and why (with best scores), and any Meta access problem.
+Example:
 
 ```
 idly Instagram, Mon 9 Nov 2026, pm run (6:40 PM IST)
 Live: @idlytech 13/14 https://www.instagram.com/p/… · @idlyautomotive 12/14 https://www.instagram.com/p/…
 Skipped: @idlynews: no story reached 12 (best 11/14) · @idlyhype: festival greeting (gossip rule) · @idlynerd: no usable photo
-Tokens: @idlynerd: token expires in 6 days (2026-11-15): refresh it
+Access: @idlynerd: not found by discovery
 ```
 
 ## When things go wrong
@@ -267,5 +282,77 @@ Tokens: @idlynerd: token expires in 6 days (2026-11-15): refresh it
 | cardkit fails | Skip the affected accounts and say so. Don't hand-make cards. |
 | One account fails at Instagram | The others continue. The report shows `failed` and Meta's error. |
 | Quota hit (25 posts in 24 h) | That account is skipped. |
-| Token expires within 10 days | Put it in the summary. Refreshing is manual (`python3 pipeline/publish.py refresh --account X` writes the new token to `state/secrets/`). A human then updates the environment's `IG_TOKEN_X` and `IG_TOKEN_EXPIRES_X`. |
+| `ACCESS PROBLEM` / code 190 or 2500 ("An active access token must be used") | The network secret is missing, was added to a different environment, or the token was revoked. Dry run only; put it in the summary for the founder ([Meta access](#meta-access-one-time-setup)). |
+| `not found by discovery` | None of the lookups returned that username. `check` lists each lookup and its error. The founder adds the account as an asset of the system user (or the login configuration), then you run `$R check` again. |
+| Permission error (code 10 or 200) | A lookup or a post needs a permission the login configuration lacks (see the note under [Meta access](#meta-access-one-time-setup)). Put Meta's message in the summary. |
+| "appsecret_proof" error | The Meta app has *Require app secret* switched on, which a network secret can't satisfy. The founder switches it off in the app's Advanced settings. |
 | Crash halfway | Re-run the step. `render` overwrites the plan, `publish` skips posted accounts, `report` rewrites the report. |
+
+---
+
+## Meta access (one-time setup)
+
+For the founder, not the scheduled run. The scheduled run can't see or change any of this.
+
+**What Meta gives us.** The Meta app **idly publisher** (app id `1533702778969280`, business portfolio
+`1165348135833967`) uses **API setup with Unified login** (Meta no longer offers *API setup with
+Instagram login* to newer apps):
+
+- Facebook Login for Business, with a configuration whose token type is a **system-user access token**
+  that never expires.
+- Business assets: the **Instagram accounts** @idlynews, @idlytech, @idlyhype, @idlyautomotive, @idlynerd.
+- Permissions: `instagram_basic`, `instagram_content_publish`. The template also adds `ads_management`,
+  `ads_read`, `instagram_manage_comments`, `instagram_manage_messages`; we don't use them.
+
+That is **one token for all five accounts**. The pipeline calls `graph.facebook.com` with it.
+
+**Store the token as a network secret.** It then never enters a Claude session: Anthropic's agent proxy
+adds it to each request for `graph.facebook.com` after the request leaves the session.
+
+1. **[browser]** Open [claude.ai/code](https://claude.ai/code).
+2. **[browser]** Open the **environment selector** (the first control in the row under the message box).
+   Hover over the environment the scheduled idly run uses and select its **gear (settings) icon**. The
+   *Edit cloud environment* dialog opens.
+3. **[browser]** In the **Network secrets** section, select **Add secret**.
+4. **[browser]** Keep **Secret type: Bearer** and fill in:
+   - **Name**: `Meta idly publisher`
+   - **Allowed websites**: `graph.facebook.com`
+   - **Custom headers**: Name `Authorization`, Prefix `Bearer`, and paste the system-user access token as
+     the **Value**.
+5. **[browser]** Select **Add**. It saves straight away (no *Save changes* needed), and the value can't be
+   viewed again. To change it later, delete the secret and add it again.
+
+On a Team plan without an organization admin role, **Add secret** opens a shorter form instead: **Host**
+`graph.facebook.com`, **Secret type** *Token*, and the token as the **Value**.
+
+Do **not** put the token in the environment's *Environment variables*: every session can read those.
+The scheduled task must run in the **same environment** that has the secret.
+
+**Check it worked.**
+
+6. **[Claude Code]** Start a session in that environment and ask Claude to run
+   `python3 pipeline/publish.py check`. You want `ok` for all five accounts, with an id and the posts used
+   in the last 24 h. Then commit `state/accounts.json` (ids and usernames only).
+7. If it says `ACCESS PROBLEM`, the secret isn't reaching Meta: check the host is exactly
+   `graph.facebook.com`, the session runs in the environment that has the secret, and the secret isn't
+   marked **Not sent** in the list (the note under it says why).
+
+**How `check` finds the accounts.** It tries these in order and caches whatever works in
+`state/accounts.json`:
+
+1. `GET /me?fields=id,name`: who the token is (the system user).
+2. `GET /me/assigned_instagram_accounts`: Instagram accounts assigned to the system user.
+3. `GET /1165348135833967/owned_instagram_accounts`, then `GET /1165348135833967/instagram_accounts`:
+   Instagram accounts that are assets of the business portfolio.
+4. `GET /me/accounts?fields=instagram_business_account{id,username}`: accounts linked to a Facebook Page.
+
+If a lookup fails with a permission error, `check` shows Meta's message. Meta's docs list
+`pages_read_engagement` (and, for the business lookups, `business_management`) for Facebook Login apps.
+If publishing or every lookup is refused for permissions, add those to the login configuration and
+generate a new token. If no lookup works, the ids can go into `state/accounts.json` by hand
+(`{"accounts": {"idlytech": {"id": "1784…", "username": "idlytech"}}}`). The pipeline still checks every
+id with `GET /{id}?fields=id,username` before it posts.
+
+**Outside the Claude cloud** (your own computer or a server) **[plain terminal]**:
+`export IG_SYSTEM_TOKEN=…` in that shell only. The code sends it only as the `Authorization: Bearer`
+header and never prints it.

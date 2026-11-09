@@ -1,7 +1,7 @@
 """One posting run (am ~8:40 IST, pm ~18:40 IST). Every step runs on its own; see RUNBOOK.md.
 
   python3 pipeline/run_day.py fetch        # 1. candidates  -> _work/<date>-<slot>/candidates.json
-  python3 pipeline/run_day.py tokens       # 2. tokens, usernames, quota, expiry -> tokens.json
+  python3 pipeline/run_day.py check        # 2. Meta access: find the 5 account ids, reachable?, quota -> check.json
      ... the Claude run writes _work/<date>-<slot>/cards.json (picks, copy, photos, captions, scores)
   python3 pipeline/run_day.py render       # 3. validate + 12/14 gate + cardkit render + copy JPEGs to posts/<date>/
      ... the Claude run commits posts/<date>/ and pushes
@@ -17,7 +17,6 @@ Options for every step: --date YYYY-MM-DD --slot am|pm (default: now, IST).
 from __future__ import annotations
 
 import argparse
-import os
 import shutil
 import sys
 import time
@@ -32,7 +31,7 @@ if __package__ in (None, ""):
 from pipeline import editorial, fetch, publish
 from pipeline.common import (ACCOUNTS, POSTS_DIR, REPO, REPORTS_DIR, default_date, default_slot, load_json,
                              log, posted_story_ids, public_url, repo_path, save_json, slot_already_posted,
-                             token_env, work_dir)
+                             work_dir)
 
 SLOT_TIME = {"am": "8:40 AM IST", "pm": "6:40 PM IST"}
 
@@ -66,6 +65,7 @@ def validate_cards(doc: dict, date: str, slot: str, allow_carousel: bool = False
             errs += [f"{who} card {j}: {e}" for e in editorial.card_problems(card)]
             if not card.get("photo") or not repo_path(card["photo"]).is_file():
                 errs.append(f"{who} card {j}: photo file not found: {card.get('photo')!r}")
+        errs += [f"{who}: {e}" for e in publish.collaborator_problems(post.get("collaborators"), acct)]
         src = post.get("photo_source") or {}
         if src.get("viewed") is not True:
             errs.append(f"{who}: photo_source.viewed must be true (look at every image before use)")
@@ -170,8 +170,6 @@ def publish_one(post: dict, date: str, slot: str, dry_run: bool) -> dict:
     if not dry_run:
         if slot_already_posted(acct, date, slot):
             return {**base, "status": "skipped", "reason": "already posted in this slot"}
-        if not os.environ.get(token_env(acct)):
-            return {**base, "status": "skipped", "reason": f"{token_env(acct)} not set"}
         for img in post["images"]:
             ok, why = url_ready(img["url"], Path(img["local"]).stat().st_size)
             if not ok:
@@ -179,19 +177,18 @@ def publish_one(post: dict, date: str, slot: str, dry_run: bool) -> dict:
     try:
         res = publish.publish_post(acct, [i["url"] for i in post["images"]], post["caption"], score=score,
                                    story_id=post["story_id"], date=date, slot=slot,
-                                   alt_text=post.get("alt_text", ""), dry_run=dry_run)
+                                   alt_text=post.get("alt_text", ""), collaborators=post.get("collaborators"),
+                                   dry_run=dry_run)
         return {**base, **res}
     except publish.GateRefused as e:
         return {**base, "status": "refused", "reason": str(e)}
-    except publish.MissingToken as e:
-        return {**base, "status": "skipped", "reason": str(e)}
     except (publish.IGError, ValueError) as e:
         return {**base, "status": "failed", "reason": str(e)}
 
 
 # ---- report ----------------------------------------------------------------------------
 
-def build_report(plan: dict, candidates: dict | None, tokens: list | None) -> tuple[str, str]:
+def build_report(plan: dict, candidates: dict | None, check: dict | None) -> tuple[str, str]:
     date, slot, dry = plan["date"], plan["slot"], plan["dry_run"]
     nice = f"{Date.fromisoformat(date):%a} {card_date(date)}, {slot} run ({SLOT_TIME[slot]})"
     results = plan.get("results") or {}
@@ -229,19 +226,31 @@ def build_report(plan: dict, candidates: dict | None, tokens: list | None) -> tu
         lines.append(f"| @{s['account']} (skipped) | #{s.get('story_id') or '-'} | {cells} "
                      f"| {best} | {str(s.get('reason', '')).replace('|', '/')} |")
 
-    token_warn = [f"@{t['account']}: {w}" for t in tokens or [] for w in t.get("warnings", [])]
-    if tokens is None:
-        token_lines = ["- token check not run (run_day.py tokens)"]
+    if (check or {}).get("auth_error"):        # one problem for every account: say it once
+        access_warn = [publish.AUTH_HINT]
     else:
-        token_lines = [f"- {w}" for w in token_warn] or ["- all tokens ok"]
-    lines += ["", "## Tokens", ""] + token_lines
+        access_warn = [f"@{t['account']}: {w}" for t in (check or {}).get("accounts", [])
+                       for w in t.get("warnings", [])]
+    if check is None:
+        access_lines = ["- access check not run (run_day.py check)"]
+    else:
+        access_lines = [f"- {publish.describe_auth(check.get('auth'))}"]
+        if not check.get("online"):
+            access_lines.append("- offline check only: accounts not verified")
+        access_lines += [f"- {w}" for w in access_warn] or ["- all 5 accounts reachable"]
+        if check.get("auth_error"):
+            access_lines.append(f"- Meta's error: {check['auth_error']}")
+    lines += ["", "## Meta access", ""] + access_lines
 
     lines += ["", "## Captions", ""]
     for p, _ in posted:
         lines += [f"### @{p['account']} · #{p['story_id']}", "",
                   *[f"- image: {i['url']}" for i in p["images"]],
                   f"- photo: {(p.get('photo_source') or {}).get('page', '')} "
-                  f"({(p.get('photo_source') or {}).get('licence', '')})", "", "```", p["caption"], "```", ""]
+                  f"({(p.get('photo_source') or {}).get('licence', '')})",
+                  *([f"- collaborators: {', '.join('@' + c for c in p['collaborators'])}"]
+                    if p.get("collaborators") else []),
+                  "", "```", p["caption"], "```", ""]
 
     if candidates:
         lines += ["## Candidates seen", ""]
@@ -267,9 +276,8 @@ def build_report(plan: dict, candidates: dict | None, tokens: list | None) -> tu
     if would:
         summary.append("Would post: " + " · ".join(would))
     summary.append("Skipped: " + (" · ".join(not_live) or "none"))
-    expiring = [w for w in token_warn if "expires in" in w or "token problem" in w]
-    if expiring:
-        summary.append("Tokens: " + " · ".join(expiring))
+    if access_warn:
+        summary.append("Access: " + " · ".join(access_warn))
     return "\n".join(lines) + "\n", "\n".join(summary)
 
 
@@ -282,12 +290,12 @@ def cmd_fetch(a) -> int:
     return 0
 
 
-def cmd_tokens(a) -> int:
-    statuses = [publish.token_status(acct, online=not a.offline) for acct in ACCOUNTS]
-    save_json(work_dir(a.date, a.slot) / "tokens.json", statuses)
-    for st in statuses:
-        print(f"@{st['account']}: " + ("; ".join(st["warnings"]) or "ok"))
-    return 0
+def cmd_check(a) -> int:
+    """Discovery + reachability + publishing limit for all 5 accounts (no token needed in the env)."""
+    report = publish.check_accounts(online=not a.offline)
+    save_json(work_dir(a.date, a.slot) / "check.json", report)
+    print("\n".join(publish.format_check(report)))
+    return 0 if report["ok"] or a.offline else 1
 
 
 def cmd_render(a) -> int:
@@ -363,7 +371,7 @@ def cmd_report(a) -> int:
     if not plan:
         log("no plan.json: run render first (a cards.json with only 'skipped' entries is fine)")
         return 2
-    md, summary = build_report(plan, load_json(wd / "candidates.json"), load_json(wd / "tokens.json"))
+    md, summary = build_report(plan, load_json(wd / "candidates.json"), load_json(wd / "check.json"))
     out = wd / "report-dryrun.md" if plan["dry_run"] else REPORTS_DIR / f"{a.date}-{a.slot}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(md, encoding="utf-8")
@@ -388,7 +396,9 @@ def main(argv=None) -> int:
     f = sub.add_parser("fetch")
     f.add_argument("--hours", type=float, default=14)
     f.add_argument("--top", type=int, default=5)
-    sub.add_parser("tokens").add_argument("--offline", action="store_true")
+    sub.add_parser("check", aliases=["tokens"],
+                   help="Meta access: find the 5 account ids, check each, publishing limit "
+                        "('tokens' is the old name)").add_argument("--offline", action="store_true")
     for name in ("render", "dry-run"):
         r = sub.add_parser(name)
         r.add_argument("--cards", type=Path, help="default: _work/<date>-<slot>/cards.json")
@@ -400,8 +410,8 @@ def main(argv=None) -> int:
     sub.add_parser("report")
     a = ap.parse_args(argv)
     a.date, a.slot = a.date or default_date(), a.slot or default_slot()
-    commands = {"fetch": cmd_fetch, "tokens": cmd_tokens, "render": cmd_render, "wait-urls": cmd_wait_urls,
-                "publish": cmd_publish, "report": cmd_report, "dry-run": cmd_dry_run}
+    commands = {"fetch": cmd_fetch, "check": cmd_check, "tokens": cmd_check, "render": cmd_render,
+                "wait-urls": cmd_wait_urls, "publish": cmd_publish, "report": cmd_report, "dry-run": cmd_dry_run}
     return commands[a.cmd](a)
 
 
