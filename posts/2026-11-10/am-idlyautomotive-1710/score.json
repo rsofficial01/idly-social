@@ -1,0 +1,52 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Independent reviewer (scored blind): send 1: the only reason to forward it is general 'Tesla is killing the Cybertruck' talk, and the refund news mainly affects US deposit holders. keep 1: the only keepable fact is a loose end date (mid-2027, about eight months away); no prices, refund terms or dates.",
+  "story_id": 1710,
+  "article": "https://www.idly.news/articles/1710-musk-says-tesla-will-refund-some-cybertruck-deposits",
+  "scored_as": "lower of the two totals (both 12/14)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "send 1: Cybertruck isn't sold in India, so it's curiosity rather than a must-forward. keep 1: only 'mid-2027'; refund terms unknown."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "earlier_version": {
+    "caption": "caption_v1 (not posted)",
+    "self_total": 12,
+    "reviewer_total": 10,
+    "reviewer_notes": "read 1: first line repeated the headline and two lines repeated earlier points; reply 1: hypothetical 'would you buy it' question. Rewritten and rescored by a fresh reviewer."
+  },
+  "photo_source": {
+    "page": "https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck_(2024).jpg",
+    "licence": "CC BY 2.0",
+    "author": "Amaury Laporte",
+    "viewed": true,
+    "crop": "focal (0.38, 0.62), zoom 1.25: house-number plaque cropped out"
+  }
+}
