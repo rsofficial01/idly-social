@@ -1,0 +1,64 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Independent reviewer (scored blind, final version): send 1: US-only story; only someone with a US relative or friend who owns an Explorer has a real reason to forward it, and there's nothing to act on yet (no recall, remedy or VIN check). keep 1: the only keepable fact is the 2021-2026 model-year range (~1.2m vehicles); no recall, deadline, remedy or decision date. Legibility (minor, all reviewers): the template's 15px vertical photo credit is small at feed size; measured contrast 7.6:1, and the full credit is repeated in the caption.",
+  "story_id": 1716,
+  "article": "https://www.idly.news/articles/1716-us-regulator-probes-12-million-ford-explorers-over-airbag-burn-injuries",
+  "scored_as": "lower of the two totals (self 12, reviewer 12)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "send 1: the Explorer isn't a mainstream model in India, so the natural forward is to someone with a US relative who drives one. keep 1: only the 2021-2026 model years are keepable; no recall, remedy or decision date yet."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [
+      "Minor: the vertical credit is small grey text on brown mud; reads at full size, hard at phone feed size. Headline, date and idly.news footer are clear."
+    ],
+    "rule_problems": []
+  },
+  "earlier_versions": [
+    {
+      "version": "v1",
+      "headline": "US probes 1.2 million Ford Explorers over alleged airbag burns",
+      "self_total": 12,
+      "reviewer_total": 11,
+      "reviewer_notes": "hook 1: the card left out the striking detail (third-degree burns); send 1; keep 1. Also flagged: 'Ford hasn't been quoted' broader than the article; police-officer line needed attribution. Fixed in v2."
+    },
+    {
+      "version": "v2",
+      "headline": "1.2 million Ford Explorers probed over alleged third-degree airbag burns",
+      "self_total": 12,
+      "reviewer_total": 11,
+      "reviewer_notes": "alone 1: card no longer said who was probing (no 'US'); send 1; keep 1; minor: 'about' 1.2 million. Fixed in v3 (US back in the headline, 'about 1.2 million' in the caption)."
+    }
+  ],
+  "photo_source": {
+    "page": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/social-media/2026/3q-2026-financials/2026_Explorer_Tremor_19.jpg",
+    "licence": "Ford official press image (Ford media site)",
+    "author": "Ford Motor Company",
+    "viewed": true,
+    "crop": "focal (0.363, 0.5), zoom 1.0: 4:5 crop leaves the dirt-bike rider on the right out of frame; viewed at full size in tiles: no person, no watermark"
+  }
+}
