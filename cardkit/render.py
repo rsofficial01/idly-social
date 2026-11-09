@@ -50,14 +50,18 @@ HYPE TEMPLATE (template='hype')
 A Hypebeast-style post: a full-bleed photo cover, optionally followed by detail slides.
     * Cover: the photo cropped to 4:5 around a focal point; the white branch logo small at
       top-centre; the headline bottom-left in white Inter 800 (100px, stepping down to 72px
-      until it fits in 3 lines), 48px from the left and 60px from the bottom, over a bottom
-      gradient whose strength follows the photo's brightness; the photo credit in 15px white
-      at 60%, running up the right edge. Nothing else.
+      until it fits in 3 lines), 48px from the left and 100px from the bottom, over a bottom
+      gradient whose strength follows the photo's brightness; below it a quiet footer row
+      (24px, white at 70%: the date left, "idly.news" right, 44px from the bottom, inside the
+      headline column so Instagram's 3:4 grid crop leaves it whole); the photo credit in 15px
+      white at 60%, running up the right edge. The footer is on by default; set
+      cover_footer=False on a post to leave it off.
     * Detail slide: near-black (#0E0E10); stat in Playfair italic 900 (ember), stat label,
       2-3 bullets; footer with the branch logo, date and "idly.news".
 
 Post dict keys
-    acct, slug, date      as for classic cards
+    acct, slug, date      as for classic cards (date is required: cover footer and detail slides)
+    cover_footer          optional, default True
     slides                list of slide dicts, in order. The first is normally the cover:
         {'type': 'cover', 'headline': ..., 'photo': path, 'photo_credit': ...,
          'focal': (x, y), 'zoom': 1.0}
@@ -285,7 +289,9 @@ def _check(c: dict) -> None:
 # ------------------------------------------------------------------------------------------------
 HYPE_BG = '#0E0E10'
 HYPE_SIDE = 48                # cover headline: left margin
-HYPE_BOTTOM = 60              # cover headline: bottom margin
+HYPE_BOTTOM = 100             # cover headline: bottom margin (the footer row sits below it)
+HYPE_CREDIT_BOTTOM = 60       # cover: where the vertical photo credit starts
+HYPE_FOOT_BOTTOM = 44         # cover footer row (date, idly.news): bottom margin
 HYPE_HEAD_W = W - HYPE_SIDE - 72   # headline column; leaves room for the credit on the right edge
 HYPE_FIT = dict(max=100, min=72, step=2, lines=3)
 HYPE_LOGO_H = 60
@@ -346,9 +352,12 @@ html,body{width:%(W)dpx;height:%(H)dpx;background:%(bg)s}
                   rgba(0,0,0,%(a3)s) 70%%,rgba(0,0,0,%(a4)s) 87%%,rgba(0,0,0,0) 100%%)}
 .logo{position:absolute;top:50px;left:50%%;transform:translateX(-50%%);height:%(logo_h)dpx;width:auto;display:block;
       filter:drop-shadow(0 0 1.5px rgba(0,0,0,%(logo_edge)s)) drop-shadow(0 1px 12px rgba(0,0,0,%(logo_glow)s))}
-.credit{position:absolute;right:20px;bottom:%(bottom)dpx;writing-mode:vertical-rl;transform:rotate(180deg);
+.credit{position:absolute;right:20px;bottom:%(credit_bottom)dpx;writing-mode:vertical-rl;transform:rotate(180deg);
         font:500 15px/1 Inter;letter-spacing:.2px;color:rgba(255,255,255,.6);white-space:nowrap;
         text-shadow:0 0 8px rgba(0,0,0,.35)}
+.cfoot{position:absolute;left:%(side)dpx;width:%(head_w)dpx;bottom:%(foot_bottom)dpx;display:flex;
+       justify-content:space-between;font:600 24px/1 Inter;letter-spacing:.1px;color:rgba(255,255,255,.7);
+       text-shadow:0 1px 10px rgba(0,0,0,.3)}
 .head{position:absolute;left:%(side)dpx;bottom:%(bottom)dpx;width:%(head_w)dpx;font-weight:800;font-size:100px;
       line-height:1.0;letter-spacing:-.034em;color:#fff;text-wrap:balance;
       text-shadow:0 2px 28px rgba(0,0,0,.22)}
@@ -425,6 +434,7 @@ def _hype_slides(post: dict) -> list[dict]:
 
 def _hype_css(**kw) -> str:
     base = dict(fonts=FONTS, W=W, H=H, bg=HYPE_BG, ember=EMBER, side=HYPE_SIDE, bottom=HYPE_BOTTOM,
+                credit_bottom=HYPE_CREDIT_BOTTOM, foot_bottom=HYPE_FOOT_BOTTOM,
                 head_w=HYPE_HEAD_W, logo_h=HYPE_LOGO_H, dside=DETAIL_SIDE, top_a=0, logo_edge=0, logo_glow=.3,
                 a0=0, a1=0, a2=0, a3=0, a4=0)
     base.update(kw)
@@ -441,6 +451,9 @@ def hype_cover_html(post: dict, slide: dict, photo_file: str, bottom_lum: float,
     css = _hype_css(top_a=top_a, logo_edge=logo_edge, logo_glow=logo_glow, **stops)
     logo = os.path.join(LOGOS, f"{LOGO_FILE[post['acct']]}_white.png")
     credit = f"<div class='credit'>{_esc(slide['photo_credit'])}</div>" if slide.get('photo_credit') else ''
+    # footer row (date left, idly.news right) is on by default; a post can opt out with cover_footer=False
+    foot = (f"<div class='cfoot'><span>{_esc(post['date'])}</span><span>idly.news</span></div>"
+            if post.get('cover_footer', True) else '')
     return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
 <div class='s c'>
   <img class='ph' src='file://{html.escape(photo_file)}'>
@@ -448,6 +461,7 @@ def hype_cover_html(post: dict, slide: dict, photo_file: str, bottom_lum: float,
   <img class='logo' src='file://{logo}'>
   {credit}
   <div class='head' id='head'>{_esc(slide['headline'])}</div>
+  {foot}
 </div></body></html>"""
 
 
@@ -474,6 +488,8 @@ def _check_hype(p: dict) -> None:
             raise ValueError(f"post {p.get('slug', '?')}: missing {k!r}")
     if p['acct'] not in LOGO_FILE:
         raise ValueError(f"post {p['slug']}: unknown acct {p['acct']!r}")
+    if not p.get('date'):
+        raise ValueError(f"post {p['slug']}: missing 'date' (shown in the cover footer and on detail slides)")
     slides = _hype_slides(p)
     if not 1 <= len(slides) <= 10:
         raise ValueError(f"post {p['slug']}: needs 1-10 slides")
@@ -485,8 +501,6 @@ def _check_hype(p: dict) -> None:
             if not s.get('photo') or not os.path.isfile(s['photo']):
                 raise FileNotFoundError(f"post {p['slug']} slide {i}: photo not found: {s.get('photo')}")
         elif kind == 'detail':
-            if not p.get('date'):
-                raise ValueError(f"post {p['slug']}: detail slides need the post 'date'")
             if not (s.get('stat') or s.get('bullets')):
                 raise ValueError(f"post {p['slug']} slide {i}: detail needs a stat or bullets")
         else:
