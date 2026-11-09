@@ -1,4 +1,4 @@
-# secrets: never commit tokens (Meta's token is a network secret; IG_SYSTEM_TOKEN stays in the shell)
+# secrets: never commit tokens (they live in IG_TOKEN_* / IG_SYSTEM_TOKEN env vars or a network secret)
 state/secrets/
 .env
 .env.*
@@ -13,4 +13,4 @@ _work/
 # posts/ keeps only the JPEGs Instagram fetches
 posts/**/*.png
 
-# committed on purpose: posts/**/*.jpg, state/posted.json, state/accounts.json (ids only), reports/
+# committed on purpose: posts/**/*.jpg, state/posted.json, state/accounts.json (ids and hosts, no tokens), reports/

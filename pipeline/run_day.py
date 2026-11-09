@@ -1,7 +1,7 @@
 """One posting run (am ~8:40 IST, pm ~18:40 IST). Every step runs on its own; see RUNBOOK.md.
 
   python3 pipeline/run_day.py fetch        # 1. candidates  -> _work/<date>-<slot>/candidates.json
-  python3 pipeline/run_day.py check        # 2. Meta access: find the 5 account ids, reachable?, quota -> check.json
+  python3 pipeline/run_day.py check        # 2. Meta access per account: token, id, host, quota, expiry -> check.json
      ... the Claude run writes _work/<date>-<slot>/cards.json (picks, copy, photos, captions, scores)
   python3 pipeline/run_day.py render       # 3. validate + 12/14 gate + cardkit render + copy JPEGs to posts/<date>/
      ... the Claude run commits posts/<date>/ and pushes
@@ -226,20 +226,12 @@ def build_report(plan: dict, candidates: dict | None, check: dict | None) -> tup
         lines.append(f"| @{s['account']} (skipped) | #{s.get('story_id') or '-'} | {cells} "
                      f"| {best} | {str(s.get('reason', '')).replace('|', '/')} |")
 
-    if (check or {}).get("auth_error"):        # one problem for every account: say it once
-        access_warn = [publish.AUTH_HINT]
-    else:
-        access_warn = [f"@{t['account']}: {w}" for t in (check or {}).get("accounts", [])
-                       for w in t.get("warnings", [])]
+    access_warn = [f"@{t['account']}: {w}" for t in (check or {}).get("accounts", [])
+                   for w in t.get("warnings", [])]
     if check is None:
         access_lines = ["- access check not run (run_day.py check)"]
-    else:
-        access_lines = [f"- {publish.describe_auth(check.get('auth'))}"]
-        if not check.get("online"):
-            access_lines.append("- offline check only: accounts not verified")
-        access_lines += [f"- {w}" for w in access_warn] or ["- all 5 accounts reachable"]
-        if check.get("auth_error"):
-            access_lines.append(f"- Meta's error: {check['auth_error']}")
+    else:                                      # the check's own output: token, host, id, quota per account
+        access_lines = ["```", *publish.format_check(check), "```"]
     lines += ["", "## Meta access", ""] + access_lines
 
     lines += ["", "## Captions", ""]
@@ -291,8 +283,8 @@ def cmd_fetch(a) -> int:
 
 
 def cmd_check(a) -> int:
-    """Discovery + reachability + publishing limit for all 5 accounts (no token needed in the env)."""
-    report = publish.check_accounts(online=not a.offline)
+    """Per account: own token (IG_TOKEN_<ACCOUNT>) or the shared one; id, host, publishing limit, expiry."""
+    report = publish.check_accounts(online=not a.offline, expiry=not a.no_refresh)
     save_json(work_dir(a.date, a.slot) / "check.json", report)
     print("\n".join(publish.format_check(report)))
     return 0 if report["ok"] or a.offline else 1
@@ -396,9 +388,11 @@ def main(argv=None) -> int:
     f = sub.add_parser("fetch")
     f.add_argument("--hours", type=float, default=14)
     f.add_argument("--top", type=int, default=5)
-    sub.add_parser("check", aliases=["tokens"],
-                   help="Meta access: find the 5 account ids, check each, publishing limit "
-                        "('tokens' is the old name)").add_argument("--offline", action="store_true")
+    c = sub.add_parser("check", aliases=["tokens"],
+                       help="Meta access per account: token, id, host, publishing limit, expiry "
+                            "('tokens' is the old name)")
+    c.add_argument("--offline", action="store_true")
+    c.add_argument("--no-refresh", action="store_true", help="skip the token expiry check")
     for name in ("render", "dry-run"):
         r = sub.add_parser(name)
         r.add_argument("--cards", type=Path, help="default: _work/<date>-<slot>/cards.json")

@@ -1,5 +1,28 @@
 {
-  "updated_at": null,
-  "via": [],
-  "accounts": {}
+  "updated_at": "2026-11-09T17:45:00+00:00",
+  "via": [
+    "Meta app dashboard (API setup with Unified login), entered by hand"
+  ],
+  "accounts": {
+    "idlyautomotive": {
+      "id": "17841456459864048",
+      "username": "idlyautomotive"
+    },
+    "idlyhype": {
+      "id": "17841456251940953",
+      "username": "idlyhype"
+    },
+    "idlynerd": {
+      "id": "17841456588019165",
+      "username": "idlynerd"
+    },
+    "idlynews": {
+      "id": "17841456330541050",
+      "username": "idlynews"
+    },
+    "idlytech": {
+      "id": "17841456360777255",
+      "username": "idlytech"
+    }
+  }
 }

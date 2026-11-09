@@ -1,17 +1,20 @@
-"""Publish to Instagram with the official "Instagram API with Facebook Login" (graph.facebook.com).
+"""Publish to Instagram with Meta's official Instagram API (graph.instagram.com / graph.facebook.com).
 
     # one image (repo-relative path -> public raw.githubusercontent.com URL, or a full https URL)
     python3 pipeline/publish.py post --account idlytech --image posts/2026-11-09/pm-idlytech-1691.jpg \
         --caption-file caption.txt --score-file score.json --story-id 1691 [--collaborator idlynews] [--dry-run]
     # carousel: repeat --image / --video (2-10 items, in order). .mp4/.mov items are carousel videos.
-    python3 pipeline/publish.py check [--offline]   # find the 5 account ids, check each one, publishing limit
+    python3 pipeline/publish.py check [--offline] [--no-refresh]   # every account: token, id, host, quota, expiry
 
-Access: ONE Meta system-user access token (Facebook Login for Business) covers all five accounts.
-- In the Claude cloud environment it is a network secret: the agent proxy adds "Authorization: Bearer ..."
-  to every request for graph.facebook.com. This code then sends no credentials at all and never sees them.
-- Anywhere else, set IG_SYSTEM_TOKEN. It is sent only as the Authorization: Bearer header; it is never
-  put in a URL or a request body, and never printed or logged.
-Nothing is published unless the post's 7-check score is >= 12/14.
+Access, per account (first match wins):
+1. IG_TOKEN_<ACCOUNT>: that account's own token from the Meta dashboard ("Generate token"). Its host is
+   auto-detected: GET graph.instagram.com/me?fields=user_id,username, then graph.facebook.com/me?fields=id,name.
+   The working host and the account id are remembered in state/accounts.json (never the token).
+2. Shared: ONE system-user access token for all accounts, on graph.facebook.com. In the Claude cloud it is a
+   network secret: the agent proxy adds "Authorization: Bearer ..." and this code sends no credentials.
+   Anywhere else, IG_SYSTEM_TOKEN.
+Tokens are sent only as the Authorization: Bearer header: never in a URL or a request body, never printed,
+logged or saved. Nothing is published unless the post's 7-check score is >= 12/14.
 """
 from __future__ import annotations
 
@@ -31,12 +34,16 @@ if __package__ in (None, ""):
 
 from pipeline import editorial
 from pipeline.common import (ACCOUNTS, BUSINESS_ID, REPO, TOKEN_ENV, append_posted, default_date,
-                             default_slot, load_account_ids, log, now_utc, public_url, repo_path,
-                             save_account_ids)
+                             default_slot, load_account_ids, load_accounts, log, now_utc, public_url,
+                             repo_path, token_env, update_accounts)
 
-GRAPH = "https://graph.facebook.com"
+GRAPH = "https://graph.facebook.com"        # Facebook Login (the shared system-user token)
+GRAPH_IG = "https://graph.instagram.com"    # Instagram User tokens
+FB_HOST, IG_HOST = "graph.facebook.com", "graph.instagram.com"
+HOSTS = (IG_HOST, FB_HOST)                  # detection order for an account's own token
 API_VERSION = "v27.0"            # latest Graph API version in Meta's docs (v27.0, released 4 Nov 2026)
 LOCAL_DAILY_CAP = 25             # our own cap; Meta's quota (config.quota_total) is also respected
+EXPIRY_WARN_DAYS = 10
 MAX_JPEG_BYTES = 8 * 1024 * 1024
 MAX_ITEMS = 10                   # carousel items (Meta allows more; we keep 10)
 MAX_COLLABORATORS = 3            # Meta: "a list of up to 3 instagram usernames"
@@ -48,10 +55,10 @@ AUTH_CODES = {102, 190, 2500}    # no access token, or an invalid / revoked one
 PERMISSION_CODES = {3, 10, 200}
 USERNAME_RE = re.compile(r"^[a-z0-9._]{1,30}$")
 
-AUTH_HINT = ("Meta got no valid access token. In the Claude cloud environment, add the network secret for "
-             "graph.facebook.com (RUNBOOK.md, 'Meta access'); elsewhere set IG_SYSTEM_TOKEN")
-PERMISSION_HINT = ("check the Facebook Login for Business configuration's permissions and that the Instagram "
-                   "accounts are assets of the system user (RUNBOOK.md, 'Meta access')")
+AUTH_HINT = ("Meta got no valid shared access token. In the Claude cloud environment, add the network secret "
+             "for graph.facebook.com (RUNBOOK.md, 'Meta access'); elsewhere set IG_SYSTEM_TOKEN")
+PERMISSION_HINT = ("check the login configuration's permissions and that the Instagram account is an asset "
+                   "of the token's user (RUNBOOK.md, 'Meta access')")
 
 
 class GateRefused(Exception):
@@ -59,9 +66,22 @@ class GateRefused(Exception):
 
 
 class IGError(Exception):
-    def __init__(self, message: str, code=None, transient=False):
-        super().__init__(message)
-        self.code, self.transient = code, transient
+    def __init__(self, message: str, code=None, transient=False, hint: str = ""):
+        super().__init__(message + (f" [{hint}]" if hint else ""))
+        self.message, self.code, self.transient = message, code, transient
+
+
+class WrongAccount(IGError):
+    """The token works, but for a different Instagram account: never post with it."""
+
+
+def base_url(host: str) -> str:
+    return GRAPH_IG if host == IG_HOST else GRAPH      # read at call time (tests point these at a mock)
+
+
+def account_token(account: str) -> str | None:
+    """This account's own token (IG_TOKEN_<ACCOUNT>), or None to use the shared token."""
+    return os.environ.get(token_env(account), "").strip() or None
 
 
 def auth_mode() -> str:
@@ -70,18 +90,32 @@ def auth_mode() -> str:
 
 
 def describe_auth(mode: str | None = None) -> str:
+    """The shared token."""
     if (mode or auth_mode()) == "env":
         return f"{TOKEN_ENV} is set: sent only as the Authorization: Bearer header (never printed)"
     return (f"{TOKEN_ENV} not set: no credentials sent; the network secret for graph.facebook.com "
             f"adds the Authorization header at the agent proxy")
 
 
-class IGClient:
-    """Tiny Graph API client. Credentials, if any, live only in the session's Authorization header."""
+def describe_account_auth(account: str, host: str | None = None) -> str:
+    if account_token(account) is None:
+        return f"shared token: {describe_auth()}"
+    where = host or "host auto-detected (graph.instagram.com, then graph.facebook.com)"
+    return f"{token_env(account)} is set: Authorization: Bearer header only (never printed); {where}"
 
-    def __init__(self, token: str | None = None):
+
+class IGClient:
+    """Tiny Graph API client. Credentials, if any, live only in the session's Authorization header.
+
+    token=None: the shared token (IG_SYSTEM_TOKEN if set, else no credentials: the network secret adds
+    them). label: the env var a per-account token came from, used in error hints."""
+
+    def __init__(self, token: str | None = None, host: str = FB_HOST, label: str | None = None):
         token = os.environ.get(TOKEN_ENV, "") if token is None else token
         self._token = token.strip() or None
+        self.host = host
+        self.hint = (f"{label} was refused: generate a new token for this account in the Meta dashboard"
+                     if label else AUTH_HINT)
         self._s = requests.Session()
         self._s.headers["User-Agent"] = "idly-social/2.0"
         if self._token:
@@ -91,8 +125,10 @@ class IGClient:
         text = str(text)
         return text.replace(self._token, "***") if self._token else text
 
-    def call(self, method: str, path: str, params=None, data=None, attempts: int = 4) -> dict:
-        url = f"{GRAPH}/{API_VERSION}/{path}"
+    def call(self, method: str, path: str, params=None, data=None, attempts: int = 4,
+             versioned: bool = True) -> dict:
+        root = base_url(self.host)
+        url = f"{root}/{API_VERSION}/{path}" if versioned else f"{root}/{path}"
         for attempt in range(1, attempts + 1):
             try:
                 r = self._s.request(method, url, params=params, data=data, timeout=60, allow_redirects=False)
@@ -104,15 +140,14 @@ class IGClient:
                     return body
                 e = body.get("error") or {}
                 code = e.get("code")
-                hint = (f" [{AUTH_HINT}]" if code in AUTH_CODES else
-                        f" [{PERMISSION_HINT}]" if code in PERMISSION_CODES else "")
-                err = IGError(self._clean(f"{method} /{path} -> HTTP {r.status_code}, code {code}"
-                                          f"/{e.get('error_subcode')}: {e.get('message') or r.reason}{hint}"),
-                              code=code,
+                hint = (self.hint if code in AUTH_CODES else PERMISSION_HINT if code in PERMISSION_CODES else "")
+                err = IGError(self._clean(f"{method} {self.host}/{path} -> HTTP {r.status_code}, code {code}"
+                                          f"/{e.get('error_subcode')}: {e.get('message') or r.reason}"),
+                              code=code, hint=hint,
                               transient=bool(e.get("is_transient")) or code in TRANSIENT_CODES
                               or r.status_code == 429 or r.status_code >= 500)
             except requests.RequestException as ex:
-                err = IGError(self._clean(f"{method} /{path} -> network error: {type(ex).__name__}"),
+                err = IGError(self._clean(f"{method} {self.host}/{path} -> network error: {type(ex).__name__}"),
                               transient=True)
             if not err.transient or attempt == attempts:
                 raise err
@@ -126,6 +161,27 @@ class IGClient:
 
     def ig_user(self, ig_id: str) -> dict:
         return self.call("GET", ig_id, params={"fields": "id,username"})
+
+    def ig_me(self) -> dict:
+        """graph.instagram.com only: the Instagram account the token belongs to (user_id, username)."""
+        return self.call("GET", "me", params={"fields": "user_id,username"}, attempts=2)
+
+    def token_expiry(self) -> tuple[int | None, str]:
+        """graph.instagram.com tokens only: GET /refresh_access_token (token in the header, as always).
+        Meta answers with a token and expires_in. If it is the very token we hold, expires_in is its
+        remaining life (the call also extended it). If Meta hands back a different token, it is dropped
+        right here, never saved or printed, and the expiry of ours stays unknown."""
+        data = self.call("GET", "refresh_access_token", params={"grant_type": "ig_refresh_token"},
+                         attempts=1, versioned=False)
+        same = bool(self._token) and data.pop("access_token", None) == self._token
+        expires_in = data.get("expires_in")
+        data.clear()
+        if not same:
+            return None, "expiry unknown: Meta returned a new token on refresh (not saved, not used)"
+        try:
+            return int(expires_in) // 86400, ""
+        except (TypeError, ValueError):
+            return None, "expiry unknown: refresh gave no expires_in"
 
     def list_edge(self, path: str, fields: str, max_pages: int = 5) -> list[dict]:
         """Read a list edge with cursors. Never follows Meta's paging.next URL (it can carry a token)."""
@@ -191,7 +247,8 @@ class IGClient:
 
 # ---- account discovery ----------------------------------------------------------------
 
-def discover(client: IGClient, business_id: str = BUSINESS_ID, stop_when_complete: bool = True) -> dict:
+def discover(client: IGClient, business_id: str = BUSINESS_ID, stop_when_complete: bool = True,
+             only: list[str] | None = None) -> dict:
     """Find the Instagram professional account id of each idly username. Lookups, in order:
 
       1. GET /me?fields=id,name                       who the token is (the system user); also, optionally,
@@ -208,7 +265,7 @@ def discover(client: IGClient, business_id: str = BUSINESS_ID, stop_when_complet
     out = {"found": {}, "attempts": [], "via": [], "auth_error": None}
 
     def complete() -> bool:
-        return stop_when_complete and len(out["found"]) == len(ACCOUNTS)
+        return stop_when_complete and all(a in out["found"] for a in (only or ACCOUNTS))
 
     def attempt(label: str, fetch) -> bool:
         """Run one lookup; returns False when the token itself was rejected (no point going on)."""
@@ -280,7 +337,8 @@ def summarize_attempts(attempts: list[dict]) -> str:
 
 
 def resolve_account(client: IGClient, account: str) -> str:
-    """Cached id (state/accounts.json) -> verified; on a miss or a mismatch, run discovery once."""
+    """graph.facebook.com: cached id (state/accounts.json) -> verified; on a miss or a mismatch, run
+    discovery once."""
     cached = load_account_ids().get(account)
     if cached:
         try:
@@ -290,17 +348,80 @@ def resolve_account(client: IGClient, account: str) -> str:
             if e.code in AUTH_CODES or e.transient:
                 raise
             log(f"  cached id for @{account} didn't check out ({e}); running discovery")
-    disc = discover(client)
+    disc = discover(client, only=[account])
     if disc["auth_error"]:
         raise IGError(disc["auth_error"], code=190)
     if disc["found"]:
-        save_account_ids(disc["found"], disc["via"])
+        update_accounts(disc["found"], disc["via"])
     hit = disc["found"].get(account)
     if not hit:
         raise IGError(f"@{ACCOUNTS[account]['username']} not found by discovery "
                       f"({summarize_attempts(disc['attempts'])}); run `publish.py check`")
     verify_account(client, account, hit["id"])
     return hit["id"]
+
+
+def identify(client: IGClient, account: str, cached_id: str | None) -> str:
+    """Prove this account's own token works on client.host and belongs to the account; return its id."""
+    expected = ACCOUNTS[account]["username"]
+    if client.host == IG_HOST:
+        me = client.ig_me()                                   # GET /me?fields=user_id,username
+        username = str(me.get("username") or "").lower()
+        if username != expected or not me.get("user_id"):
+            raise WrongAccount(f"{token_env(account)} belongs to @{username or '?'}, expected @{expected}: "
+                               f"not posting with it")
+        return str(me["user_id"])
+    client.me()                                               # GET /me?fields=id,name: the token works here
+    if not cached_id:
+        disc = discover(client, only=[account])
+        if account not in disc["found"]:
+            raise IGError(f"@{expected} not found with {token_env(account)} "
+                          f"({summarize_attempts(disc['attempts'])})")
+        cached_id = disc["found"][account]["id"]
+    try:
+        verify_account(client, account, cached_id)
+    except IGError as e:
+        if "expected @" in e.message:
+            raise WrongAccount(e.message) from e
+        raise
+    return cached_id
+
+
+def connect_with_token(account: str, token: str) -> tuple[IGClient, str]:
+    """Use IG_TOKEN_<ACCOUNT>: the cached host first, else graph.instagram.com then graph.facebook.com.
+    Remembers the working host and the account id in state/accounts.json (never the token)."""
+    cached = load_accounts().get(account, {})
+    order = [cached["host"]] if cached.get("host") in HOSTS else []
+    order += [h for h in HOSTS if h not in order]
+    errors = []
+    for host in order:
+        client = IGClient(token, host=host, label=token_env(account))
+        try:
+            ig_id = identify(client, account, cached.get("id"))
+        except WrongAccount:
+            raise
+        except IGError as e:
+            if e.transient:
+                raise
+            errors.append(f"{host}: {e.message}")
+            continue
+        if cached.get("id") and ig_id != cached["id"]:
+            log(f"  @{account}: the token's account id {ig_id} replaces the cached {cached['id']}")
+        if (ig_id, host) != (cached.get("id"), cached.get("host")):
+            update_accounts({account: {"id": ig_id, "host": host}})
+        return client, ig_id
+    raise IGError(f"{token_env(account)} works on neither host ({'; '.join(errors)})", code=190,
+                  hint=f"generate a new token for @{ACCOUNTS[account]['username']} in the Meta dashboard "
+                       f"and update {token_env(account)}")
+
+
+def connect(account: str) -> tuple[IGClient, str]:
+    """(client, Instagram account id) for publishing: the account's own token if set, else the shared one."""
+    token = account_token(account)
+    if token:
+        return connect_with_token(account, token)
+    client = IGClient()
+    return client, resolve_account(client, account)
 
 
 # ---- local checks --------------------------------------------------------------------
@@ -410,8 +531,7 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
         print_plan(account, items, caption, alt_text, score, collaborators)
         return {"status": "dry-run", "account": account, "story_id": story_id, "images": urls}
 
-    client = IGClient()
-    ig_id = resolve_account(client, account)
+    client, ig_id = connect(account)      # own token (IG_TOKEN_<ACCOUNT>) if set, else the shared one
     username = ACCOUNTS[account]["username"]
     used, total = client.quota(ig_id)
     if used >= min(LOCAL_DAILY_CAP, total):
@@ -455,15 +575,21 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
 def print_plan(account: str, items: list[tuple[str, str]], caption: str, alt_text: str, score: dict | None,
                collaborators: list[str]) -> None:
     """The would-be API calls. Makes no network calls."""
-    base = f"{GRAPH}/{API_VERSION}"
-    ig = load_account_ids().get(account)
-    where = "cached in state/accounts.json" if ig else "found by discovery at publish time"
+    cached = load_accounts().get(account, {})
+    own = account_token(account) is not None
+    host = (cached.get("host") or IG_HOST) if own else FB_HOST
+    base = f"{base_url(host)}/{API_VERSION}"
+    ig = cached.get("id")
+    where = "cached in state/accounts.json" if ig else "found at publish time"
     ig = ig or "<ig-user-id>"
     collab = f", collaborators={json.dumps(collaborators)}" if collaborators else ""
     print(f"[dry-run] @{account}  score {editorial.score_total(score)}/{editorial.SCORE_MAX}  "
-          f"access: {describe_auth()}")
-    print(f"  GET  {base}/{ig}?fields=id,username        -> must be @{ACCOUNTS[account]['username']} "
-          f"(id {where})")
+          f"access: {describe_account_auth(account, cached.get('host'))}")
+    if own and host == IG_HOST:
+        print(f"  GET  {base}/me?fields=user_id,username        -> must be @{ACCOUNTS[account]['username']}")
+    else:
+        print(f"  GET  {base}/{ig}?fields=id,username        -> must be @{ACCOUNTS[account]['username']} "
+              f"(id {where})")
     print(f"  GET  {base}/{ig}/content_publishing_limit?fields=quota_usage,config"
           f"  -> stop if used >= {LOCAL_DAILY_CAP}")
     if len(items) == 1:
@@ -481,44 +607,64 @@ def print_plan(account: str, items: list[tuple[str, str]], caption: str, alt_tex
     print(f"  GET  {base}/<media-id>?fields=permalink   -> append to state/posted.json")
 
 
-# ---- check: discovery, reachability, publishing limit ---------------------------------
+# ---- check: every account's token, id, host, publishing limit, expiry ---------------------
 
-def check_accounts(online: bool = True) -> dict:
-    """Run discovery, then check each of the 5 accounts is reachable and read its publishing limit.
-    Works with no token in the environment (the network secret supplies it)."""
-    mode = auth_mode()
-    report = {"auth": mode, "api": f"{GRAPH}/{API_VERSION}", "business_id": BUSINESS_ID, "online": online,
-              "discovery": None, "auth_error": None, "accounts": [], "ok": False}
-    ids = load_account_ids()
-    client = IGClient() if online else None
-    disc = None
-    if online:
-        disc = discover(client, stop_when_complete=False)
+def check_accounts(online: bool = True, expiry: bool = True) -> dict:
+    """For each account: its own token (IG_TOKEN_<ACCOUNT>: host auto-detected) or the shared one
+    (network secret / IG_SYSTEM_TOKEN: discovery on graph.facebook.com); right account? publishing limit;
+    for graph.instagram.com tokens, days until the token expires. No token needs to be in the environment."""
+    cache = load_accounts()
+    own = {a: account_token(a) for a in ACCOUNTS}
+    shared = [a for a in ACCOUNTS if not own[a]]
+    report = {"api_version": API_VERSION, "business_id": BUSINESS_ID, "online": online,
+              "shared_auth": auth_mode(), "shared_accounts": shared, "discovery": None, "auth_error": None,
+              "accounts": [], "ok": False}
+    ids = {k: v["id"] for k, v in cache.items() if v.get("id")}
+    shared_client = None
+    if online and shared:
+        shared_client = IGClient()
+        disc = discover(shared_client, stop_when_complete=False)
         report["discovery"] = {"attempts": disc["attempts"], "via": disc["via"]}
         report["auth_error"] = disc["auth_error"]
         if disc["found"]:
-            save_account_ids(disc["found"], disc["via"])
+            update_accounts(disc["found"], disc["via"])
         ids.update({k: v["id"] for k, v in disc["found"].items()})
     for account in ACCOUNTS:
-        st = {"account": account, "ig_id": ids.get(account), "warnings": []}
+        st = {"account": account, "mode": "own token" if own[account] else "shared",
+              "ig_id": ids.get(account), "host": cache.get(account, {}).get("host") if own[account] else FB_HOST,
+              "warnings": [], "notes": []}
         report["accounts"].append(st)
-        if report["auth_error"]:
-            st["reachable"] = False
-            st["warnings"].append("no access: Meta got no valid access token")
-            continue
-        if not st["ig_id"]:
-            st["warnings"].append("not found by discovery" if online else
-                                  "no cached id in state/accounts.json (run check online)")
-            continue
-        if not online:
-            continue
-        try:
-            verify_account(client, account, st["ig_id"])
-            st["username"], st["reachable"] = ACCOUNTS[account]["username"], True
-        except IGError as e:
-            st["reachable"] = False
-            st["warnings"].append(f"not reachable: {e}")
-            continue
+        if own[account]:
+            st["env"] = token_env(account)
+            if not online:
+                continue
+            try:
+                client, st["ig_id"] = connect_with_token(account, own[account])
+                st["host"], st["reachable"] = client.host, True
+            except IGError as e:
+                st["reachable"] = False
+                st["warnings"].append(f"token problem: {e}")
+                continue
+        else:
+            if not online:
+                if not st["ig_id"]:
+                    st["warnings"].append("no cached id in state/accounts.json")
+                continue
+            if report["auth_error"]:
+                st["reachable"] = False
+                st["warnings"].append(f"no access: set {token_env(account)}, or add the shared network secret")
+                continue
+            if not st["ig_id"]:
+                st["warnings"].append("not found by discovery")
+                continue
+            client = shared_client
+            try:
+                verify_account(client, account, st["ig_id"])
+                st["reachable"] = True
+            except IGError as e:
+                st["reachable"] = False
+                st["warnings"].append(f"not reachable: {e}")
+                continue
         try:
             st["quota_used"], st["quota_total"] = client.quota(st["ig_id"])
             if st["quota_used"] >= min(LOCAL_DAILY_CAP, st["quota_total"]):
@@ -526,14 +672,29 @@ def check_accounts(online: bool = True) -> dict:
                                       f"{min(LOCAL_DAILY_CAP, st['quota_total'])} in 24h)")
         except IGError as e:
             st["warnings"].append(f"publishing limit unavailable: {e}")
+        if own[account] and expiry and client.host == IG_HOST:
+            try:
+                days, note = client.token_expiry()
+            except IGError as e:
+                days, note = None, f"expiry unknown: {e.message}"
+            if days is None:
+                st["notes"].append(note)
+            else:
+                st["days_left"] = days
+                if days <= EXPIRY_WARN_DAYS:
+                    st["warnings"].append(f"token expires in {days} days: generate a new one in the Meta "
+                                          f"dashboard and update {token_env(account)}")
     report["ok"] = online and all(st.get("reachable") and not st["warnings"] for st in report["accounts"])
     return report
 
 
 def format_check(report: dict) -> list[str]:
-    lines = [f"Meta access: {describe_auth(report['auth'])}", f"API: {report['api']}"]
+    lines = [f"Graph API {report.get('api_version', API_VERSION)}"]
+    if report.get("shared_accounts"):
+        lines.append(f"Shared token (for {', '.join('@' + a for a in report['shared_accounts'])}): "
+                     f"{describe_auth(report.get('shared_auth'))}")
     if report.get("discovery"):
-        lines.append("Discovery:")
+        lines.append("Discovery (shared token):")
         for a in report["discovery"]["attempts"]:
             if not a["ok"]:
                 result = f"failed: {a['error']}"
@@ -545,16 +706,22 @@ def format_check(report: dict) -> list[str]:
     elif not report["online"]:
         lines.append("Offline: no API calls; showing state/accounts.json")
     if report.get("auth_error"):
-        lines.append(f"ACCESS PROBLEM: {AUTH_HINT}")
+        lines.append(f"ACCESS PROBLEM (shared token): {AUTH_HINT}")
     for st in report["accounts"]:
+        if st.get("mode") == "own token":
+            how = f"{st['env']} on {st.get('host') or 'host not detected yet'}"
+        else:
+            how = f"shared token on {FB_HOST}"
         if st["warnings"]:
             status = "; ".join(st["warnings"])
-        elif report["online"]:
+        elif report.get("online"):
+            expires = f", token expires in {st['days_left']} days" if "days_left" in st else ""
             status = (f"ok (id {st['ig_id']}, {st.get('quota_used')}/"
-                      f"{min(LOCAL_DAILY_CAP, st.get('quota_total') or LOCAL_DAILY_CAP)} posts in 24h)")
+                      f"{min(LOCAL_DAILY_CAP, st.get('quota_total') or LOCAL_DAILY_CAP)} posts in 24h{expires})")
         else:
-            status = f"cached id {st['ig_id']} (not checked)"
-        lines.append(f"@{st['account']}: {status}")
+            status = f"cached id {st.get('ig_id') or '-'} (not checked)"
+        notes = f" [{'; '.join(st['notes'])}]" if st.get("notes") else ""
+        lines.append(f"@{st['account']} ({how}): {status}{notes}")
     return lines
 
 
@@ -579,8 +746,10 @@ def main(argv=None) -> int:
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--force-below-gate", action="store_true",
                    help="MANUAL USE ONLY: publish a post scoring under 12/14 (loud, logged)")
-    c = sub.add_parser("check", help="find the 5 account ids, check each is reachable, report the publishing limit")
+    c = sub.add_parser("check", help="every account: token, id, host, publishing limit, token expiry")
     c.add_argument("--offline", action="store_true", help="don't call the API; show the cached ids")
+    c.add_argument("--no-refresh", action="store_true",
+                   help="skip the expiry check (GET graph.instagram.com/refresh_access_token)")
     args = ap.parse_args(argv)
 
     try:
@@ -592,7 +761,7 @@ def main(argv=None) -> int:
                 dry_run=args.dry_run, force_below_gate=args.force_below_gate)
             print(json.dumps(result, indent=2))
         elif args.cmd == "check":
-            report = check_accounts(online=not args.offline)
+            report = check_accounts(online=not args.offline, expiry=not args.no_refresh)
             print("\n".join(format_check(report)))
             return 0 if report["ok"] or args.offline else 1
     except GateRefused as e:
