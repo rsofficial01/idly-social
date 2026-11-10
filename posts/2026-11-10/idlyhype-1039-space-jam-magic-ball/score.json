@@ -1,0 +1,49 @@
+{
+  "hook": 2,
+  "read": 1,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Lower of self 13 and blind reviewer 12 (reviewer's checks used). Reviewer: read 1: slide 3's stat '3 PAIRS' just repeats its own label 'Three Space Jam Pairs to Know' (a count stat that carries no new information); the rest is tight. send 1: a US-only SNKRS drop priced in US$ with no India release, so few Indian readers have a reason to forward it beyond sneaker group chats. hook 2: the actual iridescent AJ11 fills the cover and 'Space Jam Turns 30' is a clear, specific moment. keep 2: dated, priced 3-pair calendar plus style code in the caption. reply 2: the import-vs-wait question comes from readers' own lives. original 2: own synthesis and design, Nike product shot credited. alone 2: every slide names the shoe and says no India release. Verified: Nike launch page (IZ1800-200, $235, 11/11), Complex 2 Nov (11 Nov $235; Green Screen 14 Nov $255), Sneaker News 8 Nov (14 Nov), Complex 9 Oct (Jordan Brand 30th-anniversary framing), Highsnobiety (AJ1 Low $130 out now), 15 Nov 1996 US release. Opened 01-03 at full size: shoe whole and clear of the logo and headline, white headline, shared left edges, no touching text (Playfair '3' tail ~30 px above the label), cover credit 'Image: Nike' readable, Sources line on slides 2-3. Caption: one '?', 5 hashtags, Sources line, no idly.news, credit last.",
+  "story_id": null,
+  "idly_article": false,
+  "scored_as": "lower of the two totals (self 13, reviewer 12)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "send 1: a US SNKRS drop priced in US$ with no India release, so Indian readers can't act on it directly; it gets forwarded for the Space Jam 30 nostalgia and to sneakerhead chats, not because someone can buy it. keep 2 rests on the dated, priced calendar slide. reply 2: import vs wait is a real choice Indian sneakerheads make."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 1,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "read 1: slide 3's stat '3 PAIRS' just repeats its own label 'Three Space Jam Pairs to Know' (a count stat that carries no new information); the rest is tight. send 1: a US-only SNKRS drop priced in US$ with no India release, so few Indian readers have a reason to forward it beyond sneaker group chats. hook 2: the actual iridescent AJ11 fills the cover and 'Space Jam Turns 30' is a clear, specific moment. keep 2: dated, priced 3-pair calendar plus style code in the caption. reply 2: the import-vs-wait question comes from readers' own lives. original 2: own synthesis and design, Nike product shot credited. alone 2: every slide names the shoe and says no India release. Verified: Nike launch page (IZ1800-200, $235, 11/11), Complex 2 Nov (11 Nov $235; Green Screen 14 Nov $255), Sneaker News 8 Nov (14 Nov), Complex 9 Oct (Jordan Brand 30th-anniversary framing), Highsnobiety (AJ1 Low $130 out now), 15 Nov 1996 US release. Opened 01-03 at full size: shoe whole and clear of the logo and headline, white headline, shared left edges, no touching text (Playfair '3' tail ~30 px above the label), cover credit 'Image: Nike' readable, Sources line on slides 2-3. Caption: one '?', 5 hashtags, Sources line, no idly.news, credit last.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "photo_source": {
+    "page": "https://www.nike.com/launch/t/womens-air-jordan-11-magic-ball",
+    "image_url": "https://static.nike.com/a/images/w_1920,q_auto,f_jpg/85c3c275-fe88-4290-8a08-47768fbde753/women-s-air-jordan-11-magic-ball-iz1800-200-release-date.jpg",
+    "licence": "Official Nike product/press image, editorial use with credit",
+    "author": "Nike",
+    "viewed": true,
+    "processing": "letterboxed by desk-hype: band of rows 1060-2180 scaled to 1080x630 at y170 on a blurred, darkened copy of the same image; product only, no people"
+  }
+}
