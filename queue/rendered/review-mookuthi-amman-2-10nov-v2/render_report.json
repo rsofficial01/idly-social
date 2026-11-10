@@ -1,0 +1,145 @@
+{
+  "slug": "review-mookuthi-amman-2-10nov-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T05:31:23+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=v263z3rTcLw",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=v263z3rTcLw",
+    "source_url": "https://www.youtube.com/watch?v=v263z3rTcLw",
+    "image_url": "https://i.ytimg.com/vi/v263z3rTcLw/maxresdefault.jpg",
+    "credit": "Image: Vels Music International (official video)",
+    "organisation": "Vels Music International",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=v263z3rTcLw: author 'Vels Music International' https://www.youtube.com/@VelsMusicInternational, title 'Mookuthi Amman 2 - World Of Mahasakthi | Nayanthara | Sundar C | Hiphop Tamizha | VELS FILM'",
+      "thumbnail https://i.ytimg.com/vi/v263z3rTcLw/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@VelsMusicInternational",
+    "video_title": "Mookuthi Amman 2 - World Of Mahasakthi | Nayanthara | Sundar C | Hiphop Tamizha | VELS FILM"
+  },
+  "faces": [
+    [
+      206.6,
+      240.1,
+      113.4,
+      142.7,
+      0.927
+    ],
+    [
+      730.2,
+      20.2,
+      15.8,
+      18.5,
+      0.878
+    ],
+    [
+      747.5,
+      20.6,
+      15.2,
+      18.7,
+      0.875
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        163,
+        388,
+        281,
+        537
+      ],
+      [
+        615,
+        215,
+        631,
+        235
+      ],
+      [
+        629,
+        215,
+        645,
+        235
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "3 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        206.6,
+        240.1,
+        113.4,
+        142.7,
+        0.927
+      ],
+      [
+        730.2,
+        20.2,
+        15.8,
+        18.5,
+        0.878
+      ],
+      [
+        747.5,
+        20.6,
+        15.2,
+        18.7,
+        0.875
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Vels Music International (official video)"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Vels Music International (official video)",
+      "slug": "review-mookuthi-amman-2-10nov-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Mookuthi Amman 2 finishes last of the six Diwali releases idly ranked. Half the reviews idly read say Nayanthara still holds the screen, but 9 of 10 fault the screenplay and 6 call the effects cheap. NDTV's Latha Srinivasan says it \"desperately needed a storytelling miracle\".\n\nidly's consolidated score: 3.6/10, the mean of 11 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nHow much do the effects matter to you in a devotional fantasy, next to the story and the star?\n\nSources: ratings from OnlyKollywood, DT Next, 123Telugu, Filmfare, NDTV, Times of India, India Today, Indian Express, Cinema Express, Gulte and Rediff; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 10 reviews idly read in full.\n\n#MookuthiAmman2 #Nayanthara #TamilCinema #MovieReview\n\nImage: Vels Music International (official video)"
+}

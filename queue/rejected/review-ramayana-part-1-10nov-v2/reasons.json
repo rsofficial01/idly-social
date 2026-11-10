@@ -1,8 +1,9 @@
 {
   "slug": "review-ramayana-part-1-10nov-v2",
-  "stage": "resolve",
+  "stage": "framing",
   "reasons": [
-    "no image: youtube_official: uploader 'World Of Ramayana' (https://www.youtube.com/@WorldOfRamayana) is not on the official channel allowlist (config/official_sources.json)"
+    "framing: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)",
+    "framing: letterbox: a face is cut off by the edge of the source image"
   ],
-  "rejected_at": "2026-11-10T05:27:44+00:00"
+  "rejected_at": "2026-11-10T05:31:23+00:00"
 }

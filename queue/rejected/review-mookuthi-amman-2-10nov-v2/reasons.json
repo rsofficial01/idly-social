@@ -1,8 +1,0 @@
-{
-  "slug": "review-mookuthi-amman-2-10nov-v2",
-  "stage": "resolve",
-  "reasons": [
-    "no image: youtube_official: uploader 'Vels Music International' (https://www.youtube.com/@VelsMusicInternational) is not on the official channel allowlist (config/official_sources.json)"
-  ],
-  "rejected_at": "2026-11-10T05:27:44+00:00"
-}

@@ -1,0 +1,145 @@
+{
+  "slug": "review-scene-10nov-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T05:31:25+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "source_url": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "image_url": "https://i.ytimg.com/vi/LM4ByXufv2w/maxresdefault.jpg",
+    "credit": "Image: Sony Music South (official trailer)",
+    "organisation": "Sony Music South",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=LM4ByXufv2w: author 'Sony Music South' https://www.youtube.com/@SonyMusicSouthOfficial, title 'Scene - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan'",
+      "thumbnail https://i.ytimg.com/vi/LM4ByXufv2w/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@SonyMusicSouthOfficial",
+    "video_title": "Scene - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan"
+  },
+  "faces": [
+    [
+      725.5,
+      54.8,
+      113.5,
+      147.5,
+      0.918
+    ],
+    [
+      1059.3,
+      87.8,
+      170.0,
+      224.3,
+      0.909
+    ],
+    [
+      307.0,
+      147.6,
+      186.0,
+      295.9,
+      0.876
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        601,
+        231,
+        719,
+        386
+      ],
+      [
+        877,
+        251,
+        1054,
+        486
+      ],
+      [
+        240,
+        295,
+        435,
+        604
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "3 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        725.5,
+        54.8,
+        113.5,
+        147.5,
+        0.918
+      ],
+      [
+        1059.3,
+        87.8,
+        170.0,
+        224.3,
+        0.909
+      ],
+      [
+        307.0,
+        147.6,
+        186.0,
+        295.9,
+        0.876
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sony Music South (official trailer)"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Sony Music South (official trailer)",
+      "slug": "review-scene-10nov-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Scene is a solid pass rather than a rave. Most reviews idly read enjoy Suriya sending up his own hero image in Jithu Madhavan's offbeat cop comedy; the complaints are pacing that sags in stretches and, for two critics, jokes that wear thin. Hindustan Times's Neeshita Nyayapati: \"Suriya truly has fun poking fun at himself\".\n\nidly's consolidated score: 6.3/10, the mean of 15 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nSuriya plays a cop who would rather not be one: which star would you most like to see send up their own image next?\n\nSources: ratings from Cinema Express, Times of India, OnlyKollywood, Filmfare, Hindustan Times, India Today, NDTV, Pinkvilla, Indian Express, The Week, Deccan Herald, Great Andhra, Gulte, Telugu360 and Deccan Chronicle; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 16 reviews idly read in full.\n\n#Scene #Suriya #JithuMadhavan #TamilCinema #MovieReview\n\nImage: Sony Music South (official trailer)"
+}

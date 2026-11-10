@@ -40,5 +40,15 @@
     "posts/2026-11-10/review_mookuthi-amman-2_v2/03.jpg",
     "posts/2026-11-10/review_mookuthi-amman-2_v2/04.jpg"
   ],
-  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane."
+  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane.",
+  "slug": "review-mookuthi-amman-2-10nov-v2",
+  "caption_final": "Mookuthi Amman 2 finishes last of the six Diwali releases idly ranked. Half the reviews idly read say Nayanthara still holds the screen, but 9 of 10 fault the screenplay and 6 call the effects cheap. NDTV's Latha Srinivasan says it \"desperately needed a storytelling miracle\".\n\nidly's consolidated score: 3.6/10, the mean of 11 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nHow much do the effects matter to you in a devotional fantasy, next to the story and the star?\n\nSources: ratings from OnlyKollywood, DT Next, 123Telugu, Filmfare, NDTV, Times of India, India Today, Indian Express, Cinema Express, Gulte and Rediff; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 10 reviews idly read in full.\n\n#MookuthiAmman2 #Nayanthara #TamilCinema #MovieReview\n\nImage: Vels Music International (official video)",
+  "image_credit": "Image: Vels Music International (official video)",
+  "lane": {
+    "spec_sha256": "c2722f3626d229ada199509bcad99df9cce82392ab49151a39c8b8ee99d0d351",
+    "rendered_at": "2026-11-10T05:31:23+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=v263z3rTcLw",
+    "image_url": "https://i.ytimg.com/vi/v263z3rTcLw/maxresdefault.jpg"
+  }
 }
