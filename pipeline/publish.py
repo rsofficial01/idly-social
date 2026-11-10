@@ -5,6 +5,8 @@
         --caption-file caption.txt --score-file score.json --story-id 1691 [--collaborator idlynews] [--dry-run]
     # carousel: repeat --image / --video (2-10 items, in order). .mp4/.mov items are carousel videos.
     python3 pipeline/publish.py check [--offline] [--no-refresh]   # every account: token, id, host, quota, expiry
+    # an Instagram Story (a 1080x1920 JPEG, e.g. from `python3 -m cardkit.vertical story`), after the feed post
+    python3 pipeline/publish.py story --account idlytech --image posts/2026-11-09/pm-idlytech-1691/story.jpg [--dry-run]
 
 Access, per account (first match wins):
 1. IG_TOKEN_<ACCOUNT>: that account's own token from the Meta dashboard ("Generate token"). Its host is
@@ -34,8 +36,8 @@ if __package__ in (None, ""):
 
 from pipeline import editorial
 from pipeline.common import (ACCOUNTS, BUSINESS_ID, REPO, TOKEN_ENV, append_posted, default_date,
-                             default_slot, load_account_ids, load_accounts, log, now_utc, public_url,
-                             repo_path, token_env, update_accounts)
+                             default_slot, feed_posts, load_account_ids, load_accounts, log, now_utc,
+                             public_url, repo_path, token_env, update_accounts)
 
 GRAPH = "https://graph.facebook.com"        # Facebook Login (the shared system-user token)
 GRAPH_IG = "https://graph.instagram.com"    # Instagram User tokens
@@ -54,6 +56,11 @@ TRANSIENT_CODES = {1, 2, 4, 17, 32, 341, 613, 9004, 9007}
 AUTH_CODES = {102, 190, 2500}    # no access token, or an invalid / revoked one
 PERMISSION_CODES = {3, 10, 200}
 USERNAME_RE = re.compile(r"^[a-z0-9._]{1,30}$")
+# Stories never take the last STORY_HEADROOM posts of the daily cap: if Meta counts them in quota_usage (its docs
+# don't say), feed posts still have room. A story is an extra; it is skipped, never the feed post.
+STORY_HEADROOM = 5
+STORY_ASPECT = (0.5, 0.6)        # 9:16 is 0.5625
+STORY_PUBLIC_WAIT = [5, 10, 15, 30, 30, 60, 60, 60]     # ~4.5 min for raw.githubusercontent.com to serve a new file
 
 AUTH_HINT = ("Meta got no valid shared access token. In the Claude cloud environment, add the network secret "
              "for graph.facebook.com (RUNBOOK.md, 'Meta access'); elsewhere set IG_SYSTEM_TOKEN")
@@ -204,8 +211,9 @@ class IGClient:
     def create_container(self, ig_id: str, **fields) -> str:
         return self.call("POST", f"{ig_id}/media", data=fields)["id"]
 
-    def wait_finished(self, container_id: str) -> None:
-        for wait in POLL_WAITS:
+    def wait_finished(self, container_id: str, waits: list[int] | None = None) -> None:
+        waits = POLL_WAITS if waits is None else waits
+        for wait in waits:
             status = self.call("GET", container_id, params={"fields": "status_code,status"})
             code = status.get("status_code")
             if code == "FINISHED":
@@ -213,10 +221,11 @@ class IGClient:
             if code in ("ERROR", "EXPIRED", "PUBLISHED"):
                 raise IGError(f"container {container_id} is {code}: {status.get('status', '')}")
             time.sleep(wait)
-        raise IGError(f"container {container_id} not FINISHED after ~5 minutes")
+        raise IGError(f"container {container_id} not FINISHED after ~{max(1, round(sum(waits) / 60))} minutes")
 
-    def publish(self, ig_id: str, container_id: str, caption: str) -> str:
-        """media_publish is not idempotent: before any retry, check the container wasn't already published."""
+    def publish(self, ig_id: str, container_id: str, caption: str, finder=None) -> str:
+        """media_publish is not idempotent: before any retry, check the container wasn't already published.
+        finder(): how to find the media id of an already-published container (default: by caption in /media)."""
         for attempt in range(1, 4):
             try:
                 return self.call("POST", f"{ig_id}/media_publish", data={"creation_id": container_id},
@@ -224,7 +233,7 @@ class IGClient:
             except IGError as err:
                 status = self.call("GET", container_id, params={"fields": "status_code"}).get("status_code")
                 if status == "PUBLISHED":
-                    media_id = self.find_recent(ig_id, caption)
+                    media_id = finder() if finder else self.find_recent(ig_id, caption)
                     if media_id:
                         return media_id
                     raise IGError("container is PUBLISHED but its media id was not found: check the "
@@ -240,6 +249,14 @@ class IGClient:
             if (m.get("caption") or "")[:120] == caption[:120]:
                 return m["id"]
         return None
+
+    def find_recent_story(self, ig_id: str, since) -> str | None:
+        """The newest story published at or after `since` (stories are not listed in /media)."""
+        from pipeline.common import parse_time
+        data = self.call("GET", f"{ig_id}/stories", params={"fields": "id,timestamp", "limit": 10})
+        rows = [m for m in data.get("data") or [] if m.get("timestamp")]
+        rows = [m for m in rows if parse_time(m["timestamp"].replace("+0000", "+00:00")) >= since]
+        return max(rows, key=lambda m: m["timestamp"])["id"] if rows else None
 
     def permalink(self, media_id: str) -> str:
         return self.call("GET", media_id, params={"fields": "permalink"}).get("permalink", "")
@@ -652,6 +669,138 @@ def print_plan(account: str, items: list[tuple[str, str]], caption: str, alt_tex
     print(f"  GET  {base}/<media-id>?fields=permalink   -> append to state/posted.json")
 
 
+# ---- stories -------------------------------------------------------------------------------
+
+def check_story_jpeg(path: Path) -> None:
+    """Instagram Stories: JPEG, <= 8 MB, 9:16 (cardkit.vertical makes 1080x1920)."""
+    from PIL import Image
+
+    if not path.is_file():
+        raise ValueError(f"story image not found: {path}")
+    if path.stat().st_size > MAX_JPEG_BYTES:
+        raise ValueError(f"{path.name} is over 8 MB")
+    with Image.open(path) as im:
+        if im.format != "JPEG":
+            raise ValueError(f"{path.name} is {im.format}, Instagram needs JPEG")
+        w, h = im.size
+    if not STORY_ASPECT[0] <= w / h <= STORY_ASPECT[1] or not 600 <= w <= 1440:
+        raise ValueError(f"{path.name} is {w}x{h}: a story is 9:16 (1080x1920)")
+
+
+def resolve_public(item: str, prefixes=("posts/", "queue/")) -> tuple[str, Path | None]:
+    """(public URL, local file or None). A local file must be committed under posts/ or queue/ (raw.githubusercontent
+    serves it once pushed); an https URL passes through unchanged."""
+    if item.startswith("https://"):
+        return item, None
+    if item.startswith("http://"):
+        raise ValueError("media URLs must be https")
+    path = repo_path(item)
+    try:
+        rel = path.resolve().relative_to(REPO).as_posix()
+    except ValueError:
+        raise ValueError(f"{item} is outside the repo: it must be committed under posts/ so it is public")
+    if not rel.startswith(tuple(prefixes)):
+        raise ValueError(f"{item} must live under {' or '.join(prefixes)} so it is committed and public")
+    return public_url(rel), path
+
+
+def wait_public(url: str, path: Path | None, content_types=("image/jpeg",), waits=None) -> None:
+    """Wait until raw.githubusercontent.com serves the pushed file (Meta fetches it from there)."""
+    from pipeline.run_day import url_ready
+
+    why = ""
+    for wait in [0] + list(STORY_PUBLIC_WAIT if waits is None else waits):
+        time.sleep(wait)
+        ok, why = url_ready(url, path.stat().st_size if path else None, content_types=content_types)
+        if ok:
+            return
+    raise IGError(f"{url} is not public yet ({why}): commit and push it first")
+
+
+def linked_feed_post(account: str, local: Path | None) -> dict | None:
+    """The feed post a story belongs to: the latest feed post on the account whose images share the story's folder."""
+    if local is None:
+        return None
+    try:
+        folder = public_url(local.resolve().parent.relative_to(REPO).as_posix()) + "/"
+    except ValueError:
+        return None
+    hits = [p for p in feed_posts(account) if any(str(u).startswith(folder) for u in p.get("images") or [])]
+    return hits[-1] if hits else None
+
+
+def publish_story(account: str, image: str, *, dry_run: bool = False, story_of: str | None = None,
+                  date: str | None = None, slot: str | None = None, record_extra: dict | None = None,
+                  wait: bool = True) -> dict:
+    """Publish one Instagram Story (media_type=STORIES with image_url -> FINISHED -> media_publish) and record it
+    in state/posted.json as type "story", linked to its feed post (story_of: the feed post's media id; found from
+    the image's folder when not given). Same tokens and public-URL scheme as feed posts: a local image must be
+    committed and pushed under posts/ (or queue/); wait=True waits until raw.githubusercontent.com serves it.
+
+    Raises IGError/ValueError on failure. A story is an extra: callers catch, log and carry on (the feed post is
+    never affected). Returns {status, media_id, permalink, ...} or, for dry_run, {status: "dry-run", ...}."""
+    if account not in ACCOUNTS:
+        raise ValueError(f"unknown account {account!r}")
+    url, local = resolve_public(image)
+    if local is not None:
+        check_story_jpeg(local)
+    feed = None
+    if story_of is None:
+        feed = linked_feed_post(account, local)
+        story_of = (feed or {}).get("media_id")
+    date, slot = date or default_date(), slot or (feed or {}).get("slot") or default_slot()
+    if dry_run:
+        print_story_plan(account, url, story_of)
+        return {"status": "dry-run", "type": "story", "account": account, "images": [url], "story_of": story_of}
+    if wait:
+        wait_public(url, local)
+    client, ig_id = connect(account)
+    used, total = client.quota(ig_id)
+    cap = min(LOCAL_DAILY_CAP, total) - STORY_HEADROOM
+    if used >= cap:
+        raise IGError(f"@{account}: {used} posts in 24h; stories stop at {cap} so feed posts keep "
+                      f"{STORY_HEADROOM} of the {min(LOCAL_DAILY_CAP, total)}")
+    started = now_utc()
+    container = client.create_container(ig_id, media_type="STORIES", image_url=url)
+    log(f"  story container {container} created; waiting for FINISHED")
+    client.wait_finished(container)
+    media_id = client.publish(ig_id, container, "", finder=lambda: client.find_recent_story(ig_id, started))
+    try:
+        permalink = client.permalink(media_id)
+    except IGError:
+        permalink = ""
+    entry = {"type": "story", "account": account, "media_id": media_id, "permalink": permalink,
+             "posted_at": now_utc().isoformat(timespec="seconds"), "date": date, "slot": slot, "images": [url],
+             "story_of": story_of}
+    if feed and feed.get("story_id") is not None:
+        entry["story_id"] = feed["story_id"]
+    entry = {**(record_extra or {}), **entry}
+    append_posted(entry)
+    log(f"  story published on @{account}" + (f" (story of {story_of})" if story_of else ""))
+    return {"status": "posted", **entry}
+
+
+def print_story_plan(account: str, url: str, story_of: str | None) -> None:
+    """The would-be API calls for a story. Makes no network calls."""
+    cached = load_accounts().get(account, {})
+    own = account_token(account) is not None
+    host = (cached.get("host") or IG_HOST) if own else FB_HOST
+    base = f"{base_url(host)}/{API_VERSION}"
+    ig = cached.get("id") or "<ig-user-id>"
+    print(f"[dry-run] @{account} STORY  access: {describe_account_auth(account, cached.get('host'))}")
+    if own and host == IG_HOST:
+        print(f"  GET  {base}/me?fields=user_id,username        -> must be @{ACCOUNTS[account]['username']}")
+    else:
+        print(f"  GET  {base}/{ig}?fields=id,username        -> must be @{ACCOUNTS[account]['username']}")
+    print(f"  GET  {base}/{ig}/content_publishing_limit?fields=quota_usage,config"
+          f"  -> skip the story if used >= {LOCAL_DAILY_CAP - STORY_HEADROOM} (feed posts keep {STORY_HEADROOM})")
+    print(f"  POST {base}/{ig}/media  media_type=STORIES, image_url={url}")
+    print(f"  GET  {base}/<container-id>?fields=status_code,status   (poll until FINISHED, max ~5 min)")
+    print(f"  POST {base}/{ig}/media_publish  creation_id=<container-id>")
+    print(f"  GET  {base}/<media-id>?fields=permalink   -> state/posted.json: type story, "
+          f"story_of {story_of or '(no feed post found)'}")
+
+
 # ---- check: every account's token, id, host, publishing limit, expiry ---------------------
 
 def check_accounts(online: bool = True, expiry: bool = True) -> dict:
@@ -795,6 +944,13 @@ def main(argv=None) -> int:
                    help="the post has no idly.news article: caption must list Sources and not point to idly.news")
     p.add_argument("--force-below-gate", action="store_true",
                    help="MANUAL USE ONLY: publish a post scoring under 12/14 (loud, logged)")
+    st = sub.add_parser("story", help="publish an Instagram Story (a 1080x1920 JPEG) after its feed post")
+    st.add_argument("--account", required=True, choices=list(ACCOUNTS))
+    st.add_argument("--image", required=True,
+                    help="posts/<date>/<folder>/story.jpg (committed and pushed), or an https URL")
+    st.add_argument("--story-of", help="the feed post's media id (default: the feed post from the image's folder)")
+    st.add_argument("--no-wait", action="store_true", help="don't wait for raw.githubusercontent.com to serve it")
+    st.add_argument("--dry-run", action="store_true")
     c = sub.add_parser("check", help="every account: token, id, host, publishing limit, token expiry")
     c.add_argument("--offline", action="store_true", help="don't call the API; show the cached ids")
     c.add_argument("--no-refresh", action="store_true",
@@ -809,6 +965,10 @@ def main(argv=None) -> int:
                 date=args.date, slot=args.slot, alt_text=args.alt_text, collaborators=args.collaborator,
                 dry_run=args.dry_run, force_below_gate=args.force_below_gate,
                 idly_article=not args.no_idly_article, tags=args.tag)
+            print(json.dumps(result, indent=2))
+        elif args.cmd == "story":
+            result = publish_story(args.account, args.image, dry_run=args.dry_run, story_of=args.story_of,
+                                   wait=not args.no_wait)
             print(json.dumps(result, indent=2))
         elif args.cmd == "check":
             report = check_accounts(online=not args.offline, expiry=not args.no_refresh)

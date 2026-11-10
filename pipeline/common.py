@@ -109,18 +109,29 @@ def public_url(rel_path: str) -> str:
 
 
 # ---- posted state -----------------------------------------------------------
+# state/posted.json holds feed posts (no "type", or "feed"), Instagram Stories ("type": "story", "story_of": the feed
+# post's media id) and Reels ("type": "reel"). The feed rules (one story per account, one post per slot) look at feed
+# posts only; the 30-minute gap between posts on an account counts feed posts and reels (both show in the feed).
 
 def load_posted() -> list[dict]:
     return load_json(POSTED_FILE, default=[]) or []
 
 
+def entry_type(entry: dict) -> str:
+    return str(entry.get("type") or "feed")
+
+
+def feed_posts(account: str | None = None) -> list[dict]:
+    return [p for p in load_posted() if entry_type(p) == "feed" and account in (None, p.get("account"))]
+
+
 def posted_story_ids(account: str | None = None) -> set[int]:
-    return {p["story_id"] for p in load_posted() if account in (None, p.get("account"))}
+    return {p["story_id"] for p in feed_posts(account)}
 
 
 def slot_already_posted(account: str, date: str, slot: str) -> dict | None:
-    for p in load_posted():
-        if (p.get("account"), p.get("date"), p.get("slot")) == (account, date, slot):
+    for p in feed_posts(account):
+        if (p.get("date"), p.get("slot")) == (date, slot):
             return p
     return None
 

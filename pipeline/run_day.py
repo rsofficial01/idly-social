@@ -144,7 +144,9 @@ def render_and_stage(doc: dict, date: str, slot: str, dry_run: bool) -> dict:
 
 # ---- public URL check ---------------------------------------------------------------
 
-def url_ready(url: str, size: int | None = None) -> tuple[bool, str]:
+def url_ready(url: str, size: int | None = None, content_types=("image/jpeg",)) -> tuple[bool, str]:
+    """HTTP 200 with one of `content_types` (raw.githubusercontent.com serves .jpg as image/jpeg, .mp4 as
+    application/octet-stream) and, if given, the staged file's size."""
     try:
         r = requests.get(url, stream=True, timeout=30)
         r.close()
@@ -153,7 +155,7 @@ def url_ready(url: str, size: int | None = None) -> tuple[bool, str]:
     ctype, length = r.headers.get("content-type", ""), r.headers.get("content-length")
     if r.status_code != 200:
         return False, f"HTTP {r.status_code}"
-    if not ctype.startswith("image/jpeg"):
+    if not ctype.startswith(tuple(content_types)):
         return False, f"content-type {ctype!r}"
     if size and length and int(length) != size:
         return False, "size differs from the staged file (stale cache?)"

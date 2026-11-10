@@ -24,6 +24,8 @@ from urllib.parse import parse_qs, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from PIL import Image  # noqa: E402
+
 from pipeline import common, publish  # noqa: E402
 from tests.test_editorial import GOOD_CAPTION, GOOD_SCORE  # noqa: E402
 
@@ -51,6 +53,7 @@ class FakeGraph(BaseHTTPRequestHandler):
     fail_first_media = True
     polls: dict = {}
     containers: dict = {}
+    quota_usage = 3
 
     def log_message(self, *a):
         pass
@@ -132,8 +135,8 @@ class FakeGraph(BaseHTTPRequestHandler):
         if len(seg) == 1 and seg[0] in USER_BY_ID and method == "GET":
             return self._send(200, {"id": seg[0], "username": USER_BY_ID[seg[0]]})
         if len(seg) == 2 and seg[0] in USER_BY_ID and seg[1] == "content_publishing_limit":
-            return self._send(200, {"data": [{"quota_usage": 3, "config": {"quota_total": 50,
-                                                                           "quota_duration": 86400}}]})
+            return self._send(200, {"data": [{"quota_usage": FakeGraph.quota_usage,
+                                              "config": {"quota_total": 50, "quota_duration": 86400}}]})
         if len(seg) == 2 and seg[0] in USER_BY_ID and seg[1] == "media" and method == "POST":
             if FakeGraph.fail_first_media:
                 FakeGraph.fail_first_media = False
@@ -141,6 +144,8 @@ class FakeGraph(BaseHTTPRequestHandler):
             n = len(FakeGraph.containers) + 1
             if form.get("media_type") == "CAROUSEL":
                 cid = "car1"
+            elif form.get("media_type") == "STORIES":
+                cid = "st1"
             elif form.get("is_carousel_item") == "true":
                 cid = f"{'v' if form.get('media_type') == 'VIDEO' else 'i'}{n}"
             else:
@@ -169,6 +174,7 @@ class MockGraphCase(unittest.TestCase):
 
     def setUp(self):
         FakeGraph.calls, FakeGraph.polls, FakeGraph.containers, FakeGraph.refresh = [], {}, {}, {}
+        FakeGraph.quota_usage = 3
         FakeGraph.fail_first_media, FakeGraph.secret_configured = True, True
         FakeGraph.shared_token = self.env_token or None
         self.server = HTTPServer(("127.0.0.1", 0), FakeGraph)
@@ -317,6 +323,73 @@ class NetworkSecretMode(MockGraphCase):
         plan = self.out.getvalue()
         self.assertIn(f"{publish.GRAPH}/{publish.API_VERSION}/<ig-user-id>/media  media_type=VIDEO", plan)
         self.assertIn('collaborators=["idlynews"]', plan)
+
+
+class Stories(MockGraphCase):
+    """publish_story: STORIES container -> FINISHED -> media_publish, recorded as type "story"."""
+
+    def story(self, image="https://example.com/story.jpg", **kw):
+        kw.setdefault("wait", False)
+        return self.run_quiet(publish.publish_story, "idlytech", image, **kw)
+
+    def test_story_published_and_recorded(self):
+        res = self.story(story_of="17900000000000001", date="2026-11-10", slot="pm")
+        self.assertEqual(res["status"], "posted")
+        st = FakeGraph.containers["st1"]
+        self.assertEqual((st["media_type"], st["image_url"]), ("STORIES", "https://example.com/story.jpg"))
+        self.assertNotIn("caption", st)
+        self.assertTrue(any(p.endswith("/media_publish") and "creation_id=st1" in b for _, p, b, _ in FakeGraph.calls))
+        entry = json.loads(common.POSTED_FILE.read_text())[-1]
+        self.assertEqual((entry["type"], entry["story_of"], entry["media_id"]), ("story", "17900000000000001", "m1"))
+        self.assertEqual(common.posted_story_ids("idlytech"), set())           # a story is not a feed post
+        self.assertIsNone(common.slot_already_posted("idlytech", "2026-11-10", "pm"))
+        self.assert_nothing_leaked()
+
+    def test_story_links_to_the_feed_post_in_its_folder(self):
+        folder = "posts/2026-11-10/idlyautomotive-1427-six-airbags"
+        common.append_posted({"story_id": None, "account": "idlyautomotive", "media_id": "17909514279669792",
+                              "slot": "pm", "images": [common.public_url(f"{folder}/01.jpg")]})
+        feed = publish.linked_feed_post("idlyautomotive", common.REPO / folder / "01.jpg")
+        self.assertEqual(feed["media_id"], "17909514279669792")
+        self.assertIsNone(publish.linked_feed_post("idlytech", common.REPO / folder / "01.jpg"))
+
+    def test_story_keeps_headroom_for_feed_posts(self):
+        FakeGraph.quota_usage = publish.LOCAL_DAILY_CAP - publish.STORY_HEADROOM
+        with self.assertRaises(publish.IGError) as ctx:
+            self.story()
+        self.assertIn("feed posts keep", str(ctx.exception))
+        self.assertFalse(any(m == "POST" for m, *_ in FakeGraph.calls))
+        self.assertFalse(common.POSTED_FILE.exists())
+
+    def test_story_dry_run_and_cli(self):
+        code = self.run_quiet(publish.main, ["story", "--account", "idlytech", "--image",
+                                             "https://example.com/story.jpg", "--dry-run"])
+        self.assertEqual(code, 0)
+        self.assertEqual(FakeGraph.calls, [])
+        self.assertIn("media_type=STORIES, image_url=https://example.com/story.jpg", self.out.getvalue())
+
+    def test_story_image_checks(self):
+        tmp = Path(self.tmp.name)
+        Image.new("RGB", (1080, 1350)).save(tmp / "feed.jpg", "JPEG")
+        Image.new("RGB", (1080, 1920)).save(tmp / "story.png", "PNG")
+        Image.new("RGB", (1080, 1920)).save(tmp / "story.jpg", "JPEG")
+        with self.assertRaises(ValueError):
+            publish.check_story_jpeg(tmp / "feed.jpg")
+        with self.assertRaises(ValueError):
+            publish.check_story_jpeg(tmp / "story.png")
+        publish.check_story_jpeg(tmp / "story.jpg")
+        with self.assertRaises(ValueError):                                     # outside posts/: not public
+            publish.publish_story("idlytech", str(tmp / "story.jpg"), dry_run=True)
+
+    def test_published_container_found_on_the_stories_edge(self):
+        client = publish.IGClient(host=publish.FB_HOST)
+        with mock.patch.object(client, "call", side_effect=[
+                publish.IGError("timeout", transient=True), {"status_code": "PUBLISHED"},
+                {"data": [{"id": "old", "timestamp": "2026-11-10T01:00:00+0000"},
+                          {"id": "new", "timestamp": "2026-11-10T09:00:05+0000"}]}]):
+            since = common.parse_time("2026-11-10T09:00:00+00:00")
+            media_id = client.publish("1789", "st1", "", finder=lambda: client.find_recent_story("1789", since))
+        self.assertEqual(media_id, "new")
 
 
 class EnvTokenMode(MockGraphCase):
