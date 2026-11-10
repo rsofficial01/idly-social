@@ -577,7 +577,8 @@ def hype_detail_html(post: dict, slide: dict) -> str:
 </div></body></html>"""
 
 
-def _check_hype(p: dict) -> None:
+def _check_hype(p: dict, reel: bool = False) -> None:
+    """Raise if the post dict can't be rendered. reel=True (cardkit.reel): a detail slide may hold just a chart."""
     for k in ('acct', 'slug'):
         if not p.get(k):
             raise ValueError(f"post {p.get('slug', '?')}: missing {k!r}")
@@ -601,8 +602,9 @@ def _check_hype(p: dict) -> None:
                 raise ValueError(f"post {p['slug']} slide {i}: cover needs a photo_credit (the vertical credit "
                                  f"on the right edge is always filled)")
         elif kind == 'detail':
-            if not (s.get('stat') or s.get('bullets')):
-                raise ValueError(f"post {p['slug']} slide {i}: detail needs a stat or bullets")
+            if not (s.get('stat') or s.get('bullets') or (reel and s.get('chart'))):
+                more = " (a chart alone is for reels: the feed slide doesn't draw it)" if s.get('chart') else ''
+                raise ValueError(f"post {p['slug']} slide {i}: detail needs a stat or bullets{more}")
         else:
             raise ValueError(f"post {p['slug']} slide {i}: unknown slide type {kind!r}")
 

@@ -809,7 +809,7 @@ class EndToEndDryRun(LaneCase):
         self.assertEqual(code, 0, err)
         rdir = self.q / "reels" / "rendered" / "reel-wagonr-oct-e2e"
         rep = json.loads((rdir / "render_report.json").read_text())
-        self.assertAlmostEqual(rep["duration"], 9.5)
+        self.assertAlmostEqual(rep["duration"], 10.0)                  # cover 3.5 s, the detail 3.5 s, end card 3 s
         self.assertEqual(rep["video"]["problems"], [])
         self.assertEqual([p["type"] for p in rep["pages"]], ["cover", "detail", "end"])
         publish.check_reel_mp4(rdir / "reel.mp4")
