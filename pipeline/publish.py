@@ -489,6 +489,28 @@ def clean_collaborators(collaborators, account: str) -> list[str]:
     return list(dict.fromkeys(str(c).strip().lstrip("@").lower() for c in collaborators or []))
 
 
+MAX_TAGS = 3
+
+
+def clean_tags(tags, account: str) -> list[str]:
+    """Official accounts to tag: Instagram usernames, not one of idly's own, at most MAX_TAGS."""
+    out = []
+    for t in tags or []:
+        name = str(t).strip().lstrip("@").lower()
+        if not name or name in out or name in {a["username"] for a in ACCOUNTS.values()}:
+            continue
+        if not all(c.isalnum() or c in "._" for c in name) or len(name) > 30:
+            raise ValueError(f"tag {t!r} is not an Instagram username")
+        out.append(name)
+    return out[:MAX_TAGS]
+
+
+def user_tags(tags: list[str]) -> list[dict]:
+    """Tag positions on the cover: along the upper middle of the photo, clear of the logo and the headline."""
+    xs = {1: [0.5], 2: [0.35, 0.65], 3: [0.25, 0.5, 0.75]}[len(tags)]
+    return [{"username": u, "x": x, "y": 0.3} for u, x in zip(tags, xs)]
+
+
 def gate(score: dict | None, force_below_gate: bool) -> bool:
     """Raise unless the score passes the 12/14 gate. Returns True when a manual force was used."""
     if editorial.passes_gate(score):
@@ -508,15 +530,18 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
                  date: str | None = None, slot: str | None = None, alt_text: str = "",
                  collaborators: list[str] | None = None, dry_run: bool = False,
                  force_below_gate: bool = False, idly_article: bool = True,
-                 record_extra: dict | None = None) -> dict:
+                 record_extra: dict | None = None, tags: list[str] | None = None) -> dict:
     """Publish one image, or a 2-10 item carousel (images and/or .mp4/.mov videos).
     record_extra: extra fields for this post's state/posted.json entry (never overrides the core ones).
+    tags: up to 3 official Instagram accounts (the brand, studio or label whose image this is) tagged on the
+    cover image. A tag Instagram rejects never blocks the post: it is retried without tags.
     Returns {status, media_id, permalink, ...}."""
     if account not in ACCOUNTS:
         raise ValueError(f"unknown account {account!r}")
     if not 1 <= len(media) <= MAX_ITEMS:
         raise ValueError(f"need 1 image, or 2-{MAX_ITEMS} items for a carousel")
     collaborators = clean_collaborators(collaborators, account)
+    tags = clean_tags(tags, account)
     errs, warns = editorial.post_problems(caption, score, idly_article=idly_article)
     if errs:
         raise GateRefused("refused: caption problems: " + "; ".join(errs))
@@ -541,17 +566,32 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
     log(f"  @{username}: quota {used}/{min(LOCAL_DAILY_CAP, total)} used in the last 24h")
 
     extra = {"collaborators": json.dumps(collaborators)} if collaborators else {}
+    tag_field = {"user_tags": json.dumps(user_tags(tags))} if tags else {}
+
+    def with_tags(**fields):
+        """Create a container carrying the tags; if Instagram rejects them, without (never blocks the post)."""
+        if not tag_field:
+            return client.create_container(ig_id, **fields)
+        try:
+            return client.create_container(ig_id, **fields, **tag_field)
+        except IGError as e:
+            log(f"  warning: tags {tags} rejected ({e}); posting without tags")
+            tag_field.clear()
+            return client.create_container(ig_id, **fields)
+
     if len(items) == 1:
         fields = {"image_url": urls[0], "caption": caption, **extra}
         if alt_text:
             fields["alt_text"] = alt_text
-        container = client.create_container(ig_id, **fields)
+        container = with_tags(**fields)
     else:
         children = []
-        for kind, url in items:
+        for i, (kind, url) in enumerate(items):
             if kind == "video":
                 children.append(client.create_container(ig_id, media_type="VIDEO", video_url=url,
                                                         is_carousel_item="true"))
+            elif i == 0:
+                children.append(with_tags(image_url=url, is_carousel_item="true"))
             else:
                 children.append(client.create_container(ig_id, image_url=url, is_carousel_item="true"))
         for child in children:            # videos take a while: poll every child until FINISHED
@@ -569,6 +609,8 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
     }
     if forced:
         entry["forced_below_gate"] = True
+    if tag_field:
+        entry["tagged"] = tags
     entry = {**(record_extra or {}), **entry}
     append_posted(entry)
     log(f"  published @{username}: {permalink}")
@@ -744,6 +786,8 @@ def main(argv=None) -> int:
     p.add_argument("--alt-text", default="")
     p.add_argument("--collaborator", action="append", default=[],
                    help="optional; repeat for up to 3 Instagram usernames (default: none)")
+    p.add_argument("--tag", action="append", default=[],
+                   help="optional; repeat for up to 3 official accounts whose image this is (brand, studio, label)")
     p.add_argument("--date")
     p.add_argument("--slot", choices=["am", "pm"])
     p.add_argument("--dry-run", action="store_true")
@@ -764,7 +808,7 @@ def main(argv=None) -> int:
                 score=json.loads(args.score_file.read_text(encoding="utf-8")), story_id=args.story_id,
                 date=args.date, slot=args.slot, alt_text=args.alt_text, collaborators=args.collaborator,
                 dry_run=args.dry_run, force_below_gate=args.force_below_gate,
-                idly_article=not args.no_idly_article)
+                idly_article=not args.no_idly_article, tags=args.tag)
             print(json.dumps(result, indent=2))
         elif args.cmd == "check":
             report = check_accounts(online=not args.offline, expiry=not args.no_refresh)

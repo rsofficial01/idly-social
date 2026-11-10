@@ -575,7 +575,7 @@ def publish_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> t
     res = publish.publish_post(
         account, urls, caption, score=low, story_id=spec.get("story_id"), date=now_ist().date().isoformat(),
         slot=LANE_SLOT, alt_text=spec.get("alt_text", ""), collaborators=spec.get("collaborators"),
-        dry_run=dry_run, idly_article=spec["idly_article"],
+        dry_run=dry_run, idly_article=spec["idly_article"], tags=spec.get("tags"),
         record_extra={"lane": "official-image", "lane_slug": slug, "image_credit": spec.get("image_credit"),
                       "image_source": (spec.get("lane") or {}).get("source_url"), "archived_images": archived,
                       "score_self": editorial.score_total(spec["scores"]["self"]),

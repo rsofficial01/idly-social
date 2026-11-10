@@ -163,6 +163,15 @@
         "pattern": "^posts/[A-Za-z0-9_./-]+\\.jpg$"
       },
       "description": "Repo paths of prebuilt 1080x1350 JPEG slides (under posts/) added after the lane-rendered cover and detail slides, e.g. a review's ratings chart. The cover is always the lane's official image."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "string",
+        "pattern": "^@?[A-Za-z0-9._]{1,30}$"
+      },
+      "description": "Official Instagram accounts of whoever published the image (brand, studio, label), tagged on the cover. Verified handles only; a rejected tag never blocks the post."
     }
   },
   "dependentRequired": {
