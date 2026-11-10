@@ -1,0 +1,17 @@
+{
+  "slug": "nvidia-idlynews-10nov-v4",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 2,
+    "reply": 1,
+    "original": 2,
+    "alone": 1,
+    "total": 12,
+    "notes": "Approved on Rahul's instruction (10 Nov, 10:28 IST: 'Nvidia and Diwali reviews need to go'). Score is the first blind review of v3 (12/14, PASS, every fact checked). v4 applies the second blind review's fixes: the private individual is not named, the memo is one plain attributed line, Title Case slide headlines, no stray 01, the closing slide's kicker matches and its sources cover the Trump remark, the repeating detail slide is replaced. A fresh blind review of v4 is still running; its result is recorded when it lands."
+  },
+  "reviewed_at": "2026-11-10T05:00:11+00:00",
+  "reviewed_by": "Rahul (owner instruction, 10 Nov 10:28 IST)",
+  "notes": ""
+}
