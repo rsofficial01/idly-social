@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 1,
+ "total": 13,
+ "notes": "Final = lower of self 13/14 and blind reviewer 13/14 (tie: reviewer's per-check breakdown; per-check minimum 13/14). Reviewer: alone 1: only the caption ('The cover is a NASA satellite image of the haze over north India on 10 November') says what the cover picture is. On the card, a viewer sees a map-like haze with just the small vertical NASA credit, so the image doesn't fully explain itself. Every other check is strong: 1,500+ vs under 400 on the cover, attributed CPCB reasoning, the six bands and the 24-hour rule worth saving, and an own-life question. Self: hook 2: the 1,500+ vs under-400 contrast is on the cover. read 2: three tight slides, each number said once. send 2: everyone in north India who saw a four-figure app reading. keep 2: the six official bands plus the 24-hour vs hourly rule. reply 2: own-life question about which reading people check. original 2: idly's synthesis of CPCB's statement, PTI/ToI/ET/Tribune/IE, NASA image credited. alone 1: the cover headline and slides carry the story, but nothing on the card itself says the satellite image shows north India's haze on 10 Nov; only the caption and alt text say so."
+}

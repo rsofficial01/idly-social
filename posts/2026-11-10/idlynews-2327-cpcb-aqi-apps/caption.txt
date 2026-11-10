@@ -1,0 +1,13 @@
+The Central Pollution Control Board (CPCB) said on 10 November that the gap between private apps' air quality readings and its own National Air Quality Index comes from different methods, not under-reporting. After Diwali, screenshots shared online showed apps putting Delhi's AQI between 1,500 and 1,800, while CPCB's figures stayed below 400.
+
+CPCB says its index stops at 500 by design: everything from 401 to 500 is "Severe", and the health advice would not change above that. Its figure is a 24-hour average; CPCB says apps often show hourly readings, which run higher during short spikes and lower once pollution falls. It also says the particle analysers it installed when the index began in 2015 were calibrated for up to 1,000 micrograms per cubic metre, so hourly readings above that are left out of the average, which can show up as data gaps at a station during extreme episodes such as Diwali fireworks. CPCB says its instruments are being replaced and its network expanded.
+
+The cover is a NASA satellite image of the haze over north India on 10 November.
+
+Which AQI reading do you check before stepping out?
+
+Sources: CPCB, PTI, The Indian Express, The Times of India, The Economic Times, The Tribune
+
+#AirQuality #AQI #Delhi #CPCB #idlynews
+
+Image: NASA Worldview (GIBS), MODIS Terra, 10 Nov 2026

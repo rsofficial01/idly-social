@@ -1,0 +1,60 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2327-cpcb-aqi-apps",
+  "date": "10 Nov 2026",
+  "sources": [
+    "CPCB",
+    "PTI",
+    "PIB",
+    "The Indian Express",
+    "The Times of India",
+    "The Economic Times",
+    "The Tribune"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Why Apps Showed Delhi AQI 1,500+ but CPCB Under 400",
+      "photo": "_work/2026-11-10-hourly-2327/idlynews/frame/cover_source.png",
+      "photo_credit": "Image: NASA Worldview (GIBS), MODIS Terra, 10 Nov 2026",
+      "focal": [
+        0.6,
+        0.42
+      ],
+      "zoom": 1.1
+    },
+    {
+      "type": "detail",
+      "stat": "500",
+      "stat_label": "CPCB Says Its Index Stops at 500",
+      "bullets": [
+        "Bands: Good 0–50, Satisfactory 51–100, Moderate 101–200",
+        "Poor 201–300, Very Poor 301–400, Severe 401–500",
+        "Higher readings stay Severe; advice unchanged, CPCB says"
+      ],
+      "credit_line": "Sources: CPCB, PIB, The Indian Express, The Times of India"
+    },
+    {
+      "type": "detail",
+      "stat": "24 HRS",
+      "stat_label": "Official AQI Is a 24-Hour Average",
+      "bullets": [
+        "Apps often show hourly readings, CPCB says",
+        "So they read higher during short spikes",
+        "And lower than CPCB's once pollution falls"
+      ],
+      "credit_line": "Sources: CPCB, PTI, The Times of India"
+    },
+    {
+      "type": "detail",
+      "stat": "1,000",
+      "stat_label": "Upper Limit of CPCB's Older Analysers, in µg/m³",
+      "bullets": [
+        "Hourly readings above it are dropped, CPCB says",
+        "Those hours don't count toward the daily AQI",
+        "CPCB says instruments are being replaced"
+      ],
+      "credit_line": "Sources: CPCB, PTI, The Economic Times"
+    }
+  ]
+}

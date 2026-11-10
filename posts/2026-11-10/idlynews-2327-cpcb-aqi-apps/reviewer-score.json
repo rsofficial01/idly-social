@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 1,
+ "total": 13,
+ "notes": "alone 1: only the caption ('The cover is a NASA satellite image of the haze over north India on 10 November') says what the cover picture is. On the card, a viewer sees a map-like haze with just the small vertical NASA credit, so the image doesn't fully explain itself. Every other check is strong: 1,500+ vs under 400 on the cover, attributed CPCB reasoning, the six bands and the 24-hour rule worth saving, and an own-life question."
+}

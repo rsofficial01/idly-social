@@ -1,0 +1,35 @@
+{
+ "account": "idlynews",
+ "title": "CPCB (10 Nov 2026) says the gap between private apps' AQI and its National Air Quality Index comes from method differences, not under-reporting: index capped at 500 by design (Severe 401–500), 24-hour average vs hourly app readings, analysers installed in 2015 calibrated to 1,000 µg/m³ so higher hourly readings are left out; post-Diwali screenshots showed apps at 1,500–1,800 for Delhi while CPCB stayed below 400",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.newindianexpress.com/cities/delhi/2026/Nov/10/aqi-differences-with-private-apps-due-to-methodology-not-under-reporting-cpcb",
+  "https://m.economictimes.com/news/india/aqi-differences-with-private-apps-due-to-different-methodology-not-data-under-reporting-cpcb/articleshow/135716348.cms",
+  "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms",
+  "https://www.aninews.in/news/national/general-news/cpcb-clarifies-delhi-aqi-data-gaps-says-readings-beyond-calibrated-range-excluded20261110223014",
+  "https://www.tribuneindia.com/news/india/376-vs-1500-cpcb-private-agencies-differ-sharply-on-aqi-readings/",
+  "https://indianexpress.com/article/explained/explained-climate/delhi-aqi-today-cpcb-private-readings-difference-grap-rules-10956037/",
+  "https://www.deccanherald.com/amp/story/india%2Faqi-differences-with-private-apps-due-to-different-methodology-not-data-under-reporting-cpcb-4214112",
+  "PIB 2026 NAQI document (static.pib.gov.in .../doc_9816_20260907_20291701.pdf), cited by the reviewer for the band ranges"
+ ],
+ "photo_source": {
+  "page": "https://worldview.earthdata.nasa.gov/?l=MODIS_Terra_CorrectedReflectance_TrueColor&t=2026-11-10&v=69.6,21.3,80.8,33.7 (NASA Worldview permalink); terms: https://nasa-gibs.github.io/gibs-api-docs/",
+  "file": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&CRS=EPSG:4326&TIME=2026-11-10&BBOX=21.3,69.6,33.7,80.8&FORMAT=image/jpeg&WIDTH=2160&HEIGHT=2700 (NASA Worldview snapshot API; this exact file was used: 2160x2700, sha1 18c08540590249cb5be6fa0a761801ac658a4a8f, saved as _work/2026-11-10-hourly-2327/idlynews/photos/nasa/modis_terra_2026-11-10_w69.8_2160x2700.jpg)",
+  "licence": "Public domain (US government work, NASA); GIBS data-use guidance: 'NASA promotes full and open sharing of data', acknowledgement requested",
+  "author": "NASA EOSDIS / GIBS (MODIS on Terra)",
+  "credit": "Image: NASA Worldview (GIBS), MODIS Terra, 10 Nov 2026",
+  "subject": "True-colour MODIS Terra satellite view of north India on 10 Nov 2026 (lat 21.3–33.7 N, lon 69.6–80.8 E): grey haze over the plains of Punjab, Haryana, Delhi and UP below the snow-capped Himalaya; no people, no text, no watermark, no overlays",
+  "viewed": true,
+  "processing": "Snapshot requested at 2160x2700 with an aspect corrected for latitude (11.2 deg lon x 12.4 deg lat at ~27.5 N gives a true 4:5); pipeline.framing ok, 0 faces, cover_source.png pixel-identical to the source; cardkit hype cover focal (0.6, 0.42), zoom 1.1 (override of framing's 0.5/0.519/1.04, to keep the black orbit-gap wedge at x>=2117, y>=2540 out of frame): crop box (196, 0, 2160, 2455), 0.55x downscale, scrim 0.69; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C2 (blind reviewer), ceiling 14 / realistic 13. NASA Worldview MODIS image ruled lawful (public domain, official agency imagery) and the actual event. Fixes applied: attribute CPCB's arguments; app figures as 'screenshots shared online', no app named, no AQI.in 955; at most 3 detail slides with the bands folded into '500'; 1,500 and 400 only on the cover; neutral wording; own-life reply question; credit 'Image: NASA Worldview (GIBS), MODIS Terra, 10 Nov 2026' on the cover and as the caption's last line; no tag; zoom >=1.04 with the wedge out of frame. C1 Maharashtra UCC: DROP (fallback only), ceiling 12–13. C3 Siang dam: DROP, ~10.",
+  "g2": "FIX then applied (blind reviewer): band ranges re-sourced (slide 2 credit 'Sources: CPCB, PIB, The Indian Express, The Times of India'; The Indian Express added to the caption Sources); slide 4 label 'Upper Limit of CPCB's Older Analysers, in µg/m³' and caption/alt wording that the 1,000 µg/m³ limit applies to analysers installed when the index began in 2015; optional slide 3 rewrite taken. All other facts checked against TNIE/PTI, ET, ToI, Tribune, IE.",
+  "g3": "PASS (blind reviewer): NASA public-domain MODIS image, source URL/licence/author/terms recorded; focal (0.6, 0.42), zoom 1.1 keeps the orbit-gap wedge out (crop bottom y 2455 < 2540), 0.55x downscale; Delhi's haze at ~(699, 610) above the headline block; no people/text/watermark. Fix: 'smog' -> 'haze' for the picture in caption para 3 and alt text (applied).",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 2, keep 2, reply 2, original 2, alone 1 (only the caption says the picture is north India's haze on 10 Nov). All four slides clean; logo legible on dark foothills; NASA vertical credit complete and clear. Self 13/14 (alone 1, same reason)."
+ }
+}
