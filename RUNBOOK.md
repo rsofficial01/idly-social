@@ -146,6 +146,11 @@ The lane does the same automatically and falls through to the next image attempt
 Rahul's go-ahead (10 Nov 2026): every feed post may get an **Instagram Story**, one 1080x1920 card made from the same
 post dict as the hype cover (`cardkit/vertical.py`).
 
+> **Switch:** stories and reels go live only while `config/formats.json` says so (`{"stories": true, "reels": true}`).
+> Today both are `false` (Rahul reviews the format first): `publish.py story`/`reel` refuse, and the lane logs
+> `stories paused (config/formats.json)` / `reels paused (…)`, posts the feed post as usual and keeps approved reels
+> waiting. A missing file means paused. Only Rahul turns them on.
+
 - **The look.** The photo fills the width at the top: the cover's own 4:5 full-bleed crop (same photo, focal and
   zoom), or taller (up to 1080x1440) when the photo allows. It fades through a smooth gradient into the dark brand
   background (#0A0A0A), where the text sits: a small `@account` kicker, the cover's Title Case headline (Inter,

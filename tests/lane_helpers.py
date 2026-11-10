@@ -198,6 +198,13 @@ def stub_reel_renderer(post, out_dir, details, report):
             "duration": 11.0, "frames": 330, "problems": []}
 
 
+def formats_file(folder, stories: bool = True, reels: bool = True) -> Path:
+    """A config/formats.json stand-in (the real one keeps stories and reels paused until Rahul turns them on)."""
+    path = Path(folder) / "formats.json"
+    path.write_text(json.dumps({"stories": stories, "reels": reels}))
+    return path
+
+
 def chrome_available() -> bool:
     try:
         import playwright  # noqa: F401

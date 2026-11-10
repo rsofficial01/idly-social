@@ -19,8 +19,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline import framing, gitsync, lane, official_image, publish  # noqa: E402
 from pipeline.common import now_utc  # noqa: E402
 from tests.lane_helpers import (CAR, CAR_CREDIT, CAPTION, GOOD_SCORE, REEL_CALLS, REVIEWER_SCORE,  # noqa: E402
-                                FakeFetcher, chrome_available, make_spec, og_routes, stub_reel_renderer,
-                                stub_renderer, stub_story_renderer)
+                                FakeFetcher, chrome_available, formats_file, make_spec, og_routes,
+                                stub_reel_renderer, stub_renderer, stub_story_renderer)
 
 
 class LaneCase(unittest.TestCase):
@@ -35,7 +35,9 @@ class LaneCase(unittest.TestCase):
                         mock.patch.object(lane, "REPORTS", root / "reports"),
                         mock.patch.object(official_image, "FETCHER", FakeFetcher(og_routes())),
                         # the real state/posted.json must not leak into tests (30-minute gap per account)
-                        mock.patch("pipeline.common.POSTED_FILE", root / "state" / "posted.json")]
+                        mock.patch("pipeline.common.POSTED_FILE", root / "state" / "posted.json"),
+                        # stories and reels on for these tests (config/formats.json itself keeps them paused)
+                        mock.patch.object(publish, "FORMATS_FILE", formats_file(root))]
         if not self.real_renderer:
             self.patches.append(mock.patch.object(lane, "RENDERER", stub_renderer))
             self.patches.append(mock.patch.object(lane, "STORY_RENDERER", stub_story_renderer))
@@ -467,6 +469,22 @@ class LaneStories(PublishApproved):
         self.assertIn("media_type=STORIES", out)
         self.assertIn("queue/rendered/wagonr-oct/story.jpg", out)
 
+    def test_stories_paused_by_the_switch(self):
+        formats_file(self.tmp.name, stories=False)
+        story, result = self.publish_run()
+        story.assert_not_called()
+        self.assertEqual(result["status"], "posted")                    # the feed post goes out as usual
+        self.assertEqual(result["story"]["status"], "paused")
+        self.assertIn("stories paused (config/formats.json)", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_missing_switch_file_means_paused(self):
+        Path(publish.FORMATS_FILE).unlink()
+        self.assertEqual(publish.formats(), {"stories": False, "reels": False})
+        Path(publish.FORMATS_FILE).write_text("{not json")
+        self.assertEqual(publish.formats(), {"stories": False, "reels": False})
+        Path(publish.FORMATS_FILE).write_text('{"stories": "yes", "reels": 1}')
+        self.assertEqual(publish.formats(), {"stories": False, "reels": False})
+
     def test_stories_do_not_count_as_posts(self):
         from pipeline import common
         recent = (now_utc() - timedelta(minutes=5)).isoformat(timespec="seconds")
@@ -643,6 +661,18 @@ class LaneReels(PublishApproved):
         self.assertEqual(json.loads((self.q / "reels" / "posted" / "reel-wagonr-oct" / "result.json").read_text())
                          ["media_id"], "1802")
         self.assertIn("posted reel · @idlyautomotive reel-wagonr-oct", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_reels_paused_by_the_switch(self):
+        self.rendered_reel()
+        self.run_cli("approve", "reel-wagonr-oct", "--score-file", self.score_file(REVIEWER_SCORE))
+        formats_file(self.tmp.name, reels=False)
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_reel") as reel, mock.patch.object(lane, "MIN_GAP", timedelta(0)):
+            code, _, err = self.run_cli("publish-approved")
+        self.assertEqual(code, 0, err)
+        reel.assert_not_called()
+        self.assertTrue((self.q / "reels" / "approved" / "reel-wagonr-oct.json").exists())   # waits, not rejected
+        self.assertIn("reels paused (config/formats.json)", next(self.reports.glob("lane-*.md")).read_text())
 
     def test_reel_waits_for_the_gap_after_the_feed_post(self):
         self.rendered_reel()

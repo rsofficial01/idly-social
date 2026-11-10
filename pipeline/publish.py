@@ -84,6 +84,33 @@ class GateRefused(Exception):
     pass
 
 
+class FormatPaused(Exception):
+    """Stories or reels are switched off in config/formats.json."""
+
+
+# Rahul's switch (10 Nov 2026): stories and reels go live only when he turns them on. A missing or unreadable file, or
+# anything but a literal true, means off.
+FORMATS_FILE = REPO / "config" / "formats.json"
+FORMATS = ("stories", "reels")
+
+
+def formats() -> dict[str, bool]:
+    try:
+        doc = json.loads(FORMATS_FILE.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        doc = {}
+    return {k: isinstance(doc, dict) and doc.get(k) is True for k in FORMATS}
+
+
+def format_enabled(kind: str) -> bool:
+    return formats().get(kind, False)
+
+
+def require_format(kind: str) -> None:
+    if not format_enabled(kind):
+        raise FormatPaused(f"{kind} paused (config/formats.json): Rahul turns them on there")
+
+
 class IGError(Exception):
     def __init__(self, message: str, code=None, transient=False, hint: str = ""):
         super().__init__(message + (f" [{hint}]" if hint else ""))
@@ -784,6 +811,8 @@ def publish_story(account: str, image: str, *, dry_run: bool = False, story_of: 
     never affected). Returns {status, media_id, permalink, ...} or, for dry_run, {status: "dry-run", ...}."""
     if account not in ACCOUNTS:
         raise ValueError(f"unknown account {account!r}")
+    if not dry_run:
+        require_format("stories")
     url, local = resolve_public(image)
     if local is not None:
         check_story_jpeg(local)
@@ -831,6 +860,8 @@ def print_story_plan(account: str, url: str, story_of: str | None) -> None:
     base = f"{base_url(host)}/{API_VERSION}"
     ig = cached.get("id") or "<ig-user-id>"
     print(f"[dry-run] @{account} STORY  access: {describe_account_auth(account, cached.get('host'))}")
+    if not format_enabled("stories"):
+        print("  PAUSED: stories are off in config/formats.json, so a real run is refused")
     if own and host == IG_HOST:
         print(f"  GET  {base}/me?fields=user_id,username        -> must be @{ACCOUNTS[account]['username']}")
     else:
@@ -929,6 +960,8 @@ def publish_reel(account: str, video: str, caption: str, *, score: dict | None, 
     fallbacks) or an https URL. Recorded in state/posted.json as type "reel". Returns {status, media_id, ...}."""
     if account not in ACCOUNTS:
         raise ValueError(f"unknown account {account!r}")
+    if not dry_run:
+        require_format("reels")
     errs, warns = editorial.post_problems(caption, score, idly_article=idly_article)
     if errs:
         raise GateRefused("refused: caption problems: " + "; ".join(errs))
@@ -1019,6 +1052,8 @@ def print_reel_plan(account: str, sources: list[tuple[str, str]], caption: str, 
     ig = cached.get("id") or "<ig-user-id>"
     print(f"[dry-run] @{account} REEL  score {editorial.score_total(score)}/{editorial.SCORE_MAX}  "
           f"access: {describe_account_auth(account, cached.get('host'))}")
+    if not format_enabled("reels"):
+        print("  PAUSED: reels are off in config/formats.json, so a real run is refused")
     print(f"  GET  {base}/{ig}/content_publishing_limit?fields=quota_usage,config  -> stop if used >= {LOCAL_DAILY_CAP}")
     extra = (f", cover_url={cover_url}" if cover_url else "") + (f", alt_text=<{len(alt_text)} chars>" if alt_text else "")
     for i, (name, target) in enumerate(sources):
@@ -1227,7 +1262,7 @@ def main(argv=None) -> int:
             report = check_accounts(online=not args.offline, expiry=not args.no_refresh)
             print("\n".join(format_check(report)))
             return 0 if report["ok"] or args.offline else 1
-    except GateRefused as e:
+    except (GateRefused, FormatPaused) as e:
         log(str(e))
         return 2
     except (IGError, ValueError) as e:

@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from PIL import Image  # noqa: E402
 
 from pipeline import common, publish  # noqa: E402
-from tests.lane_helpers import mp4_bytes  # noqa: E402
+from tests.lane_helpers import formats_file, mp4_bytes  # noqa: E402
 from tests.test_editorial import GOOD_CAPTION, GOOD_SCORE  # noqa: E402
 
 TOKEN = "FAKE-SYSTEM-USER-TOKEN-do-not-leak-123"
@@ -348,6 +348,24 @@ class NetworkSecretMode(MockGraphCase):
 class Stories(MockGraphCase):
     """publish_story: STORIES container -> FINISHED -> media_publish, recorded as type "story"."""
 
+    def setUp(self):
+        super().setUp()
+        p = mock.patch.object(publish, "FORMATS_FILE", formats_file(self.tmp.name))
+        p.start()
+        self.patches.append(p)
+
+    def test_refused_while_paused(self):
+        formats_file(self.tmp.name, stories=False)
+        with self.assertRaises(publish.FormatPaused):
+            self.story()
+        self.assertEqual(FakeGraph.calls, [])
+        code = self.run_quiet(publish.main, ["story", "--account", "idlytech", "--image", "https://example.com/s.jpg"])
+        self.assertEqual(code, 2)
+        self.assertIn("stories paused (config/formats.json)", self.err.getvalue())
+        self.assertEqual(self.story(dry_run=True)["status"], "dry-run")         # a dry run still shows the plan
+        self.assertIn("PAUSED", self.out.getvalue())
+        self.assertFalse(common.POSTED_FILE.exists())
+
     def story(self, image="https://example.com/story.jpg", **kw):
         kw.setdefault("wait", False)
         return self.run_quiet(publish.publish_story, "idlytech", image, **kw)
@@ -420,6 +438,9 @@ class Reels(MockGraphCase):
 
     def setUp(self):
         super().setUp()
+        p = mock.patch.object(publish, "FORMATS_FILE", formats_file(self.tmp.name))
+        p.start()
+        self.patches.append(p)
         root = Path(self.tmp.name) / "repo"
         d = root / "queue/reels/rendered/reel-x"
         d.mkdir(parents=True)
@@ -497,6 +518,13 @@ class Reels(MockGraphCase):
         self.assertIn("cdn.jsdelivr.net", plan)
         self.assertIn("upload_type=resumable", plan)
         self.assertIn("share_to_feed=true", plan)
+
+    def test_refused_while_paused(self):
+        formats_file(self.tmp.name, reels=False)
+        with self.assertRaises(publish.FormatPaused):
+            self.reel()
+        self.assertEqual(FakeGraph.calls, [])
+        self.assertFalse(common.POSTED_FILE.exists())
 
     def test_local_file_checks(self):
         root = publish.REPO / "queue/reels/rendered/reel-x"

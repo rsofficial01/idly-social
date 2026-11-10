@@ -29,7 +29,12 @@ jobs:
       - name: Anything approved?
         id: work
         run: |
-          if ls queue/approved/*.json >/dev/null 2>&1 || ls queue/reels/approved/*.json >/dev/null 2>&1 \
+          # reels count as work only while config/formats.json turns them on (missing or false: paused)
+          reels_on=$(python3 -c 'import json; print(json.load(open("config/formats.json")).get("reels") is True)' \
+                     2>/dev/null || echo False)
+          echo "reels_on=$reels_on" >> "$GITHUB_OUTPUT"
+          if ls queue/approved/*.json >/dev/null 2>&1 \
+             || { [ "$reels_on" = "True" ] && ls queue/reels/approved/*.json >/dev/null 2>&1; } \
              || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
@@ -68,6 +73,9 @@ jobs:
           for i in $(seq 1 26); do
             git pull --rebase -q || true
             python pipeline/lane.py publish-approved --push
-            ls queue/approved/*.json >/dev/null 2>&1 || ls queue/reels/approved/*.json >/dev/null 2>&1 || break
+            reels_on=$(python3 -c 'import json; print(json.load(open("config/formats.json")).get("reels") is True)' \
+                       2>/dev/null || echo False)
+            ls queue/approved/*.json >/dev/null 2>&1 \
+              || { [ "$reels_on" = "True" ] && ls queue/reels/approved/*.json >/dev/null 2>&1; } || break
             sleep 300
           done

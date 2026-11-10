@@ -29,7 +29,8 @@ reviewer approves it through the same gate, and publish-approved posts it.
 The gate: published only if the LOWER of the self score and the reviewer's score is >= 12/14, and only while
 fresh (created_at under 8 hours ago, unless the spec says "evergreen": true). One post per account per run.
 Stories: render-pending also makes story.jpg (cardkit.vertical, framed with pipeline.framing.VERTICAL) unless the
-spec says "story": false; publish-approved posts it right after the feed post. A story that can't be framed,
+spec says "story": false; publish-approved posts it right after the feed post. Stories and reels are posted only
+while config/formats.json turns them on ({"stories": true, "reels": true}); missing or false means paused. A story that can't be framed,
 rendered or published is logged and skipped; it never holds up or changes the feed post.
 Both Actions commands are idempotent, take a lock, and with --push commit and push with a rebase-retry loop.
 """
@@ -691,6 +692,9 @@ def publish_lane_story(slug: str, rdir: Path, spec: dict, approval: dict, feed: 
         return {"status": "none"}
     if spec.get("story") is False or approval.get("story") is False:
         return {"status": "off"}
+    if not publish.format_enabled("stories"):
+        (log if dry_run else report_line)("stories paused (config/formats.json)")
+        return {"status": "paused"}
     url = public_url(rel_to_repo(path))
     try:
         publish.check_story_jpeg(path)
@@ -719,6 +723,9 @@ def cmd_publish_approved(a) -> int:
         if not approved and not any(rqdir("approved").glob("*.json")):
             log("publish-approved: nothing approved")
             return 0
+        if not approved and not publish.format_enabled("reels"):
+            (log if a.dry_run else report_line)("reels paused (config/formats.json)")
+            return 0
         busy, failed, counts = set(), 0, {}
         for slug in approved:
             log(f"{slug}:")
@@ -742,7 +749,11 @@ def cmd_publish_approved(a) -> int:
             if a.push and status in ("posted", "rejected"):
                 if not gitsync.commit_and_push(["queue", "state", "reports"], f"lane: {status} {slug}"):
                     return 1
-        for slug in sorted(p.stem for p in rqdir("approved").glob("*.json")):
+        reels = sorted(p.stem for p in rqdir("approved").glob("*.json"))
+        if reels and not publish.format_enabled("reels"):
+            (log if a.dry_run else report_line)("reels paused (config/formats.json)")
+            reels = []                                    # they wait in queue/reels/approved until Rahul turns them on
+        for slug in reels:
             log(f"{slug}:")
             req = load_json(rqdir("rendered") / slug / "request.json")
             try:
