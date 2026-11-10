@@ -1,0 +1,64 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Blade Runner 2099: all eight episodes on Prime Video on 25 November, final trailer out",
+  "headline": "Blade Runner 2099 Drops All Eight Episodes on 25 November",
+  "caption": "Blade Runner 2099, a new eight-episode limited series, drops all at once on Prime Video on 25 November, in India and worldwide. Prime Video released its final trailer on 9 November.\n\nThe story is set 50 years after Blade Runner 2049 (2017), in a Los Angeles that Prime Video describes as \"reborn, just not by humanity\". Hunter Schafer plays Cora, a fugitive who takes on \"one last identity: a Blade Runner\". She is forced to partner with Olwen (Michelle Yeoh), a Replicant days from dying.\n\nSilka Luisa is the showrunner. Ridley Scott, who directed the 1982 original, is an executive producer.\n\nWhat was the last series you finished in the same week it dropped?\n\nSources: Amazon, Prime Video India, Gold Derby, Bleeding Cool\n\n#BladeRunner2099 #BladeRunner #PrimeVideo #SciFi #idlynerd",
+  "alt_text": "Slide 1: the official Blade Runner 2099 final trailer image from Prime Video, under the headline \"Blade Runner 2099 Drops All Eight Episodes on 25 November\". Slide 2: \"25 NOV\", Blade Runner 2099's premiere on Prime Video: it streams on Prime Video in India and worldwide; an eight-episode limited series, no weekly wait; the final trailer came out on 9 November. Slide 3: \"2099\", set 50 years after Blade Runner 2049 (2017): Michelle Yeoh is Olwen, a Replicant days from dying; fugitive Cora (Hunter Schafer) poses as a Blade Runner; Silka Luisa is the showrunner and Ridley Scott an executive producer.",
+  "sources": [
+    "Amazon",
+    "Prime Video India",
+    "Gold Derby",
+    "Bleeding Cool"
+  ],
+  "detail_slides": [
+    {
+      "stat": "25 NOV",
+      "stat_label": "Blade Runner 2099's Premiere on Prime Video",
+      "bullets": [
+        "Streams on Prime Video in India and worldwide",
+        "An eight-episode limited series, no weekly wait",
+        "The final trailer came out on 9 November"
+      ]
+    },
+    {
+      "stat": "2099",
+      "stat_label": "Set 50 Years After Blade Runner 2049 (2017)",
+      "bullets": [
+        "Michelle Yeoh is Olwen, a Replicant days from dying",
+        "Fugitive Cora (Hunter Schafer) poses as a Blade Runner",
+        "Showrunner Silka Luisa; Ridley Scott executive-produces"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=v0_EjJhz4aQ",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=1d4x_eSdqNc"
+      }
+    ]
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "send 1: a fan-to-fan forward to plan a binge; no specific practical need beyond that, and the Indian-language audio angle was dropped (single official source). hook 2: final trailer on 9 Nov plus a firm all-at-once date. keep 2: date, platform, episode count, drop model. reply 2: habit question, no poll."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 1228. Gates 1-3 PASS (blind reviewer). Cover chain as passed: Prime Video India final trailer v0_EjJhz4aQ, then Amazon's own aboutamazon.com Blade Runner 2099 page og:image (1200x600, letterbox), then Prime Video's global upload 1d4x_eSdqNc. Teasers, NYCC cuts, re-uploads and song/promo videos are deliberately excluded. Gate 4 HOLD triggers: baked-in date other than 25 Nov, 'now streaming' or 'season' text, headline on a face, black or title-only frame. No idly.news article: Sources line, no idly link. Slug sorts after Rahul's review-* items.",
+  "created_at": "2026-11-10T13:05:38+05:30"
+}
