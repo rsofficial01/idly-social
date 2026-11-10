@@ -785,5 +785,36 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1726-pannun-suit-india/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+    "image_credit": "Image: Toho International",
+    "image_source": "https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-godzilla-minus-zero/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-godzilla-minus-zero/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-godzilla-minus-zero/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-godzilla-minus-zero/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "17888553699622577",
+    "permalink": "https://www.instagram.com/p/DfkBli5lwxw/",
+    "posted_at": "2026-11-10T13:34:37+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-godzilla-minus-zero/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-godzilla-minus-zero/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-godzilla-minus-zero/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-godzilla-minus-zero/04.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "godzilla_toho"
+    ]
   }
 ]
