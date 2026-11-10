@@ -1,0 +1,64 @@
+{
+  "slug": "2026-11-10-idlynerd-gta6-preload",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "GTA VI pre-load opens in India on 10 November; up to 212 GB, launch 19 November",
+  "headline": "GTA VI Pre-Load Is Live: You'll Need Up to 212 GB",
+  "caption": "Grand Theft Auto VI pre-loading opened today, 10 November. On PS5 it began at 12:00 am IST (midnight local time); on Xbox Series X|S at 5:30 am IST (12 am GMT).\n\nRockstar says the pre-load file needs up to 212 GB, depending on your console, so clear space before you start it.\n\nThe game launches on 19 November on PS5 and Xbox Series X|S; PlayStation and Xbox store listings in India show it unlocking at 12:00 am IST that day. In India, the Standard Edition costs ₹5,999 and the Ultimate Edition ₹7,499. Rockstar says code-in-box versions reach retailers from 12 November.\n\nAre you starting at midnight on 19 November, or waiting for the first reviews?\n\nSources: Rockstar Games Newswire, Digit, Business Today\n\n#GTA6 #GTAVI #RockstarGames #PS5 #idlynerd",
+  "alt_text": "Official Grand Theft Auto VI image from Rockstar Games with the headline \"GTA VI Pre-Load Is Live: You'll Need Up to 212 GB\". Slide 2: 212 GB, the GTA VI pre-load size at most; PS5 pre-load opened 12:00 am IST on 10 November, Xbox Series X|S at 5:30 am IST; Rockstar says up to 212 GB depending on the console. Slide 3: 19 November, GTA VI unlocks on PS5 and Xbox at 12:00 am IST per PlayStation and Xbox India store listings; Standard Edition ₹5,999 and Ultimate Edition ₹7,499 in India; code-in-box copies in shops from 12 November.",
+  "sources": [
+    "Rockstar Games",
+    "Digit",
+    "Business Today"
+  ],
+  "detail_slides": [
+    {
+      "stat": "212 GB",
+      "stat_label": "GTA VI Pre-Load Size, at Most",
+      "bullets": [
+        "PS5: opened 12:00 am IST, 10 Nov",
+        "Xbox Series X|S: opened 5:30 am IST",
+        "Rockstar says up to 212 GB, by console"
+      ]
+    },
+    {
+      "stat": "19 NOV",
+      "stat_label": "GTA VI Unlocks on PS5 and Xbox",
+      "bullets": [
+        "12:00 am IST, per PS and Xbox India listings",
+        "Standard ₹5,999, Ultimate ₹7,499 in India",
+        "Code-in-box copies in shops from 12 Nov"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+      },
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.rockstargames.com/VI"
+      }
+    ]
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "original 1: the facts are Rockstar's own announcement plus store prices, and Indian outlets (Digit) ran the same India-time angle; our part is the synthesis (IST times + ₹ prices + launch unlock in one card), the copy and the design. Everything else is strong: the moment is today, 212 GB/IST times/₹ prices are keepable, and console owners forward it to the friends they play with."
+    }
+  },
+  "created_at": "2026-11-10T10:57:23+05:30",
+  "notes": "Gates 1-3 passed with the blind reviewer (run 1039). Image: GTA VI Launch Trailer still (Rockstar Games, allowlisted c195eec) first so the cover is game footage, not a possible text announcement card."
+}
