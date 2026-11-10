@@ -169,6 +169,12 @@
       "author_url": "https://www.youtube.com/@VelsMusicInternational",
       "channel_id": null,
       "verified": "2026-11-10: music label of Vels Film International (producer of Mookuthi Amman 2); Vels Film International shared the trailer link on X (IANS, 21 Oct 2026). oEmbed author_url from the lane report."
+    },
+    {
+      "name": "Football Manager",
+      "author_url": "https://www.youtube.com/@footballmanager",
+      "channel_id": "UCMWpuQCtigHebT0oRtFy7Gw",
+      "verified": "2026-11-10: Sports Interactive's official Football Manager channel. YouTube oEmbed author_url is https://www.youtube.com/@footballmanager for LVskX0X7fCc, 9rdMzTr0sAg and yEUR_K--Kjw; footballmanager.com embeds those videos and its footer links to the channel (canonical /channel/UCMWpuQCtigHebT0oRtFy7Gw). Confirmed by the blind reviewer at Gate 1 (hourly run 1527)."
     }
   ],
   "pending_review": [
@@ -328,6 +334,11 @@
       "domain": "primefocus.com",
       "organisation": "Prime Focus",
       "verified": "2026-11-10: producers of Ramayana (Namit Malhotra's Prime Focus Studios and DNEG); company newsroom pages."
+    },
+    {
+      "domain": "footballmanager.com",
+      "organisation": "Sports Interactive",
+      "verified": "2026-11-10: Sports Interactive's own Football Manager site (developer Sports Interactive Ltd, publisher SEGA Europe); official news and launch pages. Confirmed by the blind reviewer at Gate 1 (hourly run 1527)."
     }
   ],
   "denied_domains": [
