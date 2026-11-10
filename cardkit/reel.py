@@ -603,14 +603,14 @@ def _cues(name: str, info: dict, dur: float, tail: float) -> list[dict]:
     if info.get('label_lines'):
         cues.append({'k': 'lines', 'sel': '.slabel', 'at': t, 'stagger': LINE_STAGGER, 'dur': 0.55, 'from': 130,
                      'n': info['label_lines']})
-        t += LINE_STAGGER * (info['label_lines'] - 1) + (0.2 if info.get('rows') else 0.42)
+        t += LINE_STAGGER * (info['label_lines'] - 1) + (0.1 if info.get('rows') else 0.42)
     if info.get('rule'):
         cues.append({'k': 'rule', 'sel': '.rule', 'at': t, 'dur': 0.4, 'w': 96})
-        t += 0.1 if info.get('rows') else 0.15
-    if info.get('rows'):
+        t += 0.05 if info.get('rows') else 0.15
+    if info.get('rows'):                                        # bars start while the title is still rising
         if info.get('unit'):
             cues.append({'k': 'fade', 'sel': '.cunit', 'at': t, 'dur': 0.4, 'dy': 10})
-            t += 0.08
+            t += 0.05
         cues.append({'k': 'bars', 'id': f"{name}.bar", 'at': t, 'stagger': LINE_STAGGER, 'dur': BAR_GROW_S,
                      'dx': -24, 'rows': info['rows']})
         t += LINE_STAGGER * (len(info['rows']) - 1) + 0.5
