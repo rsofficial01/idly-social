@@ -270,5 +270,33 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-mookuthi-amman-2-10nov-v2",
+    "image_credit": "Image: Vels Music International (official video)",
+    "image_source": "https://www.youtube.com/watch?v=v263z3rTcLw",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 13,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18075115550772140",
+    "permalink": "https://www.instagram.com/p/DfjOLr7Dc6R/",
+    "posted_at": "2026-11-10T06:05:24+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
