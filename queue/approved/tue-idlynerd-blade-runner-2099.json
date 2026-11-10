@@ -1,0 +1,24 @@
+{
+  "slug": "tue-idlynerd-blade-runner-2099",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "send 1: a release-date item every OTT list carries, so the forward reason (25 Nov, all at once) is commodity and nothing about it is India-specific beyond availability. Strong: a specific date-plus-drop-model hook, keepable date, platform and episode count, a genuine reader-habit question tied to the all-at-once drop, an official Amazon still of the actual series credited 'Image: Amazon', and both detail slides stand alone. Re-check: the alt text now correctly describes slide 1 as an official Amazon still of Hunter Schafer as Cora; slides and caption unchanged.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [
+      "minor, not blocking: the 2:1 letterbox leaves ~245px of dark blurred space between the photo band and the headline; the top of the hair bun touches the band's top edge (face whole)"
+    ],
+    "rule_problems": []
+  },
+  "reviewed_at": "2026-11-10T07:41:19+00:00",
+  "reviewed_by": "claude reviewer (blind)",
+  "notes": ""
+}
