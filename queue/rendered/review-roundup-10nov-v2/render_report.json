@@ -1,0 +1,145 @@
+{
+  "slug": "review-roundup-10nov-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T05:38:42+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "source_url": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "image_url": "https://i.ytimg.com/vi/LM4ByXufv2w/maxresdefault.jpg",
+    "credit": "Image: Sony Music South (official trailer)",
+    "organisation": "Sony Music South",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=LM4ByXufv2w: author 'Sony Music South' https://www.youtube.com/@SonyMusicSouthOfficial, title 'Scene - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan'",
+      "thumbnail https://i.ytimg.com/vi/LM4ByXufv2w/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@SonyMusicSouthOfficial",
+    "video_title": "Scene - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan"
+  },
+  "faces": [
+    [
+      725.5,
+      54.8,
+      113.5,
+      147.5,
+      0.918
+    ],
+    [
+      1059.3,
+      87.8,
+      170.0,
+      224.3,
+      0.909
+    ],
+    [
+      307.0,
+      147.6,
+      186.0,
+      295.9,
+      0.876
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        601,
+        231,
+        719,
+        386
+      ],
+      [
+        877,
+        251,
+        1054,
+        486
+      ],
+      [
+        240,
+        295,
+        435,
+        604
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "3 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        725.5,
+        54.8,
+        113.5,
+        147.5,
+        0.918
+      ],
+      [
+        1059.3,
+        87.8,
+        170.0,
+        224.3,
+        0.909
+      ],
+      [
+        307.0,
+        147.6,
+        186.0,
+        295.9,
+        0.876
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sony Music South (official trailer)"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 2,
+      "overflow": false,
+      "top": 1050,
+      "credit_line": "Image: Sony Music South (official trailer)",
+      "slug": "review-roundup-10nov-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Ramayana: Part 1 tops idly's Diwali table at 6.9/10, 0.6 ahead of Suriya's Scene; they are the only two of the six ranked films to clear 6/10. Mookuthi Amman 2 comes last at 3.6.\n\nScore: the mean of numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10. A film needs 4; Pyre (2) and Nakhrewaalii (0) fell short, so they are not ranked.\n\nRamayana: Part 1 leads Scene by 0.6: which of the six are you booking first, and what tipped it?\n\nSources: 60 ratings from 123Telugu, Cinema Express, DNA, DT Next, Deccan Chronicle, Deccan Herald, Filmfare, Firstpost, Great Andhra, Gulte, Hindustan Times, India TV, India Today, Indian Express, Koimoi, NDTV, New Indian Express, News18, OnlyKollywood, Outlook, Pinkvilla, Rediff, Telugu360, The Week and Times of India; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz.\n\n#Diwali2026 #MovieReview #IndianCinema #idlynerd\n\nImage: Sony Music South (official trailer)"
+}
