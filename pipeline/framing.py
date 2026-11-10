@@ -15,6 +15,12 @@ Compositions, in order:
                 kept only for tests. If no full-bleed crop fits, the next image attempt is tried.
 If neither works the spec fails with the reasons.
 
+Vertical (9:16 Stories and Reels, cardkit.vertical): the photo fills the width at the top of a 1080x1920 frame and fades
+into the dark background where the text sits. plan_image(img, frame=VERTICAL) plans that photo window with the same
+rules at its own limits: the crop has the cover's width at a given zoom (the cover's 4:5 crop) and is taller when the
+source allows (up to 1080x1440); faces sit in y 380-880 (below the logo at y 240-300, above the text block), at least
+48 px from the sides (room for the reel's 1.00-1.06 push-in), and nothing salient sits under the logo.
+
 Faces come from OpenCV's YuNet detector (opencv_zoo, face_detection_yunet_2023mar.onnx), downloaded once
 and cached (sha256-checked). Tests use synthetic boxes; nothing here needs a real face to be tested.
 """
@@ -61,6 +67,25 @@ MODEL_DIR = Path(os.environ.get("IDLY_MODEL_DIR") or REPO / ".cache" / "models")
 SCORE_THRESHOLD = 0.75
 
 
+@dataclass(frozen=True)
+class Frame:
+    """Where faces may sit and where the logo is, in output pixels of a 1080-wide photo window."""
+    name: str
+    face_top: int
+    face_bottom: int
+    edge_margin: int
+    logo_box: tuple[int, int, int, int]
+    h_min: int = OUT_H                       # photo window height range; cover: always 1350
+    h_max: int = OUT_H
+
+
+COVER = Frame("cover", FACE_TOP, FACE_BOTTOM, EDGE_MARGIN, LOGO_BOX)
+# 9:16 Stories/Reels (cardkit.vertical): logo at y 240-300, text block from ~y 1150 down to 1600; the reel's push-in
+# zooms 1.00 -> 1.06 about (540, 630), which keeps a face planned inside this band clear of the logo and the edges.
+VERTICAL = Frame("vertical", face_top=380, face_bottom=880, edge_margin=48, logo_box=(330, 230, 750, 310),
+                 h_min=1350, h_max=1440)
+
+
 class FramingError(Exception):
     """No composition satisfies the rules; .reasons lists why for each one."""
 
@@ -94,6 +119,8 @@ class Plan:
     logo_saliency: float | None = None
     notes: list[str] = field(default_factory=list)
     faces_src: list[list[float]] = field(default_factory=list)   # detected faces: x, y, w, h, score (source px)
+    frame: str = "cover"                        # "cover" (1080x1350) or "vertical" (1080 x out_h photo window)
+    out_h: int = OUT_H                          # height of the photo window in output px
 
     def to_dict(self) -> dict:
         d = asdict(self)
@@ -193,11 +220,11 @@ def _region_mean(sal, scale: float, x0: float, y0: float, x1: float, y1: float) 
     return float(region.mean()) if region.size else 0.0
 
 
-def logo_saliency(sal, scale: float, crop: tuple[float, float, float, float]) -> float:
+def logo_saliency(sal, scale: float, crop: tuple[float, float, float, float], logo_box=LOGO_BOX) -> float:
     """Saliency under the logo box, relative to the whole crop (1.0 = average)."""
     left, top, cw, ch = crop
     s = OUT_W / cw
-    lx0, ly0, lx1, ly1 = LOGO_BOX
+    lx0, ly0, lx1, ly1 = logo_box
     under = _region_mean(sal, scale, left + lx0 / s, top + ly0 / s, left + lx1 / s, top + ly1 / s)
     whole = _region_mean(sal, scale, left, top, left + cw, top + ch)
     return under / whole if whole > 0 else 0.0
@@ -234,16 +261,43 @@ def cardkit_crop(w: int, h: int, focal: tuple[float, float], zoom: float) -> tup
     return float(l), float(t), float(r - l), float(b - t)
 
 
-def map_cover(box, crop) -> list[int]:
+def window_height(h: int, cw: float, frame: Frame = COVER) -> int:
+    """Height of the photo window for a crop `cw` source px wide: the cover's 1350, or (vertical) as tall as the
+    source allows within frame.h_min..h_max. cardkit.vertical.vertical_crop_box uses the same expression."""
+    if frame.h_min == frame.h_max:
+        return frame.h_min
+    return int(min(frame.h_max, max(frame.h_min, math.floor(OUT_W * h / cw + 1e-9))))
+
+
+def frame_crop(w: int, h: int, focal: tuple[float, float], zoom: float,
+               frame: Frame = COVER) -> tuple[float, float, float, float, int]:
+    """(left, top, width, height, window height): the crop cardkit takes for this frame, rounding included.
+    Cover: exactly cardkit_crop. Vertical: the cover crop's width at this zoom, as tall as window_height allows."""
+    if frame.h_min == frame.h_max:
+        return (*cardkit_crop(w, h, focal, zoom), frame.h_min)
+    cw0, _ = base_crop(w, h)
+    zoom = max(1.0, float(zoom or 1.0))
+    cw = cw0 / zoom
+    out_h = window_height(h, cw, frame)
+    ch = min(float(h), cw * out_h / OUT_W)
+    fx, fy = focal
+    left = min(max(fx * w - cw / 2, 0), w - cw)
+    top = min(max(fy * h - ch / 2, 0), h - ch)
+    l, t, r, b = round(left), round(top), round(left + cw), round(top + ch)
+    return float(l), float(t), float(r - l), float(b - t), out_h
+
+
+def map_cover(box, crop, out_h: int = OUT_H) -> list[int]:
     left, top, cw, ch = crop
-    sx, sy = OUT_W / cw, OUT_H / ch
+    sx, sy = OUT_W / cw, out_h / ch
     x0, y0, x1, y1 = box
     return [round((x0 - left) * sx), round((y0 - top) * sy), round((x1 - left) * sx), round((y1 - top) * sy)]
 
 
-def face_ok(box_out) -> bool:
+def face_ok(box_out, frame: Frame = COVER) -> bool:
     x0, y0, x1, y1 = box_out
-    return x0 >= EDGE_MARGIN and x1 <= OUT_W - EDGE_MARGIN and y0 >= FACE_TOP and y1 <= FACE_BOTTOM
+    return (x0 >= frame.edge_margin and x1 <= OUT_W - frame.edge_margin and y0 >= frame.face_top
+            and y1 <= frame.face_bottom)
 
 
 def _interval(lo: float, hi: float, constraints: list[tuple[float, float]]) -> tuple[float, float]:
@@ -252,31 +306,36 @@ def _interval(lo: float, hi: float, constraints: list[tuple[float, float]]) -> t
     return lo, hi
 
 
-def plan_cover(w: int, h: int, faces: list[Face], sal=None, sal_scale: float = 1.0) -> tuple[Plan | None, str]:
-    """The least-zoomed cardkit crop that satisfies every rule, or (None, why)."""
+def plan_cover(w: int, h: int, faces: list[Face], sal=None, sal_scale: float = 1.0,
+               frame: Frame = COVER) -> tuple[Plan | None, str]:
+    """The least-zoomed cardkit crop that satisfies every rule for `frame`, or (None, why)."""
+    label = frame.name
     cw0, ch0 = base_crop(w, h)
     zmax = min(MAX_ZOOM, cw0 * MAX_UPSCALE / OUT_W)
     if zmax < 1.0:
-        return None, (f"cover: a 4:5 crop is only {cw0:.0f}px wide, {OUT_W / cw0:.2f}x upscale "
+        return None, (f"{label}: a 4:5 crop is only {cw0:.0f}px wide, {OUT_W / cw0:.2f}x upscale "
                       f"(max {MAX_UPSCALE}x)")
     boxes = [padded(f, w, h) for f in faces]
     if any(cut_by_source_edge(f, w, h) for f in faces):
-        return None, "cover: a face is cut off by the edge of the source image"
-    why = "cover: no crop keeps every face inside y 190-702 and clear of the edges"
+        return None, f"{label}: a face is cut off by the edge of the source image"
+    why = f"{label}: no crop keeps every face inside y {frame.face_top}-{frame.face_bottom} and clear of the edges"
     steps = int(round((zmax - 1.0) / ZOOM_STEP)) + 1
     for i in range(steps):
         z = min(zmax, 1.0 + i * ZOOM_STEP)
-        cw, ch = cw0 / z, ch0 / z
+        cw = cw0 / z
+        out_h = window_height(h, cw, frame)
+        ch = ch0 / z if frame.h_min == frame.h_max else min(float(h), cw * out_h / OUT_W)
         s = OUT_W / cw
-        x_lo, x_hi = _interval(0.0, w - cw, [(b[2] - (OUT_W - EDGE_MARGIN) / s, b[0] - EDGE_MARGIN / s)
+        x_lo, x_hi = _interval(0.0, w - cw, [(b[2] - (OUT_W - frame.edge_margin) / s, b[0] - frame.edge_margin / s)
                                              for b in boxes])
-        y_lo, y_hi = _interval(0.0, h - ch, [(b[3] - FACE_BOTTOM / s, b[1] - FACE_TOP / s) for b in boxes])
+        y_lo, y_hi = _interval(0.0, h - ch, [(b[3] - frame.face_bottom / s, b[1] - frame.face_top / s)
+                                             for b in boxes])
         if x_lo > x_hi + 1e-6 or y_lo > y_hi + 1e-6:
             continue
         if boxes:
             bx = (min(b[0] for b in boxes) + max(b[2] for b in boxes)) / 2
             by = (min(b[1] for b in boxes) + max(b[3] for b in boxes)) / 2
-            pref_left, pref_top = bx - cw / 2, by - ((FACE_TOP + FACE_BOTTOM) / 2) / s
+            pref_left, pref_top = bx - cw / 2, by - ((frame.face_top + frame.face_bottom) / 2) / s
         else:
             pref_left, pref_top = (w - cw) / 2, (h - ch) / 2
         left = min(max(pref_left, x_lo), x_hi)
@@ -286,11 +345,11 @@ def plan_cover(w: int, h: int, faces: list[Face], sal=None, sal_scale: float = 1
         best = None
         for top in tops:
             focal = ((left + cw / 2) / w, (top + ch / 2) / h)
-            crop = cardkit_crop(w, h, focal, z)
-            out = [map_cover(b, crop) for b in boxes]
-            if not all(face_ok(o) for o in out):           # rounding pushed a face over a line
+            crop = frame_crop(w, h, focal, z, frame)[:4]
+            out = [map_cover(b, crop, out_h) for b in boxes]
+            if not all(face_ok(o, frame) for o in out):    # rounding pushed a face over a line
                 continue
-            ls = logo_saliency(sal, sal_scale, crop) if sal is not None else None
+            ls = logo_saliency(sal, sal_scale, crop, frame.logo_box) if sal is not None else None
             if best is None or (ls is not None and ls < best[3]):
                 best = (focal, crop, out, ls if ls is not None else 0.0)
             if ls is None or ls <= SALIENT_LOGO:
@@ -299,11 +358,12 @@ def plan_cover(w: int, h: int, faces: list[Face], sal=None, sal_scale: float = 1
             continue
         focal, crop, out, ls = best
         if sal is not None and ls > SALIENT_LOGO:
-            why = (f"cover: something salient sits under the logo in every crop that fits the faces "
+            why = (f"{label}: something salient sits under the logo in every crop that fits the faces "
                    f"(saliency {ls:.2f}, max {SALIENT_LOGO})")
             continue
         return Plan("cover", focal=focal, zoom=round(z, 3), upscale=OUT_W / crop[2], crop=crop,
-                    faces_out=out, logo_saliency=ls if sal is not None else None), ""
+                    faces_out=out, logo_saliency=ls if sal is not None else None, frame=frame.name,
+                    out_h=out_h), ""
     return None, why
 
 
@@ -334,8 +394,10 @@ def plan_letterbox(w: int, h: int, faces: list[Face]) -> tuple[Plan | None, str]
     return Plan("letterbox", upscale=s, band_top=y0, band_height=bh, faces_out=out), ""
 
 
-def plan_image(img: Image.Image, faces: list[Face] | None = None, use_saliency: bool = True) -> Plan:
-    """Detect faces (unless given) and choose a composition; raises FramingError if none fits."""
+def plan_image(img: Image.Image, faces: list[Face] | None = None, use_saliency: bool = True,
+               frame: Frame = COVER) -> Plan:
+    """Detect faces (unless given) and choose a composition; raises FramingError if none fits.
+    frame=VERTICAL plans the photo window of a 9:16 Story/Reel (full-bleed only, never letterbox)."""
     faces = DETECTOR(img) if faces is None else faces
     w, h = img.size
     if w < MIN_SOURCE_W:
@@ -344,13 +406,13 @@ def plan_image(img: Image.Image, faces: list[Face] | None = None, use_saliency: 
     sal, sal_scale = saliency_map(img) if use_saliency else (None, 1.0)
     found = [[round(f.x, 1), round(f.y, 1), round(f.w, 1), round(f.h, 1), round(f.score, 3)] for f in faces]
     reasons = []
-    cover, why = plan_cover(w, h, faces, sal, sal_scale)
+    cover, why = plan_cover(w, h, faces, sal, sal_scale, frame)
     if cover:
         cover.notes.append(f"{len(faces)} face(s) detected")
         cover.faces_src = found
         return cover
     reasons.append(why)
-    if not ALLOW_LETTERBOX:
+    if not ALLOW_LETTERBOX or frame is not COVER:
         raise FramingError(reasons)
     box, why = plan_letterbox(w, h, faces)
     if box:
@@ -381,32 +443,41 @@ def compose_letterbox(img: Image.Image, plan: Plan) -> Image.Image:
 
 
 def render_input(img: Image.Image, plan: Plan, work_dir: Path) -> tuple[Path, tuple[float, float], float]:
-    """(photo path, focal, zoom) for cardkit's hype cover slide."""
+    """(photo path, focal, zoom) for cardkit's hype cover slide, or (plan.frame == "vertical") for the photo window
+    of cardkit.vertical (pass plan.out_h along as the window height)."""
     work_dir = Path(work_dir)
     work_dir.mkdir(parents=True, exist_ok=True)
+    stem = "vertical" if plan.frame == "vertical" else "cover"
     if plan.mode == "letterbox":
         path = work_dir / "cover_letterbox.png"
         compose_letterbox(img, plan).save(path)
         return path, (0.5, 0.5), 1.0
     if plan.upscale > SHARPEN_ABOVE and plan.crop:
-        # enlarge the chosen 4:5 crop ourselves (Lanczos + light unsharp mask) so the browser doesn't upsample it
+        # enlarge the chosen crop ourselves (Lanczos + light unsharp mask) so the browser doesn't upsample it
         left, top, cw, ch = plan.crop
         piece = img.convert("RGB").crop((round(left), round(top), round(left + cw), round(top + ch)))
-        piece = piece.resize((OUT_W, OUT_H), Image.LANCZOS)
+        piece = piece.resize((OUT_W, plan.out_h), Image.LANCZOS)
         piece = piece.filter(ImageFilter.UnsharpMask(radius=1.6, percent=70, threshold=2))
-        path = work_dir / "cover_source.png"
+        path = work_dir / f"{stem}_source.png"
         piece.save(path)
         return path, (0.5, 0.5), 1.0
-    path = work_dir / "cover_source.png"
+    path = work_dir / f"{stem}_source.png"
     img.convert("RGB").save(path)
     return path, plan.focal, plan.zoom
 
 
-def _cli(argv=None) -> int:
-    """python3 -m pipeline.framing <photo> <work_dir>: plan a full-bleed 4:5 cover for an hourly-run photo.
+def faces_from_plan(plan: Plan) -> list[Face]:
+    """The faces a plan was made with (source px), to plan another frame without detecting them again."""
+    return [Face(*f[:4], score=f[4] if len(f) > 4 else 1.0) for f in plan.faces_src or []]
 
-    Prints JSON with the photo path, focal and zoom to put on the cardkit cover slide, or the reasons it can't
-    be framed full-bleed (then use a different, larger image of the same subject; never letterbox or blur-extend).
+
+def _cli(argv=None) -> int:
+    """python3 -m pipeline.framing <photo> <work_dir> [--vertical]: plan a full-bleed 4:5 cover for an hourly-run
+    photo (or, with --vertical, the photo window of a 9:16 story/reel).
+
+    Prints JSON with the photo path, focal and zoom to put on the cardkit cover slide (--vertical: on the cover
+    slide's "vertical" key, with photo_h), or the reasons it can't be framed full-bleed (then use a different,
+    larger image of the same subject; never letterbox or blur-extend).
     """
     import argparse
     import json
@@ -414,17 +485,21 @@ def _cli(argv=None) -> int:
     ap = argparse.ArgumentParser(description=_cli.__doc__)
     ap.add_argument("photo")
     ap.add_argument("work_dir")
+    ap.add_argument("--vertical", action="store_true", help="plan the 9:16 story/reel photo window")
     a = ap.parse_args(argv)
     img = ImageOps.exif_transpose(Image.open(a.photo)).convert("RGB")
     try:
-        plan = plan_image(img)
+        plan = plan_image(img, frame=VERTICAL if a.vertical else COVER)
     except FramingError as e:
         print(json.dumps({"ok": False, "reasons": e.reasons}, indent=1))
         return 1
     path, focal, zoom = render_input(img, plan, Path(a.work_dir))
-    print(json.dumps({"ok": True, "photo": str(path), "focal": list(focal), "zoom": zoom,
-                      "upscale": round(plan.upscale, 2), "faces": len(plan.faces_out or []),
-                      "note": "enlarged and sharpened" if plan.upscale > SHARPEN_ABOVE else ""}, indent=1))
+    out = {"ok": True, "photo": str(path), "focal": list(focal), "zoom": zoom,
+           "upscale": round(plan.upscale, 2), "faces": len(plan.faces_out or []),
+           "note": "enlarged and sharpened" if plan.upscale > SHARPEN_ABOVE else ""}
+    if a.vertical:
+        out["photo_h"] = plan.out_h
+    print(json.dumps(out, indent=1))
     return 0
 
 
