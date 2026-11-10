@@ -1,0 +1,36 @@
+{
+ "account": "idlynerd",
+ "title": "The Outer Worlds 2's first story expansion, Side Effects Guaranteed (Obsidian Entertainment / Xbox Game Studios), out 2 Dec 2026; part one of two, part two spring 2027, choices carry over; level cap 30 to 36, 15 new perks, four new flaws, new region Elysium Valley on Eden; India: Premium Upgrade ₹2,000 on Steam (DLC pass for both expansions), base game ₹5,499 on Steam; expansion's own India price not listed yet",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/ (Xbox Wire, 10 Nov 2026)",
+  "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/ (PlayStation Blog, 10 Nov 2026)",
+  "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2 (Gematsu, 10 Nov 2026, 1:17 PM EST)",
+  "https://store.steampowered.com/app/4465910/ (Steam: Side Effects Guaranteed, 'coming soon', 2 Dec 2026, no price; store API cc=in, checked 11 Nov ~03:40 IST)",
+  "https://store.steampowered.com/app/3729860/ (Steam India: The Outer Worlds 2 Premium Upgrade Edition ₹2,000, 'DLC Pass for 2 future story expansions'; store API cc=in, 11 Nov ~03:40 IST)",
+  "https://store.steampowered.com/app/1449110/ (Steam India: The Outer Worlds 2 ₹5,499; store API cc=in, 11 Nov ~03:40 IST)",
+  "https://www.videogameschronicle.com/news/the-outer-worlds-2s-first-story-expansion-announced/ (VGC, 10 Nov 2026)"
+ ],
+ "photo_source": {
+  "page": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/ (Xbox Wire, Microsoft's own newsroom; Xbox Game Studios publishes, Obsidian Entertainment develops)",
+  "file": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-3ff701b040bc3de8c709.jpg (1920x1080 original; saved as _work/2026-11-11-hourly-0327/idlynerd/photos/tow2_keyart_orig.jpg, sha1 f823e89205cec5bf5de8845d6a15d1d3b69425da)",
+  "licence": "Official promotional key art from the publisher's own newsroom, used for news of the expansion (credited)",
+  "author": "Obsidian Entertainment / Xbox Game Studios",
+  "credit": "Image: Obsidian Entertainment / Xbox Game Studios (official art)",
+  "subject": "Official key art for The Outer Worlds 2: Side Effects Guaranteed: the moon-headed Moon Man mascot in a top hat holding a glowing flask, two creatures, alien jungle, the game's title lettering and the expansion badge. Illustration only, no real person, no watermark.",
+  "viewed": true,
+  "processing": "pipeline.framing functions (detect_faces, cardkit_crop, logo_saliency, render_input): source crop x 777-1592, y 0-1019 (815x1019; reviewer's G23 fix, anchored to the top so the logo sits on open sky), enlarged 1.325x with Lanczos + unsharp mask to framing/cover_source.png (1080x1350, sha1 e23835a6678e47026f7308c53a4286e6c29a23ad); cardkit hype cover focal [0.5,0.5], zoom 1.0. Badge fully out (ends x 773), flask in frame, whole '2' in frame; the title lettering is cut at the left edge ('TER', 'ORLDS'), accepted by the reviewer. 1 detected face (the Moon Man, illustrated), padded box y 319-777, eyes ~y 480-540; logo saliency 0.61. No letterbox, fill, blur, extension or recolour. Scrim 0.68."
+ },
+ "tags": [
+  "obsidian"
+ ],
+ "tag_evidence": "Obsidian Entertainment's own homepage https://www.obsidian.net/ links to instagram.com/obsidian (fetched 11 Nov 2026 ~03:40 IST); reviewer accepted at G1 and G23. The official game site outerworlds2.obsidian.net had no Instagram link.",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (The Outer Worlds 2 story expansion, 2 Dec); C2 Marvel Rivals Season 11 DROP (no lawful full-bleed image), C3 Sony cancels Fairgame$ DROP (single Bloomberg report, no keep). Fixes applied: 10-word headline 'The Outer Worlds 2's First Story Expansion Lands 2 December'; 'story expansion' not 'DLC'; date only in the headline; slides ₹2,000 Steam India upgrade (base ₹5,499 as a bullet, no ₹ price for the expansion, no $14.99), 36 level cap, spring 2027 part two; platforms only as sourced (caption: PC on Steam, PS5, Xbox); Sources line, own-play question, credit last; Moon Man key art, badge out, flask in; no CG-human screenshot fallback; tag @obsidian.",
+  "g23": "Words PASS; slides 02-04 PASS. Picture: rights PASS, crop FIX: the logo sat on the title rule line and the top bar of the '2'. Re-cropped to source x 777-1592, y 0-1019 (same 1.325x Lanczos + unsharp); the logo now sits on open starry sky. Cut title letters at the left edge accepted (lettering 1,036 px wide against an 815 px window; every edge that keeps the flask slices a letter).",
+  "g4": "PASS (blind reviewer) 12/14: hook 1 (the cover's only number is a date), read 2, send 2, keep 2, reply 1 (only owners of the game can answer), original 2, alone 2. Cartoon face clear of the text; shoe tip clipped a few px under the footer gradient, not a hold. Self 13; final 12."
+ }
+}

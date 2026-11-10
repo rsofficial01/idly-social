@@ -1,0 +1,56 @@
+{
+  "acct": "idlynerd",
+  "slug": "idlynerd-0327-outer-worlds-2-expansion",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Xbox Wire",
+    "PlayStation Blog",
+    "Gematsu",
+    "Steam"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "The Outer Worlds 2's First Story Expansion Lands 2 December",
+      "photo": "_work/2026-11-11-hourly-0327/idlynerd/framing/cover_source.png",
+      "photo_credit": "Image: Obsidian Entertainment / Xbox Game Studios (official art)",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹2,000",
+      "stat_label": "The Outer Worlds 2 Premium Upgrade, Steam India",
+      "bullets": [
+        "Covers both story expansions, so no second purchase",
+        "The base game costs ₹5,499 on Steam India",
+        "The expansion's own India price isn't listed yet"
+      ],
+      "credit_line": "Sources: Steam India (11 Nov), Xbox Wire, Gematsu"
+    },
+    {
+      "type": "detail",
+      "stat": "36",
+      "stat_label": "New Level Cap in The Outer Worlds 2",
+      "bullets": [
+        "Up from 30, so maxed characters keep levelling",
+        "15 new perks, four new flaws: fresh build options",
+        "A new region to explore: Elysium Valley, on Eden"
+      ],
+      "credit_line": "Sources: Xbox Wire, PlayStation Blog, Gematsu"
+    },
+    {
+      "type": "detail",
+      "stat": "SPRING 2027",
+      "stat_label": "Part Two of The Outer Worlds 2's Expansion",
+      "bullets": [
+        "Part one is called Side Effects Guaranteed",
+        "Choices you make in part one carry over"
+      ],
+      "credit_line": "Sources: Xbox Wire, Steam"
+    }
+  ]
+}
