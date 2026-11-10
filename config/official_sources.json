@@ -181,6 +181,12 @@
       "author_url": "https://www.youtube.com/@PrimeVideoUK",
       "channel_id": "UCwSIJCMWZC5GDM59wj7pMsg",
       "verified": "2026-11-10: Amazon Prime Video UK & IE's official channel. Channel page: verified badge, header links to amazon.co.uk/Amazon-Video, channel id from the page's externalId. Amazon's own newsroom page aboutamazon.com/news/entertainment/maxton-hall-prime-video (updated 9 Nov 2026) embeds this channel's vPAoANfZ-ps; YouTube oEmbed author_url https://www.youtube.com/@PrimeVideoUK for vPAoANfZ-ps. Evidence from the idlynerd desk, independently re-checked and passed by the blind reviewer at Gate 3 (hourly run 1927)."
+    },
+    {
+      "name": "PlayStation",
+      "author_url": "https://www.youtube.com/@PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "verified": "2026-11-10 hourly 2327: Sony Interactive Entertainment's official PlayStation channel. YouTube oEmbed author_url https://www.youtube.com/@PlayStation (author 'PlayStation') for etOOO9Sq7u8, 90gpqJE-tLU and eT_A2gPhTIw; channel page externalId UC-2Y8dQb0S6DtpxNgAKoJKA, vanity @PlayStation, verified badge; playstation.com/en-us links youtube.com/user/playstation, which resolves to the same channel id. Evidence from the idlynerd desk, independently re-checked and passed by the blind reviewer at Gate 1."
     }
   ],
   "pending_review": [
@@ -353,6 +359,11 @@
         "/blogs/news"
       ],
       "verified": "2026-11-10 hourly 1828: the site's own 'brought to you by Toho International' line and (c) TOHO footer; ComicBook.com's 2019 launch report; Toho International's GM (2023) on relaunching godzilla.com. Reviewer passed it (Gate 1, nerd/g1-verdict.md)."
+    },
+    {
+      "domain": "playstation.com",
+      "organisation": "PlayStation (Sony Interactive Entertainment)",
+      "verified": "2026-11-10 hourly 2327: Sony Interactive Entertainment's corporate site sonyinteractive.com links in its footer to blog.playstation.com and www.playstation.com/en-us; the blog footer reads (c) Sony Interactive Entertainment. Covers blog.playstation.com and the PS Store pages. Not a news outlet; not denied. Passed by the blind reviewer at Gate 1."
     }
   ],
   "denied_domains": [
