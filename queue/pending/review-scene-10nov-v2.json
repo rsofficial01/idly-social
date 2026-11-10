@@ -1,0 +1,44 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": true,
+  "sources": [
+    "Hindustan Times",
+    "Indian Express",
+    "Times of India",
+    "NDTV",
+    "Filmfare",
+    "Cinema Express",
+    "thereviewmonk",
+    "Rotten Tomatoes"
+  ],
+  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane.",
+  "title": "Suriya's Scene Scores 6.3/10 With Critics",
+  "headline": "Suriya's Scene Scores 6.3/10 With Critics",
+  "caption": "Scene is a solid pass rather than a rave. Of the 7 reviews idly read in full, 6 credit Jithu Madhavan's fresh spin on the cop film and 5 say Suriya works against type; 4 find the pacing slack and 4 the investigation thin. Hindustan Times's Neeshita Nyayapati: \"Suriya truly has fun poking fun at himself\".\n\nidly's consolidated score: 6.3/10, the mean of 15 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nSuriya plays a cop who would rather not be one: which star would you most like to see send up their own image next?\n\nSources: ratings from Cinema Express, Times of India, OnlyKollywood, Filmfare, Hindustan Times, India Today, NDTV, Pinkvilla, Indian Express, The Week, Deccan Herald, Great Andhra, Gulte, Telugu360 and Deccan Chronicle; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 7 reviews idly read in full: The Week, Deccan Chronicle, The Federal, Gulte, THR India, Great Andhra and Telugu360.\n\n#Scene #Suriya #JithuMadhavan #TamilCinema #MovieReview",
+  "alt_text": "1: an official Scene video still under the headline \"Suriya's Scene Scores 6.3/10 With Critics\". Slide 2: Suriya's Scene, 6.3 out of 10 from 15 critic ratings, a strip of dots from 4.0 to 8.0, and the line \"Critics back Suriya against type. The jokes split them.\" Slide 3: what the 7 reviews idly read in full say. Highs: Jithu Madhavan's fresh spin on a cop film (6 of 7); The support cast, led by Naslen, is strong (6 of 7); Suriya works, playing against type (5 of 7). Lows: The pacing sags in stretches (4 of 7); The investigation is thin or hard to follow (4 of 7). Slide 4: every counted rating out of 10: Cinema Express 8.0; Times of India 8.0; OnlyKollywood 7.5; Filmfare 7.0; Hindustan Times 7.0; India Today 7.0; NDTV 7.0; Pinkvilla 7.0; Indian Express 7.0; The Week 6.0; Deccan Herald 5.0; Great Andhra 5.0; Gulte 5.0; Telugu360 4.5; Deccan Chronicle 4.0.",
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=LM4ByXufv2w"
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "keep 1: no confirmed runtime or certificate. Points come from 7 reviews read in full; Deccan Herald 2.5/5 rests on the blind reviewer's page check (site errored here); Koimoi, Rediff and Mathrubhumi left out on one listing each."
+    }
+  },
+  "created_at": "2026-11-10T05:50:24+00:00",
+  "append_slides": [
+    "posts/2026-11-10/review_scene_v2/02.jpg",
+    "posts/2026-11-10/review_scene_v2/03.jpg",
+    "posts/2026-11-10/review_scene_v2/04.jpg"
+  ]
+}
