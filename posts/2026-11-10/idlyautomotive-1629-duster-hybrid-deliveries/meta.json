@@ -1,0 +1,36 @@
+{
+ "account": "idlyautomotive",
+ "title": "Renault Duster Strong Hybrid deliveries begin: ARAI 29 km/l, from ₹16.99 lakh",
+ "story_id": null,
+ "idly_article": false,
+ "sources": [
+  "https://www.carwale.com/news/renault-duster-hybrid-deliveries-begin/",
+  "https://www.autocarpro.in/news/renault-begins-duster-hybrid-deliveries-135801",
+  "https://www.timesdrive.in/news/29-kmpl-renault-duster-hybrid-deliveries-begin-in-india-ahead-of-diwali-2026-article-156474217",
+  "https://www.autocarindia.com/car-news/renault-duster-hybrid-launched-at-rs-1699-lakh-441073",
+  "https://www.autocarpro.in/news/renault-launches-duster-strong-hybrid-at-rs-1699-lakh-deliveries-from-november-6-135302",
+  "https://www.drivespark.com/four-wheelers/2026/renault-duster-hybrid-launched-at-rs-16-99-lakh-088377.html",
+  "https://www.autopunditz.com/post/renault-duster-strong-hybrid-launch-price-mileage-india",
+  "https://cdn.group.renault.com/ren/in/pressrelease2026/Press-release-strong-hybrid.pdf",
+  "https://cdn.group.renault.com/ren/in/pressrelease2026/Sales-Press-Release-(Oct-26).pdf",
+  "https://www.renault.co.in/cars/renault-duster/duster-price.html"
+ ],
+ "photo_source": {
+  "page": "https://www.renault.co.in/cars/duster-strong-hybrid-e-tech.html",
+  "file": "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/duster-hev/overview/duster-hev-overview-006-mobile.jpg",
+  "licence": "Official Renault India product image published on the maker's own model page (manufacturer media), credited",
+  "author": "Renault India",
+  "credit": "Image: Renault India",
+  "viewed": true,
+  "processing": "2560x4551 source; YuNet 0 faces (checked before viewing), empty cabin; cropped full-bleed 4:5 by cardkit (focal 0.5,0.60; zoom 1.0; 0.42x downscale, no enlargement); dummy press plate RE-012-LT left unaltered per reviewer; no other edits"
+ },
+ "tags": [
+  "renaultindia"
+ ],
+ "gates": {
+  "g1": "PASS: build C1 (Duster Strong Hybrid deliveries); C2 VW offers and C3 BYD Atto 2 dropped; fixes applied (Renault claims attributed, single-source details dropped, 160 PS, no rival-figures slide, plate untouched)",
+  "g2": "PASS (optional fix applied: 'The Duster Hybrid's rivals')",
+  "g3": "PASS: Renault India 006 image, 0 faces, empty cabin, 0.42x, car whole y 280-720; @renaultindia confirmed on renault.co.in",
+  "g4": "PASS: reviewer 13/14 (original 1); no HOLD; no story (Stories paused 11:19 UTC)"
+ }
+}

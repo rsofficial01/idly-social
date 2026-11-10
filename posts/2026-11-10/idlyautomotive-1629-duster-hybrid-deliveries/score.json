@@ -1,0 +1,35 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 1,
+ "alone": 2,
+ "total": 13,
+ "notes": "original 1: the peg (deliveries) is new, but most of the content (29 kmpl, 160 PS, variant prices, 31 Dec intro window) recaps the 9-17 Oct launch coverage, and the cover is Renault's own marketing image. idly's added angle is mainly collation, not a new synthesis. Everything else is strong: a specific 29 kmpl and ₹16.99 lakh on a striking full-bleed cover, a clear forward for SUV shoppers weighing hybrid vs diesel, keepable variant prices and deadline, a genuine question, Renault claims attributed, and slides that stand alone.",
+ "scored_as": "lower of the two totals (self 14, reviewer 13): reviewer's checks",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 14,
+  "notes": "after render: cover shows the actual car whole, numbers on the cover; keepable variant prices + 31 Dec deadline; genuine hybrid-vs-diesel question; idly's own synthesis from 6 sources"
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 1,
+  "alone": 2,
+  "total": 13,
+  "notes": "original 1: the peg (deliveries) is new, but most of the content (29 kmpl, 160 PS, variant prices, 31 Dec intro window) recaps the 9-17 Oct launch coverage, and the cover is Renault's own marketing image. idly's added angle is mainly collation, not a new synthesis. Everything else is strong: a specific 29 kmpl and ₹16.99 lakh on a striking full-bleed cover, a clear forward for SUV shoppers weighing hybrid vs diesel, keepable variant prices and deadline, a genuine question, Renault claims attributed, and slides that stand alone.",
+  "verdict": "PASS"
+ }
+}
