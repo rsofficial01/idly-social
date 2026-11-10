@@ -1,0 +1,44 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2027-bmw-f450gs-variants",
+ "date": "10 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Rushlane",
+  "BikeWale",
+  "BMW Motorrad India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "BMW's F 450 GS Now Has 4 Variants",
+   "photo": "_work/2026-11-10-hourly-2027/idlyautomotive/photos/frame-cover/cover_source.png",
+   "photo_credit": "Image: BMW Motorrad (F 450 GS Trophy)",
+   "focal": [
+    0.493,
+    1.0
+   ],
+   "zoom": 1.4
+  },
+  {
+   "type": "detail",
+   "stat": "₹5.90 lakh",
+   "stat_label": "F 450 GS Sport, the New Fourth Variant",
+   "bullets": [
+    "Gets the Trophy's sport suspension and Riding Modes Pro",
+    "No Easy Ride Clutch; only the Trophy has it",
+    "Same 48 hp, 420cc twin as the cheaper variants"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "₹5.35 lakh",
+   "stat_label": "Ex-Showroom Price of the Base F 450 GS",
+   "bullets": [
+    "Base was ₹4.70 lakh at the April launch",
+    "Exclusive: ₹5.55 lakh now, ₹4.90 lakh in April",
+    "GS Trophy: ₹6.15 lakh now, ₹5.30 lakh in April"
+   ]
+  }
+ ]
+}

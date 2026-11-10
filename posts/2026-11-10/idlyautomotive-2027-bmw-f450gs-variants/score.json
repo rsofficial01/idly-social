@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13); tie uses the reviewer's checks. Blind reviewer, Gate 4, run 2027. hook 1: no price on the cover. '4 Variants' is not a surprising number, the ₹ figures only arrive on slides 2-3 (learnings: hook 1 when the stopping number isn't on the cover), and the Sport peg is 4 days old. All other checks strong: the price ladder (now vs April) is keepable, the send is clear (first-ADV buyer), the own-life question is genuine, and each slide names the bike and stands alone. Layout: the cover is full-bleed and sharp (downscaled 0.788, no enlargement). The GS Trophy is whole: mirror at y≈220 clears the logo, the front tyre ends at y≈995 above the 2-line headline (top 1050), the rear plate is inside the left edge. White Title Case headline on the date's left edge; the vertical credit is readable over the gravel. Slides 02-03: white labels, one left edge, Sources line clear of the footer, no overflow. Cosmetic: 'variants' sits alone on its line in slide 02 bullet 3. Facts re-verified (Autocar India, Rushlane, BikeWale, BMW India release). The credit and alt name the Trophy shown, under a range-led headline, so the picture is the actual subject.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: the Sport variant was reported on 6-7 Nov (about 4 days old), and the cover's number is '4 variants' rather than a price; the ₹5.90 lakh price is on slide 2 because a price-range headline ran to 3 lines and would have sat on the bike. Other checks: four-rung price ladder with April vs now is worth keeping; send to someone shopping a first ADV bike; own-life budget question."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4, run 2027. hook 1: no price on the cover. '4 Variants' is not a surprising number, the ₹ figures only arrive on slides 2-3 (learnings: hook 1 when the stopping number isn't on the cover), and the Sport peg is 4 days old. All other checks strong: the price ladder (now vs April) is keepable, the send is clear (first-ADV buyer), the own-life question is genuine, and each slide names the bike and stands alone. Layout: the cover is full-bleed and sharp (downscaled 0.788, no enlargement). The GS Trophy is whole: mirror at y≈220 clears the logo, the front tyre ends at y≈995 above the 2-line headline (top 1050), the rear plate is inside the left edge. White Title Case headline on the date's left edge; the vertical credit is readable over the gravel. Slides 02-03: white labels, one left edge, Sources line clear of the footer, no overflow. Cosmetic: 'variants' sits alone on its line in slide 02 bullet 3. Facts re-verified (Autocar India, Rushlane, BikeWale, BMW India release). The credit and alt name the Trophy shown, under a range-led headline, so the picture is the actual subject."
+ }
+}

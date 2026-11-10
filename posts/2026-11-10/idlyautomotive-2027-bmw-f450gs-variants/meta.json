@@ -1,0 +1,34 @@
+{
+ "account": "idlyautomotive",
+ "title": "BMW F 450 GS now has 4 variants in India: new Sport at ₹5.90 lakh; range ₹5.35 lakh (Base) to ₹6.15 lakh (GS Trophy), up from ₹4.70–5.30 lakh at the April launch",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.autocarindia.com/bike-news/bmw-f-450-gs-sport-variant-launched-in-india-441276",
+  "https://www.rushlane.com/bmw-f-450-gs-sport-variant-launch-price-rs-5-90-lakh-12560655.html",
+  "https://www.bikewale.com/news/bmw-f-450-gs-sport-launched-at-rs-590-lakh/",
+  "https://www.press.bmwgroup.com/india/article/detail/T0457368EN",
+  "https://www.press.bmwgroup.com/global/article/detail/T0453560EN/bmw-motorrad-presents-the-bmw-f-450-gs"
+ ],
+ "photo_source": {
+  "page": "https://www.press.bmwgroup.com/india/article/detail/T0457368EN",
+  "file": "https://content.presspage.com/uploads/3242/aa3e4332-bddb-4f24-a06d-afc64f7ff3e7/1920_P90625929_highRes_the-new-bmw-f-450-gs.jpg (1920x2880 rendition of BMW photo P90625929; larger highRes also served)",
+  "licence": "Official BMW Motorrad press photo from BMW Group PressClub India (F 450 GS India launch release, 24 Apr 2026), manufacturer media for editorial use, credited",
+  "author": "BMW Motorrad / BMW Group",
+  "credit": "Image: BMW Motorrad (F 450 GS Trophy)",
+  "subject": "BMW F 450 GS in GS Trophy livery (Racing Blue Metallic), parked alone on a gravel riverbed with mountains behind; front three-quarter; portrait",
+  "viewed": true,
+  "processing": "YuNet 0 faces before viewing; no person, no lettering in the scene (blank press plate); pipeline.framing ok (0 faces, no upscale needed); cardkit hype cover focal (0.493, 1.0), zoom 1.4: crop 1371x1714 px anchored to the bottom of the frame, downscaled 0.788x; bike whole from y≈220 (mirror) to y≈995 (front tyre), headline top y=1050; no other edits"
+ },
+ "tags": [
+  "bmwmotorrad_in"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (range-led; ceiling 13). Conditions: range-led headline (no 'GS Sport' and no 'now starts at ₹5.35 lakh'), Sport news leads slide 2, each price once with April vs now on the ladder slide, bike whole above the headline text, credit/alt name the F 450 GS Trophy, confirm @bmwmotorrad_in. B (Ather 3 lakh, 11) and C (Force Traveller EV, 10) dropped.",
+  "g2": "PASS (blind reviewer): every fact on 2+ sources (Autocar India, Rushlane, BikeWale, BMW India/global releases); single-source facts dropped; post_problems clean",
+  "g3": "PASS: BMW's own press photo P90625929 (India launch release, 1920x2880), F 450 GS Trophy alone on gravel, no person, no watermark; focal 0.493/1.0, zoom 1.4, 0.788x downscale; @bmwmotorrad_in confirmed on BMW India's release page",
+  "g4": "PASS: reviewer 13/14 (hook 1: no price on the cover; 4-day-old Sport peg); self 13/14; final 13/14"
+ }
+}
