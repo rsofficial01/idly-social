@@ -1,0 +1,33 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "nvidia-idlynews-10nov-v4",
+  "image_credit": "Photo: NVIDIA",
+  "image_source": null,
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/06.jpg"
+  ],
+  "score_self": 12,
+  "score_reviewer": 12,
+  "story_id": null,
+  "account": "idlynews",
+  "media_id": "18411813268093607",
+  "permalink": "https://www.instagram.com/p/DfjG7I3DL0f/",
+  "posted_at": "2026-11-10T05:01:59+00:00",
+  "date": "2026-11-10",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/06.jpg"
+  ],
+  "score_total": 12
+}
