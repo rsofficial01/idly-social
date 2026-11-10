@@ -1,12 +1,12 @@
 {
   "hook": 2,
   "read": 2,
-  "send": 2,
+  "send": 1,
   "keep": 2,
   "reply": 2,
   "original": 2,
   "alone": 2,
-  "total": 14,
-  "notes": "All checks strong: price, intro-price limit, claimed range and specs (labelled as company claims), where to book and delivery month. Question changed to a reader's own daily distance (was a yes/no poll). Fresh 10 Nov: idly 1510 unchanged. New cover: official Ultraviolette studio side profile, whole bike above the headline. Self: 14/14; reviewer: pending (blind review not yet run: this session had no Agent tool). Not cleared to publish until a fresh blind reviewer scores it; the post's score is the lower of the two.",
+  "total": 13,
+  "notes": "All checks strong: price, intro-price limit, claimed range and specs (labelled as company claims), where to book and delivery month. Question changed to a reader's own daily distance (was a yes/no poll). Fresh 10 Nov: idly 1510 unchanged. New cover: official Ultraviolette studio side profile, whole bike above the headline. Self: 14/14; reviewer: pending (blind review not yet run: this session had no Agent tool). Not cleared to publish until a fresh blind reviewer scores it; the post's score is the lower of the two. | reviewer: 13/14 (blind, 10 Nov); only blocker was 'Tell us below.', removed. Final = lower of each check.",
   "story_id": 1510
 }
