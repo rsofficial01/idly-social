@@ -531,5 +531,36 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/tue-idlynerd-blade-runner-2099/03.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": 1723,
+    "account": "idlyautomotive",
+    "media_id": "18133786414774426",
+    "permalink": "https://www.instagram.com/p/DfjfC7Alyh-/",
+    "posted_at": "2026-11-10T08:32:49+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1327-mache-battery-health/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1327-mache-battery-health/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1327-mache-battery-health/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1788,
+    "account": "idlynews",
+    "media_id": "18078523187750950",
+    "permalink": "https://www.instagram.com/p/DfjfIZEjnd8/",
+    "posted_at": "2026-11-10T08:33:32+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1327-sc-ncr-vehicle-pollution/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1327-sc-ncr-vehicle-pollution/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1327-sc-ncr-vehicle-pollution/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1327-sc-ncr-vehicle-pollution/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
