@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13). Blind reviewer, Gate 4 r2, run 1828. Fix confirmed on the re-render: slide 3 bullet 3 reads 'Comes in UK sizes 3 to 12' (alt.txt matches); slides 01-02 unchanged (same files as the r1 check). hook 1: the peg is Comet's 4 Nov release (6 days old) and it was not a Hypebeast/Complex lead in the last 24 h; the cover itself is strong (Indian label, craft, Rs 5,899 on the cover, clean product shot). No other check below 2: send (an Ajrakh/handloom lover's forward), keep (price, sizes, colourways, where, Black buyable UK 3-10 at 7 pm), own-life question, Comet's claims attributed, our synthesis with the brand image credited.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: 4 Nov release, 6 days old, not a Hypebeast/Complex lead (₹ price and craft on the cover keep it alive); keep 2 only while Black is buyable (UK 3-10 listed at 18:50 IST) - falls to 1 if it sells out; send 2: textile/handloom lovers and Comet wearers; reply 2: own-life question about hand-block-printed things they own."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4 r2, run 1828. Fix confirmed on the re-render: slide 3 bullet 3 reads 'Comes in UK sizes 3 to 12' (alt.txt matches); slides 01-02 unchanged (same files as the r1 check). hook 1: the peg is Comet's 4 Nov release (6 days old) and it was not a Hypebeast/Complex lead in the last 24 h; the cover itself is strong (Indian label, craft, Rs 5,899 on the cover, clean product shot). No other check below 2: send (an Ajrakh/handloom lover's forward), keep (price, sizes, colourways, where, Black buyable UK 3-10 at 7 pm), own-life question, Comet's claims attributed, our synthesis with the brand image credited."
+ }
+}

@@ -1,0 +1,43 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-1828-comet-ajrakh",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Comet",
+    "Indian Retailer",
+    "Business News Week"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Bengaluru's Comet Puts Hand-Printed Kutch Ajrakh on a ₹5,899 Sneaker",
+      "photo": "_work/2026-11-10-hourly-1828/hype/framing/cover_source.png",
+      "photo_credit": "Image: Comet",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "3 WEEKS",
+      "stat_label": "Can Go Into Each Hand-Printed Ajrakh Cloth",
+      "bullets": [
+        "Comet says: original block prints, not digital copies",
+        "Natural dyes, so colour and print may vary slightly",
+        "Comet says each pair passes through 150 hands"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Colourways: Cream, Red and Black",
+      "bullets": [
+        "All on Aeres, Comet's retro court-style low-top",
+        "Faux-leather uppers with handloom Ajrakh panels",
+        "Comes in UK sizes 3 to 12"
+      ]
+    }
+  ]
+}

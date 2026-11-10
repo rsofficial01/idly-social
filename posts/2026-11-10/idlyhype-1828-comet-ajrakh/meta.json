@@ -1,0 +1,38 @@
+{
+ "account": "idlyhype",
+ "title": "Bengaluru's Comet puts hand-printed Kutch Ajrakh on its ₹5,899 Aeres sneaker (Cream, Red, Black; announced 4 Nov)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.wearcomet.com/pages/the-ajrakh-collection",
+  "https://www.wearcomet.com/products/aeres-ajrakh-black",
+  "https://www.wearcomet.com/products/aeres-ajrakh-red",
+  "https://www.wearcomet.com/products/aeres-ajrakh-cream",
+  "https://businessnewsweek.in/business/comet-brings-original-ajrakh-craftsmanship-to-contemporary-sneaker-design/",
+  "https://www.indianretailer.com/brandlicense/archives/news/comet-unveils-ajrakh-inspired-sneakers-made-original-hand-printed-fabric.n6213",
+  "https://fashionvaluechain.com/comet-launches-ajrakh-inspired-sneaker-collection/",
+  "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest",
+  "https://inc42.com/startups/can-comet-stir-up-a-sneaker-revolution-with-its-storytelling-playbook"
+ ],
+ "photo_source": {
+  "page": "https://www.wearcomet.com/products/aeres-ajrakh-black",
+  "file": "https://cdn.shopify.com/s/files/1/0738/5559/8899/files/8_fdba8c26-08e2-4d80-a092-d3f967ca0069.jpg?v=1793343112",
+  "licence": "Comet's own product image (official brand image, credited)",
+  "author": "Comet (Grails Marketing Pvt Ltd)",
+  "credit": "Image: Comet",
+  "subject": "Comet Aeres Ajrakh Black, the pair, studio product shot (image 8 of 11 on the product page); product only, no people",
+  "viewed": true,
+  "processing": "original 3684x4995; crop only (no resampling) to the 4:5 region x 295-3315, y 1220-4995 (3020x3775) to lift the pair into the upper half; 0 faces (YuNet); pipeline.framing ok full-bleed, focal (0.5, 0.5), zoom 1.0, 0.36x downscale; no other edits"
+ },
+ "tags": [
+  "thecometuniverse"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "PASS: build C1 (Comet Aeres Ajrakh), ceiling 12 (13 if a pair is buyable); conditions: craft hook not 'sold out', re-check stock before Gate 2, no advertorial, attribute Comet's claims, 'Kutch, Gujarat', product-only Comet shot credited 'Image: Comet', tag only once confirmed on wearcomet.com, own-life question. C2 (G-Shock 2500) and C3 (LEGO Interstellar) dropped.",
+  "g2": "FIX (6) applied: cover 'Hand-Printed' (no 'Real'); slide 2 b1 'Comet says: original block prints, not digital copies'; b2 natural-dye colour variation (Comet's product-page caution; worded 'colour and print may vary slightly'), dye list caption-only; slide 3 stat 3 / 'Colourways: Cream, Red and Black' with silhouette, uppers, sizes; alt.txt updated; stock re-checked 19:00 IST (unchanged), caption time stamp 7 pm",
+  "g3": "PASS: Comet's own product-only studio shot 3684x4995, crop-only 3020x3775, framing zoom 1.0 at 0.36x; tag @thecometuniverse confirmed on wearcomet.com",
+  "g4": "HOLD (1 copy fix) -> fixed: slide 3 bullet 3 'Comes in UK sizes 3 to 12' (was 'Made in UK sizes...'), alt.txt matched; r2 PASS, reviewer 13/14; stock re-checked by main 19:05 IST (Black UK 3-10 available, unchanged)"
+ }
+}
