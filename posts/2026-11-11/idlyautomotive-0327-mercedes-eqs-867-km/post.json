@@ -1,0 +1,45 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-0327-mercedes-eqs-867-km",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Edmunds",
+    "Electrek",
+    "InsideEVs"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "This Mercedes EV Drove 867 km on One Charge",
+      "photo": "_work/2026-11-11-hourly-0327/idlyautomotive/framing-EH-1/cover_source_alt.png",
+      "photo_credit": "Image: Mercedes-Benz USA",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "898 KM",
+      "stat_label": "The Longest Range Edmunds Has Measured",
+      "bullets": [
+        "Cadillac's Escalade IQ; the Mercedes EQS 450+ is second",
+        "Beat the Lucid Air, the previous sedan leader",
+        "Went 116 km past its official US range rating"
+      ],
+      "credit_line": "Sources: Edmunds electric-vehicle (EV) range test, via Electrek and InsideEVs"
+    },
+    {
+      "type": "detail",
+      "stat": "122 kWh",
+      "stat_label": "Why the New EQS 450+ Goes Further",
+      "bullets": [
+        "Battery up from 118 kilowatt-hours, plus a two-speed gearbox",
+        "About 161 km added in just over 7 minutes",
+        "No India launch or price announced yet"
+      ],
+      "credit_line": "Sources: Edmunds, Electrek, InsideEVs, Motor1"
+    }
+  ]
+}

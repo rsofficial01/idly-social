@@ -1,0 +1,33 @@
+{
+ "account": "idlyautomotive",
+ "title": "Mercedes-Benz EQS 450+ (2027) drove 539 miles (867 km) on one charge in Edmunds' real-world EV range test: 72 miles (116 km) over its 467-mile (752 km) EPA estimate; longest-range sedan Edmunds has tested, beating the Lucid Air; only the Cadillac Escalade IQ went farther (558 miles, 898 km); 122 kWh battery (up from 118), two-speed rear gearbox, 800 V; ~100 miles (161 km) added in just over 7 minutes; no India launch or price announced",
+ "story_id": 1880,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  "https://www.edmunds.com/car-news/2027-mercedes-benz-eqs-450-range-tested.html",
+  "https://electrek.co/2026/11/09/mercedes-eqs-drove-539-miles-without-stopping-to-charge/",
+  "https://insideevs.com/news/815069/mercedes-eqs-range-test-edmunds/",
+  "https://www.motor1.com/news/792833/2027-mercedes-benz-eqs-revealed-trims-details-changes/"
+ ],
+ "photo_source": {
+  "page": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
+  "file": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my27/eqs-class/eqs-sedan/byo-options/2027-EQS-SEDAN-EH-1.jpg (1272x1152; saved unaltered as _work/2026-11-11-hourly-0327/idlyautomotive/photos/2027-EQS-SEDAN-EH-1.jpg, sha1 7f4ccebf206cb9e91edec1399a6e71e758376589)",
+  "licence": "Official Mercedes-Benz USA product image from its own 2027 EQS Sedan class page (Exterior highlights gallery), used credited for editorial news",
+  "author": "Mercedes-Benz USA",
+  "credit": "Image: Mercedes-Benz USA",
+  "subject": "2027 Mercedes-Benz EQS sedan, black, whole car, front three-quarter view, parked on a city street with brick buildings; German demo plate 'S MB 2975E' and small 'EQS' fender badge; no people, no watermark, no text overlay (trim not claimed)",
+  "viewed": true,
+  "processing": "Source file: JPEG bytes, identical to the mbusa.com file (reviewer checked; sha1 7f4ccebf…); mbusa.com's Content-Type header says image/webp, the bytes are JPEG. pipeline.framing: ok, 0 faces, upscale 1.31 (plan crop 225,123,822,1029). Used the reviewer-approved alternative crop (230,152,800,1000) with the same Lanczos 1.35x enlargement + unsharp mask (radius 1.6, 70%, threshold 2) -> framing-EH-1/cover_source_alt.png (1080x1350, sha1 1efbf371b74a6a72b68ba64e88d5e5f4c80ade96, 0 faces); cardkit cover focal (0.5, 0.5), zoom 1.0, scale 1.00. No fill, blur, letterbox or recolour. Car whole at about x 34-1046, y 297-726; headline top 950; scrim 0.5."
+ },
+ "tags": [
+  "mercedesbenzusa"
+ ],
+ "tag_evidence": "mbusa.com's own 2027 EQS Sedan page footer links instagram.com/MercedesBenzUSA (checked 11 Nov 2026 by the desk and the reviewer)",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "First pass DROP ALL (EQS banner 2842x939 couldn't frame; F1 finale and Ntorq colour too weak). Retry: BUILD A with mbusa.com EH-1 image, alt crop. Fixes applied: headline 'This Mercedes EV Drove 867 km on One Charge'; slide 2 ranked range (898 km Escalade IQ, EQS 450+ second, Lucid beaten, 116 km over rating); slide 3 why + 'No India launch or price announced yet'; km only on cards; '2027 Mercedes-Benz EQS sedan' in alt/caption, trim not claimed; idly line; tag mercedesbenzusa; processing recorded; dropped facts stay dropped.",
+  "g23": "Words PASS, picture PASS (reviewer, blind): every fact checked against two sources; bytes identical to the mbusa.com file; processing note corrected by main.",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 2, keep 1 (US test, no India launch or price), reply 2, original 2, alone 2."
+ }
+}
