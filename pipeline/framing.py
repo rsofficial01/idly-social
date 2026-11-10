@@ -7,12 +7,12 @@ Rules (output pixels of the final 1080x1350 cover):
   * every detected face (padded a little for hair and chin) sits inside y in [FACE_TOP, FACE_BOTTOM]
     = [190, 0.52 * 1350 = 702], fully inside the frame, at least EDGE_MARGIN px from the left/right edges;
   * nothing salient sits under the centred logo (LOGO_BOX, the top ~170 px);
-  * no more than MAX_UPSCALE (1.2x) upscaling.
+  * no more than MAX_UPSCALE (2x) enlargement; beyond 1.15x the crop is pre-scaled with Lanczos and sharpened.
 
 Compositions, in order:
   1. cover:     cardkit's own 4:5 crop (focal + zoom). Zoom only goes up to what MAX_UPSCALE allows.
-  2. letterbox: the whole image fitted to 1080 px wide, placed below the logo on a blurred, darkened copy
-                of itself (used for 16:9 trailer stills, or when no crop satisfies the rules).
+  2. letterbox: OFF (ALLOW_LETTERBOX = False). Rahul rejected boxed images on a blurred copy (10 Nov 2026);
+                kept only for tests. If no full-bleed crop fits, the next image attempt is tried.
 If neither works the spec fails with the reasons.
 
 Faces come from OpenCV's YuNet detector (opencv_zoo, face_detection_yunet_2023mar.onnx), downloaded once
@@ -39,8 +39,13 @@ LOGO_BOX = (330, 0, 750, 170)              # x0, y0, x1, y1: the centred logo (c
 LOGO_CLEAR = 170                           # letterbox: the image band starts below this
 EDGE_MARGIN = 12                           # px between a face and the left/right edge
 FACE_PAD = 0.12                            # pad each face box by 12% of its size on every side
-MAX_UPSCALE = 1.2
-MIN_SOURCE_W = math.ceil(OUT_W / MAX_UPSCALE)   # 900: below this nothing can pass
+# Rahul, 10 Nov 2026: every cover is full-bleed like @idlynews (photo fills the frame, gradient behind the
+# headline); never a boxed image on a blurred copy of itself. A small source may be enlarged up to 2x
+# (Lanczos + light sharpening in render_input); beyond that the next image attempt is used.
+MAX_UPSCALE = 2.0
+ALLOW_LETTERBOX = False
+SHARPEN_ABOVE = 1.15                        # enlargements beyond this get pre-scaled and lightly sharpened
+MIN_SOURCE_W = math.ceil(OUT_W / MAX_UPSCALE)   # 540: below this nothing can pass
 ZOOM_STEP = 0.02
 MAX_ZOOM = 3.0
 SALIENT_LOGO = 2.2                         # logo-box saliency / crop mean above this = "salient under the logo"
@@ -345,6 +350,8 @@ def plan_image(img: Image.Image, faces: list[Face] | None = None, use_saliency: 
         cover.faces_src = found
         return cover
     reasons.append(why)
+    if not ALLOW_LETTERBOX:
+        raise FramingError(reasons)
     box, why = plan_letterbox(w, h, faces)
     if box:
         box.notes += [f"{len(faces)} face(s) detected", f"cover rejected: {reasons[0]}"]
@@ -381,6 +388,45 @@ def render_input(img: Image.Image, plan: Plan, work_dir: Path) -> tuple[Path, tu
         path = work_dir / "cover_letterbox.png"
         compose_letterbox(img, plan).save(path)
         return path, (0.5, 0.5), 1.0
+    if plan.upscale > SHARPEN_ABOVE and plan.crop:
+        # enlarge the chosen 4:5 crop ourselves (Lanczos + light unsharp mask) so the browser doesn't upsample it
+        left, top, cw, ch = plan.crop
+        piece = img.convert("RGB").crop((round(left), round(top), round(left + cw), round(top + ch)))
+        piece = piece.resize((OUT_W, OUT_H), Image.LANCZOS)
+        piece = piece.filter(ImageFilter.UnsharpMask(radius=1.6, percent=70, threshold=2))
+        path = work_dir / "cover_source.png"
+        piece.save(path)
+        return path, (0.5, 0.5), 1.0
     path = work_dir / "cover_source.png"
     img.convert("RGB").save(path)
     return path, plan.focal, plan.zoom
+
+
+def _cli(argv=None) -> int:
+    """python3 -m pipeline.framing <photo> <work_dir>: plan a full-bleed 4:5 cover for an hourly-run photo.
+
+    Prints JSON with the photo path, focal and zoom to put on the cardkit cover slide, or the reasons it can't
+    be framed full-bleed (then use a different, larger image of the same subject; never letterbox or blur-extend).
+    """
+    import argparse
+    import json
+    from PIL import ImageOps
+    ap = argparse.ArgumentParser(description=_cli.__doc__)
+    ap.add_argument("photo")
+    ap.add_argument("work_dir")
+    a = ap.parse_args(argv)
+    img = ImageOps.exif_transpose(Image.open(a.photo)).convert("RGB")
+    try:
+        plan = plan_image(img)
+    except FramingError as e:
+        print(json.dumps({"ok": False, "reasons": e.reasons}, indent=1))
+        return 1
+    path, focal, zoom = render_input(img, plan, Path(a.work_dir))
+    print(json.dumps({"ok": True, "photo": str(path), "focal": list(focal), "zoom": zoom,
+                      "upscale": round(plan.upscale, 2), "faces": len(plan.faces_out or []),
+                      "note": "enlarged and sharpened" if plan.upscale > SHARPEN_ABOVE else ""}, indent=1))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(_cli())

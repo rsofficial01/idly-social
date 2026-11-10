@@ -43,7 +43,7 @@ from pipeline.common import REPO, log
 
 SOURCES_FILE = REPO / "config" / "official_sources.json"
 RESOLVERS = ("licensed_wire", "youtube_official", "og_image_official")    # priority order
-MIN_WIDTH = framing.MIN_SOURCE_W      # 900
+MIN_WIDTH = 900                       # sources stay high-res; the 4:5 crop may then be enlarged up to 2x
 MAX_IMAGE_BYTES = 30 * 1024 * 1024
 MAX_HTML_BYTES = 3 * 1024 * 1024
 UA = "Mozilla/5.0 (compatible; idly-social-lane/1.0; +https://idly.news)"

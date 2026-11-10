@@ -74,9 +74,14 @@ class CoverGeometry(unittest.TestCase):
         self.assertIn("cut off", why)
 
     def test_too_small_for_cover(self):
-        plan, why = F.plan_cover(1280, 720, [])          # 576px crop: 1.875x
+        plan, why = F.plan_cover(960, 540, [])           # 432px crop: 2.5x (max 2x)
         self.assertIsNone(plan)
         self.assertIn("upscale", why)
+
+    def test_trailer_still_fills_the_frame(self):
+        plan, why = F.plan_cover(1280, 720, [])          # 576px crop: 1.875x, allowed (full-bleed, sharpened)
+        self.assertEqual(plan.mode, "cover")
+        self.assertAlmostEqual(plan.upscale, 1.875, places=3)
 
     def test_zoom_never_exceeds_upscale_limit(self):
         plan, why = F.plan_cover(1300, 1625, [Face(600, 40, 100, 120)])   # needs zoom, little headroom
@@ -134,7 +139,7 @@ class LetterboxGeometry(unittest.TestCase):
         self.assertIsNone(plan)
 
     def test_too_narrow(self):
-        plan, why = F.plan_letterbox(880, 495, [])
+        plan, why = F.plan_letterbox(500, 281, [])
         self.assertIsNone(plan)
         self.assertIn("upscale", why)
 
@@ -151,12 +156,20 @@ class LetterboxGeometry(unittest.TestCase):
 
 
 class PlanImage(unittest.TestCase):
-    def test_falls_back_to_letterbox_then_fails(self):
+    def test_full_bleed_only_never_letterbox(self):
         img = noise_image(1280, 720)
-        self.assertEqual(F.plan_image(img, []).mode, "letterbox")
-        with self.assertRaises(F.FramingError) as cm:
-            F.plan_image(img, [Face(600, 20, 100, 110), Face(600, 590, 100, 110)])
-        self.assertEqual(len(cm.exception.reasons), 2)
+        self.assertEqual(F.plan_image(img, []).mode, "cover")
+        with self.assertRaises(F.FramingError) as cm:      # faces too far apart for one 4:5 crop: no letterbox
+            F.plan_image(img, [Face(100, 300, 100, 110), Face(1080, 300, 100, 110)])
+        self.assertEqual(len(cm.exception.reasons), 1)
+
+    def test_render_input_sharpens_enlarged_crop(self):
+        import tempfile
+        img = noise_image(1280, 720)
+        plan = F.plan_image(img, [])
+        path, focal, zoom = F.render_input(img, plan, Path(tempfile.mkdtemp()))
+        self.assertEqual(Image.open(path).size, (1080, 1350))
+        self.assertEqual((focal, zoom), ((0.5, 0.5), 1.0))
 
     def test_too_small(self):
         with self.assertRaises(F.FramingError):

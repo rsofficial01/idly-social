@@ -128,6 +128,17 @@ record the best story with its best score.
 
 ---
 
+## Cover style (Rahul, 10 Nov 2026)
+
+Every cover looks like the @idlynews Oxford museum post: **the photo fills the whole 1080x1350 frame** and the
+dark gradient behind the headline makes it stand out. **Never** a boxed/letterboxed image on a blurred or darkened
+copy of itself, never blurred side-fills or extended backgrounds (the @idlyautomotive Alto K10 post was rejected for
+this). Sources should be high-res (900px wide or more). A small source may be enlarged up to 2x:
+`python3 -m pipeline.framing <photo> <work_dir>` plans the full-bleed 4:5 crop (faces kept whole and clear of the
+logo and headline), enlarges and sharpens it when needed, and prints the photo/focal/zoom for the cardkit cover
+slide. If it says the photo can't be framed full-bleed, use a different, larger image of the same subject.
+The lane does the same automatically and falls through to the next image attempt.
+
 ## Review while building (not at the end)
 
 The founder's rule (10 Nov): "have the reviewer review every text and image while building so there's no bad
