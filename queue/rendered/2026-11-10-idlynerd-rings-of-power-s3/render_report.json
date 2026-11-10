@@ -1,0 +1,171 @@
+{
+  "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T09:31:32+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+    "source_url": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+    "image_url": "https://i.ytimg.com/vi/maP_Kyy3DCA/maxresdefault.jpg",
+    "credit": "Image: Prime Video (official trailer)",
+    "organisation": "Prime Video",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=maP_Kyy3DCA: author 'Prime Video' https://www.youtube.com/@PrimeVideo, title 'The Rings of Power - Season 3 Official Trailer | Prime Video'",
+      "thumbnail https://i.ytimg.com/vi/maP_Kyy3DCA/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PrimeVideo",
+    "video_title": "The Rings of Power - Season 3 Official Trailer | Prime Video"
+  },
+  "faces": [
+    [
+      588.7,
+      99.0,
+      105.3,
+      142.7,
+      0.945
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        486,
+        269,
+        596,
+        418
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "1 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        588.7,
+        99.0,
+        105.3,
+        142.7,
+        0.945
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Prime Video (official trailer)",
+      "Sources: Amazon, Prime Video India, Collider",
+      "Sources: Amazon, Prime Video India, Collider",
+      "Sources: Amazon, Prime Video India, Collider"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Prime Video (official trailer)",
+      "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 276,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Amazon, Prime Video India, Collider",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Amazon, Prime Video India, Collider",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Amazon, Prime Video India, Collider",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "The Lord of the Rings: The Rings of Power returns for Season 3 on Prime Video on Wednesday, 11 November, with the first four episodes. Episodes 5 and 6 follow on 18 November and the final two on 25 November, eight in all.\n\nPrime Video India says the season streams in six audio languages: English, Hindi, Tamil, Telugu, Malayalam and Kannada. All 16 episodes of the first two seasons are on Prime Video now.\n\nPrime Video says Season 3 is set several years after Season 2 and shows Sauron forging the One Ring. Simon Pegg voices the Balrog, and Jamie Campbell Bower joins as Celeborn.\n\nWhich language will you watch Season 3 in?\n\nSources: Amazon, Prime Video India, Collider\n\n#TheRingsOfPower #RingsOfPower #LOTR #PrimeVideo #idlynerd\n\nImage: Prime Video (official trailer)"
+}

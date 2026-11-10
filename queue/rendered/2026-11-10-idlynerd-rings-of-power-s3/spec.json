@@ -67,5 +67,15 @@
     }
   },
   "notes": "idlynerd desk, hourly run 1427. No idly.news article: Sources line, no idly link. Cover chain per Gate 1 reviewer: Prime Video global S3 official trailer maP_Kyy3DCA (embedded on Amazon's own S3 newsroom page), then Prime Video India multi-audio trailer Mn08a-hNXe0 (thumbnail has a large burned-in title block), then aboutamazon.com S3 page og:image (1200x600 key art). Gate 4 HOLD triggers: burned-in title text touching or competing with the idly headline; headline on a face; a date other than 11 Nov baked in; black or title-only frame.",
-  "created_at": "2026-11-10T15:00:24+05:30"
+  "created_at": "2026-11-10T15:00:24+05:30",
+  "slug": "2026-11-10-idlynerd-rings-of-power-s3",
+  "caption_final": "The Lord of the Rings: The Rings of Power returns for Season 3 on Prime Video on Wednesday, 11 November, with the first four episodes. Episodes 5 and 6 follow on 18 November and the final two on 25 November, eight in all.\n\nPrime Video India says the season streams in six audio languages: English, Hindi, Tamil, Telugu, Malayalam and Kannada. All 16 episodes of the first two seasons are on Prime Video now.\n\nPrime Video says Season 3 is set several years after Season 2 and shows Sauron forging the One Ring. Simon Pegg voices the Balrog, and Jamie Campbell Bower joins as Celeborn.\n\nWhich language will you watch Season 3 in?\n\nSources: Amazon, Prime Video India, Collider\n\n#TheRingsOfPower #RingsOfPower #LOTR #PrimeVideo #idlynerd\n\nImage: Prime Video (official trailer)",
+  "image_credit": "Image: Prime Video (official trailer)",
+  "lane": {
+    "spec_sha256": "e2957e1859f021dfe3178adc7afc9b5fa13695f6bcbfebc90ccb7ddf1f76fd1a",
+    "rendered_at": "2026-11-10T09:31:32+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+    "image_url": "https://i.ytimg.com/vi/maP_Kyy3DCA/maxresdefault.jpg"
+  }
 }
