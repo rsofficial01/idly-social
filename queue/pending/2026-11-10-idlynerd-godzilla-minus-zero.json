@@ -1,0 +1,74 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Godzilla Minus Zero opens to $31.6M, biggest North American opening for a live-action foreign-language film (AP); listed for Indian cinemas on 20 Nov",
+  "headline": "Godzilla Minus Zero Tops North America With $31.6M Opening",
+  "caption": "Godzilla Minus Zero opened at No. 1 in North America with an estimated $31.6 million over 6–8 November. By AP's count, that is the biggest North American opening for a live-action foreign-language film, ahead of Zhang Yimou's Hero (2004). AP notes one exception if you count it: The Passion of the Christ, made largely in Aramaic, opened higher in 2004.\n\nTakashi Yamazaki's sequel made about $63 million worldwide in its first weekend, $21.3 million of it on IMAX screens. Godzilla Minus One, which won the Visual Effects Oscar, opened at $11.4 million in North America in 2023.\n\nIndian ticketing and trade listings put it in cinemas here on 20 November, with PVR INOX Pictures releasing it. Toho's own global release list doesn't include India yet. Sacnilk, Bollywood Hungama and The Week report the date moved from 6 November because of Ramayana's two-week hold on Indian IMAX screens.\n\nDid you watch Godzilla Minus One in a cinema or at home?\n\nSources: AP, The Week, Dread Central, The Numbers, Sacnilk, Bollywood Hungama, District\n\n#GodzillaMinusZero #Godzilla #Toho #BoxOffice #idlynerd",
+  "alt_text": "Slide 1: an official Toho International production still from Godzilla Minus Zero, under the headline \"Godzilla Minus Zero Tops North America With $31.6M Opening\". Slide 2: \"No. 1\", the biggest live-action foreign-language opening in North America: it ends Hero's 2004 record, per AP's count, and is nearly triple Minus One's $11.4M opening in 2023. Slide 3: \"$63M\" worldwide from its first weekend: IMAX screens made $21.3M of it, about a third; it follows Minus One, 2024's Visual Effects Oscar winner. Slide 4: \"20 NOV\", the listed date for Indian cinemas: ticketing and trade listings carry it, but Toho hasn't listed India; PVR INOX Pictures is releasing it here; it moved from 6 Nov, trade reports say.",
+  "sources": [
+    "AP",
+    "The Week",
+    "Dread Central",
+    "Sacnilk"
+  ],
+  "detail_slides": [
+    {
+      "stat": "No. 1",
+      "stat_label": "Biggest Live-Action Foreign-Language Opening in North America",
+      "bullets": [
+        "Ends Hero's 2004 record, per AP's count",
+        "Nearly triple Minus One's $11.4M opening in 2023"
+      ],
+      "credit_line": "Sources: AP, The Week, Dread Central, The Numbers"
+    },
+    {
+      "stat": "$63M",
+      "stat_label": "Worldwide From Its First Weekend",
+      "bullets": [
+        "IMAX screens made $21.3M of it, about a third",
+        "Follows Minus One, 2024's Visual Effects Oscar winner"
+      ],
+      "credit_line": "Sources: AP, The Week, Dread Central"
+    },
+    {
+      "stat": "20 NOV",
+      "stat_label": "Listed Date for Indian Cinemas",
+      "bullets": [
+        "Ticketing and trade listings; Toho hasn't listed India",
+        "PVR INOX Pictures is releasing it here",
+        "Moved from 6 Nov, trade reports say"
+      ],
+      "credit_line": "Sources: District, Sacnilk, Bollywood Hungama, The Week"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://godzilla.com/blogs/news/tickets-on-sale-now-for-godzilla-minus-zero"
+      }
+    ]
+  },
+  "tags": [
+    "godzilla_toho"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "keep 1: the 20 Nov India date is a ticketing/trade listing, not announced by Toho or PVR INOX; the rest is box-office context. send 2: a kaiju/Minus One fan forwards it for the India date. hook 2: $31.6M and No. 1 on the cover."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 1828. Gate 1 PASS (C1, ceiling 13) with conditions applied: record named exactly and credited to AP (Passion caveat in caption), India 'listed' and attributed, $63M (AP/The Week/Dread Central) and PVR INOX (Sacnilk/Bollywood Hungama) double-sourced, Ramayana in caption only. Cover: clean Toho production stills from godzilla.com/blogs/news og:image (4050x2832, then 2281x1595), never viewed by the desk; no poster, no trailer thumbnail. Gate 4 HOLD triggers: title lettering or a dated/poster image, a face under the headline or logo, a crop with neither Godzilla nor the film's people recognisable. No idly.news article: Sources line, no idly link. Format: news (carousel, 4 slides).",
+  "created_at": "2026-11-10T18:58:00+05:30",
+  "slug": "2026-11-10-idlynerd-godzilla-minus-zero"
+}
