@@ -1,0 +1,170 @@
+{
+  "slug": "2026-11-10-idlynerd-gta6-preload",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T05:30:05+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "source_url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "image_url": "https://i.ytimg.com/vi/rz1B4B2yBZY/maxresdefault.jpg",
+    "credit": "Image: Rockstar Games (official trailer)",
+    "organisation": "Rockstar Games",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=rz1B4B2yBZY: author 'Rockstar Games' https://www.youtube.com/@RockstarGames, title 'Grand Theft Auto VI Launch Trailer'",
+      "thumbnail https://i.ytimg.com/vi/rz1B4B2yBZY/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@RockstarGames",
+    "video_title": "Grand Theft Auto VI Launch Trailer"
+  },
+  "faces": [
+    [
+      244.6,
+      28.3,
+      65.9,
+      89.9,
+      0.917
+    ],
+    [
+      531.6,
+      141.8,
+      49.8,
+      70.3,
+      0.872
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        200,
+        215,
+        269,
+        309
+      ],
+      [
+        443,
+        313,
+        496,
+        386
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "2 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        244.6,
+        28.3,
+        65.9,
+        89.9,
+        0.917
+      ],
+      [
+        531.6,
+        141.8,
+        49.8,
+        70.3,
+        0.872
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "mentions a charge/crime without 'alleged': check unproven claims are marked"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Rockstar Games (official trailer)",
+      "Sources: Rockstar Games, Digit, Business Today",
+      "Sources: Rockstar Games, Digit, Business Today"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Rockstar Games (official trailer)",
+      "slug": "2026-11-10-idlynerd-gta6-preload",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 288,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Rockstar Games, Digit, Business Today",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-gta6-preload",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 260,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Rockstar Games, Digit, Business Today",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-gta6-preload",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Grand Theft Auto VI pre-loading opened today, 10 November. On PS5 it began at 12:00 am IST (midnight local time); on Xbox Series X|S at 5:30 am IST (12 am GMT).\n\nRockstar says the pre-load file needs up to 212 GB, depending on your console, so clear space before you start it.\n\nThe game launches on 19 November on PS5 and Xbox Series X|S; PlayStation and Xbox store listings in India show it unlocking at 12:00 am IST that day. In India, the Standard Edition costs ₹5,999 and the Ultimate Edition ₹7,499. Rockstar says code-in-box versions reach retailers from 12 November.\n\nAre you starting at midnight on 19 November, or waiting for the first reviews?\n\nSources: Rockstar Games Newswire, Digit, Business Today\n\n#GTA6 #GTAVI #RockstarGames #PS5 #idlynerd\n\nImage: Rockstar Games (official trailer)"
+}

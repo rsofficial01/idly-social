@@ -1,0 +1,9 @@
+{
+  "slug": "2026-11-10-idlytech-instagram-ai-age-v2",
+  "stage": "framing",
+  "reasons": [
+    "framing: cover: a 4:5 crop is only 640px wide, 1.69x upscale (max 1.2x)",
+    "framing: letterbox: no band position keeps every face inside y 190-702"
+  ],
+  "rejected_at": "2026-11-10T05:30:09+00:00"
+}
