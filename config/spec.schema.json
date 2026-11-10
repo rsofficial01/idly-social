@@ -107,6 +107,35 @@
             "type": "string",
             "maxLength": 120,
             "description": "Optional override for this slide's source line"
+          },
+          "chart": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 8,
+            "items": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 40
+                },
+                {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                }
+              ],
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "description": "Reels only: a ranked list or comparison as [label, value] rows (value a number, or a stat-like string such as \"\u20b92.69 lakh\"); the reel grows a bar from zero for each while its value counts up. The feed slide still shows the stat and bullets."
+          },
+          "chart_unit": {
+            "type": "string",
+            "maxLength": 40,
+            "description": "Reels only: what the chart's values count, e.g. \"Units sold\""
           }
         },
         "anyOf": [

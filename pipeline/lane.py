@@ -187,6 +187,13 @@ def validate_spec(spec, slug: str) -> list[str]:
     except ValueError:
         errs.append(f"created_at is not a date-time: {spec['created_at']!r}")
     errs += publish.collaborator_problems(spec.get("collaborators"), spec["account"])
+    for i, d in enumerate(spec.get("detail_slides") or [], 1):
+        if d.get("chart"):
+            from cardkit.reel import chart_rows
+            try:
+                chart_rows(d)
+            except ValueError as e:
+                errs.append(f"detail_slides/{i}: {e}")
     extra = spec.get("append_slides") or []
     if 1 + len(spec.get("detail_slides") or []) + len(extra) > 10:
         errs.append("a carousel holds at most 10 slides (cover + detail_slides + append_slides)")
@@ -283,8 +290,8 @@ def build_post(spec: dict, slug: str, photo: Path, focal, zoom: float, credit: s
     slides = [{"type": "cover", "headline": spec["headline"], "photo": str(photo), "photo_credit": credit,
                "focal": tuple(focal), "zoom": zoom}]
     for d in spec.get("detail_slides") or []:
-        slides.append({"type": "detail", **{k: d[k] for k in ("stat", "stat_label", "bullets", "credit_line")
-                                            if d.get(k)}})
+        slides.append({"type": "detail", **{k: d[k] for k in ("stat", "stat_label", "bullets", "credit_line", "chart",
+                                                              "chart_unit") if d.get(k)}})
     return {"acct": spec["account"], "slug": slug, "date": card_date(), "sources": spec.get("sources"),
             "slides": slides}
 
@@ -861,7 +868,10 @@ def validate_reel_request(req, slug: str) -> list[str]:
         errs.append(src["problem"])
     elif src.get("account") != req["account"]:
         errs.append(f"{req['source']} is @{src.get('account')}'s post, not @{req['account']}'s")
-    if not src.get("problem") and any(n > src.get("details", 0) for n in req.get("details") or []):
+    if not src.get("problem") and not src.get("details"):
+        errs.append(f"{req['source']} has no detail slide: a reel needs at least one (a stat, bullets or a chart) "
+                    f"to fill 10 seconds of motion")
+    elif not src.get("problem") and any(n > src.get("details", 0) for n in req.get("details") or []):
         errs.append(f"details {req['details']}: {req['source']} has {src.get('details', 0)} detail slide(s)")
     if reel_already(req["source"]):
         errs.append(f"{req['source']} already has a reel")

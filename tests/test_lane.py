@@ -99,6 +99,20 @@ class SpecSchema(LaneCase):
         self.assertTrue(lane.validate_spec(make_spec(), "Bad Slug!"))
         self.assertTrue(lane.validate_spec(make_spec(slug="other"), "wagonr-oct"))
 
+    def test_detail_slide_chart_for_reels(self):
+        top5 = [["WagonR", 23747], ["Brezza", 22436], ["Tata Nexon", 21966], ["Baleno", 20919], ["Dzire", 20649]]
+        detail = {"stat": "23,747", "stat_label": "October's top 5", "chart": top5, "chart_unit": "Units sold"}
+        spec = make_spec(detail_slides=[detail])
+        self.assertEqual(lane.validate_spec(spec, "wagonr-oct"), [])
+        post = lane.build_post(spec, "wagonr-oct", Path("x.jpg"), (0.5, 0.5), 1.0, "Photo: X")
+        self.assertEqual((post["slides"][1]["chart"], post["slides"][1]["chart_unit"]), (top5, "Units sold"))
+        for bad, why in (({"stat_label": "Top 5", "chart": top5}, "stat"),             # the feed slide needs a stat
+                         (dict(detail, chart=[["A", "\u20b91 lakh"], ["B", "$2B"]]), "mix units"),
+                         (dict(detail, chart=[["A", 1]]), "detail_slides/0/chart"),
+                         (dict(detail, chart=[["A", "lots"], ["B", 2]]), "not a number")):
+            errs = " | ".join(lane.validate_spec(make_spec(detail_slides=[bad]), "wagonr-oct"))
+            self.assertIn(why, errs, bad)
+
     def test_no_article_spec(self):
         cap = make_spec()["caption"].replace("Full story on idly.news (link in bio).", "Sources: SIAM, Autocar India.")
         self.assertEqual(lane.validate_spec(make_spec(story_id=None, idly_article=False, caption=cap), "x-y-z"), [])
@@ -566,6 +580,12 @@ class LaneReels(PublishApproved):
         self.assertIn("has 1 detail slide", errs)
         self.assertTrue(lane.validate_reel_request(dict(bad, account="idlyautomotive", details=[1]), "no-prefix"))
 
+    def test_a_reel_needs_a_detail_slide(self):
+        folder = self.write_posts_folder(details=False)
+        code, out, err = self.request(folder)
+        self.assertEqual(code, 1)
+        self.assertIn("no detail slide: a reel needs at least one", out + err)
+
     def test_render_reels_from_a_lane_post(self):
         rdir = self.rendered_reel()
         self.assertEqual(sorted(p.name for p in rdir.iterdir()),
@@ -592,7 +612,7 @@ class LaneReels(PublishApproved):
         self.run_cli("render-reels")
         self.assertIn("changed since the feed post", self.reel_reasons("reel-wagonr-oct")[0])
 
-    def write_posts_folder(self, posted=True):
+    def write_posts_folder(self, posted=True, details=True):
         folder = "posts/2026-11-10/idlyautomotive-1600-wagonr"
         d = self.repo / folder
         d.mkdir(parents=True)
@@ -603,7 +623,7 @@ class LaneReels(PublishApproved):
             "slides": [{"type": "cover", "headline": "WagonR Stays India's Best-Selling Car", "photo": f"{folder}/photo.jpg",
                         "photo_credit": CAR_CREDIT, "focal": [0.5, 0.5], "zoom": 1.0},
                        {"type": "detail", "stat": "23,747", "stat_label": "WagonR sales in October",
-                        "bullets": ["Brezza second", "Top five: WagonR, Brezza, Nexon"]}]}))
+                        "bullets": ["Brezza second", "Top five: WagonR, Brezza, Nexon"]}][:2 if details else 1]}))
         if posted:
             from pipeline import common
             common.append_posted({"story_id": 1601, "account": "idlyautomotive", "media_id": "1801", "slot": "pm",
