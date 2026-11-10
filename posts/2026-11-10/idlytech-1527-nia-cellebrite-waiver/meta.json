@@ -21,6 +21,6 @@
   "g1": "BUILD A (Cellebrite/NIA); B and C dropped. FIXes: attribute to IFF documents (GeM unreachable), cut Delhi Police 2025 and non-NIA/SFIO agencies, 20 Jan letter / unseen 17 Jan note, neutral headline matching ₹4.98 CR, no 'declined to comment', 'A Cellebrite UFED unit' wording.",
   "g2": "FIX applied: caption reworded in idly's own words with the bid quote attributed; 'Neither IFF nor MediaNama carries a response'; slide 2 bullets stand alone; slide 4 label and SFIO bullets. post_problems: no errors (the 'Fraud' warning is a false positive, accepted).",
   "g3": "PASS: full-bleed, 0.562 downscale, the identifying screen whole and clear of the logo and headline.",
-  "g4": "pending"
+  "g4": "PASS 12/14 (alone 1: IFF not spelled out on the slides); optional lift applied: slide 2 label \"MHA's 20 Jan 2026 Letter Records Shah's Waiver\", bullet 2 \"Letter published by the Internet Freedom Foundation (IFF)\"; only 02.jpg re-rendered, 01/03/04 byte-identical."
  }
 }
