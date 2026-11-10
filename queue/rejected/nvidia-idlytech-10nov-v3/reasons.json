@@ -1,0 +1,8 @@
+{
+  "slug": "nvidia-idlytech-10nov-v3",
+  "stage": "review",
+  "reasons": [
+    "Blind review 12/14 but two hard-rule breaks, so not publishable as is: (1) slide 03 and the caption name Alice Huang, a private businesswoman, next to an unproven Chinese-spy allegation (no charges; China denies it): refer to her only by role or drop the identification; (2) slide 03's largest type is the CEO's admission 'I was unfaithful to my wife' (personal-life material): cut it or reduce it to a plain attributed line; the board probe, market hit and national-security angle carry the story. Facts: slide 08 'about 10,000 staff in India' rests on one aggregator (others give ~2,300-3,900): drop or source to 2; slide 07 'mostly Nvidia' for the IndiaAI pool found in one trade outlet only; several sources on the cards (Finviz, CNN, Google Finance, Business of GCC) are missing from the caption's Sources line. Photo: provenance not recorded (prebuilt); if it is the newsroom's Voyager/Endeavor aerial, its listed credit is 'Gensler | Jason O'Rear Photography'. Read 1: $192B/4.27% restated on the cover, 02 and 05; slides 07-09 drift. Reply 1: the AMD/Google-chips question speaks only to startup founders. All headline numbers, dates and quotes otherwise checked out with 2+ sources."
+  ],
+  "rejected_at": "2026-11-10T04:35:16+00:00"
+}
