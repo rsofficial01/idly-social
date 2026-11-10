@@ -1,0 +1,55 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self 13 and reviewer 13 (tie; checks taken from the reviewer). hook 1: 'Prorogued' is jargon and the stake (record gap; delimitation fight) is not on the cover. All other checks 2.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 13, reviewer 13)",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: '89 Days On' is specific but 'Prorogued' is jargon and the stake (record gap, delimitation fight) is not on the cover. Other checks strong: tight copy; send to UPSC/PSC aspirants and law students; keepable definitions, Art. 85 six-month rule, 298/230/352 vote; open MP question; own synthesis with credited GODL-India photo of the actual chamber; each slide stands alone."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Scored on render/idlynews-1130-monsoon-session-prorogation/01-03.jpg plus idlynews/caption.txt as submitted at G23 (no fixes required). hook 1: '89 Days On' is specific, but 'Prorogued' is jargon to most readers. Neither the stake (a record gap; the norm is a few days) nor the delimitation fight is on the cover, so it stops procedure-watchers, not the general scroll. Other checks are strong: tight copy; a real send to UPSC/PSC aspirants and law students; keepable definitions, the Art. 85 six-month rule and the 298/230/352 vote; a genuine open question; idly's own synthesis with a credited GODL-India PIB photo of the actual chamber; each slide explains itself. Verified myself: PTI (Scroll) record-88-days copy; ANI (Asianet) Ramesh X quote and Rijiju's letter quote verbatim; AIR 19 Oct; 17 April in ANI/PTI-GK/Gujarat Samachar; Article 85 text; no prorogation notice found for 9-10 Nov; 13 Aug to 10 Nov = 89 days. Commons metadata checked (Ministry of Parliamentary Affairs/PIB, GODL-India). Opened all three slides at full size: no overlap, one left edge, white headlines, credit and source lines clear, no empty band, 1.2x upscale still sharp.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Lok_Sabha_chamber_in_New_Parliament_building.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Inside_view_of_Lok_Sabha_chamber_in_New_Parliament_building.jpg",
+  "licence": "GODL-India (Government Open Data License - India)",
+  "author": "Ministry of Parliamentary Affairs / Press Information Bureau",
+  "viewed": true,
+  "processing": "Centre crop x 350-1250 of the 1600x1058 original, scaled 1.2x to 1080x1270, placed at y 80 with a 40px feathered top edge over a blurred (r28), darkened (45%) copy of the full photo; rendered with cardkit hype template (focal 0.5,0.5, zoom 1.0)"
+ },
+ "gates": {
+  "g1": "PASS: build A (ceiling 13); FIX 1-6 applied (record attributed, previous record left out; 89 days; both sides' own words on one slide; notice rule replaced by Art. 85; bill name/date/vote double-sourced; no idly.news). B and C dropped (no image of the actual subject).",
+  "g2": "PASS: every fact checked against PTI, ANI, AIR, The Pioneer, Article 85; mechanical check ([], [])",
+  "g3": "PASS: actual empty Lok Sabha chamber, GODL-India, no people or watermark; 1.2x upscale still sharp; subject clear of logo and headline block",
+  "g4": "PASS: reviewer 13/14 on these exact renders and caption"
+ }
+}
