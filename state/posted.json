@@ -158,5 +158,20 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/ultraviolette-x47-10nov-v2/02.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18115742438139716",
+    "permalink": "https://www.instagram.com/p/DfjKB4tDUYO/",
+    "posted_at": "2026-11-10T05:29:09+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
