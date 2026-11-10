@@ -654,21 +654,35 @@ def main(argv):
     return 0 if ok else 1
 
 
+
+
 # =============================================================================================
 # v2 (10 Nov 2026, afternoon): one stated panel rule, recomputed from research_v5.json.
 #   python3 cardkit/reviews_10nov.py --v2      -> posts/2026-11-10/review_*_v2/ (02.jpg onwards)
 # Rahul's "images first": no type-only cover is rendered. The lane renders slide 1 from the film's official
 # trailer thumbnail and appends these slides after it; the lane also appends the caption's image credit.
+# Highs and lows are read from research_v5.json (films[].points): tallies over the reviews idly read in full.
 # =============================================================================================
+import math  # noqa: E402
+import pathlib  # noqa: E402
 import re  # noqa: E402
 import shutil  # noqa: E402
 import tempfile  # noqa: E402
 
 RESEARCH_V5 = os.environ.get('REVIEWS_RESEARCH_V5') or '/home/claude/reviews_diwali/research_v5.json'
 SRC_V2 = 'Ratings: outlet pages, thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz, read 10 Nov 2026.'
-SRC_V2_POINTS = 'Points: idly\'s tally of the reviews it read in full, 10 Nov 2026. Paraphrases are idly\'s.'
+SRC_V2_POINTS = "Points: idly's tally of the reviews it read in full on 10 Nov 2026. Paraphrases are idly's."
 
-# outlet names as shown on the cards
+# v2 type floor (reviewer, 10 Nov): source lines and legends 23px+, axis numbers 22px+, split text on the bullet column
+V2_CSS = """
+.d2 .body{bottom:236px}
+.d2 .src,.d2 .srcline{font:500 23px/1.3 Inter;color:rgba(255,255,255,.56)}
+.legend{font:500 23px/1.3 Inter;color:rgba(255,255,255,.6)}
+.strip .tk{font:600 22px/1 Inter}
+.split{padding-left:40px}
+.split .n{font-size:23px}
+"""
+
 SHOWN = {'The New Indian Express / Cinema Express': 'New Indian Express', 'The Telegraph (incl. t2)': 'The Telegraph',
          'Mathrubhumi (English)': 'Mathrubhumi', 'The Indian Express': 'Indian Express'}
 
@@ -682,111 +696,93 @@ def show_name(r, rows):
     return name
 
 
-def pts(p):
-    """A high/low point: {'point', 'k', 'n', 'who': [...], 'note'}."""
-    return p
-
-
 EDIT2 = {
     'ramayana-part-1': dict(
         title='Ramayana: Part 1', meta='Hindi · in theatres from 5 Nov',
-        headline='Ramayana: Part 1 Scores 6.9/10 With Critics',
         hook="Critics agree on Yash's Ravana. Ranbir's Rama splits them.",
-        read_n=13,
-        read=['Outlook', 'DT Next', 'Gulte', 'Great Andhra', 'Scroll', 'The Week', 'Telangana Today', 'The Federal', 't2',
-              'THR India', 'The Quint', 'Pinkvilla', 'Koimoi'],
-        highs=[dict(point="Yash's Ravana is the standout", k=13, who=['all']),
-               dict(point='The visuals and sheer scale impress', k=11, who=['Outlook', 'Pinkvilla', 'Koimoi'],
-                    note='2 mixed')],
-        lows=[dict(point='Uneven pacing or choppy editing', k=9, who=['Gulte', 'The Quint', 'Koimoi']),
-              dict(point='The spectacle outweighs the emotion', k=6, who=['Outlook', 'THR India', 't2'],
-                   note='Gulte says the soul is intact'),
-              dict(point="The songs don't land", k=6, who=['DT Next', 'Scroll', 'Koimoi'])],
-        splits=[dict(topic="Ranbir's Rama", line='3 praise it, 5 fault it, 4 are mixed',
-                     n='Praise: DT Next, Great Andhra, Koimoi. Fault: Outlook, Scroll, Telangana Today, THR India, The Quint.'),
-                dict(topic='The Zimmer-Rahman score', line='3 praise it, 4 fault it, 5 are mixed',
-                     n='Praise: Gulte, Pinkvilla, Koimoi. Fault: Scroll, The Week, Telangana Today, The Federal.')],
         watch="You want big-screen spectacle: all 13 reviews idly read praise Yash's Ravana.",
         skip='You want the emotion of the epic: 6 of 13 say the spectacle outweighs it.',
-        verdict=("Ramayana: Part 1 tops idly's Diwali ranking, though not as a rave. All 13 reviews idly read single out "
-                 "Yash's Ravana and 11 praise the scale; the doubts are pacing, the songs and how much feeling survives "
+        verdict=("Ramayana: Part 1 tops idly's Diwali ranking, though not as a rave. All 13 reviews idly read in full single "
+                 "out Yash's Ravana and 11 praise the scale; the doubts are pacing, the songs and how much feeling survives "
                  "the spectacle. Sukanya Verma's Rediff review is headlined \"all scale no soul\"."),
         q="Critics split on Ranbir Kapoor's Rama: what would Part 2 need from him to win you over?",
         tags='#Ramayana #Yash #RanbirKapoor #MovieReview #idlynerd'),
     'scene': dict(
         title="Suriya's Scene", meta='Tamil · in theatres from 6 Nov',
-        headline="Suriya's Scene Scores 6.3/10 With Critics",
-        hook='Critics enjoy Suriya sending himself up. The jokes split them.',
-        read_n=16,
-        read=['Cinema Express', 'Koimoi', 'India Today', 'Indian Express', 'Pinkvilla', 'Hindustan Times', 'Deccan Chronicle',
-              'The Federal', 'Times of India', 'Times Now', 'The Week', 'Filmfare', 'NDTV', 'Rediff', 'Gulte', 'THR India'],
-        highs=[dict(point='Suriya, playing against type, is having fun', k=10, who=['Cinema Express', 'Hindustan Times', 'Gulte']),
-               dict(point="Jithu Madhavan's fresh spin on a cop film", k=7, who=['Times of India', 'The Week', 'THR India']),
-               dict(point='Naslen and Nazriya are strong support', k=5, who=['Cinema Express', 'Filmfare', 'Gulte'],
-                    note='Deccan Chronicle disagrees')],
-        lows=[dict(point='The pacing sags in stretches', k=3, who=['Filmfare', 'Deccan Chronicle', 'The Federal']),
-              dict(point='The investigation is short on tension', k=2, who=['The Week', 'Deccan Chronicle'],
-                   note='Gulte and THR India disagree')],
-        splits=[dict(topic='The jokes', line='6 call it great fun, 2 say the humour wears thin',
-                     n='Fun: Times of India, Hindustan Times, NDTV, Rediff, India Today, THR India. Thin: The Week, Deccan Chronicle.')],
-        watch="You like dark comedy and Suriya sending up his hero image (10 of 16 reviews).",
-        skip='You want a tense investigation: The Week and Deccan Chronicle find it short on tension.',
-        verdict=("Scene is a solid pass rather than a rave. Most reviews idly read enjoy Suriya sending up his own hero "
-                 "image in Jithu Madhavan's offbeat cop comedy; the complaints are pacing that sags in stretches and, for two critics, "
-                 "jokes that wear thin. Hindustan Times's Neeshita Nyayapati: \"Suriya truly has fun poking fun at himself\"."),
+        hook='Critics back Suriya against type. The jokes split them.',
+        watch="You like offbeat cop comedy: 6 of 7 reviews idly read credit Jithu Madhavan's fresh spin.",
+        skip='You want a tight investigation: 4 of 7 find it thin or hard to follow.',
+        verdict=("Scene is a solid pass rather than a rave. Of the 7 reviews idly read in full, 6 credit Jithu Madhavan's "
+                 "fresh spin on the cop film and 5 say Suriya works against type; 4 find the pacing slack and 4 the "
+                 "investigation thin. Hindustan Times's Neeshita Nyayapati: \"Suriya truly has fun poking fun at himself\"."),
         q='Suriya plays a cop who would rather not be one: which star would you most like to see send up their own image next?',
         tags='#Scene #Suriya #JithuMadhavan #TamilCinema #MovieReview'),
     'mookuthi-amman-2': dict(
         title='Mookuthi Amman 2', meta='Nayanthara · Tamil · in theatres from 6 Nov',
-        headline='Mookuthi Amman 2 Scores 3.6/10 With Critics',
-        hook='11 panel ratings. Only one reaches 6/10.',
-        read_n=10,
-        read=['Filmfare', 'NDTV', 'Indian Express', 'Times of India', 'Cinema Express', 'The Hindu', 'India Today', 'Gulte',
-              'DT Next', 'THR India'],
-        highs=[dict(point='Nayanthara holds the screen', k=5, who=['Filmfare', 'NDTV', 'DT Next']),
-               dict(point="Regina Cassandra's villain adds some bite", k=2, who=['Filmfare', 'THR India'],
-                    note='Gulte disagrees'),
-               dict(point='A bigger canvas than the first film', k=2, who=['Indian Express', 'Filmfare'])],
-        lows=[dict(point='A weak, overstuffed screenplay', k=9, who=['NDTV', 'Times of India', 'Gulte']),
-              dict(point='The VFX look cheap, even AI-made', k=6, who=['Filmfare', 'Cinema Express', 'DT Next']),
-              dict(point='The comedy misfires', k=6, who=['Times of India', 'The Hindu', 'THR India'])],
-        splits=[],
-        watch='You are a committed Nayanthara fan: 5 of 10 reviews say she holds the screen.',
-        skip='Effects matter to you: 6 of 10 reviews call the VFX cheap-looking.',
-        verdict=("Mookuthi Amman 2 finishes last of the six Diwali releases idly ranked. Half the reviews idly read say "
-                 "Nayanthara still holds the screen, but 9 of 10 fault the screenplay and 6 call the effects cheap. "
-                 "NDTV's Latha Srinivasan says it \"desperately needed a storytelling miracle\"."),
+        hook='10 panel ratings. Only one reaches 6/10.',
+        watch='You are a committed Nayanthara fan: 2 of the 3 reviews idly read say she holds the screen.',
+        skip='Effects matter to you: all 3 reviews idly read fault the VFX.',
+        verdict=("Mookuthi Amman 2 finishes last of the six Diwali releases idly ranked. All three reviews idly read in full "
+                 "fault the effects and the comedy and two fault the writing, though two say Nayanthara still holds the "
+                 "screen. NDTV's Latha Srinivasan says it \"desperately needed a storytelling miracle\"."),
         q='How much do the effects matter to you in a devotional fantasy, next to the story and the star?',
         tags='#MookuthiAmman2 #Nayanthara #TamilCinema #MovieReview'),
 }
 ROUND2 = {
     'ramayana-part-1': ("Hindi · Yash's Ravana, epic scale", 'Big-screen spectacle; expect more awe than emotion.'),
-    'scene': ('Tamil · Suriya against type', 'Dark-comedy fans; Suriya sends up his own image.'),
+    'scene': ('Tamil · Suriya against type', 'Offbeat cop-comedy fans; Suriya sends up his own image.'),
     'summer-holidays': ('Telugu · gentle, predictable', 'Families with children; gentle and simple.'),
     'aadarsha-kutumbam': ('Telugu · fun first half, then a slide', 'Venkatesh fans; the first half is the draw.'),
     'cult': ('Telugu · gore over suspense', 'Slasher fans with a strong stomach only.'),
-    'mookuthi-amman-2': ('Tamil · writing and VFX panned', 'Only for committed Nayanthara fans.'),
+    'mookuthi-amman-2': ('Tamil · writing, VFX and comedy panned', 'Only for committed Nayanthara fans.'),
 }
-SHORT_TITLE = {'scene': 'Scene'}
+CAP_NAME = {'scene': "Suriya's Scene"}
+WORDS = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Seven'}
 SELF_SCORES_V2 = {
     'review_ramayana-part-1_v2': dict(hook=2, read=2, send=2, keep=1, reply=2, original=2, alone=2, notes=(
-        "keep 1: runtime and certificate left out (no CBFC or distributor source found). Risk: 10 of the 19 counted "
-        "ratings rest on two agreeing listings, not the outlet page (7 on the page); Telugu360 4/5 and Sukanya Verma 2.5/5 rest on the blind "
+        "keep 1: runtime and certificate left out (no CBFC or distributor source found). Risk: 10 of the 18 counted ratings "
+        "rest on two agreeing listings, not the outlet page; Sukanya Verma 2.5/5 rests on BollyMovieReviewz plus the blind "
         "reviewer's page check; hook depends on the lane's trailer cover.")),
     'review_scene_v2': dict(hook=2, read=2, send=2, keep=1, reply=2, original=2, alone=2, notes=(
-        "keep 1: no confirmed runtime or certificate. Risk: Deccan Herald 2.5/5 rests on the blind reviewer's page check "
-        "(site errored here); Koimoi, Rediff and Mathrubhumi left out on one listing each.")),
+        "keep 1: no confirmed runtime or certificate. Points come from 7 reviews read in full; Deccan Herald 2.5/5 rests on "
+        "the blind reviewer's page check (site errored here); Koimoi, Rediff and Mathrubhumi left out on one listing each.")),
     'review_mookuthi-amman-2_v2': dict(hook=2, read=2, send=2, keep=1, reply=2, original=2, alone=2, notes=(
-        "keep 1: no confirmed runtime or certificate. Risk: OnlyKollywood 3/5, 123Telugu 2/5, TOI 2/5 and Rediff 1/5 rest "
-        "on the blind reviewer's page checks.")),
+        "keep 1: no confirmed runtime or certificate. Points rest on only 3 reviews read in full (the other pages could not "
+        "be opened). OnlyKollywood 3/5, TOI 2/5 and Rediff 1/5 rest on the blind reviewer's page checks; 123Telugu dropped.")),
     'review_roundup_v2': dict(hook=2, read=2, send=2, keep=2, reply=2, original=2, alone=1, notes=(
         "alone 1: Pyre and Nakhrewaalii are not ranked because their ratings could not be confirmed under the rule "
-        "(tool limits, not the films), which a reader may find odd even with the note. Six films, 60 ratings.")),
+        "(tool limits, not the films), which a reader may find odd even with the note. Six films, 58 ratings.")),
 }
+
+
+def css2(*a):
+    return css(*a) + V2_CSS
+
+
+def strip2(points, mean, label, legend):
+    """strip_html with bigger dots for the v2 lead slide."""
+    W_, D, STEP, BASE = 936, 26, 30, 44
+    placed, dots, top_n = [], [], 1
+    for v in sorted(points):
+        x = v / 10 * W_
+        n = sum(1 for px in placed if abs(px - x) < D + 2)
+        placed.append(x)
+        top_n = max(top_n, n + 1)
+        dots.append(f"<i class='dot' style='left:{x - D / 2:.1f}px;bottom:{BASE + n * STEP}px;width:{D}px;height:{D}px'></i>")
+    top = BASE + top_n * STEP
+    mx = mean / 10 * W_
+    ticks = ''.join(f"<span class='tk' style='left:{t / 10 * W_:.1f}px;"
+                    f"transform:translateX({'0' if t == 0 else '-100%' if t == 10 else '-50%'})'>{t}</span>"
+                    for t in (0, 2, 4, 6, 8, 10))
+    return (f"<div class='strip' style='height:{top + 44}px'>"
+            f"<div class='axis' style='bottom:34px'></div>{ticks}{''.join(dots)}"
+            f"<div class='mean' style='left:{mx:.1f}px;bottom:34px;height:{top - 34 + 8}px'></div>"
+            f"<div class='ml' style='left:{mx:.1f}px;bottom:{top + 14}px;font-size:24px'>{e(label)}</div></div>"
+            f"<div class='legend'>{e(legend)}</div>")
 
 
 def lead_html(post, s):
-    """First slide after the lane's trailer cover: Title Case headline, the score, the ratings strip, the one method line."""
+    """First slide after the lane's trailer cover: Title Case title, the score, the ratings strip, the one method line."""
     body = f"""
 <div class='glow'></div>
 <div class='d2'><div class='body lead'>
@@ -795,72 +791,103 @@ def lead_html(post, s):
     <div class='ttl' style='font-size:{s.get('title_px', 96)}px'>{e(s['title'])}</div>
     <div class='meta'>{e(s['meta'])}</div>
   </div>
-  <div>
+  <div class='mid'>
     {s.get('score_html', '')}
     {s.get('strip', '')}
+  </div>
+  <div>
     <div class='hook'>{e(s['hook'])}</div>
     <div class='basis'>{e(s['basis'])}</div>
   </div>
-</div><div class='src srcline'>{e(s.get('src', SRC_V2))}</div>{foot2(post)}</div>"""
+</div><div class='src srcline'>{e(SRC_V2)}</div>{foot2(post)}</div>"""
     extra = (".d2 .body.lead{top:92px;bottom:236px;justify-content:space-between}"
-             ".lead .hook{font:800 50px/1.08 Inter;margin-top:34px}.lead .basis{font:500 25px/1.3 Inter;margin-top:18px}"
-             ".lead .ttl{margin-top:22px}")
-    return doc(body, css() + COVER_CSS % dict(ember=R.EMBER) + extra)
+             ".lead .hook{font:800 54px/1.08 Inter;margin-top:0}.lead .basis{font:500 26px/1.3 Inter;margin-top:16px}"
+             ".lead .ttl{margin-top:22px}.lead .strip{margin-top:30px}")
+    return doc(body, css() + COVER_CSS % dict(ember=R.EMBER) + V2_CSS + extra)
+
+
+def _pt_line(p, n):
+    if len(p['outlets']) == n and n > 3:
+        head = 'every review idly read'
+    else:
+        head = ', '.join(p['outlets'][:3]) + (f" +{len(p['outlets']) - 3}" if len(p['outlets']) > 3 else '')
+    tail = []
+    if p.get('note'):
+        tail.append(p['note'])
+    else:
+        if p.get('mixed'):
+            tail.append(f"{len(p['mixed'])} mixed")
+        if p.get('dissent'):
+            tail.append(f"{', '.join(p['dissent'])} disagree{'s' if len(p['dissent']) == 1 else ''}")
+    return f"{len(p['outlets'])} of {n}: {head}" + (' · ' + ' · '.join(tail) if tail else '')
 
 
 def verdict2_html(post, s):
-    ed, n = s['ed'], s['ed']['read_n']
-    out = ["<div class='sect hi' style='margin-top:22px'>Highs</div>"]
-
-    def line(p):
-        if p['who'] == ['all']:
-            return f"{p['k']} of {n}: every review idly read" + (f" · {p['note']}" if p.get('note') else '')
-        more = f" +{p['k'] - len(p['who'])}" if p['k'] > len(p['who']) else ''
-        return f"{p['k']} of {n}: {', '.join(p['who'])}{more}" + (f" · {p['note']}" if p.get('note') else '')
-    for p in ed['highs']:
-        out.append(f"<div class='pt h'><div class='t'>{e(p['point'])}</div><div class='n'>{e(line(p))}</div></div>")
+    P = s['points']
+    n = P['n_read']
+    highs = sorted(P['highs'], key=lambda p: -len(p['outlets']))
+    lows = sorted(P['lows'], key=lambda p: -len(p['outlets']))
+    out = ["<div class='sect hi'>Highs</div>"]
+    for p in highs:
+        out.append(f"<div class='pt h'><div class='t'>{e(p['point'])}</div><div class='n'>{e(_pt_line(p, n))}</div></div>")
+    if P.get('highs_note'):
+        out.append(f"<div class='note hn'>{e(P['highs_note'])}</div>")
     out.append("<div class='sect lo'>Lows</div>")
-    for p in ed['lows']:
-        out.append(f"<div class='pt l'><div class='t'>{e(p['point'])}</div><div class='n'>{e(line(p))}</div></div>")
-    for sp in ed['splits']:
-        out.append(f"<div class='split'><div class='k'>Where they split · {e(sp['topic'])}</div><div class='w'>{e(sp['line'])}</div>"
-                   f"<div class='n'>{e(sp['n'])}</div></div>")
-    tight = len(ed['splits']) > 1
-    extra = (".pt .t{font-size:35px}.pt{margin-top:11px}.sect{font-size:66px;margin-top:18px}.split{margin-top:18px}"
-             ".split .w{font-size:28px}.split .n{font-size:21px}" if tight else '')
+    for p in lows:
+        out.append(f"<div class='pt l'><div class='t'>{e(p['point'])}</div><div class='n'>{e(_pt_line(p, n))}</div></div>")
+    for sp in P['splits']:
+        parts = [f"{len(sp['pro'])} praise", f"{len(sp['con'])} fault"] + ([f"{len(sp['mixed'])} mixed"] if sp['mixed'] else [])
+        if sp['topic'] == 'The jokes':
+            parts = [f"{len(sp['pro'])} call them great fun", f"{len(sp['con'])} say they wear thin"] + \
+                    ([f"{len(sp['mixed'])} are mixed"] if sp['mixed'] else [])
+        line = ', '.join(parts)
+        who = f"For: {', '.join(sp['pro'])}. Against: {', '.join(sp['con'])}."
+        out.append(f"<div class='split'><div class='k'>Where they split · {e(sp['topic'])}</div><div class='w'>{e(line)}</div>"
+                   f"<div class='n'>{e(who)}</div></div>")
+    weight = len(highs) + len(lows) + 1.6 * len(P['splits']) + (0.5 if P.get('highs_note') else 0)
+    if weight >= 7:          # Ramayana: 5 points and 2 splits
+        extra = (".pt .t{font-size:36px}.pt{margin-top:12px}.sect{font-size:68px;margin-top:20px}.split{margin-top:20px}"
+                 ".split .w{font-size:29px}.sect.hi{margin-top:22px}")
+    elif weight >= 5.5:      # Scene: 5 points and 1 split
+        extra = (".pt .t{font-size:40px}.pt{margin-top:18px}.pt .n{font-size:25px}.sect{font-size:80px;margin-top:30px}"
+                 ".split{margin-top:34px}.split .w{font-size:33px}.split .n{font-size:24px}.sect.hi{margin-top:30px}")
+    else:                    # Mookuthi Amman 2: 4 points, no split
+        extra = (".pt .t{font-size:46px}.pt{margin-top:38px}.pt .n{font-size:27px;margin-top:8px}.sect{font-size:92px;margin-top:66px}"
+                 ".sect.hi{margin-top:52px}.pt:before{top:19px}.hn{font-size:28px;margin-top:26px}")
     body = f"""
 <div class='d2'><div class='body'>
   <div class='kicker'>What critics say <span>· {n} reviews read in full</span></div>
   <div class='sub'>{e(s['title'])} · <b>{e(s['score'])}/10</b></div>
   {''.join(out)}
 </div><div class='src srcline'>{e(SRC_V2_POINTS)}</div>{foot2(post)}</div>"""
-    return doc(body, css() + extra)
+    return doc(body, css2() + extra)
 
 
 def scores2_html(post, s):
     n = len(s['rows'])
     two = n > 12
+    r_ = math.ceil(n / 2) if two else n
+    rowh = min(80, 600 / r_)
+    fs = int(round(min(38, max(27, rowh * 0.5))))
+    pad = max(5, int((rowh - fs * 1.15 - 1.5) / 2))
     rows = []
     for r in s['rows']:
         p = '' if two else f"<span class='p'>{e(r['rating_published'])}</span>"
         rows.append(f"<div class='row'><div class='o'>{e(r['shown'])}</div><div class='v'>{p}<span class='nv'>{fmt(r['rating_10'])}</span></div></div>")
-    half = (n + 1) // 2      # fill the left column first, then the right
-    grid = (f"<div class='grid2' style='grid-auto-flow:column;grid-template-rows:repeat({half},auto)'>{''.join(rows)}</div>"
+    grid = (f"<div class='grid2' style='grid-auto-flow:column;grid-template-rows:repeat({r_},auto)'>{''.join(rows)}</div>"
             if two else f"<div class='rows'>{''.join(rows)}</div>")
     body = f"""
 <div class='d2'><div class='body'>
   <div class='kicker'>Every counted rating <span>· out of 10</span></div>
   <div class='sub'>{e(s['title'])}</div>
   {grid}
+  <div class='bottom' style='margin-top:auto;padding-bottom:16px'>
   <div class='tot'><div class='o'>Consolidated ({n} ratings)</div><div class='nv'>{e(s['score'])}/10</div></div>
   <div class='ws'><div class='who'><div class='k'>Watch it if</div><div class='w'>{e(s['watch'])}</div></div>
     <div class='who'><div class='k'>Skip it if</div><div class='w'>{e(s['skip'])}</div></div></div>
+  </div>
 </div><div class='src srcline'>{e(SRC_V2)}</div>{foot2(post)}</div>"""
-    if two:
-        fs, pad = ('30px', '9px') if n <= 16 else ('27px', '6px')
-    else:
-        fs, pad = ('31px', '7px') if n >= 10 else ('34px', '12px')
-    return doc(body, css(fs, pad))
+    return doc(body, css2(f'{fs}px', f'{pad}px') + ".row .p{font-size:26px}")
 
 
 def rank2_html(post, s):
@@ -872,10 +899,11 @@ def rank2_html(post, s):
     body = f"""
 <div class='d2'><div class='body'>
   <div class='kicker'>Diwali 2026 <span>· consolidated critic scores, out of 10</span></div>
-  <div class='rows' style='margin-top:14px'>{''.join(rows)}</div>
-  <div class='note' style='font-size:24px'>{e(s['note'])}</div>
+  <div class='rows' style='margin-top:18px'>{''.join(rows)}</div>
+  <div class='note' style='font-size:26px;margin-top:26px'>{e(s['note'])}</div>
 </div><div class='src srcline'>{e(SRC_V2)}</div>{foot2(post)}</div>"""
-    return doc(body, css() + ".rk{padding:12px 0}.rk .tt{font-size:36px}.rk .ln{font-size:25px}")
+    return doc(body, css2() + ".rk{padding:21px 0}.rk .tt{font-size:40px}.rk .ln{font-size:27px;margin-top:8px}"
+                              ".rk .sc{font-size:78px}.rk .no{font-size:56px}.rk .bar{margin-top:14px}")
 
 
 def picks2_html(post, s):
@@ -884,9 +912,11 @@ def picks2_html(post, s):
     body = f"""
 <div class='d2'><div class='body'>
   <div class='kicker'>Who should watch what</div>
-  <div class='rows' style='margin-top:12px'>{''.join(rows)}</div>
-</div><div class='src srcline'>{e('Lines paraphrase the critics\' consensus. ' + SRC_V2)}</div>{foot2(post)}</div>"""
-    return doc(body, css())
+  <div class='rows' style='margin-top:16px'>{''.join(rows)}</div>
+  <div class='note' style='font-size:26px;margin-top:26px'>Lines paraphrase the critics' consensus. idly did not watch the films.</div>
+</div><div class='src srcline'>{e(SRC_V2)}</div>{foot2(post)}</div>"""
+    return doc(body, css2() + ".pick{padding:21px 0}.pick .tt{font-size:42px}.pick .tt b{font-size:44px}"
+                              ".pick .w{font-size:32px;margin-top:10px}")
 
 
 BUILDERS.update({'lead': lead_html, 'verdict2': verdict2_html, 'scores2': scores2_html, 'rank2': rank2_html,
@@ -896,36 +926,37 @@ BASIS = ("Mean of {n} ratings from idly's fixed panel of {p} Indian outlets, pub
          "on the outlet's page or in two listings, out of 10. idly did not watch the film.")
 
 
+def headline(f):
+    return f"{EDIT2[f['slug']]['title']} Scores {fmt(f['score'])}/10 With Critics"
+
+
 def film_post_v2(f, panel_n):
     ed = EDIT2[f['slug']]
     rows = [r for r in f['results'] if r['counted']]
-    pts10 = [r['rating_10'] for r in rows]
     lead = dict(type='lead', kicker='The verdict <span>· Diwali 2026</span>', title=ed['title'], meta=ed['meta'],
-                title_px=104 if len(ed['title']) <= 16 else 92,
-                score_html=score_html(f['score'], 190), hook=ed['hook'],
-                strip=strip_html(pts10, f['score'], f"avg {fmt(f['score'])}",
-                                 f"Each dot is one critic's rating, out of 10 ({len(rows)} ratings)."),
+                title_px=104 if len(ed['title']) <= 16 else 92, score_html=score_html(f['score'], 236), hook=ed['hook'],
+                strip=strip2([r['rating_10'] for r in rows], f['score'], f"avg {fmt(f['score'])}",
+                             f"Each dot is one critic's rating, out of 10 ({len(rows)} ratings)."),
                 basis=BASIS.format(n=len(rows), p=panel_n))
-    verdict = dict(type='verdict2', title=ed['title'], score=fmt(f['score']), ed=ed)
+    verdict = dict(type='verdict2', title=ed['title'], score=fmt(f['score']), points=f['points'])
     shown_rows = [dict(r, shown=show_name(r, rows)) for r in sorted(rows, key=lambda r: (-r['rating_10'], r['outlet']))]
     scores = dict(type='scores2', title=ed['title'], score=fmt(f['score']), rows=shown_rows, watch=ed['watch'], skip=ed['skip'])
     return dict(acct=ACCT, slug=f"review_{f['slug']}_v2", date=DATE, slides=[lead, verdict, scores])
 
 
-CAP_NAME = {'scene': "Suriya's Scene"}
-WORDS = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Seven'}
+def roundup_title(ranked):
+    return f'{len(ranked)} Diwali Releases, Ranked by Critics'
 
 
 def roundup_post_v2(ranked, unranked, panel_n):
     total = sum(f['n_counted'] for f in ranked)
     above6 = sum(1 for f in ranked if f['score'] > 6)
-    lead = dict(type='lead', kicker='Diwali 2026 <span>· the verdicts</span>',
-                title=f'{len(ranked)} Diwali Releases, Ranked by Critics', title_px=88,
+    lead = dict(type='lead', kicker='Diwali 2026 <span>· the verdicts</span>', title=roundup_title(ranked), title_px=88,
                 meta=f'Indian films in theatres 30 Oct to 9 Nov · {total} critic ratings',
-                score_html=(f"<div class='score'><span class='big' style='font-size:180px'>{fmt(ranked[0]['score'])}</span>"
-                            f"<span class='of' style='font-size:64px'>to</span><span class='big' style='font-size:180px;margin-left:24px'>"
+                score_html=(f"<div class='score'><span class='big' style='font-size:236px'>{fmt(ranked[0]['score'])}</span>"
+                            f"<span class='of' style='font-size:80px'>to</span><span class='big' style='font-size:236px;margin-left:24px'>"
                             f"{fmt(ranked[-1]['score'])}</span></div>"),
-                strip=strip_html([f['score'] for f in ranked], 6.0, '6/10', "Each dot is one film's critic average, out of 10."),
+                strip=strip2([f['score'] for f in ranked], 6.0, '6/10', "Each dot is one film's critic average, out of 10."),
                 hook=f"{WORDS[above6]} clear 6/10. {WORDS[len(ranked) - above6]} don't.",
                 basis=(f"Each film's mean of ratings from idly's fixed panel of {panel_n} Indian outlets, published on or after "
                        f"release and confirmed on the outlet's page or in two listings. 4 ratings needed. idly did not watch the films."))
@@ -942,15 +973,11 @@ METHOD_LINE = ("Score: the mean of numeric ratings from idly's fixed panel of {p
                "outlet's page or in two independent listings, converted to /10.")
 
 
-def counted_outlets(rows):
-    return oxford([show_name(r, rows) for r in rows])
-
-
 def film_caption_v2(f, panel_n):
     ed = EDIT2[f['slug']]
     rows = sorted([r for r in f['results'] if r['counted']], key=lambda r: (-r['rating_10'], r['outlet']))
     lines = [
-        f"{ed['verdict']}",
+        ed['verdict'],
         '',
         (f"idly's consolidated score: {fmt(f['score'])}/10, the mean of {len(rows)} numeric ratings from idly's fixed panel "
          f"of {panel_n} Indian English-language outlets (newspapers, TV and news sites, established film publications), "
@@ -958,8 +985,9 @@ def film_caption_v2(f, panel_n):
         '',
         ed['q'],
         '',
-        f"Sources: ratings from {counted_outlets(rows)}; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, "
-        f"Sacnilk and BollyMovieReviewz. Highs and lows from the {ed['read_n']} reviews idly read in full.",
+        (f"Sources: ratings from {oxford([show_name(r, rows) for r in rows])}; read on the outlets' pages or in thereviewmonk, "
+         f"Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the {f['points']['n_read']} reviews idly read in full: "
+         f"{oxford([r['outlet'] for r in f['points']['read_in_full']])}."),
         '',
         ed['tags'],
     ]
@@ -971,14 +999,15 @@ def roundup_caption_v2(ranked, unranked, panel_n):
     above6 = sum(1 for f in ranked if f['score'] > 6)
     outlets = sorted({show_name(r, [r]) for f in ranked for r in f['results'] if r['counted']})
     un = ' and '.join(f"{u['short']} ({u['n_counted']})" for u in unranked)
+    gap = f"{a['score'] - b['score']:.1f}"
     lines = [
-        (f"{a['short']} tops idly's Diwali table at {fmt(a['score'])}/10, {a['score'] - b['score']:.1f} ahead of "
-         f"{CAP_NAME.get(b['slug'], b['short'])}; they are the only {WORDS[above6].lower()} of the {WORDS[len(ranked)].lower()} ranked films to clear 6/10. "
+        (f"{a['short']} tops idly's Diwali table at {fmt(a['score'])}/10, {gap} ahead of {CAP_NAME.get(b['slug'], b['short'])}; "
+         f"they are the only {WORDS[above6].lower()} of the {WORDS[len(ranked)].lower()} ranked films to clear 6/10. "
          f"{ranked[-1]['short']} comes last at {fmt(ranked[-1]['score'])}."),
         '',
-        (METHOD_LINE.format(p=panel_n) + f" A film needs 4; {un} fell short, so they are not ranked."),
+        METHOD_LINE.format(p=panel_n) + f" A film needs 4; {un} fell short, so they are not ranked.",
         '',
-        f"{a['short']} leads {b['short']} by {a['score'] - b['score']:.1f}: which of the six are you booking first, and what tipped it?",
+        f"{a['short']} leads {b['short']} by {gap}: which of the six are you booking first, and what tipped it?",
         '',
         (f"Sources: {sum(f['n_counted'] for f in ranked)} ratings from {oxford(outlets)}; read on the outlets' pages or in "
          f"thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz."),
@@ -991,28 +1020,27 @@ def roundup_caption_v2(ranked, unranked, panel_n):
 def cut_words(s, limit=990):
     if len(s) <= limit:
         return s
-    cut = s[:limit].rsplit(' ', 1)[0].rstrip(',;:')
-    return cut + '.'
+    return s[:limit].rsplit(' ', 1)[0].rstrip(',;:') + '.'
 
 
 def film_alt_v2(f):
     ed = EDIT2[f['slug']]
+    P = f['points']
+    n = P['n_read']
     rows = sorted([r for r in f['results'] if r['counted']], key=lambda r: (-r['rating_10'], r['outlet']))
     each = '; '.join(f"{show_name(r, rows)} {fmt(r['rating_10'])}" for r in rows)
-    hl = '; '.join(f"{p['point']} ({p['k']} of {ed['read_n']})" for p in ed['highs'])
-    lo = '; '.join(f"{p['point']} ({p['k']} of {ed['read_n']})" for p in ed['lows'])
-    s = (f"Cover: the official trailer image with the headline \"{ed['headline']}\". Slide 2: {ed['title']}, "
-         f"{fmt(f['score'])} out of 10 from {len(rows)} critic ratings, a strip of dots from {fmt(rows[-1]['rating_10'])} "
-         f"to {fmt(rows[0]['rating_10'])}, and the line \"{ed['hook']}\" Slide 3: highs: {hl}. Lows: {lo}. "
-         f"Slide 4: every counted rating out of 10: {each}.")
+    hl = '; '.join(f"{p['point']} ({len(p['outlets'])} of {n})" for p in sorted(P['highs'], key=lambda p: -len(p['outlets'])))
+    lo = '; '.join(f"{p['point']} ({len(p['outlets'])} of {n})" for p in sorted(P['lows'], key=lambda p: -len(p['outlets'])))
+    s = (f"Slide 2: {ed['title']}, {fmt(f['score'])} out of 10 from {len(rows)} critic ratings, a strip of dots from "
+         f"{fmt(rows[-1]['rating_10'])} to {fmt(rows[0]['rating_10'])}, and the line \"{ed['hook']}\" Slide 3: what the {n} "
+         f"reviews idly read in full say. Highs: {hl}. Lows: {lo}. Slide 4: every counted rating out of 10: {each}.")
     return cut_words(s)
 
 
 def roundup_alt_v2(ranked, unranked):
-    s = (f"Cover: the official trailer image with the headline \"{len(ranked)} Diwali Releases, Ranked by Critics\". "
-         f"Slide 2: scores from {fmt(ranked[0]['score'])} to {fmt(ranked[-1]['score'])} out of 10 and a strip of one dot per film. "
-         f"Slide 3: the ranking: " + '; '.join(f"{i}. {f['short']} {fmt(f['score'])} from {f['n_counted']} ratings"
-                                               for i, f in enumerate(ranked, 1))
+    s = (f"Slide 2: \"{roundup_title(ranked)}\", scores from {fmt(ranked[0]['score'])} to {fmt(ranked[-1]['score'])} out of 10 "
+         f"and a strip of one dot per film. Slide 3: the ranking: "
+         + '; '.join(f"{i}. {f['short']} {fmt(f['score'])} from {f['n_counted']} ratings" for i, f in enumerate(ranked, 1))
          + '; not ranked: ' + ', '.join(u['short'] for u in unranked) + '. Slide 4: who should watch what: '
          + '; '.join(f"{f['short']}: {ROUND2[f['slug']][1].rstrip('.')}" for f in ranked) + '.')
     return cut_words(s)
@@ -1024,8 +1052,8 @@ def write_v2(folder, caption, alt, score):
     sc = dict(score)
     sc['total'] = E.score_total(sc)
     sc = {k: sc[k] for k in ('hook', 'read', 'send', 'keep', 'reply', 'original', 'alone', 'total', 'notes')}
-    # The lane appends "Image: <studio> (official trailer)" as the last line; check the caption as it will run.
-    errs, warns = E.post_problems(caption.rstrip() + '\n\nImage: Studio (official trailer)\n', sc, idly_article=False)
+    # The lane appends "Image: <studio> (official video)" as the last line; check the caption as it will run.
+    errs, warns = E.post_problems(caption.rstrip() + '\n\nImage: X (official video)\n', sc, idly_article=False)
     errs += E.score_problems(sc)
     assert len(alt) < 1000 and '\n' not in alt.strip(), 'alt text must be one line under 1000 chars'
     with open(os.path.join(d, 'caption.txt'), 'w') as fh:
@@ -1037,6 +1065,27 @@ def write_v2(folder, caption, alt, score):
         fh.write('\n')
     print(f"{folder:<30} caption {len(caption):>4} chars  alt {len(alt):>3}  self {sc['total']:>2}/14  errors {errs}  warnings {warns}")
     return not errs
+
+
+def empty_bands(jpg, y0=150, y1=1130, tol=14):
+    """Longest run of rows (y0..y1) that hold nothing but background: a check for dead space on the slide."""
+    with Image.open(jpg) as im:
+        g = im.convert('L')
+        w, _ = g.size
+        best = run = 0
+        start = best_at = y0
+        for y in range(y0, y1):
+            row = g.crop((60, y, w - 60, y + 1))
+            lo, hi = row.getextrema()
+            if hi - lo <= tol:
+                if run == 0:
+                    start = y
+                run += 1
+                if run > best:
+                    best, best_at = run, start
+            else:
+                run = 0
+    return best, best_at
 
 
 def main_v2(argv):
@@ -1061,10 +1110,11 @@ def main_v2(argv):
             if re.fullmatch(r'\d\d\.jpg', old):
                 os.remove(os.path.join(dest, old))
         for i in range(len(p['slides']), 0, -1):       # no 01.jpg: the lane's trailer cover is slide 1
-            src = os.path.join(tmp, p['slug'], f'{i:02d}.jpg')
             out = os.path.join(dest, f'{i + 1:02d}.jpg')
-            shutil.move(src, out)
-            PUB.check_jpeg(__import__('pathlib').Path(out))
+            shutil.move(os.path.join(tmp, p['slug'], f'{i:02d}.jpg'), out)
+            PUB.check_jpeg(pathlib.Path(out))
+            band, at = empty_bands(out)
+            print(f"  {p['slug']}/{i + 1:02d}.jpg  longest empty band {band}px at y={at}")
     shutil.rmtree(tmp, ignore_errors=True)
     shutil.copyfile(RESEARCH_V5, os.path.join(OUT, 'review_roundup_v2', 'research_v5.json'))
     ok &= write_v2('review_roundup_v2', roundup_caption_v2(ranked, unranked, panel_n), roundup_alt_v2(ranked, unranked),
@@ -1072,6 +1122,7 @@ def main_v2(argv):
     for s in EDIT2:
         folder = f'review_{s}_v2'
         ok &= write_v2(folder, film_caption_v2(films[s], panel_n), film_alt_v2(films[s]), SELF_SCORES_V2[folder])
+    print('cover headlines:', {f'review_{s}_v2': headline(films[s]) for s in EDIT2}, roundup_title(ranked))
     return 0 if ok else 1
 
 

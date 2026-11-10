@@ -530,14 +530,11 @@
     {
      "outlet": "Telugu360",
      "critic": "",
-     "rating_published": "4/5",
-     "rating_10": 8.0,
-     "published": "post-release per reviewer",
+     "rating_published": "4/5 (reported by idly's blind reviewer)",
+     "published": "",
      "url": "",
-     "confirmed_by": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
-     "note": "Reviewer: 'Telugu360 4/5 ... qualify'. Not found by this build's searches.",
-     "counted": true,
-     "excluded_reason": ""
+     "counted": false,
+     "excluded_reason": "Dropped: no review page, critic or date could be found or opened from this build (same standard as 123Telugu on Mookuthi Amman 2)."
     },
     {
      "outlet": "The Week",
@@ -856,11 +853,248 @@
     "123Telugu",
     "OnlyKollywood"
    ],
-   "n_counted": 19,
-   "sum_10": 131.0,
-   "mean_exact": 6.8947,
-   "score": 6.9,
-   "ranked": true
+   "n_counted": 18,
+   "sum_10": 123.0,
+   "mean_exact": 6.8333,
+   "score": 6.8,
+   "ranked": true,
+   "points": {
+    "read_in_full": [
+     {
+      "outlet": "Outlook",
+      "critic": "Aishani Biswas",
+      "published": "2026-11-05",
+      "url": "https://www.outlookindia.com/art-entertainment/movie-review/ramayana-rise-of-a-legend-review-nitesh-tiwaris-spectacle-of-gods-and-demons-loses-the-soul-of-the-epic"
+     },
+     {
+      "outlet": "DT Next",
+      "critic": "Dharshini",
+      "published": "2026-11-05",
+      "url": "https://www.dtnext.in/entertainment/cinema/ramayana-movie-review-yash-brings-fire-ranbir-brings-grace-to-ramayana"
+     },
+     {
+      "outlet": "Gulte",
+      "critic": "Satya",
+      "published": "2026-11-05",
+      "url": "https://www.gulte.com/moviereviews/439892/ramayana-part-1-movie-review"
+     },
+     {
+      "outlet": "Great Andhra",
+      "critic": "Venkat Arikatla",
+      "published": "2026-11-05",
+      "url": "https://www.greatandhra.com/movies/reviews/ramayana-part-1-movie-review-yash-steals-the-show-in-this-grand-epic/"
+     },
+     {
+      "outlet": "Scroll",
+      "critic": "Nandini Ramnath",
+      "published": "2026-11-05",
+      "url": "https://scroll.in/reel/1096773/ramayana-part-1-review-a-sleek-and-sumptuous-spectacle"
+     },
+     {
+      "outlet": "The Week",
+      "critic": "Sajin Shrijith",
+      "published": "2026-11-05",
+      "url": "https://www.theweek.in/review/movies/2026/11/05/ramayana-part-1-2026-movie-review.html"
+     },
+     {
+      "outlet": "Telangana Today",
+      "critic": "T Lalith Singh",
+      "published": "2026-11-05",
+      "url": "https://telanganatoday.com/movie-review-namit-malhotras-ramayana-part-1-is-grandeur-without-a-soul"
+     },
+     {
+      "outlet": "The Federal",
+      "critic": "Puja Talwar",
+      "published": "2026-11-05",
+      "url": "https://thefederal.com/film-reviews/bollywood-hindi-film-ramayana-review-rama-sita-ravana-epic-retelling-adaptation-hindu-mythology-hindutva-ranbir-kapoor-sai-pallavi-yash-nitesh-tewari-261905"
+     },
+     {
+      "outlet": "t2",
+      "critic": "Priyanka Roy",
+      "published": "2026-11-05",
+      "url": "https://t2online.in/screen/bollywood/ramayana-part-1--stunning-3d-visual-fx-meet-epic-scale--but-does-it-hit-the-emotional-spot-/2009042"
+     },
+     {
+      "outlet": "THR India",
+      "critic": "Rahul Desai",
+      "published": "2026-11-05",
+      "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/ramayana-movie-review-yash-leads-the-war-between-devotion-and-storytelling"
+     },
+     {
+      "outlet": "The Quint",
+      "critic": "Suchin Mehrotra",
+      "published": "2026-11-05",
+      "url": "https://www.thequint.com/entertainment/movie-reviews/ramanyana-review-ranbir-kapoor-yash-namit-malhotra"
+     },
+     {
+      "outlet": "Pinkvilla",
+      "critic": "Goutham S",
+      "published": "2026-11-05",
+      "url": "https://www.pinkvilla.com/entertainment/reviews/ramayana-movie-review-ranbir-kapoor-and-yashs-battle-of-good-vs-evil-is-most-visually-stunning-ventures-in-indian-cinema-1406283"
+     },
+     {
+      "outlet": "Koimoi",
+      "critic": "Trishha Gaur",
+      "published": "2026-11-05",
+      "url": "https://www.koimoi.com/bollywood-movies/movie-reviews/ramayana-movie-review-ft-ranbir-kapoor-sai-pallavi-yash-we-all-know-ramayana-but-i-bet-you-didnt-know-it-is-poetically-magical-to-hypnotize-your-soul/"
+     }
+    ],
+    "n_read": 13,
+    "not_read_note": "",
+    "stance_notes": {},
+    "highs": [
+     {
+      "point": "Yash's Ravana is the standout",
+      "outlets": [
+       "Outlook",
+       "DT Next",
+       "Gulte",
+       "Great Andhra",
+       "Scroll",
+       "The Week",
+       "Telangana Today",
+       "The Federal",
+       "t2",
+       "THR India",
+       "The Quint",
+       "Pinkvilla",
+       "Koimoi"
+      ],
+      "mixed": [],
+      "dissent": [],
+      "note": "",
+      "k": 13
+     },
+     {
+      "point": "The visuals and sheer scale impress",
+      "outlets": [
+       "Outlook",
+       "DT Next",
+       "Gulte",
+       "Great Andhra",
+       "Scroll",
+       "The Week",
+       "The Federal",
+       "t2",
+       "The Quint",
+       "Pinkvilla",
+       "Koimoi"
+      ],
+      "mixed": [
+       "Telangana Today",
+       "THR India"
+      ],
+      "dissent": [],
+      "note": "",
+      "k": 11
+     }
+    ],
+    "lows": [
+     {
+      "point": "Uneven pacing or choppy editing",
+      "outlets": [
+       "Gulte",
+       "The Quint",
+       "Koimoi",
+       "Outlook",
+       "Great Andhra",
+       "The Federal",
+       "t2",
+       "THR India",
+       "Pinkvilla"
+      ],
+      "mixed": [
+       "Scroll"
+      ],
+      "dissent": [],
+      "note": "",
+      "k": 9
+     },
+     {
+      "point": "The spectacle outweighs the emotion",
+      "outlets": [
+       "Outlook",
+       "THR India",
+       "t2",
+       "Telangana Today",
+       "The Federal",
+       "The Quint"
+      ],
+      "mixed": [
+       "Great Andhra",
+       "Pinkvilla",
+       "Koimoi",
+       "The Week"
+      ],
+      "dissent": [
+       "Gulte"
+      ],
+      "note": "",
+      "k": 6
+     },
+     {
+      "point": "The songs don't land",
+      "outlets": [
+       "DT Next",
+       "Scroll",
+       "Koimoi",
+       "Outlook",
+       "Great Andhra",
+       "The Week"
+      ],
+      "mixed": [],
+      "dissent": [],
+      "note": "",
+      "k": 6
+     }
+    ],
+    "splits": [
+     {
+      "topic": "Ranbir's Rama",
+      "pro": [
+       "DT Next",
+       "Great Andhra",
+       "Koimoi"
+      ],
+      "con": [
+       "Outlook",
+       "Scroll",
+       "Telangana Today",
+       "THR India",
+       "The Quint"
+      ],
+      "mixed": [
+       "Gulte",
+       "t2",
+       "The Federal",
+       "Pinkvilla"
+      ],
+      "other": "The Week does not assess him."
+     },
+     {
+      "topic": "The Zimmer-Rahman score",
+      "pro": [
+       "Gulte",
+       "Pinkvilla",
+       "Koimoi"
+      ],
+      "con": [
+       "Scroll",
+       "The Week",
+       "Telangana Today",
+       "The Federal"
+      ],
+      "mixed": [
+       "DT Next",
+       "Great Andhra",
+       "t2",
+       "THR India",
+       "The Quint"
+      ],
+      "other": "Outlook praises 'the music' without singling out the score."
+     }
+    ]
+   }
   },
   {
    "slug": "scene",
@@ -1170,7 +1404,162 @@
    "sum_10": 95.0,
    "mean_exact": 6.3333,
    "score": 6.3,
-   "ranked": true
+   "ranked": true,
+   "points": {
+    "read_in_full": [
+     {
+      "outlet": "The Week",
+      "critic": "Sajin Shrijith",
+      "published": "2026-11-06",
+      "url": "https://www.theweek.in/review/movies/2026/11/06/suriya-scene-tamil-movie-review.amp.html"
+     },
+     {
+      "outlet": "Deccan Chronicle",
+      "critic": "BVS Prakash",
+      "published": "2026-11-06",
+      "url": "https://www.deccanchronicle.com/amp/entertainment/movie-review/scene-movie-review-suriyas-unconventional-cop-story-fails-to-deliver-2002230"
+     },
+     {
+      "outlet": "The Federal",
+      "critic": "Monashree Sankar",
+      "published": "2026-11-06",
+      "url": "https://thefederal.com/film-reviews/tamil-film-release-review-scene-crime-investigative-thriller-serial-killer-dark-humour-jithu-madhavan-suriya-naslen-262045"
+     },
+     {
+      "outlet": "Gulte",
+      "critic": "Satya",
+      "published": "2026-11-07",
+      "url": "https://www.gulte.com/moviereviews/440229/scene-movie-review"
+     },
+     {
+      "outlet": "THR India",
+      "critic": "Vishal Menon",
+      "published": "2026-11-06",
+      "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/scene-movie-review-the-suriya-we-love-in-a-comedy-packed-with-real-vision"
+     },
+     {
+      "outlet": "Great Andhra",
+      "critic": "Venkat Arikatla",
+      "published": "2026-11-06",
+      "url": "https://www.greatandhra.com/movies/reviews/scene-review-an-interesting-idea-average-narration/"
+     },
+     {
+      "outlet": "Telugu360",
+      "critic": "Sankar",
+      "published": "2026-11-06",
+      "url": "https://www.telugu360.com/scene-movie-review/"
+     }
+    ],
+    "n_read": 7,
+    "not_read_note": "v4 cited Rediff, Koimoi, India Today, Times of India, Times Now, NDTV, Hindustan Times, Cinema Express, Indian Express, Pinkvilla and Filmfare for points, but none of those pages could be opened from this build (Deccan Herald failed at its site), so they are not in the read-in-full set.",
+    "stance_notes": {},
+    "highs": [
+     {
+      "point": "Suriya works, playing against type",
+      "outlets": [
+       "The Week",
+       "The Federal",
+       "Gulte",
+       "THR India",
+       "Telugu360"
+      ],
+      "mixed": [
+       "Great Andhra",
+       "Deccan Chronicle"
+      ],
+      "dissent": [],
+      "note": "2 lukewarm",
+      "k": 5
+     },
+     {
+      "point": "Jithu Madhavan's fresh spin on a cop film",
+      "outlets": [
+       "The Week",
+       "Gulte",
+       "THR India",
+       "The Federal",
+       "Great Andhra",
+       "Telugu360"
+      ],
+      "mixed": [
+       "Deccan Chronicle"
+      ],
+      "dissent": [],
+      "note": "",
+      "k": 6
+     },
+     {
+      "point": "The support cast, led by Naslen, is strong",
+      "outlets": [
+       "Gulte",
+       "THR India",
+       "Great Andhra",
+       "The Week",
+       "The Federal",
+       "Telugu360"
+      ],
+      "mixed": [],
+      "dissent": [
+       "Deccan Chronicle"
+      ],
+      "note": "",
+      "k": 6
+     }
+    ],
+    "lows": [
+     {
+      "point": "The pacing sags in stretches",
+      "outlets": [
+       "Deccan Chronicle",
+       "The Federal",
+       "Great Andhra",
+       "Telugu360"
+      ],
+      "mixed": [
+       "Gulte",
+       "THR India"
+      ],
+      "dissent": [],
+      "note": "",
+      "k": 4
+     },
+     {
+      "point": "The investigation is thin or hard to follow",
+      "outlets": [
+       "The Week",
+       "Deccan Chronicle",
+       "Great Andhra",
+       "Telugu360"
+      ],
+      "mixed": [],
+      "dissent": [
+       "Gulte",
+       "THR India"
+      ],
+      "note": "",
+      "k": 4
+     }
+    ],
+    "splits": [
+     {
+      "topic": "The jokes",
+      "pro": [
+       "The Federal",
+       "THR India"
+      ],
+      "con": [
+       "The Week",
+       "Deccan Chronicle"
+      ],
+      "mixed": [
+       "Gulte",
+       "Great Andhra",
+       "Telugu360"
+      ],
+      "other": ""
+     }
+    ]
+   }
   },
   {
    "slug": "mookuthi-amman-2",
@@ -1249,14 +1638,11 @@
     {
      "outlet": "123Telugu",
      "critic": "",
-     "rating_published": "2/5",
-     "rating_10": 4.0,
-     "published": "post-release (Telugu version)",
+     "rating_published": "2/5 (reported by idly's blind reviewer)",
+     "published": "",
      "url": "",
-     "confirmed_by": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
-     "note": "Reviewer: '123Telugu's 2/5'.",
-     "counted": true,
-     "excluded_reason": ""
+     "counted": false,
+     "excluded_reason": "Dropped: no review page, critic or date could be found or opened from this build."
     },
     {
      "outlet": "The New Indian Express / Cinema Express",
@@ -1382,11 +1768,96 @@
     "Great Andhra",
     "Telugu360"
    ],
-   "n_counted": 11,
-   "sum_10": 40.0,
-   "mean_exact": 3.6364,
+   "n_counted": 10,
+   "sum_10": 36.0,
+   "mean_exact": 3.6,
    "score": 3.6,
-   "ranked": true
+   "ranked": true,
+   "points": {
+    "read_in_full": [
+     {
+      "outlet": "Gulte",
+      "critic": "Satya",
+      "published": "2026-11-08",
+      "url": "https://www.gulte.com/moviereviews/440480/mookuthi-amman-2-maha-sakthi-review"
+     },
+     {
+      "outlet": "DT Next",
+      "critic": "Manivasagan Namasivayam",
+      "published": "2026-11-06",
+      "url": "https://www.dtnext.in/entertainment/cinema/mookuthi-amman-2-review-amman-saves-herself-in-this-vfx-heavy-devotional-entertainer"
+     },
+     {
+      "outlet": "THR India",
+      "critic": "Sruthi Ganapathy Raman",
+      "published": "2026-11-06",
+      "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/mookuthi-amman-2-movie-review-nayanthara-leads-this-campy-but-generic-amman-film"
+     }
+    ],
+    "n_read": 3,
+    "not_read_note": "v4 cited Filmfare, NDTV, Indian Express, Times of India, Cinema Express, The Hindu and India Today for points, but none of those pages could be opened from this build, so they are not in the read-in-full set.",
+    "stance_notes": {
+     "DT Next": "VFX: faults the reliance on CGI and AI-generated imagery ('does not fully compensate'); praises 'Sundar C's brisk screenplay'; 'lacks the comedy'.",
+     "THR India": "VFX: 'so sloppy that it ... evokes the kind of AI animal imagery', 'dowdy VFX'; 'ill-timed comedy tracks'; 'the writing lets her down considerably'.",
+     "Gulte": "VFX: 'A majority of the visuals throughout the film were laughable', 'AI-prompted visuals'; 'not even a single sequence that made the audience laugh'; narration 'TERRIBLE'."
+    },
+    "highs": [
+     {
+      "point": "Nayanthara holds the screen",
+      "outlets": [
+       "DT Next",
+       "THR India"
+      ],
+      "mixed": [
+       "Gulte"
+      ],
+      "dissent": [],
+      "note": "Gulte is lukewarm",
+      "k": 2
+     }
+    ],
+    "highs_note": "No other strength is named by more than one of the 3.",
+    "lows": [
+     {
+      "point": "The VFX disappoint, some look AI-made",
+      "outlets": [
+       "Gulte",
+       "THR India",
+       "DT Next"
+      ],
+      "mixed": [],
+      "dissent": [],
+      "note": "",
+      "k": 3
+     },
+     {
+      "point": "The comedy misfires",
+      "outlets": [
+       "Gulte",
+       "DT Next",
+       "THR India"
+      ],
+      "mixed": [],
+      "dissent": [],
+      "note": "",
+      "k": 3
+     },
+     {
+      "point": "A weak screenplay",
+      "outlets": [
+       "Gulte",
+       "THR India"
+      ],
+      "mixed": [],
+      "dissent": [
+       "DT Next"
+      ],
+      "note": "DT Next calls it brisk",
+      "k": 2
+     }
+    ],
+    "splits": []
+   }
   },
   {
    "slug": "pyre",
@@ -2126,8 +2597,8 @@
    "rank": 1,
    "slug": "ramayana-part-1",
    "short": "Ramayana: Part 1",
-   "score": 6.9,
-   "n": 19
+   "score": 6.8,
+   "n": 18
   },
   {
    "rank": 2,
@@ -2162,7 +2633,7 @@
    "slug": "mookuthi-amman-2",
    "short": "Mookuthi Amman 2",
    "score": 3.6,
-   "n": 11
+   "n": 10
   }
  ],
  "not_ranked": [
@@ -2177,5 +2648,5 @@
    "reason": "0 confirmed panel rating(s); 4 needed"
   }
  ],
- "total_counted": 60
+ "total_counted": 58
 }
