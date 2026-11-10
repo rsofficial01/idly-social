@@ -1,0 +1,1940 @@
+{
+ "version": 4,
+ "prepared": "2026-11-10",
+ "window": "Indian theatrical releases, 30 Oct to 9 Nov 2026",
+ "method": "A rating counts only if seen this session: on the outlet's own page (WebFetch) or in a critics list naming outlet and critic (thereviewmonk.com, Rotten Tomatoes), also opened with WebFetch. Extended-mode WebSearch returned titles and URLs only, no page text, so no rating comes from a search result alone. Established publications only. Ratings published before the film's release date are left out. Where the same review appears under two outlets (Cinema Express and The New Indian Express share critics), it is counted once. Ratings converted to /10 (x/5 x 2; thereviewmonk lists /10); score = mean, rounded half-up to one decimal. Unrated reviews count towards highs and lows only. A point needs 2+ outlets whose text says so. Paraphrases are idly's. idly did not watch the films.",
+ "films": [
+  {
+   "slug": "ramayana-part-1",
+   "title": "Ramayana: Part 1",
+   "short": "Ramayana: Part 1",
+   "language": "Hindi",
+   "release": "2026-11-05",
+   "release_note": "Released 5 Nov per Republic World and Filmibeat release lists (moved up from 6 Nov).",
+   "rated": [
+    {
+     "outlet": "Times of India",
+     "critic": "Renuka Vyavahare",
+     "rating_published": "9/10",
+     "rating": 9,
+     "scale": 10,
+     "rating_10": 9.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/ramayana-rise-of-a-legend/movie-review/135561385.cms",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "DNA India",
+     "critic": "Simran Singh",
+     "rating_published": "9/10",
+     "rating": 9,
+     "scale": 10,
+     "rating_10": 9.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.dnaindia.com/bollywood/report-ramayana-movie-review-ranbir-kapoor-yash-nitesh-tiwari-namit-malhotra-sai-pallavi-bring-most-impactful-detailed-visually-rich-take-on-indian-epic-since-ramanand-sagar-s-ramayan-3223558",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Koimoi",
+     "critic": "Trishha Gaur",
+     "rating_published": "9/10",
+     "rating": 9,
+     "scale": 10,
+     "rating_10": 9.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.koimoi.com/bollywood-movies/movie-reviews/ramayana-movie-review-ft-ranbir-kapoor-sai-pallavi-yash-we-all-know-ramayana-but-i-bet-you-didnt-know-it-is-poetically-magical-to-hypnotize-your-soul/",
+     "published": "not shown",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "DT Next",
+     "critic": "Dharshini",
+     "rating_published": "4/5",
+     "rating": 4,
+     "scale": 5,
+     "rating_10": 8.0,
+     "method": "outlet_page",
+     "url": "https://www.dtnext.in/entertainment/cinema/ramayana-movie-review-yash-brings-fire-ranbir-brings-grace-to-ramayana",
+     "published": "2026-11-05"
+    },
+    {
+     "outlet": "ABP Live",
+     "critic": "Rahul Yadav",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.abplive.com/movie-review/entertainment/movie-review-ramayana-movie-review-and-rating-ranbir-kapoor-sai-pallavi-yash-ravie-dubey-amazing-performance-3211216",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Devesh Sharma",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.filmfare.com/reviews/bollywood-movies/ramayana-movie-review-a-spectacle-with-soul-86987.html",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.hindustantimes.com/entertainment/bollywood/ramayana-part-1-review-yash-ranbir-kapoor-sai-pallavis-spectacular-film-breathes-new-life-into-an-epic-we-know-by-heart-101793853147143.html",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "India TV",
+     "critic": "Jaya Dwivedie",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.indiatvnews.com/entertainment/movie-review/ramayana-movie-review-rating-ranbir-kapoor-yash-sai-pallavi-ravie-dubey-namit-malhotra-nitesh-tiwari-1406",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Pinkvilla",
+     "critic": "Goutham S",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.pinkvilla.com/entertainment/reviews/ramayana-movie-review-ranbir-kapoor-and-yashs-battle-of-good-vs-evil-is-most-visually-stunning-ventures-in-indian-cinema-1406283",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The National",
+     "critic": "Ankit Ojha",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/05/ramayana-review-500-million-film-budget-price-cast/",
+     "published": "2026-11-05",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Tribune India",
+     "critic": "Nonika Singh",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.tribuneindia.com/news/movie-review/ramayana-part-i-a-fairly-satisfying-experience/",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Indian Express",
+     "critic": "Shubhra Gupta",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/ramayana-part-1-movie-review-ranbir-kapoor-namit-malhotra-perfect-epic-for-kalyuga-10951499/",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Saibal Chatterjee",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.ndtv.com/entertainment/ramayana-review-spectacle-overshadows-substance-in-ranbir-kapoor-and-yash-film-3-stars-12285603",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Firstpost",
+     "critic": "Zinia Bandyopadhyay",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.firstpost.com/lifestyle/ramayana-part-1-review-stunning-vfx-a-commanding-yash-but-an-inconsistent-retelling-14058012.html",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "New Indian Express",
+     "critic": "BH Harsh",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.newindianexpress.com/entertainment/review/2026/Nov/06/hindireview2026nov05ramayana-part-1-movie-review-ranbir-kapoor-starrer-has-many-things-working-for-it-except-ranbir-himself",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "News18",
+     "critic": "Chirag Sehgal",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.news18.com/movies/bollywood/ramayana-movie-review-rating-part-1-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-ws-t-10413376.html",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Quint",
+     "critic": "Suchin Mehrotra",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.thequint.com/entertainment/movie-reviews/ramanyana-review-ranbir-kapoor-yash-namit-malhotra",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "outlet_page",
+     "url": "https://www.gulte.com/moviereviews/439892/ramayana-part-1-movie-review",
+     "published": "2026-11-05"
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "outlet_page",
+     "url": "https://www.greatandhra.com/movies/reviews/ramayana-part-1-movie-review-yash-steals-the-show-in-this-grand-epic/",
+     "published": "2026-11-05"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "5/10",
+     "rating": 5,
+     "scale": 10,
+     "rating_10": 5.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.rediff.com/movies/review/ramayana-part-1-review-yash-steals-ranbirs-thunder/20261105.htm",
+     "published": "2026-11-05",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Outlook",
+     "critic": "Aishani Biswas",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "outlet_page",
+     "url": "https://www.outlookindia.com/art-entertainment/movie-review/ramayana-rise-of-a-legend-review-nitesh-tiwaris-spectacle-of-gods-and-demons-loses-the-soul-of-the-epic",
+     "published": "2026-11-05"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "Mint",
+     "critic": "Uday Bhatia",
+     "url": "https://www.livemint.com/mint-lounge/art-and-culture/ramayana-part-1-film-review-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-epic-11793865066464.html",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sukanya Verma",
+     "url": "https://www.rediff.com/movies/review/ramayana-part-1-review-all-scale-no-soul/20261105.htm",
+     "published": "2026-11-05",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Telegraph (t2)",
+     "critic": "Priyanka Roy",
+     "url": "https://t2online.in/screen/bollywood/review--ramayana-part-1--stunning-3d-visual-fx-meet-epic-scale--but-does-it-hit-the-emotional-spot-/2009042",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Anuj Kumar",
+     "url": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-movie-review-ranbir-kapoor-and-yash-excel-as-ravana-outshines-rama-on-screen/article71669057.ece",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Vivek M.V.",
+     "url": "https://www.thehindu.com/entertainment/movies/ramayana-review-yash-ravana-ranbir-kapoor-sai-pallavi-a-r-rahman-nitesh-tiwari-namit-malhotra/article71669501.ece",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "WION",
+     "critic": "Shomini Sen",
+     "url": "https://www.wionews.com/entertainment/bollywood/ramayana-part-1-review-yash-s-powerhouse-performance-and-jaw-dropping-vfx-fuel-nitesh-tiwari-s-epic-1793856323050",
+     "published": "not shown",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Rahul Desai",
+     "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/ramayana-movie-review-yash-leads-the-war-between-devotion-and-storytelling",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    },
+    {
+     "outlet": "The Wire",
+     "critic": "Tatsam Mukherjee",
+     "url": "https://thewire.in/film/ramayana-part-1-is-a-stuffy-derivative-soap-opera-aimed-at-a-gullible-nation",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/ramayana/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "Bollywood Hungama",
+     "critic": "Taran Adarsh",
+     "rating": "10/10 (as listed)",
+     "reason": "Published Oct 2026 (31 Oct), before the 5 Nov release."
+    },
+    {
+     "outlet": "Screen Rant",
+     "critic": "Brandon Zachary",
+     "rating": "7/10 (as listed)",
+     "reason": "Published Oct 2026, before release."
+    },
+    {
+     "outlet": "IGN",
+     "critic": "Siddhant Adlakha",
+     "rating": "4/10 (as listed)",
+     "reason": "Published Oct 2026, before release."
+    },
+    {
+     "outlet": "NextBestPicture",
+     "critic": "Giovanni Lago",
+     "rating": "5/10 (as listed)",
+     "reason": "Published Oct 2026, before release; not an established publication."
+    },
+    {
+     "outlet": "thefilmworld",
+     "critic": "Rohit Khilnani",
+     "rating": "8/10 (as listed)",
+     "reason": "Not an established publication."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Yash's Ravana is the standout",
+     "outlets": [
+      "DT Next",
+      "Gulte",
+      "Great Andhra",
+      "Outlook",
+      "Firstpost",
+      "News18",
+      "Rediff",
+      "Koimoi",
+      "The Hindu",
+      "WION"
+     ]
+    },
+    {
+     "point": "The visuals and sheer scale impress",
+     "outlets": [
+      "NDTV",
+      "New Indian Express",
+      "The Quint",
+      "Firstpost",
+      "News18",
+      "Gulte",
+      "Great Andhra",
+      "DT Next",
+      "Outlook",
+      "Hindustan Times",
+      "Mint",
+      "The Telegraph (t2)",
+      "WION",
+      "The National"
+     ],
+     "dissent": [
+      "The Wire"
+     ]
+    },
+    {
+     "point": "The Zimmer-Rahman background score works",
+     "outlets": [
+      "Koimoi",
+      "The National",
+      "Gulte",
+      "DT Next"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "Spectacle outweighs emotion and character",
+     "outlets": [
+      "NDTV",
+      "New Indian Express",
+      "The Quint",
+      "Mint",
+      "Rediff",
+      "Firstpost",
+      "Outlook",
+      "The Hindu",
+      "The Telegraph (t2)"
+     ]
+    },
+    {
+     "point": "Uneven pacing and choppy editing",
+     "outlets": [
+      "Gulte",
+      "Great Andhra",
+      "News18",
+      "Koimoi"
+     ]
+    },
+    {
+     "point": "The songs don't stand out",
+     "outlets": [
+      "Great Andhra",
+      "DT Next"
+     ]
+    }
+   ],
+   "split": {
+    "topic": "Ranbir's Rama",
+    "pro": [
+     "Great Andhra",
+     "DT Next",
+     "Gulte",
+     "Koimoi"
+    ],
+    "con": [
+     "Outlook",
+     "Rediff"
+    ],
+    "line": "Split on Ranbir's Rama: 4 praise it; 2 say it doesn't land."
+   },
+   "quote": {
+    "text": "all scale, no soul",
+    "outlet": "Rediff",
+    "critic": "Sukanya Verma",
+    "seen": "thereviewmonk summary and review URL"
+   },
+   "who": "In theatres. Go for the spectacle and Yash's Ravana; critics say expect more awe than emotion.",
+   "short_who": "Big-screen spectacle; expect more awe than emotion.",
+   "hook": "Critics agree on Ravana. Rama splits them.",
+   "round_line": "Hindi · Yash's Ravana, epic scale",
+   "n_rated": 21,
+   "n_unrated": 8,
+   "mean_exact": 7.0952,
+   "score": 7.1
+  },
+  {
+   "slug": "scene",
+   "title": "Scene",
+   "short": "Scene",
+   "language": "Tamil",
+   "release": "2026-11-06",
+   "release_note": "Released 6 Nov (Republic World, Filmibeat, thereviewmonk).",
+   "rated": [
+    {
+     "outlet": "Times of India",
+     "critic": "M Suganth",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/scene/movie-review/135594643.cms",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Cinema Express",
+     "critic": "Avinash Ramachandran",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.cinemaexpress.com/tamil/review/2026/Nov/06/scene-movie-review-suriya-jithus-quirky-experiment-subverts-superstardom-to-fantastic-effect",
+     "published": "2026-11-06",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Koimoi",
+     "critic": "Athulya Nambiar",
+     "rating_published": "8/10",
+     "rating": 8,
+     "scale": 10,
+     "rating_10": 8.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.koimoi.com/reviews/tamil-movie-reviews/scene-movie-review-suriya-naslen-nazriya-starrer-is-a-madcap-crime-drama-that-knows-exactly-how-to-entertain/",
+     "published": "not shown",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "3.5/5",
+     "rating": 3.5,
+     "scale": 5,
+     "rating_10": 7.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.rottentomatoes.com/m/scene",
+     "published": "Nov 2026",
+     "source_url": "https://www.rottentomatoes.com/m/scene"
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Janani K",
+     "rating_published": "3.5/5",
+     "rating": 3.5,
+     "scale": 5,
+     "rating_10": 7.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.indiatoday.in/movies/reviews/story/scene-movie-review-suriya-jithu-madhavan-nazriya-naslen-serial-killer-thriller-3033500-2026-11-06",
+     "published": "2026-11-06",
+     "source_url": "https://www.rottentomatoes.com/m/scene",
+     "note": "thereviewmonk lists the same review at 7.0"
+    },
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Neeshita Nyayapati",
+     "rating_published": "3.5/5",
+     "rating": 3.5,
+     "scale": 5,
+     "rating_10": 7.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/scene-movie-review-jithu-madhavan-follow-up-aavesham-unserious-hero-esque-film-suriya-nazriya-nazim-naslen-101793953191346.html",
+     "published": "2026-11-06",
+     "source_url": "https://www.rottentomatoes.com/m/scene",
+     "note": "thereviewmonk lists the same review at 7.0"
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Rohit Panikker",
+     "rating_published": "7/10",
+     "rating": 7,
+     "scale": 10,
+     "rating_10": 7.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.filmfare.com/reviews/south-movies/scene-review-suriyas-unconventional-cop-makes-this-crime-comedy-tick-87027.html",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "7/10",
+     "rating": 7,
+     "scale": 10,
+     "rating_10": 7.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/scene-movie-review-suriya-wild-funny-dark-roller-coaster-10953104/",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Pinkvilla",
+     "critic": "Goutham S",
+     "rating_published": "7/10",
+     "rating": 7,
+     "scale": 10,
+     "rating_10": 7.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.pinkvilla.com/entertainment/south/scene-movie-review-suriyas-charm-and-swag-turn-this-dark-comedy-into-a-fun-entertainer-breaking-his-flawless-image-1406300",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Times Now",
+     "critic": "Raisa Nasreen",
+     "rating_published": "7/10",
+     "rating": 7,
+     "scale": 10,
+     "rating_10": 7.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.timesnownews.com/entertainment-news/reviews/scene-tamil-movie-review-suriyas-action-comedy-crime-thriller-film-story-cast-performances-and-rating-review-156469209",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.rediff.com/movies/review/suriyas-scene-review-jithu-madhavan-delivers-engaging-investigative-thriller/20261106.htm",
+     "published": "2026-11-06",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "The Week",
+     "critic": "Sajin Shrijith",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "outlet_page",
+     "url": "https://www.theweek.in/review/movies/2026/11/06/suriya-scene-tamil-movie-review.html",
+     "published": "2026-11-06"
+    },
+    {
+     "outlet": "Deccan Chronicle",
+     "critic": "BVS Prakash",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "outlet_page",
+     "url": "https://www.deccanchronicle.com/entertainment/movie-review/scene-movie-review-suriyas-unconventional-cop-story-fails-to-deliver-2002230",
+     "published": "2026-11-06"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "The Hindu",
+     "critic": "Bhuvanesh Chandar",
+     "url": "https://www.thehindu.com/entertainment/movies/scene-movie-review-suriya-jithu-madhavan-naslen-nazriya-nazim-sushin-shyam/article71673522.ece",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Vishal Menon",
+     "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/scene-movie-review-the-suriya-we-love-in-a-comedy-packed-with-real-vision",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/scene/"
+    },
+    {
+     "outlet": "The Federal",
+     "critic": "Monashree Sankar",
+     "url": "https://thefederal.com/film-reviews/tamil-film-release-review-scene-crime-investigative-thriller-serial-killer-dark-humour-jithu-madhavan-suriya-naslen-262045",
+     "published": "2026-11-06",
+     "method": "outlet_page"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "Deccan Herald",
+     "critic": "",
+     "rating": "2.5/5 (reported in the brief)",
+     "reason": "WebFetch failed at the site and no search result showed the rating, so it was not seen this session."
+    },
+    {
+     "outlet": "OnlyKollywood / Nettv4u / Tusshar Sasi",
+     "critic": "",
+     "rating": "7.6 / 7.0 / 6.0 (as listed)",
+     "reason": "Not established publications."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Suriya, playing against type, is having fun",
+     "outlets": [
+      "Cinema Express",
+      "Koimoi",
+      "India Today",
+      "Indian Express",
+      "Pinkvilla",
+      "Hindustan Times",
+      "Deccan Chronicle",
+      "The Federal"
+     ]
+    },
+    {
+     "point": "Jithu Madhavan's fresh spin on a cop thriller",
+     "outlets": [
+      "Cinema Express",
+      "Times of India",
+      "Times Now",
+      "The Week",
+      "India Today"
+     ]
+    },
+    {
+     "point": "Naslen and Nazriya are strong support",
+     "outlets": [
+      "Cinema Express",
+      "The Week",
+      "The Federal",
+      "Filmfare"
+     ],
+     "dissent": [
+      "Deccan Chronicle"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "The pacing sags in stretches",
+     "outlets": [
+      "Filmfare",
+      "Deccan Chronicle",
+      "The Federal"
+     ]
+    },
+    {
+     "point": "The humour wears thin",
+     "outlets": [
+      "The Week",
+      "Deccan Chronicle"
+     ]
+    },
+    {
+     "point": "The investigation is short on tension",
+     "outlets": [
+      "The Week",
+      "Deccan Chronicle"
+     ]
+    }
+   ],
+   "split": {
+    "topic": "the jokes",
+    "pro": [
+     "Times of India",
+     "Hindustan Times",
+     "NDTV",
+     "Rediff",
+     "India Today"
+    ],
+    "con": [
+     "The Week",
+     "Deccan Chronicle"
+    ],
+    "line": "Split on the jokes: 5 call it great fun; 2 say the humour wears thin."
+   },
+   "quote": {
+    "text": "Suriya truly has fun poking fun at himself",
+    "outlet": "Hindustan Times",
+    "critic": "Neeshita Nyayapati",
+    "seen": "Rotten Tomatoes critics list"
+   },
+   "who": "In theatres. For fans of dark comedy and of Suriya sending up his own image.",
+   "short_who": "Dark-comedy fans; Suriya sends up his own image.",
+   "hook": "They love Suriya here. The jokes split them.",
+   "round_line": "Tamil · Suriya against type",
+   "n_rated": 13,
+   "n_unrated": 3,
+   "mean_exact": 6.8462,
+   "score": 6.8
+  },
+  {
+   "slug": "pyre",
+   "title": "Pyre",
+   "short": "Pyre",
+   "language": "Hindi",
+   "release": "2026-10-30",
+   "release_note": "Released in cinemas 30 Oct (thereviewmonk 'In cinemas now'; Film Information discusses its box-office prospects).",
+   "rated": [
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "3.5/5",
+     "rating": 3.5,
+     "scale": 5,
+     "rating_10": 7.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.hindustantimes.com/entertainment/bollywood/pyre-review-vinod-kapri-old-world-tale-of-love-and-loneliness-is-heartbreaking-padam-singh-hira-devi-101793349518157.html",
+     "published": "2026-10-30",
+     "source_url": "https://www.rottentomatoes.com/m/pyre",
+     "note": "thereviewmonk lists this review at 6.0; Rotten Tomatoes shows the original 3.5/5, used here."
+    },
+    {
+     "outlet": "Indian Express",
+     "critic": "Shubhra Gupta",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/pyre-movie-review-an-affecting-tale-of-love-loneliness-and-resilience-10943143/",
+     "published": "Oct 2026 (day unconfirmed)",
+     "source_url": "https://www.rottentomatoes.com/m/pyre",
+     "note": "thereviewmonk lists the same review at 6.0. Exact date unconfirmed: its article number sits beside IE's other 30 Oct reviews (Aadarsha Kutumbam, Sense and Sensibility), but Rotten Tomatoes shows it a day older than HT's 30 Oct review (possibly a US-timezone effect). If it ran on 29 Oct, Pyre drops to 3 ratings and out of the set."
+    },
+    {
+     "outlet": "Outlook",
+     "critic": "Aishani Biswas",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "outlet_page",
+     "url": "https://www.outlookindia.com/art-entertainment/movie-review/pyre-movie-review-vinod-kapris-portrait-of-ageing-and-abandonment-is-painfully-real",
+     "published": "2026-10-30"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Deepa Gahlot",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.rediff.com/movies/review/pyre-review-hauntingly-melancholic/20261030.htm",
+     "published": "2026-10-30",
+     "source_url": "https://thereviewmonk.com/movie/pyre/"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "Scroll",
+     "critic": "Nandini Ramnath",
+     "url": "https://scroll.in/reel/1096523/pyre-review-a-moving-tale-of-loneliness-and-endurance",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/pyre/"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Anuj Kumar",
+     "url": "https://www.thehindu.com/entertainment/movies/pyre-movie-review-an-ode-to-the-resilience-of-love/article71643904.ece",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/pyre/"
+    },
+    {
+     "outlet": "The Federal",
+     "critic": "Zico Ghosh",
+     "url": "https://thefederal.com/film-reviews/pyre-movie-review-poignant-portrait-ageing-isolation-hills-261274",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/pyre/"
+    },
+    {
+     "outlet": "Film Information",
+     "critic": "Staff review",
+     "url": "https://filminformation.com/reviews/pyre-review-30-october-2026/",
+     "published": "2026-10-30",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/pyre/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "India Today",
+     "critic": "Sana Farzeen",
+     "rating": "3.5/5",
+     "reason": "URL dated 29 Oct 2026, before the 30 Oct release."
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Dhaval Roy",
+     "rating": "8.0 (as listed)",
+     "reason": "Undated on thereviewmonk and the TOI page could not be opened; its article number sits well below TOI's 30 Oct reviews, so it most likely ran before release. Left out."
+    },
+    {
+     "outlet": "Cinema Express (unrated)",
+     "critic": "Kartik Bhardwaj",
+     "rating": "not rated",
+     "reason": "URL dated 29 Oct 2026, before release; not used for highs or lows."
+    },
+    {
+     "outlet": "MovieTalkies",
+     "critic": "Sameer Ahire",
+     "rating": "5.0 (as listed)",
+     "reason": "Not an established publication."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Natural performances from its non-professional leads",
+     "outlets": [
+      "Indian Express",
+      "Outlook",
+      "Scroll",
+      "The Hindu"
+     ]
+    },
+    {
+     "point": "A moving portrait of ageing and loneliness",
+     "outlets": [
+      "Indian Express",
+      "Hindustan Times",
+      "Outlook",
+      "Scroll",
+      "The Federal"
+     ]
+    },
+    {
+     "point": "A vivid sense of Uttarakhand's emptying villages",
+     "outlets": [
+      "The Hindu",
+      "Outlook"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "The slow middle stretch",
+     "outlets": [
+      "Outlook",
+      "Rediff"
+     ]
+    },
+    {
+     "point": "Unrelentingly heavy and downbeat",
+     "outlets": [
+      "Rediff",
+      "Outlook",
+      "Scroll"
+     ]
+    },
+    {
+     "point": "Made more for festivals than the multiplex",
+     "outlets": [
+      "The Hindu",
+      "Film Information"
+     ]
+    }
+   ],
+   "split": null,
+   "quote": {
+    "text": "a film that stays with you",
+    "outlet": "Hindustan Times",
+    "critic": "Rishabh Suri",
+    "seen": "Rotten Tomatoes critics list"
+   },
+   "who": "In theatres. For viewers who want a quiet, sad drama about growing old.",
+   "short_who": "A quiet, sad drama about growing old.",
+   "hook": "Critics call it moving. Several add a warning.",
+   "round_line": "Hindi · moving, slow, sombre",
+   "n_rated": 4,
+   "n_unrated": 4,
+   "mean_exact": 6.25,
+   "score": 6.3
+  },
+  {
+   "slug": "summer-holidays",
+   "title": "Summer Holidays",
+   "short": "Summer Holidays",
+   "language": "Telugu",
+   "release": "2026-11-06",
+   "release_note": "Released 6 Nov (Gulte lists 06-11-2026; 123telugu; Filmibeat release list).",
+   "rated": [
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "outlet_page",
+     "url": "https://www.123telugu.com/reviews/summer-holidays-telugu-movie-review-and-rating.html",
+     "published": "2026-11-06"
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "outlet_page",
+     "url": "https://www.gulte.com/moviereviews/440064/summer-holidays-movie-review",
+     "published": "2026-11-06"
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Sankar",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "outlet_page",
+     "url": "https://www.telugu360.com/summer-holidays-movie-review/",
+     "published": "2026-11-06"
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "outlet_page",
+     "url": "https://www.greatandhra.com/movies/reviews/summer-holidays-review-pleasant-moments-but-little-drama/",
+     "published": "2026-11-06"
+    }
+   ],
+   "unrated": [],
+   "excluded": [
+    {
+     "outlet": "Filmy Focus / M9News / telugucinema.com / others",
+     "critic": "",
+     "rating": "not checked",
+     "reason": "Not established publications."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Warm 1990s childhood nostalgia",
+     "outlets": [
+      "Gulte",
+      "123Telugu"
+     ]
+    },
+    {
+     "point": "The two young leads",
+     "outlets": [
+      "Gulte",
+      "123Telugu",
+      "Great Andhra",
+      "Telugu360"
+     ]
+    },
+    {
+     "point": "Pretty village visuals and pleasant music",
+     "outlets": [
+      "Gulte",
+      "123Telugu",
+      "Telugu360",
+      "Great Andhra"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "The father's sudden change doesn't convince",
+     "outlets": [
+      "Telugu360",
+      "Gulte",
+      "123Telugu",
+      "Great Andhra"
+     ]
+    },
+    {
+     "point": "A familiar, predictable story",
+     "outlets": [
+      "Gulte",
+      "123Telugu",
+      "Great Andhra"
+     ]
+    },
+    {
+     "point": "The emotional beats need more weight",
+     "outlets": [
+      "Telugu360",
+      "Great Andhra",
+      "123Telugu",
+      "Gulte"
+     ]
+    }
+   ],
+   "split": {
+    "topic": "the second half",
+    "pro": [
+     "Telugu360",
+     "Great Andhra"
+    ],
+    "con": [
+     "Gulte"
+    ],
+    "line": "Split on the second half: 2 call it the best part; 1 finds it less engaging."
+   },
+   "quote": {
+    "text": "Pleasant moments, but little drama",
+    "outlet": "Great Andhra",
+    "critic": "Venkat Arikatla",
+    "seen": "headline in the search result and page"
+   },
+   "who": "In theatres. A gentle, simple film for families with children.",
+   "short_who": "Families with children; gentle and simple.",
+   "hook": "All four critics flag the same scene.",
+   "round_line": "Telugu · gentle, predictable",
+   "n_rated": 4,
+   "n_unrated": 0,
+   "mean_exact": 5.25,
+   "score": 5.3
+  },
+  {
+   "slug": "aadarsha-kutumbam",
+   "title": "Aadarsha Kutumbam House No: 47",
+   "short": "Aadarsha Kutumbam",
+   "language": "Telugu",
+   "release": "2026-10-30",
+   "release_note": "Released 30 Oct (thereviewmonk; Cinejosh preview).",
+   "rated": [
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.123telugu.com/reviews/venkatesh-aadarsha-kutumbam-telugu-movie-review-and-rating.html",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    },
+    {
+     "outlet": "Cinema Express",
+     "critic": "Suresh Kavirayani",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.cinemaexpress.com/telugu/review/2026/Oct/30/adarsha-kutumbam-movie-review-venkatesh-and-trivikrams-family-entertainer-takes-an-unexpected-turn",
+     "published": "2026-10-30",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/",
+     "note": "Rotten Tomatoes lists the same critic under The New Indian Express at 3/5; counted once."
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Sashidhar Adivi",
+     "rating_published": "3/5",
+     "rating": 3,
+     "scale": 5,
+     "rating_10": 6.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.filmfare.com/reviews/south-movies/aadarsha-kutumbam-review-an-okayish-family-entertainer-86884.html",
+     "published": "Oct 2026",
+     "source_url": "https://www.rottentomatoes.com/m/aadarsha_kutumbam_house_no_47_ak_47",
+     "note": "thereviewmonk lists the same review at 6.0"
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Krishna",
+     "rating_published": "5.5/10",
+     "rating": 5.5,
+     "scale": 10,
+     "rating_10": 5.5,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.telugu360.com/aadarsha-kutumbam-movie-review/",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "5/10",
+     "rating": 5,
+     "scale": 10,
+     "rating_10": 5.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.gulte.com/moviereviews/438846/aadarsha-kutumbam-movie-review",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.ndtv.com/entertainment/aadarsha-kutumbam-review-trivikram-srinivass-film-is-a-tried-and-tested-story-sans-surprises-12259004",
+     "published": "Oct 2026",
+     "source_url": "https://www.rottentomatoes.com/m/aadarsha_kutumbam_house_no_47_ak_47",
+     "note": "thereviewmonk lists the same review at 5.0"
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2.5/5",
+     "rating": 2.5,
+     "scale": 5,
+     "rating_10": 5.0,
+     "method": "outlet_page",
+     "url": "https://www.greatandhra.com/movies/reviews/aadarsha-kutumbam-review-crime-drama-works-in-parts/",
+     "published": "2026-10-30"
+    },
+    {
+     "outlet": "Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "4/10",
+     "rating": 4,
+     "scale": 10,
+     "rating_10": 4.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/aadarsha-kutumbam-movie-review-trivikram-venkatesh-reunion-deserved-a-better-film-10943358/",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.rediff.com/movies/review/aadarsha-kutumbam-house-no-47-movie-review-venkateshs-film-stumbles-under-unimpressive-writing/20261031.htm",
+     "published": "2026-10-31",
+     "source_url": "https://www.rottentomatoes.com/m/aadarsha_kutumbam_house_no_47_ak_47",
+     "note": "thereviewmonk lists the same review at 4.0"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Sruthi Ganapathy Raman",
+     "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/aadarsha-kutumbam-movie-review-venkatesh-trivikram-film-is-too-safe-and-dreary-to-be-a-subversive-family-drama",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Sangeetha Devi Dundoo",
+     "url": "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-house-no47-movie-review-venkatesh-anchors-trivikrams-family-drama/article71641841.ece",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/aadarsha-kutumbam-house-no-47-ak-47/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "M9News / Nettv4u",
+     "critic": "",
+     "rating": "5.0 / 6.0 (as listed)",
+     "reason": "Not established publications."
+    }
+   ],
+   "highs": [
+    {
+     "point": "A breezy, funny first half",
+     "outlets": [
+      "123Telugu",
+      "Cinema Express",
+      "Indian Express",
+      "Great Andhra",
+      "Telugu360"
+     ]
+    },
+    {
+     "point": "Venkatesh is in easy form",
+     "outlets": [
+      "Filmfare",
+      "Telugu360",
+      "Indian Express",
+      "Great Andhra",
+      "The Hindu"
+     ]
+    },
+    {
+     "point": "Satya's comedy lands",
+     "outlets": [
+      "123Telugu",
+      "Great Andhra"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "The second half loses steam",
+     "outlets": [
+      "123Telugu",
+      "Cinema Express",
+      "Indian Express",
+      "Great Andhra",
+      "The Hollywood Reporter India"
+     ],
+     "dissent": [
+      "Telugu360"
+     ]
+    },
+    {
+     "point": "A familiar, predictable story",
+     "outlets": [
+      "Filmfare",
+      "Telugu360",
+      "NDTV",
+      "The Hindu"
+     ]
+    },
+    {
+     "point": "The music is forgettable",
+     "outlets": [
+      "NDTV",
+      "Great Andhra"
+     ],
+     "dissent": [
+      "Telugu360"
+     ]
+    }
+   ],
+   "split": null,
+   "quote": {
+    "text": "A little too familiar to stand out.",
+    "outlet": "The Hollywood Reporter India",
+    "critic": "Sruthi Raman",
+    "seen": "Rotten Tomatoes critics list"
+   },
+   "who": "In theatres. A light family outing for Venkatesh fans; critics say the first half is the draw.",
+   "short_who": "Venkatesh fans; the first half is the draw.",
+   "hook": "Critics enjoy the first half. Then comes the turn.",
+   "round_line": "Telugu · fun first half, then a slide",
+   "n_rated": 9,
+   "n_unrated": 2,
+   "mean_exact": 5.1667,
+   "score": 5.2
+  },
+  {
+   "slug": "nakhrewaalii",
+   "title": "Nakhrewaalii",
+   "short": "Nakhrewaalii",
+   "language": "Hindi",
+   "release": "2026-10-30",
+   "release_note": "Released in cinemas 30 Oct (thereviewmonk 'In cinemas now'; Bollywood Hungama discusses its box-office prospects).",
+   "rated": [
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.hindustantimes.com/entertainment/bollywood/nakhrewaalii-review-aanand-l-rais-rom-com-is-a-familiar-yet-fun-ride-with-enough-laughs-ansh-duggal-pragati-srivastava-101793353672249.html",
+     "published": "2026-10-30",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "News18",
+     "critic": "Yatamanyu Narain",
+     "rating_published": "6/10",
+     "rating": 6,
+     "scale": 10,
+     "rating_10": 6.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.news18.com/movies/reviews/nakhrewaalii-review-ansh-duggal-and-pragati-srivastava-sparkle-in-a-frothy-rom-com-with-something-to-say-ws-kl-10405054.html",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Archika Khurana",
+     "rating_published": "5/10",
+     "rating": 5,
+     "scale": 10,
+     "rating_10": 5.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/nakhrewaalii/movie-review/135357108.cms",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "Times Now",
+     "critic": "Tanmayi Savadi",
+     "rating_published": "5/10",
+     "rating": 5,
+     "scale": 10,
+     "rating_10": 5.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.timesnownews.com/entertainment-news/reviews/nakhrewaalii-movie-review-ansh-duggal-pragati-srivastava-inject-life-in-a-dead-and-buried-rom-com-review-156434377",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "Bollywood Hungama",
+     "critic": "Bollywood Hungama News Network",
+     "rating_published": "4/10",
+     "rating": 4,
+     "scale": 10,
+     "rating_10": 4.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.bollywoodhungama.com/movie/nakhrewaalii/critic-review/nakhrewaalii-movie-review/",
+     "published": "Oct 2026",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Anurag Singh Bohra",
+     "rating_published": "4/10",
+     "rating": 4,
+     "scale": 10,
+     "rating_10": 4.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.indiatoday.in/movies/reviews/story/nakhrewaalii-review-ansh-duggal-pragathi-srivasthava-cross-dressing-drama-lost-in-cliched-execution-3028506-2026-10-30",
+     "published": "2026-10-30",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "2/10",
+     "rating": 2,
+     "scale": 10,
+     "rating_10": 2.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.rediff.com/movies/review/nakhrewaalii-review-nakhra-of-a-movie/20261031.htm",
+     "published": "2026-10-31",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "Film Information",
+     "critic": "Staff review",
+     "url": "https://filminformation.com/reviews/nakhrewaalii-review-30-october-2026/",
+     "published": "2026-10-30",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/nakhrewaalii/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "Bollywood Bubble",
+     "critic": "",
+     "rating": "4.0 (as listed)",
+     "reason": "Not an established publication."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Ansh Duggal and Pragati Srivastava carry it",
+     "outlets": [
+      "News18",
+      "Times Now",
+      "India Today"
+     ]
+    },
+    {
+     "point": "A role-reversal premise with something to say",
+     "outlets": [
+      "Times of India",
+      "India Today",
+      "Film Information"
+     ]
+    },
+    {
+     "point": "A few laughs land",
+     "outlets": [
+      "Hindustan Times",
+      "Film Information"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "An old, predictable story",
+     "outlets": [
+      "Hindustan Times",
+      "Times of India",
+      "India Today",
+      "Times Now"
+     ]
+    },
+    {
+     "point": "The humour runs thin",
+     "outlets": [
+      "Times of India",
+      "Times Now",
+      "Rediff",
+      "Bollywood Hungama"
+     ]
+    },
+    {
+     "point": "Too close to Dream Girl",
+     "outlets": [
+      "Hindustan Times",
+      "Bollywood Hungama"
+     ]
+    }
+   ],
+   "split": null,
+   "quote": {
+    "text": "a tiresome watch",
+    "outlet": "Rediff",
+    "critic": "Sreeju Sudhakaran",
+    "seen": "thereviewmonk summary"
+   },
+   "who": "In theatres. An undemanding rom-com if you like the two leads.",
+   "short_who": "An undemanding rom-com, if you like the leads.",
+   "hook": "Critics like the leads more than the film.",
+   "round_line": "Hindi · likeable leads, old jokes",
+   "n_rated": 7,
+   "n_unrated": 1,
+   "mean_exact": 4.5714,
+   "score": 4.6
+  },
+  {
+   "slug": "cult",
+   "title": "#Cult",
+   "short": "#Cult",
+   "language": "Telugu",
+   "release": "2026-10-30",
+   "release_note": "Released 30 Oct (thereviewmonk).",
+   "rated": [
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "2.75/5",
+     "rating": 2.75,
+     "scale": 5,
+     "rating_10": 5.5,
+     "method": "outlet_page",
+     "url": "https://www.123telugu.com/reviews/vishwak-sens-cult-telugu-movie-review-and-rating.html",
+     "published": "2026-10-31"
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "outlet_page",
+     "url": "https://www.gulte.com/moviereviews/438931/cult-movie-review/amp",
+     "published": "2026-10-30"
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Sankar",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "outlet_page",
+     "url": "https://www.telugu360.com/cult-movie-review/",
+     "published": "2026-10-30"
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "outlet_page",
+     "url": "https://www.greatandhra.com/movies/reviews/cult-review-too-much-gore-nothing-more/",
+     "published": "2026-10-30"
+    },
+    {
+     "outlet": "New Indian Express",
+     "critic": "Suresh Kavirayani",
+     "rating_published": "3/10",
+     "rating": 3,
+     "scale": 10,
+     "rating_10": 3.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.newindianexpress.com/entertainment/review/2026/Nov/01/telugureview2026oct30cult-movie-review-all-blood-and-gore-but-where-is-the-story",
+     "published": "2026-11-01",
+     "source_url": "https://thereviewmonk.com/movie/cult/"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "The Hindu",
+     "critic": "Srivathsan Nadadhur",
+     "url": "https://www.thehindu.com/entertainment/movies/cult-movie-review-vishwak-sens-slasher-thriller-is-ambitious-but-lacks-finesse/article71644669.ece",
+     "published": "Oct 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/cult/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "Times of India",
+     "critic": "Susmita Sameera",
+     "rating": "5.0 (as listed)",
+     "reason": "The linked review is in TOI's Kannada section and is about a different film called Cult."
+    },
+    {
+     "outlet": "M9News",
+     "critic": "Kalyan",
+     "rating": "3.4 (as listed)",
+     "reason": "Not an established publication."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Vishwak Sen's swagger in the action scenes",
+     "outlets": [
+      "Gulte",
+      "Telugu360",
+      "123Telugu",
+      "Great Andhra"
+     ]
+    },
+    {
+     "point": "Ravi Basrur's background score",
+     "outlets": [
+      "Gulte",
+      "Telugu360",
+      "123Telugu",
+      "Great Andhra"
+     ]
+    },
+    {
+     "point": "A bold, fresh premise on paper",
+     "outlets": [
+      "Telugu360",
+      "The Hindu"
+     ]
+    }
+   ],
+   "lows": [
+    {
+     "point": "Gore without impact",
+     "outlets": [
+      "New Indian Express",
+      "Gulte",
+      "Telugu360",
+      "Great Andhra"
+     ]
+    },
+    {
+     "point": "Little suspense; the killer is easy to guess",
+     "outlets": [
+      "123Telugu",
+      "Great Andhra",
+      "Gulte"
+     ]
+    },
+    {
+     "point": "A slow start and an overlong run",
+     "outlets": [
+      "Telugu360",
+      "Great Andhra",
+      "123Telugu"
+     ]
+    }
+   ],
+   "split": null,
+   "quote": null,
+   "who": "In theatres. Only for slasher fans with a strong stomach, critics suggest.",
+   "short_who": "Slasher fans with a strong stomach only.",
+   "hook": "Critics agree on the gore. And on what is missing.",
+   "round_line": "Telugu · gore over suspense",
+   "n_rated": 5,
+   "n_unrated": 1,
+   "mean_exact": 4.1,
+   "score": 4.1
+  },
+  {
+   "slug": "mookuthi-amman-2",
+   "title": "Mookuthi Amman 2",
+   "short": "Mookuthi Amman 2",
+   "language": "Tamil",
+   "release": "2026-11-06",
+   "release_note": "Released 6 Nov (Republic World, Filmibeat, thereviewmonk).",
+   "rated": [
+    {
+     "outlet": "DT Next",
+     "critic": "Manivasagan Namasivayam",
+     "rating_published": "5/10",
+     "rating": 5,
+     "scale": 10,
+     "rating_10": 5.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.dtnext.in/entertainment/cinema/mookuthi-amman-2-review-amman-saves-herself-in-this-vfx-heavy-devotional-entertainer",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/"
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Rohit Panikker",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.filmfare.com/reviews/south-movies/mookuthi-amman-2-review-nayanthara-anchors-an-uneven-devotional-fantasy-87059.html",
+     "published": "Nov 2026",
+     "source_url": "https://www.rottentomatoes.com/m/mookuthi_amman_2",
+     "note": "thereviewmonk lists the same review at 4.0"
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "2/5",
+     "rating": 2,
+     "scale": 5,
+     "rating_10": 4.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.rottentomatoes.com/m/mookuthi_amman_2",
+     "published": "Nov 2026",
+     "source_url": "https://www.rottentomatoes.com/m/mookuthi_amman_2",
+     "note": "thereviewmonk lists the same review at 4.0"
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Roopa Radhakrishnan",
+     "rating_published": "4/10",
+     "rating": 4,
+     "scale": 10,
+     "rating_10": 4.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/mookuthi-amman-2-maha-sakthi/movie-review/135595572.cms",
+     "published": "Nov 2026",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/"
+    },
+    {
+     "outlet": "Cinema Express",
+     "critic": "Prashanth Vallavan",
+     "rating_published": "3/10",
+     "rating": 3,
+     "scale": 10,
+     "rating_10": 3.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.cinemaexpress.com/tamil/review/2026/Nov/06/mookuthi-amman-2-movie-review-a-systematic-desecration-of-the-amman-genre",
+     "published": "2026-11-06",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/",
+     "note": "Rotten Tomatoes lists the same review under The New Indian Express at 1.5/5; counted once."
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Janani K",
+     "rating_published": "1.5/5",
+     "rating": 1.5,
+     "scale": 5,
+     "rating_10": 3.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://www.indiatoday.in/movies/reviews/story/mookuthi-amman-2-review-nayanthara-film-is-a-god-sized-disappointment-3033669-2026-11-06",
+     "published": "2026-11-06",
+     "source_url": "https://www.rottentomatoes.com/m/mookuthi_amman_2"
+    },
+    {
+     "outlet": "Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "1.5/5",
+     "rating": 1.5,
+     "scale": 5,
+     "rating_10": 3.0,
+     "method": "aggregator:rottentomatoes",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/mookuthi-amman-2-review-nayanthara-cannot-save-this-loud-hollow-movie-10953643/",
+     "published": "Nov 2026",
+     "source_url": "https://www.rottentomatoes.com/m/mookuthi_amman_2"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "2/10",
+     "rating": 2,
+     "scale": 10,
+     "rating_10": 2.0,
+     "method": "aggregator:thereviewmonk",
+     "url": "https://www.rediff.com/movies/review/mookuthi-amman-2-review-nayantharas-mythological-sequel-fails-to-impress/20261107.htm",
+     "published": "2026-11-07",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/"
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "1/5",
+     "rating": 1,
+     "scale": 5,
+     "rating_10": 2.0,
+     "method": "outlet_page",
+     "url": "https://www.gulte.com/moviereviews/440480/mookuthi-amman-2-maha-sakthi-review",
+     "published": "2026-11-08"
+    }
+   ],
+   "unrated": [
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Sruthi Ganapathy Raman",
+     "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/mookuthi-amman-2-movie-review-nayanthara-leads-this-campy-but-generic-amman-film",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Bhuvanesh Chandar",
+     "url": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-movie-review-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71677645.ece",
+     "published": "Nov 2026",
+     "method": "aggregator:thereviewmonk",
+     "source_url": "https://thereviewmonk.com/movie/mookuthi-amman-2/"
+    }
+   ],
+   "excluded": [
+    {
+     "outlet": "OnlyKollywood / TeluguOne / MovieCrow",
+     "critic": "",
+     "rating": "6.0 / 4.5 / 3.0 (as listed)",
+     "reason": "Not established publications."
+    }
+   ],
+   "highs": [
+    {
+     "point": "Nayanthara holds the screen",
+     "outlets": [
+      "Filmfare",
+      "NDTV",
+      "Indian Express"
+     ]
+    },
+    {
+     "point": "A bigger canvas and a grand look",
+     "outlets": [
+      "Indian Express",
+      "Filmfare"
+     ]
+    },
+    {
+     "point": "Regina Cassandra adds some appeal",
+     "outlets": [
+      "Filmfare",
+      "Gulte"
+     ]
+    }
+   ],
+   "highs_note": "Critics found little else to praise.",
+   "lows": [
+    {
+     "point": "The VFX look cheap, even AI-made",
+     "outlets": [
+      "Filmfare",
+      "Times of India",
+      "Cinema Express",
+      "The Hollywood Reporter India",
+      "Gulte",
+      "DT Next"
+     ]
+    },
+    {
+     "point": "A weak, overstuffed screenplay",
+     "outlets": [
+      "Filmfare",
+      "NDTV",
+      "Times of India",
+      "Cinema Express",
+      "The Hindu",
+      "Indian Express",
+      "India Today"
+     ]
+    },
+    {
+     "point": "The comedy misfires",
+     "outlets": [
+      "Filmfare",
+      "Times of India",
+      "The Hindu",
+      "Gulte"
+     ]
+    }
+   ],
+   "split": null,
+   "quote": {
+    "text": "desperately needed a storytelling miracle",
+    "outlet": "NDTV",
+    "critic": "Latha Srinivasan",
+    "seen": "Rotten Tomatoes critics list"
+   },
+   "who": "In theatres, but critics suggest it only for committed Nayanthara or Amman-film fans.",
+   "short_who": "Only for committed Nayanthara fans, critics suggest.",
+   "hook": "The lowest-rated Diwali release. One flaw tops every list.",
+   "round_line": "Tamil · VFX and writing panned",
+   "n_rated": 9,
+   "n_unrated": 2,
+   "mean_exact": 3.3333,
+   "score": 3.3
+  }
+ ],
+ "not_qualifying": [
+  {
+   "title": "Disco",
+   "language": "Malayalam",
+   "release": "2026-11-06",
+   "reason": "Only 3 ratings from established outlets (Filmfare 5.0, Cinema Express 3.0, Indian Express 3.0). NowRunning 3.0 is not on the established list; the TOI entry links to an old Telugu review of a different film."
+  },
+  {
+   "title": "Killer",
+   "language": "Telugu",
+   "release": "2026-10-30",
+   "reason": "Of the 6 reviews listed, only CineJosh is about this film."
+  },
+  {
+   "title": "Enemy of the Smuggler",
+   "language": "Tamil",
+   "release": "2026-10-30",
+   "reason": "2 established ratings (TOI 5.0, New Indian Express 3.0)."
+  },
+  {
+   "title": "Hatah, Neekkam, Bhavantara",
+   "language": "Telugu, Malayalam, Kannada",
+   "release": "2026-11-06",
+   "reason": "No rated reviews surfaced in search."
+  },
+  {
+   "title": "Appa Kutty",
+   "language": "Tamil",
+   "release": "2026-11-20",
+   "reason": "Releases 20 Nov (Telangana Today), outside the window."
+  },
+  {
+   "title": "Dilwali Diwali; Meethe Mein Kya Hai",
+   "language": "Hindi",
+   "release": "6 Nov; 30 Oct",
+   "reason": "Netflix releases, not theatrical."
+  },
+  {
+   "title": "Sense and Sensibility (6 ratings), Wicker (4 after dropping Empire), The Cat in the Hat (4)",
+   "language": "English",
+   "release": "30 Oct / 30 Oct / 6 Nov",
+   "reason": "Hollywood titles; thereviewmonk lists them 'in cinemas' but no Indian release list I could open confirmed an India theatrical date, and Sense and Sensibility and Wicker lack 3 lows that 2+ outlets agree on. Held back for Rahul to decide."
+  }
+ ],
+ "roundup": {
+  "order": [
+   "ramayana-part-1",
+   "scene",
+   "pyre",
+   "summer-holidays",
+   "aadarsha-kutumbam",
+   "nakhrewaalii",
+   "cult",
+   "mookuthi-amman-2"
+  ],
+  "scores": [
+   7.1,
+   6.8,
+   6.3,
+   5.3,
+   5.2,
+   4.6,
+   4.1,
+   3.3
+  ]
+ }
+}
