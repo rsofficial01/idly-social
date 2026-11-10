@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-10-idlytech-instagram-ai-age-v3",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 14,
+    "notes": "v3 fixes the v1 HOLD: the cover is now Meta's official Teen Accounts header (Instagram logo, 'Teen Accounts', protection icons), so the subject is recognisable in ~1 s, and the headline carries a clear stake. No weak check: read 2 (each bullet adds a fact), send 2 (parents of 13-17s), keep 2 (sleep-mode hours, DM and private-profile limits, 60-minute nudge, under-16 parental approval), reply 2 (AI vs ID is a genuine question), original 2 (own synthesis, Meta image credited), alone 2 (both detail slides name Instagram). Verified at Gate 2: Meta 9 Nov post (global expansion; FB continuing, Threads later; no accuracy figure), TechCrunch 9 Nov, Meta India Teen Accounts Feb 2025 (private default, DMs, 60-min nudge, 10 PM-7 AM, under-16 approval). Opened 01-03 at full size: 0 faces, letterbox at 0.9x, white headline 3 lines on one left edge with the date, credit 'Image: Meta' readable, Playfair 3/7 descenders clear of labels, Sources/Source lines on 02/03, no collisions. Caption: one '?', 5 hashtags, link line (idly #1712), credit last.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "reviewed_at": "2026-11-10T05:33:44+00:00",
+  "reviewed_by": "claude reviewer (blind)",
+  "notes": ""
+}
