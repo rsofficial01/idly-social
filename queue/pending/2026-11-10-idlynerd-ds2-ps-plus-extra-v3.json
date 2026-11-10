@@ -1,0 +1,66 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Death Stranding 2 joins PS Plus Extra/Deluxe on 17 Nov (PS Blog); India: Extra ₹979/month; DS2 ₹4,999, ₹3,099 in PS Store sale until 20 Nov",
+  "headline": "Death Stranding 2 Joins PS Plus Extra on 17 Nov",
+  "caption": "Death Stranding 2: On the Beach joins the PlayStation Plus Game Catalogue on 17 November, Sony's PlayStation Blog said on Tuesday. The catalogue comes with the Extra and Deluxe tiers; Essential (₹649 a month in India) doesn't include it.\n\nIn India, PS Plus Extra costs ₹979 a month, ₹2,599 for three months or ₹8,709 a year, and Deluxe costs ₹1,109 a month. Buying the game outright costs ₹4,999 for the Standard Edition on PS Store India, or ₹3,099 in the store's current sale, which runs until 20 November.\n\nAtomfall and Dragon Quest III HD-2D Remake join on 17 November too. Sony gives US and UK dates for the rest: Hell Let Loose on 11 November; Like a Dragon: Pirate Yakuza in Hawaii, Trepang2, MotoGP 26 and Cricket 26 on 24 November. Deluxe adds Soul Reaver 2 and Freedom Wars Remastered. Sony says lineups can differ by region.\n\nDo you buy big PS5 games at launch, or wait for them to reach PS Plus?\n\nSources: PlayStation Blog, PlayStation India, Push Square, Digit, Gizmochina\n\n#DeathStranding2 #PSPlus #PlayStation #PS5 #idlynerd",
+  "alt_text": "Slide 1: an image from PlayStation's official Death Stranding 2: On the Beach trailer, under the headline \"Death Stranding 2 Joins PS Plus Extra on 17 Nov\". Slide 2: \"₹979\", PS Plus Extra's monthly price in India; Essential (₹649) doesn't include the Game Catalogue; Death Stranding 2 Standard Edition is ₹4,999 on PS Store, or ₹3,099 in its sale until 20 Nov. Slide 3: \"8 GAMES\", joining PS Plus Extra in November; also on 17 Nov: Atomfall and Dragon Quest III HD-2D; 24 Nov in the US and UK: Like a Dragon and Cricket 26; Sony says lineups can differ by region.",
+  "sources": [
+    "PlayStation Blog",
+    "PlayStation India",
+    "Push Square",
+    "Digit",
+    "Gizmochina"
+  ],
+  "detail_slides": [
+    {
+      "stat": "₹979",
+      "stat_label": "PS Plus Extra's Monthly Price in India",
+      "bullets": [
+        "Essential (₹649) doesn't include the Game Catalogue",
+        "Death Stranding 2 Standard Edition: ₹4,999 on PS Store",
+        "Or ₹3,099 in PS Store's sale, until 20 Nov"
+      ],
+      "credit_line": "Sources: PlayStation India, Digit, Gizmochina"
+    },
+    {
+      "stat": "8 GAMES",
+      "stat_label": "Joining PS Plus Extra in November",
+      "bullets": [
+        "Also on 17 Nov: Atomfall, Dragon Quest III HD-2D",
+        "24 Nov (US/UK): Like a Dragon, Cricket 26",
+        "Sony says lineups can differ by region"
+      ],
+      "credit_line": "Sources: PlayStation Blog, Push Square"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://blog.playstation.com/2025/03/09/death-stranding-2-on-the-beach-launches-june-26-collectors-edition-revealed/",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/"
+      }
+    ]
+  },
+  "tags": [
+    "playstationin"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "send 1: audience is PS5 owners on (or weighing) PS Plus Extra, a narrower group in India than a film or BGMI story. hook 2: named game + 17 Nov date on the cover. keep 2: India tier prices, ₹4,999/₹3,099 and the 20 Nov sale end, 17/24 Nov dates. reply 2: buy-at-launch vs wait-for-PS-Plus is a habit every console player has. alone 2: cover names the game, the tier and the date; region caveat on slide 3."
+    }
+  },
+  "notes": "format: news. idlynerd hourly 2327, G1 BUILD, fixes 1-10 applied. No idly article. Cover chain: etOOO9Sq7u8, 90gpqJE-tLU, PS Blog og:image. Needs @PlayStation channel + playstation.com allowlisted. G4 HOLD if cover isn't DS2, lettering under headline, or soft. v2 (G4 HOLD on v1: soft 1.875x thumbnail cover): image order now PS Blog DS2 hands-on og:image (1920x1080), then 2025-03-09 launch-date post og:image (1632x918), then 90gpqJE-tLU. Same copy. v3 (G4 HOLD on v2: burned-in copyright line at the bottom edge): refs now PS Blog 2025-03-09 launch-date og:image (1632x918), then the 10 Nov catalogue post og:image; no YouTube refs.",
+  "created_at": "2026-11-11T00:18:25+05:30"
+}
