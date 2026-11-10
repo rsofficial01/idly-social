@@ -1,0 +1,56 @@
+{
+  "acct": "idlynerd",
+  "slug": "idlynerd-0227-shrek-2-remastered",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Steam",
+    "PlayStation Store",
+    "Aspyr",
+    "Gematsu",
+    "PlayStation LifeStyle"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Shrek 2's 2004 Co‑op Game Returns: ₹1,599 on Steam",
+      "photo": "_work/2026-11-11-hourly-0227/idlynerd/framing/cover_source.png",
+      "photo_credit": "Image: Aspyr / DreamWorks Animation (official art)",
+      "focal": [
+        0.468,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹2,997",
+      "stat_label": "The PS5 Price, About ₹1,400 More Than Steam",
+      "bullets": [
+        "10% launch discount on Steam, no end date listed",
+        "Steam's price is for the PC version only"
+      ],
+      "credit_line": "Sources: Steam India, PlayStation Store India (11 Nov)"
+    },
+    {
+      "type": "detail",
+      "stat": "UP TO 4",
+      "stat_label": "Players in Couch or Online Co-op",
+      "bullets": [
+        "Rebuilt textures and cutscenes, now in 4K",
+        "New Photo Mode and a Cheat Mode"
+      ],
+      "credit_line": "Sources: Aspyr, Gematsu, PlayStation LifeStyle"
+    },
+    {
+      "type": "detail",
+      "stat": "10 NOV",
+      "stat_label": "Out Now on Five Platforms",
+      "bullets": [
+        "PS5, Xbox Series X|S, Switch 2, Switch and PC",
+        "PC through Steam and the Epic Games Store",
+        "Remaster of the 2004 console game (PS2, Xbox, GameCube)"
+      ],
+      "credit_line": "Sources: Aspyr, Gematsu, PlayStation LifeStyle"
+    }
+  ]
+}

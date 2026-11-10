@@ -1,0 +1,35 @@
+{
+ "account": "idlynerd",
+ "title": "Shrek 2 Remastered (Aspyr), a remaster of the 2004 console game (PS2, Xbox, GameCube), out 10 Nov 2026 on PS5, Xbox Series X|S, Switch 2, Switch and PC (Steam, Epic); India: ₹1,599 list on Steam (PC; 10% launch discount to ₹1,439, no end date listed), ₹2,997 on PlayStation Store India (PS5); up to 4-player couch/online co-op, 4K, Photo Mode, Cheat Mode",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://store.steampowered.com/app/2523740/ (Steam India via store API appdetails?appids=2523740&cc=in, re-checked 10 Nov 21:32 UTC: initial ₹1,599, final ₹1,439, 10% off, release 10 Nov 2026, Aspyr Media)",
+  "https://store.playstation.com/en-in/concept/10015844 (PS Store India: Rs 2,997, PS5, publisher ASPYR MEDIA, INC, release 10/11/2026; re-checked before render)",
+  "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
+  "https://www.playstationlifestyle.net/2026/11/10/dreamworks-shrek-2-remastered-ps5-release",
+  "https://www.gamesasylum.com/2026/10/20/shrek-2-remastered-is-out-next-month-for-29-99/",
+  "https://shrek2remastered.com/"
+ ],
+ "photo_source": {
+  "page": "https://shrek2remastered.com/ (Aspyr's official game site, linked from aspyr.com; footer: '© 2026 DreamWorks Animation LLC. All Rights Reserved. Game software © 2026 Aspyr Media, Inc.')",
+  "file": "https://shrek2remastered.com/images/art/hero.webp (2000x2340, the 2000w hero image in the site's srcset; saved as _work/2026-11-11-hourly-0227/idlynerd/photos/shrek/hero.webp, sha1 a783b8da200b5f7602787e3cc11e0348405e5d4f; lossless PNG copy shrek2_hero_2000.png, sha1 5c7719a8c84d8d18e6439ea2018d11e73067812b)",
+  "licence": "Official promotional key art from the publisher's own site, used for news of the game's launch (credited)",
+  "author": "Aspyr (characters © DreamWorks Animation)",
+  "credit": "Image: Aspyr / DreamWorks Animation (official art)",
+  "subject": "Official Shrek 2 Remastered key art: Shrek running down a sunlit swamp path with Fiona, Puss in Boots, Donkey and the Gingerbread Man under the DreamWorks Shrek 2 Remastered logo. Animated characters only, no real person, no watermark.",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 3 cartoon faces in the band (Fiona y 368-431, Shrek y 424-583, Puss y 431-472), logo_saliency 0.07. Full-bleed cardkit hype cover, focal (0.468, 0.5), zoom 1.0: crop 1872x2340 (x 0-1872, full height), downscaled 0.577 to 1080x1350; no upscale, no fill, no blur, no letterbox, no recolour. Game logo ~y 240-400, characters ~y 360-860, headline from y 950 over grass. Scrim 0.6."
+ },
+ "tags": [
+  "aspyrmedia"
+ ],
+ "tag_evidence": "instagram.com/aspyrmedia is linked from Aspyr's own homepage https://www.aspyr.com/ (social links, plus a linktr.ee/aspyrmedia link tagged utm_source=ig) and from the official game site https://shrek2remastered.com/ (Instagram icon). Both fetched 11 Nov 2026 (IST). Reviewer confirmed aspyr.com links it (g1b).",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "First packet: DROP all three (GTA VI 30 FPS/store records, a repeat of 10 Nov's GTA VI lead, re-pitch from 12 Nov; BGMI 4.7, no lawful image; '6 Gaming Dates' list). Retry g1b: BUILD Shrek 2 Remastered (predicted ceiling 13), DROP Saranagati. Fixes applied: hero.webp at focal 0.468/0.5, zoom 1.0, no upscale; headline 'Shrek 2's 2004 Co-op Game Returns: ₹1,599 on Steam' (stat ₹1,599, 'Remastered' not repeated); price-gap slide list vs list, 10% given as 'launch discount, no end date listed'; 'remaster of the 2004 console game (PS2, Xbox, GameCube)'; credit 'Image: Aspyr / DreamWorks Animation (official art)'; tag @aspyrmedia; the approved question.",
+  "g23": "Picture PASS. Words FIX (one bullet): slide 2 'PS5 and PC owners save by buying on Steam' → 'Steam's price is for the PC version only' (alt text updated to match; caption never had it). 'Cheat Mode' wording stays (official feature name; the allegation-regex warning is a false positive). Render-only: non-breaking hyphen (U+2011) in the cover's 'Co-op' so it doesn't wrap as 'Co-'/'op'.",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 2, keep 2, reply 2, original 2, alone 1 (detail slides don't name the game). Self 13/14; final 13/14. Tag @aspyrmedia confirmed on aspyr.com and shrek2remastered.com (instagram.com/aspyrmedia)."
+ }
+}
