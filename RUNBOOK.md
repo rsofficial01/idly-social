@@ -128,6 +128,43 @@ record the best story with its best score.
 
 ---
 
+## Review while building (not at the end)
+
+The founder's rule (10 Nov): "have the reviewer review every text and image while building so there's no bad
+product that comes out." Re-doing finished posts after an end-of-line review wastes hours. So one reviewer
+works **alongside** the build, at four short gates, and nothing moves to the next stage until its gate passes.
+
+**The reviewer.** At the start of the run, start ONE fresh reviewer with the Agent tool (it never sees your
+self-scores) and keep it for the whole run: send each gate to it with SendMessage (if SendMessage isn't
+available, start a short fresh reviewer per gate with the same instructions). Give it the rubric
+(the 7-check score below), the editorial, image and caption rules from this file, and: "Be strict; a
+generous score defeats the gate. Answer each gate with PASS or FIX: <exact fix>, in one short message."
+
+**Gate 1, the angle (before any writing).** Send the 3 strongest candidates per account: id, title, the key
+fact or number, the proposed hook, who would send it, what's worth keeping. The reviewer predicts the
+ceiling of each (hook, send, keep, original). Drop anything whose ceiling is under 12; build only the best.
+This is where most weak posts die, for free.
+
+**Gate 2, the words (before rendering).** Send the cover headline, slide copy and full caption, plus the
+article text. The reviewer checks every fact against the article, allegation wording, Title Case, the
+one-question rule, bait (send/save/tag/comment prompts, "Tell us below"), credit and Sources lines, and
+that each slide stands alone (no "He's…" without a name). Also run
+`python3 -c "from pipeline import editorial; ..."` (post_problems) yourself first: the code catches the
+mechanical rules so the reviewer spends its time on judgment.
+
+**Gate 3, the picture (before compositing).** Send the photo you plan to use (or the lane spec's image
+plan) with its source page and licence, and the planned focal point and zoom. The reviewer checks rights,
+watermarks, identifiable people, that it matches the story, and that the subject will sit clear of the
+logo (top ~170px) and the headline block (bottom ~45%). (Lane images: the code fetches and frames them;
+the reviewer checks them at Gate 4.)
+
+**Gate 4, the finished card (quick).** Render, then send the slide images. Because Gates 1–3 passed, this
+is a look for layout problems (overflow, collisions, cut-off subjects, legibility at phone size) plus the
+final 7-check score. The post's score is the LOWER of yours and the reviewer's; publish at 12/14 or above.
+
+A FIX at any gate is fixed on the spot and re-sent to that gate only; earlier gates don't re-run unless the
+fix changed what they checked. Work on different accounts in parallel where you can.
+
 ## Steps
 
 All commands run from the repo root. Set these once:
@@ -175,7 +212,7 @@ editorial rules. Don't post the same story on two accounts. Prefer stories with 
 
 Follow the image rules. Save it as `$W/photos/<account>-<id>.jpg`, and **open it to look at it**.
 
-### 5. Write the card and caption, then score them (loop until 14, or skip below 12)
+### 5. Write the card and caption, then score them (loop until 14, or skip below 12; run Gates 1–3 of "Review while building" as you go, Gate 4 after rendering)
 
 ### 6. Write `$W/cards.json`
 
