@@ -1,0 +1,152 @@
+{
+  "slug": "tue-idlynerd-blade-runner-2099",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T07:36:34+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=v0_EjJhz4aQ",
+      "ok": true
+    },
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+    "source_url": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+    "image_url": "https://assets.aboutamazon.com/dims4/default/0d1dde6/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F7f%2F76%2F9b717a584e438320848a0a954ef3%2Funtitled-24-july-2026-at-10-38-39.png",
+    "credit": "Image: Amazon",
+    "organisation": "Amazon",
+    "image_size": [
+      1200,
+      600
+    ],
+    "log": [
+      "page https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video (Amazon): og:title \"Watch the trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25\", 1 image(s)",
+      "image https://assets.aboutamazon.com/dims4/default/0d1dde6/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F7f%2F76%2F9b717a584e438320848a0a954ef3%2Funtitled-24-july-2026-at-10-38-39.png (1200x600)"
+    ],
+    "og_title": "Watch the trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25"
+  },
+  "faces": [
+    [
+      528.6,
+      72.2,
+      124.2,
+      176.2,
+      0.92
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.9,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 540,
+    "faces_out": [
+      [
+        462,
+        246,
+        601,
+        443
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "1 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 480px wide, 2.25x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        528.6,
+        72.2,
+        124.2,
+        176.2,
+        0.92
+      ]
+    ]
+  },
+  "upscale": 0.9,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Amazon",
+      "Sources: Amazon, Prime Video India, Gold Derby, Bleeding Cool",
+      "Sources: Amazon, Prime Video India, Gold Derby, Bleeding Cool"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 88,
+      "lines": 3,
+      "overflow": false,
+      "top": 986,
+      "credit_line": "Image: Amazon",
+      "slug": "tue-idlynerd-blade-runner-2099",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 256,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Amazon, Prime Video India, Gold Derby, Bleeding Cool",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "tue-idlynerd-blade-runner-2099",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Amazon, Prime Video India, Gold Derby, Bleeding Cool",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "tue-idlynerd-blade-runner-2099",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Blade Runner 2099, a new eight-episode limited series, drops all at once on Prime Video on 25 November, in India and worldwide. Prime Video released its final trailer on 9 November.\n\nThe story is set 50 years after Blade Runner 2049 (2017), in a Los Angeles that Prime Video describes as \"reborn, just not by humanity\". Hunter Schafer plays Cora, a fugitive who takes on \"one last identity: a Blade Runner\". She is forced to partner with Olwen (Michelle Yeoh), a Replicant days from dying.\n\nSilka Luisa is the showrunner. Ridley Scott, who directed the 1982 original, is an executive producer.\n\nWhat was the last series you finished in the same week it dropped?\n\nSources: Amazon, Prime Video India, Gold Derby, Bleeding Cool\n\n#BladeRunner2099 #BladeRunner #PrimeVideo #SciFi #idlynerd\n\nImage: Amazon"
+}
