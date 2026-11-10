@@ -21,7 +21,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
@@ -60,4 +60,12 @@ jobs:
             v="IG_TOKEN_$a"
             if [ -n "${!v}" ]; then echo "IG_TOKEN_$a: set"; else echo "IG_TOKEN_$a: NOT SET (that account is skipped)"; fi
           done
-          python pipeline/lane.py publish-approved --push
+          # GitHub's 10-minute schedule is unreliable, so one run drains the queue: it publishes what it can,
+          # then re-checks every 5 minutes (new approvals, and accounts whose 30-minute gap has passed) until
+          # queue/approved is empty, for at most about 2 hours.
+          for i in $(seq 1 26); do
+            git pull --rebase -q || true
+            python pipeline/lane.py publish-approved --push
+            ls queue/approved/*.json >/dev/null 2>&1 || break
+            sleep 300
+          done
