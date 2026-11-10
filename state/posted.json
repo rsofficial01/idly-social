@@ -1119,5 +1119,21 @@
     "tagged": [
       "toyota.india"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18110175509263245",
+    "permalink": "https://www.instagram.com/p/Dfkrl0aGpz3/",
+    "posted_at": "2026-11-10T19:41:38+00:00",
+    "date": "2026-11-11",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-0032-villages-without-4g/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-0032-villages-without-4g/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-0032-villages-without-4g/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-0032-villages-without-4g/04.jpg"
+    ],
+    "score_total": 12
   }
 ]
