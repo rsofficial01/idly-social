@@ -1,0 +1,50 @@
+{
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Lower of self 12 and blind reviewer 12 (reviewer's checks used). Reviewer: hook 1: the cover photo is a postcard shot of the Red Fort that doesn't signal news, and 'Morning Brief:' spends two words of a 3-line headline, which breaks 'Red / Fort' and 'a Year / On' across lines, so it doesn't land in ~1 s. '13 Accused' is specific but not surprising. keep 1: a news brief; little to save beyond the date of today's talks. Strong: read 2 (each bullet is one distinct story, no filler; the repeated '10 NOV' stat is a dateline required by the stat rule), send 2 (the catch-up forward), reply 2 (a genuine question from readers' own lives tied to the lead), original 2 (own synthesis, Unsplash photo credited), alone 2 (every line names its subject). Verified at Gate 2: Tribune/PTI cognisance against all 13 accused incl. the deceased main accused; ThePrint/PTI survivors; HarperCollins 10 Nov release; ThePrint 'not a political book' and ANI Kesavan 'Whitewashing'; Al Jazeera Trump 'Iran militarily is effectively over' and Pezeshkian 'will not surrender to force and bullying'; AFP Abu Dhabi talks first since February; ChessBase India/The Week 100th GM. Opened 01-03 at full size: white headline, shared left edges, no touching text (swash N clears the labels), flag and domes clear of the logo, credit readable when zoomed, Sources lines on 02 and 03. Caption: one '?', 5 hashtags, Sources line, no idly.news, credit last, neutral and attributed. RE-CHECK (main, slide 3 only): the Iran bullet now quotes Trump exactly, 'Iran militarily is effectively over' (Al Jazeera; AP/WLKY), and Pezeshkian 'will not surrender' (a fragment of 'We will not surrender to force and bullying'). 03.jpg at full size: the wrap aligns at x 72, nothing touches, Sources line present. Score unchanged.",
+  "story_id": null,
+  "idly_article": false,
+  "scored_as": "lower of the two totals (self 12, reviewer 12)",
+  "self_score": {
+    "hook": 1,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "hook 1: a brief's cover is a label plus a modest fact (13 named is months-old, the anniversary is the news); keep 1: today's dates (talks, book out) are useful but not save-worthy specs/deadlines. Desk only - reviewer must not open."
+  },
+  "reviewer_score": {
+    "hook": 1,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "hook 1: the cover photo is a postcard shot of the Red Fort that doesn't signal news, and 'Morning Brief:' spends two words of a 3-line headline, which breaks 'Red / Fort' and 'a Year / On' across lines, so it doesn't land in ~1 s. '13 Accused' is specific but not surprising. keep 1: a news brief; little to save beyond the date of today's talks. Strong: read 2 (each bullet is one distinct story, no filler; the repeated '10 NOV' stat is a dateline required by the stat rule), send 2 (the catch-up forward), reply 2 (a genuine question from readers' own lives tied to the lead), original 2 (own synthesis, Unsplash photo credited), alone 2 (every line names its subject). Verified at Gate 2: Tribune/PTI cognisance against all 13 accused incl. the deceased main accused; ThePrint/PTI survivors; HarperCollins 10 Nov release; ThePrint 'not a political book' and ANI Kesavan 'Whitewashing'; Al Jazeera Trump 'Iran militarily is effectively over' and Pezeshkian 'will not surrender to force and bullying'; AFP Abu Dhabi talks first since February; ChessBase India/The Week 100th GM. Opened 01-03 at full size: white headline, shared left edges, no touching text (swash N clears the labels), flag and domes clear of the logo, credit readable when zoomed, Sources lines on 02 and 03. Caption: one '?', 5 hashtags, Sources line, no idly.news, credit last, neutral and attributed. RE-CHECK (main, slide 3 only): the Iran bullet now quotes Trump exactly, 'Iran militarily is effectively over' (Al Jazeera; AP/WLKY), and Pezeshkian 'will not surrender' (a fragment of 'We will not surrender to force and bullying'). 03.jpg at full size: the wrap aligns at x 72, nothing touches, Sources line present. Score unchanged.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "fix_after_review": "main, before publishing: slide 3's Iran bullet changed from \"Trump says Iran war 'effectively over'\" (an outlet paraphrase in quote marks) to Trump's exact words \"Iran militarily is effectively over\" (Al Jazeera, AP/WLKY); alt text matched; reviewer re-checked slide 3: PASS, 12 unchanged",
+  "photo_source": {
+    "page": "https://unsplash.com/photos/Y4vT3Rl3xlc",
+    "licence": "Unsplash License",
+    "author": "Lalit Krishna",
+    "file": "_work/2026-11-10-h1039/idlynews/rf_lk1.jpg",
+    "credit": "Photo: Lalit Krishna / Unsplash",
+    "viewed": true
+  }
+}
