@@ -1,0 +1,59 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self 13 and reviewer 13 (tie; reviewer's checks used). hook 1: story is 13 days old (announced 28 Oct, on sale since 1 Nov) and not a last-24h Hypebeast/Complex lead; scored on hook per reviewer. All other checks 2. G23 FIX 1 applied verbatim ('Its MRP is' -> 'Its price in India is').",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 13, reviewer 13)",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: a ₹3,795 Nike runner built for India is a real price hook for Indian readers, but the story is 13 days old (announced 28 Oct, on sale since 1 Nov) and was not a Hypebeast/Complex lead in the last 24h. send 2: a friend starting to run or a running-club group, and it is buyable in India now. keep 2: price, where to buy, spring 2027 widening, what it is made of. reply 2: what readers paid for their own running shoes. original 2: idly's synthesis (price/access angle, Nike's design story left out), Nike press image credited, own letterbox layout. alone 2: every slide names the Vegam Run."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Scored on the draft render 01-03 (final layout; no re-render needed). CONDITIONAL on G23 FIX 1 (caption: 'Its MRP is' -> 'Its price in India is') being applied verbatim; if not applied, HOLD. hook 1: a Rs 3,795 Nike runner made for India is a real price hook, but the story is 13 days old (announced 28 Oct, on sale since 1 Nov). It is not the last-24h Hypebeast/Complex moment Rahul's hype brief asks for, and followers may already have seen it. Other checks are strong: a specific send (a friend starting to run), keepable price/where/when, a genuine reply question, idly's own synthesis with a credited Nike press image, and every slide names the shoe. Verified myself: Nike newsroom 28 Oct (first running shoe for India; 1 Nov at Flipkart + select stores; spring 2027 partners; other markets 2027; mesh/foam/rubber; After Dark Tour Mumbai stop in December); Esquire India 31 Oct and Exhibit 29 Oct (Rs 3,795); Nike's own After Dark Tour release ('global race series built for women'). Opened 01-03 at full size: no overlap, one left edge, white headlines, credit and source lines present, shoe whole and clear of the logo and headline block, no upscaling.",
+  "verdict": "PASS",
+  "fact_problems": [
+   "caption says 'MRP' but the sources only say 'priced at' (G23 FIX 1)"
+  ],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": [
+   "off Rahul's 24h-freshness brief for hype (scored on hook, not a hard-rule fail)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://about.nike.com/newsroom/releases/nike-vegam-run-is-built-for-the-next-generation-of-india-runners",
+  "image_url": "https://nmp.about.nike.com/about/prod/d6398d0b-359b-4ef0-bf9f-1a0ef7f92d82/nike-vegam-run-hero.jpg?m=eyJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMH0sIndlYnAiOnsicXVhbGl0eSI6MTAwfSwiZXh0cmFjdCI6eyJsZWZ0IjowLCJ0b3AiOjAsIndpZHRoIjozMjAwLCJoZWlnaHQiOjIxMzJ9LCJyZXNpemUiOnsid2lkdGgiOjM4NDB9fX0%3D&s=b33fdcf8fa5ecc73834529d4a26d91f3649a0578169aa524790779fd04b1914d",
+  "licence": "Nike official press image (newsroom), editorial use, credited 'Image: Nike'",
+  "author": "Nike",
+  "viewed": true,
+  "processing": "3840x2558 hero; letterboxed with PIL on a 1080x1350 canvas: blurred (r40), darkened (x0.55) cover-fit copy as background, band cropped around the shoe (~3629x1920 source px) downscaled to 1080x571 at y 170-741 with 60px feathered edges; shoe at ~y 198-710; cardkit focal (0.5,0.5), zoom 1.0, photo scale 1.00 (no upscale)"
+ },
+ "gates": {
+  "g1": "BUILD #1 (Nike Vegam Run), predicted ceiling 13 (hook 1: 13 days old, off the 24h Hypebeast/Complex brief); FIX 1-5 applied; main's call to build. #2 AJ4 'Bred' dropped (11, no official image, no India release); #3 Union x Nike Dunk 'Fatigue' dropped (10, US-only, date/price conflict).",
+  "g2": "PASS after FIX 1 (caption: 'MRP' -> 'price in India', applied verbatim); all facts checked against Nike, Esquire India, Exhibit.",
+  "g3": "PASS: Nike newsroom hero product shot, product only, no people/watermark, downscaled; letterbox clears logo and headline block.",
+  "g4": "PASS at reviewer 13/14 (hook 1), conditional on G23 FIX 1, which is applied; no re-render needed."
+ }
+}
