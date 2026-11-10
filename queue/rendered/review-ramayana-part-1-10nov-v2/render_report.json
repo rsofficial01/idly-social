@@ -1,0 +1,105 @@
+{
+  "slug": "review-ramayana-part-1-10nov-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T05:41:44+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+    "source_url": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+    "image_url": "https://i.ytimg.com/vi/YleIZgpTF6w/maxresdefault.jpg",
+    "credit": "Image: World Of Ramayana (official video)",
+    "organisation": "World Of Ramayana",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=YleIZgpTF6w: author 'World Of Ramayana' https://www.youtube.com/@WorldOfRamayana, title 'Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman'",
+      "thumbnail https://i.ytimg.com/vi/YleIZgpTF6w/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@WorldOfRamayana",
+    "video_title": "Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman"
+  },
+  "faces": [
+    [
+      983.1,
+      307.1,
+      19.0,
+      27.7,
+      0.869
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        828,
+        456,
+        847,
+        485
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "1 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        983.1,
+        307.1,
+        19.0,
+        27.7,
+        0.869
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: World Of Ramayana (official video)"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: World Of Ramayana (official video)",
+      "slug": "review-ramayana-part-1-10nov-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Ramayana: Part 1 tops idly's Diwali ranking, though not as a rave. All 13 reviews idly read single out Yash's Ravana and 11 praise the scale; the doubts are pacing, the songs and how much feeling survives the spectacle. Sukanya Verma's Rediff review is headlined \"all scale no soul\".\n\nidly's consolidated score: 6.9/10, the mean of 19 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nCritics split on Ranbir Kapoor's Rama: what would Part 2 need from him to win you over?\n\nSources: ratings from DNA, Koimoi, Times of India, DT Next, Hindustan Times, India TV, Pinkvilla, Telugu360, The Week, Firstpost, Great Andhra, Gulte, NDTV, News18, Indian Express, New Indian Express, Outlook, Rediff (Sudhakaran) and Rediff (Verma); read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 13 reviews idly read in full.\n\n#Ramayana #Yash #RanbirKapoor #MovieReview #idlynerd\n\nImage: World Of Ramayana (official video)"
+}

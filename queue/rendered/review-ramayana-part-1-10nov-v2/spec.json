@@ -58,5 +58,15 @@
     "posts/2026-11-10/review_ramayana-part-1_v2/03.jpg",
     "posts/2026-11-10/review_ramayana-part-1_v2/04.jpg"
   ],
-  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane."
+  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane.",
+  "slug": "review-ramayana-part-1-10nov-v2",
+  "caption_final": "Ramayana: Part 1 tops idly's Diwali ranking, though not as a rave. All 13 reviews idly read single out Yash's Ravana and 11 praise the scale; the doubts are pacing, the songs and how much feeling survives the spectacle. Sukanya Verma's Rediff review is headlined \"all scale no soul\".\n\nidly's consolidated score: 6.9/10, the mean of 19 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nCritics split on Ranbir Kapoor's Rama: what would Part 2 need from him to win you over?\n\nSources: ratings from DNA, Koimoi, Times of India, DT Next, Hindustan Times, India TV, Pinkvilla, Telugu360, The Week, Firstpost, Great Andhra, Gulte, NDTV, News18, Indian Express, New Indian Express, Outlook, Rediff (Sudhakaran) and Rediff (Verma); read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 13 reviews idly read in full.\n\n#Ramayana #Yash #RanbirKapoor #MovieReview #idlynerd\n\nImage: World Of Ramayana (official video)",
+  "image_credit": "Image: World Of Ramayana (official video)",
+  "lane": {
+    "spec_sha256": "029486476329403c8f6ea27253ed749083c377cd81140c4d8f52a51f8a27d063",
+    "rendered_at": "2026-11-10T05:41:44+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+    "image_url": "https://i.ytimg.com/vi/YleIZgpTF6w/maxresdefault.jpg"
+  }
 }
