@@ -119,8 +119,11 @@ class CountUps(unittest.TestCase):
         sp = R.count_spec("2,24,000")
         self.assertEqual(R.count_text(sp, 0.5512), "1,23,469")            # Indian grouping on the way up
         self.assertEqual(R.count_text(R.count_spec("224,000"), 0.5512), "123,469")
-        self.assertEqual(R.count_text(R.count_spec("₹2.69 lakh"), 0.5), "₹1.34 lakh")   # 1.34499...
-        self.assertEqual(R.count_text(R.count_spec("23,747"), 0.5), "11,874")      # an exact tie rounds up, as in JS
+        self.assertEqual(R.count_text(R.count_spec("₹2.69 lakh"), 0.5), "₹1.84 lakh")   # 1 + 1.69 x 0.5 = 1.84499...
+        self.assertEqual(R.count_text(R.count_spec("+86%"), 0.5), "+44%")          # 43.5: a tie rounds up, as in JS
+        for text, first in (("₹2.69 lakh", "₹1.0"), ("−4.27%", "−1.0"), ("23,747", "1")):
+            self.assertTrue(R.count_text(R.count_spec(text), 0.0).startswith(first), text)     # counts from 1
+        self.assertEqual(R.count_text(R.count_spec("0.4%"), 0.0), "0.1%")         # under 1: from one step
 
     def test_count_texts_frame_by_frame(self):
         sp = R.count_spec("23,747")

@@ -82,7 +82,9 @@ PREVIEW_TIMES = (0.5, 4.0, 7.0, 'last')
 SHEET_TIMES = (0.3, 1.0, 2.0, 3.5, 5.0, 7.0, 9.0, 'last')
 # detail scenes: VDETAIL_FIT plus the chart rows (name/value type, bar thickness, spacing)
 REEL_DETAIL_FIT = dict(VDETAIL_FIT, row=44, rowMin=34, rowMax=54, bar=24, barMin=16, barMax=34, rowGap=34,
-                       barGap=14, unitGap=26, ruleMax=1.8)   # ruleMax: then the rule's margins may grow this much more
+                       barGap=14, unitGap=26, ruleMax=1.8, gapMin=0.6)
+# (ruleMax: once the type is at its largest, the rule's margins may grow this much more; gapMin: a long chart may
+# tighten every gap to this before the scene counts as not fitting)
 
 
 # ---- the stats: what counts up, and how it is written ----------------------------------------------------------------
@@ -131,12 +133,14 @@ def _group(ip: str, how: str) -> str:
 
 
 def count_text(spec: dict, e: float) -> str:
-    """The stat at eased progress e (0..1): the exact original at 1; never below one unit of its last digit (so
-    never "0"); same decimals and grouping as the original. (The page's fmt() does the same in JS.)"""
+    """The stat at eased progress e (0..1): the exact original at 1; on the way, from 1 (or from one unit of its
+    last digit when the stat is under 1), so it never reads "0" or "0.07"; same decimals and grouping as the
+    original. (The page's fmt() does the same in JS.)"""
     if e >= 1:
         return spec['final']
     step = 10 ** -spec['dec']
-    v = min(spec['value'], max(step, spec['value'] * max(0.0, e)))
+    lo = 1.0 if spec['value'] >= 1 else step
+    v = min(spec['value'], lo + (spec['value'] - lo) * max(0.0, e))
     # JS toFixed: the exact binary value, ties rounded up (Python's format would round ties to even)
     s = str(Decimal(v).quantize(Decimal(1).scaleb(-spec['dec']), rounding=ROUND_HALF_UP))
     ip, _, fp = s.partition('.')
@@ -392,7 +396,6 @@ REEL_DETAIL_JS = """
     const extra = Math.max(0, ...(o.texts || []).map(t => ctx.measureText(t).width - base));
     return stat.getBoundingClientRect().width + extra;
   };
-  const over = () => body.scrollHeight > body.clientHeight + 1;
   const wide = () => rows.some(r => { const x = r.querySelector('.rlab'); return x.scrollWidth > x.clientWidth + 1; });
   const extent = () => {
     let top = Infinity, bot = -Infinity;
@@ -406,6 +409,11 @@ REEL_DETAIL_JS = """
     return [top, bot];
   };
   const gaps = () => { const [t, d] = extent(); return [t - o.above, o.below - d]; };
+  const over = () => {           // the block is centred, so it spills upward too, which scrollHeight never counts
+    if (body.scrollHeight > body.clientHeight + 1) return true;
+    const [t, d] = extent(), r = body.getBoundingClientRect();
+    return t < r.top - 0.5 || d > r.bottom + 0.5;
+  };
   set();
   if (stat) while (statW() > o.statMaxW && s > 80) { s -= 4; set(); }
   while (over() || wide()) {
@@ -413,6 +421,7 @@ REEL_DETAIL_JS = """
     else if (rows.length && (c > o.rowMin || h > o.barMin)) { if (c > o.rowMin) c -= 1; if (h > o.barMin) h -= 1; }
     else if (b > o.bulletMin) b -= 1;
     else if (l > o.labelMin) l -= 1;
+    else if (g > o.gapMin) g = Math.round((g - 0.05) * 100) / 100;
     else break;
     set();
   }
@@ -459,8 +468,8 @@ function group(ip, how) {
 }
 function fmt(sp, e) {                  // cardkit.reel.count_text, in JS
   if (e >= 1) return sp.final;
-  const step = Math.pow(10, -sp.dec);
-  const v = Math.min(sp.value, Math.max(step, sp.value * Math.max(0, e)));
+  const lo = sp.value >= 1 ? 1 : Math.pow(10, -sp.dec);
+  const v = Math.min(sp.value, lo + (sp.value - lo) * Math.max(0, e));
   const [ip, fp] = v.toFixed(sp.dec).split('.');
   return sp.pre + group(ip, sp.group) + (fp ? '.' + fp : '') + sp.suf;
 }
