@@ -1,0 +1,46 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-2327-fortuner-legender-hikes",
+  "date": "10 Nov 2026",
+  "sources": [
+    "CarWale",
+    "News24",
+    "Autocar India",
+    "DriveSpark"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Fortuner Legender Up to ₹2.02 Lakh Dearer After 3 Hikes",
+      "photo": "_work/2026-11-10-hourly-2327/idlyautomotive/frame/cover_source.png",
+      "photo_credit": "Image: Toyota Kirloskar Motor",
+      "focal": [
+        0.371,
+        1.0
+      ],
+      "zoom": 1.15
+    },
+    {
+      "type": "detail",
+      "stat": "₹48.77 LAKH",
+      "stat_label": "Top Legender's Ex-Showroom Price From 10 Nov",
+      "bullets": [
+        "That's the 4x4 mild-hybrid automatic (Neo Drive)",
+        "4x2 automatic, cheapest Legender: ₹43.35 lakh, up ₹43,000",
+        "4x4 manual, only manual Legender: ₹45.53 lakh, up ₹45,000"
+      ],
+      "credit_line": "Sources: CarWale, News24"
+    },
+    {
+      "type": "detail",
+      "stat": "3 HIKES",
+      "stat_label": "Top Legender's Price Rises in 2026",
+      "bullets": [
+        "8 Jan: +₹71,000 on ₹46.75 lakh ex-showroom",
+        "6 May: +₹83,000, the biggest of the three",
+        "10 Nov: +₹48,000, with no feature changes announced"
+      ],
+      "credit_line": "Sources: Autocar India, DriveSpark, CarWale, News24"
+    }
+  ]
+}

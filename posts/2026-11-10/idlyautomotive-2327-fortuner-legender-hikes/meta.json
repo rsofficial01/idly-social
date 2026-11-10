@@ -1,0 +1,37 @@
+{
+ "account": "idlyautomotive",
+ "title": "Toyota Fortuner Legender's third price hike of 2026 (10 Nov): up to ₹48,000; ex-showroom now ₹43.35 lakh (4x2 AT), ₹45.53 lakh (4x4 MT), ₹48.77 lakh (4x4 mild-hybrid AT, Neo Drive); after the 8 Jan (+₹71,000) and 6 May (+₹83,000) hikes, the top variant is ₹2.02 lakh dearer than its 2025 price of ₹46.75 lakh",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.carwale.com/news/toyota-fortuner-legender-prices-increased-by-up-to-rs-48000/",
+  "https://news24online.com/auto/toyota-fortuner-legender-gets-costlier-prices-hiked-by-up-to-rs-48000/952326",
+  "https://www.newsbytesapp.com/news/auto/toyota-hikes-fortuner-legender-prices-in-india-to-rs4335l-rs4877l/tldr",
+  "https://www.autocarindia.com/car-news-amp/toyota-hikes-fortuner-prices-by-up-to-rs-87000-439644",
+  "https://www.drivespark.com/four-wheelers/2026/toyota-fortuner-prices-hike-by-up-to-87000-rupees-084653.html",
+  "https://www.autocarindia.com/car-news-amp/toyota-fortuner-innova-crysta-hycross-prices-hiked-by-up-to-rs-74000-in-january-438763",
+  "https://www.carwale.com/news/toyota-fortuner-prices-increased-leader-edition-discontinued/",
+  "https://www.toyotabharat.com/news/2025/tkm-launches-fortuner-and-legender-neo-drive-48v-variants.html"
+ ],
+ "photo_source": {
+  "page": "https://www.toyotabharat.com/showroom/fortuner/index-legender.html",
+  "file": "https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-brochure-mobile.pdf (page 3, embedded JPEG 2492x2015)",
+  "licence": "Official Toyota Kirloskar Motor product image from its own Legender brochure (PDF linked from the Legender model page on toyotabharat.com; created 26 Oct 2026), credited",
+  "author": "Toyota Kirloskar Motor",
+  "credit": "Image: Toyota Kirloskar Motor",
+  "subject": "India-spec Toyota Fortuner Legender, pearl white with black roof, front three-quarter on a waterfront at sunset, with the LEGENDER badge plate; no people, no overlay text, no watermark, no number plate",
+  "viewed": true,
+  "processing": "Embedded JPEG extracted unaltered with pdfimages -j (2492x2015, sha1 998527d2032abc29b6d204b150ecdd3bf4f235fa; PDF sha1 1eb7c7153d7ae9c69c489fed10db0cfc97ced340); pipeline.framing ok (0 faces, 0.67x, no enlargement) -> frame/cover_source.png; cardkit hype cover focal (0.371, 1.0), zoom 1.15: crop 1402x1752 from (224,263), 0.77x downscale; car whole at x~65-1010, y~470-905 of 1080x1350, tyres ~58 px above the headline; no other edits"
+ },
+ "tags": [
+  "toyota.india"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer). Fixes applied: headline 'Fortuner Legender Up to ₹2.02 Lakh Dearer After 3 Hikes' (never 'than in January'); ex-showroom on every price slide and in the caption; slide 3 lists the hike steps; no buy-now framing; tyres >=30 px clear of the headline; credit 'Image: Toyota Kirloskar Motor'; tag toyota.india; standard Fortuner/GR-S left out. C2 F1 Gulf finale DROP (sport); C3 E20 row DROP (contested claim, stand-in image).",
+  "g2": "FIX then applied (blind reviewer): slide 3 bullet 3 -> '10 Nov: +₹48,000, with no feature changes announced'; caption sentence -> 'Toyota has not announced any feature changes with this hike.' (News24 reports no announcement, not an announcement of no changes). All facts otherwise checked against CarWale, News24, Autocar India, DriveSpark.",
+  "g3": "PASS (blind reviewer): Toyota Kirloskar Motor's own brochure photo (maker product image, same basis as the XUV 3XO brochure image), 2492x2015, no people/text/watermark/plate; focal (0.371, 1.0) zoom 1.15 downscale 0.77x; car whole, logo on sky, tyres ~58 px above the headline; tag toyota.india confirmed via toyotabharat.com footer.",
+  "g4": "PASS (blind reviewer): final 3 slides clean."
+ }
+}
