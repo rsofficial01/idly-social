@@ -1,0 +1,30 @@
+{
+  "slug": "review-roundup-10nov",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": true,
+  "headline": "review_roundup",
+  "caption": "7 Diwali releases, ranked by critics: the Indian films in theatres from 30 Oct to 9 Nov that drew at least four ratings from established outlets, ranked by the average of 68 published critic ratings. Only two clear 6/10.\n\n1. Ramayana: Part 1 7.1 (21 ratings): Big-screen spectacle; expect more awe than emotion.\n2. Scene 6.8 (13 ratings): Dark-comedy fans; Suriya sends up his own image.\n3. Summer Holidays 5.3 (4 ratings): Families with children; gentle and simple.\n4. Aadarsha Kutumbam 5.2 (9 ratings): Venkatesh fans; the first half is the draw.\n5. Nakhrewaalii 4.6 (7 ratings): An undemanding rom-com, if you like the leads.\n6. #Cult 4.1 (5 ratings): Slasher fans with a strong stomach only.\n7. Mookuthi Amman 2 3.3 (9 ratings): Only for committed Nayanthara fans, critics suggest.\n\nScore: for each film, its ratings converted to /10; the mean is rounded half-up to one decimal. A film needs at least 4 ratings, published on or after release. Smaller releases with fewer ratings are not ranked. idly has not watched these films; this post consolidates published reviews.\n\nRamayana: Part 1 edges Scene by 0.3: which would you book first?\n\nSources: Reviews consolidated from 123Telugu, ABP Live, Bollywood Hungama, Cinema Express, DNA India, DT Next, Deccan Chronicle, Filmfare, Firstpost, Great Andhra, Gulte, Hindustan Times, India TV, India Today, Indian Express, Koimoi, NDTV, New Indian Express, News18, Outlook, Pinkvilla, Rediff, Telugu360, The National, The Quint, The Week, Times Now, Times of India and Tribune India. Ratings read on the outlets' pages and in the thereviewmonk and Rotten Tomatoes critics lists.\n\n#Diwali2026 #MovieReview #IndianCinema #idlynerd\n\nImage: idly design (type and a chart of the ratings; no photo used).",
+  "caption_final": "7 Diwali releases, ranked by critics: the Indian films in theatres from 30 Oct to 9 Nov that drew at least four ratings from established outlets, ranked by the average of 68 published critic ratings. Only two clear 6/10.\n\n1. Ramayana: Part 1 7.1 (21 ratings): Big-screen spectacle; expect more awe than emotion.\n2. Scene 6.8 (13 ratings): Dark-comedy fans; Suriya sends up his own image.\n3. Summer Holidays 5.3 (4 ratings): Families with children; gentle and simple.\n4. Aadarsha Kutumbam 5.2 (9 ratings): Venkatesh fans; the first half is the draw.\n5. Nakhrewaalii 4.6 (7 ratings): An undemanding rom-com, if you like the leads.\n6. #Cult 4.1 (5 ratings): Slasher fans with a strong stomach only.\n7. Mookuthi Amman 2 3.3 (9 ratings): Only for committed Nayanthara fans, critics suggest.\n\nScore: for each film, its ratings converted to /10; the mean is rounded half-up to one decimal. A film needs at least 4 ratings, published on or after release. Smaller releases with fewer ratings are not ranked. idly has not watched these films; this post consolidates published reviews.\n\nRamayana: Part 1 edges Scene by 0.3: which would you book first?\n\nSources: Reviews consolidated from 123Telugu, ABP Live, Bollywood Hungama, Cinema Express, DNA India, DT Next, Deccan Chronicle, Filmfare, Firstpost, Great Andhra, Gulte, Hindustan Times, India TV, India Today, Indian Express, Koimoi, NDTV, New Indian Express, News18, Outlook, Pinkvilla, Rediff, Telugu360, The National, The Quint, The Week, Times Now, Times of India and Tribune India. Ratings read on the outlets' pages and in the thereviewmonk and Rotten Tomatoes critics lists.\n\n#Diwali2026 #MovieReview #IndianCinema #idlynerd\n\nImage: idly design (type and a chart of the ratings; no photo used).",
+  "alt_text": "Three slides, type only. 1: \"7 Diwali Releases, Ranked by Critics\", scores from 7.1 to 3.3 out of 10, a strip of one dot per film, and the line \"Two clear 6/10. Five don't.\" 2: the ranking: 1. Ramayana: Part 1 7.1 from 21 ratings; 2. Scene 6.8 from 13 ratings; 3. Summer Holidays 5.3 from 4 ratings; 4. Aadarsha Kutumbam 5.2 from 9 ratings; 5. Nakhrewaalii 4.6 from 7 ratings; 6. #Cult 4.1 from 5 ratings; 7. Mookuthi Amman 2 3.3 from 9 ratings. 3: who should watch what: Ramayana: Part 1: Big-screen spectacle; expect more awe than emotion.; Scene: Dark-comedy fans; Suriya sends up his own image.; Summer Holidays: Families with children; gentle and simple.; Aadarsha Kutumbam: Venkatesh fans; the first half is the draw.; Nakhrewaalii: An undemanding rom-com, if you like the leads.; #Cult: Slasher fans with a strong stomach only.; Mookuthi Amman 2: Only for committed Nayanthara fans, critics suggest. idly did not watch the films.",
+  "image_credit": "Image: idly design (type and a chart of the ratings; no photo used).",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 1,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "Self 13/14. hook 2: retitled to a true claim ('7 Diwali Releases, Ranked by Critics'); range 7.1 to 3.3 and 'Two clear 6/10. Five don't.' on a clean type-only cover with a dot strip of the 7 scores. read 2: cover, ranking, who-should-watch. send 2: one card answers 'what do we see this weekend' across Hindi, Tamil and Telugu. keep 2: a reference list for the season. reply 1: one specific question (Ramayana vs Scene), but a pick-one prompt draws short answers. original 2: 62 ratings consolidated under one stated method. alone 2: method, rounding and 'idly did not watch' on the cards and in the caption. Pyre dropped (Indian Express date unconfirmed)."
+    }
+  },
+  "created_at": "2026-11-10T04:26:21+00:00",
+  "lane": {
+    "source": "prebuilt",
+    "folder": "posts/2026-11-10/review_roundup"
+  }
+}

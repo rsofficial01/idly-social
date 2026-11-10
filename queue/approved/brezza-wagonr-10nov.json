@@ -1,0 +1,17 @@
+{
+  "slug": "brezza-wagonr-10nov",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "Blind reviewer, 10 Nov: HOLD reason: Only blocker is the 'Tell us below' comment prompt. Score is 12/14, so it would PASS once that's deleted.\nhook 2: 'Brezza jumped 86% but WagonR still won' is a surprising number with built-in tension.\nread 2: Slide 2 is tight and every figure earns its place.\nsend 1: A sales chart is mostly enthusiast fare. A friend choosing between Brezza and Nexon is the only clear recipient.\nkeep 1: Sales figures are data, but not the price, spec or deadline kind people save.\nreply 2: 'Which car is on your shortlist right now?' is genuine, if generic.\noriginal 2: Official Maruti press image cre Only blocker was 'Tell us below.', since removed."
+  },
+  "reviewed_at": "2026-11-10T04:26:22+00:00",
+  "reviewed_by": "blind reviewer (Claude), 10 Nov",
+  "notes": ""
+}
