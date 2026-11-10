@@ -1,0 +1,17 @@
+Apple has released iOS 27.2.1, and its security notes describe two flaws in iMessage group chats. One could let a remote attacker join an iMessage group chat and receive its messages. The other could let someone added to a group read messages sent before they joined.
+
+The update, out on 9 November, also fixes Bluetooth bugs, including one where a malicious Bluetooth device may be able to pair with an iPhone without user interaction. Apple has not said any of the flaws were exploited.
+
+Which update to install:
+iPhone 11 and later: iOS 27.2.1
+Still on iOS 26: iOS 26.7.3
+iPhone XS, XS Max and XR: iOS 18.7.12 (Bluetooth and AirPlay fixes)
+It is under Settings > General > Software Update. Macs get the same Messages fixes in macOS Golden Gate 27.2.1.
+
+Do you install iPhone updates the day they arrive, or wait a few days?
+
+Sources: Apple, MacRumors, 9to5Mac, Digit
+
+#iOS #iPhone #iMessage #CyberSecurity #idlytech
+
+Image: Apple

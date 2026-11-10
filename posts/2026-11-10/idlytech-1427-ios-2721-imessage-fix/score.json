@@ -1,0 +1,62 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Tie (self 13, reviewer 13): reviewer's checks used. send 1: a routine Apple patch that Apple has not said was exploited, and Indian family and office groups mostly run on WhatsApp, not iMessage, so the forward is limited to iPhone-heavy groups. Strong: a clear conditional stake on the cover over Apple's own iOS 27 iMessage group-chat image, attributed copy matching Apple's 'may be able to', the per-model update table plus the Settings path to keep, a genuine update-habit question, and slides that each name iMessage, Apple and the iPhone models.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: a clear stake for iPhone users, but iMessage is a minority messenger in India and this is a point update, so it won't stop every scroll. send 2: the family/office 'update your iPhone' forward; keep 2: version per model + Settings path; reply 2: genuine habit question; original 2: own synthesis, Apple press image credited, scale-only; alone 2: cover names the stake, slide 3 the versions."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "send 1: a real but routine Apple patch that Apple has not said was exploited, and Indian family and office groups mostly run on WhatsApp, not iMessage. The forward is limited to iPhone-heavy groups rather than a specific person who must see it. Everything else is strong: a clear stake on the cover with Apple's own iMessage group-chat image, tight attributed copy, the per-model update table plus Settings path to keep, a genuine update-habit question, idly's own synthesis and design with the Apple credit, and slides that each name iMessage, Apple and the iPhone models."
+ },
+ "scored_as": "lower of the two totals; tie (self 13, reviewer 13), so the reviewer's checks are recorded",
+ "story_id": null,
+ "idly_article": false,
+ "photo_source": {
+  "page": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+  "image_url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iOS-27-Messages-suggestions-260608.zip",
+  "file": "Apple-iOS-27-Messages-suggestions-260608.jpg (3840x2743)",
+  "licence": "Official Apple Newsroom press image (editorial, non-commercial use per the zip LEGAL_NOTICE; not altered)",
+  "author": "Apple",
+  "viewed": true,
+  "processing": "Scale only: the whole image downscaled 0.2812 to 1080x771 and placed full width at y176-947 on a #0E0E10 1080x1350 canvas; no crop, no fill, no recolour. Rendered with cardkit hype (focal 0.5/0.5, zoom 1.0, photo scale 1.00). YuNet: 0 faces on source and final cover; monogram avatars only. Script: _work/2026-11-10-hourly-1427/idlytech/scripts/compose_cover.py"
+ },
+ "sources": [
+  "https://support.apple.com/en-us/149715",
+  "https://support.apple.com/en-us/149716",
+  "https://support.apple.com/en-us/149717",
+  "https://support.apple.com/en-us/149718",
+  "https://support.apple.com/en-us/100100",
+  "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+  "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+  "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
+  "https://www.digit.in/news/general/apple-releases-ios-27-2-1-update-with-important-security-fixes-for-imessage-bluetooth-and-airplay.html"
+ ],
+ "gates": {
+  "g1": "BUILD A (iOS 27.2.1 iMessage fixes), ceiling 14, with FIXes: iPhone 18 Pro hardware shots ruled a stand-in (need an Apple iOS 27 screen, no people); conditional headline; specific labels; 18.7.12 only as Apple lists it; exploitation stated as fact, no 'urgent'; Mac/eMudhra slide optional. B Chrome 157 zero-day dropped (no proper image); C Google TPU dropped (7).",
+  "g2": "FIX then applied: cover 'a Flaw' -> 'Flaws'; caption 'may have let' -> 'could let' (x2); alt slide 1 updated. All facts verified against Apple 149715-149718 and MacRumors; Title Case, one '?', Sources line, no bait; post_problems clean.",
+  "g3": "FIX then applied (g3b): own crop + matched fill dropped (alters Apple's image in part; 235 px empty band); replaced by Apple's own tight crop Apple-iOS-27-Messages-suggestions-260608.jpg, scale only to 1080x771 at y176-947. Subject (iOS 27 iMessage group chat, monogram avatars, no faces) confirmed.",
+  "g4": "PASS 13/14 (reviewer: hook 2, read 2, send 1, keep 2, reply 2, original 2, alone 2). Layout clean: logo on black, subject clear of the headline (from y992), no overflow or credit collisions; 18.7.12 hair-space kerning fix accepted."
+ }
+}

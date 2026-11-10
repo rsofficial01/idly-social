@@ -1,0 +1,14 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/01.jpg",
+  "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/02.jpg",
+  "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/03.jpg"
+ ],
+ "alt_text_file": "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/alt.txt",
+ "caption_file": "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/caption.txt",
+ "score_file": "posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/score.json",
+ "title": "Apple's iOS 27.2.1 fixes iMessage group-chat flaws that could let outsiders join and read chats"
+}
