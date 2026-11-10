@@ -1,0 +1,71 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "The Rings of Power Season 3: episodes 1-4 on Prime Video on 11 Nov, in six audio languages in India",
+  "headline": "Rings of Power S3 Streams 11 Nov in Six Languages",
+  "caption": "The Lord of the Rings: The Rings of Power returns for Season 3 on Prime Video on Wednesday, 11 November, with the first four episodes. Episodes 5 and 6 follow on 18 November and the final two on 25 November, eight in all.\n\nPrime Video India says the season streams in six audio languages: English, Hindi, Tamil, Telugu, Malayalam and Kannada. All 16 episodes of the first two seasons are on Prime Video now.\n\nPrime Video says Season 3 is set several years after Season 2 and shows Sauron forging the One Ring. Simon Pegg voices the Balrog, and Jamie Campbell Bower joins as Celeborn.\n\nWhich language will you watch Season 3 in?\n\nSources: Amazon, Prime Video India, Collider\n\n#TheRingsOfPower #RingsOfPower #LOTR #PrimeVideo #idlynerd",
+  "alt_text": "Slide 1: a still from Prime Video's official Season 3 trailer for The Lord of the Rings: The Rings of Power, under the headline \"Rings of Power S3 Streams 11 Nov in Six Languages\". Slide 2: \"11 NOV\", Episodes 1–4 Land on Prime Video: episodes 5 and 6 follow on 18 Nov; the final two arrive on 25 Nov; eight episodes in all, in 240+ countries. Slide 3: \"6\", Audio Languages on Prime Video India: English, Hindi, Tamil, Telugu, Malayalam and Kannada; all 16 earlier episodes are streaming now. Slide 4: \"S3\", What Prime Video Says Season 3 Brings: Sauron forging the One Ring; Simon Pegg as the voice of the Balrog; Jamie Campbell Bower joins the cast as Celeborn.",
+  "sources": [
+    "Amazon",
+    "Prime Video India",
+    "Collider"
+  ],
+  "detail_slides": [
+    {
+      "stat": "11 NOV",
+      "stat_label": "Episodes 1–4 Land on Prime Video",
+      "bullets": [
+        "Episodes 5 and 6 follow on 18 Nov",
+        "The final two arrive on 25 Nov",
+        "Eight episodes in all, in 240+ countries"
+      ]
+    },
+    {
+      "stat": "6",
+      "stat_label": "Audio Languages on Prime Video India",
+      "bullets": [
+        "English, Hindi, Tamil, Telugu, Malayalam and Kannada",
+        "All 16 earlier episodes are streaming now"
+      ]
+    },
+    {
+      "stat": "S3",
+      "stat_label": "What Prime Video Says Season 3 Brings",
+      "bullets": [
+        "Sauron forging the One Ring",
+        "Simon Pegg as the voice of the Balrog",
+        "Jamie Campbell Bower joins the cast as Celeborn"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=Mn08a-hNXe0"
+      },
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-rings-of-power-season-3-prime-video"
+      }
+    ]
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 1,
+      "total": 13,
+      "notes": "alone 1: cover names date and six languages but the platform only via the vertical credit (hype cover has no tag pill); slide 2 names Prime Video. send 2: six Indian audio languages is a concrete reason to forward to a Tamil/Telugu/Hindi-watching friend. hook 2: date + India angle. keep 2: 11/18/25 Nov + languages. reply 2: language question from readers' own viewing."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 1427. No idly.news article: Sources line, no idly link. Cover chain per Gate 1 reviewer: Prime Video global S3 official trailer maP_Kyy3DCA (embedded on Amazon's own S3 newsroom page), then Prime Video India multi-audio trailer Mn08a-hNXe0 (thumbnail has a large burned-in title block), then aboutamazon.com S3 page og:image (1200x600 key art). Gate 4 HOLD triggers: burned-in title text touching or competing with the idly headline; headline on a face; a date other than 11 Nov baked in; black or title-only frame.",
+  "created_at": "2026-11-10T15:00:24+05:30"
+}
