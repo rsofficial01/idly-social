@@ -134,6 +134,10 @@ CREDIT_LINE = re.compile(r"^((Photos?|Images?)\s*:\s*\S|(AP|ANI|PTI|IANS) Photo\
 ALLEGATION_WORDS = r"\b(accused|charged|arrested|fraud|scam|bribe\w*|murder\w*|rape\w*|assault\w*|harass\w*|molest\w*|corrupt\w*|launder\w*|cheat\w*|theft|stole)\b"
 
 
+# Rahul's rule (10 Nov 2026): images first. A cover credited to idly's own graphic/design means a text-only cover.
+NO_PHOTO_CREDIT = re.compile(r"\bidly\s+(graphic|design|card)s?\b|\bno photo\b|\btype only\b", re.I)
+
+
 def with_credit(caption: str, credit: str) -> str:
     """The caption with any trailing credit line(s) replaced by `credit`, as its last line."""
     lines = (caption or "").rstrip().splitlines()
@@ -159,6 +163,9 @@ def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[s
         errs.append("missing a 'Photo: …' credit line")
     elif not CREDIT_LINE.match(lines[-1]):
         errs.append("the caption must end with the credit line ('Photo: …', 'Image: …' or the agency's credit)")
+    elif NO_PHOTO_CREDIT.search(lines[-1]):
+        errs.append("images first: the cover must be a real photo (official, licensed agency, or Commons/Unsplash), "
+                    "never a text-only or idly graphic/design cover")
     if re.search(r"\bfrom \d+ reports?\b", text, re.I):
         errs.append("never use the 'From N reports' line")
     tags = re.findall(r"(?<!\w)#\w+", text)

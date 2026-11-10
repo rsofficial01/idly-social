@@ -304,8 +304,8 @@ HYPE_HEAD_W = W - HYPE_SIDE - 72   # headline column; leaves room for the credit
 HYPE_FIT = dict(max=100, min=72, step=2, lines=3)
 HYPE_LOGO_H = 60
 DETAIL_SIDE = 72
-DETAIL_FIT = dict(stat=280, statMin=150, statMaxW=W - 2 * DETAIL_SIDE, label=38, labelMin=30,
-                  bullet=41, bulletMin=32)
+DETAIL_FIT = dict(stat=320, statMin=150, statMaxW=W - 2 * DETAIL_SIDE, label=54, labelMin=38,
+                  bullet=44, bulletMin=32)
 UPSCALE_WARN = 1.0            # warn when a cover crop is narrower than 1080px
 
 
@@ -371,16 +371,16 @@ html,body{width:%(W)dpx;height:%(H)dpx;background:%(bg)s}
       text-shadow:0 2px 28px rgba(0,0,0,.22)}
 
 /* detail */
-.d .body{position:absolute;left:%(dside)dpx;right:%(dside)dpx;top:110px;bottom:190px;
+.d .body{position:absolute;left:calc(%(dside)dpx - 40px);padding-left:40px;right:%(dside)dpx;top:110px;bottom:190px;
          display:flex;flex-direction:column;justify-content:center;overflow:hidden}
-.d .stat{align-self:flex-start;font-family:Playfair;font-style:italic;font-weight:900;line-height:.95;
-         letter-spacing:-.02em;padding-right:28px;color:%(ember)s;white-space:nowrap}
-.d .slabel{font:600 38px/1.22 Inter;color:rgba(255,255,255,.78);margin-top:22px;max-width:936px;text-wrap:balance}
-.d .rule{height:3px;width:96px;background:rgba(255,255,255,.85);margin:40px 0 36px;flex:none}
-.d ul{list-style:none}
-.d li{font:500 41px/1.26 Inter;padding-left:40px;position:relative;margin-bottom:22px;max-width:936px;text-wrap:pretty}
+.d .stat{align-self:flex-start;font-family:Playfair;font-style:italic;font-weight:900;line-height:1.0;
+         letter-spacing:-.02em;padding:0 28px .05em 0;color:%(ember)s;white-space:nowrap}
+.d .slabel{font:800 54px/1.1 Inter;letter-spacing:-.02em;color:#fff;margin-top:30px;max-width:936px;text-wrap:balance}
+.d .rule{height:3px;width:96px;background:rgba(255,255,255,.85);margin:44px 0 40px;flex:none}
+.d ul{list-style:none;padding:0;margin:0}
+.d li{font:500 44px/1.28 Inter;padding-left:0;position:relative;margin-bottom:24px;max-width:936px;text-wrap:pretty}
 .d li:last-child{margin-bottom:0}
-.d li:before{content:'';position:absolute;left:0;top:.45em;width:15px;height:15px;background:%(ember)s;border-radius:2px}
+.d li:before{content:'';position:absolute;left:-34px;top:.5em;width:14px;height:14px;background:%(ember)s;border-radius:2px}
 .d .foot{position:absolute;left:%(dside)dpx;right:%(dside)dpx;bottom:56px}
 .d .foot .line{height:2px;background:rgba(255,255,255,.18);margin-bottom:24px}
 .d .foot .row{display:flex;align-items:center}
@@ -431,6 +431,12 @@ HYPE_DETAIL_JS = """
     else if (l > o.labelMin) l -= 1;
     else break;
     set();
+  }
+  if (stat) {   // optical left edge: the italic numerals' ink starts right of the text column; pull it back
+    const cs = getComputedStyle(stat), c = document.createElement('canvas').getContext('2d');
+    c.font = `${cs.fontStyle} ${cs.fontWeight} ${cs.fontSize} ${cs.fontFamily}`;
+    const ink = c.measureText(stat.textContent.trim()).actualBoundingBoxLeft;   // < 0: ink starts to the right
+    stat.style.marginLeft = Math.max(-40, Math.min(20, ink)) + 'px';
   }
   return {stat: stat ? s : 0, label: l, bullet: b, overflow: over()};
 }
@@ -546,14 +552,20 @@ def credit_line_text(post: dict, slide: dict) -> str:
     return src if src.lower().startswith(('source', 'photo', 'image')) else f'Sources: {src}'
 
 
+def _keep_compounds(text: str) -> str:
+    """Escaped text where hyphen/dash compounds ('Two-Wheeler', '0–100') never break across lines."""
+    import re as _re
+    return _re.sub(r"(\S+[-–]\S+)", r"<span style='white-space:nowrap'>\1</span>", _esc(text))
+
+
 def hype_detail_html(post: dict, slide: dict) -> str:
     """HTML for a near-black detail slide (stat, label, bullets, credit/source line, footer)."""
     css = _hype_css()
     logo = os.path.join(LOGOS, f"{LOGO_FILE[post['acct']]}_white.png")
     stat = (f"<div class='stat' id='stat'>{_esc(slide['stat'])}</div>" if (slide.get('stat') or '').strip() else '')
-    label = f"<div class='slabel'>{_esc(slide['stat_label'])}</div>" if slide.get('stat_label') else ''
+    label = f"<div class='slabel'>{_keep_compounds(slide['stat_label'])}</div>" if slide.get('stat_label') else ''
     rule = "<div class='rule'></div>" if (stat or label) and slide.get('bullets') else ''
-    bullets = ''.join(f'<li>{_esc(b)}</li>' for b in slide.get('bullets', []))
+    bullets = ''.join(f'<li>{_keep_compounds(b)}</li>' for b in slide.get('bullets', []))
     src = credit_line_text(post, slide)
     srcline = f"<div class='srcline'>{_esc(src)}</div>" if src else ''
     return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
@@ -576,6 +588,8 @@ def _check_hype(p: dict) -> None:
     slides = _hype_slides(p)
     if not 1 <= len(slides) <= 10:
         raise ValueError(f"post {p['slug']}: needs 1-10 slides")
+    if slides[0].get('type', 'cover') != 'cover':
+        raise ValueError(f"post {p['slug']}: images first: slide 1 must be a photo cover, never a detail/text slide")
     for i, s in enumerate(slides, 1):
         kind = s.get('type', 'cover')
         if kind == 'cover':

@@ -43,6 +43,7 @@ from pipeline.common import (REPO, REPORTS_DIR, load_json, load_posted, log, now
                              parse_time, posted_story_ids, public_url, save_json, token_env)
 
 QUEUE = Path(os.environ.get("IDLY_QUEUE_DIR") or REPO / "queue")
+MIN_GAP = timedelta(minutes=30)      # never two posts on one account within 30 minutes
 REPORTS = REPORTS_DIR
 SCHEMA_FILE = REPO / "config" / "spec.schema.json"
 STAGES = ("pending", "rendered", "approved", "rejected", "posted")
@@ -160,6 +161,13 @@ def validate_spec(spec, slug: str) -> list[str]:
     except ValueError:
         errs.append(f"created_at is not a date-time: {spec['created_at']!r}")
     errs += publish.collaborator_problems(spec.get("collaborators"), spec["account"])
+    extra = spec.get("append_slides") or []
+    if 1 + len(spec.get("detail_slides") or []) + len(extra) > 10:
+        errs.append("a carousel holds at most 10 slides (cover + detail_slides + append_slides)")
+    for rel in extra:
+        f = (REPO / rel).resolve()
+        if not str(f).startswith(str((REPO / "posts").resolve()) + "/") or not f.is_file():
+            errs.append(f"append_slides: {rel} is not a file under posts/")
     return errs
 
 
@@ -287,6 +295,7 @@ def render_one(path: Path) -> tuple[str, str]:
                     problems.append(f"cover upscaled {r['scale']:.2f}x (max {framing.MAX_UPSCALE}x)")
             if len(jpgs) != len(post["slides"]):
                 problems.append(f"rendered {len(jpgs)} files for {len(post['slides'])} slides")
+            jpgs += [REPO / rel for rel in spec.get("append_slides") or []]   # prebuilt slides after the cover
             for jpg in jpgs:
                 try:
                     publish.check_jpeg(jpg)
@@ -513,6 +522,10 @@ def publish_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> t
         raise LaneReject(f"story #{spec['story_id']} is already posted on @{account}", "publish")
     if account in busy:
         return "waiting", f"@{account} already posted in this run; next run"
+    last = max((parse_time(p["posted_at"]) for p in load_posted()
+                if p.get("account") == account and p.get("posted_at")), default=None)
+    if last is not None and now_utc() - last < MIN_GAP:
+        return "waiting", f"@{account} posted {int((now_utc() - last).total_seconds() // 60)} min ago (min gap {MIN_GAP})"
     if not dry_run and not publish.account_token(account) and not allow_shared:
         report_line(f"skipped · @{account} {slug} · the {token_env(account)} secret is not set "
                     f"(docs/SETUP-GITHUB-SECRETS.md); it posts once it is, if still fresh")

@@ -131,3 +131,13 @@ class ScoreGate(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_images_first_rejects_text_only_cover_credit():
+    base = ("Headline line.\n\nOne genuine question here?\n\nSources: A, B.\n\n#a #b #c #d\n\n")
+    for credit in ("Image: idly graphic (data: BikeAdvice, Rushlane)",
+                   "Image: idly design (type and a chart of the ratings; no photo used)."):
+        errs, _ = editorial.caption_problems(base + credit, idly_article=False)
+        assert any("images first" in e for e in errs), credit
+    errs, _ = editorial.caption_problems(base + "Photo: Ultraviolette", idly_article=False)
+    assert not any("images first" in e for e in errs)
