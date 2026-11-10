@@ -1085,5 +1085,21 @@
     "tagged": [
       "puma"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18250023274309875",
+    "permalink": "https://www.instagram.com/p/DfkltCiF4Bb/",
+    "posted_at": "2026-11-10T18:50:12+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2327-cpcb-aqi-apps/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2327-cpcb-aqi-apps/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2327-cpcb-aqi-apps/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2327-cpcb-aqi-apps/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
