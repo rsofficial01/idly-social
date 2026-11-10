@@ -1,0 +1,28 @@
+{
+ "account": "idlytech",
+ "title": "Dyson's Hot+Cool HF1 fan heater (₹38,900) and Cool tower fan (₹27,900) launch in India",
+ "story_id": null,
+ "idly_article": false,
+ "sources": [
+  "https://www.fonearena.com/blog/496727/dyson-hot-plus-cool-hf1-cool-tower-fan-price-india-features.html",
+  "https://www.digit.in/news/home-appliances/dyson-hot-cool-hf1-fan-heater-and-cool-tower-fan-launched-in-india-price-and-specifications.html",
+  "https://www.dyson.in/hot-cool-hf1-remote-link-pre-heat-heater-cooling-fan"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Dyson_Hot+Cool_HF1_Remote_Link_Pre-heat_1.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Dyson_Hot%2BCool_HF1_Remote_Link_Pre-heat_1.jpg",
+  "licence": "CC0 1.0",
+  "author": "Air fans",
+  "credit": "Photo: Air fans / Wikimedia Commons, CC0",
+  "subject": "The actual Dyson Hot+Cool HF1 Remote Link Pre-heat (white/silver), the model sold in India; photographed 7 Sep 2026 (iPhone 13), own work",
+  "viewed": true,
+  "processing": "Commons 1920px rendition (1920x2560) of the 3024x4032 original (originals returned HTTP 429). pipeline.framing: ok, 0 faces. Full-bleed cardkit hype cover, focal (0.62, 0.40), zoom 1.30: crop x 443-1920, y 0-1969 downscaled 0.731 to 1080x1350; no upscale, no fill, no blur, no letterbox, no recolour. Zoom raised from 1.12 at Gate 4 so book-spine text and the fan's wordmark clear the headline. Scrim 0.66."
+ },
+ "tags": [],
+ "gates": {
+  "g1": "PASS: build Dyson HF1 ₹38,900 / Cool tower ₹27,900 (Meta Muse India price and OpenAI x ModRetro dropped, ceilings 9-10). Fixes: attribute Dyson's 1°C/100 s and 25%-quieter claims; no 'on sale from today'; news, not advertorial; reader-life question. No idly article (#1810 says no prices given, now outdated).",
+  "g2": "PASS, no changes. post_problems and card_problems clean.",
+  "g3": "PASS: CC0 Commons, 0 faces, 0.63x downscale, logo clear of the loop.",
+  "g4": "Render at zoom 1.12 showed the fan wordmark between 'India' and 'at' and faint book spines; re-framed to zoom 1.30 / focal (0.62, 0.40). PASS 13/14 (send 1). Optional alt fix applied (dropped 'on a dresser'). No story (Stories paused, config/formats.json)."
+ }
+}
