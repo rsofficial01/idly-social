@@ -1,0 +1,11 @@
+{
+  "slug": "tue-idlynerd-ramayana-100-crore-monday-v3",
+  "stage": "framing",
+  "reasons": [
+    "framing (og_image_official https://www.dneg.com/news/witness-the-world-of-ramayana): cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)",
+    "framing (og_image_official https://www.dneg.com/news/witness-the-world-of-ramayana): letterbox: a face is cut off by the edge of the source image",
+    "framing (og_image_official https://www.redefine.co/news/discover-the-world-of-ramayana): cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)",
+    "framing (og_image_official https://www.redefine.co/news/discover-the-world-of-ramayana): letterbox: a face is cut off by the edge of the source image"
+  ],
+  "rejected_at": "2026-11-10T06:39:44+00:00"
+}
