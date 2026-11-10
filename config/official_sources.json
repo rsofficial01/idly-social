@@ -27,6 +27,12 @@
       "verified": "2026-11-10: verified badge, 39.1M subscribers; oEmbed confirmed"
     },
     {
+      "name": "Prime Video",
+      "author_url": "https://www.youtube.com/@PrimeVideo",
+      "channel_id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+      "verified": "2026-11-10 (idlynerd desk, run 1228): Prime Video's global channel. Channel page: verified badge, 9.9M subscribers, description 'The official YouTube page for Prime Video US.', header link to amazon.com/Video. Amazon's own newsroom page aboutamazon.com/news/entertainment/blade-runner-2099-prime-video (updated 9 Nov 2026) embeds this channel's 1d4x_eSdqNc. oEmbed author_url confirmed on 1d4x_eSdqNc and AwK5KxoJsvk."
+    },
+    {
       "name": "JioHotstar",
       "author_url": "https://www.youtube.com/@JioHotstar",
       "channel_id": "UC0PTktRYpZXb6On0_zFKWIg",
@@ -187,6 +193,11 @@
     {
       "domain": "aboutamazon.in",
       "organisation": "Amazon India"
+    },
+    {
+      "domain": "aboutamazon.com",
+      "organisation": "Amazon",
+      "verified": "2026-11-10 (idlynerd desk, run 1228): Amazon's corporate newsroom ('About Amazon'); Amazon's press centre press.aboutamazon.com links to www.aboutamazon.com, and the already allowlisted aboutamazon.in serves its images from the same assets.aboutamazon.com host. Not a news outlet."
     },
     {
       "domain": "marutisuzuki.com",
