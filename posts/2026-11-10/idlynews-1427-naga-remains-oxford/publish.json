@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlynews-1427-naga-remains-oxford/01.jpg",
+  "posts/2026-11-10/idlynews-1427-naga-remains-oxford/02.jpg",
+  "posts/2026-11-10/idlynews-1427-naga-remains-oxford/03.jpg",
+  "posts/2026-11-10/idlynews-1427-naga-remains-oxford/04.jpg"
+ ],
+ "alt_text_file": "posts/2026-11-10/idlynews-1427-naga-remains-oxford/alt.txt",
+ "caption_file": "posts/2026-11-10/idlynews-1427-naga-remains-oxford/caption.txt",
+ "score_file": "posts/2026-11-10/idlynews-1427-naga-remains-oxford/score.json",
+ "title": "Oxford Museum Hands Back Remains of 39 Naga Ancestors"
+}

@@ -1,0 +1,64 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "keep 1: the numbers (39, 1910–1940, 178, about 6,500) frame the story, but there is no deadline, eligibility or where/when for the reader beyond the planned burial at Naga Solidarity Park, Kohima. All other checks are strong: a clear numbered stake on an image of the actual institution; wire-standard attribution with both sides' own words; Naga/Northeast and history readers as a specific send; an open question about the subject; idly's own synthesis with the Commons photo credited '(edited)'; and every slide now stands alone (slide 03 reads 'When Most Naga Remains Reached Oxford').",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 2: a specific number (39) and a clear, unusual stake (Oxford handing Naga ancestors back) over the recognisable Pitt Rivers court. keep 1: dates/numbers (1910-1940, 178 hair objects, one remain declined, burial at Naga Solidarity Park) frame the story but there is no deadline, eligibility or where/when for the reader. send: Naga/Northeast readers and diaspora, restitution followers. reply: genuine question on museums and colonial-era human remains. original: own synthesis from museum page, AFP, PTI, UCSC, Morung Express; credited CC BY-SA photo, blurred/cropped (edited). alone: cover names who, what and how many."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: the numbers (39, 1910–1940, 178, about 6,500) frame the story, but there is no deadline, eligibility or where/when for the reader beyond the planned burial at Naga Solidarity Park, Kohima. All other checks are strong: a clear numbered stake on an image of the actual institution; wire-standard attribution with both sides' own words; Naga/Northeast and history readers as a specific send; an open question about the subject; idly's own synthesis with the Commons photo credited '(edited)'; and every slide now stands alone (slide 03 reads 'When Most Naga Remains Reached Oxford').",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "scored_as": "lower of the two totals (self 13, reviewer 13): tie, reviewer's checks used",
+ "story_id": null,
+ "idly_article": false,
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Pitt_Rivers_Museum_(64525p).jpg",
+  "licence": "CC BY-SA 4.0 (edited: cropped, five gallery visitors blurred; credited as \"(edited)\")",
+  "author": "Rhododendrites",
+  "viewed": true,
+  "processing": "Commons 3840x3032 rendition of the 6764x5340 original; five small gallery visitors Gaussian-blurred (radius 16, feathered elliptical masks); 4:5 crop box (1072,0)-(2768,2120) = 1696x2120 on the hall axis (approx. zoom 1.43, focal (0.5, 0.35) of the original); hype cover focal (0.5, 0.5), zoom 1.0, scale 0.637 (downscale, no upscale). No human remains visible, no watermark; checked at full size in tiles."
+ },
+ "sources": [
+  "https://www.prm.ox.ac.uk/a-path-home",
+  "https://www.france24.com/en/live-news/20261109-oxford-museum-makes-historic-return-of-naga-human-remains",
+  "https://www.hindustantimes.com/india-news/oxford-university-returns-remains-of-39-naga-people-after-more-than-a-century-101794301277038.html",
+  "https://news.ucsc.edu/2026/11/the-long-journey-home",
+  "https://www.morungexpress.com/naga-delegation-leaves-for-oxford-to-formalise-return-of-39-ancestral-remains",
+  "https://www.morungexpress.com/naga-solidarity-park-to-host-burial-of-repatriated-ancestral-remains",
+  "https://nagalandpost.com/39-naga-ancestral-remains-to-return-from-oxford/",
+  "https://www.museumsassociation.org/museums-journal/news/2025/06/pitt-rivers-begins-process-to-repatriate-human-remains/"
+ ],
+ "gates": {
+  "g1": "BUILD candidate 1 (ceiling 13); Telangana HC and Manipur HC dropped. Fixes: precise neutral headline, drop single-source lines (signatories, \"almost 30\"), no 2,700 line, slide 04 \"May Contain\", name Hutton and Mills, balanced attributed quotes, question about the subject; Commons court photo ruled the actual subject.",
+  "g2": "FIX: slide 03 label to \"When Most Naga Remains Reached Oxford\"; everything else passed (facts, attribution, copy rules, caption, post_problems clean).",
+  "g3": "PASS: Pitt Rivers court, five visitors blurred and unrecognisable, no remains, CC BY-SA 4.0 credited \"(edited)\", downscale 0.637.",
+  "g4": "HOLD on slide 03 label only, then PASS on the 4b recheck: 13/14 (keep 1)."
+ }
+}
