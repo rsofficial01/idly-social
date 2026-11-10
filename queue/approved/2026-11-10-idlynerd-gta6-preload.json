@@ -1,0 +1,22 @@
+{
+  "slug": "2026-11-10-idlynerd-gta6-preload",
+  "reviewer": {
+    "hook": 2,
+    "read": 1,
+    "send": 2,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "read 1: '212 GB' appears three times across two slides (cover 'Up to 212 GB', the slide 2 stat with 'at Most', and slide 2 bullet 3 'Rockstar says up to 212 GB, by console'). The bullet restates the stat instead of adding a fact. Everything else is strong. hook 2: official GTA VI key art (launch-trailer thumbnail) plus a specific number on today's moment. send 2: the PS5/Xbox friend you'll play with. keep 2: IST pre-load times, unlock time, Rs prices, code-in-box date. reply 2: a genuine midnight-vs-reviews question. original 2: own synthesis, official trailer image credited. alone 2: both detail slides name GTA VI. Verified: Rockstar via Worthplaying (pre-load times, up to 212 GB, 19 Nov, code-in-box from 12 Nov), Digit (IST times, Rs 5,999/7,499), Business Today (store listings show 12:00 am IST 19 Nov; PS India prices). Image: youtube_official, oEmbed author @RockstarGames (allowlist evidence checked at Gate 3), 1280x720 letterbox at 0.84x. 2 game-character faces sit inside the band (y ~215-386), none under the headline or logo. Opened 01-03 at full size: white headline on one left edge with the date, no touching text (slide 3 '9' descender ends y 587, label starts y 613), credit 'Image: Rockstar Games (official trailer)' readable, Sources lines on 02/03. Caption: one '?', 5 hashtags, Sources line, no idly.news, credit last; the 'Theft' warning is a false positive.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "reviewed_at": "2026-11-10T05:32:48+00:00",
+  "reviewed_by": "claude reviewer (blind)",
+  "notes": ""
+}
