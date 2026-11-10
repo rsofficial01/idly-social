@@ -621,5 +621,37 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1427-ios-2721-imessage-fix/03.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18390242902239681",
+    "permalink": "https://www.instagram.com/p/Dfjmz-AFyJN/",
+    "posted_at": "2026-11-10T09:40:37+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1427-naga-remains-oxford/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1427-naga-remains-oxford/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1427-naga-remains-oxford/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1427-naga-remains-oxford/04.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17909514279669792",
+    "permalink": "https://www.instagram.com/p/Dfjm4CenIdG/",
+    "posted_at": "2026-11-10T09:41:11+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1427-six-airbags/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1427-six-airbags/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1427-six-airbags/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1427-six-airbags/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
