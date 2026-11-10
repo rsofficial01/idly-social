@@ -1,0 +1,8 @@
+{
+  "slug": "review-mookuthi-amman-2-10nov",
+  "stage": "review",
+  "reasons": [
+    "Blind review 12/14 but a false claim in the caption: 'No critic rated it above 5/10' (OnlyKollywood rated it 3/5 = 6/10 on 6 Nov, listed as 6.0 on the thereviewmonk page the post cites; FlickOnClick also 3/5 on 6 Nov). Fix: 'None of the 9 major outlets rated it above 5/10', and state the established-outlets selection rule in the Score note and on slide 3 (post-release ratings from OnlyKollywood 6.0, TeluguOne 2.25/5 and MovieCrow 3.0 were dropped without a stated reason). All 9 ratings used match the outlets' own reviews (NDTV via three secondary sources) and the 3.3 mean is correct. Read 1: caption repeats highs/lows, counts and the score note; keep 1. Minor: '3.3/10' on slide 3 is ~7px above the body text; slide 1's rotated credit is tiny and ~20px from the right edge (clipped in the 3:4 grid preview)."
+  ],
+  "rejected_at": "2026-11-10T04:36:03+00:00"
+}
