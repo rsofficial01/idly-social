@@ -387,5 +387,33 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-roundup-10nov-v2",
+    "image_credit": "Image: Sony Music South (official trailer)",
+    "image_source": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "17955937209295034",
+    "permalink": "https://www.instagram.com/p/DfjVO44l5W2/",
+    "posted_at": "2026-11-10T07:07:03+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/04.jpg"
+    ],
+    "score_total": 12
   }
 ]
