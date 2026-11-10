@@ -37,5 +37,32 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynerd-1735/01.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": 1664,
+    "account": "idlytech",
+    "media_id": "17973560970175344",
+    "permalink": "https://www.instagram.com/p/Dfi3bEUDPrt/",
+    "posted_at": "2026-11-10T02:46:37+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/02.jpg"
+    ],
+    "score_total": 14
+  },
+  {
+    "story_id": 1631,
+    "account": "idlynerd",
+    "media_id": "18119415392088360",
+    "permalink": "https://www.instagram.com/p/Dfi3glqlzKQ/",
+    "posted_at": "2026-11-10T02:47:21+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynerd_01/01.jpg"
+    ],
+    "score_total": 14
   }
 ]
