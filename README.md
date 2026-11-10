@@ -75,12 +75,19 @@ python3 -m unittest discover -s tests -t .         # unit tests (rules, gate, mo
 python3 tests/dry_run_e2e.py                       # end-to-end dry run on live idly data with stub cards
 python3 -m cardkit.vertical story post.json posts/<date>/<folder>/story.jpg   # 9:16 Story card from a hype post
 python3 pipeline/publish.py story --account idlytech --image posts/<date>/<folder>/story.jpg [--dry-run]
+python3 pipeline/lane.py request-reel --source lane:<slug> --caption-file c.txt --score-file s.json   # ask for a reel
+python3 -m cardkit.reel post.json OUT_DIR --previews  # render a reel locally (non-people photos only; needs ffmpeg)
 ```
 
 **Stories** (Rahul, 10 Nov 2026): each feed post can get a 1080x1920 Instagram Story made from the same post dict
 (`cardkit/vertical.py`: photo full-width at the top fading into #0A0A0A, headline and footer clear of Instagram's
 UI zones). The lane makes and posts them automatically; hourly runs use the two commands above. A story never
 holds up or changes its feed post. See [RUNBOOK.md → Stories](RUNBOOK.md#stories-916).
+
+**Reels**: a run asks for a silent 9-14 s reel of a post that is already live (`lane.py request-reel`); the
+**lane-render** workflow renders it with `cardkit/reel.py` and ffmpeg (cover push-in, 1-2 detail slides, end card,
+silent AAC track), a blind reviewer approves it through the same 12/14 gate, and **lane-publish** posts it. See
+[RUNBOOK.md → Reels](RUNBOOK.md#reels-916).
 
 Manual posts (a human, not the scheduled run) can use `publish.py post` directly: repeat `--image` for a
 carousel, use `--video clip.mp4` for a video carousel item (videos only go in carousels, never as a single
@@ -101,7 +108,8 @@ lane](RUNBOOK.md#official-image-lane) and, for the secrets, [docs/SETUP-GITHUB-S
 python3 pipeline/lane.py status                     # what is pending, rendered, approved, rejected, posted
 python3 pipeline/lane.py validate                   # check pending specs
 python3 pipeline/lane.py render-pending             # what lane-render runs (add --push to commit); + story.jpg
-python3 pipeline/lane.py publish-approved --dry-run # what lane-publish would post
+python3 pipeline/lane.py publish-approved --dry-run # what lane-publish would post (feed, stories, reels)
+python3 pipeline/lane.py render-reels               # what lane-render runs for queue/reels/pending (needs ffmpeg)
 ```
 
 ## Layout
@@ -109,4 +117,5 @@ python3 pipeline/lane.py publish-approved --dry-run # what lane-publish would po
 `pipeline/` holds the code (`editorial.py` has every rule in one place). `posts/` holds the published
 JPEGs, which are committed and public. `state/posted.json` records what was posted and
 `state/accounts.json` the Instagram account ids and hosts. `reports/` holds the run reports. `_work/` is per-run
-scratch space and is gitignored. `cardkit/` is the card renderer, kept separately (`render.py`: feed cards; `vertical.py`: 9:16 stories).
+scratch space and is gitignored. `cardkit/` is the card renderer, kept separately (`render.py`: feed cards; `vertical.py`: 9:16 stories;
+`reel.py`: reels).

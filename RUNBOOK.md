@@ -22,8 +22,9 @@ Sports stories have no account yet. Leave them out.
 2. **The gate.** Nothing below **12/14** on the 7-check score goes out. Never use `--force-below-gate`.
    It is for a human doing a manual post, not for this run.
 3. **Only this.** Publish feed posts through `pipeline/run_day.py` (or the official image lane), and a feed
-   post's Instagram Story with `pipeline/publish.py story` ([Stories](#stories-916)). No reels, comments, DMs,
-   likes or follows. No other accounts.
+   post's Instagram Story with `pipeline/publish.py story` ([Stories](#stories-916)). Reels only through the
+   lane's reel queue (`lane.py request-reel`, [Reels](#reels-916)): a session never renders or posts a reel itself.
+   No comments, DMs, likes or follows. No other accounts.
 4. **When unsure, skip** and say why in the summary.
 
 ## Editorial rules
@@ -174,6 +175,50 @@ post dict as the hype cover (`cardkit/vertical.py`).
      summary and carry on. Don't retry more than once.
 - Stories never take the last 5 of the 25 posts a day: Meta's docs don't say whether stories count toward the
   publishing limit, so `publish.py story` stops at 20 and the feed keeps its room.
+
+## Reels (9:16)
+
+A silent 9-14 second **Reel** of a post that is already live, made and posted by the lane in GitHub Actions
+(`cardkit/reel.py`): the photo may show people, so a session never renders one.
+
+- **What it is.** `reel.mp4`, 1080x1920, 30 fps, H.264 with a **silent** AAC track (Instagram wants an audio track;
+  there is never anyone else's music or audio). About 3.5 s of the cover (a slow 1.00 to 1.06 push-in on the photo,
+  the kicker and headline slide up and fade in from 0.4 s), then 1-2 of the post's detail slides re-laid out for
+  9:16 (about 3 s each, 8-frame crossfades), then a 1.5 s end card (the account's logo, idly.news, the handle). Same
+  look and rules as the story: full-width photo fading into #0A0A0A, one left edge, nothing in Instagram's UI zones,
+  no text under 30 px. `reel_cover.jpg` is the Reels-tab cover.
+- **Ask for one** (any run, once the feed post is live):
+  1. Write the reel's caption with the same caption rules, but **leave the credit line off**: the lane appends the
+     post's own credit. Score the reel on the 7 checks (12 or more, honestly: a reel isn't better than its post).
+  2. Queue it:
+
+     ```bash
+     python3 pipeline/lane.py request-reel --source lane:<slug> \
+         --caption-file $W/<account>-reel-caption.txt --score-file $W/<account>-reel-score.json [--details 1,2]
+     ```
+
+     `--source lane:<slug>` for a lane post (`queue/posted/<slug>/`); the lane fetches the same official image again
+     and refuses if it changed. For an hourly post use `--source posts/$DATE/<folder>`: that folder needs
+     `post.json` (the hype post dict you rendered, with the cover photo's path relative to the repo root) and the
+     photo itself, committed (your own non-people photos only). `--details` picks the detail slides (default: the
+     first two). The command checks everything it can (the source is posted, the account, the caption rules with
+     the post's credit, the score, one reel per post) and prints the git line.
+  3. Commit and push `queue/reels/pending/reel-<name>.json`. lane-render renders it within about 10 minutes into
+     `queue/reels/rendered/reel-<name>/`: `reel.mp4`, `reel_cover.jpg` and preview stills at 0.5 s, 4 s, 7 s and the
+     last frame. Anything wrong (layout, framing, caption, a changed image) goes to `queue/reels/rejected/` with
+     the reasons.
+- **Review** (the reviewer step, same gate): `python3 pipeline/lane.py show reel-<name>` gives the blind packet. Open
+  `reel_cover.jpg` and every `preview_*.jpg`, check the layout, the photo and the caption, score the 7 checks, then
+  `lane.py approve reel-<name> --score-file F` (the lower score must be 12 or more) or `lane.py reject reel-<name>
+  --reason "…"`. Commit and push `queue/` as for any review.
+- **Publishing.** lane-publish posts approved reels after the feed posts: one post per account per run, 30 minutes
+  after the account's last post, only while fresh (8 hours from the request unless `--evergreen`), never twice. It
+  records `"type": "reel"` in `state/posted.json` and `posted reel · …` in `reports/lane-<date>.md`.
+- **Where Meta fetches the video.** From raw.githubusercontent.com, like the images. That host serves `.mp4` as
+  `application/octet-stream`, and Meta's docs neither promise nor refuse that, so if the container ends in `ERROR`
+  the publisher tries again from jsDelivr's free CDN pinned to the commit (`cdn.jsdelivr.net/gh/…@<commit>/…`, served
+  as `video/mp4`), then (for graph.facebook.com tokens only) Meta's resumable upload of the file itself. The report
+  line says which host worked (`via raw`, `via jsdelivr`, `via resumable`).
 
 ## Review while building (not at the end)
 
@@ -551,6 +596,9 @@ All in `config/official_sources.json`, by a session with a human's go-ahead, in 
 | `stale` | Over 8 hours old: write a new spec if the story still matters. |
 | `no story (framing: …)` / `no story (… collides …)` | The 9:16 story couldn't be framed or laid out; the feed post is unaffected. |
 | `story failed · …` | The story didn't post (quota headroom, Meta error); the feed post is up. Nothing to do. |
+| `rejected (validate) · reel …` | The reel request is wrong: the reasons say what (source not posted yet, missing `post.json`, caption rule, score). Fix it and queue it again under a new name. |
+| `… changed since the feed post` | The official image is no longer the one the feed post used; that reel can't be made. |
+| `failed · reel … every host` | Meta refused the video from raw.githubusercontent.com, jsDelivr and (if possible) the resumable upload: put Meta's message in the summary for Rahul. It retries next run while fresh. |
 
 ---
 
