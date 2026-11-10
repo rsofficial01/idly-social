@@ -1,0 +1,55 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Lower of self 13 and reviewer 12 (reviewer's checks used). Scored on posts/2026-11-10/idlyautomotive-1130-denza-india-debut/01-03.jpg and caption.txt (final). G23 FIX 1-4 all landed: 'Top Z9 GT' on slide 2 and in the caption; the 1,500kW Chinese-market caveat is in the caption; the vertical credit now starts at about y 786, below the photo band (ends y 758), fully legible; the background at x0.55 reads as blurred photo, not an empty band. send 1: car/EV enthusiasts would forward it, but there is no specific person with a need (a Rs 1.2 crore import, no confirmed price). reply 1: the question is genuine and tied to the 9-minute charging claim, but 'EV drivers:' limits it to a small share of readers. Verified myself: Autocar Pro (BYD confirmed the 13 Nov debut; Z9 GT + D9; expected Rs 1.2-1.5 crore), Autocar India 5 Nov (1,156hp 'expected', 2.7s claimed, 1,500kW / 10-97% in about 9 min), Business Today 7 Nov (top-spec e3 Performance has three motors; 2.7s company claim), BYD release 13 Mar 2026 (10-97% in nine minutes, up to 1,500kW, Chinese-market connector). Commons file checked: Chanokchon, own work, CC BY-SA 4.0, actual Z9 GT, no people or watermark. Opened all three slides at full size: car whole (rear ~30px clear of the edge), clear of the logo and headline block, no upscaling; one left edge; white headlines; credit and source lines clear; nothing touching. Mechanical caption check ([], []). Passes at exactly 12: no slack.",
+  "story_id": null,
+  "idly_article": false,
+  "scored_as": "lower of the two totals (self 13, reviewer 12)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "send 1: enthusiasts would forward it, but no specific person has a need for a ₹1.2 crore import. hook 2: clear stake (new BYD luxury brand, firm date) with the car on the cover. reply 2: open question tied to the 9-minute charging claim, from EV owners' own trips."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 1,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "Scored on posts/2026-11-10/idlyautomotive-1130-denza-india-debut/01-03.jpg and caption.txt (final). G23 FIX 1-4 all landed: 'Top Z9 GT' on slide 2 and in the caption; the 1,500kW Chinese-market caveat is in the caption; the vertical credit now starts at about y 786, below the photo band (ends y 758), fully legible; the background at x0.55 reads as blurred photo, not an empty band. send 1: car/EV enthusiasts would forward it, but there is no specific person with a need (a Rs 1.2 crore import, no confirmed price). reply 1: the question is genuine and tied to the 9-minute charging claim, but 'EV drivers:' limits it to a small share of readers. Verified myself: Autocar Pro (BYD confirmed the 13 Nov debut; Z9 GT + D9; expected Rs 1.2-1.5 crore), Autocar India 5 Nov (1,156hp 'expected', 2.7s claimed, 1,500kW / 10-97% in about 9 min), Business Today 7 Nov (top-spec e3 Performance has three motors; 2.7s company claim), BYD release 13 Mar 2026 (10-97% in nine minutes, up to 1,500kW, Chinese-market connector). Commons file checked: Chanokchon, own work, CC BY-SA 4.0, actual Z9 GT, no people or watermark. Opened all three slides at full size: car whole (rear ~30px clear of the edge), clear of the logo and headline block, no upscaling; one left edge; white headlines; credit and source lines clear; nothing touching. Mechanical caption check ([], []). Passes at exactly 12: no slack.",
+    "verdict": "PASS",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "photo_source": {
+    "page": "https://commons.wikimedia.org/wiki/File:2026_Denza_Z9_GT_Performance_AWD.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2026_Denza_Z9_GT_Performance_AWD.jpg/1920px-2026_Denza_Z9_GT_Performance_AWD.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Chanokchon",
+    "viewed": true,
+    "processing": "letterboxed by desk-auto: 1920x1080 thumb scaled 0.593 into a band at y165-758 on a blurred copy darkened to x0.55; no upscale; no people"
+  },
+  "gates": {
+    "g1": "BUILD A (Denza India debut), predicted 12; FIX 1-4 (expected/claimed figures, attribution, no showroom claim, no idly.news); B (EV sales) and C (Yangwang) dropped at 11",
+    "g2": "FIX 1-2 (top Z9 GT has three motors; 1,500kW on Chinese-market chargers), applied",
+    "g3": "PASS under main's ruling: Commons photo of the actual Z9 GT (official denza.com/bydglobal.com down); FIX 3-4 credit collision and dark band, applied",
+    "g4": "PASS 12/14 (send 1, reply 1)"
+  }
+}
