@@ -1,0 +1,33 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (12) and reviewer (12); both scored the same checks. keep 1: the three dates (9 Oct delivery, 30 Nov filing deadline, 10 Nov MEA reply) track the case; none is something a reader acts on or plans around. reply 1: 'Should a court in one country be able to summon another country's serving officials?' is genuine, neutral and open but asks an opinion, not something from readers' own lives; no own-life question fits a diplomatic/legal story. Hook and send are 2s on a clear stake (a US civil suit naming NSA Doval, India's 'Frivolous' reply) and a clean three-step timeline with India's position, with no margin.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "keep 1: case dates (9 Oct, 30 Nov, 10 Nov) are worth noting but not dates readers act on; reply 1: an opinion question, not one from readers' own lives (no own-life question fits a diplomatic/legal story)"
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "keep 1: the three dates (9 Oct delivery, 30 Nov filing deadline, 10 Nov MEA reply) track the case; none is something a reader acts on or plans around. reply 1: 'Should a court in one country be able to summon another country's serving officials?' is genuine, neutral and open, but it asks an opinion, not something from readers' own lives. Borderline 2s: hook has no number; it scores 2 on a clear stake (a US suit naming NSA Doval, India's 'Frivolous' reply) that Indian readers get in a second, though 'Reaches' is a soft verb for a 9 Oct delivery and the freshest fact (the 30 Nov Delhi-courts route) is on slide 3. send 2 rests on the clean three-step timeline with India's position, which India–US and Punjab-news followers would forward; it adds nothing to the reader's own life."
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "account": "idlynews",
+ "title": "US State Department delivers Pannun's civil suit against India; US judge clears Delhi-courts route to serve Doval and Goel by 30 Nov; MEA rejects 'frivolous lawsuits' (10 Nov)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+  "https://theprint.in/diplomacy/us-state-dept-served-summons-to-india-in-case-brought-by-pannun-lawsuit-names-doval-raw-ex-chief/3094972/",
+  "https://m.thewire.in/article/diplomacy/us-court-clears-way-to-send-summons-to-nsa-doval-former-raw-chief-pannun-lawsuit",
+  "https://www.tribuneindia.com/news/india/us-court-allows-pannun-to-serve-lawsuit-on-nsa-doval-ex-raw-chief-goel-through-indian-courts/",
+  "https://www.outlookindia.com/international/gurpatwant-singh-pannun-lawsuit-us-state-department-indian-embassy",
+  "https://www.livemint.com/news/us-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
+  "https://ianslive.in/frivolous-lawsuit-fabricated-attacks-mea-on-pannuns-claims-against-indian-officials--20261110165301",
+  "https://www.rnamedia.in/top-story/india-rejects-pannun-lawsuits-service-request-says-attacks-on-high-officials-fabricated-and-malicious/26148"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Embassy_of_India,_Washington,_D.C._front.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Embassy_of_India%2C_Washington%2C_D.C._front.jpg",
+  "downloaded": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Embassy_of_India%2C_Washington%2C_D.C._front.jpg/3840px-Embassy_of_India%2C_Washington%2C_D.C._front.jpg",
+  "licence": "CC0 1.0",
+  "author": "Kurt Kaiser",
+  "date": "2020-03-17",
+  "credit": "Photo: Kurt Kaiser / Wikimedia Commons, CC0",
+  "subject": "Embassy of India chancery, 2107 Massachusetts Ave NW, Washington DC (where the State Department delivered the papers on 9 Oct 2026), Indian flag at left",
+  "viewed": true,
+  "processing": "Commons 3840x2880 rendition; 0 faces (YuNet); pipeline.framing ok full-bleed (0.47x); cardkit hype cover at focal (0.42, 0.45), zoom 1.1 (keeps the flag, trims the kerb and cone) = 0.516x downscale, with headline scrim; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused, config/formats.json)",
+ "gates": {
+  "g1": "PASS: build C1 (Pannun civil suit); conditions: embassy photo only with a service/MEA headline (never the 30 Nov Doval route), resolve or cut Gupta's 20 Nov sentencing date, Vikram/Vikash not mixed, strict attribution, cover stands alone; C2 (Chhath, Girgaon) and C3 (cancer drug MRPs, no image) dropped",
+  "g2": "FIX (6, no re-send): caption clause on Pannun's designation vs SFJ ban; judge named by one credible source -> 'a US federal judge in New York'; slide 02 label 'Pannun's Suit Reached India's Embassy by Diplomatic Note'; 'on the case'; slide 03 'US judge's 9 Nov order...' (shortened to 9 words: 'US judge's 9 Nov order: serve via Delhi courts'); slide 04 label 'India's Reply, and Its Stand on Pannun'. Gupta 20 Nov date cut.",
+  "g3": "PASS: Commons CC0 (Kurt Kaiser), actual place, 0 faces, no watermark, 0.52x downscale; flag in frame, cone cropped, car roof only under the gradient",
+  "g4": "PASS: reviewer 12/14 (keep 1, reply 1); all four slides clean, no overflow, no credit collision; slide 03 empty bands 359/246 px within house norm"
+ }
+}

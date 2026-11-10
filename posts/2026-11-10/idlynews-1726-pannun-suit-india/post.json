@@ -1,0 +1,54 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1726-pannun-suit-india",
+  "date": "10 Nov 2026",
+  "sources": [
+    "The Hindu",
+    "ThePrint",
+    "The Wire",
+    "PTI",
+    "IANS"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Pannun's Civil Suit Naming NSA Doval Reaches India; MEA: 'Frivolous'",
+      "photo": "_work/2026-11-10-hourly-1726/news/framing3840/cover_source.png",
+      "photo_credit": "Photo: Kurt Kaiser / Wikimedia Commons, CC0",
+      "focal": [
+        0.42,
+        0.45
+      ],
+      "zoom": 1.1
+    },
+    {
+      "type": "detail",
+      "stat": "9 OCT",
+      "stat_label": "Pannun's Suit Reached India's Embassy by Diplomatic Note",
+      "bullets": [
+        "Pannun's 2024 suit alleges a plot to kill him",
+        "Defendants include India's government and ex-R&AW chief Goel",
+        "US says it takes no position on the case"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "30 NOV",
+      "stat_label": "Pannun's Deadline to File Papers for Doval, Goel",
+      "bullets": [
+        "US judge's 9 Nov order: serve via Delhi courts",
+        "Earlier bids to serve Doval in the US failed"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "10 NOV",
+      "stat_label": "India's Reply, and Its Stand on Pannun",
+      "bullets": [
+        "Spokesperson Randhir Jaiswal rejects 'fabricated and malicious attacks'",
+        "Service must go via the Law Ministry, MEA says",
+        "India designates Pannun a terrorist; SFJ is banned"
+      ]
+    }
+  ]
+}
