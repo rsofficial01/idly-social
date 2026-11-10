@@ -1,0 +1,43 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-2027-converse-bronco-boot-india",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Converse India",
+    "Superkicks",
+    "Hypebeast"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Tyler's Boot: ₹11,499",
+      "photo": "_work/2026-11-10-hourly-2027/idlyhype/frame-edenD-left/cover_source.png",
+      "photo_credit": "Image: Converse",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "4",
+      "stat_label": "Bronco Boot Colours on Converse India's Store",
+      "bullets": [
+        "Eden and Black/Vanilla Ice run UK 4–11",
+        "Cocoa Brown, New Wheat/Curry from UK 7",
+        "Reworks a '90s Converse boot with a lug sole"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Bronco Boot Colours Also at Superkicks",
+      "bullets": [
+        "Eden, Black/Vanilla Ice and New Wheat/Curry",
+        "Same price as Converse India's own store",
+        "Both prices include all taxes"
+      ]
+    }
+  ]
+}

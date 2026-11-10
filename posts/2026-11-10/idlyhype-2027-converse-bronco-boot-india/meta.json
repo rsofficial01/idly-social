@@ -1,0 +1,38 @@
+{
+ "account": "idlyhype",
+ "title": "Tyler, The Creator's low-top Converse Bronco Boot on sale in India at ₹11,499 (Converse India, four colours; Superkicks, three)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.converse.in/products/converse-bronco-boot-a24636c",
+  "https://www.converse.in/products/converse-bronco-boot-a21255c",
+  "https://www.converse.in/products/converse-bronco-boot-a21256c",
+  "https://www.converse.in/products/converse-bronco-boot-a21259c",
+  "https://www.converse.in/pages/contact-us",
+  "https://www.superkicks.in/products/converse-x-golf-le-fleur-bronco-boot-eden-rubber-partridge",
+  "https://www.superkicks.in/products/converse-x-golf-le-fleur-bronco-boot-black-vanilla-ice-black",
+  "https://www.superkicks.in/products/converse-x-golf-le-fleur-bronco-boot-new-wheat-curry-partridge",
+  "https://news.google.com/rss/search?q=%22Bronco+Boot%22+when:7d (Hypebeast, 10 Nov 2026 15:00 GMT: 'Tyler, The Creator Introduces the Bronco Boot Low, His Converse Workwear Boot Gone Low-Top')"
+ ],
+ "photo_source": {
+  "page": "https://www.converse.in/products/converse-bronco-boot-a21255c",
+  "file": "https://cdn.shopify.com/s/files/1/0685/3600/8775/files/A21255C_D_107X1_52e6f1de-de12-4b7f-83f2-8e32a3e4d277.jpg?v=1793608148",
+  "licence": "Converse's own studio product image on Converse India's official store (converse.in, run by Converse's India partner Bhaane Retail Pvt Ltd); official brand image, credited",
+  "author": "Converse",
+  "credit": "Image: Converse",
+  "subject": "Converse x GOLF le FLEUR* Bronco Boot low-top, Eden/Rubber/Partridge (A21255C), pair: one side-on, one top-down, on a plain light-grey studio background; product only, no people, no watermark",
+  "viewed": true,
+  "processing": "original 1000x1000 (sha1 4dfa8a617adea6511d203d823c2d6f4f6d4eb0c4); pipeline.framing plan ok (full-bleed, 0 faces, zoom 1.0, 1.35x); crop shifted left from x=100 to x=68 (800x1000 source px, focal 0.468/0.5) via framing.render_input so the side-on shoe stays whole; Lanczos 1.35x + framing's unsharp mask; no other edits"
+ },
+ "tags": [
+  "converse.india"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1, ceiling 14 (reviewer): 12 Nov US date only with 2 sources (dropped: one source only); 'Bronco Boot' naming; exact colour names; D pair shot with 2-line headline; tag only @converse.india",
+  "g2": "PASS (reviewer): facts verified on converse.in and Superkicks JSON; optional cut of the 'Hypebeast covered…' sentence applied at Gate 4",
+  "g3": "PASS (reviewer): Converse's own product image on Converse India's official store, credited 'Image: Converse'; tag @converse.india confirmed in converse.in footer",
+  "g4": "FIX applied: cover headline now one line ('Tyler's Boot: ₹11,499', top 1150; insole print ends y 1093, cap line y 1162, ~69 px clear); slide 02 bullet 2 -> 'Cocoa Brown, New Wheat/Curry from UK 7' (one line); caption sentence about Hypebeast cut. Re-check PASS: reviewer 13/14 (alone 1: cover never says 'Bronco Boot' or Tyler's full name); self 13/14; final 13/14."
+ }
+}
