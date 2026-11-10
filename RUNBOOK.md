@@ -21,7 +21,8 @@ Sports stories have no account yet. Leave them out.
    carry a token).
 2. **The gate.** Nothing below **12/14** on the 7-check score goes out. Never use `--force-below-gate`.
    It is for a human doing a manual post, not for this run.
-3. **Only this.** Publish only feed posts through `pipeline/run_day.py`. No stories, reels, comments, DMs,
+3. **Only this.** Publish feed posts through `pipeline/run_day.py` (or the official image lane), and a feed
+   post's Instagram Story with `pipeline/publish.py story` ([Stories](#stories-916)). No reels, comments, DMs,
    likes or follows. No other accounts.
 4. **When unsure, skip** and say why in the summary.
 
@@ -138,6 +139,41 @@ this). Sources should be high-res (900px wide or more). A small source may be en
 logo and headline), enlarges and sharpens it when needed, and prints the photo/focal/zoom for the cardkit cover
 slide. If it says the photo can't be framed full-bleed, use a different, larger image of the same subject.
 The lane does the same automatically and falls through to the next image attempt.
+
+## Stories (9:16)
+
+Rahul's go-ahead (10 Nov 2026): every feed post may get an **Instagram Story**, one 1080x1920 card made from the same
+post dict as the hype cover (`cardkit/vertical.py`).
+
+- **The look.** The photo fills the width at the top: the cover's own 4:5 full-bleed crop (same photo, focal and
+  zoom), or taller (up to 1080x1440) when the photo allows. It fades through a smooth gradient into the dark brand
+  background (#0A0A0A), where the text sits: a small `@account` kicker, the cover's Title Case headline (Inter,
+  left-aligned) and the footer (date, idly.news). The logo sits top-centre over the photo and the photo credit runs
+  up the right edge, as on covers. Every text line starts at the same left edge (x=64). Nothing sits in Instagram's
+  UI zones: text stays between y 220 and y 1600 of the 1920 px frame, and no text is under 30 px. **Never** a boxed
+  photo on a blurred or darkened copy of itself, never side fills.
+- **Lane posts: automatic.** `render-pending` makes `queue/rendered/<slug>/story.jpg`, with the photo re-planned for
+  the 9:16 window (faces in y 380-880, clear of the logo and the text). If the story can't be framed or laid out, the
+  post goes ahead without one and `render_report.json` says why. The reviewer looks at `story.jpg` with the slides;
+  `lane.py approve <slug> --score-file F --no-story` posts the feed post without it, and `"story": false` in a spec
+  turns it off. `publish-approved` posts the story right after the feed post.
+- **Hourly posts** (your own photos: never a person; see the image rules):
+  1. Make the card from the hype post dict you rendered the cover with (save it as JSON in `$W`, photo paths as you
+     used them): `python3 -m cardkit.vertical story $W/<account>-post.json posts/$DATE/<folder>/story.jpg`. It
+     prints the problems and exits 1 when the layout breaks a rule (text doesn't fit, collisions, UI zones, uneven
+     left edges): fix the copy or skip the story. **Open `story.jpg` and look at it.** To plan the 9:16 photo
+     window yourself, `python3 -m pipeline.framing <photo> $W/vertical --vertical` prints a photo, focal, zoom and
+     photo_h for the cover slide's `"vertical"` key.
+  2. Commit and push `story.jpg` with the feed images (step 8). Meta fetches it from raw.githubusercontent.com.
+  3. Once the feed post is live (step 10):
+     `python3 pipeline/publish.py story --account <account> --image posts/$DATE/<folder>/story.jpg`. It waits until
+     the image is public, posts it, links it to the feed post from the same folder and records it in
+     `state/posted.json` as `"type": "story"` (`"story_of"`: the feed post's media id). `--dry-run` prints the API
+     calls and posts nothing.
+  4. **A story is never worth a feed post.** If it fails, the feed post stands: put `story failed: <reason>` in the
+     summary and carry on. Don't retry more than once.
+- Stories never take the last 5 of the 25 posts a day: Meta's docs don't say whether stories count toward the
+  publishing limit, so `publish.py story` stops at 20 and the feed keeps its room.
 
 ## Review while building (not at the end)
 
@@ -283,6 +319,7 @@ $R render      # validates everything (copy limits, caption rules, photo record,
 
 If it prints problems, fix `cards.json`, or move the post to `skipped`, and run it again. Then **open
 every JPEG in `posts/$DATE/`** and check that the text fits, nothing is cut off, and the photo looks right.
+For each post's story, make `story.jpg` now ([Stories](#stories-916), step 1) and look at it too.
 
 ### 8. Commit and push the images (the repo is public; that is how Instagram fetches them)
 
@@ -291,6 +328,8 @@ git add posts/$DATE
 git commit -m "posts: $DATE $SLOT"
 git push origin HEAD:main
 ```
+
+`git add posts/$DATE` includes any `story.jpg`.
 
 If the push fails for auth or permission reasons, call the **`add_repo`** tool with owner
 `rsofficial01`, repo `idly-social` and access `"push"`, then push again. If it still fails, don't publish.
@@ -315,6 +354,9 @@ It uses each account's own token on the host `check` remembered (`graph.instagra
 
 It writes `state/posted.json` after every post. Re-running it is safe: an account already posted in this
 slot is skipped.
+
+Then post each live feed post's story: `python3 pipeline/publish.py story --account <account> --image
+posts/$DATE/<folder>/story.jpg`. A failed story is a line in the summary, never a reason to touch the feed post.
 
 ### 11. Report, commit, push
 
@@ -458,7 +500,7 @@ python3 pipeline/lane.py show <slug>            # blind packet: copy, final capt
 ```
 
 For each item in `queue/rendered/`, a **blind** reviewer (one that has not seen the self score: `show`
-leaves it out) opens `queue/rendered/<slug>/01.jpg`, `02.jpg` … and `render_report.json` and checks: the
+leaves it out) opens `queue/rendered/<slug>/01.jpg`, `02.jpg` …, `story.jpg` and `render_report.json` and checks: the
 headline is legible and not over a face; no face is cut off or under the logo; the credit on the cover and
 the source line on the other slides are there and readable; the image matches the story; the caption is
 right. Then it scores the 7 checks and writes the score to a file:
@@ -470,11 +512,14 @@ git add queue reports && git commit -m "lane: review <slug>"
 git pull --rebase origin main && git push origin HEAD:main
 ```
 
+If the story has a layout problem but the slides are fine, approve with `--no-story`.
+
 `approve` rejects the item itself when the lower of the two scores is under 12. The `lane-publish` workflow
 posts approved items within about 10 minutes: one post per account per run, only while fresh, only with that
 account's `IG_TOKEN_…` secret set in GitHub, and never twice (it checks `state/posted.json` and the account's
 recent posts first). It records the post in `state/posted.json` (slot `lane`) and the day's events in
-`reports/lane-<date>.md`; read that file in your summary.
+`reports/lane-<date>.md`; read that file in your summary. Right after each feed post it posts the item's
+`story.jpg` (`story · …` in the report, or `story failed · …`, which leaves the feed post as it is).
 
 ### 4. Adding a source to the allowlist
 
@@ -502,6 +547,8 @@ All in `config/official_sources.json`, by a session with a human's go-ahead, in 
 | `waiting · … will retry` | The source was unreachable; the next run tries again. |
 | `skipped · … IG_TOKEN_X secret is not set` | Rahul needs to add that GitHub secret ([docs/SETUP-GITHUB-SECRETS.md](docs/SETUP-GITHUB-SECRETS.md)). |
 | `stale` | Over 8 hours old: write a new spec if the story still matters. |
+| `no story (framing: …)` / `no story (… collides …)` | The 9:16 story couldn't be framed or laid out; the feed post is unaffected. |
+| `story failed · …` | The story didn't post (quota headroom, Meta error); the feed post is up. Nothing to do. |
 
 ---
 
