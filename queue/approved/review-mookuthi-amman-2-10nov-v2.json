@@ -1,0 +1,18 @@
+{
+  "slug": "review-mookuthi-amman-2-10nov-v2",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "verdict": "PASS",
+    "notes": "Re-rendered with the reviewer's own requested fixes, checked at full size in the main session: 'Amman 2' kept together on the cover. | PASS 13/14, no rule breaks. EARLIER FIXES THAT LANDED: the caption, S3, S4 and alt text no longer say 'cheap' (S3 now reads 'The VFX disappoint, some look AI-made'; S4 reads 'all 3 reviews idly read fault the VFX'). 123Telugu is dropped: 10 ratings, 36/10 = 3.6, and the count is updated on S2, S4, the caption and the alt text. Small text is 23px and the axis numbers 22px. The S2 and S3 empty bands are filled (largest gap now 92px). The alt text says 'official video still', matching the credit. The cover credit is 21px vertical (see the Scene note: acceptable, 22px preferred). VERIFIED: ratings confirmed in the first pass. Read-in-full is Gulte, DT Next and THR India, matching research_v5. Tallies match (Nayanthara 2 of 3 with Gulte lukewarm; VFX 3, comedy 3, screenplay 2 with DT Next 'brisk'). My own reads of Gulte (laughable AI visuals, no laughs, 'TERRIBLE' narration, Nayanthara 'looked good' but held back by the script) and DT Next ('graceful yet powerful' Nayanthara, heavy CGI and AI imagery, lacks humour, 'brisk screenplay') agree. 'Last of the six ranked' matches the research ranking. Credit: Vels Music International per oEmbed; Hans India calls the video the trailer. POINTS LOST: keep 1, no runtime or certificate. OPTIONAL: the cover headline breaks as 'Mookuthi Amman / 2 Scores 3.6/10', splitting the title from its number; put a non-breaking space in 'Amman 2'."
+  },
+  "reviewed_at": "2026-11-10T06:04:31+00:00",
+  "reviewed_by": "blind reviewer (Claude), 10 Nov; reviewer's fixes applied and checked in main session",
+  "notes": ""
+}

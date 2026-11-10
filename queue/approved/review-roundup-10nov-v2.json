@@ -1,0 +1,18 @@
+{
+  "slug": "review-roundup-10nov-v2",
+  "reviewer": {
+    "hook": 1,
+    "read": 2,
+    "send": 2,
+    "keep": 2,
+    "reply": 1,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "verdict": "PASS",
+    "notes": "Re-rendered with the reviewer's own requested fixes, checked at full size in the main session: cover headline now 3 lines ('The 6 Diwali Releases, Ranked by Indian Critics'), closing the empty band; caption has one question ('Which of the six are you booking first?'). | HOLD: 12/14, but there are two rule breaks. NUMBERS VERIFIED against research_v5.json and they hold. Ranking 6.8 / 6.3 / 5.3 / 5.0 / 4.4 / 3.6 matches. The means recompute: Summer Holidays 21/4 = 5.25 -> 5.3 and #Cult 17.5/4 = 4.375 -> 4.4 (half up). Counts 18 + 15 + 4 + 7 + 4 + 10 = 58, which equals total_counted. The gap is 0.5 on both the rounded and exact means (6.8333 - 6.3333). 'Two clear 6/10' is right: only 6.8 and 6.3 are above 6. Pyre (2) and Nakhrewaalii (0) are correctly unranked. Every outlet in the Sources list has a counted rating (123Telugu counts for Summer Holidays and #Cult; Telugu360 for Scene, Summer Holidays and #Cult). Ratings spot-checked on outlet pages: Summer Holidays Gulte, Telugu360 and Great Andhra all 2.5/5; #Cult Gulte, Telugu360 and Great Andhra all 2/5; Aadarsha Kutumbam Gulte and Great Andhra 2.5/5. Plus the Scene, Mookuthi Amman 2 and Ramayana checks. Small text is 23px. The cover credit is correct (Sony Music South, official trailer). RULE BREAKS: (1) The cover has a big empty band: 253px of blurred backdrop between the image (ends y 808) and the two-line headline (starts y 1061); the other covers have about 153px. (2) The caption asks two questions: 'which of the six are you booking first, and what tipped it?' FIXES: Cover: for a two-line headline, lower the letterbox band about 100px (band_top 200 -> 300), or let the headline set larger. Caption: 'Ramayana: Part 1 leads Scene by 0.5: which of the six are you booking first, and what tipped it?' -> 'Which of the six are you booking first?' (the lead-in repeats the opening line). POINTS LOST: hook 1, the cover is the"
+  },
+  "reviewed_at": "2026-11-10T06:04:32+00:00",
+  "reviewed_by": "blind reviewer (Claude), 10 Nov; reviewer's fixes applied and checked in main session",
+  "notes": ""
+}
