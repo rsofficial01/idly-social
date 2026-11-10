@@ -1,0 +1,47 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0327-indigo-saudi-flights",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Gulf News",
+    "ANI",
+    "NDTV",
+    "All India Radio",
+    "Republic World",
+    "Al Jazeera"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "No IndiGo Flights to Jeddah, Madinah Till 21 November",
+      "photo": "_work/2026-11-11-hourly-0327/idlynews/framing/cover_source.png",
+      "photo_credit": "Photo: Zoshua Colah / Unsplash",
+      "focal": [
+        0.5,
+        0.0
+      ],
+      "zoom": 1.15
+    },
+    {
+      "type": "detail",
+      "stat": "30 NOV",
+      "stat_label": "IndiGo's Riyadh, Dammam Flights Stay Suspended",
+      "bullets": [
+        "Dates inclusive: no flights on 21 or 30 Nov",
+        "IndiGo alerts flyers on their booking contact details"
+      ],
+      "credit_line": "Sources: Gulf News, ANI, NDTV"
+    },
+    {
+      "type": "detail",
+      "stat": "MID-OCT",
+      "stat_label": "IndiGo's Saudi Flights Paused Since Mid-October",
+      "bullets": [
+        "Restart pushed back more than once since then",
+        "IndiGo cites safety and security; it names no attack",
+        "Saudi-led coalition says it downed Houthi missiles over Riyadh"
+      ],
+      "credit_line": "Sources: Gulf News, All India Radio, Republic World, Al Jazeera"
+    }
+  ]
+}

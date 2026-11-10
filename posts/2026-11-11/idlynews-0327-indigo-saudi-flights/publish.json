@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/01.jpg",
+  "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/02.jpg",
+  "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/alt.txt",
+ "score_file": "posts/2026-11-11/idlynews-0327-indigo-saudi-flights/score.json",
+ "title": "IndiGo extends Saudi flight suspensions (advisory, 10 Nov 2026): Jeddah and Madinah until 21 Nov, Riyadh and Dammam until 30 Nov, both inclusive; IndiGo cites safety and security considerations and alerts affected customers on their booking contact details; paused since mid-October, restart pushed back more than once; Saudi-led coalition says it downed Houthi missiles over Riyadh; Saudi officials say debris from an attempted attack damaged an Aramco building in Riyadh on 8 Nov",
+ "tags": []
+}

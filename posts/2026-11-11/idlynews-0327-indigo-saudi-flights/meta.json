@@ -1,0 +1,33 @@
+{
+ "account": "idlynews",
+ "title": "IndiGo extends Saudi flight suspensions (advisory, 10 Nov 2026): Jeddah and Madinah until 21 Nov, Riyadh and Dammam until 30 Nov, both inclusive; IndiGo cites safety and security considerations and alerts affected customers on their booking contact details; paused since mid-October, restart pushed back more than once; Saudi-led coalition says it downed Houthi missiles over Riyadh; Saudi officials say debris from an attempted attack damaged an Aramco building in Riyadh on 8 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "Gulf News: https://gulfnews.com/business/aviation/middle-east-war-indigo-extends-suspension-of-saudi-arabia-flights-1.500743017",
+  "ANI (via The Tribune): https://www.tribuneindia.com/news/dammam/indigo-extends-flight-suspensions-to-4-saudi-cities-amid-security-concerns",
+  "NDTV: https://www.ndtv.com/india-news/indigo-extends-suspensions-of-saudi-arabia-flights-amid-security-concerns-12310204",
+  "All India Radio: https://newsonair.gov.in/indigo-cancels-saudi-arabia-flights-until-october-31-amid-security-situation/",
+  "Republic World: https://www.republicworld.com/world-news/indigo-suspends-operations-to-four-key-saudi-arabian-cities-until-october-17-amid-security-concerns-2026-10-13-138857",
+  "Al Jazeera: https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline"
+ ],
+ "photo_source": {
+  "page": "https://unsplash.com/photos/indigo-airplanes-lined-up-on-the-tarmac-IHc2rjeo4TM",
+  "file": "https://images.unsplash.com/photo-1773352020074-14ec8de9333b (fetched full size with ?fm=jpg&q=95; saved as _work/2026-11-11-hourly-0327/idlynews/photos/unsplash_indigo_lineup.jpg, 3000x4000, sha256 f8bcbf227207e0685c8f912d2824359f43d6ec8a052b5e4fcde006c00749e295)",
+  "licence": "Unsplash License",
+  "author": "Zoshua Colah (https://unsplash.com/@zoshuacolah)",
+  "credit": "Photo: Zoshua Colah / Unsplash",
+  "subject": "Three IndiGo A320-family aircraft (VT-ISS in front) at the gates of Chhatrapati Shivaji Maharaj International Airport, Mumbai, with IndiGo tailfins and wordmarks; published on Unsplash 12 Mar 2026",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, scale 0.36. Cover uses the reviewer's top-anchored override focal (0.5, 0.0), zoom 1.15: source window x 196-2804, y 0-3261 (cardkit_crop), so the walking ground-crew worker (from y ~3340) is out; a tiny faceless figure in the refueller cab sits behind the headline's third line. Downscaled 0.414 to 1080x1350, full-bleed: no fill, no blur, no letterbox, no extension; scrim 0.69; headline top y 950, tailfins at y ~430-880."
+ },
+ "tags": [],
+ "tag_evidence": "none: the image owner is the photographer (Unsplash), not IndiGo",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (IndiGo Saudi suspensions); B (SC on UP undertrials) and C (Bombay HC Chhath at Girgaum Chowpatty) not built. Fixes applied: headline 'No IndiGo Flights to Jeddah, Madinah Till 21 November'; slide 2 30 NOV Riyadh/Dammam; attributed 'why' with each fact in 2 sources and the plain line that IndiGo names no attack; no refund terms, no other airlines; Sources line, no idly.news; top-anchored crop zoom 1.15, window bottom y 3261; no tag.",
+  "g23": "Picture PASS, cover layout PASS. Copy FIX applied exactly: slide 2 bullets 'Dates inclusive: no flights on 21 or 30 Nov' and 'IndiGo alerts flyers on their booking contact details', credit 'Sources: Gulf News, ANI, NDTV'; slide 3 stat MID-OCT, label \"IndiGo's Saudi Flights Paused Since Mid-October\", bullets 'Restart pushed back more than once since then', 'IndiGo cites safety and security; it names no attack', 'Saudi-led coalition says it downed Houthi missiles over Riyadh', credit 'Sources: Gulf News, All India Radio, Republic World, Al Jazeera'; 10-word Aramco bullet removed (fact kept in caption); caption 'more than once', 'four Saudi cities', Sources line adds All India Radio. post_problems ([], []).",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 2, keep 2, reply 1 (question only applies to readers with a Saudi trip this month), original 2, alone 2. Self 13; final 13."
+ }
+}
