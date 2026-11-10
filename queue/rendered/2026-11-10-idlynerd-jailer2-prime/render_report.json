@@ -1,0 +1,271 @@
+{
+  "slug": "2026-11-10-idlynerd-jailer2-prime",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T11:21:25+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=FW_PPcr1sPE",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=vUj2ZFkdaiA",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=aaNq2NL6D4A",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=ugzPkXEqff4",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=ugzPkXEqff4",
+    "source_url": "https://www.youtube.com/watch?v=ugzPkXEqff4",
+    "image_url": "https://i.ytimg.com/vi/ugzPkXEqff4/maxresdefault.jpg",
+    "credit": "Image: Sun TV (official video)",
+    "organisation": "Sun TV",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=ugzPkXEqff4: author 'Sun TV' https://www.youtube.com/@suntv, title 'JAILER 2 - Release Date Announcement | Superstar Rajinikanth | Sun Pictures | Nelson| Anirudh'",
+      "thumbnail https://i.ytimg.com/vi/ugzPkXEqff4/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@suntv",
+    "video_title": "JAILER 2 - Release Date Announcement | Superstar Rajinikanth | Sun Pictures | Nelson| Anirudh"
+  },
+  "faces": [
+    [
+      664.1,
+      196.6,
+      24.4,
+      30.1,
+      0.806
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5284,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      388.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        512,
+        362,
+        569,
+        432
+      ]
+    ],
+    "logo_saliency": 0.44,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        664.1,
+        196.6,
+        24.4,
+        30.1,
+        0.806
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sun TV (official video)",
+      "Sources: The Hollywood Reporter India, Gulf News, Outlook India",
+      "Sources: The Tribune, Gulf News, The Hollywood Reporter India",
+      "Sources: Sacnilk, DT Next, Outlook India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Sun TV (official video)",
+      "slug": "2026-11-10-idlynerd-jailer2-prime",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Hollywood Reporter India, Gulf News, Outlook India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-jailer2-prime",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 208,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Tribune, Gulf News, The Hollywood Reporter India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-jailer2-prime",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 200,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, DT Next, Outlook India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-jailer2-prime",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November, with audio in Tamil, Telugu, Hindi, Malayalam and Kannada. It will stream in India and in more than 240 countries and territories.\n\nThe first Jailer has been on Prime Video since September 2023, so both films will be on the same service. Nelson Dilipkumar directed the sequel, which Sun Pictures produced.\n\nJailer 2 opened in cinemas on 15 October. Trade tracker Sacnilk puts its worldwide gross at over ₹820 crore, which it says makes Jailer 2 the highest-grossing Tamil film yet.\n\nDid you catch Jailer 2 in a theatre, or are you waiting for the stream?\n\nSources: The Hollywood Reporter India, Outlook India, DT Next, Gulf News, Sacnilk, The Tribune\n\n#Jailer2 #Rajinikanth #PrimeVideo #TamilCinema #idlynerd\n\nImage: Sun TV (official video)",
+  "story": {
+    "status": "rendered",
+    "framing": {
+      "mode": "cover",
+      "focal": [
+        0.5284,
+        0.5
+      ],
+      "zoom": 1.06,
+      "upscale": 1.989,
+      "crop": [
+        405.0,
+        0.0,
+        543.0,
+        720.0
+      ],
+      "band_top": null,
+      "band_height": null,
+      "faces_out": [
+        [
+          510,
+          384,
+          570,
+          458
+        ]
+      ],
+      "logo_saliency": 0.31,
+      "notes": [
+        "1 face(s) detected"
+      ],
+      "faces_src": [
+        [
+          664.1,
+          196.6,
+          24.4,
+          30.1,
+          0.806
+        ]
+      ],
+      "frame": "vertical",
+      "out_h": 1431
+    },
+    "upscale": 1.989,
+    "checks": [
+      {
+        "size": 92,
+        "lines": 3,
+        "overflow": false,
+        "text_top": 1183,
+        "fade_start": 713,
+        "solid_from": 1333,
+        "credit_bottom": 1000,
+        "credit_len": 394,
+        "collisions": [],
+        "ui_zone": [],
+        "outside": [],
+        "left_edges": {
+          "kicker": 64,
+          "headline": 64,
+          "date": 64
+        },
+        "min_font_px": 30,
+        "truncated": [],
+        "page": "cover",
+        "type": "cover",
+        "scale": 1.0,
+        "photo_h": 1431,
+        "crop": [
+          0,
+          0,
+          1080,
+          1431
+        ],
+        "credit_line": "Image: Sun TV (official video)",
+        "problems": []
+      }
+    ],
+    "file": "story.jpg"
+  }
+}

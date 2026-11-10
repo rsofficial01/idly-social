@@ -76,5 +76,15 @@
     }
   },
   "notes": "idlynerd desk, hourly run 1629. Gates 1-2 passed (G2 fixes applied: future tense for availability, own wording for the back-to-back line, past tense directed/produced, highest-grossing attributed to Sacnilk). No idly.news article: Sources line, no idly link. Cover chain: Sun TV (allowlisted @suntv; Sun Pictures is Sun TV Network's film arm) official trailer FW_PPcr1sPE, then Promo 2 vUj2ZFkdaiA, announcement teaser aaNq2NL6D4A, release-date video ugzPkXEqff4; 1280x720 -> 1.875x (max 2.0). Tag @suntv: sunnetwork.in (Sun TV Network's own site, on the allowlist) links https://www.instagram.com/suntv/. Gate 4 HOLD triggers: burned-in title/date text competing with the headline or cut off; a cinema date ('October 15') baked in that reads as the streaming date; headline over a face; soft enlargement.",
-  "created_at": "2026-11-10T16:51:00+05:30"
+  "created_at": "2026-11-10T16:51:00+05:30",
+  "slug": "2026-11-10-idlynerd-jailer2-prime",
+  "caption_final": "Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November, with audio in Tamil, Telugu, Hindi, Malayalam and Kannada. It will stream in India and in more than 240 countries and territories.\n\nThe first Jailer has been on Prime Video since September 2023, so both films will be on the same service. Nelson Dilipkumar directed the sequel, which Sun Pictures produced.\n\nJailer 2 opened in cinemas on 15 October. Trade tracker Sacnilk puts its worldwide gross at over ₹820 crore, which it says makes Jailer 2 the highest-grossing Tamil film yet.\n\nDid you catch Jailer 2 in a theatre, or are you waiting for the stream?\n\nSources: The Hollywood Reporter India, Outlook India, DT Next, Gulf News, Sacnilk, The Tribune\n\n#Jailer2 #Rajinikanth #PrimeVideo #TamilCinema #idlynerd\n\nImage: Sun TV (official video)",
+  "image_credit": "Image: Sun TV (official video)",
+  "lane": {
+    "spec_sha256": "7bb2dae74278cd39d9a58cfc8b86a4f0ccb10a046746aa09b18d9ac27fc01fb5",
+    "rendered_at": "2026-11-10T11:21:25+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=ugzPkXEqff4",
+    "image_url": "https://i.ytimg.com/vi/ugzPkXEqff4/maxresdefault.jpg"
+  }
 }
