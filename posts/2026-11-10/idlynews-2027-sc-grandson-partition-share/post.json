@@ -1,0 +1,53 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2027-sc-grandson-partition-share",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Supreme Court of India",
+    "LiveLaw",
+    "Verdictum"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "SC: No Birthright for Grandson in Father's Partition Share",
+      "photo": "_work/2026-11-10-hourly-2027/idlynews/framingA/cover_source.png",
+      "photo_credit": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0",
+      "focal": [
+        0.56,
+        0.63
+      ],
+      "zoom": 1.3
+    },
+    {
+      "type": "detail",
+      "stat": "SECTION 8",
+      "stat_label": "What the Supreme Court Ruled",
+      "bullets": [
+        "Father's share of a partitioned estate is his own",
+        "Not joint family or coparcenary property, the court said",
+        "Grandson can't sue for it while his father lives"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "CLASS I",
+      "stat_label": "Who Inherits Under Section 8, Per the Court",
+      "bullets": [
+        "Applies when the grandfather died without a will",
+        "A son's son is not a Class I heir",
+        "The son of a predeceased son is one"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "29 YEARS",
+      "stat_label": "From a 1997 Suit to the Supreme Court",
+      "bullets": [
+        "Father got the plot in a 1994 partition decree",
+        "Father sold it in 1997; grandson sued that year",
+        "Supreme Court dismissed the grandson's appeal on 6 November"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+ "account": "idlynews",
+ "title": "SC (6 Nov 2026, 2026 INSC 1208): a son's share from a partitioned Section 8 (intestate) estate is his own; grandson has no birthright and can't sue for partition in the father's lifetime",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://api.sci.gov.in/supremecourt/2011/4403/4403_2011_15_1501_76006_Judgement_06-Nov-2026.pdf",
+  "https://www.livelaw.in/top-stories/hindu-succession-supreme-court-grandson-right-property-allotted-father-partition-grandfather-estate-557961",
+  "https://www.verdictum.in/supreme-court/j-rajesh-minor-through-his-mother-and-natural-guardian-j-gomathi-v-m-kumaran-dead-through-lrs-2026-insc-1208-grandfathers-property-1625434"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/ (Supreme_Court_of_India_01.jpg, fetched full size 2638x1643 via https://commons.wikimedia.org/w/thumb.php?f=Supreme_Court_of_India_01.jpg&w=2638)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Subhashish Panigrahi (Psubhashish)",
+  "original_size": "2638x1643",
+  "credit": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "subject": "Supreme Court of India, central wing (Chief Justice's court), New Delhi, with the bronze mother-and-child sculpture in the forecourt; photographed 11 Dec 2019",
+  "viewed": true,
+  "processing": "pipeline.framing ok (0 faces); cover focal [0.56, 0.63], zoom 1.3 (crop 1011x1264 from x 972, y 379), cardkit upscale 1.07 (no pre-scale needed below 1.15); logo-box saliency 1.62 (limit 2.2); tight crop on the drum and sculpture so it is not the full-dome view used at 13:27 and 15:27; a few tiny, unidentifiable figures on the entrance steps sit under the headline scrim. No other edits."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "Backup A (ceiling 12): headline must carry the condition; use the judgment's own date; avoid a near-identical SC dome cover. B (Vande Bharat) was built, then dropped at Gate 2: its fares came from one PTI report with no independent second source.",
+  "g2": "FIX (caption only, 2 exact replacements, applied verbatim by main; diff checked): the High Court upheld the appeal court's reversal (not 'reversed' the trial court); 'son's child' -> 'grandson'. Otherwise exact and neutral vs the judgment PDF (paras 1-2, 4, 6-9, 13, 38-42), LiveLaw, Verdictum.",
+  "g3": "PASS: Commons, Subhashish Panigrahi, CC BY-SA 4.0; tight crop of the SC drum, tricolour and mother-and-child sculpture (not a repeat of the 13:27/15:27 full-dome covers); people on the steps too small to identify; 1.07x enlargement.",
+  "g4": "PASS: reviewer 13/14 (hook 1: no number on the cover; third SC story on the page today); self 12/14 (original 1); final 12/14."
+ }
+}

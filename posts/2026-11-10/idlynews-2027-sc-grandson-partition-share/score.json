@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 1,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (12) and reviewer (13): the desk's self score. hook 1: the stake is clear (no birthright) but there is no number on the cover, and it is the third Supreme Court cover today even with a tighter crop. original 1: credited Commons photo and our synthesis from the judgment itself, but the SC building repeats on the grid. read 2: the ruling, then who it covers, then how the case ran. send 2: families who have divided a grandparent's property. keep 2: the rule, the Class I limit, the predeceased-son exception, the case number in the caption. reply 2: undivided family property is answered from readers' own lives. alone 2: every slide names the court, section or case.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 1,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: the stake is clear (no birthright) but there is no number on the cover, and it is the third Supreme Court cover today even with a tighter crop. original 1: credited Commons photo and our synthesis from the judgment itself, but the SC building repeats on the grid. read 2: the ruling, then who it covers, then how the case ran. send 2: families who have divided a grandparent's property. keep 2: the rule, the Class I limit, the predeceased-son exception, the case number in the caption. reply 2: undivided family property is answered from readers' own lives. alone 2: every slide names the court, section or case."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4, run 2027. Valid only with the two caption fixes in g23b-verdict.md applied verbatim (the slides are unaffected). hook 1: there's no number on the cover, the legal headline is long, and this is the page's third Supreme Court story today, so the stake is clear but won't stop a scroll in a second. All other checks strong: the rule plus its conditions and exception (Section 8 / no will / predeceased son's son) are keepable and sendable to families with divided property; the question is own-life; each slide carries its own context. Facts checked against the judgment PDF (paras 1-2, 4, 6-9, 13, 38-42; signed 06.11.2026), LiveLaw and Verdictum. Layout: the cover is clearly the Supreme Court (drum, chhatri, tricolour, mother-and-child sculpture) and is a distinct tight crop, not the full-dome lawn view of the 13:27/15:27 covers. Enlargement 1.07x, sharp. The figures on the steps are tiny and unidentifiable. The sculpture is whole, with its base just meeting the ascenders of line 1 (acceptable). White Title Case headline on the date's left edge; logo and vertical credit readable. Slides 02-04: white labels, one left edge, Sources line clear, no overflow."
+ }
+}
