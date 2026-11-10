@@ -1,0 +1,80 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Jailer 2 streams on Prime Video from 12 Nov in five languages; Jailer (2023) already on Prime",
+  "headline": "Jailer 2 Streams on Prime Video From Thursday, 12 Nov",
+  "caption": "Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November, with audio in Tamil, Telugu, Hindi, Malayalam and Kannada. It will stream in India and in more than 240 countries and territories.\n\nThe first Jailer has been on Prime Video since September 2023, so both films will be on the same service. Nelson Dilipkumar directed the sequel, which Sun Pictures produced.\n\nJailer 2 opened in cinemas on 15 October. Trade tracker Sacnilk puts its worldwide gross at over ₹820 crore, which it says makes Jailer 2 the highest-grossing Tamil film yet.\n\nDid you catch Jailer 2 in a theatre, or are you waiting for the stream?\n\nSources: The Hollywood Reporter India, Outlook India, DT Next, Gulf News, Sacnilk, The Tribune\n\n#Jailer2 #Rajinikanth #PrimeVideo #TamilCinema #idlynerd",
+  "alt_text": "Slide 1: an official Jailer 2 still from Sun TV's YouTube channel, under the headline \"Jailer 2 Streams on Prime Video From Thursday, 12 Nov\". Slide 2: \"12 NOV\", Jailer 2 Arrives on Prime Video: audio in Tamil, Telugu, Hindi, Malayalam and Kannada; streams in India and 240+ countries and territories. Slide 3: \"SEP 2023\", Jailer Has Streamed on Prime Since: Jailer 2 joins it there on 12 Nov; Rajinikanth returns as Tiger Muthuvel Pandian; Nelson Dilipkumar directed, Sun Pictures produced. Slide 4: \"₹820 CR+\", Worldwide Gross, per Trade Tracker Sacnilk: the highest-grossing Tamil film yet, Sacnilk says; in cinemas from 15 Oct, streaming four weeks on.",
+  "sources": [
+    "The Hollywood Reporter India",
+    "Outlook India",
+    "DT Next"
+  ],
+  "detail_slides": [
+    {
+      "stat": "12 NOV",
+      "stat_label": "Jailer 2 Arrives on Prime Video",
+      "bullets": [
+        "Audio in Tamil, Telugu, Hindi, Malayalam and Kannada",
+        "Streams in India and 240+ countries and territories"
+      ],
+      "credit_line": "Sources: The Hollywood Reporter India, Gulf News, Outlook India"
+    },
+    {
+      "stat": "SEP 2023",
+      "stat_label": "Jailer Has Streamed on Prime Since",
+      "bullets": [
+        "Jailer 2 joins it there on 12 Nov",
+        "Rajinikanth returns as Tiger Muthuvel Pandian",
+        "Nelson Dilipkumar directed; Sun Pictures produced"
+      ],
+      "credit_line": "Sources: The Tribune, Gulf News, The Hollywood Reporter India"
+    },
+    {
+      "stat": "₹820 CR+",
+      "stat_label": "Worldwide Gross, per Trade Tracker Sacnilk",
+      "bullets": [
+        "Highest-grossing Tamil film yet, Sacnilk says",
+        "In cinemas from 15 Oct; streaming four weeks on"
+      ],
+      "credit_line": "Sources: Sacnilk, DT Next, Outlook India"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=FW_PPcr1sPE",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=vUj2ZFkdaiA"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=aaNq2NL6D4A"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=ugzPkXEqff4"
+      }
+    ]
+  },
+  "tags": [
+    "suntv"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 1,
+      "total": 13,
+      "notes": "hook 2: Rajinikanth's record Tamil hit + exact streaming date on the cover. read 2: date/languages, back-to-back with Jailer, attributed box office; no filler. send 2: five Indian audio languages and the Thursday date are a concrete reason to forward to family/friends who skipped the theatre run. keep 2: 12 Nov, platform, five languages, Jailer (2023) on the same service. reply 2: theatre-or-stream question from readers' own viewing. original 2: idly's synthesis (both films on one service, four weeks from cinemas, dubs) beyond the bare OTT date. alone 1: cover names film, platform and date but the image is a lane still whose framing/burned-in text I can't preview."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 1629. Gates 1-2 passed (G2 fixes applied: future tense for availability, own wording for the back-to-back line, past tense directed/produced, highest-grossing attributed to Sacnilk). No idly.news article: Sources line, no idly link. Cover chain: Sun TV (allowlisted @suntv; Sun Pictures is Sun TV Network's film arm) official trailer FW_PPcr1sPE, then Promo 2 vUj2ZFkdaiA, announcement teaser aaNq2NL6D4A, release-date video ugzPkXEqff4; 1280x720 -> 1.875x (max 2.0). Tag @suntv: sunnetwork.in (Sun TV Network's own site, on the allowlist) links https://www.instagram.com/suntv/. Gate 4 HOLD triggers: burned-in title/date text competing with the headline or cut off; a cinema date ('October 15') baked in that reads as the streaming date; headline over a face; soft enlargement.",
+  "created_at": "2026-11-10T16:51:00+05:30"
+}
