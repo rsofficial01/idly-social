@@ -921,9 +921,9 @@ def reel_post_from_folder(source: str, slug: str, work: Path) -> tuple[dict, str
 
 
 def vertical_post(post: dict, im, work: Path) -> tuple[dict, dict]:
-    """Plan the 9:16 photo window (faces detected here, in Actions) and put it on the cover slide."""
+    """Plan the reel's 9:16 photo window (faces detected here, in Actions) and put it on the cover slide."""
     try:
-        vplan = framing.plan_image(im, frame=framing.VERTICAL)
+        vplan = framing.plan_image(im, frame=framing.REEL)
     except framing.FramingError as e:
         raise LaneReject([f"framing: {r}" for r in e.reasons], "framing")
     if vplan.upscale > framing.MAX_UPSCALE + 1e-6:

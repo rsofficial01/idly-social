@@ -575,7 +575,7 @@ class LaneReels(PublishApproved):
         self.assertTrue(req["caption_final"].endswith("\n\nImage: Maruti Suzuki"))
         self.assertEqual((req["reel_of"], req["image_credit"]), ("1790", "Image: Maruti Suzuki"))
         rep = json.loads((rdir / "render_report.json").read_text())
-        self.assertEqual(rep["framing"]["frame"], "vertical")
+        self.assertEqual(rep["framing"]["frame"], "reel")                   # framing.REEL: faces above the reel's fade
         self.assertTrue(rep["image_url"].endswith("/wagonr-front.jpg"))      # the very image the feed post used
         post = REEL_CALLS[-1]["post"]
         self.assertEqual(post["slides"][0]["vertical"]["photo_h"], rep["framing"]["out_h"])

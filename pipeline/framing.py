@@ -19,7 +19,8 @@ Vertical (9:16 Stories and Reels, cardkit.vertical): the photo fills the width a
 into the dark background where the text sits. plan_image(img, frame=VERTICAL) plans that photo window with the same
 rules at its own limits: the crop has the cover's width at a given zoom (the cover's 4:5 crop) and is taller when the
 source allows (up to 1080x1440); faces sit in y 380-880 (below the logo at y 240-300, above the text block), at least
-48 px from the sides (room for the reel's 1.00-1.06 push-in), and nothing salient sits under the logo.
+48 px from the sides, and nothing salient sits under the logo. frame=REEL is the same for reels, with faces
+in y 360-700 (a reel's text sits higher, so its photo fades out earlier).
 
 Faces come from OpenCV's YuNet detector (opencv_zoo, face_detection_yunet_2023mar.onnx), downloaded once
 and cached (sha256-checked). Tests use synthetic boxes; nothing here needs a real face to be tested.
@@ -84,6 +85,10 @@ COVER = Frame("cover", FACE_TOP, FACE_BOTTOM, EDGE_MARGIN, LOGO_BOX)
 # zooms 1.00 -> 1.06 about (540, 630), which keeps a face planned inside this band clear of the logo and the edges.
 VERTICAL = Frame("vertical", face_top=380, face_bottom=880, edge_margin=48, logo_box=(330, 230, 750, 310),
                  h_min=1350, h_max=1440)
+# Reels (cardkit.reel): the text block sits higher (cardkit.vertical.REEL_SAFE_ZONE ends at y 1380) and the photo fades
+# out from about y 640, so faces stay in y 360-700; the push-in zooms 1.00 -> 1.06 about (540, 530), the band's middle.
+REEL = Frame("reel", face_top=360, face_bottom=700, edge_margin=48, logo_box=(330, 230, 750, 310),
+             h_min=1350, h_max=1440)
 
 
 class FramingError(Exception):
