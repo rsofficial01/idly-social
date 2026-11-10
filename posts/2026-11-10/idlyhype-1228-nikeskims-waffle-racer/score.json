@@ -1,0 +1,55 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self 12 and reviewer 12 (reviewer's checks used). send 1: a US-site drop with no India release, so few Indian readers can act on it (only those shopping via US family). reply 1: 'Which old-school sneaker would you most like to see brought back?' is genuine and not bait, but generic; it could sit under any retro post and is not tied to readers' own lives. Strong: the cover is the actual product from Nike's newsroom, the price is attributed, the India status is honest, and the dates, price, colourways and sites are all keepable.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 12, reviewer 12)",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 2: specific price + recognisable NikeSKIMS + 1970s archive shoe, drop is 10 Nov. send 1: no India release, Indian readers can't buy it; the honest India slide limits the send. keep 2: 10 Nov / 17 Nov dates, $130, three colourway names, where sold, SKIMS India status. reply 1: the retro-revival question is genuine but generic (would fit any retro sneaker post). original 2: idly's synthesis, India context, Nike press image credited, own letterbox. alone 2: every slide names NikeSKIMS/SKIMS and stands alone. At the gate with no margin; third Nike-family post on the account today."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "send 1: a US-site drop with no India release, so few Indian readers can act on it (only those shopping via US family). reply 1: 'Which old-school sneaker would you most like to see brought back?' is genuine and not bait, but generic; it could sit under any retro post and is not tied to readers' own lives. Strong: the cover is the actual product from Nike's newsroom, the price is attributed, the India status is honest, and the dates, price, colourways and sites are all keepable.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [
+   "minor, not blocking: slide 02 bullet 1 breaks the colourway name 'Light / Bone/Varsity Red' across lines; bullet 2 orphans '10 Nov'"
+  ],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://about.nike.com/en/newsroom/releases/nikeskims-waffle-racer-and-retro-sport-collection-reimagine-classic-sport-style",
+  "licence": "Nike official press image (newsroom), editorial use, credited 'Image: Nike'",
+  "author": "Nike",
+  "viewed": true,
+  "processing": "2048x2048 newsroom product shot (three pairs, no people); letterboxed on a blurred, darkened copy; scaled 0.54 (no upscale); shoes at ~y 212-725"
+ },
+ "gates": {
+  "g1": "# @idlyhype · run 1228 · Gate 1 verdict (blind reviewer)\n\n## 1. NikeSKIMS Waffle Racer drops today, $130: BUILD (ceiling 12/14, at the gate, no margin)\nPredicted ceiling: hook 2 · read 2 · send 1 · keep 2 · reply 1 · original 2 · alone 2 = 12.\nChecked: the Nike newsroom (5 Nov 2026) says \"available November 10 at nike.com/NikeSKIMS and\nSKIMS.com/collections/NikeSKIMS\", with the full Retro Sport collection on 17 Nov and select Nike, SKIMS and partner\nstores to follow. It names three two-tone colourways but gives no names and no price. Image -1 opened at full size:\nthree pairs stacked on a grey ",
+  "g23": "# @idlyhype · run 1228 · Gates 2, 3 (and 4 on the draft): NikeSKIMS Waffle Racer\n\n## Gate 2, words: PASS\nChecked myself, 2+ sources each:\n- 10 Nov on nike.com/NikeSKIMS and SKIMS.com: Nike newsroom (5 Nov) and Sneaker Bar Detroit (\"All three colorways\n  release November 10, 2026\"). Highsnobiety and Just Fresh Kicks agree.\n- 17 Nov Retro Sport apparel: Nike newsroom, Sneaker Bar Detroit, Just Fresh Kicks. \"On the same two sites\" is a fair\n  reading of Nike's sentence (\"...SKIMS.com/collections/NikeSKIMS, joined by the full Retro Sport collection November\n  17\"). Select Nike, SKIMS and partner stores follow (Nike).\n- $130: Highsnobiety, Just Fresh Kicks, Sneaker Bar Detroit (\"$130 per pair\"). The caption correctly says Nike's\n  release gives no price.\n- Colourways Baroque Brown / Thunder Blue / Light Bone/Varsity Red: Just Fresh Kicks (exact), and Sneaker Bar Detroit\n  (full names: Baroque",
+  "g4": "PASS at reviewer 12/14 on the draft render; posts/ slides are byte-identical copies"
+ }
+}

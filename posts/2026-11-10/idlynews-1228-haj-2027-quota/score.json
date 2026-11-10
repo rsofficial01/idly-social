@@ -1,0 +1,55 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self 12 and reviewer 13 (self's checks used). hook 1: 'Fifth Year' and the exact number are specific, but an unchanged quota is not a surprise and the stake is narrow. reply 1: the wait-for-a-seat question is genuine but only speaks to families with applicants. send 2: Haj applicants' families, group organisers, eastern India (Kolkata Short Haj). keep 2: 70:30 seat counts, Short Haj from Kolkata, inspector ratio, quota history. read/original/alone 2: tight 4-slide carousel, CC0 photo of the actual place, each slide self-explanatory.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 12, reviewer 13)",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 1,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: 'Fifth Year' and the exact number are specific, but an unchanged quota is not a surprise and the stake is narrow. reply 1: the wait-for-a-seat question is genuine but only speaks to families with applicants. send 2: Haj applicants' families, group organisers, eastern India (Kolkata Short Haj). keep 2: 70:30 seat counts, Short Haj from Kolkata, inspector ratio, quota history. read/original/alone 2: tight 4-slide carousel, CC0 photo of the actual place, each slide self-explanatory."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: a no-change story. 1,75,025 is specific but not surprising, and the 'fifth year' stake is clear mainly to Haj families, so a general news reader may scroll past. Strong: every number double-sourced and attributed, idly's own synthesis (flat since 2023 vs 2,00,000 in 2019), keepable seat split / 20-day Short Haj / Kolkata embarkation point / inspector ratio, a genuine family-life question, and a CC0 photo of the actual place, dated in the alt text.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [
+   "minor: slides 02-04 have 2 bullets each, leaving ~350-400px of empty space above the stat (template-normal, not blocking)"
+  ],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Masjidul-HaramAerialView_(cropped).jpg",
+  "licence": "CC0 1.0",
+  "author": "Wurzelgnohm",
+  "viewed": true,
+  "processing": "Commons 1920x1440 rendition (2012 night aerial of Masjid al-Haram); letterbox band y 170-859, scaled 0.711 (no upscale); Kaaba at ~(547,560); alt text dates the photo to 2012"
+ },
+ "gates": {
+  "g1": "# @idlynews · run 1228 · Gate 1 verdict (blind reviewer)\n\n## A. Haj 2027 quota 1,75,025: BUILD (ceiling 12/14, at the gate, no margin)\nPredicted ceiling: hook 1 · read 2 · send 2 · keep 2 (only with the FIXes below) · reply 1 · original 2 · alone 2 = 12.\nChecked: fresh (signed Mon 9 Nov 2026, Jeddah; AIR 10 Nov 12:11 IST, PTI/ETV Bharat 9 Nov, Millennium Post 10 Nov).\nNot covered today. Not gossip. Commons file is real, CC0 1.0, Wurzelgnohm, 2,213 x 1,660, 28 Feb 2012, actual place.\n\nFIXes the build must carry:\n1. FACT ERROR in the planned slide 03 (\"1,75,025 since 2025\") and in \"the same as i",
+  "g23": "# @idlynews · run 1228 · Gates 2, 3 (and 4 on the test render): Haj 2027 quota\n\n## Gate 2, words: PASS\nVerified myself, 2+ independent sources each:\n- 1,75,025 for Haj 2027, signed Mon 9 Nov after the Rijiju–Al Rabiah talks, per the Indian Consulate in Jeddah: AIR\n  (10 Nov), PTI via ETV Bharat (9 Nov, \"Monday\", consulate), and Madhyamam's own web desk (9 Nov, \"The signing on\n  November 9\", Consulate General). Signatories are correctly not named.\n- Unchanged since Haj 2023: Deccan Herald/PTI 2023, Telangana Today 2023; 2024 DH and DTNext; 2025 DH; 2026 DH and\n  Outlook. \"Fifth year\" = 2023–27 consecutive, which is correct. (1,75,025 was also the 2018 figure, so it must stay\n  \"for a fifth year\" / \"since Haj 2023\". Never \"first time\" or \"record\".)\n- 2,00,000 in 2019: Arab News (own reporter: a 30,000 rise to 200,000) and Madhyamam (Jun 2019); PTI/DH headline.\n- 70:30, 1,22,518 / 52,507 un",
+  "g4": "PASS at reviewer 13/14 on the draft render; posts/ slides are byte-identical copies"
+ }
+}

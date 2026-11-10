@@ -1,0 +1,56 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self 13 and reviewer 13 (reviewer's checks used). keep 1: the keepable items are a court date that passes tomorrow and UK prices for a car not sold in India; little an Indian reader would save. Strong: a clear-stake hook (Land Rover v BYD) over the actual car, 'alleges' discipline throughout, BYD's side in its lawyers' own words from 3 outlets, the 11 Nov wording covering both source framings, an honest India line, and a story-specific genuine question.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 13, reviewer 13)",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: only the 11 Nov court date and UK GBP prices are keepable; nothing an Indian buyer acts on. send 2: Defender owners/fans and anyone who jokes about Chinese lookalikes have a concrete reason (court action, raid). reply 2: inspiration-vs-copying question is open and from readers' own taste, no poll. hook 2: Defender + alleged copy + court this week, with the actual car on the cover. Risk: India angle is thin (Tata-owned JLR only); reviewer predicted 12 at Gate 1 (reply 1), so margin is small."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: the keepable items are a court date that passes tomorrow and UK prices for a car not sold in India; little an Indian reader would save. Strong: a clear-stake hook (Land Rover v BYD) over the actual car, 'alleges' discipline throughout, BYD's side in its lawyers' own words from 3 outlets, the 11 Nov wording covering both source framings, an honest India line, and a story-specific genuine question.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [
+   "minor: slide 02 italic 'A' of the AUG stat overhangs ~10px left of the x72 text edge (typographic overshoot, not blocking)"
+  ],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://www.byd.com/uk/hybrid-cars/ti-7",
+  "image_url": "https://www.byd.com/material/__EU/byd-site/byd-uk/models/ti-7/pc/exterior-gallery/jadegreen/1.webp",
+  "licence": "BYD official model-page studio image, editorial use, credited 'Image: BYD'",
+  "author": "BYD",
+  "viewed": true,
+  "processing": "2816x1440 studio shot of the actual Ti7, no people/watermark; letterboxed, downscale only; car whole at ~y 248-700"
+ },
+ "gates": {
+  "g1": "# @idlyautomotive · run 1228 · Gate 1 verdict (blind reviewer)\n\n## 1. JLR vs BYD over the Defender-like Ti7, Hague ruling this week: BUILD (ceiling 12/14)\nPredicted ceiling: hook 2 · read 2 · send 2 · keep 1 · reply 1 · original 2 · alone 2 = 12.\nChecked: Motor1 (9 Nov) says bailiffs acting for JLR seized digital records in August at BYD's Schiedam and Hoofddorp\npremises. A court in The Hague is to give a preliminary ruling, \"expected November 11\". The UK Ti7 is due in January\nfrom £47,995, against £68,465 for a seven-seat Defender 110. JLR \"does not comment on ongoing legal proceedings\". The\n",
+  "g23": "# @idlyautomotive · run 1228 · Gates 2, 3 (and 4 on the test render): JLR alleges BYD Ti7 copies the Defender\n\n## Gate 2, words: PASS\nVerified myself:\n- \"Alleges\" is used throughout: the headline, 02 and the caption. No sentence says BYD copied. The raid and the\n  reverse-engineering suspicion are attributed to The Sunday Times (\"The paper also reports...\").\n- BYD's \"fishing expedition\": Motor1 (\"BYD's legal team called the seizure a 'fishing expedition' and argued too\n  many files were taken\"), CarNewsChina (\"describing it as a 'fishing expedition'\"), and 4X4 Australia (\"fishing\n  expedition\", \"too many files were taken\"). Three independent outlets.\n- The 11 Nov court date: Motor1 (\"preliminary ruling expected November 11\") and CarNewsChina (\"A preliminary hearing is\n  scheduled for November 11 in Hague\"). The wording \"due in court in The Hague on 11 Nov, with a preliminary ruling\n  exp",
+  "g4": "PASS at reviewer 13/14 on the draft render; posts/ slides are byte-identical copies"
+ }
+}

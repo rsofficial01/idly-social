@@ -1,0 +1,55 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self 13 and reviewer 13 (reviewer's checks used). keep 1: the only keepable items are mid-2027 and the four first-phase functions; little a reader would save or act on (no dates for individual roles, no locations or numbers for India hiring). Strong: an attributed 850/India hook with a clear Indian stake, each side in its own words (Hudson vs ASU's Cowen) double-sourced, a genuine work-life question, and the actual Qantas HQ with signage credited CC BY-SA.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 13, reviewer 13)",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: only mid-2027 and the four functions are dated or specific; there are no India hiring numbers or locations. hook 2: 850 + India on the cover over the lit QANTAS sign, from today. send 2: Indian IT/GCC/Accenture staff and Indians in Australia. read 2: each line adds a fact; both sides are quoted at equal weight. reply 2: open work-life question, no poll. original 2: own synthesis, credited Commons photo. alone 2: every slide names Qantas. Risks: the headline wording \"Work Moving Mostly to India\" (Qantas words it as services moved to Accenture being delivered mostly by Accenture teams in India); the 1.10x upscale; tiny unidentifiable passers-by under the headline."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: the only keepable items are mid-2027 and the four first-phase functions; little a reader would save or act on (no dates for individual roles, no locations or numbers for India hiring). Strong: an attributed 850/India hook with a clear Indian stake, each side in its own words (Hudson vs ASU's Cowen) double-sourced, a genuine work-life question, and the actual Qantas HQ with signage credited CC BY-SA.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [
+   "minor: cover headline line 3 ends ~20px from the vertical credit (not touching)"
+  ],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Qantas_Headquarters.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "MDRX",
+  "viewed": true,
+  "processing": "Commons 1920x1376 rendition (original rate-limited); full-bleed hype cover, focal (0.43,0.57), zoom 1.12, 1.10x upscale; Qantas sign at ~y 345-560; passers-by tiny and unidentifiable"
+ },
+ "gates": {
+  "g1": "# @idlytech · run 1228 · Gate 1 verdict (blind reviewer)\n\nDisclosure: this reviewer is also an Anthropic model. A was judged on the strict side for that reason.\n\n## B. Qantas: ~850 head-office roles to Accenture, mostly in India: BUILD (ceiling 13/14). Build this one.\nPredicted ceiling: hook 2 · read 2 · send 2 · keep 1 · reply 2 · original 2 · alone 2 = 13.\nChecked: ANI/Tribune (10 Nov, 10:02 IST) gives about 850 head-office roles to Accenture under a multi-year agreement.\nThe first phase is finance, procurement, people and marketing, with first changes by mid-2027. The CEO says\nservices will",
+  "g23": "# @idlytech · run 1228 · Gates 2, 3 (and 4 on the draft): Qantas–Accenture\n\n## Gate 2, words: PASS\nVerified myself, 2+ independent sources each:\n- About 850 roles: NewsWire/Yahoo (\"around 850 roles to be affected over the coming years\"), ANI/Tribune, Avitrader,\n  Information Age, Cyber Daily.\n- Mid-2027: NewsWire (Hudson), Avitrader, Cyber Daily; Information Age says \"by the middle of next year\".\n- The four functions (finance, procurement, people, marketing): ANI, Information Age, Cyber Daily.\n- More than 1,000 legacy apps: ANI, Avitrader, Cyber Daily.\n- \"Delivered mostly by its teams in India and some in Australia\": NewsWire, ANI, Avitrader, Information Age.\n- Hudson's \"modernising the technology behind our business and becoming more efficient\": ANI and NewsWire, verbatim.\n- Cowen's \"Earlier this year, Qantas told us directly there was no plan to offshore any jobs.\": ANI/Tribune and\n  I",
+  "g4": "PASS at reviewer 13/14 on the draft render; posts/ slides are byte-identical copies"
+ }
+}
