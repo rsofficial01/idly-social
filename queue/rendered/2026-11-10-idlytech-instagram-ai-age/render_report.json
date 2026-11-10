@@ -1,0 +1,124 @@
+{
+  "slug": "2026-11-10-idlytech-instagram-ai-age",
+  "account": "idlytech",
+  "rendered_at": "2026-11-10T05:26:38+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+    "source_url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+    "image_url": "https://about.fb.com/wp-content/uploads/2026/11/Expanding-Teen-Account-Protections-to-Teens-Around-the-World_socialShare.jpg?w=1200",
+    "credit": "Image: Meta",
+    "organisation": "Meta",
+    "image_size": [
+      1200,
+      675
+    ],
+    "log": [
+      "page https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/ (Meta): og:title 'Expanding Teen Account Protections to Teens Around the World', 1 image(s)",
+      "image https://about.fb.com/wp-content/uploads/2026/11/Expanding-Teen-Account-Protections-to-Teens-Around-the-World_socialShare.jpg?w=1200 (1200x675)"
+    ],
+    "og_title": "Expanding Teen Account Protections to Teens Around the World"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.9,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [],
+    "logo_saliency": null,
+    "notes": [
+      "0 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 540px wide, 2.00x upscale (max 1.2x)"
+    ],
+    "faces_src": []
+  },
+  "upscale": 0.9,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Meta",
+      "Sources: Meta, TechCrunch, Engadget",
+      "Source: Meta"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Meta",
+      "slug": "2026-11-10-idlytech-instagram-ai-age",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Meta, TechCrunch, Engadget",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlytech-instagram-ai-age",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 156,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Meta",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlytech-instagram-ai-age",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Instagram is now using AI to spot accounts it thinks belong to 13–17-year-olds, even when the user signed up with an adult birthday, and move them into Teen Account settings. In a 9 November announcement, Meta said it is expanding the system worldwide.\n\nIn India, those settings mean a private profile by default, DMs only from people the teen follows or is already connected to, a nudge to leave after 60 minutes a day, and sleep mode from 10 PM to 7 AM. Under-16s need a parent's approval to loosen any of them.\n\nMeta says it is still rolling the system out on Facebook and will start on Threads later this year. Its announcement gives no figure for how accurate the AI is.\n\nWould you rather Instagram guessed your age with AI, or asked for an ID?\n\nFull story on idly.news (link in bio).\n\n#Instagram #Meta #TeenSafety #OnlineSafety #idlytech\n\nImage: Meta"
+}
