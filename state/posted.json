@@ -578,5 +578,33 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1427-story-mfg-asics-transcend/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-10-idlynerd-rings-of-power-s3",
+    "image_credit": "Image: Prime Video (official trailer)",
+    "image_source": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-rings-of-power-s3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-rings-of-power-s3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-rings-of-power-s3/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-rings-of-power-s3/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 13,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18121650754972753",
+    "permalink": "https://www.instagram.com/p/DfjmkJmD3J0/",
+    "posted_at": "2026-11-10T09:38:28+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-rings-of-power-s3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-rings-of-power-s3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-rings-of-power-s3/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-rings-of-power-s3/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
