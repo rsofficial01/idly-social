@@ -1,0 +1,38 @@
+{
+ "account": "idlytech",
+ "title": "DoT data obtained by The Hindu under RTI (reported 9 Nov 2026): 11,372 Indian villages have no 4G, down from 45,180 in 2022 (about 75%); Odisha has the most (1,789), then Arunachal Pradesh (1,518); about 40 lakh people live in villages without 4G, around 46% in ST-majority villages; the fall beats BSNL's 24,680-village saturation target; 26,000 more tower sites sanctioned; Telecom Minister Scindia had targeted every village by June 2026 (the count's date is not given)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.thehindu.com/news/national/number-of-villages-without-4g-connectivity-falls-by-three-fourths-in-four-years/article71682377.ece",
+  "https://www.communicationstoday.co.in/villages-without-4g-fall-to-11372-from-45180-in-2022/",
+  "https://www.civilsdaily.com/news/villages-without-4g-decline-75-in-4-years-on-bsnls-saturation-project/",
+  "https://thepamphlet.in/villages-without-4g-connectivity-fall-by-three-fourths-in-four-years/",
+  "https://www.broadcastandcablesat.co.in/villages-without-4g-connectivity-fall-to-11372-from-45180-in-2022/",
+  "https://ianslive.in/4g-network-will-reach-every-village-by-june-2026-jyotiraditya-scindia--20260109182400",
+  "https://www.lokmattimes.com/business/india-to-contribute-10-of-global-patterns-to-future-6g-standards-full-4g-saturation-by-june-2026-jyotiraditya-scindia/",
+  "https://telecomtalk.info/4g-in-every-village-of-india-by/1003474/",
+  "https://theprint.in/india/cabinet-approves-project-for-saturation-of-4g-mobile-services-in-uncovered-villages/1057629",
+  "https://www.theweek.in/news/biz-tech/2022/07/27/centre-approves-rs-164-lakh-crore-package-to-revive-bsnl.html",
+  "https://trai.gov.in/sites/default/files/2026-10/PR_No127of2026.pdf (TRAI Yearly Performance Indicators 2025-26, 5 Oct 2026: 1,092.79 million internet subscribers, 1,026.75 million wireless data subscribers at end-March 2026; supports 'Mobile data is how most Indians get online' with The Hindu)"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:A_BSNL_4G_Telecom_Tower_Rising_Through_The_Teak_Trees_%26_Mustard_Fields_In_Todabhim.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/A_BSNL_4G_Telecom_Tower_Rising_Through_The_Teak_Trees_%26_Mustard_Fields_In_Todabhim.jpg/1920px-A_BSNL_4G_Telecom_Tower_Rising_Through_The_Teak_Trees_%26_Mustard_Fields_In_Todabhim.jpg (1920x3413 Commons rendition of the 2268x4032 original; saved as _work/2026-11-11-hourly-0032/idlytech/photos/commons/bsnl_todabhim_mustard.jpg, sha1 422a937ff6b5f1e32c63126ed1e2992f06b5e611)",
+  "licence": "CC BY 4.0",
+  "author": "Rahulsince93",
+  "credit": "Photo: Rahulsince93 / Wikimedia Commons, CC BY 4.0",
+  "subject": "A BSNL 4G telecom tower in Todabhim (Karauli district, Rajasthan) rising above teak trees, photographed 8 Dec 2025 (Google Pixel 7), own work, Wiki Science Competition 2025 India; a real rural BSNL 4G site, not one of the villages on the DoT list (stated in caption and alt text)",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces (cover_source.png pixel-identical to the download). Full-bleed cardkit hype cover, focal (0.5, 0.38), zoom 1.0: full-width crop 1920x2400 (source rows 96-2496) downscaled 0.562 to 1080x1350; no upscale, no fill, no blur, no letterbox, no recolour. Tower top platform at y~205, antenna head to y~650 on the cover: clear of the logo band and above the headline block. The mustard field at the bottom of the source is outside the crop. Scrim 0.72."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (villages without 4G); B Pixel Tag (India price from August, no India sale date) and C Tata Electronics Hosur (no lawful image; @idlynews story) dropped. Fixes applied: 10-word headline with no missed-deadline claim; 'DoT data obtained by The Hindu under RTI' attribution, The Hindu read and listed first; unsourced 'private operators did the rest' and 'tower costs more' cut; state and 46% figures confirmed in Communications Today + Civilsdaily, Arunachal 59% cut; 11,372 only on the cover; re-framed so the tower head is whole.",
+  "g2": "Gate 23 words FIX, applied word for word: slide 4 bullet 2 '26,000 more tower sites are already sanctioned' and caption '...the Centre has sanctioned 26,000 more tower sites'; slide 2 bullet 2 'The drop beats BSNL's 24,680-village 4G target'; slide 4 bullet 3 'Telecom Minister Scindia's target: every village by June 2026'; TRAI PR 127/2026 added to sources for the mobile-data line. post_problems: ERR [] WARN [].",
+  "g3": "Gate 23 picture PASS: focal (0.5, 0.38) confirmed (0.40 put the rod tip in the logo band); CC BY 4.0 Rahulsince93, no people, no watermark, no text; no tag.",
+  "g4": "PASS (blind reviewer) 12/14: hook 2, read 2, send 1 (forward motive narrow: current-affairs readers, people from Odisha/Arunachal; readers can't tell if their own village is on the list), keep 1 (counts but no date, price or action; count's date unknown), reply 2, original 2, alone 2. No layout problems; Gate 23 edits verified word for word. Self 13/14 (send 2); final 12/14."
+ }
+}

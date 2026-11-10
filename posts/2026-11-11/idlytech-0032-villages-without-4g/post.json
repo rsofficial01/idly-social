@@ -1,0 +1,56 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-0032-villages-without-4g",
+  "date": "11 Nov 2026",
+  "sources": [
+    "The Hindu (RTI)",
+    "Communications Today",
+    "Civilsdaily",
+    "The Pamphlet"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "11,372 Indian Villages Still Have No 4G, DoT Data Shows",
+      "photo": "_work/2026-11-11-hourly-0032/idlytech/framing_bsnl/cover_source.png",
+      "photo_credit": "Photo: Rahulsince93 / Wikimedia Commons, CC BY 4.0",
+      "focal": [
+        0.5,
+        0.38
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "45,180",
+      "stat_label": "Villages Without 4G in 2022",
+      "bullets": [
+        "Down about 75% in four years, DoT data shows",
+        "The drop beats BSNL's 24,680-village 4G target",
+        "Mobile data is how most Indians get online"
+      ],
+      "credit_line": "Source: DoT data obtained by The Hindu under RTI"
+    },
+    {
+      "type": "detail",
+      "stat": "1,789",
+      "stat_label": "Odisha Has the Most Villages Without 4G",
+      "bullets": [
+        "Arunachal Pradesh is next, with 1,518 villages",
+        "Many listed villages there have few or no residents"
+      ],
+      "credit_line": "Sources: The Hindu (RTI), Communications Today, The Pamphlet, Civilsdaily"
+    },
+    {
+      "type": "detail",
+      "stat": "40 LAKH",
+      "stat_label": "People Estimated to Live in Villages Without 4G",
+      "bullets": [
+        "About 46% of them in tribal-majority villages",
+        "26,000 more tower sites are already sanctioned",
+        "Telecom Minister Scindia's target: every village by June 2026"
+      ],
+      "credit_line": "Sources: The Hindu (RTI), Communications Today, Civilsdaily, IANS"
+    }
+  ]
+}
