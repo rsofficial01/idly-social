@@ -1,0 +1,35 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0426-ibm-visa-sponsorship",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Reuters",
+    "Bloomberg",
+    "Al Jazeera",
+    "Staffing Industry Analysts"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IBM's 1.5 Lakh-Strong Consulting Arm Ends Most US Visa Sponsorship",
+      "photo": "_work/2026-11-11-hourly-0426/idlynews/framing-ibm-manyata/cover_source.png",
+      "photo_credit": "Photo: Vinoo202 / Wikimedia Commons, CC0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "1,611",
+      "stat_label": "IBM H-1B Approvals in US Fiscal 2026",
+      "bullets": [
+        "Visa and green-card sponsorship ends for most Consulting roles",
+        "TCS, Infosys barred from US green-card certification in October",
+        "IBM hasn't said which roles are exempt, or from when"
+      ],
+      "credit_line": "Sources: Reuters, Bloomberg, Al Jazeera, Staffing Industry Analysts"
+    }
+  ]
+}

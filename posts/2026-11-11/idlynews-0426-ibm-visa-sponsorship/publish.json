@@ -1,0 +1,11 @@
+{
+  "account": "idlynews",
+  "story_id": null,
+  "no_idly_article": true,
+  "images": ["posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/01.jpg", "posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/02.jpg"],
+  "caption_file": "posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/caption.txt",
+  "alt_text_file": "posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/alt.txt",
+  "score_file": "posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/score.json",
+  "title": "IBM's 1.5 Lakh-Strong Consulting Arm Ends Most US Visa Sponsorship",
+  "tags": []
+}

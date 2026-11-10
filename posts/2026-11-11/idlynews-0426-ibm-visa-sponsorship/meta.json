@@ -1,0 +1,32 @@
+{
+ "account": "idlynews",
+ "title": "IBM ends US visa and green card sponsorship for most roles in IBM Consulting (more than 1,50,000 of IBM's 2,64,300 staff), a spokesperson told Reuters on 10 Nov 2026; IBM says participation has been declining for years (statement to Newsweek); 1,611 H-1B approvals for IBM in US FY2026 (USCIS data via Reuters; Bloomberg 'just over 1,600'); TCS, Infosys among firms suspended from PERM in October",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "Al Jazeera / Reuters (10 Nov 2026): https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships",
+  "Bloomberg via Yahoo Finance (10 Nov 2026): https://uk.finance.yahoo.com/news/ibm-ending-immigration-sponsorship-majority-183718183.html",
+  "Newsweek (IBM statement): https://www.newsweek.com/green-card-h1b-visa-update-ibm-ending-certain-sponsorships-12694698",
+  "Quartz: https://qz.com/ibm-ends-visa-green-card-sponsorship-consulting-111026",
+  "Staffing Industry Analysts (PERM suspensions incl. TCS, Infosys): https://www.staffingindustry.com/news/global-daily-news/microsoft-tcs-others-suspended-from-perm-for-alleged-h-1b-fraud"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:IBM_Bangalore_Manyata.JPG",
+  "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/IBM_Bangalore_Manyata.JPG/1920px-IBM_Bangalore_Manyata.JPG (Commons thumbnail of the 2680x1909 original; upload.wikimedia.org returned HTTP 429); saved as _work/2026-11-11-hourly-0426/idlynews/photos/ibm-bangalore-manyata.jpg, 1920x1368, sha256 60ca523c2ac385f7dd8b7b5dceb27a1d6950b4cf72ff42da52869495b49f713d",
+  "licence": "CC0 1.0 Universal (public domain dedication)",
+  "author": "Vinoo202 (Wikimedia Commons user), own work, 11 April 2011",
+  "credit": "Photo: Vinoo202 / Wikimedia Commons, CC0",
+  "subject": "IBM's office building at Manyata Tech Park, Bengaluru (2011): green-glass and beige-stone block with the IBM logo near the top",
+  "viewed": true,
+  "processing": "Cropped (no fill, no extension) to x 800-1680, y 120-1220 of the 1920px file (880x1100, 4:5): excludes the distant pedestrians at the foot of the building (y >= ~1290) and the cut-off Kannada sign on the neighbouring block. pipeline.framing on the crop: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 1.23, enlarged and sharpened. IBM logo at cover y ~300-370, x ~405-485: clear of the idly logo zone (top 170) and the headline block (top y 1004)."
+ },
+ "tags": [],
+ "tag_evidence": "none: the image owner is the Commons photographer, not IBM (coordinator: no @ibm tag)",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C (IBM) with the reviewer's fixes: headline 'IBM's 1.5 Lakh-Strong Consulting Arm Ends Most US Visa Sponsorship'; year-end transfer/leave detail left out (Bloomberg only; Newsweek and Quartz repeat Bloomberg); slide 2 1,611 FY2026 with 'IBM hasn't said which roles are exempt, or when'; slide 3 $100,000 since Sept 2025 and TCS/Infosys PERM suspension; no Indian-share figure; no motive attached to IBM; Sources line, no idly.news (no IBM item in the idly API); A and B dropped. Image retry: IBM newsroom had no usable building image; Commons CC0 Manyata photo used, no tag.",
+  "g23": "Picture PASS (IBM-signed office, CC0, logo y ~300-370, pedestrians cropped out). Words FIX applied exactly: slide 3 cut (the $100,000 H-1B fee was vacated nationwide on 8 June 2026; the reviewer cites National Law Review and SHRM); caption para 3 now 'Separately, in October the US Labor Department suspended firms including TCS and Infosys from PERM, the labour certification step for green cards.'; slide 2 bullets 'Visa and green-card sponsorship ends for most Consulting roles', 'TCS, Infosys barred from US green-card certification in October', 'IBM hasn't said which roles are exempt, or from when'; slide 2 credit 'Sources: Reuters, Bloomberg, Al Jazeera, Staffing Industry Analysts'; caption Sources line adds Staffing Industry Analysts; post_problems ([], []).",
+  "g4": "Current render scored 11 (reviewer: read 1, alone 1 on the old slides 2-3); re-rendered 01-02 after the fixes, expected 13 pending the reviewer's look."
+ }
+}
