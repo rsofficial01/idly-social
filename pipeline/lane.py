@@ -249,25 +249,43 @@ def render_one(path: Path) -> tuple[str, str]:
                              f"\"evergreen\": true only for timeless posts)")
         if spec.get("story_id") is not None and spec["story_id"] in posted_story_ids(account):
             raise LaneReject(f"story #{spec['story_id']} is already posted on @{account}")
-        try:
-            res, tried = official_image.resolve_first(spec["image"], spec)
-        except official_image.ResolveError as e:
-            if e.transient:
-                report_line(f"waiting · @{account} {slug} · image source not reachable, will retry: {e.reason}")
-                return "retry", e.reason
-            raise LaneReject(e.reason, "resolve")
-        try:
-            im = official_image.open_image(res.data)
-        except official_image.ResolveError as e:
-            raise LaneReject(e.reason, "resolve")
-        plan = res.extra.get("plan")
-        if plan is None:
+        # Try the image attempts in order; an image that resolves but can't be framed falls through to the
+        # next attempt (e.g. a wide banner with a face at its edge, then the trailer still).
+        remaining = official_image.attempts_of(spec["image"])
+        unusable: list[str] = []
+        tried: list = []
+        while True:
+            if not remaining:
+                raise LaneReject(unusable, "framing")
+            image = {**remaining[0], "fallback": remaining[1:]} if len(remaining) > 1 else dict(remaining[0])
+            order = official_image.attempts_of(image)
             try:
-                plan = framing.plan_image(im)
-            except framing.FramingError as e:
-                raise LaneReject([f"framing: {r}" for r in e.reasons], "framing")
-        if plan.upscale > framing.MAX_UPSCALE + 1e-6:
-            raise LaneReject(f"framing: {plan.upscale:.2f}x upscale (max {framing.MAX_UPSCALE}x)", "framing")
+                res, t = official_image.resolve_first(image, spec)
+            except official_image.ResolveError as e:
+                if unusable:
+                    raise LaneReject(unusable + [e.reason], "framing")
+                if e.transient:
+                    report_line(f"waiting · @{account} {slug} · image source not reachable, will retry: {e.reason}")
+                    return "retry", e.reason
+                raise LaneReject(e.reason, "resolve")
+            tried += t
+            remaining = order[len(t):]
+            try:
+                im = official_image.open_image(res.data)
+            except official_image.ResolveError as e:
+                unusable.append(f"{res.resolver}: {e.reason}")
+                continue
+            plan = res.extra.get("plan")
+            if plan is None:
+                try:
+                    plan = framing.plan_image(im)
+                except framing.FramingError as e:
+                    unusable += [f"framing ({res.resolver} {res.source_url}): {r}" for r in e.reasons]
+                    continue
+            if plan.upscale > framing.MAX_UPSCALE + 1e-6:
+                unusable.append(f"framing ({res.resolver}): {plan.upscale:.2f}x upscale (max {framing.MAX_UPSCALE}x)")
+                continue
+            break
         caption = editorial.with_credit(spec["caption"], res.credit)
         cap_errs, cap_warns = editorial.post_problems(caption, spec["scores"]["self"],
                                                       idly_article=spec["idly_article"])
