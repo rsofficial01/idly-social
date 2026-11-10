@@ -1,0 +1,18 @@
+{
+  "slug": "review-scene-10nov-v2",
+  "reviewer": {
+    "hook": 1,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "verdict": "PASS",
+    "notes": "PASS 12/14, no rule breaks. EARLIER FIXES THAT LANDED: small text is now 23px (cap height 17px measured) and the axis numbers 22px. The 254px band on S4 is gone; the largest gap on any detail slide is now 117px. The read-in-full set is the 7 pages actually opened, listed in the caption, and research_v5.json now holds the tallies; every count on S2, S3, S4 and in the caption matches them (6/6/5, 4/4, jokes 2-2-3). The S3 callout is aligned with the bullet text at x=117. The duplicate alt sentence is removed. The cover credit is 21px vertical (cap height 15px measured), 80% white, inset 39px. That is within 'about 22px' and is the house vertical credit (RUNBOOK); bump it to 22px when convenient. VERIFIED: 95/15 = 6.333 -> 6.3. Ratings unchanged and confirmed in the first pass (13 of 15 on outlet pages or in two listings; HT and Deccan Herald not reachable from here). I read four of the seven pages again for the points. The Week: fresh spin, few hair-raising moments, slapstick 'patience-testing'. Deccan Chronicle: dip after the interval, the probe 'loses steam', comedy repetitive, Naslen's track faulted. Gulte: Suriya relaxed against type, Naslen and Nazriya praised, comedy mixed, twists praised. Telugu360: subtle Suriya, a 'fresh treatment', mind games 'not easy to follow', a few slow moments, humour decent. The credit is correct (oEmbed: 'Scene - Official Trailer', Sony Music South). Faces are clear. One open question, no bait, Sources line present, the caption ends with the credit. POINTS LOST: hook 1, because the thumbnail's large 'TRAILER' lettering sits on a review cover. keep 1: no runtime or certificate. OPTIONAL: Telugu360 only describes Naslen and Nazriya's roles, so 'support cast is strong 6 of 7' is generous; '5 of 7, 1 mixed' is safer. On S3, 'Gulte, THR India disagree' wraps and leaves 'disagree' alone on the next line."
+  },
+  "reviewed_at": "2026-11-10T06:01:31+00:00",
+  "reviewed_by": "blind reviewer (Claude), 10 Nov",
+  "notes": ""
+}

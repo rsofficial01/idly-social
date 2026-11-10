@@ -700,7 +700,7 @@ EDIT2 = {
     'ramayana-part-1': dict(
         title='Ramayana: Part 1', meta='Hindi · in theatres from 5 Nov',
         hook="Critics agree on Yash's Ravana. Ranbir's Rama splits them.",
-        watch="You want big-screen spectacle: all 13 reviews idly read praise Yash's Ravana.",
+        watch="You want big-screen spectacle: 11 of 13 reviews idly read praise the visuals and scale.",
         skip='You want the emotion of the epic: 6 of 13 say the spectacle outweighs it.',
         verdict=("Ramayana: Part 1 tops idly's Diwali ranking, though not as a rave. All 13 reviews idly read in full single "
                  "out Yash's Ravana and 11 praise the scale; the doubts are pacing, the songs and how much feeling survives "
@@ -945,7 +945,7 @@ def film_post_v2(f, panel_n):
 
 
 def roundup_title(ranked):
-    return f'{len(ranked)} Diwali Releases, Ranked by Critics'
+    return f'The {len(ranked)} Diwali Releases, Ranked by Indian Critics'
 
 
 def roundup_post_v2(ranked, unranked, panel_n):
@@ -1007,7 +1007,7 @@ def roundup_caption_v2(ranked, unranked, panel_n):
         '',
         METHOD_LINE.format(p=panel_n) + f" A film needs 4; {un} fell short, so they are not ranked.",
         '',
-        f"{a['short']} leads {b['short']} by {gap}: which of the six are you booking first, and what tipped it?",
+        f"{a['short']} leads {b['short']} by {gap}. Which of the six are you booking first?",
         '',
         (f"Sources: {sum(f['n_counted'] for f in ranked)} ratings from {oxford(outlets)}; read on the outlets' pages or in "
          f"thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz."),
