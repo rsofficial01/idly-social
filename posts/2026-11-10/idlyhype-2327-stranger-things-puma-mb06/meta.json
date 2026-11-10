@@ -1,0 +1,36 @@
+{
+ "account": "idlyhype",
+ "title": "PUMA x Stranger Things MB.06 (LaMelo Ball's signature basketball shoe, Pale Plum-Purple Charcoal, style 313625_01) listed on Puma India at ₹13,999; collection apparel on Puma India ₹2,299 (trucker cap) to ₹6,999 (mesh shorts); LaFrancé pairs not listed on Puma India; worldwide release 6 Nov (Stranger Things Day)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://in.puma.com/in/en/pd/puma-x-stranger-things-mb06-basketball-shoes/313625?swatch=01",
+  "https://in.puma.com/in/en/collaborations/collaborations-select/puma-x-stranger-things",
+  "https://www.soleretriever.com/news/articles/where-to-buy-stranger-things-x-puma-lamelo-ball-collection",
+  "https://justfreshkicks.com/?p=247015",
+  "https://us.puma.com/us/en/pd/stranger-things-mb-06-basketball-shoes/313625",
+  "https://sneakerbardetroit.com/stranger-things-puma-lamelo-ball-pack-release-date/",
+  "https://sneakernews.com/2026/10/09/stranger-things-lamelo-ball-puma-release-date/"
+ ],
+ "photo_source": {
+  "page": "https://in.puma.com/in/en/pd/puma-x-stranger-things-mb06-basketball-shoes/313625?swatch=01",
+  "file": "https://images.puma.com/image/upload/t_vertical_product,f_jpg,q_100/global/313625/01/sv01/fnd/IND/fmt/png/PUMA-x-STRANGER-THINGS-MB.06-Basketball-Shoes",
+  "licence": "official brand product image, editorial use (Puma's own t_vertical_product rendition served on Puma India's product page); credited",
+  "author": "Puma",
+  "credit": "Image: Puma",
+  "subject": "PUMA x Stranger Things MB.06 (Pale Plum-Purple Charcoal, 313625_01), lateral side view on a plain #fafafa studio background; product only, no people, no watermark, no text beyond the shoe's own prints",
+  "viewed": true,
+  "processing": "original 2000x3000 JPEG (sha1 dfac01c341822315862753cec8aa6b7d5ea8f4de), saved as _work/2026-11-10-hourly-2327/idlyhype/photos/puma-mb06-st/mb06-sv01-vertical-q100.jpg; pipeline.framing: ok, 0 faces, frame/cover_source.png (same 2000x3000); cover crop focal 0.5/0.535, zoom 1.15 (1740x2174 crop from x 130, y 518, downscaled 0.62x to 1080x1350); no other edits"
+ },
+ "tags": [
+  "puma"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer). Fixes applied: price always attributed to Puma India (first-party listing; no launch/date/stock claims; listing re-checked live before G4); slide 3 without a '6 NOV' stat (design, LaMelo Ball's line, style code, colour; 6 Nov one bullet); LaFrancé 'not listed on Puma India'; no US $ prices; own-life reply question; Sources line Puma India, Sole Retriever, Just Fresh Kicks; product shots only. C2 Decathlon India FY26 DROP; C3 adidas x SP5DER F50 Formotion DROP.",
+  "g2": "FIX (3 copy fixes) applied verbatim: slide 2 stat_label 'Stranger Things Trucker Cap on Puma India'; slide 2 bullet 3 'Its LaFrancé sneakers are not listed on Puma India'; caption sentence 2 rewritten in idly's words: 'Rows of monster teeth frame red panels on both sides, a nod to the show's Demogorgon (Sole Retriever, Just Fresh Kicks).' Cover 'in India' ruled fine.",
+  "g3": "PASS (Puma's own product image of the actual shoe, 2000x3000, flat studio background, no person/watermark; focal 0.5/0.535, zoom 1.15; shoe whole, clear of logo and ~100 px above headline; tag @puma confirmed via instagram.com/puma/ link on in.puma.com)",
+  "g4": "PASS (blind reviewer) 13/14: read 1 ('cheaper than the shoe' and 'to wear on court' filler tails; 6 Nov bullet backstory). Slides 01-03 md5 c2363532…, e0330630…, d0780d60… byte-identical to the render. Listing re-checked live 10 Nov 18:40 UTC: ₹13,999, InStock. Self 13/14 (send 1)."
+ }
+}

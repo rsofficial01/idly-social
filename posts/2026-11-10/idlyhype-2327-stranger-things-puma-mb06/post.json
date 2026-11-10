@@ -1,0 +1,45 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-2327-stranger-things-puma-mb06",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Puma India",
+    "Sole Retriever",
+    "Just Fresh Kicks"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Stranger Things x Puma MB.06 in India: ₹13,999",
+      "photo": "_work/2026-11-10-hourly-2327/idlyhype/frame/cover_source.png",
+      "photo_credit": "Image: Puma",
+      "focal": [
+        0.5,
+        0.535
+      ],
+      "zoom": 1.15
+    },
+    {
+      "type": "detail",
+      "stat": "₹2,299",
+      "stat_label": "Stranger Things Trucker Cap on Puma India",
+      "bullets": [
+        "Three tees, ₹3,499 to ₹3,999: cheaper than the shoe",
+        "Mesh basketball shorts at ₹6,999 to wear on court",
+        "Its LaFrancé sneakers are not listed on Puma India"
+      ],
+      "credit_line": "Source: Puma India"
+    },
+    {
+      "type": "detail",
+      "stat": "MB.06",
+      "stat_label": "LaMelo Ball's Signature Shoe With Demogorgon Teeth",
+      "bullets": [
+        "Search style code 313625_01 to find this pair",
+        "Puma India lists one colour: Pale Plum-Purple Charcoal",
+        "Out worldwide since 6 Nov, Stranger Things Day"
+      ],
+      "credit_line": "Sources: Puma India, Sole Retriever, Just Fresh Kicks"
+    }
+  ]
+}
