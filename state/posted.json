@@ -970,5 +970,53 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2027-sc-grandson-partition-share/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "18646170919026638",
+    "permalink": "https://www.instagram.com/p/DfkVfuQlx1u/",
+    "posted_at": "2026-11-10T16:28:32+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2130-glc-electric-sold-out/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2130-glc-electric-sold-out/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2130-glc-electric-sold-out/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18101013473413456",
+    "permalink": "https://www.instagram.com/p/DfkVkZ6khzP/",
+    "posted_at": "2026-11-10T16:29:13+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2130-gshock-2500/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2130-gshock-2500/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2130-gshock-2500/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "gshock_in"
+    ]
+  },
+  {
+    "story_id": 1805,
+    "account": "idlynews",
+    "media_id": "18118525979113778",
+    "permalink": "https://www.instagram.com/p/DfkVn3BES04/",
+    "posted_at": "2026-11-10T16:29:40+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2130-oil-below-90/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2130-oil-below-90/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2130-oil-below-90/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
