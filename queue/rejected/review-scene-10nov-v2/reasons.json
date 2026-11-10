@@ -1,0 +1,8 @@
+{
+  "slug": "review-scene-10nov-v2",
+  "stage": "resolve",
+  "reasons": [
+    "no image: youtube_official: uploader 'Sony Music South' (https://www.youtube.com/@SonyMusicSouthOfficial) is not on the official channel allowlist (config/official_sources.json)"
+  ],
+  "rejected_at": "2026-11-10T05:27:44+00:00"
+}
