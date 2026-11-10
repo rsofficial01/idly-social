@@ -1256,5 +1256,20 @@
     "tagged": [
       "mercedesbenzusa"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "17885244351527649",
+    "permalink": "https://www.instagram.com/p/Dfk_WQPl4R1/",
+    "posted_at": "2026-11-10T22:34:18+00:00",
+    "date": "2026-11-11",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0327-indigo-saudi-flights/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0327-indigo-saudi-flights/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0327-indigo-saudi-flights/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
