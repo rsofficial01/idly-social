@@ -360,8 +360,8 @@ html,body{width:%(W)dpx;height:%(H)dpx;background:%(bg)s}
                   rgba(0,0,0,%(a3)s) 70%%,rgba(0,0,0,%(a4)s) 87%%,rgba(0,0,0,0) 100%%)}
 .logo{position:absolute;top:50px;left:50%%;transform:translateX(-50%%);height:%(logo_h)dpx;width:auto;display:block;
       filter:drop-shadow(0 0 1.5px rgba(0,0,0,%(logo_edge)s)) drop-shadow(0 1px 12px rgba(0,0,0,%(logo_glow)s))}
-.credit{position:absolute;right:20px;bottom:%(credit_bottom)dpx;writing-mode:vertical-rl;transform:rotate(180deg);
-        font:500 15px/1 Inter;letter-spacing:.2px;color:rgba(255,255,255,.6);white-space:nowrap;
+.credit{position:absolute;right:38px;bottom:%(credit_bottom)dpx;writing-mode:vertical-rl;transform:rotate(180deg);
+        font:500 21px/1 Inter;letter-spacing:.2px;color:rgba(255,255,255,.8);white-space:nowrap;
         text-shadow:0 0 8px rgba(0,0,0,.35)}
 .cfoot{position:absolute;left:%(side)dpx;width:%(head_w)dpx;bottom:%(foot_bottom)dpx;display:flex;
        justify-content:space-between;font:600 24px/1 Inter;letter-spacing:.1px;color:rgba(255,255,255,.7);
