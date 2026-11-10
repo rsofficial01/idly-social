@@ -1,0 +1,43 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-1927-bape-adidas-india",
+  "date": "10 Nov 2026",
+  "sources": [
+    "adidas",
+    "Complex",
+    "VegNonVeg",
+    "BAPE"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "BAPE x adidas Now in India: ₹5,999 Tee to ₹59,999 Varsity Jacket",
+      "photo": "_work/2026-11-10-hourly-1927/idlyhype/frame-hoodie/cover_source.png",
+      "photo_credit": "Image: BAPE",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "5",
+      "stat_label": "BAPE x adidas Pieces on Sale at VegNonVeg",
+      "bullets": [
+        "Warm-up top, ₹8,999: loose mesh long-sleeve jersey",
+        "Reversible Adibreak pant, ₹17,999: two looks in one",
+        "Reversible Shark hoodie, ₹21,999: shark face on the hood"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "7 NOV",
+      "stat_label": "BAPE x adidas Went on Sale Worldwide",
+      "bullets": [
+        "Varsity jacket: gold studs, chenille 'World Gone Mad' back",
+        "US list prices: tee $60, hoodie $240, before tax"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+ "account": "idlyhype",
+ "title": "BAPE x adidas Originals basketball collection on sale in India at VegNonVeg: five pieces, ₹5,999 tee to ₹59,999 varsity jacket (global drop 7 Nov)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://news.adidas.com/originals/adidas-and-bape--reunite-for-a-collection-inspired-by-the-basketball-golden-era-of-the-late--90s-and/s/f55e632a-3fc8-4133-9990-e92f7b2f40ef",
+  "https://shopping.yahoo.com/style/clothing/articles/bape-x-adidas-collection-november-161243494.html",
+  "https://footwearmagazine.com/adidas-bape-crazy-energy-jalen-williams-november-2026/",
+  "https://www.vegnonveg.com/apparel/adidas-originals",
+  "https://www.vegnonveg.com/products/adidas-originals-x-bape-baby-milo-tee-white",
+  "https://www.vegnonveg.com/products/adidas-originals-x-bape-warm-up-top-black",
+  "https://www.vegnonveg.com/products/adidas-originals-x-bape-reversible-adibreak-pant-collegiate-purple",
+  "https://www.vegnonveg.com/products/adidas-originals-x-bape-reversible-shark-hoodiie-collegiate-purple",
+  "https://www.vegnonveg.com/products/adidas-originals-x-bape-varsity-jacket-black",
+  "https://us.bape.com/products/1m73-115-913-pur",
+  "https://us.bape.com/products.json"
+ ],
+ "photo_source": {
+  "page": "https://us.bape.com/products/1m73-115-913-pur",
+  "file": "https://cdn.shopify.com/s/files/1/0214/3706/files/001ZPM731913_PUR_A.jpg?v=1793808588",
+  "licence": "BAPE's own product image on its official US store (official brand image, credited)",
+  "author": "BAPE (A BATHING APE)",
+  "credit": "Image: BAPE",
+  "subject": "BAPE X ADIDAS camo mesh relaxed-fit full-zip Shark hoodie (purple), front, studio product shot on plain warm-grey background (image 1 of 6 on the product page); product only, no people, no watermark",
+  "viewed": true,
+  "processing": "original 1500x1906 (sha1 bbebeffc8c243e0499ee4a598a1da5c748434154); pipeline.framing ok full-bleed, 0 faces, focal (0.5, 0.5), zoom 1.0, 0.72x downscale, no enlargement; no other edits"
+ },
+ "tags": [
+  "bape_us"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "PASS: build C1 (BAPE x adidas at VegNonVeg), ceiling hook 2/send 2/keep 2/original 2; conditions: 'at VegNonVeg' not 'official India launch', no stock claims, ₹ range on cover not repeated on slide 2, US prices labelled list before tax with no markup verdict, no Crazy Energy+ line, tag @bape_us only. C2 (AJ4 Bred) and C3 (BadBo) dropped; news.adidas.com allowlist PASS on evidence but not committed this run.",
+  "g2": "FIX applied: slide 3 bullet 'Built on purple camo and late-'90s basketball style' deleted (2 bullets remain). 'Now in India' accepted; all five VegNonVeg prices re-checked live 19:48 IST; post_problems clean.",
+  "g3": "PASS: BAPE's own product shot 1500x1906 from us.bape.com, framing zoom 1.0 at 0.72x; hood/shark/wordmark y~285-700 clear of logo and headline; tag @bape_us confirmed in us.bape.com footer.",
+  "g4": "PASS: reviewer 13/14 (read 1: slide 3 leads with the 7 Nov global date); self 13/14; final 13/14"
+ }
+}

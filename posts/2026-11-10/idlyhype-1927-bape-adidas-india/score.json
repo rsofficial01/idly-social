@@ -1,0 +1,33 @@
+{
+ "hook": 2,
+ "read": 1,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13); tie uses the reviewer's checks. Blind reviewer, Gate 4, run 1927. Read 1: slide 3's giant stat is '7 NOV / Went on Sale Worldwide', a past global date that does nothing for an Indian buyer; the slide's most prominent element is its least useful fact (the US-price and varsity lines are fine). Everything else is 2: Rs range on the cover for a drop Indians can buy today (hook); a streetwear fan would forward it to a friend for the Rs price list (send); five Rs prices, the seller and US list prices are keepable (keep); a genuine own-life question (reply); BAPE's own credited product image plus idly's price synthesis (original); slide 2 names VegNonVeg, so the card stands alone (alone). Layout: cover full-bleed, sharp, no letterbox; hood, shark face and wordmark clear of the logo and headline; white 3-line headline; 18 px gap from 'Jacket' to the vertical credit, not touching; slides 2-3 share one left edge, no collisions, Sources line above the footer rule; spacing is the template's, with no empty band.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 1,
+  "total": 13,
+  "notes": "hook 2: ₹5,999-₹59,999 range and 'Now in India' on the cover over BAPE's best-known piece. read 2: after the G2 fix every bullet carries a price or a buying fact. send 2: a BAPE collab Indians can buy in rupees today is a real group-chat forward for streetwear fans; the ₹59,999 jacket is the talking point. keep 2: all five ₹ prices, the seller, the global date and US list prices for comparison. reply 2: a spending question people answer from their own wardrobe, though some may not want to share what they spend. original 2: our India price compilation plus the US comparison; brand image credited. alone 1 (weak): slide 2 says '5' pieces but lists three, because the other two prices are on the cover; on its own the slide reads as incomplete."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 1,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4, run 1927. Read 1: slide 3's giant stat is '7 NOV / Went on Sale Worldwide', a past global date that does nothing for an Indian buyer; the slide's most prominent element is its least useful fact (the US-price and varsity lines are fine). Everything else is 2: Rs range on the cover for a drop Indians can buy today (hook); a streetwear fan would forward it to a friend for the Rs price list (send); five Rs prices, the seller and US list prices are keepable (keep); a genuine own-life question (reply); BAPE's own credited product image plus idly's price synthesis (original); slide 2 names VegNonVeg, so the card stands alone (alone). Layout: cover full-bleed, sharp, no letterbox; hood, shark face and wordmark clear of the logo and headline; white 3-line headline; 18 px gap from 'Jacket' to the vertical credit, not touching; slides 2-3 share one left edge, no collisions, Sources line above the footer rule; spacing is the template's, with no empty band."
+ }
+}
