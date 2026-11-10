@@ -64,5 +64,29 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynerd_01/01.jpg"
     ],
     "score_total": 14
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "brezza-wagonr-10nov",
+    "image_credit": "Photo: Maruti Suzuki. Official press image of the new Brezza from Maruti Suzuki's media kit; background extended.",
+    "image_source": null,
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/02.jpg"
+    ],
+    "score_self": 12,
+    "score_reviewer": 12,
+    "story_id": 1639,
+    "account": "idlyautomotive",
+    "media_id": "18228756556331754",
+    "permalink": "https://www.instagram.com/p/DfjC7cOF00Q/",
+    "posted_at": "2026-11-10T04:27:08+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/02.jpg"
+    ],
+    "score_total": 12
   }
 ]
