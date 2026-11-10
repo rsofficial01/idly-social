@@ -1,0 +1,29 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "review-ramayana-part-1-10nov-v2",
+  "image_credit": "Image: World Of Ramayana (official video)",
+  "image_source": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/04.jpg"
+  ],
+  "score_self": 13,
+  "score_reviewer": 12,
+  "story_id": null,
+  "account": "idlynerd",
+  "media_id": "18114470537168444",
+  "permalink": "https://www.instagram.com/p/DfjRuScl0Xt/",
+  "posted_at": "2026-11-10T06:36:23+00:00",
+  "date": "2026-11-10",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/04.jpg"
+  ],
+  "score_total": 12
+}
