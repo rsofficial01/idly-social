@@ -183,22 +183,42 @@ post dict as the hype cover (`cardkit/vertical.py`).
 
 ## Reels (9:16)
 
-A silent 9-14 second **Reel** of a post that is already live, made and posted by the lane in GitHub Actions
+A silent 10-14 second **Reel** of a post that is already live, made and posted by the lane in GitHub Actions
 (`cardkit/reel.py`): the photo may show people, so a session never renders one.
 
-- **What it is.** `reel.mp4`, 1080x1920, 30 fps, H.264 with a **silent** AAC track (Instagram wants an audio track;
-  there is never anyone else's music or audio). About 3.5 s of the cover (a slow 1.00 to 1.06 push-in on the photo,
-  the kicker and headline slide up and fade in from 0.4 s), then 1-2 of the post's detail slides re-laid out for
-  9:16 (about 3 s each, 8-frame crossfades), then a 1.5 s end card (the account's logo, idly.news, the handle). Same
-  look as the story (full-width photo fading into #0A0A0A, one left edge, no text under 30 px), but a reel's own
-  safe zone: Instagram's caption, username and audio overlay covers the bottom ~540 px of a reel and its
-  like/comment/share buttons sit at x ≥ 960 from y ~1000 down, so every reel frame keeps its text in **y 220-1380**
-  and clear of that column (`REEL_SAFE_ZONE` in `cardkit/vertical.py`, the one setting to change if Instagram moves
-  its UI). The cover's headline sits just above y 1380 and the photo fades out earlier to match. Detail slides fill
-  the zone: bigger type (stat about 20% larger, label 52 px or more, bullets 40 px or more), the block centred a
-  little above the middle, no empty band over 220 px and no lone word on a last line. A slide with too little on
-  it (a stat and a label, no bullets) can't fill a reel frame: the lane rejects that reel with the reason, so pick
-  fuller slides with `--details`. `reel_cover.jpg` is the Reels-tab cover.
+- **What it is.** Motion graphics, not a slide show (Rahul, 10 Nov 2026: "a reel is what you made on Jensen
+  Huang", the Nvidia counter clip). `reel.mp4`, 1080x1920, 30 fps, H.264 with a **silent** AAC track (Instagram
+  wants an audio track; there is never anyone else's music or audio). Chrome films one HTML page frame by frame
+  (a JS `setT(t)` poses every element) and ffmpeg encodes the JPEG frames (`-preset veryfast`), about 20-60 s per
+  reel. The scenes, none longer than 3.5 s:
+  1. **Cover** (3.2-3.5 s): the full-width photo pushes in and drifts under the gradient, the text and the
+     logo/credit/footer drift at their own speeds (parallax), the `@account` kicker types in, the Title Case
+     headline rises line by line from behind its own mask, 120 ms apart. The vertical photo credit stays up.
+  2. **1-2 detail slides** (3.4-3.5 s each), each a panel that **pushes up** over the last: the stat **counts up**
+     with an ease-out in its own format (23,747 · 2,24,000 · +86% · −4.27% · ₹2.69 lakh · $192B), fades in from
+     its first real value (never a "0") and lands on the exact stat; a year, date or score doesn't count, it
+     rises in. The label rises line by line, the rule draws across, bullets slide in one by one with their
+     markers, and the Sources line and footer are there. A detail slide may carry a **chart** for a ranked list
+     or comparison: `"chart": [["WagonR", 23747], ["Brezza", 22436], …]`, optional `"chart_unit": "Units sold"`
+     (values are numbers, or stat-like strings in one unit; 2-8 rows). Bars grow from zero 120 ms apart while
+     their values count up; the leader is ember. In a lane spec, `chart` goes on a `detail_slides` entry that also
+     has a stat or bullets (the feed slide shows those; only the reel draws the chart).
+  3. **End card** (2-3 s) after a hard cut: the account's logo scales in with a small overshoot, then idly.news
+     and the handle rise in.
+
+  Nothing ever sits still (slow drifts on every hold), and transitions are pushes or a cut, never crossfades.
+  12.1 s with two detail slides, 10 s with one; **a reel needs at least one detail slide** (request-reel says
+  so). Same look as the story (full-width photo fading into #0A0A0A, Inter and Playfair Italic, one left edge,
+  no text under 30 px), but a reel's own safe zone: Instagram's caption, username and audio overlay covers the
+  bottom ~540 px of a reel and its like/comment/share buttons sit at x ≥ 960 from y ~1000 down, so every frame
+  keeps its text in **y 220-1380** and clear of that column (`REEL_SAFE_ZONE` in `cardkit/vertical.py`, the one
+  setting to change if Instagram moves its UI). Detail scenes fill the zone: big type (label 52 px or more,
+  bullets 40 px or more), no empty band over 220 px, no lone word on a last line. The renderer checks every scene
+  settled and at its furthest drift, every counter's first visible and last value, and that no run of identical
+  frames is longer than 0.8 s; anything wrong rejects the reel with the reason. `reel_cover.jpg` (the settled
+  cover frame) is the Reels-tab cover. (Renderer development only, on a photo with no people such as
+  `tests/fixtures/commons_wagonr.jpg`: `python3 -m cardkit.reel post.json OUT_DIR --previews --sheet sheet.jpg`.
+  A posting run never renders a reel; the lane does.)
 - **Ask for one** (any run, once the feed post is live):
   1. Write the reel's caption with the same caption rules, but **leave the credit line off**: the lane appends the
      post's own credit. Score the reel on the 7 checks (12 or more, honestly: a reel isn't better than its post).

@@ -76,7 +76,7 @@ python3 tests/dry_run_e2e.py                       # end-to-end dry run on live 
 python3 -m cardkit.vertical story post.json posts/<date>/<folder>/story.jpg   # 9:16 Story card from a hype post
 python3 pipeline/publish.py story --account idlytech --image posts/<date>/<folder>/story.jpg [--dry-run]
 python3 pipeline/lane.py request-reel --source lane:<slug> --caption-file c.txt --score-file s.json   # ask for a reel
-python3 -m cardkit.reel post.json OUT_DIR --previews  # render a reel locally (non-people photos only; needs ffmpeg)
+python3 -m cardkit.reel post.json OUT_DIR --previews --sheet sheet.jpg  # render a reel locally (non-people photos only)
 ```
 
 **Stories** (Rahul, 10 Nov 2026): each feed post can get a 1080x1920 Instagram Story made from the same post dict
@@ -84,10 +84,11 @@ python3 -m cardkit.reel post.json OUT_DIR --previews  # render a reel locally (n
 UI zones). The lane makes and posts them automatically; hourly runs use the two commands above. A story never
 holds up or changes its feed post. See [RUNBOOK.md → Stories](RUNBOOK.md#stories-916).
 
-**Reels**: a run asks for a silent 9-14 s reel of a post that is already live (`lane.py request-reel`); the
-**lane-render** workflow renders it with `cardkit/reel.py` and ffmpeg (cover push-in, 1-2 detail slides, end card,
-silent AAC track), a blind reviewer approves it through the same 12/14 gate, and **lane-publish** posts it. See
-[RUNBOOK.md → Reels](RUNBOOK.md#reels-916).
+**Reels**: a run asks for a silent 10-14 s reel of a post that is already live (`lane.py request-reel`); the
+**lane-render** workflow films it with `cardkit/reel.py` (motion graphics in Chrome, one JPEG per frame into ffmpeg:
+the cover photo pushes in under a line-by-line headline, 1-2 detail panels push up with stats counting up and charts
+growing, a hard cut to the end card; silent AAC track), a blind reviewer approves it through the same 12/14 gate,
+and **lane-publish** posts it. See [RUNBOOK.md → Reels](RUNBOOK.md#reels-916).
 
 Manual posts (a human, not the scheduled run) can use `publish.py post` directly: repeat `--image` for a
 carousel, use `--video clip.mp4` for a video carousel item (videos only go in carousels, never as a single
