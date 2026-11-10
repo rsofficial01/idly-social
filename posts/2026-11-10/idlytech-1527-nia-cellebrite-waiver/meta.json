@@ -1,0 +1,26 @@
+{
+ "account": "idlytech",
+ "title": "Make in India waived for NIA's ₹4.98 crore Cellebrite phone-unlocking tool, IFF documents show",
+ "story_id": null,
+ "idly_article": false,
+ "sources": [
+  "https://internetfreedom.in/the-home-minister-signed-off-on-it-who-is-cracking-indias-phones-and-whose-phones-have-they-cracked/",
+  "https://www.medianama.com/2026/11/223-amit-shah-approves-nia-cellebrite-purchase/"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Ufed_mobile_phone_imaging_device_(8661348282).jpg",
+  "original": "https://www.flickr.com/photos/joncrel/8661348282/",
+  "licence": "CC BY 2.0 (FlickreviewR-verified)",
+  "author": "jon crel",
+  "credit": "Photo: jon crel / Wikimedia Commons, CC BY 2.0",
+  "subject": "A Cellebrite UFED Physical Pro unit, photographed 18 Apr 2013 (not the NIA's tool or the Premium product)",
+  "viewed": true,
+  "processing": "Commons 1920px rendition (1920x3413) of the 2232x3968 original. pipeline.framing: ok, 0 faces. Full-bleed cardkit hype cover, focal (0.5, 0.369), zoom 1.0: full-width 1920x2400 crop (rows ~65-2465) downscaled 0.562 to 1080x1350; no upscale, no fill, no blur, no letterbox, no recolour. YuNet 0 faces on source and final cover. Scrim 0.59."
+ },
+ "gates": {
+  "g1": "BUILD A (Cellebrite/NIA); B and C dropped. FIXes: attribute to IFF documents (GeM unreachable), cut Delhi Police 2025 and non-NIA/SFIO agencies, 20 Jan letter / unseen 17 Jan note, neutral headline matching ₹4.98 CR, no 'declined to comment', 'A Cellebrite UFED unit' wording.",
+  "g2": "FIX applied: caption reworded in idly's own words with the bid quote attributed; 'Neither IFF nor MediaNama carries a response'; slide 2 bullets stand alone; slide 4 label and SFIO bullets. post_problems: no errors (the 'Fraud' warning is a false positive, accepted).",
+  "g3": "PASS: full-bleed, 0.562 downscale, the identifying screen whole and clear of the logo and headline.",
+  "g4": "pending"
+ }
+}
