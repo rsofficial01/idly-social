@@ -1018,5 +1018,39 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-2130-oil-below-90/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "18046559180831243",
+    "permalink": "https://www.instagram.com/p/DfkdG4-l9Ei/",
+    "posted_at": "2026-11-10T17:35:08+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2227-kiger-gncap-africa/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2227-kiger-gncap-africa/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2227-kiger-gncap-africa/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-2227-kiger-gncap-africa/04.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "renaultindia"
+    ]
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18123900457946232",
+    "permalink": "https://www.instagram.com/p/DfkdLTJl7Bf/",
+    "posted_at": "2026-11-10T17:35:46+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2227-air-max-95-big-bubble/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2227-air-max-95-big-bubble/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-2227-air-max-95-big-bubble/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
