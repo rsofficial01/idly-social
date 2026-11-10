@@ -1,509 +1,509 @@
 [
- {
-  "story_id": 1710,
-  "account": "idlyautomotive",
-  "media_id": "18414143563091456",
-  "permalink": "https://www.instagram.com/p/DfiEVORFByk/",
-  "posted_at": "2026-11-09T19:20:07+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1710/01.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": 1716,
-  "account": "idlyautomotive",
-  "media_id": "18097573187669243",
-  "permalink": "https://www.instagram.com/p/DfiRibyj6MV/",
-  "posted_at": "2026-11-09T21:15:31+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1716/01.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": 1735,
-  "account": "idlynerd",
-  "media_id": "18191196922367090",
-  "permalink": "https://www.instagram.com/p/Dfis1p0FzXi/",
-  "posted_at": "2026-11-10T01:14:01+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynerd-1735/01.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": 1664,
-  "account": "idlytech",
-  "media_id": "17973560970175344",
-  "permalink": "https://www.instagram.com/p/Dfi3bEUDPrt/",
-  "posted_at": "2026-11-10T02:46:37+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/02.jpg"
-  ],
-  "score_total": 14
- },
- {
-  "story_id": 1631,
-  "account": "idlynerd",
-  "media_id": "18119415392088360",
-  "permalink": "https://www.instagram.com/p/Dfi3glqlzKQ/",
-  "posted_at": "2026-11-10T02:47:21+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynerd_01/01.jpg"
-  ],
-  "score_total": 14
- },
- {
-  "lane": "official-image",
-  "lane_slug": "brezza-wagonr-10nov",
-  "image_credit": "Photo: Maruti Suzuki. Official press image of the new Brezza from Maruti Suzuki's media kit; background extended.",
-  "image_source": null,
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/02.jpg"
-  ],
-  "score_self": 12,
-  "score_reviewer": 12,
-  "story_id": 1639,
-  "account": "idlyautomotive",
-  "media_id": "18228756556331754",
-  "permalink": "https://www.instagram.com/p/DfjC7cOF00Q/",
-  "posted_at": "2026-11-10T04:27:08+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/02.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": 1746,
-  "account": "idlyautomotive",
-  "media_id": "18112181798193774",
-  "permalink": "https://www.instagram.com/p/DfjDx5Ml8jb/",
-  "posted_at": "2026-11-10T04:34:32+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1746/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1746/02.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "lane": "official-image",
-  "lane_slug": "nvidia-idlynews-10nov-v4",
-  "image_credit": "Photo: NVIDIA",
-  "image_source": null,
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/04.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/05.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/06.jpg"
-  ],
-  "score_self": 12,
-  "score_reviewer": 12,
-  "story_id": null,
-  "account": "idlynews",
-  "media_id": "18411813268093607",
-  "permalink": "https://www.instagram.com/p/DfjG7I3DL0f/",
-  "posted_at": "2026-11-10T05:01:59+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/04.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/05.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/06.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "lane": "official-image",
-  "lane_slug": "ultraviolette-x47-10nov-v2",
-  "image_credit": "Photo: Ultraviolette. Official X-47 Venom studio image (Afterburner Yellow) from ultraviolette.com; studio background extended.",
-  "image_source": null,
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/ultraviolette-x47-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/ultraviolette-x47-10nov-v2/02.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 13,
-  "story_id": 1510,
-  "account": "idlyautomotive",
-  "media_id": "18122389483958097",
-  "permalink": "https://www.instagram.com/p/DfjH3gYF7tF/",
-  "posted_at": "2026-11-10T05:10:15+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/ultraviolette-x47-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/ultraviolette-x47-10nov-v2/02.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "story_id": null,
-  "account": "idlyhype",
-  "media_id": "18115742438139716",
-  "permalink": "https://www.instagram.com/p/DfjKB4tDUYO/",
-  "posted_at": "2026-11-10T05:29:09+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/03.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": 1757,
-  "account": "idlynews",
-  "media_id": "18130566133877235",
-  "permalink": "https://www.instagram.com/p/DfjKa9fGrh0/",
-  "posted_at": "2026-11-10T05:32:35+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/03.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "lane": "official-image",
-  "lane_slug": "2026-11-10-idlynerd-gta6-preload",
-  "image_credit": "Image: Rockstar Games (official trailer)",
-  "image_source": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/03.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 13,
-  "story_id": null,
-  "account": "idlynerd",
-  "media_id": "18197147116396225",
-  "permalink": "https://www.instagram.com/p/DfjKj99lHGr/",
-  "posted_at": "2026-11-10T05:33:46+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "lane": "official-image",
-  "lane_slug": "2026-11-10-idlytech-instagram-ai-age-v3",
-  "image_credit": "Image: Meta",
-  "image_source": "https://about.fb.com/news/2024/09/instagram-teen-accounts/",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 14,
-  "story_id": 1712,
-  "account": "idlytech",
-  "media_id": "18122218895050807",
-  "permalink": "https://www.instagram.com/p/DfjK5snlxoc/",
-  "posted_at": "2026-11-10T05:36:46+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "story_id": 1747,
-  "account": "idlyautomotive",
-  "media_id": "17964070779219185",
-  "permalink": "https://www.instagram.com/p/DfjLXfeD4CW/",
-  "posted_at": "2026-11-10T05:40:48+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "story_id": null,
-  "account": "idlynews",
-  "media_id": "18126851452926241",
-  "permalink": "https://www.instagram.com/p/DfjOHC0HUFS/",
-  "posted_at": "2026-11-10T06:04:48+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/03.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "lane": "official-image",
-  "lane_slug": "review-mookuthi-amman-2-10nov-v2",
-  "image_credit": "Image: Vels Music International (official video)",
-  "image_source": "https://www.youtube.com/watch?v=v263z3rTcLw",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/04.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 13,
-  "story_id": null,
-  "account": "idlynerd",
-  "media_id": "18075115550772140",
-  "permalink": "https://www.instagram.com/p/DfjOLr7Dc6R/",
-  "posted_at": "2026-11-10T06:05:24+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/04.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "story_id": null,
-  "account": "idlyhype",
-  "media_id": "18124569191517314",
-  "permalink": "https://www.instagram.com/p/DfjQlqkF6qs/",
-  "posted_at": "2026-11-10T06:26:29+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "story_id": null,
-  "account": "idlyautomotive",
-  "media_id": "17902282851391228",
-  "permalink": "https://www.instagram.com/p/DfjQ_5bjb6f/",
-  "posted_at": "2026-11-10T06:30:03+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/03.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlynews",
-  "media_id": "18132501451838994",
-  "permalink": "https://www.instagram.com/p/DfjRq5WDYAo/",
-  "posted_at": "2026-11-10T06:35:53+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "lane": "official-image",
-  "lane_slug": "review-ramayana-part-1-10nov-v2",
-  "image_credit": "Image: World Of Ramayana (official video)",
-  "image_source": "https://www.youtube.com/watch?v=YleIZgpTF6w",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/04.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 12,
-  "story_id": null,
-  "account": "idlynerd",
-  "media_id": "18114470537168444",
-  "permalink": "https://www.instagram.com/p/DfjRuScl0Xt/",
-  "posted_at": "2026-11-10T06:36:23+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/04.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlytech",
-  "media_id": "17920982808461056",
-  "permalink": "https://www.instagram.com/p/DfjRwOyGH4u/",
-  "posted_at": "2026-11-10T06:36:55+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/04.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "lane": "official-image",
-  "lane_slug": "review-roundup-10nov-v2",
-  "image_credit": "Image: Sony Music South (official trailer)",
-  "image_source": "https://www.youtube.com/watch?v=LM4ByXufv2w",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/04.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 12,
-  "story_id": null,
-  "account": "idlynerd",
-  "media_id": "17955937209295034",
-  "permalink": "https://www.instagram.com/p/DfjVO44l5W2/",
-  "posted_at": "2026-11-10T07:07:03+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/04.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlyhype",
-  "media_id": "17915674962544362",
-  "permalink": "https://www.instagram.com/p/DfjYp4fF86j/",
-  "posted_at": "2026-11-10T07:36:59+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/03.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlytech",
-  "media_id": "18220641238355782",
-  "permalink": "https://www.instagram.com/p/DfjYtzWnVfg/",
-  "posted_at": "2026-11-10T07:37:27+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/03.jpg"
-  ],
-  "score_total": 13
- },
- {
-  "lane": "official-image",
-  "lane_slug": "review-scene-10nov-v2",
-  "image_credit": "Image: Sony Music South (official trailer)",
-  "image_source": "https://www.youtube.com/watch?v=LM4ByXufv2w",
-  "archived_images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/04.jpg"
-  ],
-  "score_self": 13,
-  "score_reviewer": 12,
-  "story_id": null,
-  "account": "idlynerd",
-  "media_id": "17916608343495325",
-  "permalink": "https://www.instagram.com/p/DfjYvfOl21z/",
-  "posted_at": "2026-11-10T07:37:41+00:00",
-  "date": "2026-11-10",
-  "slot": "lane",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/04.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlynews",
-  "media_id": "18201948301389909",
-  "permalink": "https://www.instagram.com/p/DfjYxnrl77o/",
-  "posted_at": "2026-11-10T07:37:58+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/04.jpg"
-  ],
-  "score_total": 12
- },
- {
-  "story_id": null,
-  "account": "idlyautomotive",
-  "media_id": "17975170001971337",
-  "permalink": "https://www.instagram.com/p/DfjY1dCl4NX/",
-  "posted_at": "2026-11-10T07:38:32+00:00",
-  "date": "2026-11-10",
-  "slot": "am",
-  "images": [
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/01.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/02.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/03.jpg",
-   "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/04.jpg"
-  ],
-  "score_total": 13
- }
+  {
+    "story_id": 1710,
+    "account": "idlyautomotive",
+    "media_id": "18414143563091456",
+    "permalink": "https://www.instagram.com/p/DfiEVORFByk/",
+    "posted_at": "2026-11-09T19:20:07+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1710/01.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1716,
+    "account": "idlyautomotive",
+    "media_id": "18097573187669243",
+    "permalink": "https://www.instagram.com/p/DfiRibyj6MV/",
+    "posted_at": "2026-11-09T21:15:31+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1716/01.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1735,
+    "account": "idlynerd",
+    "media_id": "18191196922367090",
+    "permalink": "https://www.instagram.com/p/Dfis1p0FzXi/",
+    "posted_at": "2026-11-10T01:14:01+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynerd-1735/01.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1664,
+    "account": "idlytech",
+    "media_id": "17973560970175344",
+    "permalink": "https://www.instagram.com/p/Dfi3bEUDPrt/",
+    "posted_at": "2026-11-10T02:46:37+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech_01/02.jpg"
+    ],
+    "score_total": 14
+  },
+  {
+    "story_id": 1631,
+    "account": "idlynerd",
+    "media_id": "18119415392088360",
+    "permalink": "https://www.instagram.com/p/Dfi3glqlzKQ/",
+    "posted_at": "2026-11-10T02:47:21+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynerd_01/01.jpg"
+    ],
+    "score_total": 14
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "brezza-wagonr-10nov",
+    "image_credit": "Photo: Maruti Suzuki. Official press image of the new Brezza from Maruti Suzuki's media kit; background extended.",
+    "image_source": null,
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/brezza-wagonr-10nov/02.jpg"
+    ],
+    "score_self": 12,
+    "score_reviewer": 12,
+    "story_id": 1639,
+    "account": "idlyautomotive",
+    "media_id": "18228756556331754",
+    "permalink": "https://www.instagram.com/p/DfjC7cOF00Q/",
+    "posted_at": "2026-11-10T04:27:08+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/brezza-wagonr-10nov/02.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1746,
+    "account": "idlyautomotive",
+    "media_id": "18112181798193774",
+    "permalink": "https://www.instagram.com/p/DfjDx5Ml8jb/",
+    "posted_at": "2026-11-10T04:34:32+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1746/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1746/02.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "nvidia-idlynews-10nov-v4",
+    "image_credit": "Photo: NVIDIA",
+    "image_source": null,
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/04.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/05.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/nvidia-idlynews-10nov-v4/06.jpg"
+    ],
+    "score_self": 12,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18411813268093607",
+    "permalink": "https://www.instagram.com/p/DfjG7I3DL0f/",
+    "posted_at": "2026-11-10T05:01:59+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/04.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/05.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/nvidia-idlynews-10nov-v4/06.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "ultraviolette-x47-10nov-v2",
+    "image_credit": "Photo: Ultraviolette. Official X-47 Venom studio image (Afterburner Yellow) from ultraviolette.com; studio background extended.",
+    "image_source": null,
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/ultraviolette-x47-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/ultraviolette-x47-10nov-v2/02.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 13,
+    "story_id": 1510,
+    "account": "idlyautomotive",
+    "media_id": "18122389483958097",
+    "permalink": "https://www.instagram.com/p/DfjH3gYF7tF/",
+    "posted_at": "2026-11-10T05:10:15+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/ultraviolette-x47-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/ultraviolette-x47-10nov-v2/02.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18115742438139716",
+    "permalink": "https://www.instagram.com/p/DfjKB4tDUYO/",
+    "posted_at": "2026-11-10T05:29:09+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1039-space-jam-magic-ball/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": 1757,
+    "account": "idlynews",
+    "media_id": "18130566133877235",
+    "permalink": "https://www.instagram.com/p/DfjKa9fGrh0/",
+    "posted_at": "2026-11-10T05:32:35+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlynews-1757/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-10-idlynerd-gta6-preload",
+    "image_credit": "Image: Rockstar Games (official trailer)",
+    "image_source": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/03.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 13,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18197147116396225",
+    "permalink": "https://www.instagram.com/p/DfjKj99lHGr/",
+    "posted_at": "2026-11-10T05:33:46+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-10-idlytech-instagram-ai-age-v3",
+    "image_credit": "Image: Meta",
+    "image_source": "https://about.fb.com/news/2024/09/instagram-teen-accounts/",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 14,
+    "story_id": 1712,
+    "account": "idlytech",
+    "media_id": "18122218895050807",
+    "permalink": "https://www.instagram.com/p/DfjK5snlxoc/",
+    "posted_at": "2026-11-10T05:36:46+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": 1747,
+    "account": "idlyautomotive",
+    "media_id": "17964070779219185",
+    "permalink": "https://www.instagram.com/p/DfjLXfeD4CW/",
+    "posted_at": "2026-11-10T05:40:48+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18126851452926241",
+    "permalink": "https://www.instagram.com/p/DfjOHC0HUFS/",
+    "posted_at": "2026-11-10T06:04:48+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1039-morning-brief/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-mookuthi-amman-2-10nov-v2",
+    "image_credit": "Image: Vels Music International (official video)",
+    "image_source": "https://www.youtube.com/watch?v=v263z3rTcLw",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-mookuthi-amman-2-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 13,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18075115550772140",
+    "permalink": "https://www.instagram.com/p/DfjOLr7Dc6R/",
+    "posted_at": "2026-11-10T06:05:24+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/04.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18124569191517314",
+    "permalink": "https://www.instagram.com/p/DfjQlqkF6qs/",
+    "posted_at": "2026-11-10T06:26:29+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17902282851391228",
+    "permalink": "https://www.instagram.com/p/DfjQ_5bjb6f/",
+    "posted_at": "2026-11-10T06:30:03+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1130-denza-india-debut/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18132501451838994",
+    "permalink": "https://www.instagram.com/p/DfjRq5WDYAo/",
+    "posted_at": "2026-11-10T06:35:53+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1130-monsoon-session-prorogation/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-ramayana-part-1-10nov-v2",
+    "image_credit": "Image: World Of Ramayana (official video)",
+    "image_source": "https://www.youtube.com/watch?v=YleIZgpTF6w",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-ramayana-part-1-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18114470537168444",
+    "permalink": "https://www.instagram.com/p/DfjRuScl0Xt/",
+    "posted_at": "2026-11-10T06:36:23+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-ramayana-part-1-10nov-v2/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "17920982808461056",
+    "permalink": "https://www.instagram.com/p/DfjRwOyGH4u/",
+    "posted_at": "2026-11-10T06:36:55+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-roundup-10nov-v2",
+    "image_credit": "Image: Sony Music South (official trailer)",
+    "image_source": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-roundup-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "17955937209295034",
+    "permalink": "https://www.instagram.com/p/DfjVO44l5W2/",
+    "posted_at": "2026-11-10T07:07:03+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-roundup-10nov-v2/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "17915674962544362",
+    "permalink": "https://www.instagram.com/p/DfjYp4fF86j/",
+    "posted_at": "2026-11-10T07:36:59+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1228-nikeskims-waffle-racer/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18220641238355782",
+    "permalink": "https://www.instagram.com/p/DfjYtzWnVfg/",
+    "posted_at": "2026-11-10T07:37:27+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlytech-1228-qantas-accenture-india/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "review-scene-10nov-v2",
+    "image_credit": "Image: Sony Music South (official trailer)",
+    "image_source": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/review-scene-10nov-v2/04.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "17916608343495325",
+    "permalink": "https://www.instagram.com/p/DfjYvfOl21z/",
+    "posted_at": "2026-11-10T07:37:41+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-scene-10nov-v2/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18201948301389909",
+    "permalink": "https://www.instagram.com/p/DfjYxnrl77o/",
+    "posted_at": "2026-11-10T07:37:58+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1228-haj-2027-quota/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17975170001971337",
+    "permalink": "https://www.instagram.com/p/DfjY1dCl4NX/",
+    "posted_at": "2026-11-10T07:38:32+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1228-jlr-byd-defender-claim/04.jpg"
+    ],
+    "score_total": 13
+  }
 ]
