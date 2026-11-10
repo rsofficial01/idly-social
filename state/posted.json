@@ -1223,5 +1223,20 @@
     "tagged": [
       "aspyrmedia"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18347788240248306",
+    "permalink": "https://www.instagram.com/p/Dfk6Lzfj1Bk/",
+    "posted_at": "2026-11-10T21:49:13+00:00",
+    "date": "2026-11-11",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
