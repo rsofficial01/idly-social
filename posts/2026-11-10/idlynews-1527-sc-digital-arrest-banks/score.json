@@ -1,0 +1,64 @@
+{
+ "hook": 2,
+ "read": 1,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "read 1: slide 2 bullet 3 'RBI plans to notify KYC changes by 30 Nov' doesn't say why it matters. The order says the court will examine those KYC directions first, but on the card it reads as a stray fact after the compensation lines. Everything else earns its place. Layout: cover headline white, 3 lines on one left edge with the footer, crisp over the lawn. Dome and facade whole (y about 315 to 830), clear of the logo and headline. 0 faces, downscaled 0.614. Vertical credit readable at full size, though 'SA 4.0 (cropped)' crosses a hose and foliage. Slides 2-4: stat, label and bullets share one left edge, nothing touches, source line present, no collisions. Gate 2 fixes verified: caption line 1 carries the due-diligence condition and RBI's role; slide 2 says 'Only where the bank failed in due diligence'; 'proposed to be notified'; slide 3 says 'Both also go to I4C'. Exactly one genuine '?', credit last.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 1,
+  "total": 13,
+  "notes": "Phase 3 render after Gate 2 FIXes. hook: money-back stake for bank customers over the actual court (new photo, zoom 1.15). alone 1: the cover's 'at fault' carries the condition, and RBI's role is on slide 2. keep: RBI plans KYC changes by 30 Nov, 23 Nov hearing, 1930 helpline. Freshness risk: compensation line first reported 29-30 Oct; written order reported 10 Nov."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 1,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "read 1: slide 2 bullet 3 'RBI plans to notify KYC changes by 30 Nov' doesn't say why it matters. The order says the court will examine those KYC directions first, but on the card it reads as a stray fact after the compensation lines. Everything else earns its place. Layout: cover headline white, 3 lines on one left edge with the footer, crisp over the lawn. Dome and facade whole (y about 315 to 830), clear of the logo and headline. 0 faces, downscaled 0.614. Vertical credit readable at full size, though 'SA 4.0 (cropped)' crosses a hose and foliage. Slides 2-4: stat, label and bullets share one left edge, nothing touches, source line present, no collisions. Gate 2 fixes verified: caption line 1 carries the due-diligence condition and RBI's role; slide 2 says 'Only where the bank failed in due diligence'; 'proposed to be notified'; slide 3 says 'Both also go to I4C'. Exactly one genuine '?', credit last.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "scored_as": "lower of the two totals (self 13, reviewer 13): tie, reviewer's checks used",
+ "story_id": null,
+ "idly_article": false,
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Hon%27ble_Apex_Court.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Pinaki1983",
+  "viewed": true,
+  "processing": "Full-bleed 4:5 crop (focal 0.5,0.5; zoom 1.15), downscaled to 1080x1350 (photo scale 0.614, no enlargement, no extension or blur); face detector: 0 faces"
+ },
+ "sources": [
+  "https://www.livelaw.in/pdf_upload/2026/11/10/5976920252026-10-29-710711.pdf",
+  "https://www.livelaw.in/top-stories/supreme-court-directs-whatsapp-apprise-court-measures-prevent-digital-arrest-scam-cybercrimes-557976",
+  "https://themeghalayanexpress.com/sc-asks-whatsapp-others-to-list-measures-to-prevent-digital-arrest-related-cyber-crimes/",
+  "https://www.newsmobile.in/fraud-and-scam/supreme-court-asks-whatsapp-other-platforms-to-submit-plans-to-curb-digital-arrest-scams/",
+  "https://www.dtnext.in/news/national/sc-terms-siphoning-of-over-rs-54000-cr-by-digital-fraud-dacoity-asks-centre-to-frame-sop",
+  "https://deccanchronicle.com/legalnews/sc-54k-cr-cyber-fraud-is-dacoity-sop-needed-1936025",
+  "https://i4c.mha.gov.in/ncrp.aspx",
+  "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS21072026/251.pdf"
+ ],
+ "gates": {
+  "g1": "BUILD C2 with FIXes (order PDF + PTI confirm WhatsApp/I4C direction and 23 Nov)",
+  "g2": "FIX applied (caption line 1 condition; slide 2 label/bullets; slide 3 bullet 3; 'proposed to be notified' wording)",
+  "g3": "PASS (optional zoom 1.15 applied)",
+  "g4": "PASS 13/14 (read 1: slide 2's RBI KYC bullet doesn't say why it matters)."
+ }
+}

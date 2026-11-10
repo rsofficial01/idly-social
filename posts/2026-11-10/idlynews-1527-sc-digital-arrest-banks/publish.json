@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/01.jpg",
+  "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/02.jpg",
+  "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/03.jpg",
+  "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/04.jpg"
+ ],
+ "alt_text_file": "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/alt.txt",
+ "caption_file": "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/caption.txt",
+ "score_file": "posts/2026-11-10/idlynews-1527-sc-digital-arrest-banks/score.json",
+ "title": "SC: Banks at Fault Must Repay Digital Arrest Victims"
+}
