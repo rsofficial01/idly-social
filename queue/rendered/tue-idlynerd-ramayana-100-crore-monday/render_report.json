@@ -1,0 +1,104 @@
+{
+  "slug": "tue-idlynerd-ramayana-100-crore-monday",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T06:28:16+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=8HiWKbDTc7w",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=8HiWKbDTc7w",
+    "source_url": "https://www.youtube.com/watch?v=8HiWKbDTc7w",
+    "image_url": "https://i.ytimg.com/vi/8HiWKbDTc7w/maxresdefault.jpg",
+    "credit": "Image: World Of Ramayana (official video)",
+    "organisation": "World Of Ramayana",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=8HiWKbDTc7w: author 'World Of Ramayana' https://www.youtube.com/@WorldOfRamayana, title \"Namit Malhotra's Ramayana: The Introduction | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & AR Rahman\"",
+      "thumbnail https://i.ytimg.com/vi/8HiWKbDTc7w/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@WorldOfRamayana",
+    "video_title": "Namit Malhotra's Ramayana: The Introduction | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & AR Rahman"
+  },
+  "faces": [
+    [
+      988.4,
+      106.4,
+      74.5,
+      95.3,
+      0.848
+    ]
+  ],
+  "framing": {
+    "mode": "letterbox",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.844,
+    "crop": null,
+    "band_top": 200,
+    "band_height": 608,
+    "faces_out": [
+      [
+        826,
+        280,
+        904,
+        380
+      ]
+    ],
+    "logo_saliency": null,
+    "notes": [
+      "1 face(s) detected",
+      "cover rejected: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)"
+    ],
+    "faces_src": [
+      [
+        988.4,
+        106.4,
+        74.5,
+        95.3,
+        0.848
+      ]
+    ]
+  },
+  "upscale": 0.844,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: World Of Ramayana (official video)"
+    ],
+    "max_upscale": 1.2
+  },
+  "slides": [
+    {
+      "size": 98,
+      "lines": 3,
+      "overflow": false,
+      "top": 956,
+      "credit_line": "Image: World Of Ramayana (official video)",
+      "slug": "tue-idlynerd-ramayana-100-crore-monday",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana: Part 1 made over ₹100 crore net in India on Monday 9 November, the day after Diwali and its fifth day in cinemas. Bollywood Hungama puts the day at ₹103.47 crore net; Sacnilk's early estimate is ₹107.50 crore net. Both trackers show it as the film's first ₹100 crore day.\n\nThe Hindi version brought in most of Monday's total: ₹85.20 crore net (Bollywood Hungama), ₹87.25 crore net (Sacnilk early estimate). India net after five days: ₹333.79 crore (Bollywood Hungama), ₹346.35 crore (Sacnilk early estimate). Trackers' figures differ and can be revised.\n\nDid you catch a film in a cinema over the Diwali break, and in which language?\n\nSources: Bollywood Hungama, Sacnilk\n\n#Ramayana #BoxOffice #Diwali2026 #IndianCinema #idlynerd\n\nImage: World Of Ramayana (official video)"
+}
