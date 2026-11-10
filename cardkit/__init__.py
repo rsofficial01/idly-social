@@ -5,5 +5,5 @@
     render_cards(posts, '/path/out', template='hype')  # hype: full-bleed photo cover + detail slides
     # see cardkit/render.py for the card and post dict formats
 """
-from .render import (render_cards, render_cards_async, card_html,  # noqa: F401
+from .render import (render_cards, render_cards_async, card_html, credit_line_text,  # noqa: F401
                      hype_cover_html, hype_detail_html)

@@ -80,6 +80,23 @@ carousel, use `--video clip.mp4` for a video carousel item (videos only go in ca
 post), and `--collaborator <username>` (up to 3) to invite collaborators. In `cards.json` the optional
 `"collaborators": ["username"]` field does the same for one post; the default is none.
 
+## Official image lane (GitHub Actions)
+
+Posts that need an official publicity image (a trailer still, a licensed agency photo, a company's press
+image) go through `queue/`: a Claude session writes `queue/pending/<slug>.json`, the **lane-render** workflow
+(every 10 min) resolves the image from an allowlisted official source (`config/official_sources.json`),
+frames it around any faces (OpenCV YuNet), renders it with cardkit and commits `queue/rendered/<slug>/`; a
+Claude reviewer approves with a blind score (`pipeline/lane.py approve`), and **lane-publish** (every 10 min)
+posts it with the per-account tokens stored as GitHub secrets. See [RUNBOOK.md → Official image
+lane](RUNBOOK.md#official-image-lane) and, for the secrets, [docs/SETUP-GITHUB-SECRETS.md](docs/SETUP-GITHUB-SECRETS.md).
+
+```bash
+python3 pipeline/lane.py status                     # what is pending, rendered, approved, rejected, posted
+python3 pipeline/lane.py validate                   # check pending specs
+python3 pipeline/lane.py render-pending             # what lane-render runs (add --push to commit)
+python3 pipeline/lane.py publish-approved --dry-run # what lane-publish would post
+```
+
 ## Layout
 
 `pipeline/` holds the code (`editorial.py` has every rule in one place). `posts/` holds the published

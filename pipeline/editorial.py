@@ -118,6 +118,8 @@ BAIT = [
     # Share- and save-bait: the founder's rule is no engagement bait, so the caption never asks for a
     # send or a save. Send and Keep are scored on the content itself.
     r"\bsend (this|it) to\b", r"\bsave this\b", r"\bforward this\b",
+    # Comment prompts ("Tell us below."): the one genuine question is the reply prompt; no call to comment.
+    r"\btell us (below|in the comments|down below)\b", r"\blet us know (below|in the comments)\b",
 ]
 HYPE = [
     r"\bgame[- ]?chang\w*", r"\brevolutionary\b", r"\brevolutioni[sz]\w*", r"\bmind[- ]?blowing\b",
@@ -125,7 +127,19 @@ HYPE = [
     r"\bAI[- ]powered\b", r"\bpowered by AI\b", r"\bnext[- ]gen(eration)? AI\b", r"\bthe future is here\b",
     r"\bmagic(al)? AI\b",
 ]
+# The image credit line: always the caption's last line. "Photo: Jane Doe / Wikimedia Commons, CC BY-SA 4.0",
+# "Image: Netflix India (official trailer)", or a wire agency's own form: "AP Photo/Jane Doe", "Photo: PTI",
+# "ANI Photo", "Photo: IANS".
+CREDIT_LINE = re.compile(r"^((Photos?|Images?)\s*:\s*\S|(AP|ANI|PTI|IANS) Photo\b)", re.I)
 ALLEGATION_WORDS = r"\b(accused|charged|arrested|fraud|scam|bribe\w*|murder\w*|rape\w*|assault\w*|harass\w*|molest\w*|corrupt\w*|launder\w*|cheat\w*|theft|stole)\b"
+
+
+def with_credit(caption: str, credit: str) -> str:
+    """The caption with any trailing credit line(s) replaced by `credit`, as its last line."""
+    lines = (caption or "").rstrip().splitlines()
+    while lines and (not lines[-1].strip() or CREDIT_LINE.match(lines[-1].strip())):
+        lines.pop()
+    return "\n".join(lines).rstrip() + "\n\n" + credit.strip()
 
 
 def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[str], list[str]]:
@@ -141,8 +155,10 @@ def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[s
             errs.append("no idly.news article: the caption must not send readers to idly.news or the bio link")
         if not any(l.startswith("Sources:") for l in lines):
             errs.append("no idly.news article: the caption needs a 'Sources: …' line")
-    if not any(re.match(r"Photo:\s*\S", l) for l in lines):
+    if not any(CREDIT_LINE.match(l) for l in lines):
         errs.append("missing a 'Photo: …' credit line")
+    elif not CREDIT_LINE.match(lines[-1]):
+        errs.append("the caption must end with the credit line ('Photo: …', 'Image: …' or the agency's credit)")
     if re.search(r"\bfrom \d+ reports?\b", text, re.I):
         errs.append("never use the 'From N reports' line")
     tags = re.findall(r"(?<!\w)#\w+", text)

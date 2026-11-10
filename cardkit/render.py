@@ -57,10 +57,18 @@ A Hypebeast-style post: a full-bleed photo cover, optionally followed by detail 
       white at 60%, running up the right edge. The footer is on by default; set
       cover_footer=False on a post to leave it off.
     * Detail slide: near-black (#0E0E10); stat in Playfair italic 900 (ember), stat label,
-      2-3 bullets; footer with the branch logo, date and "idly.news".
+      2-3 bullets; a quiet one-line credit/source line (16px, white at 45%, left-aligned) just above
+      the footer rule; footer with the branch logo, date and "idly.news".
+    * Credits everywhere: a cover's vertical credit is required (photo_credit). Every other slide gets
+      the credit/source line by default: the slide's 'credit_line', else the credit of the image it
+      shows, else "Sources: <post 'sources'>". Custom slide kinds that have a footer rule
+      (.foot .line or .foot2 .line) get it injected at render time. The report says per slide what it
+      shows (credit_line) and whether it collides with anything (credit_collision, credit_inside).
 
 Post dict keys
     acct, slug, date      as for classic cards (date is required: cover footer and detail slides)
+    sources               the story's main sources, e.g. ['CNBC', 'Yahoo Finance'] -> "Sources: CNBC,
+                          Yahoo Finance" on text slides (recommended whenever there are detail slides)
     cover_footer          optional, default True
     slides                list of slide dicts, in order. The first is normally the cover:
         {'type': 'cover', 'headline': ..., 'photo': path, 'photo_credit': ...,
@@ -68,7 +76,7 @@ Post dict keys
             focal  point of the source photo to centre the crop on, as fractions (0-1) of its
                    width and height (default (0.5, 0.5)); the crop is clamped to the image
             zoom   >1 crops tighter (default 1: the largest 4:5 crop the photo allows)
-        {'type': 'detail', 'stat': ..., 'stat_label': ..., 'bullets': [...]}
+        {'type': 'detail', 'stat': ..., 'stat_label': ..., 'bullets': [...], 'credit_line': optional}
   shorthand: a post with no 'slides' is a single cover built from its 'headline', 'photo',
   'photo_credit', 'focal' and 'zoom' keys.
 
@@ -380,6 +388,10 @@ html,body{width:%(W)dpx;height:%(H)dpx;background:%(bg)s}
 .d .foot .date{font:600 24px/1 Inter;color:rgba(255,255,255,.6);margin-left:22px;padding-left:22px;
                border-left:2px solid rgba(255,255,255,.6);height:30px;display:flex;align-items:center}
 .d .foot .site{margin-left:auto;font:800 27px/1 Inter;letter-spacing:-.5px}
+
+/* quiet credit / source line, just above the footer rule (detail slides, and custom slides with a footer) */
+.srcline{display:block;font:500 16px/1.25 Inter;letter-spacing:.2px;color:rgba(255,255,255,.45);text-align:left;
+         white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin:0 0 10px;max-width:100%%}
 """
 
 # cover: step the headline down until it fits in `lines` lines and no word overflows the column
@@ -425,6 +437,56 @@ HYPE_DETAIL_JS = """
 """
 
 
+# non-cover slides: add the quiet credit/source line above the footer rule when the slide's own HTML has none
+# (custom slide kinds registered by other scripts), then check it collides with nothing and stays in margins
+CREDIT_LINE_JS = """
+(o) => {
+  let s = document.querySelector('.srcline');
+  let injected = false;
+  if (!s && o.text) {
+    const rule = document.querySelector('.foot .line, .foot2 .line');
+    if (rule) {
+      s = document.createElement('div'); s.className = 'srcline'; s.textContent = o.text;
+      rule.parentNode.insertBefore(s, rule); injected = true;
+    }
+  }
+  if (!s) return {credit_line: null, credit_injected: false, credit_collision: [], credit_inside: true};
+  const r = s.getBoundingClientRect();
+  const hits = [];
+  const shown = (el) => {           // the part of el not clipped away by an overflow:hidden ancestor
+    const b = el.getBoundingClientRect();
+    let x0 = b.left, y0 = b.top, x1 = b.right, y1 = b.bottom;
+    for (let a = el.parentElement; a; a = a.parentElement) {
+      const st = getComputedStyle(a);
+      if (st.overflow !== 'visible' || st.overflowX !== 'visible' || st.overflowY !== 'visible') {
+        const c = a.getBoundingClientRect();
+        x0 = Math.max(x0, c.left); y0 = Math.max(y0, c.top); x1 = Math.min(x1, c.right); y1 = Math.min(y1, c.bottom);
+      }
+    }
+    return {left: x0, top: y0, right: x1, bottom: y1, width: x1 - x0, height: y1 - y0};
+  };
+  for (const el of document.querySelectorAll('body *')) {
+    if (el === s || el.contains(s) || s.contains(el)) continue;
+    if (el.classList.contains('ph') || el.classList.contains('bgph') || el.classList.contains('shade')) continue;
+    const st = getComputedStyle(el);
+    if (st.display === 'none' || st.visibility === 'hidden' || parseFloat(st.opacity) === 0) continue;
+    const text = Array.from(el.childNodes).some(n => n.nodeType === 3 && n.textContent.trim());
+    const mark = el.tagName === 'IMG' || el.tagName === 'LI' || el.classList.contains('line') ||
+                 el.classList.contains('rule');
+    if (!text && !mark) continue;
+    const e = shown(el);
+    if (e.width <= 0 || e.height <= 0) continue;
+    if (e.right > r.left && e.left < r.right && e.bottom > r.top && e.top < r.bottom)
+      hits.push((el.className || el.tagName).toString());
+  }
+  return {credit_line: s.textContent, credit_injected: injected, credit_collision: hits,
+          credit_truncated: s.scrollWidth > s.clientWidth + 1,
+          credit_inside: r.left >= 40 && r.right <= 1040 && r.top >= 40 && r.bottom <= 1310,
+          credit_rect: [Math.round(r.left), Math.round(r.top), Math.round(r.right), Math.round(r.bottom)]};
+}
+"""
+
+
 def _hype_slides(post: dict) -> list[dict]:
     if post.get('slides'):
         return post['slides']
@@ -465,18 +527,39 @@ def hype_cover_html(post: dict, slide: dict, photo_file: str, bottom_lum: float,
 </div></body></html>"""
 
 
+def credit_line_text(post: dict, slide: dict) -> str:
+    """The quiet one-line credit/source shown above the footer rule of a non-cover slide:
+    the slide's own 'credit_line' if set; else, on a slide that shows an image, that image's credit;
+    else the post's (or slide's) 'sources' as "Sources: A, B". '' when there is nothing to say."""
+    if str(slide.get('credit_line') or '').strip():
+        return str(slide['credit_line']).strip()
+    photo = slide.get('photo')
+    credit = slide.get('photo_credit') or (photo.get('credit') if isinstance(photo, dict) else None)
+    if credit:
+        return str(credit).strip()
+    src = slide.get('sources') or post.get('sources')
+    if isinstance(src, (list, tuple)):
+        src = ', '.join(str(s).strip() for s in src if str(s).strip())
+    src = str(src or '').strip()
+    if not src:
+        return ''
+    return src if src.lower().startswith(('source', 'photo', 'image')) else f'Sources: {src}'
+
+
 def hype_detail_html(post: dict, slide: dict) -> str:
-    """HTML for a near-black detail slide (stat, label, bullets, footer)."""
+    """HTML for a near-black detail slide (stat, label, bullets, credit/source line, footer)."""
     css = _hype_css()
     logo = os.path.join(LOGOS, f"{LOGO_FILE[post['acct']]}_white.png")
     stat = (f"<div class='stat' id='stat'>{_esc(slide['stat'])}</div>" if (slide.get('stat') or '').strip() else '')
     label = f"<div class='slabel'>{_esc(slide['stat_label'])}</div>" if slide.get('stat_label') else ''
     rule = "<div class='rule'></div>" if (stat or label) and slide.get('bullets') else ''
     bullets = ''.join(f'<li>{_esc(b)}</li>' for b in slide.get('bullets', []))
+    src = credit_line_text(post, slide)
+    srcline = f"<div class='srcline'>{_esc(src)}</div>" if src else ''
     return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
 <div class='s d'>
   <div class='body'>{stat}{label}{rule}<ul>{bullets}</ul></div>
-  <div class='foot'><div class='line'></div><div class='row'>
+  <div class='foot'>{srcline}<div class='line'></div><div class='row'>
     <img src='file://{logo}'><div class='date'>{_esc(post['date'])}</div><div class='site'>idly.news</div>
   </div></div>
 </div></body></html>"""
@@ -500,6 +583,9 @@ def _check_hype(p: dict) -> None:
                 raise ValueError(f"post {p['slug']} slide {i}: cover needs a headline")
             if not s.get('photo') or not os.path.isfile(s['photo']):
                 raise FileNotFoundError(f"post {p['slug']} slide {i}: photo not found: {s.get('photo')}")
+            if not str(s.get('photo_credit') or '').strip():
+                raise ValueError(f"post {p['slug']} slide {i}: cover needs a photo_credit (the vertical credit "
+                                 f"on the right edge is always filled)")
         elif kind == 'detail':
             if not (s.get('stat') or s.get('bullets')):
                 raise ValueError(f"post {p['slug']} slide {i}: detail needs a stat or bullets")
@@ -548,9 +634,15 @@ async def _render_hype(posts: list[dict], out_dir: str, verbose: bool, png_dir: 
                                f", scrim {_scrim_alpha(bottom)}")
                         if scale > UPSCALE_WARN:
                             msg += f"  UPSCALED {scale:.2f}x (crop {round(W / scale)}px wide)"
+                        info['credit_line'] = s.get('photo_credit')     # the vertical credit on the right edge
                     else:
                         info = await page.evaluate(HYPE_DETAIL_JS, DETAIL_FIT)
                         msg = f"detail stat {info['stat']}px label {info['label']}px bullets {info['bullet']}px"
+                        info.update(await page.evaluate(CREDIT_LINE_JS, {'text': credit_line_text(p, s)}))
+                        if not info.get('credit_line'):
+                            msg += '  no credit/source line (give the post "sources")'
+                        if info.get('credit_collision') or not info.get('credit_inside', True):
+                            msg += f"  CREDIT LINE COLLIDES: {info.get('credit_collision')}"
                     if info.get('overflow'):
                         msg += '  OVERFLOW!'
                     png = os.path.join(pdir, f'{i:02d}.png')

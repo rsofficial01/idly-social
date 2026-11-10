@@ -88,7 +88,9 @@ class Caption(unittest.TestCase):
         self.assertEqual(len(errs), 4)
 
     def test_send_and_save_bait_banned(self):
-        for line in ("Send this to the friend who forgets to recharge.", "Save this for your next recharge."):
+        for line in ("Send this to the friend who forgets to recharge.", "Save this for your next recharge.",
+                     "Tell us below.", "Tell us in the comments.", "Let us know below.",
+                     "Let us know in the comments."):
             errs, _ = editorial.post_problems(GOOD_CAPTION.replace("You get", line + "\n\nYou get"), GOOD_SCORE)
             self.assertTrue(any("engagement bait" in e for e in errs), line)
 

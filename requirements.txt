@@ -1,3 +1,8 @@
 # pipeline (cardkit/ lists its own rendering requirements)
 requests>=2.31
 Pillow>=10.0
+# official image lane (pipeline/lane.py, official_image.py, framing.py)
+numpy>=1.26
+opencv-python-headless>=4.9      # YuNet face detector (cv2.FaceDetectorYN)
+jsonschema>=4.18                 # config/spec.schema.json (draft 2020-12)
+playwright>=1.48                 # cardkit renders with Chrome through Playwright

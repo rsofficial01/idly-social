@@ -14,3 +14,8 @@ _work/
 posts/**/*.png
 
 # committed on purpose: posts/**/*.jpg, state/posted.json, state/accounts.json (ids and hosts, no tokens), reports/
+
+# official image lane: face-model cache, queue lock and half-written renders
+.cache/
+queue/.lock
+queue/rendered/.*.tmp/

@@ -507,8 +507,10 @@ def gate(score: dict | None, force_below_gate: bool) -> bool:
 def publish_post(account: str, media: list[str], caption: str, *, score: dict | None, story_id: int | None,
                  date: str | None = None, slot: str | None = None, alt_text: str = "",
                  collaborators: list[str] | None = None, dry_run: bool = False,
-                 force_below_gate: bool = False, idly_article: bool = True) -> dict:
+                 force_below_gate: bool = False, idly_article: bool = True,
+                 record_extra: dict | None = None) -> dict:
     """Publish one image, or a 2-10 item carousel (images and/or .mp4/.mov videos).
+    record_extra: extra fields for this post's state/posted.json entry (never overrides the core ones).
     Returns {status, media_id, permalink, ...}."""
     if account not in ACCOUNTS:
         raise ValueError(f"unknown account {account!r}")
@@ -567,6 +569,7 @@ def publish_post(account: str, media: list[str], caption: str, *, score: dict | 
     }
     if forced:
         entry["forced_below_gate"] = True
+    entry = {**(record_extra or {}), **entry}
     append_posted(entry)
     log(f"  published @{username}: {permalink}")
     return {"status": "posted", **entry}

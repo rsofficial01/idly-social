@@ -38,7 +38,8 @@ Sports stories have no account yet. Leave them out.
   `source_count ≥ 3`.
 - **No engagement bait.** No "tag a friend", "comment YES", "like if", "share this", "double tap",
   "follow for more", "link in comments", "you won't believe", and no "Send this to…", "Save this" or
-  "forward this" lines either (founder's rule, 9 Nov). One genuine question is fine.
+  "forward this" lines either (founder's rule, 9 Nov). No comment prompts: "Tell us below", "Tell us in the
+  comments", "Let us know below / in the comments". One genuine question is fine.
 - **No "AI"-hype wording.** No game-changing, revolutionary, mind-blowing, groundbreaking, unleash,
   supercharge, AI-powered, "the future is here". State what the thing does.
 - **No promises** you can't keep ("Part 2 tomorrow at 8").
@@ -59,7 +60,11 @@ Sports stories have no account yet. Leave them out.
   no identifiable person, that it matches the story, and that it is at least ~1080 px wide.
 - Record where it came from: `photo_source.page` (the page with the licence), `licence`, `author`, and
   `viewed: true`.
-- No compliant photo? Skip the account ("no usable photo").
+- No compliant photo? Skip the account ("no usable photo"), or, when the story needs an official
+  publicity image (a film's trailer still, a licensed agency photo of an event, a company's own press image),
+  hand it to the [official image lane](#official-image-lane): you write a spec, and code in GitHub Actions
+  fetches the image from an allowlisted official source. You never download, crop or composite those
+  images yourself.
 
 ## Card copy
 
@@ -87,6 +92,20 @@ Photo: <author> / <source>, <licence>
 ```
 
 - Exactly one `?` in the whole caption. Don't add a "From N reports" line.
+- **The credit line is always the last line** (`Photo: …`, `Image: …`, or a wire agency's own form such as
+  `AP Photo/<Photographer>`, `Photo: PTI`, `ANI Photo`, `Photo: IANS`). The publisher rejects a caption
+  that doesn't end with it.
+
+## Credits on the cards (cardkit `hype` template)
+
+- **Cover:** the vertical credit on the right edge is always filled: cardkit refuses a cover without
+  `photo_credit`.
+- **Every other slide** gets a quiet one-line credit/source line just above the footer rule (16px, white
+  at 45%). On a slide that shows an image it is that image's credit; on text slides it is the story's main
+  sources. Give every hype post `"sources": ["CNBC", "Yahoo Finance"]` (the outlets the idly article draws
+  on) and cardkit writes `Sources: CNBC, Yahoo Finance` on its text slides. A slide can override it with
+  `"credit_line": "Source: SIAM"`. The render report says per slide what it shows and whether it collides
+  with anything (`credit_collision`); look at it on every render.
 
 ## The 7-check score (gate: 12/14, aim for 14)
 
@@ -290,6 +309,151 @@ Access: @idlynerd: token expires in 6 days: generate a new one in the Meta dashb
 | Permission error (code 10 or 200) | A lookup or a post needs a permission the login configuration lacks (see the note under [Meta access](#meta-access-one-time-setup)). Put Meta's message in the summary. |
 | "appsecret_proof" error | The Meta app has *Require app secret* switched on, which a network secret can't satisfy. The founder switches it off in the app's Advanced settings. |
 | Crash halfway | Re-run the step. `render` overwrites the plan, `publish` skips posted accounts, `report` rewrites the report. |
+
+---
+
+## Official image lane
+
+For posts that need an **official publicity image**: a film or series story (the official trailer still),
+an event a licensed agency photographed (AP; PTI, ANI and IANS once their APIs are set up), or a company
+story (the company's own newsroom image). These images may show real people, so the Claude session never
+downloads, views, crops or composites them. Plain code does that in GitHub Actions, from allowlisted
+official sources only. The session writes a **spec**; a later **reviewer** run approves or rejects the
+rendered card.
+
+```
+you: queue/pending/<slug>.json ──► lane-render (Actions, every 10 min) ──► queue/rendered/<slug>/
+                                    resolve → frame → cardkit hype → checks     01.jpg … spec.json render_report.json
+reviewer: lane.py show / approve ──► queue/approved/<slug>.json ──► lane-publish (Actions, every 10 min)
+                                                                     gate + freshness → Instagram → queue/posted/<slug>/
+anything that fails ──► queue/rejected/<slug>/reasons.json
+```
+
+### 1. Write a spec (the posting run)
+
+Same editorial rules, copy rules and 7-check score as any post. Then:
+
+1. Pick the slug: lowercase words and hyphens, unique, e.g. `2026-11-10-idlynerd-kaalam-trailer`.
+2. Write `queue/pending/<slug>.json`:
+
+   ```json
+   {
+     "account": "idlynerd",
+     "story_id": 1741,
+     "idly_article": true,
+     "title": "Kaalam trailer: Netflix sets 4 December release",
+     "headline": "Kaalam's first trailer sets up a 4 December Netflix release",
+     "caption": "<fact lines>\n\n<one genuine question>\n\nFull story on idly.news (link in bio).\n\n#Kaalam #Netflix #TamilCinema #idlynerd",
+     "alt_text": "A still from the Kaalam trailer, with the headline on the card.",
+     "sources": ["The Hindu", "Cinema Express"],
+     "detail_slides": [{"stat": "4 DEC", "stat_label": "Kaalam streams on Netflix", "bullets": ["…", "…"]}],
+     "image": {"resolver": "youtube_official", "ref": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+               "fallback": [{"resolver": "og_image_official", "ref": "https://about.netflix.com/en/news/…"}]},
+     "scores": {"self": {"hook": 2, "read": 2, "send": 2, "keep": 2, "reply": 2, "original": 1, "alone": 1,
+                         "total": 12, "notes": "…"}},
+     "created_at": "2026-11-10T09:12:00+05:30"
+   }
+   ```
+
+   - **Leave the image credit out of the caption.** The lane adds the exact credit as the last line
+     (`Image: Netflix India (official trailer)`, `Image: Maruti Suzuki`, `AP Photo/<Photographer>`,
+     `Photo: PTI`, …) once it knows which image it used.
+   - `detail_slides` are optional (0–9 slides after the cover). If you add any, `sources` is required:
+     it becomes the `Sources: …` line on those slides.
+   - `idly_article: false` (with `story_id: null`) for a post with no idly.news article: the caption then
+     needs a `Sources: …` line and must not mention idly.news.
+   - `evergreen: true` only for timeless posts. Otherwise the lane drops the spec once `created_at` is
+     8 hours old.
+   - Your self score must already be 12 or more, as for any post.
+3. Check it, then commit and push it (it renders within about 10 minutes):
+
+   ```bash
+   python3 pipeline/lane.py validate queue/pending/<slug>.json
+   git add queue/pending/<slug>.json && git commit -m "lane: spec <slug>"
+   git pull --rebase origin main && git push origin HEAD:main
+   ```
+
+### 2. Which resolver
+
+The lane tries `image` first, then each `fallback` in order, **except that `licensed_wire` always goes
+first** when you list it.
+
+| story | resolver | `image` fields |
+|---|---|---|
+| A news event with people (a match, a premiere, a press conference, a court appearance) | `licensed_wire` | `"query"`: who + what + where, e.g. `"Virat Kohli Perth Test"`; optional `"agencies": ["ap", "pti"]`, `"since_hours": 48` |
+| A film or series: trailer, teaser, first look, release date | `youtube_official` | `"ref"`: the video URL or id. It **must** be uploaded by an allowlisted official channel (studio, label or streamer), checked through YouTube's oEmbed |
+| A company: launch, results, product, policy | `og_image_official` | `"ref"`: the company's **own** newsroom or press-release page (an allowlisted domain). Never a news site |
+
+- **Wire photos:** only through the agency's official API with the secrets in GitHub (today: AP, once
+  `AP_MEDIA_API_KEY` is set; PTI, ANI and IANS are stubs until they give us an API). The lane picks the
+  newest photo whose caption matches the query, big enough, that passes face framing, and costs nothing
+  extra. **Never Reuters or Getty.** If wire isn't set up, it falls through to your fallback.
+- **Trailers:** YouTube thumbnails are 1280×720, so the lane uses the *letterbox* layout: the still at full
+  width below the logo, on a blurred, darkened copy of itself.
+- **Newsrooms:** pages from news outlets (NDTV, Times of India, Cinema Express, 123telugu, Hindustan Times,
+  Indian Express …) are always refused, as are images they host.
+
+What the lane checks (every one rejects the spec with a reason): allowlist and denylist; no placeholders,
+logos or blank images; under 900 px wide never (1080 px at more than 1.2× upscale); every face detected
+(YuNet) sits between y 190 and y 702 of the 1080×1350 cover, not cut by an edge, and nothing busy under the
+logo (else letterbox, else reject); the headline fits; the credit line on every slide doesn't collide; the
+caption passes every caption rule with the credit appended.
+
+### 3. Review (the reviewer step)
+
+After the posting step, review what the lane has rendered:
+
+```bash
+git pull --rebase origin main
+python3 pipeline/lane.py status                 # what is pending, rendered, approved, rejected, posted
+python3 pipeline/lane.py show <slug>            # blind packet: copy, final caption, credit, source, framing
+```
+
+For each item in `queue/rendered/`, a **blind** reviewer (one that has not seen the self score: `show`
+leaves it out) opens `queue/rendered/<slug>/01.jpg`, `02.jpg` … and `render_report.json` and checks: the
+headline is legible and not over a face; no face is cut off or under the logo; the credit on the cover and
+the source line on the other slides are there and readable; the image matches the story; the caption is
+right. Then it scores the 7 checks and writes the score to a file:
+
+```bash
+python3 pipeline/lane.py approve <slug> --score-file /tmp/<slug>-review.json   # the lower score must be >= 12
+python3 pipeline/lane.py reject  <slug> --reason "headline sits on the actor's face"
+git add queue reports && git commit -m "lane: review <slug>"
+git pull --rebase origin main && git push origin HEAD:main
+```
+
+`approve` rejects the item itself when the lower of the two scores is under 12. The `lane-publish` workflow
+posts approved items within about 10 minutes: one post per account per run, only while fresh, only with that
+account's `IG_TOKEN_…` secret set in GitHub, and never twice (it checks `state/posted.json` and the account's
+recent posts first). It records the post in `state/posted.json` (slot `lane`) and the day's events in
+`reports/lane-<date>.md`; read that file in your summary.
+
+### 4. Adding a source to the allowlist
+
+All in `config/official_sources.json`, by a session with a human's go-ahead, in its own commit:
+
+- **YouTube channel:** open the channel and one of its videos, and confirm it is the official channel (the
+  studio, label or streamer's own; verified badge; the company links to it). Run
+  `curl -s "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<id>&format=json"` and copy
+  `author_url` exactly into a new `youtube_channels` entry with `name` (as it should appear in the credit),
+  `channel_id` and a `verified` note (date and how). Can't confirm it? Put it in `pending_review` instead.
+- **Official website:** add `{"domain": "…", "organisation": "…"}` to `official_domains` (subdomains are
+  included). Add `"path_prefixes": ["/newsroom"]` when only part of a site is a newsroom. Never add a news
+  outlet, a fan site, a wiki or a social network.
+- **Never** remove a domain from `denied_domains` to make a story work.
+- Run `python3 -m unittest discover tests` before committing.
+
+### Lane troubleshooting
+
+| report line / reason | meaning |
+|---|---|
+| `uploader … is not on the official channel allowlist` | Not an official upload (fan channel, re-upload). Find the studio's own upload, or add the channel (above) if it really is official. |
+| `… is not an official domain on the allowlist` / `… is a news outlet` | Use the company's own newsroom page. |
+| `framing: …` | No layout keeps every face in the safe band. Try another source (another trailer, another photo). |
+| `licensed_wire: … not configured` | No agency API is set up yet; the lane used your fallback (or rejected if there was none). |
+| `waiting · … will retry` | The source was unreachable; the next run tries again. |
+| `skipped · … IG_TOKEN_X secret is not set` | Rahul needs to add that GitHub secret ([docs/SETUP-GITHUB-SECRETS.md](docs/SETUP-GITHUB-SECRETS.md)). |
+| `stale` | Over 8 hours old: write a new spec if the story still matters. |
 
 ---
 
