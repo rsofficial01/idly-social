@@ -302,6 +302,21 @@
         "/newswire",
         "/VI"
       ]
+    },
+    {
+      "domain": "dneg.com",
+      "organisation": "DNEG",
+      "verified": "2026-11-10: producers of Ramayana (Namit Malhotra's Prime Focus Studios and DNEG); company newsroom pages."
+    },
+    {
+      "domain": "redefine.co",
+      "organisation": "ReDefine (Prime Focus)",
+      "verified": "2026-11-10: producers of Ramayana (Namit Malhotra's Prime Focus Studios and DNEG); company newsroom pages."
+    },
+    {
+      "domain": "primefocus.com",
+      "organisation": "Prime Focus",
+      "verified": "2026-11-10: producers of Ramayana (Namit Malhotra's Prime Focus Studios and DNEG); company newsroom pages."
     }
   ],
   "denied_domains": [
