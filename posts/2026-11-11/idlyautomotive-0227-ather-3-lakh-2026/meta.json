@@ -1,0 +1,30 @@
+{
+ "account": "idlyautomotive",
+ "title": "Ather Energy's e-scooter sales cross 3 lakh in 2026: 3,01,133 Vahan registrations from 1 Jan to 6 Nov, up 67% YoY; 16.3% e-two-wheeler share, its highest (16.1% in 2025); third behind TVS and Bajaj, ahead of Hero's Vida; best month March (36,630); Autocar India and BikeAdvice expect about 3.5 lakh by year-end",
+ "story_id": 1771,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  "https://www.autocarindia.com/bike-news/ather-crosses-3-lakh-yearly-sales-for-the-first-time-in-2026-441286",
+  "https://bikeadvice.in/ather-electric-scooter-sales-cross-3-lakh-in-2026/"
+ ],
+ "photo_source": {
+  "page": "https://www.atherenergy.com/450",
+  "file": "https://media.atherenergy.com/450x-overtones-still-white-m.webp (1200x1350; saved unaltered as _work/2026-11-11-hourly-0227/idlyautomotive/photos/ather_450x_overtones_still_white_m.webp, sha1 46b27ce13c2b1f1486b01d86778274bc9ef619bf)",
+  "licence": "Official Ather Energy product image from its own Ather 450 product page (atherenergy.com/450), used credited for editorial news; Ather's press hub offers product images 'for editorial use' but its portfolio links return 403",
+  "author": "Ather Energy",
+  "credit": "Image: Ather Energy",
+  "subject": "Ather 450X (Overtones, Still White) electric scooter, whole, three-quarter front view on its side stand, grey floor and white wall; no people, no text overlay, no watermark, no number plate",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 1.0 -> framing/cover_source.png (1200x1350, sha1 fd90b27c0f042e07a69c6968bb9a12b083793e06); cardkit hype cover crop x 60-1140 at scale 1.00 to 1080x1350; no upscale, fill, blur, letterbox or recolour. Scooter whole at about y 255-985; headline ink y 1062-1235; scrim 0.8."
+ },
+ "tags": [
+  "atherenergy"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (blind reviewer, predicted at the line); B Baleno 50,000 DROP (stale, 6 Nov) and C FADA October 2W retail DROP (stale, stand-in image). Fixes applied: number and stake on the cover in 2 lines clear of the wheels; Vahan basis said once; only facts both Autocar India and BikeAdvice carry (no lifetime total, no rivals' unit counts, no Konarc); a race-by-rank slide; 3.5 lakh attributed to the outlets; no '3 lakh' bullet; idly line, Sources line, 'Image: Ather Energy' last; tag @atherenergy.",
+  "g23": "Picture PASS. Words FIX, applied word for word: 'a First' and 'a record' were Autocar-only, so the cover became \"Ather's 2026 Sales Cross 3 Lakh, Up 67%\", caption sentence 1 became \"Ather Energy's scooter sales have crossed 3 lakh in 2026.\", and ', a record' was removed. Slide 2 became 16.3% share (Up from 16.1% / March 36,630 / 3.5 lakh estimate); slide 3 bullet 3 became 'Counted from Vahan registrations, 1 Jan to 6 Nov'. alt.txt updated. post_problems ([], []), card_problems [].",
+  "g4": "PASS (blind reviewer) 12/14: hook 2, read 2, send 1, keep 1, reply 2, original 2, alone 2. Self 12/14; final 12/14. Tag @atherenergy confirmed in atherenergy.com's own page links (instagram.com/atherenergy)."
+ }
+}

@@ -1,0 +1,44 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-0227-ather-3-lakh-2026",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Autocar India",
+    "BikeAdvice"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Ather's 2026 Sales Cross 3 Lakh, Up 67%",
+      "photo": "_work/2026-11-11-hourly-0227/idlyautomotive/framing/cover_source.png",
+      "photo_credit": "Image: Ather Energy",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "16.3%",
+      "stat_label": "Ather's E-Two-Wheeler Share, Its Highest Yet",
+      "bullets": [
+        "Up from 16.1% in 2025",
+        "Best month: March, with 36,630 scooters",
+        "Autocar India, BikeAdvice expect about 3.5 lakh by December"
+      ],
+      "credit_line": "Sources: Autocar India, BikeAdvice"
+    },
+    {
+      "type": "detail",
+      "stat": "3RD",
+      "stat_label": "Ather's Place in India's E-Scooter Race",
+      "bullets": [
+        "Only TVS and Bajaj sold more in 2026",
+        "Hero's Vida is fourth, behind Ather",
+        "Counted from Vahan registrations, 1 Jan to 6 Nov"
+      ],
+      "credit_line": "Sources: Autocar India, BikeAdvice"
+    }
+  ]
+}
