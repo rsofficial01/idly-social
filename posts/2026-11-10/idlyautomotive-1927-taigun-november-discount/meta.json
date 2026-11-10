@@ -1,0 +1,33 @@
+{
+ "account": "idlyautomotive",
+ "title": "2025-built VW Taigun Topline 1.0 TSI manual gets up to ₹2.7 lakh off in November 2026 (₹2 lakh cash + ₹30,000 exchange + up to ₹40,000 corporate)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.autocarindia.com/car-news/my2025-volkswagen-taigun-gets-up-to-rs-27-lakh-discount-in-november-2026-441272",
+  "https://www.autopunditz.com/post/volkswagen-november-2026-offers-taigun-virtus-tiguan-tayron",
+  "https://skoda-vw.co.in/volkswagen/volkswagen-india-launches-the-new-taigun-introduces-a-new-75-assured-buyback-program/",
+  "https://www.autocarpro.in/news/volkswagen-india-launches-new-taigun-starting-at-1099-lakh-132107"
+ ],
+ "photo_source": {
+  "page": "https://www.volkswagen.co.in/en/discover-volkswagen/news/archives/volkswagen-india-launches-suvw-taigun-price.html",
+  "file": "https://assets.volkswagen.com/is/image/volkswagenag/Taigun-Launch-Price-1-1?Zm10PXBuZy1hbHBoYSZ3aWQ9MTYwMCZiZmM9b2ZmJjc2YWY= (1600x1200 PNG, largest rendition the page serves)",
+  "licence": "Official Volkswagen India press image from its Taigun launch release on volkswagen.co.in (manufacturer media), credited",
+  "author": "Volkswagen India",
+  "credit": "Image: Volkswagen India",
+  "subject": "Volkswagen Taigun GT (pre-facelift body, same generation as the discounted 2025-built stock), yellow, rear three-quarter, driving past a curved glass building",
+  "viewed": true,
+  "processing": "PNG (RGBA, fully opaque) used unaltered as the cover source; pipeline.framing ok (focal 0.5,0.5, zoom 1.0, upscale 1.12, 0 faces); cardkit hype cover focal (0.45, 0.6), zoom 1.06 to centre the car and lift it clear of the headline (crop 906 px wide, 1.19x enlargement); no other edits. No people; press-car number plate visible as published by VW."
+ },
+ "tags": [
+  "volkswagen_india"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "PASS: build A (Taigun November discounts), predicted 13/14; conditions: tie 'up to' to MY2025 Topline 1.0 TSI MT, facelift context needs 2 sources, real large image, own-life question. B (Yangwang U9 Xtreme) and C (Force Traveller EV) dropped.",
+  "g2": "FIX then applied: caption line on other variants now names the 2025 GT Plus Chrome 1.5 TSI DSG (about ₹2 lakh, Autocar ₹2 lakh / Autopunditz ₹1,96,793); slide 3 bullet 2 now '2025 GT Plus Chrome DSG: about ₹2 lakh cash'. Everything else PASS.",
+  "g3": "PASS: VW India press image (2021 Taigun launch release), 1600x1200, no person/watermark/text, actual pre-facelift Taigun, 1.19x, car whole y≈580–935 clear of logo and headline; @volkswagen_india confirmed on volkswagen.co.in.",
+  "g4": "PASS: reviewer 13/14 (keep 1); self 13/14; final 13/14"
+ }
+}

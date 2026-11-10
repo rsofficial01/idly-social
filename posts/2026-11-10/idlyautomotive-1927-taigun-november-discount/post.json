@@ -1,0 +1,42 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1927-taigun-november-discount",
+ "date": "10 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Autopunditz"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Up to ₹2.7 Lakh Off a 2025-Built VW Taigun Topline Manual",
+   "photo": "_work/2026-11-10-hourly-1927/idlyautomotive/photos/vw-taigun-launch-price-1.png",
+   "photo_credit": "Image: Volkswagen India",
+   "focal": [
+    0.45,
+    0.6
+   ],
+   "zoom": 1.06
+  },
+  {
+   "type": "detail",
+   "stat": "₹2 lakh",
+   "stat_label": "Cash Discount, 2025 Taigun Topline 1.0 TSI Manual",
+   "bullets": [
+    "Exchange your old car: another ₹30,000 off",
+    "Corporate offer: ₹5,000 to ₹40,000, by buyer category",
+    "VW owners get ₹20,000 loyalty, or corporate, not both"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "₹1.5 lakh",
+   "stat_label": "Cash Off a 2025 Taigun Topline Automatic",
+   "bullets": [
+    "2026-built Topline automatic: ₹1 lakh cash instead",
+    "2025 GT Plus Chrome DSG: about ₹2 lakh cash",
+    "Offers vary by city and stock; confirm build year"
+   ]
+  }
+ ]
+}

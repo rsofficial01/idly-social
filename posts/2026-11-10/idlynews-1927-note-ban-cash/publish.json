@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlynews-1927-note-ban-cash/01.jpg",
+  "posts/2026-11-10/idlynews-1927-note-ban-cash/02.jpg",
+  "posts/2026-11-10/idlynews-1927-note-ban-cash/03.jpg",
+  "posts/2026-11-10/idlynews-1927-note-ban-cash/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-10/idlynews-1927-note-ban-cash/caption.txt",
+ "alt_text_file": "posts/2026-11-10/idlynews-1927-note-ban-cash/alt.txt",
+ "score_file": "posts/2026-11-10/idlynews-1927-note-ban-cash/score.json",
+ "title": "Note ban at 10: currency with the public ₹42.56 lakh crore on 15 Oct 2026 vs about ₹17 lakh crore on 28 Oct 2016 (RBI WSS)",
+ "tags": []
+}

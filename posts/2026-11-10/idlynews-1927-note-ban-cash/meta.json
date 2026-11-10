@@ -1,0 +1,38 @@
+{
+ "account": "idlynews",
+ "title": "Note ban at 10: currency with the public ₹42.56 lakh crore on 15 Oct 2026 vs about ₹17 lakh crore on 28 Oct 2016 (RBI WSS)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.rbi.org.in/Scripts/BS_ViewWssExtractdetails.aspx?id=63855",
+  "https://www.rbi.org.in/Scripts/BS_viewWssExtract.aspx?SelectedDate=11/18/2016",
+  "https://www.rbi.org.in/Scripts/BS_viewWssExtract.aspx?SelectedDate=01/20/2017",
+  "https://www.businesstoday.in/india/story/10-years-after-note-ban-indias-cash-holdings-more-than-double-to-rs42-55-lakh-crore-despite-digital-payments-566626-2026-11-10",
+  "https://www.angelone.in/news/economy/ten-years-after-demonetisation-cash-remains-firmly-in-use-despite-digital-payments",
+  "https://www.thenewsminute.com/news/ten-years-after-demonetisation-in-india-cash-is-still-king",
+  "https://www.onmanorama.com/news/business/2026/11/07/10-years-of-namo-demonetisation-upi-soars-currency-surges-questions-remain.html",
+  "https://www.dtnext.in/business/2018/06/10/currency-with-public-doubles-since-note-ban",
+  "https://www.business-standard.com/article/economy-policy/demonetisation-impact-contained-cash-with-public-doubles-since-note-ban-118061000250_1.html",
+  "https://www.business-standard.com/article/news-ians/over-99-of-demonetised-notes-back-with-rbi-118082900558_1.html"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India,_Mumbai_HQ_in_September_2024.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/ (1920px thumb of Reserve_Bank_of_India,_Mumbai_HQ_in_September_2024.jpg)",
+  "licence": "CC BY 4.0",
+  "author": "DesiBoy101",
+  "original_size": "4000x3000",
+  "credit": "Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0",
+  "subject": "Reserve Bank of India headquarters (Central Office building), Shahid Bhagat Singh Road, Fort, Mumbai",
+  "viewed": true,
+  "processing": "Commons 1920x1440 thumb; pipeline.framing ok (focal 0.5,0.5, zoom 1.0, scale 0.94 downscale, 0 faces); cardkit hype full-bleed 4:5 crop only, scrim 0.66; no other edits. Two few-pixel street-level figures at frame edges under the headline scrim, not identifiable. Rejected Mumbai,_reserve_bank_of_india_02.jpg (Sailko) because framing detected a passer-by's face; deleted."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (note ban at 10, RBI cash data; ceiling 12, no slack): pin every number to RBI primary + one outlet, one measure (currency with the public), drop BT's inconsistent ratio, neutral, before/after on cover. C2 Red Fort and C3 Sonia memoir dropped.",
+  "g2": "FIX then applied: caption 'On 28 October 2016, 11 days before the ban'; optional tweaks applied: slide 2 'Hit in December 2016' (exact Dec date not used: RBI's 9 and 23 Dec readings are both ~₹7.8 lakh crore), slide 4 '₹5.27 lakh crore'",
+  "g3": "PASS: RBI Central Office Mumbai, CC BY 4.0 DesiBoy101, no identifiable person; watch credit gap at Gate 4",
+  "g4": "PASS: reviewer 12/14 (hook 1, keep 1); self 12/14; final 12/14"
+ }
+}

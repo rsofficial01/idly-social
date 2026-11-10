@@ -1,0 +1,52 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1927-note-ban-cash",
+  "date": "10 Nov 2026",
+  "sources": [
+    "RBI",
+    "Business Today",
+    "The News Minute",
+    "Onmanorama",
+    "DT Next (PTI)"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Note Ban at 10: Cash With the Public Up From ₹17 to ₹42.56 Lakh Crore",
+      "photo": "_work/2026-11-10-hourly-1927/idlynews/cover_source.png",
+      "photo_credit": "Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹7.8 LAKH CR",
+      "stat_label": "Cash's Low Point After the 2016 Note Ban",
+      "bullets": [
+        "Hit in December 2016, weeks after 8 November",
+        "Scrapped ₹500, ₹1,000 notes were 86% of circulating cash"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "99.3%",
+      "stat_label": "Scrapped Notes Returned After the 2016 Note Ban",
+      "bullets": [
+        "₹15.31 lakh crore of ₹15.42 lakh crore came back",
+        "RBI's count, in its 2017-18 annual report"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "14.1%",
+      "stat_label": "A Decade After Note Ban, Cash Keeps Growing",
+      "bullets": [
+        "Cash with the public, year to 15 October 2026",
+        "₹5.27 lakh crore added since October 2025"
+      ]
+    }
+  ]
+}

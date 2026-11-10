@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (12) and reviewer (12); tie uses the reviewer. Blind reviewer, Gate 4, run 1927. Hook 1: a note-ban anniversary piece two days after 8 Nov that every outlet has run; the cover number is a nominal ten-year doubling, not a current lead. Keep 1: reference data with no deadline, price or eligibility a reader would act on. All other checks 2: every figure is pinned to RBI's weekly statistical supplement with one measure throughout, and each slide adds a new step (low point, returned notes, latest year) (read); it settles the family-group note-ban argument with RBI numbers (send); a genuine own-life cash question (reply); idly's synthesis from primary data with a credited Commons photo of the actual RBI building (original); every slide names the note ban (alone). Facts re-checked: 28 Oct 2016 Rs 17,013.8 bn; 9 Dec 2016 Rs 7,809.5 bn and 23 Dec Rs 7,829.1 bn, so 'December 2016' is right and matches the caption; 15 Oct 2026 Rs 42,55,656 crore, +14.1%. Layout: full-bleed, sharp, white 3-line headline, 19 px gap to the vertical credit, not touching; slides 2-4 clean, with the template's vertical centring and no broken band; slide 3 bullet 1 ends just inside the margin.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: the before/after number is on the cover, but it is an anniversary data piece two days after 8 Nov that many outlets have run. keep 1: reference figures (dated RBI readings, 99.3%, 86%), no deadline, price or eligibility a reader acts on. read 2: four slides tell before, crash, return, now with no filler. send 2: settles a common family/office argument with RBI's own numbers. reply 2: 'What do you still pay for only in cash?' is answered from daily life. original 2: our synthesis from RBI tables, one measure throughout (we caught BT mixing measures), credited Commons photo. alone 2: every slide names the note ban and the measure."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Blind reviewer, Gate 4, run 1927. Hook 1: a note-ban anniversary piece two days after 8 Nov that every outlet has run; the cover number is a nominal ten-year doubling, not a current lead. Keep 1: reference data with no deadline, price or eligibility a reader would act on. All other checks 2: every figure is pinned to RBI's weekly statistical supplement with one measure throughout, and each slide adds a new step (low point, returned notes, latest year) (read); it settles the family-group note-ban argument with RBI numbers (send); a genuine own-life cash question (reply); idly's synthesis from primary data with a credited Commons photo of the actual RBI building (original); every slide names the note ban (alone). Facts re-checked: 28 Oct 2016 Rs 17,013.8 bn; 9 Dec 2016 Rs 7,809.5 bn and 23 Dec Rs 7,829.1 bn, so 'December 2016' is right and matches the caption; 15 Oct 2026 Rs 42,55,656 crore, +14.1%. Layout: full-bleed, sharp, white 3-line headline, 19 px gap to the vertical credit, not touching; slides 2-4 clean, with the template's vertical centring and no broken band; slide 3 bullet 1 ends just inside the margin."
+ }
+}
