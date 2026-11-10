@@ -3,7 +3,7 @@
     render_story(post, out_jpg, report=[])        # an Instagram Story card: one JPEG
     python3 -m cardkit.vertical story POST.json OUT.jpg     # exit 1 if the layout has problems
 
-    (cardkit.reel turns the same pages into a reel: reel.mp4 + reel_cover.jpg.)
+    (cardkit.reel films the same layout, CSS and checks as a motion reel: reel.mp4 + reel_cover.jpg.)
 
 POST.json is one hype post dict (see cardkit.render): acct, slug, date, sources, slides (the first is the cover:
 headline, photo, photo_credit, focal, zoom; then 'detail' slides). Relative photo paths are taken from the current
@@ -47,7 +47,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from cardkit.render import (EMBER, JPEG_QUALITY, LOGO_FILE, LOGOS, _check_hype, _chrome, _esc, _hype_css,  # noqa: E402
-                            _hype_slides, _keep_compounds, _lum, credit_line_text)
+                            _hype_slides, _lum)
 
 VW, VH = 1080, 1920
 VSIDE = 64                               # every text line starts here
@@ -198,8 +198,6 @@ VERTICAL_CSS = """
 .endlogo{height:%(end_logo_h)dpx;width:auto;display:block;margin-left:%(end_logo_ml)spx}
 .endsite{font:800 132px/1 Inter;letter-spacing:-.045em;color:#fff;margin-top:64px}
 .endhandle{font:600 50px/1 Inter;letter-spacing:-.01em;color:%(ember)s;margin-top:30px}
-.layer-overlay .bgfill,.layer-overlay .ph,.layer-overlay .txt{visibility:hidden}
-.layer-text .s > *:not(.txt){visibility:hidden}
 """
 
 
@@ -260,44 +258,6 @@ def vcover_html(post: dict, slide: dict, photo_file: str, photo_h: int, top_lum:
   {credit}
   <div class='txt'><div class='kick' data-chk='kicker' data-edge='1'>@{_esc(post['acct'])}</div><div class='head' id='head' data-chk='headline' data-edge='1' data-lines='1'>{_esc(slide['headline'])}</div></div>
   {_foot(post)}
-</div></body></html>"""
-
-
-def vdetail_html(post: dict, slide: dict, zone: SafeZone = REEL_SAFE_ZONE) -> str:
-    """A detail slide re-laid out for 9:16: stat, label, bullets and the Sources line on the dark background."""
-    css = _vcss(post['acct'], zone)
-    stat = (f"<div class='stat' id='stat' data-chk='stat'>{_esc(slide['stat'])}</div>"
-            if (slide.get('stat') or '').strip() else '')
-    label = (f"<div class='slabel' data-chk='label' data-edge='1' data-lines='1'>{_keep_compounds(slide['stat_label'])}</div>"
-             if slide.get('stat_label') else '')
-    rule = "<div class='rule'></div>" if (stat or label) and slide.get('bullets') else ''
-    bullets = ''.join(f"<li data-chk='bullet{i}' data-edge='1' data-lines='1'>{_keep_compounds(b)}</li>"
-                      for i, b in enumerate(slide.get('bullets') or [], 1))
-    src = credit_line_text(post, slide)
-    srcline = (f"<div class='srcwrap'><div class='srcline' data-chk='sources' data-edge='1'>{_esc(src)}</div></div>"
-               if src else '')
-    return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
-<div class='s v d'>
-  <div class='bgfill'></div>
-  <img class='logo' data-chk='logo' data-kind='mark' src='file://{_logo_path(post['acct'])}'>
-  <div class='body'>{stat}{label}{rule}<ul>{bullets}</ul></div>
-  {srcline}
-  {_foot(post)}
-</div></body></html>"""
-
-
-def vend_html(post: dict, zone: SafeZone = REEL_SAFE_ZONE) -> str:
-    """The end card: the account's logo, idly.news and the handle, left-aligned like everything else, centred
-    vertically in the zone."""
-    css = _vcss(post['acct'], zone)
-    return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
-<div class='s v e'>
-  <div class='bgfill'></div>
-  <div class='endblk'>
-    <img class='endlogo' data-chk='endlogo' data-kind='mark' src='file://{_logo_path(post['acct'])}'>
-    <div class='endsite' data-chk='site' data-edge='1'>idly.news</div>
-    <div class='endhandle' data-chk='handle' data-edge='1'>@{_esc(post['acct'])}</div>
-  </div>
 </div></body></html>"""
 
 
@@ -380,86 +340,7 @@ VCHECK_JS = """
 }
 """
 
-# detail slides: the stat no wider than the column; shrink until the block fits; then grow the type (to the caps)
-# and the spacing until no empty band above or below the block is taller than maxGap. The stat's margins are trimmed
-# to its ink (its line box has room for accents), and data-ink-top/-bottom tell the checks where its ink is.
-VDETAIL_JS = """
-(o) => {
-  const body = document.querySelector('.body');
-  const stat = document.getElementById('stat');
-  const lab = document.querySelector('.slabel');
-  const rule = document.querySelector('.rule');
-  const lis = Array.from(document.querySelectorAll('li'));
-  const ctx = document.createElement('canvas').getContext('2d');
-  let s = o.stat, l = o.label, b = o.bullet, g = 1, statMax = o.statMax;
-  const ink = () => {
-    const cs = getComputedStyle(stat);
-    ctx.font = `${cs.fontStyle} ${cs.fontWeight} ${cs.fontSize} ${cs.fontFamily}`;
-    const m = ctx.measureText(stat.textContent.trim());
-    const lh = parseFloat(cs.lineHeight);
-    const base = (lh - (m.fontBoundingBoxAscent + m.fontBoundingBoxDescent)) / 2 + m.fontBoundingBoxAscent;
-    return {top: base - m.actualBoundingBoxAscent, bottom: base + m.actualBoundingBoxDescent, lh,
-            pad: parseFloat(cs.paddingBottom), left: m.actualBoundingBoxLeft};
-  };
-  const set = () => {
-    if (stat) {
-      stat.style.fontSize = s + 'px';
-      const k = ink();
-      const mt = Math.max(0, k.top), mb = Math.max(0, k.lh + k.pad - k.bottom);
-      stat.style.marginTop = (-mt) + 'px'; stat.style.marginBottom = (-mb) + 'px';
-      stat.dataset.inkTop = mt; stat.dataset.inkBottom = mb;
-    }
-    if (lab) { lab.style.fontSize = l + 'px'; lab.style.marginTop = (stat ? Math.round(o.labelGap * g) : 0) + 'px'; }
-    if (rule) rule.style.margin = `${Math.round(o.ruleTop * g)}px 0 ${Math.round(o.ruleBottom * g)}px`;
-    lis.forEach((li, i) => { li.style.fontSize = b + 'px';
-                             li.style.marginBottom = (i < lis.length - 1 ? Math.round(o.liGap * g) : 0) + 'px'; });
-  };
-  const statW = () => stat ? stat.getBoundingClientRect().width : 0;
-  const over = () => body.scrollHeight > body.clientHeight + 1;
-  const extent = () => {
-    let top = Infinity, bot = -Infinity;
-    for (const k of body.children) {
-      const r = k.getBoundingClientRect();
-      if (r.height <= 0) continue;
-      const t = k === stat ? r.top + parseFloat(stat.dataset.inkTop || 0) : r.top;
-      const d = k === stat ? r.bottom - parseFloat(stat.dataset.inkBottom || 0) : r.bottom;
-      top = Math.min(top, t); bot = Math.max(bot, d);
-    }
-    return [top, bot];
-  };
-  const gaps = () => { const [t, d] = extent(); return [t - o.above, o.below - d]; };
-  set();
-  if (stat) while (statW() > o.statMaxW && s > 80) { s -= 4; set(); }
-  while (over()) {
-    if (stat && s > o.statMin) s -= 6;
-    else if (b > o.bulletMin) b -= 1;
-    else if (l > o.labelMin) l -= 1;
-    else break;
-    set();
-  }
-  for (let guard = 0; guard < 400 && Math.max(...gaps()) > o.maxGap; guard++) {
-    const prev = [s, l, b, g];
-    let grew = false;
-    if (stat && s < statMax) { s += 4; grew = true; }
-    if (l < o.labelMax) { l += 1; grew = true; }
-    if (b < o.bulletMax) { b += 1; grew = true; }
-    if (!grew && g < o.gapMax) { g = Math.round((g + 0.05) * 100) / 100; grew = true; }
-    if (!grew) break;
-    set();
-    if (stat && statW() > o.statMaxW) { s = prev[0]; statMax = s; set(); }
-    if (over()) { [s, l, b, g] = prev; set(); break; }
-  }
-  if (stat) {   // optical left edge: the italic numerals' ink starts right of the text column; pull it back
-    const k = ink();
-    stat.style.marginLeft = Math.max(-40, Math.min(20, k.left)) + 'px';
-  }
-  const [gt, gb] = gaps();
-  return {stat: stat ? s : 0, label: l, bullet: b, spacing: g, overflow: over(), gap_above: Math.round(gt),
-          gap_below: Math.round(gb)};
-}
-"""
-
-# detail slides: balance wrapped labels and bullets ourselves (the narrowest width that keeps the same number of
+# reel detail scenes: balance wrapped labels and bullets ourselves (the narrowest width that keeps the same number of
 # lines), because the browser's text-wrap can't balance around the no-break spans that keep "ex-showroom" whole
 BALANCE_JS = """
 (sel) => {
@@ -559,10 +440,9 @@ async def _load(page, doc: str, tmp: str, name: str) -> None:
     await page.wait_for_function("Array.from(document.images).every(i => i.complete)")
 
 
-async def _render_pages(post: dict, *, layers: bool, details: list[dict], end_card: bool, base_dir: str | None,
-                        report: list | None, verbose: bool, zone: SafeZone = STORY_ZONE) -> dict:
-    """Render the cover (always), and for a reel the cover's layers, the vertical detail slides and the end card,
-    all inside `zone` (STORY_ZONE for a story, REEL_SAFE_ZONE for every frame of a reel)."""
+async def _render_pages(post: dict, *, base_dir: str | None, report: list | None, verbose: bool,
+                        zone: SafeZone = STORY_ZONE) -> dict:
+    """Render the story card (the cover page) inside `zone`. (cardkit.reel lays out and films its own page.)"""
     from playwright.async_api import async_playwright
 
     _check_hype(post)
@@ -597,33 +477,6 @@ async def _render_pages(post: dict, *, layers: bool, details: list[dict], end_ca
                         photo_h=win.h, crop=list(win.box), credit_line=cover.get('photo_credit'))
             rows.append(info)
             out['cover'] = await _shot(page)
-            if layers:
-                await page.evaluate("document.body.classList.add('layer-overlay')")
-                out['overlay'] = await _shot(page, omit_background=True)
-                await page.evaluate("document.body.classList.remove('layer-overlay');"
-                                    "document.body.classList.add('layer-text')")
-                out['text'] = await _shot(page, omit_background=True)
-            out['details'] = []
-            for i, s in enumerate(details, 1):
-                await _load(page, vdetail_html(post, s, zone), tmp, f'detail{i}')
-                above, below = detail_band(zone, bool(credit_line_text(post, s)))
-                info = await page.evaluate(VDETAIL_JS, dict(VDETAIL_FIT, statMaxW=zone.col_right - VSIDE,
-                                                            above=above, below=below))
-                await page.evaluate(BALANCE_JS, '.slabel, li')
-                info.update(await page.evaluate(VCHECK_JS, opts))
-                info['left_edges'].pop('stat', None)              # the italic stat is aligned optically
-                shot = await _shot(page)
-                info.update(page=f'detail {i}', type='detail', zone=zone.name, safe=safe,
-                            credit_line=credit_line_text(post, s),
-                            max_band=max_empty_band(shot, zone.top, zone.bottom))
-                rows.append(info)
-                out['details'].append(shot)
-            if end_card:
-                await _load(page, vend_html(post, zone), tmp, 'end')
-                info = await page.evaluate(VCHECK_JS, opts)
-                info.update(page='end card', type='end', zone=zone.name, safe=safe)
-                rows.append(info)
-                out['end'] = await _shot(page)
             await browser.close()
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
@@ -649,8 +502,7 @@ def render_story(post: dict, out_jpg: str, report: list | None = None, verbose: 
                  base_dir: str | None = None) -> str:
     """The Story card for `post` (a hype post dict) as a 1080x1920 JPEG. Pass report=[] for the checks
     (vertical_problems(report) lists anything wrong)."""
-    pages = asyncio.run(_render_pages(post, layers=False, details=[], end_card=False, base_dir=base_dir,
-                                      report=report, verbose=verbose))
+    pages = asyncio.run(_render_pages(post, base_dir=base_dir, report=report, verbose=verbose))
     return _save_jpg(pages['cover'], out_jpg)
 
 
