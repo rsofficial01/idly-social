@@ -1,0 +1,53 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-2227-kiger-gncap-africa",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Global NCAP",
+    "Business Day",
+    "Renault India",
+    "CarDekho",
+    "CarWale"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Made-in-India Kiger: 2 to 4 Stars in Africa Crash Test",
+      "photo": "_work/2026-11-10-hourly-2227/idlyautomotive/frame/cover_source.png",
+      "photo_credit": "Image: Renault India",
+      "focal": [0.51, 0.563],
+      "zoom": 1.35
+    },
+    {
+      "type": "detail",
+      "stat": "3 STARS",
+      "stat_label": "Kiger's Child Protection, Up From 1 Star",
+      "bullets": [
+        "Six airbags, ESC, ISOFIX now standard on test car",
+        "The 2-star car had two airbags, no ESC"
+      ],
+      "credit_line": "Sources: Global NCAP, Business Day"
+    },
+    {
+      "type": "detail",
+      "stat": "0",
+      "stat_label": "Kiger Side-Impact Points for the 3-Year-Old Dummy",
+      "bullets": [
+        "Its head hit the interior in the frontal test",
+        "One door opened in the side-impact test",
+        "Footwell and bodyshell rated unstable"
+      ],
+      "credit_line": "Sources: Global NCAP, Business Day"
+    },
+    {
+      "type": "detail",
+      "stat": "₹5.81 LAKH",
+      "stat_label": "Renault Kiger's Ex-Showroom Starting Price in India",
+      "bullets": [
+        "Renault India lists six airbags and ESC as standard",
+        "The India-spec Kiger was not in this test"
+      ],
+      "credit_line": "Sources: Renault India, CarDekho, CarWale"
+    }
+  ]
+}

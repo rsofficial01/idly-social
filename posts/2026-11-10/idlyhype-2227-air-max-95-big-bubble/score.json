@@ -1,0 +1,33 @@
+{
+ "hook": 2,
+ "read": 1,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13); tie uses the reviewer's checks. Per-check minimum would be 12/14. Blind reviewer, Gate 4, run 2227. Gate 4 blind review, scored on cover A (test-ha/01.jpg, headline \"Air Max 95 'Batman' in India: ₹16,995\") plus final 02.jpg and 03.jpg. All opened at full size: no overlap/touching text (sole ~940, headline glyphs ~1065), one left edge (x 72), white headline/labels, nothing cut off, full-bleed Nike product image (downscaled, sharp, no letterbox/blur), credit clear, Sources line on 02-03. Hook 2: Rs price on the cover for a pair Indians can buy now. Read 1: slide-2 bullet 'Nike.com and select stores in the US' repeats the label's 'US' and doesn't matter to Indian readers (filler). Send 2: the sneakerhead friend waiting for this pair ('it's at Superkicks'). Keep 2: price, store, UK sizes, style code, US date. Reply 2: own-life spend question. Original 2. Alone 2: nickname explained on slide 3, every slide names the shoe.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 2: Rs 16,995 and 'already in India' (US release 15 Nov) on the cover, with the model named. send 1: narrow audience (a Rs 17k sneaker; the friend waiting for this pair). keep: price, store, UK sizes, style code, US date, what's in the pack. reply: own-life question on the most paid for one pair. alone: cover names model, nickname in quotes, India and price; slide 3 says it isn't a DC collab."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 1,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Gate 4 blind review, scored on cover A (test-ha/01.jpg, headline \"Air Max 95 'Batman' in India: ₹16,995\") plus final 02.jpg and 03.jpg. All opened at full size: no overlap/touching text (sole ~940, headline glyphs ~1065), one left edge (x 72), white headline/labels, nothing cut off, full-bleed Nike product image (downscaled, sharp, no letterbox/blur), credit clear, Sources line on 02-03. Hook 2: Rs price on the cover for a pair Indians can buy now. Read 1: slide-2 bullet 'Nike.com and select stores in the US' repeats the label's 'US' and doesn't matter to Indian readers (filler). Send 2: the sneakerhead friend waiting for this pair ('it's at Superkicks'). Keep 2: price, store, UK sizes, style code, US date. Reply 2: own-life spend question. Original 2. Alone 2: nickname explained on slide 3, every slide names the shoe."
+ }
+}

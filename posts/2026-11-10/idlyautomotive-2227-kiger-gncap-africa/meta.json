@@ -1,0 +1,37 @@
+{
+ "account": "idlyautomotive",
+ "title": "Global NCAP (10 Nov 2026): the Indian-built Renault Kiger, updated with six airbags, ESC and ISOFIX as standard, goes from 2 to 4 stars (adult) and 1 to 3 stars (child) in the Safer Cars for Africa test; a door opened in the side impact; India-spec Kiger (from ₹5.81 lakh ex-showroom) not tested",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+  "https://www.businessday.co.za/motoring/2026-11-10-renault-kiger-earns-four-star-safety-rating-in-africa/",
+  "https://www.renault.co.za/news/new-renault-kiger-bold-evolution",
+  "https://www.renault.co.in/cars/renault-kiger.html",
+  "https://www.cardekho.com/renault/kiger",
+  "https://www.carwale.com/renault-cars/kiger/",
+  "https://www.zigwheels.com/newcars/Renault/kiger",
+  "Team-BHP, HT Auto, CarAndBike, ACKO Drive, Cartoq (10 Nov 2026 reports, peg only; via Google News)"
+ ],
+ "photo_source": {
+  "page": "https://www.renault.co.in/cars/renault-kiger.html",
+  "file": "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kiger/ph2/overview/renault-kiger-ph2-overview-001-mobile.jpg",
+  "licence": "Official Renault India product image published on the maker's own Kiger model page (manufacturer media), credited",
+  "author": "Renault India",
+  "credit": "Image: Renault India",
+  "subject": "Current (facelifted, 'ph2') Renault Kiger in yellow with a black roof, front three-quarter, parked on a seafront promenade at dusk with a palm tree; Renault's dummy press plate RE-021-LT; no people, no watermark, no overlay text. Renault India's image of the Kiger, not the Global NCAP test car.",
+  "viewed": true,
+  "processing": "2560x4551 source (sha1 f1b9e5f88a750833804c54e87ade4f7f36360cee); YuNet 0 faces (checked before viewing); pipeline.framing ok (0.42x, no enlargement), cover_source.png; cardkit hype cover focal (0.51, 0.563), zoom 1.35: crop 1897x2370 from (357,1377), 0.569x downscale; car at x 144-935, y 290-691 of 1080x1350; dummy press plate left unaltered; no other edits"
+ },
+ "tags": [
+  "renaultindia"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (reviewer), ceiling ~13. Fixes applied verbatim: cover 'Made-in-India Kiger: 2 to 4 Stars in Africa Crash Test'; slide 2 '3 STARS' / 'Kiger's Child Protection, Up From 1 Star'; slide 3 '0' / 'Kiger Side-Impact Points for the 3-Year-Old Dummy'; slide 4 '₹5.81 LAKH' with ex-showroom (Renault India + CarWale + CarDekho + ZigWheels), six airbags and ESC standard (Renault India + CarDekho); no first-test date; caption attributes to Global NCAP; tested car = same facelift generation as the photo (base trim, halogen lamps, black skid). C2 Ntorq Spectral Green DROP ~9; C3 Hero Xtreme 125R Stealth DROP ~10.",
+  "g2": "PASS (blind reviewer): crash facts match Global NCAP + Business Day; India price ₹5.81 lakh ex-showroom and six airbags/ESC standard two-sourced (Renault India + CarDekho/CarWale); all G1 conditions met; tested car accepted as same facelift generation (lower trim).",
+  "g3": "PASS (blind reviewer): Renault India's own Kiger image (renault.co.in, Renault CDN), 2560x4551, 0.569x downscale; no people/watermark/overlay, dummy press plate RE-021-LT only; focal (0.51,0.563) zoom 1.35, car x 144-935 y 290-691, logo on clear sky, headline block on dark tarmac; tag @renaultindia confirmed on renault.co.in.",
+  "g4": "PASS (blind reviewer) 13/14: all 4 slides clean; send 1 (the India-spec Kiger wasn't tested, stated honestly). Tag @renaultindia confirmed via renault.co.in's Kiger page (reviewer re-checked at G23). Self 13/14. Final 13/14."
+ }
+}

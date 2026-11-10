@@ -1,0 +1,44 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-2227-air-max-95-big-bubble",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Superkicks",
+    "Nice Kicks",
+    "Sneaker Bar Detroit",
+    "Hypebeast"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Air Max 95 'Batman' in India: ₹16,995",
+      "photo": "_work/2026-11-10-hourly-2227/idlyhype/frame/cover_source.png",
+      "photo_credit": "Image: Nike",
+      "focal": [
+        0.5,
+        1.0
+      ],
+      "zoom": 1.1
+    },
+    {
+      "type": "detail",
+      "stat": "15 NOV",
+      "stat_label": "Air Max 95 'Batman' US Release Date",
+      "bullets": [
+        "Superkicks lists UK sizes 6 to 12",
+        "Search style code IQ0229-001",
+        "Nike.com and select stores in the US"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Air Max Pairs in the 'Batman' Colour Pack",
+      "bullets": [
+        "Air Max 95, Air Max Plus, Air Max 90",
+        "Sneaker sites' nickname; not a DC collab",
+        "Big Bubble: bigger Max Air in heel and forefoot"
+      ]
+    }
+  ]
+}

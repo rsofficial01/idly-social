@@ -1,0 +1,35 @@
+{
+ "account": "idlyhype",
+ "title": "Nike Air Max 95 Big Bubble Premium (Black/Dark Smoke Grey/Smoke Grey/Chrome Yellow, IQ0229-001), nicknamed 'Batman' by sneaker sites (not a DC collab), listed at Superkicks India at ₹16,995 (UK 6-12); US release 15 Nov on Nike.com and select stores; part of a 3-shoe colour pack with the Air Max Plus and Air Max 90",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.superkicks.in/products/nike-air-max-95-big-bubble-premium-black-chrome-yellow-dk-smoke-grey",
+  "https://www.nicekicks.com/shoes/nike-air-max-95-batman-iq0229-001/",
+  "https://sneakerbardetroit.com/nike-air-max-batman-pack-2026/",
+  "https://hypebeast.com/drops/item/5221-nike-air-max-95-premium-big-bubble-batman",
+  "https://www.nike.com/gb/t/air-max-95-big-bubble-premium-mens-shoes-J12n6jp1/IQ0229-001",
+  "https://www.vegnonveg.com/search?q=air+max+95+big+bubble",
+  "https://athlonsports.com/kicks/nikes-batman-air-max-plus-wears-its-cage-like-armor-release-date-where-to-buy",
+  "https://www.mensjournal.com/style/nike-air-max-90-batman-2026-im9616-002-release-date-where-to-buy"
+ ],
+ "photo_source": {
+  "page": "https://www.nike.com/gb/t/air-max-95-big-bubble-premium-mens-shoes-J12n6jp1/IQ0229-001",
+  "file": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/492495ee-fc38-4493-aec6-d60a0029d8f9/NIKE+AIR+MAX+95+BB+PRM.png",
+  "licence": "official brand product image, editorial use (Nike's own product image for IQ0229-001; image id confirmed on Nike's GB product page by the G1 reviewer); credited",
+  "author": "Nike",
+  "credit": "Image: Nike",
+  "subject": "Nike Air Max 95 Big Bubble Premium IQ0229-001 (black/grey suede-look gradient, Chrome Yellow Swooshes and Air units), lateral side view on a plain light-grey studio background; product only, no people, no watermark, no text beyond the shoe's own tongue tag",
+  "viewed": true,
+  "processing": "original 1728x2160 JPEG (served at the .png URL; sha1 581576859202e7150fd6baeea693020fc7db24fc), saved as _work/2026-11-10-hourly-2227/idlyhype/photos/nike-am95-bb-prm-iq0229-001-portrait.jpg; pipeline.framing: ok, 0 faces, cover_source.png (same 1728x2160); cover crop focal 0.5/1.0, zoom 1.1 (1571x1964 crop from y 196, downscaled 0.69x to 1080x1350); no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer), ceiling ~13. Fixes applied: cover 'Nike Air Max 95 'Batman' Is Already in India: ₹16,995'; price only 'at Superkicks' (never Nike India/MRP); 'Batman' only quoted after the model name, one bullet + one caption sentence say it's a sneaker-site nickname, not DC; no India-first claim; slide 2/3 labels and bullets as given; question own-life; Sources line; 'Image: Nike'; no tags; format news. Zoom 1.25-1.35 not applied: the reviewer's shoe position (y 560-1130 of 2160) was mis-measured; actual y 835-1566, so that zoom cuts the toe and puts the shoe under the headline (test render in g23). Used zoom 1.1, focal 0.5/1.0. C2 Tekken x Nike AM1 DROP ~9; C3 LEGO Interstellar DROP ~9.",
+  "g2": "FIX applied (headline 2-line; 'visible' dropped): cover now \"Air Max 95 'Batman' Already in India: ₹16,995\"; caption 'larger Max Air units' (Nike's wording); alt.txt headline updated",
+  "g3": "PASS (reviewer withdrew the G1 zoom fix; focal 0.5/1.0, zoom 1.1 kept; Nike's own product image IQ0229-001, 0.69x downscale)",
+  "g4": "PASS (blind reviewer) 13/14 on cover A \"Air Max 95 'Batman' in India: ₹16,995\" (2 lines, ~120 px clear above the sole; G23's 'Already in India' wrapped to 3 lines, so the reviewer picked A of three 2-line test renders; B 'Hits India' rejected since Superkicks listed it 4 Nov). read 1: slide-2 US-stores bullet is filler for Indian readers. 01.jpg verified byte-identical to the reviewed render (md5 83470aed…); 02/03 unchanged. Self 13/14. Final 13/14."
+ }
+}
