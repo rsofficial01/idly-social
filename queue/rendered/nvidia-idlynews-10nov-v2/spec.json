@@ -1,5 +1,5 @@
 {
-  "slug": "nvidia-idlynews-10nov",
+  "slug": "nvidia-idlynews-10nov-v2",
   "account": "idlynews",
   "story_id": null,
   "idly_article": false,
@@ -14,15 +14,15 @@
       "hook": 2,
       "read": 2,
       "send": 2,
-      "keep": 1,
-      "reply": 2,
+      "keep": 2,
+      "reply": 1,
       "original": 2,
       "alone": 2,
       "total": 13,
-      "notes": "Keep 1: only two dates (Nov 17 earnings, Nov 18 requested briefing) on slide 2, nothing else to save. Send: market-moving for anyone holding Nvidia or a Nasdaq-100 fund. No idly.news article exists; caption lists sources instead."
+      "notes": "Rebuilt 10 Nov after blind review (9/14): now 6 slides with the India fund card and dates card; reply 1: question is general. Self 13."
     }
   },
-  "created_at": "2026-11-10T04:04:27+00:00",
+  "created_at": "2026-11-10T04:17:16+00:00",
   "lane": {
     "source": "prebuilt",
     "folder": "posts/2026-11-10/nvidia_idlynews"
