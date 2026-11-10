@@ -1,0 +1,33 @@
+{
+ "account": "idlynews",
+ "title": "Delhi SIR: the draft voter roll published 31 Aug 2026 did not include about 47.5 lakh electors marked absent, shifted, dead or duplicate by the poll office (official data reported by PTI and The Indian Express); ECI deadline for claims and objections 25 Nov, disposal by 15 Dec, final roll 22 Dec; fresh enumeration forms for everyone left off, filled via the ECI website or ECINET app with the EPIC number, with Annexure B (same address) or Annexure C (moved within Delhi); Form 6 filers need not refile; forms can also go to the BLO",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://indianexpress.com/article/india/delhi-eci-sir-draft-voter-list-excluded-electors-inclusion-process-10954162/",
+  "https://www.hindustantimes.com/india-news/delhi-sir-form-6-applications-cross-3l-mark-after-draft-roll-excludes-47-5-lakh-voters-101794325458385.html (PTI copy)",
+  "https://www.millenniumpost.in/delhi/delhi-sir-nearly-3l-form-6-applications-filed-after-475l-voters-excluded-from-draft-roll-682578 (PTI)",
+  "https://www.dailyexcelsior.com/delhi-sir-poll-body-to-generate-fresh-forms-for-47-56-lakh-excluded-electors (PTI)",
+  "https://theprint.in/india/delhi-sir-timelines-revised-claim-filing-till-nov-25-final-roll-on-dec-22/3085594/ (PTI)",
+  "https://dailypioneer.com/india/ec-extends-sir-deadlines-in-six-states-delhi-final-voter-roll-now-december-22",
+  "https://ceodelhi.gov.in/electionmuseum/contact.html (CEO Delhi office address, identifies the cover)"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Old_St._Stephen%27s_College,_Delhi.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Old_St._Stephen%27s_College%2C_Delhi.jpg/3840px-Old_St._Stephen%27s_College%2C_Delhi.jpg (3840x2160 Commons rendition of the 4096x2304 original; saved as _work/2026-11-11-hourly-0227/idlynews/photos/old_st_stephens_3840.jpg, sha1 3cb491a4e26672e49a21774ffffae5db869b1bcf)",
+  "licence": "CC BY-SA 4.0",
+  "author": "कृष्ण कान्त शर्मा",
+  "credit": "Photo: कृष्ण कान्त शर्मा / Wikimedia Commons, CC BY-SA 4.0 (cropped); card credit short form 'Photo: कृष्ण कान्त शर्मा / CC BY-SA 4.0' (reviewer's ruling, so the vertical credit ends on the sign's plain border)",
+  "subject": "Signboard of the Office of the Chief Electoral Officer, Delhi (the office running Delhi's SIR), Old St. Stephen's College Building, Kashmere Gate; own work, EXIF 6 Oct 2024",
+  "viewed": true,
+  "processing": "Cropped box (1540, 0, 3270, 2160) from the 3840x2160 file, sign only; the crop leaves out the passers-by, the gate and the burned-in phone-camera caption in the left third. Saved as _work/2026-11-11-hourly-0227/idlynews/photos/ceo_delhi_sign_crop_1730.jpg (1730x2160, sha1 187adc2f4abc91ad7aae034772eb1210c150a639). pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, scale 0.62 (downscale, no upscale). Full-bleed cardkit hype cover: no fill, no blur, no letterbox, no recolour; scrim 0.8; headline top y 950, below the sign's address lines."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (Delhi draft voter roll); B (Yamuna cruise) and C (Knesset/Eisenkot) dropped. Fixes applied: sign-only crop x 1540-3270 with framing run on the cropped file; short card credit and full caption credit; ECI terms with attribution; no 'a third', 1.45 crore, 'EPIC kept' or BLO 'Book a call'; dates 25 Nov / 15 Dec / 22 Dec; a keep slide; every slide names Delhi's voter roll; one own-life question; no party hashtags. Pannun story flagged for Rahul, not pitched.",
+  "g23": "Picture PASS, neutrality PASS. Words FIX, applied exactly: dropped 'about 3 lakh Form 6' (single origin, PTI) from slide 3 and the caption; slide 3 bullets 'Poll office: fresh forms for everyone left off' and 'You can also hand the form to your BLO'; slide 2 bullets 'Use ECINET or ECI's website with voter ID number' and 'Same address: Annexure B. Moved in Delhi: Annexure C'; caption attribution 'official data reported by PTI and The Indian Express' and 'why the form wasn't submitted earlier'; source lines 'Sources: PTI, Indian Express, ThePrint' (slide 2 too, for consistency); caption Sources line 'PTI, The Indian Express, ThePrint'; alt.txt updated. post_problems ([], []); card_problems [] on both detail slides.",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 2, keep 2, reply 2, original 2, alone 1 (BLO not spelled out; slide 2 says how before the fresh form is introduced). Self 13/14; final 13/14."
+ }
+}

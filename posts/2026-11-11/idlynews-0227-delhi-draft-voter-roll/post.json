@@ -1,0 +1,45 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0227-delhi-draft-voter-roll",
+  "date": "11 Nov 2026",
+  "sources": [
+    "PTI",
+    "Indian Express",
+    "ThePrint"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "47.5 Lakh Names Left Off Delhi's Draft Voter Roll",
+      "photo": "_work/2026-11-11-hourly-0227/idlynews/framing/cover_source.png",
+      "photo_credit": "Photo: कृष्ण कान्त शर्मा / CC BY-SA 4.0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "25 NOV",
+      "stat_label": "Last Day for Claims on Delhi's Voter Roll",
+      "bullets": [
+        "Use ECINET or ECI's website with voter ID number",
+        "Same address: Annexure B. Moved in Delhi: Annexure C",
+        "Already filed Form 6: no need to refile"
+      ],
+      "credit_line": "Sources: PTI, Indian Express, ThePrint"
+    },
+    {
+      "type": "detail",
+      "stat": "22 DEC",
+      "stat_label": "Delhi's Final Voter Roll Comes Out",
+      "bullets": [
+        "Claims and objections to be decided by 15 Dec",
+        "Poll office: fresh forms for everyone left off",
+        "You can also hand the form to your BLO"
+      ],
+      "credit_line": "Sources: PTI, Indian Express, ThePrint"
+    }
+  ]
+}

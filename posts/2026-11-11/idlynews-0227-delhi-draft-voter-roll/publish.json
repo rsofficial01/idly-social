@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/01.jpg",
+  "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/02.jpg",
+  "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/alt.txt",
+ "score_file": "posts/2026-11-11/idlynews-0227-delhi-draft-voter-roll/score.json",
+ "title": "Delhi SIR: the draft voter roll published 31 Aug 2026 did not include about 47.5 lakh electors marked absent, shifted, dead or duplicate by the poll office (official data reported by PTI and The Indian Express); ECI deadline for claims and objections 25 Nov, disposal by 15 Dec, final roll 22 Dec; fresh enumeration forms for everyone left off, filled via the ECI website or ECINET app with the EPIC number, with Annexure B (same address) or Annexure C (moved within Delhi); Form 6 filers need not refile; forms can also go to the BLO",
+ "tags": []
+}
