@@ -1,0 +1,70 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Maxton Hall Season 3: final-season trailer out; on Prime Video from 9 Dec, two episodes a week, finale 23 Dec",
+  "headline": "Maxton Hall's Final Season Trailer Is Out; Prime Video From 9 Dec",
+  "caption": "Prime Video has released the official trailer for the third and final season of Maxton Hall, its German romance drama. Season 3 streams from Wednesday, 9 December: episodes 1 and 2 that day, two more on 16 December, and the last two on 23 December, when the series ends.\n\nThe season adapts Save Us, the third book in Mona Kasten's trilogy. Ruby has been suspended from Maxton Hall, her Oxford plans are at risk, and she and James try to clear her name. Harriet Herbig-Matten and Damian Hardung return as Ruby and James.\n\nSeasons 1 and 2 are streaming on Prime Video now.\n\nWill you watch two episodes a week as they drop, or wait until 23 December and binge all six?\n\nSources: Amazon, Screen Realm, Gulf News\n\n#MaxtonHall #MaxtonHallSeason3 #PrimeVideo #PrimeVideoIndia #idlynerd",
+  "alt_text": "Slide 1: a still from Prime Video's official Maxton Hall Season 3 video, under the headline \"Maxton Hall's Final Season Trailer Is Out; Prime Video From 9 Dec\". Slide 2: \"2 A WEEK\", How Maxton Hall's Final Season Drops: 9 Dec, episodes 1 and 2; 16 Dec, episodes 3 and 4; 23 Dec, the last two, ending the series. Slide 3: \"BOOK 3\", Maxton Hall Season 3 Adapts Kasten's Save Us: Ruby is suspended and her Oxford place is at risk; she and James set out to clear her name; Harriet Herbig-Matten and Damian Hardung return as the leads.",
+  "sources": [
+    "Amazon",
+    "Screen Realm",
+    "Gulf News"
+  ],
+  "detail_slides": [
+    {
+      "stat": "2 A WEEK",
+      "stat_label": "How Maxton Hall's Final Season Drops",
+      "bullets": [
+        "Wed 9 Dec: episodes 1 and 2",
+        "Wed 16 Dec: episodes 3 and 4",
+        "Wed 23 Dec: the last two, ending the series"
+      ]
+    },
+    {
+      "stat": "BOOK 3",
+      "stat_label": "Maxton Hall Season 3 Adapts Kasten's Save Us",
+      "bullets": [
+        "Ruby is suspended; her Oxford place is at risk",
+        "She and James set out to clear her name",
+        "Harriet Herbig-Matten and Damian Hardung return as leads"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=uTFKPxMNP8Q",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=DT_0VPfvDko"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=VoZ1bc0YUo0"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=hWt1F2NYUG4"
+      }
+    ]
+  },
+  "tags": [
+    "primevideoin"
+  ],
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: the news is a day-old trailer for a date Amazon announced in August; 'final season' and 9 Dec carry the cover, but there is no surprising number. send 2: the friend you watched Seasons 1-2 with, since this is the last season. keep 2: the full 9/16/23 Dec drop schedule. reply 2: weekly-versus-binge is a viewing habit people answer from their own lives. alone 2: the cover names the show, final season, Prime Video and the date; each slide label names Maxton Hall."
+    }
+  },
+  "notes": "Format: news. idlynerd desk, hourly run 1927. Gate 1 BUILD (blind reviewer, review/idlynerd-g1.md). No idly.news article: Sources line, no idly link. Cover chain, every ref oEmbed-checked 10 Nov 19:45 IST: Prime Video India official S3 trailer uTFKPxMNP8Q (author_url @PrimeVideoIN, uploaded 9 Nov), then Prime Video global official S3 trailer DT_0VPfvDko (@PrimeVideo, 9 Nov), then Prime Video global official S3 teaser VoZ1bc0YUo0 (@PrimeVideo, early Sep), then Prime Video India multi-audio S3 teaser hWt1F2NYUG4 (@PrimeVideoIN, early Sep). Thumbnails 1280x720, 1.875x for 4:5. Gate 4 HOLD triggers: soft at 1.875x; burned-in title, 'TRAILER', logo or date lettering; headline over a face; black or title-only frame. Tag @primevideoin: linked from the @PrimeVideoIN YouTube channel's links, and Amazon India's own newsroom embeds its posts as 'prime video IN (@primevideoin)' (aboutamazon.in, Four More Shots Please S4 page).",
+  "created_at": "2026-11-10T19:51:39+05:30"
+}
