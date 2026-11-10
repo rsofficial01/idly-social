@@ -1,6 +1,7 @@
 # Official image lane, step 1: render every spec in queue/pending/ (see RUNBOOK.md, "Official image lane").
 # Resolves the official image (licensed wire API, official trailer, or official newsroom page), frames it around
 # any faces, renders the cards with cardkit, and commits queue/rendered/<slug>/ (or queue/rejected/<slug>/).
+# Also renders reel requests in queue/reels/pending/ into silent 9:16 reels (cardkit.reel, ffmpeg) for review.
 name: lane-render
 
 on:
@@ -9,7 +10,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["queue/pending/**"]
+    paths: ["queue/pending/**", "queue/reels/pending/**"]
 
 permissions:
   contents: write
@@ -28,11 +29,17 @@ jobs:
       - name: Anything to render?
         id: work
         run: |
-          if ls queue/pending/*.json >/dev/null 2>&1 || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+          if ls queue/pending/*.json >/dev/null 2>&1 || ls queue/reels/pending/*.json >/dev/null 2>&1 \
+             || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "queue/pending is empty: nothing to render." >> "$GITHUB_STEP_SUMMARY"
+            echo "queue/pending and queue/reels/pending are empty: nothing to render." >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if ls queue/reels/pending/*.json >/dev/null 2>&1 || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "reels=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "reels=false" >> "$GITHUB_OUTPUT"
           fi
 
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
@@ -47,6 +54,14 @@ jobs:
           python -m pip install -r requirements.txt
           # cardkit drives the runner's Google Chrome; install Playwright's Chromium only if it is missing
           if [ ! -x /usr/bin/google-chrome ]; then python -m playwright install --with-deps chromium; fi
+
+      - name: ffmpeg (reels only; installed if the runner lacks it)
+        if: steps.work.outputs.run == 'true' && steps.work.outputs.reels == 'true'
+        run: |
+          if ! command -v ffmpeg >/dev/null || ! command -v ffprobe >/dev/null; then
+            sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends ffmpeg
+          fi
+          ffmpeg -hide_banner -version | head -1
 
       - name: Face model cache (YuNet, opencv_zoo)
         if: steps.work.outputs.run == 'true'
@@ -67,3 +82,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python pipeline/lane.py render-pending --push
+
+      - name: Render reel requests
+        if: ${{ !cancelled() && steps.work.outputs.run == 'true' && steps.work.outputs.reels == 'true' }}
+        env:
+          AP_MEDIA_API_KEY: ${{ secrets.AP_MEDIA_API_KEY }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase -q || true
+          python pipeline/lane.py render-reels --push

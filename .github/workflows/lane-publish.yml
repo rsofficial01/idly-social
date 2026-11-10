@@ -1,6 +1,7 @@
 # Official image lane, step 3: publish every item in queue/approved/ that still passes the gate (the lower of the
 # self and blind reviewer scores >= 12/14) and is fresh (under 8 hours old unless evergreen). One post per
 # account per run. Tokens come only from GitHub secrets, are never printed, and a missing one skips that account.
+# Feed posts go first (each followed by its story.jpg), then approved reels from queue/reels/approved/ (same gate).
 name: lane-publish
 
 on:
@@ -9,7 +10,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["queue/approved/**"]
+    paths: ["queue/approved/**", "queue/reels/approved/**"]
 
 permissions:
   contents: write
@@ -28,11 +29,12 @@ jobs:
       - name: Anything approved?
         id: work
         run: |
-          if ls queue/approved/*.json >/dev/null 2>&1 || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+          if ls queue/approved/*.json >/dev/null 2>&1 || ls queue/reels/approved/*.json >/dev/null 2>&1 \
+             || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "queue/approved is empty: nothing to publish." >> "$GITHUB_STEP_SUMMARY"
+            echo "queue/approved and queue/reels/approved are empty: nothing to publish." >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
@@ -66,6 +68,6 @@ jobs:
           for i in $(seq 1 26); do
             git pull --rebase -q || true
             python pipeline/lane.py publish-approved --push
-            ls queue/approved/*.json >/dev/null 2>&1 || break
+            ls queue/approved/*.json >/dev/null 2>&1 || ls queue/reels/approved/*.json >/dev/null 2>&1 || break
             sleep 300
           done
