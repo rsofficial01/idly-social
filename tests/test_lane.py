@@ -6,6 +6,7 @@ import contextlib
 import io
 import json
 import os
+import shutil
 import sys
 import tempfile
 import unittest
@@ -17,8 +18,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from pipeline import framing, gitsync, lane, official_image, publish  # noqa: E402
 from pipeline.common import now_utc  # noqa: E402
-from tests.lane_helpers import (GOOD_SCORE, REVIEWER_SCORE, FakeFetcher, chrome_available, make_spec,  # noqa: E402
-                                og_routes, stub_renderer, stub_story_renderer)
+from tests.lane_helpers import (CAR, CAR_CREDIT, CAPTION, GOOD_SCORE, REEL_CALLS, REVIEWER_SCORE,  # noqa: E402
+                                FakeFetcher, chrome_available, make_spec, og_routes, stub_reel_renderer,
+                                stub_renderer, stub_story_renderer)
 
 
 class LaneCase(unittest.TestCase):
@@ -37,6 +39,7 @@ class LaneCase(unittest.TestCase):
         if not self.real_renderer:
             self.patches.append(mock.patch.object(lane, "RENDERER", stub_renderer))
             self.patches.append(mock.patch.object(lane, "STORY_RENDERER", stub_story_renderer))
+            self.patches.append(mock.patch.object(lane, "REEL_RENDERER", stub_reel_renderer))
         if not self.real_detector:
             self.patches.append(mock.patch.object(framing, "DETECTOR", lambda im: []))
         for p in self.patches:
@@ -474,6 +477,221 @@ class LaneStories(PublishApproved):
         self.assertEqual(result["status"], "posted")
 
 
+class LaneReels(PublishApproved):
+    """Reels: request-reel -> render-reels (stub renderer) -> blind review -> publish-approved (mocked publisher)."""
+
+    def setUp(self):
+        super().setUp()
+        REEL_CALLS.clear()
+        root = Path(self.tmp.name)
+        self.repo = root / "repo"                       # a stand-in repo for posts/ sources
+        p = mock.patch.object(lane, "REPO", self.repo)
+        p.start()
+        self.patches.append(p)
+        (root / "reel-caption.txt").write_text(CAPTION.replace("#idlyautomotive", "#Reels #idlyautomotive"))
+        (root / "reel-score.json").write_text(json.dumps(GOOD_SCORE))
+        self.cap, self.score = str(root / "reel-caption.txt"), str(root / "reel-score.json")
+
+    def reel_reasons(self, slug):
+        return json.loads((self.q / "reels" / "rejected" / slug / "reasons.json").read_text())["reasons"]
+
+    def post_lane_item(self):
+        """wagonr-oct goes all the way to queue/posted/ (the feed post's media id is 1790)."""
+        self.approve()
+        client = mock.Mock()
+        client.find_recent.return_value = None
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_post", return_value={"status": "posted", "media_id": "1790",
+                                                                         "permalink": "https://www.instagram.com/p/F/"}), \
+                mock.patch.object(publish, "publish_story", return_value={"status": "posted", "media_id": "1791"}), \
+                mock.patch.object(publish, "connect", return_value=(client, "1784")), \
+                mock.patch("pipeline.run_day.url_ready", return_value=(True, "ok")):
+            self.run_cli("publish-approved")
+        self.assertTrue((self.q / "posted" / "wagonr-oct").exists())
+
+    def request(self, source="lane:wagonr-oct", *extra):
+        return self.run_cli("request-reel", "--source", source, "--caption-file", self.cap, "--score-file",
+                            self.score, *extra)
+
+    def rendered_reel(self, source="lane:wagonr-oct", slug="reel-wagonr-oct"):
+        self.post_lane_item() if source.startswith("lane:") else None
+        code, out, err = self.request(source)
+        self.assertEqual(code, 0, out + err)
+        code, _, err = self.run_cli("render-reels")
+        self.assertEqual(code, 0, err)
+        return self.q / "reels" / "rendered" / slug
+
+    def test_request_reel_writes_a_valid_request(self):
+        self.post_lane_item()
+        code, out, _ = self.request()
+        self.assertEqual(code, 0, out)
+        req = json.loads((self.q / "reels" / "pending" / "reel-wagonr-oct.json").read_text())
+        self.assertEqual((req["source"], req["account"], req["story_id"], req["idly_article"]),
+                         ("lane:wagonr-oct", "idlyautomotive", 990001, True))
+        self.assertEqual(req["scores"]["self"]["total"], 12)
+        self.assertEqual(lane.validate_reel_request(req, "reel-wagonr-oct"), [])
+        self.assertIn("git push", out)
+
+    def test_request_problems(self):
+        code, _, err = self.request("lane:not-posted-yet")
+        self.assertEqual(code, 2)
+        self.assertIn("no posted lane item", err)
+        self.post_lane_item()
+        Path(self.cap).write_text(CAPTION.replace("Which car", "Tag a friend! Which car"))
+        code, out, _ = self.request()
+        self.assertEqual(code, 1)
+        self.assertIn("engagement bait", out)
+        bad = {"source": "lane:wagonr-oct", "account": "idlytech", "idly_article": True, "caption": CAPTION,
+               "scores": {"self": GOOD_SCORE}, "created_at": now_utc().isoformat(), "details": [3]}
+        errs = " | ".join(lane.validate_reel_request(bad, "reel-x1"))
+        self.assertIn("not @idlytech's", errs)
+        self.assertIn("has 1 detail slide", errs)
+        self.assertTrue(lane.validate_reel_request(dict(bad, account="idlyautomotive", details=[1]), "no-prefix"))
+
+    def test_render_reels_from_a_lane_post(self):
+        rdir = self.rendered_reel()
+        self.assertEqual(sorted(p.name for p in rdir.iterdir()),
+                         ["preview_00.5s.jpg", "preview_04.0s.jpg", "preview_07.0s.jpg", "preview_last.jpg",
+                          "reel.mp4", "reel_cover.jpg", "render_report.json", "request.json"])
+        req = json.loads((rdir / "request.json").read_text())
+        self.assertTrue(req["caption_final"].endswith("\n\nImage: Maruti Suzuki"))
+        self.assertEqual((req["reel_of"], req["image_credit"]), ("1790", "Image: Maruti Suzuki"))
+        rep = json.loads((rdir / "render_report.json").read_text())
+        self.assertEqual(rep["framing"]["frame"], "vertical")
+        self.assertTrue(rep["image_url"].endswith("/wagonr-front.jpg"))      # the very image the feed post used
+        post = REEL_CALLS[-1]["post"]
+        self.assertEqual(post["slides"][0]["vertical"]["photo_h"], rep["framing"]["out_h"])
+        self.assertEqual(post["slides"][0]["photo_credit"], "Image: Maruti Suzuki")
+        self.assertIn("rendered · reel @idlyautomotive reel-wagonr-oct", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_changed_official_image_is_rejected(self):
+        self.post_lane_item()
+        spec_path = self.q / "posted" / "wagonr-oct" / "spec.json"
+        spec = json.loads(spec_path.read_text())
+        spec["lane"]["image_url"] = "https://www.marutisuzuki.com/content/dam/press/another.jpg"
+        spec_path.write_text(json.dumps(spec))
+        self.request()
+        self.run_cli("render-reels")
+        self.assertIn("changed since the feed post", self.reel_reasons("reel-wagonr-oct")[0])
+
+    def write_posts_folder(self, posted=True):
+        folder = "posts/2026-11-10/idlyautomotive-1600-wagonr"
+        d = self.repo / folder
+        d.mkdir(parents=True)
+        (d / "photo.jpg").write_bytes(CAR.read_bytes())
+        (d / "caption.txt").write_text(CAPTION + "\n\n" + CAR_CREDIT)
+        (d / "post.json").write_text(json.dumps({
+            "acct": "idlyautomotive", "slug": "x", "date": "10 Nov 2026", "sources": ["Autocar India"],
+            "slides": [{"type": "cover", "headline": "WagonR Stays India's Best-Selling Car", "photo": f"{folder}/photo.jpg",
+                        "photo_credit": CAR_CREDIT, "focal": [0.5, 0.5], "zoom": 1.0},
+                       {"type": "detail", "stat": "23,747", "stat_label": "WagonR sales in October",
+                        "bullets": ["Brezza second", "Top five: WagonR, Brezza, Nexon"]}]}))
+        if posted:
+            from pipeline import common
+            common.append_posted({"story_id": 1601, "account": "idlyautomotive", "media_id": "1801", "slot": "pm",
+                                  "images": [common.public_url(f"{folder}/01.jpg")]})
+        return folder
+
+    def test_render_reels_from_a_posts_folder(self):
+        folder = self.write_posts_folder()
+        rdir = self.rendered_reel(folder, "reel-idlyautomotive-1600-wagonr")
+        req = json.loads((rdir / "request.json").read_text())
+        self.assertEqual((req["reel_of"], req["story_id"]), ("1801", 1601))
+        self.assertTrue(req["caption_final"].endswith(CAR_CREDIT))
+        self.assertEqual(REEL_CALLS[-1]["post"]["slides"][0]["vertical"]["photo_h"], 1350)
+
+    def test_posts_folder_must_be_posted_and_have_post_json(self):
+        folder = self.write_posts_folder(posted=False)
+        code, _, err = self.request(folder)
+        self.assertEqual(code, 2)
+        self.assertIn("no feed post", err)
+        code, _, err = self.request("posts/2026-11-10/nothing-here")
+        self.assertEqual(code, 2)
+        self.assertIn("post.json is missing", err)
+
+    def test_review_and_publish(self):
+        rdir = self.rendered_reel()
+        code, out, _ = self.run_cli("show", "reel-wagonr-oct")
+        self.assertEqual(code, 0)
+        packet = json.loads(out)
+        self.assertNotIn("scores", packet)
+        self.assertTrue(any(f.endswith("preview_04.0s.jpg") for f in packet["files"]))
+        self.run_cli("approve", "reel-wagonr-oct", "--score-file", self.score_file(REVIEWER_SCORE))
+        self.assertTrue((self.q / "reels" / "approved" / "reel-wagonr-oct.json").exists())
+        client = mock.Mock()
+        client.find_recent_reel.return_value = None
+        reel = mock.Mock(return_value={"status": "posted", "type": "reel", "media_id": "1802", "video_host": "raw",
+                                       "permalink": "https://www.instagram.com/reel/R/"})
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_reel", reel), \
+                mock.patch.object(publish, "connect", return_value=(client, "1784")), \
+                mock.patch.object(lane, "MIN_GAP", timedelta(0)), \
+                mock.patch("pipeline.run_day.url_ready", return_value=(True, "ok")) as ready:
+            code, _, err = self.run_cli("publish-approved")
+        self.assertEqual(code, 0, err)
+        args, kw = reel.call_args
+        self.assertEqual(args[0], "idlyautomotive")
+        self.assertTrue(args[1].endswith("/queue/reels/rendered/reel-wagonr-oct/reel.mp4"))
+        self.assertEqual(args[2], json.loads((self.q / "reels" / "posted" / "reel-wagonr-oct" / "request.json")
+                                             .read_text())["caption_final"])
+        self.assertEqual(kw["score"]["total"], 12)                               # the lower score goes to the gate
+        self.assertEqual((kw["record_extra"]["reel_slug"], kw["record_extra"]["reel_source"],
+                          kw["record_extra"]["reel_of"]), ("reel-wagonr-oct", "lane:wagonr-oct", "1790"))
+        self.assertTrue(kw["cover"].endswith("reel_cover.jpg"))
+        self.assertIn(publish.VIDEO_TYPES, [c.kwargs.get("content_types") for c in ready.call_args_list])
+        self.assertFalse(rdir.exists())
+        self.assertEqual(json.loads((self.q / "reels" / "posted" / "reel-wagonr-oct" / "result.json").read_text())
+                         ["media_id"], "1802")
+        self.assertIn("posted reel · @idlyautomotive reel-wagonr-oct", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_reel_waits_for_the_gap_after_the_feed_post(self):
+        self.rendered_reel()
+        from pipeline import common
+        common.append_posted({"account": "idlyautomotive", "media_id": "1", "story_id": 5,
+                              "posted_at": now_utc().isoformat(timespec="seconds")})
+        self.run_cli("approve", "reel-wagonr-oct", "--score-file", self.score_file(REVIEWER_SCORE))
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_reel") as reel:
+            code, _, err = self.run_cli("publish-approved")
+        reel.assert_not_called()
+        self.assertIn("min gap", err)
+
+    def test_below_the_gate_is_rejected(self):
+        self.rendered_reel()
+        low = {**REVIEWER_SCORE, "send": 0, "total": 11}
+        self.run_cli("approve", "reel-wagonr-oct", "--score-file", self.score_file(low))
+        self.assertFalse((self.q / "reels" / "approved" / "reel-wagonr-oct.json").exists())
+        self.assertIn("below the 12 gate", self.reel_reasons("reel-wagonr-oct")[0])
+
+    def test_dry_run_prints_the_reel_calls(self):
+        self.rendered_reel()
+        self.run_cli("approve", "reel-wagonr-oct", "--score-file", self.score_file(REVIEWER_SCORE))
+        with mock.patch.object(publish, "append_posted") as ap, mock.patch.object(publish, "connect") as conn, \
+                mock.patch.object(lane, "MIN_GAP", timedelta(0)):
+            code, out, err = self.run_cli("publish-approved", "--dry-run")
+        self.assertEqual(code, 0, err)
+        ap.assert_not_called()
+        conn.assert_not_called()
+        self.assertIn("media_type=REELS", out)
+        self.assertIn("reels/rendered/reel-wagonr-oct/reel.mp4", out)
+        self.assertTrue((self.q / "reels" / "approved" / "reel-wagonr-oct.json").exists())
+
+    def test_one_reel_per_source(self):
+        self.rendered_reel()
+        from pipeline import common
+        common.append_posted({"type": "reel", "account": "idlyautomotive", "media_id": "1802",
+                              "reel_source": "lane:wagonr-oct", "reel_slug": "reel-wagonr-oct"})
+        code, out, _ = self.request("lane:wagonr-oct", "--slug", "reel-wagonr-oct-again")
+        self.assertEqual(code, 1)
+        self.assertIn("already has a reel", out)
+
+    def test_status_lists_reels(self):
+        self.rendered_reel()
+        _, out, _ = self.run_cli("status")
+        self.assertIn("reels/rendered: 1", out)
+        self.assertIn("reel-wagonr-oct", out)
+
+
 class GitMerges(unittest.TestCase):
     def test_posted_union(self):
         up = json.dumps([{"account": "a", "media_id": "1"}, {"account": "b", "media_id": "2"}])
@@ -535,6 +753,42 @@ class EndToEndDryRun(LaneCase):
         rep = json.loads((self.q / "rendered" / "wagonr-oct-e2e" / "render_report.json").read_text())
         self.assertEqual(rep["story"]["status"], "rendered", rep["story"])
         publish.check_story_jpeg(self.q / "rendered" / "wagonr-oct-e2e" / "story.jpg")
+
+    @unittest.skipUnless(shutil.which("ffmpeg") and shutil.which("ffprobe"), "ffmpeg not installed")
+    def test_reel_flow(self):
+        """posted lane item -> request-reel -> render-reels (real cardkit.reel + ffmpeg) -> approve -> dry run."""
+        self.write_spec("wagonr-oct-e2e", make_spec())
+        self.assertEqual(self.run_cli("render-pending")[0], 0)
+        score = Path(self.tmp.name) / "r.json"
+        score.write_text(json.dumps(REVIEWER_SCORE))
+        self.run_cli("approve", "wagonr-oct-e2e", "--score-file", str(score))
+        client = mock.Mock()
+        client.find_recent.return_value = None
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_post", return_value={"status": "posted", "media_id": "1790"}), \
+                mock.patch.object(publish, "publish_story", return_value={"status": "posted", "media_id": "1791"}), \
+                mock.patch.object(publish, "connect", return_value=(client, "1784")), \
+                mock.patch("pipeline.run_day.url_ready", return_value=(True, "ok")):
+            self.run_cli("publish-approved")
+        cap = Path(self.tmp.name) / "cap.txt"
+        cap.write_text(make_spec()["caption"])
+        code, out, err = self.run_cli("request-reel", "--source", "lane:wagonr-oct-e2e", "--caption-file", str(cap),
+                                      "--score-file", str(score), "--details", "1")
+        self.assertEqual(code, 0, out + err)
+        code, _, err = self.run_cli("render-reels")
+        self.assertEqual(code, 0, err)
+        rdir = self.q / "reels" / "rendered" / "reel-wagonr-oct-e2e"
+        rep = json.loads((rdir / "render_report.json").read_text())
+        self.assertAlmostEqual(rep["duration"], 9.5)
+        self.assertEqual(rep["video"]["problems"], [])
+        self.assertEqual([p["type"] for p in rep["pages"]], ["cover", "detail", "end"])
+        publish.check_reel_mp4(rdir / "reel.mp4")
+        self.assertEqual(self.run_cli("approve", "reel-wagonr-oct-e2e", "--score-file", str(score))[0], 0)
+        with mock.patch.object(publish, "append_posted") as ap, mock.patch.object(lane, "MIN_GAP", timedelta(0)):
+            code, out, err = self.run_cli("publish-approved", "--dry-run")
+        self.assertEqual(code, 0, err)
+        ap.assert_not_called()
+        self.assertIn("media_type=REELS", out)
 
 
 if __name__ == "__main__":

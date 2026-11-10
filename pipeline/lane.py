@@ -15,7 +15,16 @@ source, frames it around any faces, renders the cards and later publishes; a Cla
     python3 pipeline/lane.py show SLUG                      # blind review packet (no self score)
     python3 pipeline/lane.py approve SLUG --score-file F    # reviewer's 7-check score -> approved/ (or rejected/)
     python3 pipeline/lane.py reject SLUG --reason TEXT      # reviewer (or anyone) rejects an item
-    python3 pipeline/lane.py publish-approved [--push] [--dry-run]   # GitHub Actions, every 10 min
+    python3 pipeline/lane.py publish-approved [--push] [--dry-run]   # GitHub Actions, every 10 min (feed + reels)
+
+Reels (queue/reels/): a run asks for a silent 9:16 Reel of an already-posted post; Actions renders it, a blind
+reviewer approves it through the same gate, and publish-approved posts it.
+    queue/reels/pending/reel-<name>.json   request: source (lane:<slug> or posts/<date>/<folder>), caption, score
+    queue/reels/rendered/reel-<name>/      reel.mp4, reel_cover.jpg, preview_*.jpg, request.json, render_report.json
+    queue/reels/approved|posted|rejected/  as for feed posts
+    python3 pipeline/lane.py request-reel --source lane:<slug> --caption-file F --score-file F [--details 1,2]
+    python3 pipeline/lane.py render-reels [--push]           # GitHub Actions (needs ffmpeg and Chrome)
+    show / approve / reject take reel-<name> slugs too.
 
 The gate: published only if the LOWER of the self score and the reviewer's score is >= 12/14, and only while
 fresh (created_at under 8 hours ago, unless the spec says "evergreen": true). One post per account per run.
@@ -53,6 +62,8 @@ STAGES = ("pending", "rendered", "approved", "rejected", "posted")
 FRESH_HOURS = 8
 LANE_SLOT = "lane"
 FUTURE_SKEW = timedelta(minutes=15)
+REEL_PREFIX = "reel-"
+REEL_SCHEMA_FILE = REPO / "config" / "reel.schema.json"
 
 
 class LaneReject(Exception):
@@ -68,6 +79,17 @@ def qdir(stage: str) -> Path:
     path = QUEUE / stage
     path.mkdir(parents=True, exist_ok=True)
     return path
+
+
+def rqdir(stage: str) -> Path:
+    """queue/reels/<stage>."""
+    path = QUEUE / "reels" / stage
+    path.mkdir(parents=True, exist_ok=True)
+    return path
+
+
+def is_reel(slug: str) -> bool:
+    return slug.startswith(REEL_PREFIX)
 
 
 def spec_hash(spec: dict) -> str:
@@ -130,10 +152,10 @@ def queue_lock():
 
 # ---- spec validation ------------------------------------------------------------------------------------
 
-def schema_errors(spec) -> list[str]:
+def schema_errors(spec, schema_file: Path = SCHEMA_FILE) -> list[str]:
     import jsonschema
 
-    schema = json.loads(SCHEMA_FILE.read_text(encoding="utf-8"))
+    schema = json.loads(Path(schema_file).read_text(encoding="utf-8"))
     v = jsonschema.Draft202012Validator(schema, format_checker=jsonschema.FormatChecker())
     out = []
     for e in sorted(v.iter_errors(spec), key=lambda e: list(e.absolute_path)):
@@ -183,7 +205,7 @@ def official_image_slug_ok(slug: str) -> bool:
 
 def reject_item(slug: str, stage: str, reasons: list[str], spec: dict | None = None,
                 src: Path | None = None, extra: dict | None = None) -> None:
-    dest = qdir("rejected") / slug
+    dest = (rqdir if is_reel(slug) else qdir)("rejected") / slug
     if dest.exists():
         shutil.rmtree(dest)
     dest.mkdir(parents=True)
@@ -196,7 +218,8 @@ def reject_item(slug: str, stage: str, reasons: list[str], spec: dict | None = N
     if src and src.exists():
         shutil.rmtree(src) if src.is_dir() else src.unlink()
     who = f"@{spec['account']} " if spec and spec.get("account") else ""
-    report_line(f"rejected ({stage}) · {who}{slug} · " + "; ".join(reasons))
+    kind = "reel " if is_reel(slug) else ""
+    report_line(f"rejected ({stage}) · {kind}{who}{slug} · " + "; ".join(reasons))
 
 
 # ---- render-pending -------------------------------------------------------------------------------------
@@ -439,14 +462,17 @@ def cmd_render_pending(a) -> int:
 # ---- review: show / approve / reject ------------------------------------------------------------------
 
 def find_item(slug: str) -> tuple[str, Path] | None:
+    base = rqdir if is_reel(slug) else qdir
     for stage in ("approved", "rendered", "pending"):
-        p = qdir(stage) / (f"{slug}.json" if stage in ("approved", "pending") else slug)
+        p = base(stage) / (f"{slug}.json" if stage in ("approved", "pending") else slug)
         if p.exists():
             return stage, p
     return None
 
 
 def cmd_show(a) -> int:
+    if is_reel(a.slug):
+        return show_reel(a.slug)
     rdir = qdir("rendered") / a.slug
     spec, rep = load_json(rdir / "spec.json"), load_json(rdir / "render_report.json")
     if not spec:
@@ -471,8 +497,8 @@ def cmd_show(a) -> int:
 
 
 def cmd_approve(a) -> int:
-    rdir = qdir("rendered") / a.slug
-    spec = load_json(rdir / "spec.json")
+    rdir = (rqdir if is_reel(a.slug) else qdir)("rendered") / a.slug
+    spec = load_json(rdir / ("request.json" if is_reel(a.slug) else "spec.json"))
     if not spec:
         log(f"no rendered item {a.slug!r} (render-pending makes it; check `lane.py status`)")
         return 2
@@ -492,10 +518,12 @@ def cmd_approve(a) -> int:
                     spec, src=rdir, extra={"reviewer": score})
         print(f"rejected: {min(mine, theirs)}/14")
         return 0
-    save_json(qdir("approved") / f"{a.slug}.json", {
+    save_json((rqdir if is_reel(a.slug) else qdir)("approved") / f"{a.slug}.json", {
         "slug": a.slug, "reviewer": score, "reviewed_at": now_utc().isoformat(timespec="seconds"),
         "reviewed_by": a.by, "notes": a.notes or "", **({"story": False} if a.no_story else {})})
-    report_line(f"approved · @{spec['account']} {a.slug} · self {mine}, reviewer {theirs} -> {min(mine, theirs)}/14")
+    kind = "reel " if is_reel(a.slug) else ""
+    report_line(f"approved · {kind}@{spec['account']} {a.slug} · self {mine}, reviewer {theirs} -> "
+                f"{min(mine, theirs)}/14")
     print(f"approved: {min(mine, theirs)}/14 (publish-approved posts it on its next run)")
     return 0
 
@@ -506,8 +534,9 @@ def cmd_reject(a) -> int:
         log(f"no pending, rendered or approved item {a.slug!r}")
         return 2
     stage, path = found
-    rdir = qdir("rendered") / a.slug
-    spec = load_json(rdir / "spec.json") or (load_json(path) if stage == "pending" else None)
+    rdir = (rqdir if is_reel(a.slug) else qdir)("rendered") / a.slug
+    spec = load_json(rdir / ("request.json" if is_reel(a.slug) else "spec.json")) or \
+        (load_json(path) if stage == "pending" else None)
     if stage == "approved":
         path.unlink()
         path = rdir if rdir.exists() else None
@@ -516,11 +545,18 @@ def cmd_reject(a) -> int:
 
 
 def cmd_status(a) -> int:
+    for label, base in (("", qdir), ("reels/", rqdir)):
+        _status(label, base)
+    return 0
+
+
+def _status(label: str, base) -> None:
     for stage in STAGES:
-        items = sorted(p for p in qdir(stage).iterdir() if not p.name.startswith("."))
-        print(f"{stage}: {len(items)}")
+        items = sorted(p for p in base(stage).iterdir() if not p.name.startswith("."))
+        print(f"{label}{stage}: {len(items)}")
         for p in items[-15:]:
-            spec = load_json(p) if p.suffix == ".json" and stage == "pending" else load_json(p / "spec.json") \
+            name = "request.json" if label else "spec.json"
+            spec = load_json(p) if p.suffix == ".json" and stage == "pending" else load_json(p / name) \
                 if p.is_dir() else None
             extra = ""
             if spec and spec.get("created_at"):
@@ -529,7 +565,6 @@ def cmd_status(a) -> int:
                 why = (load_json(p / "reasons.json") or {}).get("reasons") or []
                 extra += f"  ({'; '.join(why)[:140]})"
             print(f"  {p.stem if p.suffix == '.json' else p.name}{extra}")
-    return 0
 
 
 def cmd_validate(a) -> int:
@@ -681,7 +716,7 @@ def cmd_publish_approved(a) -> int:
         if not got:
             return 0
         approved = sorted(p.stem for p in qdir("approved").glob("*.json"))
-        if not approved:
+        if not approved and not any(rqdir("approved").glob("*.json")):
             log("publish-approved: nothing approved")
             return 0
         busy, failed, counts = set(), 0, {}
@@ -707,11 +742,462 @@ def cmd_publish_approved(a) -> int:
             if a.push and status in ("posted", "rejected"):
                 if not gitsync.commit_and_push(["queue", "state", "reports"], f"lane: {status} {slug}"):
                     return 1
+        for slug in sorted(p.stem for p in rqdir("approved").glob("*.json")):
+            log(f"{slug}:")
+            req = load_json(rqdir("rendered") / slug / "request.json")
+            try:
+                status, msg = publish_reel_one(slug, dry_run=a.dry_run, allow_shared=a.allow_shared_token, busy=busy)
+            except (LaneReject, publish.GateRefused) as e:
+                (rqdir("approved") / f"{slug}.json").unlink(missing_ok=True)
+                reasons = e.reasons if isinstance(e, LaneReject) else [str(e)]
+                reject_item(slug, getattr(e, "stage", "publish"), reasons, req, src=rqdir("rendered") / slug)
+                status, msg = "rejected", str(e)
+            except (publish.IGError, ValueError) as e:
+                status, msg = "failed", str(e)
+                failed += 1
+                report_line(f"failed · reel {slug} · {e} (kept in reels/approved; retried next run while fresh)")
+            counts[status] = counts.get(status, 0) + 1
+            log(f"  {status}: {msg}")
+            if a.push and status in ("posted", "rejected"):
+                if not gitsync.commit_and_push(["queue", "state", "reports"], f"lane: reel {status} {slug}"):
+                    return 1
         summary = ", ".join(f"{n} {s}" for s, n in sorted(counts.items()))
         log(f"publish-approved: {summary}")
         if a.push and not gitsync.commit_and_push(["queue", "state", "reports"], f"lane: publish-approved ({summary})"):
             return 1
         return 1 if failed else 0
+
+
+# ---- reels: request -> render-reels -> review -> publish ----------------------------------------------------------
+
+def render_reel_with_cardkit(post: dict, out_dir: Path, details, report: list) -> dict:
+    from cardkit.reel import render_reel
+
+    return render_reel(post, str(out_dir), details=details, report=report, verbose=False)
+
+
+REEL_RENDERER = render_reel_with_cardkit        # tests swap this for a stub (no Chrome or ffmpeg needed)
+
+
+def feed_entry_for_folder(account: str, folder: str) -> dict | None:
+    """The feed post on @account whose images are in posts/<date>/<folder>/."""
+    prefix = public_url(folder.rstrip("/")) + "/"
+    hits = [p for p in load_posted() if entry_type(p) == "feed" and p.get("account") == account
+            and any(str(u).startswith(prefix) for u in p.get("images") or [])]
+    return hits[-1] if hits else None
+
+
+def reel_already(source: str) -> dict | None:
+    return next((p for p in load_posted() if entry_type(p) == "reel" and p.get("reel_source") == source), None)
+
+
+def describe_source(source: str) -> dict:
+    """What a reel source points at: {kind, account, idly_article, story_id, reel_of, headline, details, problem}."""
+    if source.startswith("lane:"):
+        src = source[5:]
+        spec = load_json(qdir("posted") / src / "spec.json")
+        if not spec:
+            return {"problem": f"{source}: no posted lane item queue/posted/{src}/ (reels are made from posted posts)"}
+        result = load_json(qdir("posted") / src / "result.json") or {}
+        out = {"kind": "lane", "account": spec["account"], "idly_article": spec["idly_article"],
+               "story_id": spec.get("story_id"), "reel_of": result.get("media_id"), "headline": spec.get("headline"),
+               "details": len(spec.get("detail_slides") or []), "credit": spec.get("image_credit")}
+        if (spec.get("lane") or {}).get("source") == "prebuilt" or not spec.get("image"):
+            out["problem"] = (f"{source} was a prebuilt post (no source image to re-frame): request the reel from "
+                              f"its posts/ folder with a post.json instead")
+        return out
+    folder = REPO / source
+    post = load_json(folder / "post.json")
+    if not post:
+        return {"problem": f"{source}/post.json is missing: save the hype post dict there (photo committed in the "
+                           f"repo) to make a reel of it"}
+    account = post.get("acct")
+    caption = (folder / "caption.txt").read_text(encoding="utf-8") if (folder / "caption.txt").exists() else ""
+    feed = feed_entry_for_folder(account, source) or {}
+    slides = post.get("slides") or []
+    out = {"kind": "posts", "account": account, "idly_article": post.get("idly_article", editorial.LINK_LINE in caption
+                                                                          if caption else True),
+           "story_id": feed.get("story_id"), "reel_of": feed.get("media_id"),
+           "headline": (slides[0] if slides else post).get("headline"),
+           "details": sum(1 for x in slides[1:] if x.get("type", "cover") == "detail"),
+           "credit": (slides[0] if slides else post).get("photo_credit")}
+    if not feed:
+        out["problem"] = f"{source} has no feed post in state/posted.json (reels are made from posted posts)"
+    return out
+
+
+def validate_reel_request(req, slug: str) -> list[str]:
+    if not isinstance(req, dict):
+        return ["the request must be a JSON object"]
+    errs = schema_errors(req, REEL_SCHEMA_FILE)
+    if not (is_reel(slug) and official_image_slug_ok(slug)):
+        errs.append(f"file name {slug!r}: use reel- plus lowercase letters, digits and hyphens (3-80 characters)")
+    if req.get("slug") and req["slug"] != slug:
+        errs.append(f"slug {req['slug']!r} does not match the file name {slug!r}")
+    if errs:
+        return errs
+    self_score = req["scores"]["self"]
+    errs += [f"scores.self: {p}" for p in editorial.score_problems(self_score)]
+    if not errs and editorial.score_total(self_score) < editorial.GATE:
+        errs.append(f"self score {editorial.score_total(self_score)}/14 is below the {editorial.GATE} gate")
+    try:
+        if parse_time(req["created_at"]) - now_utc() > FUTURE_SKEW:
+            errs.append("created_at is in the future")
+    except ValueError:
+        errs.append(f"created_at is not a date-time: {req['created_at']!r}")
+    src = describe_source(req["source"])
+    if src.get("problem"):
+        errs.append(src["problem"])
+    elif src.get("account") != req["account"]:
+        errs.append(f"{req['source']} is @{src.get('account')}'s post, not @{req['account']}'s")
+    if not src.get("problem") and any(n > src.get("details", 0) for n in req.get("details") or []):
+        errs.append(f"details {req['details']}: {req['source']} has {src.get('details', 0)} detail slide(s)")
+    if reel_already(req["source"]):
+        errs.append(f"{req['source']} already has a reel")
+    if src.get("credit"):                     # the same caption rules as feed posts, with the post's own credit
+        cap_errs, _ = editorial.post_problems(editorial.with_credit(req["caption"], src["credit"]),
+                                              self_score, idly_article=req["idly_article"])
+        errs += [f"caption: {e}" for e in cap_errs]
+    return errs
+
+
+def reel_post_from_lane(src_slug: str, slug: str, work: Path) -> tuple[dict, str, dict]:
+    """(post dict with a vertical plan, image credit, render info) for a posted lane item: the official image is
+    fetched again (Actions only: it may show people) and must be the very image the feed post used."""
+    spec = load_json(qdir("posted") / src_slug / "spec.json")
+    lane_info = spec.get("lane") or {}
+    attempts = official_image.attempts_of(spec["image"])
+    attempts.sort(key=lambda t: t.get("resolver") != lane_info.get("resolver"))     # the one that worked first
+    image = {**attempts[0], "fallback": attempts[1:]} if len(attempts) > 1 else dict(attempts[0])
+    try:
+        res, _ = official_image.resolve_first(image, spec)
+    except official_image.ResolveError as e:
+        if e.transient:
+            raise
+        raise LaneReject(f"image: {e.reason}", "resolve")
+    if lane_info.get("image_url") and res.image_url != lane_info["image_url"]:
+        raise LaneReject(f"the official image changed since the feed post ({res.image_url} is not "
+                         f"{lane_info['image_url']}): the reel must show the same photo", "resolve")
+    try:
+        im = official_image.open_image(res.data)
+    except official_image.ResolveError as e:
+        raise LaneReject(f"image: {e.reason}", "resolve")
+    credit = spec.get("image_credit") or res.credit
+    post, info = vertical_post(build_post(spec, slug, Path("unused"), (0.5, 0.5), 1.0, credit), im, work)
+    return post, credit, {**info, "image_url": res.image_url, "resolver": res.resolver}
+
+
+def reel_post_from_folder(source: str, slug: str, work: Path) -> tuple[dict, str, dict]:
+    """(post dict with a vertical plan, image credit, render info) from posts/<date>/<folder>/post.json."""
+    post = load_json(REPO / source / "post.json")
+    post = {**post, "slides": [dict(x) for x in post.get("slides") or []]} if post.get("slides") else {
+        "acct": post.get("acct"), "slides": [{"type": "cover", **{k: post.get(k) for k in (
+            "headline", "photo", "photo_credit", "focal", "zoom")}}], "sources": post.get("sources")}
+    cover = post["slides"][0]
+    photo = (REPO / cover["photo"]).resolve() if not Path(cover["photo"]).is_absolute() else Path(cover["photo"])
+    if not str(photo).startswith(str(REPO.resolve()) + "/") or not photo.is_file():
+        raise LaneReject(f"post.json: the photo {cover['photo']} must be a committed file in the repo", "validate")
+    credit = str(cover.get("photo_credit") or "").strip()
+    if not credit:
+        raise LaneReject("post.json: the cover has no photo_credit", "validate")
+    try:
+        im = official_image.open_image(photo.read_bytes())
+    except official_image.ResolveError as e:
+        raise LaneReject(f"photo: {e.reason}", "validate")
+    post.update(slug=slug)
+    post, info = vertical_post(post, im, work)
+    return post, credit, info
+
+
+def vertical_post(post: dict, im, work: Path) -> tuple[dict, dict]:
+    """Plan the 9:16 photo window (faces detected here, in Actions) and put it on the cover slide."""
+    try:
+        vplan = framing.plan_image(im, frame=framing.VERTICAL)
+    except framing.FramingError as e:
+        raise LaneReject([f"framing: {r}" for r in e.reasons], "framing")
+    if vplan.upscale > framing.MAX_UPSCALE + 1e-6:
+        raise LaneReject(f"framing: {vplan.upscale:.2f}x upscale (max {framing.MAX_UPSCALE}x)", "framing")
+    vphoto, vfocal, vzoom = framing.render_input(im, vplan, work / "vertical")
+    post = json.loads(json.dumps(post, default=str))
+    post["slides"][0].update(photo=str(vphoto), focal=list(vfocal), zoom=vzoom,
+                             vertical={"photo": str(vphoto), "focal": list(vfocal), "zoom": vzoom,
+                                       "photo_h": vplan.out_h})
+    post["date"] = card_date()
+    return post, {"framing": vplan.to_dict(), "faces": vplan.faces_src, "upscale": round(vplan.upscale, 3)}
+
+
+def render_reel_one(path: Path) -> tuple[str, str]:
+    """Render one reel request. Returns (status, message): rendered | rejected | retry | skipped."""
+    slug = path.stem
+    try:
+        req = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError as e:
+        reject_item(slug, "validate", [f"not valid JSON: {e}"], src=path)
+        return "rejected", "invalid JSON"
+    digest = spec_hash(req) if isinstance(req, dict) else ""
+    for stage in ("rendered", "posted"):
+        existing = rqdir(stage) / slug
+        if existing.exists():
+            old = load_json(existing / "request.json") or {}
+            if (old.get("lane") or {}).get("request_sha256") == digest:
+                path.unlink()
+                return "skipped", f"already {stage}"
+            reject_item(slug, "validate", [f"slug {slug!r} is already used by a {stage} reel: use a new file name"],
+                        req if isinstance(req, dict) else None, src=path)
+            return "rejected", "slug in use"
+    errs = validate_reel_request(req, slug)
+    if errs:
+        reject_item(slug, "validate", errs, req if isinstance(req, dict) else None, src=path)
+        return "rejected", "; ".join(errs)
+    if (rqdir("rejected") / slug).exists():
+        shutil.rmtree(rqdir("rejected") / slug)
+    account, source = req["account"], req["source"]
+    src = describe_source(source)
+    work = Path(tempfile.mkdtemp(prefix=f"reel-{slug}-"))
+    try:
+        if stale(req):
+            raise LaneReject(f"stale: requested {age_hours(req):.1f}h ago (limit {FRESH_HOURS}h)")
+        try:
+            if source.startswith("lane:"):
+                post, credit, info = reel_post_from_lane(source[5:], slug, work)
+            else:
+                post, credit, info = reel_post_from_folder(source, slug, work)
+        except official_image.ResolveError as e:
+            report_line(f"waiting · reel @{account} {slug} · image source not reachable, will retry: {e.reason}")
+            return "retry", e.reason
+        caption = editorial.with_credit(req["caption"], credit)
+        cap_errs, cap_warns = editorial.post_problems(caption, req["scores"]["self"], idly_article=req["idly_article"])
+        if cap_errs:
+            raise LaneReject([f"caption: {e}" for e in cap_errs], "caption")
+        rows: list = []
+        try:
+            out = REEL_RENDERER(post, work / "out", req.get("details"), rows)
+        except (ValueError, FileNotFoundError, RuntimeError) as e:
+            raise LaneReject(f"render: {e}", "render")
+        if out.get("problems"):
+            raise LaneReject(out["problems"], "render")
+        video = Path(out["video"])
+        try:
+            publish.check_reel_mp4(video)
+            publish.check_story_jpeg(Path(out["cover"]))
+        except ValueError as e:
+            raise LaneReject(str(e), "render")
+        staging = rqdir("rendered") / f".{slug}.tmp"
+        if staging.exists():
+            shutil.rmtree(staging)
+        staging.mkdir()
+        files = []
+        for f in [out["video"], out["cover"], *out.get("previews", [])]:
+            shutil.copyfile(f, staging / Path(f).name)
+            files.append(Path(f).name)
+        rendered_at = now_utc().isoformat(timespec="seconds")
+        save_json(staging / "request.json", {
+            **req, "slug": slug, "caption_final": caption, "image_credit": credit, "story_id": src.get("story_id"),
+            "reel_of": src.get("reel_of"), "headline": src.get("headline"),
+            "lane": {"request_sha256": digest, "rendered_at": rendered_at}})
+        probe = next((r for r in rows if r.get("type") == "reel"), {})
+        save_json(staging / "render_report.json", {
+            "slug": slug, "account": account, "source": source, "rendered_at": rendered_at, **info,
+            "duration": out.get("duration"), "frames": out.get("frames"), "files": files, "caption_final": caption,
+            "checks": {"caption_warnings": cap_warns, "problems": []},
+            "pages": [{k: v for k, v in r.items() if k not in ("boxes",)} for r in rows if r.get("type") != "reel"],
+            "video": {k: v for k, v in probe.items() if k not in ("path",)}})
+        os.replace(staging, rqdir("rendered") / slug)
+        path.unlink()
+        msg = f"{source} · {out.get('duration', 0):.1f}s · {len(post['slides'][1:])} slide(s) available"
+        report_line(f"rendered · reel @{account} {slug} · {msg} · awaiting review")
+        return "rendered", msg
+    except LaneReject as e:
+        reject_item(slug, e.stage, e.reasons, req, src=path)
+        return "rejected", str(e)
+    finally:
+        shutil.rmtree(work, ignore_errors=True)
+
+
+def cmd_render_reels(a) -> int:
+    with queue_lock() as got:
+        if not got:
+            return 0
+        reqs = sorted(rqdir("pending").glob("*.json"))[: a.limit or None]
+        if not reqs:
+            log("render-reels: queue/reels/pending is empty")
+            return 0
+        counts, crashed = {}, 0
+        for path in reqs:
+            log(f"{path.stem}:")
+            try:
+                status, msg = render_reel_one(path)
+            except Exception as e:  # noqa: BLE001 - infrastructure trouble: keep the request, go red, retry later
+                status, msg = "retry", f"{type(e).__name__}: {e}"
+                crashed += 1
+                report_line(f"error · {path.stem} · {msg} (kept in reels/pending, will retry)")
+            counts[status] = counts.get(status, 0) + 1
+            log(f"  {status}: {msg}")
+        summary = ", ".join(f"{n} {s}" for s, n in sorted(counts.items()))
+        log(f"render-reels: {summary}")
+        if a.push and not gitsync.commit_and_push(["queue", "reports"], f"lane: render-reels ({summary})"):
+            return 1
+        return 1 if crashed else 0
+
+
+def show_reel(slug: str) -> int:
+    rdir = rqdir("rendered") / slug
+    req, rep = load_json(rdir / "request.json"), load_json(rdir / "render_report.json") or {}
+    if not req:
+        log(f"no rendered reel {slug!r}")
+        return 2
+    packet = {
+        "slug": slug, "account": req["account"], "source": req["source"], "headline": req.get("headline"),
+        "story_id": req.get("story_id"), "idly_article": req["idly_article"], "caption_final": req["caption_final"],
+        "image_credit": req["image_credit"], "details": req.get("details"), "share_to_feed": req.get("share_to_feed", True),
+        "duration": rep.get("duration"), "framing": rep.get("framing"), "faces": len(rep.get("faces") or []),
+        "created_at": req["created_at"], "age_hours": round(age_hours(req), 1),
+        "files": [rel_to_repo(rdir / f) for f in rep.get("files", [])],
+        "note": ("Blind packet: the self score is left out on purpose. Open reel_cover.jpg and every preview still "
+                 "(0.5 s, 4 s, 7 s, last frame), check the layout, the photo and the caption, and score the 7 checks."),
+    }
+    print(json.dumps(packet, ensure_ascii=False, indent=2))
+    return 0
+
+
+def finish_reel_posted(slug: str, approval: dict, result: dict) -> None:
+    rdir, dest = rqdir("rendered") / slug, rqdir("posted") / slug
+    if rdir.exists() and not dest.exists():
+        os.replace(rdir, dest)
+    save_json(dest / "approved.json", approval)
+    save_json(dest / "result.json", result)
+    (rqdir("approved") / f"{slug}.json").unlink(missing_ok=True)
+
+
+def publish_reel_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> tuple[str, str]:
+    """Returns (status, message): posted | dry-run | rejected | skipped | waiting | failed."""
+    apath = rqdir("approved") / f"{slug}.json"
+    approval = load_json(apath) or {}
+    rdir = rqdir("rendered") / slug
+    req = load_json(rdir / "request.json")
+    if (rqdir("posted") / slug).exists():
+        apath.unlink(missing_ok=True)
+        return "skipped", "already posted"
+    if not req:
+        apath.unlink(missing_ok=True)
+        reject_item(slug, "publish", ["approved, but there is no rendered reel"], extra={"approval": approval})
+        return "rejected", "no rendered reel"
+    account = req["account"]
+    prior = next((p for p in load_posted() if p.get("reel_slug") == slug and entry_type(p) == "reel"), None)
+    if prior:
+        finish_reel_posted(slug, approval, {**prior, "status": "posted", "recovered": True})
+        report_line(f"posted reel (recovered record) · @{account} {slug} · {prior.get('permalink', '')}")
+        return "posted", "recovered"
+    problems = editorial.score_problems(req["scores"]["self"]) + \
+        [f"reviewer: {p}" for p in editorial.score_problems(approval.get("reviewer"))]
+    if problems:
+        raise LaneReject(problems, "publish")
+    low = lower_score(req, approval)
+    if editorial.score_total(low) < editorial.GATE:
+        raise LaneReject(f"lower score {editorial.score_total(low)}/14 is below the {editorial.GATE} gate", "publish")
+    if stale(req):
+        raise LaneReject(f"stale: requested {age_hours(req):.1f}h ago (limit {FRESH_HOURS}h)", "publish")
+    if reel_already(req["source"]):
+        raise LaneReject(f"{req['source']} already has a reel", "publish")
+    if account in busy:
+        return "waiting", f"@{account} already posted in this run; next run"
+    last = max((parse_time(p["posted_at"]) for p in load_posted()
+                if p.get("account") == account and p.get("posted_at") and entry_type(p) != "story"), default=None)
+    if last is not None and now_utc() - last < MIN_GAP:
+        return "waiting", f"@{account} posted {int((now_utc() - last).total_seconds() // 60)} min ago (min gap {MIN_GAP})"
+    if not dry_run and not publish.account_token(account) and not allow_shared:
+        report_line(f"skipped · reel @{account} {slug} · the {token_env(account)} secret is not set "
+                    f"(docs/SETUP-GITHUB-SECRETS.md); it posts once it is, if still fresh")
+        return "skipped", f"{token_env(account)} not set"
+    video, cover = rdir / "reel.mp4", rdir / "reel_cover.jpg"
+    try:
+        publish.check_reel_mp4(video)
+        publish.check_story_jpeg(cover)
+    except ValueError as e:
+        raise LaneReject(str(e), "publish")
+    video_url, cover_url = public_url(rel_to_repo(video)), public_url(rel_to_repo(cover))
+    caption = req["caption_final"]
+    if not dry_run:
+        from pipeline.run_day import url_ready
+        for f, url, types in ((video, video_url, publish.VIDEO_TYPES), (cover, cover_url, ("image/jpeg",))):
+            ok, why = url_ready(url, f.stat().st_size, content_types=types)
+            if not ok:
+                return "waiting", f"not public yet ({why}): {url}"
+        client, ig_id = publish.connect(account)          # duplicate guard: is this reel already on the account?
+        media_id = client.find_recent_reel(ig_id, caption)
+        if media_id:
+            result = {"status": "posted", "media_id": media_id, "permalink": client.permalink(media_id),
+                      "recovered": True, "note": "found on Instagram already; not posted again"}
+            finish_reel_posted(slug, approval, result)
+            report_line(f"posted reel (found on Instagram) · @{account} {slug} · {result['permalink']}")
+            return "posted", "recovered from Instagram"
+    # in the repo (GitHub Actions): pass the committed path, so the jsDelivr and resumable fallbacks can work
+    in_repo = (REPO / rel_to_repo(video)).resolve() == video.resolve()
+    res = publish.publish_reel(
+        account, rel_to_repo(video) if in_repo else video_url, caption, score=low, alt_text=req.get("alt_text", ""),
+        share_to_feed=req.get("share_to_feed", True), dry_run=dry_run,
+        cover=rel_to_repo(cover) if in_repo else cover_url, story_id=req.get("story_id"),
+        idly_article=req["idly_article"], date=now_ist().date().isoformat(), slot=LANE_SLOT, wait=False,
+        record_extra={"lane": "reel", "reel_slug": slug, "reel_source": req["source"], "reel_of": req.get("reel_of"),
+                      "image_credit": req.get("image_credit"),
+                      "score_self": editorial.score_total(req["scores"]["self"]),
+                      "score_reviewer": editorial.score_total(approval.get("reviewer"))})
+    if dry_run:
+        return "dry-run", f"would post the reel {slug} to @{account}"
+    finish_reel_posted(slug, approval, res)
+    busy.add(account)
+    report_line(f"posted reel · @{account} {slug} · {editorial.score_total(low)}/14 · via {res.get('video_host')} · "
+                f"{res.get('permalink', '')}")
+    return "posted", res.get("permalink", "")
+
+
+def without_credit(caption: str) -> str:
+    """The caption minus any trailing credit line(s): the lane appends the post's exact credit itself."""
+    lines = (caption or "").rstrip().splitlines()
+    while lines and (not lines[-1].strip() or editorial.CREDIT_LINE.match(lines[-1].strip())):
+        lines.pop()
+    return "\n".join(lines).rstrip()
+
+
+def cmd_request_reel(a) -> int:
+    """Write queue/reels/pending/<slug>.json for an already-posted post (hourly or daily runs)."""
+    src = describe_source(a.source)
+    if src.get("problem"):
+        log(src["problem"])
+        return 2
+    try:
+        score = json.loads(Path(a.score_file).read_text(encoding="utf-8"))
+        caption = Path(a.caption_file).read_text(encoding="utf-8").strip()
+    except (OSError, ValueError) as e:
+        log(f"can't read the caption or score file: {e}")
+        return 2
+    import re
+    name = a.source[5:] if a.source.startswith("lane:") else Path(a.source).name
+    slug = a.slug or (REEL_PREFIX + re.sub(r"[^a-z0-9-]+", "-", name.lower()).strip("-"))[:80].rstrip("-")
+    req = {"source": a.source, "account": a.account or src["account"], "story_id": src.get("story_id"),
+           "idly_article": src["idly_article"] if a.idly_article is None else a.idly_article,
+           "caption": without_credit(caption),
+           "scores": {"self": score}, "created_at": now_utc().isoformat(timespec="seconds")}
+    if a.details:
+        req["details"] = [int(x) for x in a.details.split(",")]
+    if a.alt_text:
+        req["alt_text"] = a.alt_text
+    if a.no_share_to_feed:
+        req["share_to_feed"] = False
+    if a.evergreen:
+        req["evergreen"] = True
+    errs = validate_reel_request(req, slug)
+    if errs:
+        print("PROBLEMS:\n" + "\n".join(f"  - {e}" for e in errs))
+        return 1
+    path = rqdir("pending") / f"{slug}.json"
+    if path.exists() or (rqdir("rendered") / slug).exists() or (rqdir("posted") / slug).exists():
+        print(f"{slug} is already queued: pass --slug with a new name")
+        return 1
+    save_json(path, req)
+    print(f"queued {rel_to_repo(path)}\nnext: git add {rel_to_repo(path)} && git commit -m \"lane: reel {slug}\" && "
+          f"git pull --rebase origin main && git push origin HEAD:main")
+    return 0
 
 
 # ---- CLI ------------------------------------------------------------------------------------------------
@@ -736,15 +1222,32 @@ def main(argv=None) -> int:
     no = sub.add_parser("reject", help="reject a pending, rendered or approved item")
     no.add_argument("slug")
     no.add_argument("--reason", required=True)
-    p = sub.add_parser("publish-approved", help="post every approved item that still passes the gate")
+    p = sub.add_parser("publish-approved", help="post every approved item (feed posts, then reels) that passes the gate")
     p.add_argument("--push", action="store_true", help="commit and push after each post (GitHub Actions)")
     p.add_argument("--dry-run", action="store_true", help="print the would-be API calls, post nothing")
     p.add_argument("--allow-shared-token", action="store_true",
                    help="use the shared token for accounts without IG_TOKEN_<ACCOUNT> (not in GitHub Actions)")
+    rq = sub.add_parser("request-reel", help="ask for a 9:16 reel of an already-posted post")
+    rq.add_argument("--source", required=True,
+                    help="lane:<slug> (a posted lane item) or posts/<date>/<folder> (a posted post with post.json)")
+    rq.add_argument("--caption-file", required=True, help="the reel caption (same rules; the credit is added)")
+    rq.add_argument("--score-file", required=True, help="your 7-check score for the reel (>= 12)")
+    rq.add_argument("--account", help="default: the source post's account")
+    rq.add_argument("--details", help="which detail slides, 1-based, e.g. 1,2 (default: the first two)")
+    rq.add_argument("--slug", help="default: reel-<source name>")
+    rq.add_argument("--alt-text", default="")
+    rq.add_argument("--no-share-to-feed", action="store_true", help="Reels tab only")
+    rq.add_argument("--evergreen", action="store_true")
+    rq.add_argument("--idly-article", dest="idly_article", action="store_true", default=None)
+    rq.add_argument("--no-idly-article", dest="idly_article", action="store_false")
+    rr = sub.add_parser("render-reels", help="render every reel request in queue/reels/pending (needs ffmpeg)")
+    rr.add_argument("--push", action="store_true", help="commit and push queue/ and reports/ (GitHub Actions)")
+    rr.add_argument("--limit", type=int, default=0)
     a = ap.parse_args(argv)
     commands = {"validate": cmd_validate, "render-pending": cmd_render_pending, "status": cmd_status,
                 "show": cmd_show, "approve": cmd_approve, "reject": cmd_reject,
-                "publish-approved": cmd_publish_approved}
+                "publish-approved": cmd_publish_approved, "request-reel": cmd_request_reel,
+                "render-reels": cmd_render_reels}
     return commands[a.cmd](a)
 
 
