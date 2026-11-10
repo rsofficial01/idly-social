@@ -1,0 +1,34 @@
+{
+  "account": "idlynerd",
+  "title": "Football Manager 27 launches 10 Nov: Rs 4,499 on Steam India; Console, FM27 Mobile (Netflix) and FM27 Touch (Apple Arcade) editions out digitally the same day",
+  "story_id": null,
+  "idly_article": false,
+  "sources": [
+    "https://www.footballmanager.com/fm27",
+    "https://www.footballmanager.com/news/football-manager-27-launches-10-november",
+    "https://www.footballmanager.com/news/fm27-touch-launches-apple-arcade-november-10",
+    "https://store.steampowered.com/app/4530370",
+    "https://www.gematsu.com/2026/09/football-manager-27-launches-november-10-for-ps5-xbox-series-pc-ios-and-android",
+    "https://gamingtrend.com/news/football-manager-27-touch-lands-on-apple-arcade-november-10/",
+    "https://www.ithinkdiff.com/football-manager-27-touch-apple-arcade-november-10/",
+    "https://www.dlcompare.com/gaming-news/football-manager-27-release-date-platforms-editions-87666"
+  ],
+  "photo_source": {
+    "page": "https://www.footballmanager.com/fm27",
+    "file": "https://cdn.footballmanager.com/site/2026-10/3%20Match%20Experience.jpg",
+    "licence": "Official publisher image (Sports Interactive / SEGA), credited",
+    "author": "Sports Interactive",
+    "credit": "Image: Sports Interactive",
+    "viewed": true,
+    "processing": "face detector 0 faces before viewing; 768x960 crop at x 1344-2112 of the 2160x960 original (focal 0.8, 0.5); pipeline.framing enlarged and sharpened 1.41x to 1080x1350; gentle top shade (up to 35% darker at the top edge, fading out by y 320) so the white logo reads on the grey sky"
+  },
+  "tags": [
+    "footballmanager"
+  ],
+  "gates": {
+    "g1": "BUILD C1 (Football Manager 27); FIXes applied: no 'free/included with Netflix', Mobile and Touch named as separate editions, 'Launches Today', Rs 4,499 list price only, official subscription names",
+    "g2": "FIX applied: slide 4 now '5' new features with SI wording; slide 3 label 'All Out Digitally Today'; caption aligned; boxed PS5 20 Nov added (SI FAQ + dlcompare)",
+    "g3": "PASS (official FM27 Match Day Theatre art from footballmanager.com/fm27; tag @footballmanager confirmed)",
+    "g4": "pending"
+  }
+}
