@@ -1,0 +1,224 @@
+{
+  "slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T13:30:37+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates",
+    "source_url": "https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates",
+    "image_url": "https://godzilla.com/cdn/shop/articles/GMZ_Stills-Copyright_still-03.jpg?v=1791323999",
+    "credit": "Image: Toho International",
+    "organisation": "Toho International",
+    "image_size": [
+      4050,
+      2832
+    ],
+    "log": [
+      "page https://godzilla.com/blogs/news/godzilla-minus-zero-global-release-dates (Toho International): og:title 'GODZILLA MINUS ZERO GLOBAL RELEASE DATES', 1 image(s)",
+      "image https://godzilla.com/cdn/shop/articles/GMZ_Stills-Copyright_still-03.jpg?v=1791323999 (4050x2832)"
+    ],
+    "og_title": "GODZILLA MINUS ZERO GLOBAL RELEASE DATES"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.477,
+    "crop": [
+      892.0,
+      0.0,
+      2266.0,
+      2832.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 1.97,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 0.477,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Toho International",
+      "Sources: AP, The Week, Dread Central, The Numbers",
+      "Sources: AP, The Week, Dread Central",
+      "Sources: District, Sacnilk, Bollywood Hungama, The Week"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Toho International",
+      "slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+      "slide": 1,
+      "type": "cover",
+      "scale": 0.477
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: AP, The Week, Dread Central, The Numbers",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: AP, The Week, Dread Central",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 244,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: District, Sacnilk, Bollywood Hungama, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-godzilla-minus-zero",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Godzilla Minus Zero opened at No. 1 in North America with an estimated $31.6 million over 6–8 November. By AP's count, that is the biggest North American opening for a live-action foreign-language film, ahead of Zhang Yimou's Hero (2004). AP notes one exception if you count it: The Passion of the Christ, made largely in Aramaic, opened higher in 2004.\n\nTakashi Yamazaki's sequel made about $63 million worldwide in its first weekend, $21.3 million of it on IMAX screens. Godzilla Minus One, which won the Visual Effects Oscar, opened at $11.4 million in North America in 2023.\n\nIndian ticketing and trade listings put it in cinemas here on 20 November, with PVR INOX Pictures releasing it. Toho's own global release list doesn't include India yet. Sacnilk, Bollywood Hungama and The Week report the date moved from 6 November because of Ramayana's two-week hold on Indian IMAX screens.\n\nDid you watch Godzilla Minus One in a cinema or at home?\n\nSources: AP, The Week, Dread Central, The Numbers, Sacnilk, Bollywood Hungama, District\n\n#GodzillaMinusZero #Godzilla #Toho #BoxOffice #idlynerd\n\nImage: Toho International",
+  "story": {
+    "status": "rendered",
+    "framing": {
+      "mode": "cover",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0,
+      "upscale": 0.477,
+      "crop": [
+        892.0,
+        0.0,
+        2266.0,
+        2832.0
+      ],
+      "band_top": null,
+      "band_height": null,
+      "faces_out": [],
+      "logo_saliency": 1.32,
+      "notes": [
+        "0 face(s) detected"
+      ],
+      "faces_src": [],
+      "frame": "vertical",
+      "out_h": 1350
+    },
+    "upscale": 0.477,
+    "checks": [
+      {
+        "size": 92,
+        "lines": 3,
+        "overflow": false,
+        "text_top": 1183,
+        "fade_start": 713,
+        "solid_from": 1333,
+        "credit_bottom": 1000,
+        "credit_len": 341,
+        "collisions": [],
+        "ui_zone": [],
+        "outside": [],
+        "ui_buttons": [],
+        "orphans": [],
+        "left_edges": {
+          "kicker": 64,
+          "headline": 64,
+          "date": 64
+        },
+        "min_font_px": 30,
+        "truncated": [],
+        "page": "cover",
+        "type": "cover",
+        "zone": "story",
+        "safe": [
+          220,
+          1600
+        ],
+        "scale": 0.477,
+        "photo_h": 1350,
+        "crop": [
+          892,
+          0,
+          3158,
+          2832
+        ],
+        "credit_line": "Image: Toho International",
+        "problems": []
+      }
+    ],
+    "file": "story.jpg"
+  }
+}
