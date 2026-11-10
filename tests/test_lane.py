@@ -31,7 +31,9 @@ class LaneCase(unittest.TestCase):
         root = Path(self.tmp.name)
         self.patches = [mock.patch.object(lane, "QUEUE", root / "queue"),
                         mock.patch.object(lane, "REPORTS", root / "reports"),
-                        mock.patch.object(official_image, "FETCHER", FakeFetcher(og_routes()))]
+                        mock.patch.object(official_image, "FETCHER", FakeFetcher(og_routes())),
+                        # the real state/posted.json must not leak into tests (30-minute gap per account)
+                        mock.patch("pipeline.common.POSTED_FILE", root / "state" / "posted.json")]
         if not self.real_renderer:
             self.patches.append(mock.patch.object(lane, "RENDERER", stub_renderer))
         if not self.real_detector:

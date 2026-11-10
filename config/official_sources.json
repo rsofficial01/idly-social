@@ -14,113 +14,469 @@
   ],
   "updated": "2026-11-10",
   "youtube_channels": [
-    {"name": "Netflix India", "author_url": "https://www.youtube.com/@NetflixIndiaOfficial", "channel_id": "UCZSNzBgFub_WWil6TOTYwAg",
-     "verified": "2026-11-10: channel page verified badge, 29.6M subscribers; oEmbed author_url confirmed"},
-    {"name": "Prime Video India", "author_url": "https://www.youtube.com/@PrimeVideoIN", "channel_id": "UC4zWG9LccdWGUlF77LZ8toA",
-     "verified": "2026-11-10: verified badge, 39.1M subscribers; oEmbed confirmed"},
-    {"name": "JioHotstar", "author_url": "https://www.youtube.com/@JioHotstar", "channel_id": "UC0PTktRYpZXb6On0_zFKWIg",
-     "verified": "2026-11-10: verified badge, 11.7M subscribers; oEmbed confirmed"},
-    {"name": "ZEE5", "author_url": "https://www.youtube.com/@ZEE5", "channel_id": "UCXOgAl4w-FQero1ERbGHpXQ",
-     "verified": "2026-11-10: verified badge, 20M subscribers (channel name 'Zee 5'); oEmbed confirmed"},
-    {"name": "SonyLIV", "author_url": "https://www.youtube.com/@SonyLIV", "channel_id": "UCOQNJjhXwvAScuELTT_i7cQ",
-     "verified": "2026-11-10: verified badge, 27.2M subscribers (channel name 'Sony LIV'); oEmbed confirmed"},
-    {"name": "Sun TV", "author_url": "https://www.youtube.com/@suntv", "channel_id": "UCBnxEdpoZwstJqC1yZpOjRA",
-     "verified": "2026-11-10: verified badge, 33.1M subscribers; oEmbed confirmed"},
-    {"name": "T-Series", "author_url": "https://www.youtube.com/@tseries", "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
-     "verified": "2026-11-10: verified badge, 316M subscribers; oEmbed confirmed"},
-    {"name": "Sony Music South", "author_url": "https://www.youtube.com/@SonyMusicSouthVEVO", "channel_id": "UCTNtRdBAiZtHP9w7JinzfUg",
-     "verified": "2026-11-10: Sony Music South publishes on its VEVO channel (no @SonyMusicSouth handle exists); verified badge, 20M subscribers; oEmbed confirmed"},
-    {"name": "Lyca Productions", "author_url": "https://www.youtube.com/@LycaProductions", "channel_id": "UCA7gwgLgmCZ8DSmdf2bhb8g",
-     "verified": "2026-11-10: verified badge, 4.73M subscribers; oEmbed confirmed"},
-    {"name": "Mythri Movie Makers", "author_url": "https://www.youtube.com/@MythriMovieMakers", "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
-     "verified": "2026-11-10: verified badge, 5.47M subscribers; oEmbed confirmed"},
-    {"name": "Hombale Films", "author_url": "https://www.youtube.com/@HombaleFilms", "channel_id": "UCarJoVXH0T2pdtcHBu9J8Bw",
-     "verified": "2026-11-10: verified badge, 7.2M subscribers; oEmbed confirmed"},
-    {"name": "Yash Raj Films", "author_url": "https://www.youtube.com/@yrf", "channel_id": "UCbTLwN10NoCU4WDzLf1JMOA",
-     "verified": "2026-11-10: verified badge, 73.1M subscribers (channel name 'YRF'); oEmbed confirmed"},
-    {"name": "Dharma Productions", "author_url": "https://www.youtube.com/@DharmaMovies", "channel_id": "UCKQKIY2YlI4L5QVg7hhfjrQ",
-     "verified": "2026-11-10: verified badge, 12.1M subscribers; oEmbed confirmed. NOT @dharmaproductions (69K, unverified lookalike)"},
-    {"name": "Excel Entertainment", "author_url": "https://www.youtube.com/@excelmovies", "channel_id": "UCn9BuiRZGR_tPM2GGT4jN-w",
-     "verified": "2026-11-10: verified badge, 4.75M subscribers (channel name 'Excel Movies'); oEmbed confirmed. NOT @ExcelEntertainment (an unrelated 1.6K channel)"},
-    {"name": "Aha", "author_url": "https://www.youtube.com/@ahaTelugu", "channel_id": "UCmO-jDLU-KUcweCzktuDsbg",
-     "verified": "2026-11-10: aha's main channel (name 'aha videoIN'); verified badge, 3.99M subscribers; oEmbed confirmed"},
-    {"name": "Aha Tamil", "author_url": "https://www.youtube.com/@ahaTamil", "channel_id": "UCqyZfPcrNtfbpmygFSRj-_A",
-     "verified": "2026-11-10: verified badge, 853K subscribers; oEmbed confirmed"},
-    {"name": "Saregama", "author_url": "https://www.youtube.com/@SaregamaMusic", "channel_id": "UC_A7K2dXFsTMAciGmnNxy-Q",
-     "verified": "2026-11-10: verified badge, 65.6M subscribers (channel name 'Saregama Music'); oEmbed confirmed"},
-    {"name": "Saregama Tamil", "author_url": "https://www.youtube.com/@SaregamaTamil", "channel_id": "UCzee67JnEcuvjErRyWP3GpQ",
-     "verified": "2026-11-10: verified badge, 11.2M subscribers; oEmbed confirmed"},
-    {"name": "Saregama Malayalam", "author_url": "https://www.youtube.com/@saregamamalayalam", "channel_id": "UCoRF8GByEjmM_yHwUGIDGyQ",
-     "verified": "2026-11-10: verified badge, 2.66M subscribers; oEmbed confirmed"},
-    {"name": "Think Music", "author_url": "https://www.youtube.com/@thinkmusicofficial", "channel_id": "UCLbdVvreihwZRL6kwuEUYsA",
-     "verified": "2026-11-10: verified badge, 23.1M subscribers (channel name 'Think Music India'); oEmbed confirmed. NOT @THINKMUSIC (an unrelated ASMR channel)"},
-    {"name": "Lahari Music", "author_url": "https://www.youtube.com/@LahariMusicIndia", "channel_id": "UCnSqxrSfo1sK4WZ7nBpYW1Q",
-     "verified": "2026-11-10: verified badge, 19.3M subscribers; oEmbed confirmed"},
-    {"name": "Rockstar Games", "author_url": "https://www.youtube.com/@RockstarGames", "channel_id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
-     "verified": "2026-11-10: rockstargames.com/VI links to youtube.com/rockstargames (= this channel) and to tJbzMqJGH4k on it; verified badge; oEmbed author_url confirmed on GTA VI Trailer 1, Trailer 2 and Launch Trailer"}
+    {
+      "name": "Netflix India",
+      "author_url": "https://www.youtube.com/@NetflixIndiaOfficial",
+      "channel_id": "UCZSNzBgFub_WWil6TOTYwAg",
+      "verified": "2026-11-10: channel page verified badge, 29.6M subscribers; oEmbed author_url confirmed"
+    },
+    {
+      "name": "Prime Video India",
+      "author_url": "https://www.youtube.com/@PrimeVideoIN",
+      "channel_id": "UC4zWG9LccdWGUlF77LZ8toA",
+      "verified": "2026-11-10: verified badge, 39.1M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "JioHotstar",
+      "author_url": "https://www.youtube.com/@JioHotstar",
+      "channel_id": "UC0PTktRYpZXb6On0_zFKWIg",
+      "verified": "2026-11-10: verified badge, 11.7M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "ZEE5",
+      "author_url": "https://www.youtube.com/@ZEE5",
+      "channel_id": "UCXOgAl4w-FQero1ERbGHpXQ",
+      "verified": "2026-11-10: verified badge, 20M subscribers (channel name 'Zee 5'); oEmbed confirmed"
+    },
+    {
+      "name": "SonyLIV",
+      "author_url": "https://www.youtube.com/@SonyLIV",
+      "channel_id": "UCOQNJjhXwvAScuELTT_i7cQ",
+      "verified": "2026-11-10: verified badge, 27.2M subscribers (channel name 'Sony LIV'); oEmbed confirmed"
+    },
+    {
+      "name": "Sun TV",
+      "author_url": "https://www.youtube.com/@suntv",
+      "channel_id": "UCBnxEdpoZwstJqC1yZpOjRA",
+      "verified": "2026-11-10: verified badge, 33.1M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "T-Series",
+      "author_url": "https://www.youtube.com/@tseries",
+      "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "verified": "2026-11-10: verified badge, 316M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Sony Music South",
+      "author_url": "https://www.youtube.com/@SonyMusicSouthVEVO",
+      "channel_id": "UCTNtRdBAiZtHP9w7JinzfUg",
+      "verified": "2026-11-10: Sony Music South publishes on its VEVO channel (no @SonyMusicSouth handle exists); verified badge, 20M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Lyca Productions",
+      "author_url": "https://www.youtube.com/@LycaProductions",
+      "channel_id": "UCA7gwgLgmCZ8DSmdf2bhb8g",
+      "verified": "2026-11-10: verified badge, 4.73M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Mythri Movie Makers",
+      "author_url": "https://www.youtube.com/@MythriMovieMakers",
+      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
+      "verified": "2026-11-10: verified badge, 5.47M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Hombale Films",
+      "author_url": "https://www.youtube.com/@HombaleFilms",
+      "channel_id": "UCarJoVXH0T2pdtcHBu9J8Bw",
+      "verified": "2026-11-10: verified badge, 7.2M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Yash Raj Films",
+      "author_url": "https://www.youtube.com/@yrf",
+      "channel_id": "UCbTLwN10NoCU4WDzLf1JMOA",
+      "verified": "2026-11-10: verified badge, 73.1M subscribers (channel name 'YRF'); oEmbed confirmed"
+    },
+    {
+      "name": "Dharma Productions",
+      "author_url": "https://www.youtube.com/@DharmaMovies",
+      "channel_id": "UCKQKIY2YlI4L5QVg7hhfjrQ",
+      "verified": "2026-11-10: verified badge, 12.1M subscribers; oEmbed confirmed. NOT @dharmaproductions (69K, unverified lookalike)"
+    },
+    {
+      "name": "Excel Entertainment",
+      "author_url": "https://www.youtube.com/@excelmovies",
+      "channel_id": "UCn9BuiRZGR_tPM2GGT4jN-w",
+      "verified": "2026-11-10: verified badge, 4.75M subscribers (channel name 'Excel Movies'); oEmbed confirmed. NOT @ExcelEntertainment (an unrelated 1.6K channel)"
+    },
+    {
+      "name": "Aha",
+      "author_url": "https://www.youtube.com/@ahaTelugu",
+      "channel_id": "UCmO-jDLU-KUcweCzktuDsbg",
+      "verified": "2026-11-10: aha's main channel (name 'aha videoIN'); verified badge, 3.99M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Aha Tamil",
+      "author_url": "https://www.youtube.com/@ahaTamil",
+      "channel_id": "UCqyZfPcrNtfbpmygFSRj-_A",
+      "verified": "2026-11-10: verified badge, 853K subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Saregama",
+      "author_url": "https://www.youtube.com/@SaregamaMusic",
+      "channel_id": "UC_A7K2dXFsTMAciGmnNxy-Q",
+      "verified": "2026-11-10: verified badge, 65.6M subscribers (channel name 'Saregama Music'); oEmbed confirmed"
+    },
+    {
+      "name": "Saregama Tamil",
+      "author_url": "https://www.youtube.com/@SaregamaTamil",
+      "channel_id": "UCzee67JnEcuvjErRyWP3GpQ",
+      "verified": "2026-11-10: verified badge, 11.2M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Saregama Malayalam",
+      "author_url": "https://www.youtube.com/@saregamamalayalam",
+      "channel_id": "UCoRF8GByEjmM_yHwUGIDGyQ",
+      "verified": "2026-11-10: verified badge, 2.66M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Think Music",
+      "author_url": "https://www.youtube.com/@thinkmusicofficial",
+      "channel_id": "UCLbdVvreihwZRL6kwuEUYsA",
+      "verified": "2026-11-10: verified badge, 23.1M subscribers (channel name 'Think Music India'); oEmbed confirmed. NOT @THINKMUSIC (an unrelated ASMR channel)"
+    },
+    {
+      "name": "Lahari Music",
+      "author_url": "https://www.youtube.com/@LahariMusicIndia",
+      "channel_id": "UCnSqxrSfo1sK4WZ7nBpYW1Q",
+      "verified": "2026-11-10: verified badge, 19.3M subscribers; oEmbed confirmed"
+    },
+    {
+      "name": "Rockstar Games",
+      "author_url": "https://www.youtube.com/@RockstarGames",
+      "channel_id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+      "verified": "2026-11-10: rockstargames.com/VI links to youtube.com/rockstargames (= this channel) and to tJbzMqJGH4k on it; verified badge; oEmbed author_url confirmed on GTA VI Trailer 1, Trailer 2 and Launch Trailer"
+    },
+    {
+      "name": "Sony Music South",
+      "author_url": "https://www.youtube.com/@SonyMusicSouthOfficial",
+      "channel_id": null,
+      "verified": "2026-11-10: main 'Sony Music South – Official Channel' (Sony Music Entertainment India's South label, ~21.5M subscribers per Qoruz/Wikipedia channel notes); oEmbed author_url seen in the lane report for the Scene trailer. Added in the main session under Rahul's instruction to automate official image sourcing."
+    },
+    {
+      "name": "World Of Ramayana",
+      "author_url": "https://www.youtube.com/@WorldOfRamayana",
+      "channel_id": null,
+      "verified": "2026-11-10: the Ramayana films' own channel; LatestLY credits the trailer to the 'Official YouTube Channel of World Of Ramayana'; producer pages use the same 'World of Ramayana' title (dneg.com/news/witness-the-world-of-ramayana, redefine.co/news/discover-the-world-of-ramayana). oEmbed author_url from the lane report."
+    },
+    {
+      "name": "Vels Music International",
+      "author_url": "https://www.youtube.com/@VelsMusicInternational",
+      "channel_id": null,
+      "verified": "2026-11-10: music label of Vels Film International (producer of Mookuthi Amman 2); Vels Film International shared the trailer link on X (IANS, 21 Oct 2026). oEmbed author_url from the lane report."
+    }
   ],
   "pending_review": [
-    {"name": "Saregama Telugu", "tried": ["@SaregamaTelugu", "@SaregamaTeluguOfficial"],
-     "why": "no channel found at these handles on 2026-11-10; find the official handle, confirm it, then move it to youtube_channels"}
+    {
+      "name": "Saregama Telugu",
+      "tried": [
+        "@SaregamaTelugu",
+        "@SaregamaTeluguOfficial"
+      ],
+      "why": "no channel found at these handles on 2026-11-10; find the official handle, confirm it, then move it to youtube_channels"
+    }
   ],
   "official_domains": [
-    {"domain": "about.netflix.com", "organisation": "Netflix"},
-    {"domain": "press.amazon.com", "organisation": "Amazon"},
-    {"domain": "aboutamazon.in", "organisation": "Amazon India"},
-    {"domain": "marutisuzuki.com", "organisation": "Maruti Suzuki"},
-    {"domain": "tatamotors.com", "organisation": "Tata Motors"},
-    {"domain": "apple.com", "organisation": "Apple", "path_prefixes": ["/newsroom", "/in/newsroom"]},
-    {"domain": "blog.google", "organisation": "Google"},
-    {"domain": "about.fb.com", "organisation": "Meta"},
-    {"domain": "about.whatsapp.com", "organisation": "WhatsApp"},
-    {"domain": "blog.whatsapp.com", "organisation": "WhatsApp"},
-    {"domain": "sony.com", "organisation": "Sony"},
-    {"domain": "samsung.com", "organisation": "Samsung", "path_prefixes": ["/in/newsroom"]},
-    {"domain": "news.samsung.com", "organisation": "Samsung"},
-    {"domain": "jiohotstar.com", "organisation": "JioHotstar"},
-    {"domain": "hotstar.com", "organisation": "JioHotstar"},
-    {"domain": "zee5.com", "organisation": "ZEE5"},
-    {"domain": "sonyliv.com", "organisation": "Sony LIV"},
-    {"domain": "aha.video", "organisation": "Aha"},
-    {"domain": "sunnetwork.in", "organisation": "Sun TV Network"},
-    {"domain": "yashrajfilms.com", "organisation": "Yash Raj Films"},
-    {"domain": "dharma-production.com", "organisation": "Dharma Productions"},
-    {"domain": "excelmovies.com", "organisation": "Excel Entertainment"},
-    {"domain": "hombalefilms.com", "organisation": "Hombale Films"},
-    {"domain": "lycaproductions.in", "organisation": "Lyca Productions"},
-    {"domain": "mythrimoviemakers.com", "organisation": "Mythri Movie Makers"},
-    {"domain": "tseries.com", "organisation": "T-Series"},
-    {"domain": "saregama.com", "organisation": "Saregama"},
-    {"domain": "laharimusic.com", "organisation": "Lahari Music"},
-    {"domain": "rockstargames.com", "organisation": "Rockstar Games", "path_prefixes": ["/newswire", "/VI"]}
+    {
+      "domain": "about.netflix.com",
+      "organisation": "Netflix"
+    },
+    {
+      "domain": "press.amazon.com",
+      "organisation": "Amazon"
+    },
+    {
+      "domain": "aboutamazon.in",
+      "organisation": "Amazon India"
+    },
+    {
+      "domain": "marutisuzuki.com",
+      "organisation": "Maruti Suzuki"
+    },
+    {
+      "domain": "tatamotors.com",
+      "organisation": "Tata Motors"
+    },
+    {
+      "domain": "apple.com",
+      "organisation": "Apple",
+      "path_prefixes": [
+        "/newsroom",
+        "/in/newsroom"
+      ]
+    },
+    {
+      "domain": "blog.google",
+      "organisation": "Google"
+    },
+    {
+      "domain": "about.fb.com",
+      "organisation": "Meta"
+    },
+    {
+      "domain": "about.whatsapp.com",
+      "organisation": "WhatsApp"
+    },
+    {
+      "domain": "blog.whatsapp.com",
+      "organisation": "WhatsApp"
+    },
+    {
+      "domain": "sony.com",
+      "organisation": "Sony"
+    },
+    {
+      "domain": "samsung.com",
+      "organisation": "Samsung",
+      "path_prefixes": [
+        "/in/newsroom"
+      ]
+    },
+    {
+      "domain": "news.samsung.com",
+      "organisation": "Samsung"
+    },
+    {
+      "domain": "jiohotstar.com",
+      "organisation": "JioHotstar"
+    },
+    {
+      "domain": "hotstar.com",
+      "organisation": "JioHotstar"
+    },
+    {
+      "domain": "zee5.com",
+      "organisation": "ZEE5"
+    },
+    {
+      "domain": "sonyliv.com",
+      "organisation": "Sony LIV"
+    },
+    {
+      "domain": "aha.video",
+      "organisation": "Aha"
+    },
+    {
+      "domain": "sunnetwork.in",
+      "organisation": "Sun TV Network"
+    },
+    {
+      "domain": "yashrajfilms.com",
+      "organisation": "Yash Raj Films"
+    },
+    {
+      "domain": "dharma-production.com",
+      "organisation": "Dharma Productions"
+    },
+    {
+      "domain": "excelmovies.com",
+      "organisation": "Excel Entertainment"
+    },
+    {
+      "domain": "hombalefilms.com",
+      "organisation": "Hombale Films"
+    },
+    {
+      "domain": "lycaproductions.in",
+      "organisation": "Lyca Productions"
+    },
+    {
+      "domain": "mythrimoviemakers.com",
+      "organisation": "Mythri Movie Makers"
+    },
+    {
+      "domain": "tseries.com",
+      "organisation": "T-Series"
+    },
+    {
+      "domain": "saregama.com",
+      "organisation": "Saregama"
+    },
+    {
+      "domain": "laharimusic.com",
+      "organisation": "Lahari Music"
+    },
+    {
+      "domain": "rockstargames.com",
+      "organisation": "Rockstar Games",
+      "path_prefixes": [
+        "/newswire",
+        "/VI"
+      ]
+    }
   ],
   "denied_domains": [
-    "123telugu.com", "cinemaexpress.com", "indiatimes.com", "timesofindia.com", "ndtv.com", "hindustantimes.com",
-    "indianexpress.com", "newindianexpress.com", "thehindu.com", "thehindubusinessline.com", "news18.com", "indiatoday.in",
-    "aajtak.in", "intoday.in", "zeenews.india.com", "india.com", "dnaindia.com", "wionews.com", "livemint.com",
-    "moneycontrol.com", "business-standard.com", "financialexpress.com", "firstpost.com", "thequint.com", "scroll.in",
-    "theprint.in", "thewire.in", "deccanherald.com", "deccanchronicle.com", "tribuneindia.com", "telegraphindia.com",
-    "republicworld.com", "abplive.com", "oneindia.com", "filmibeat.com", "pinkvilla.com", "bollywoodhungama.com",
-    "koimoi.com", "filmfare.com", "idlebrain.com", "greatandhra.com", "gulte.com", "sakshi.com", "eenadu.net",
-    "manoramaonline.com", "onmanorama.com", "mathrubhumi.com", "dailythanthi.com", "dinamalar.com", "vikatan.com",
-    "behindwoods.com", "indiaglitz.com", "sify.com", "siasat.com", "outlookindia.com", "mid-day.com",
-    "freepressjournal.in", "lokmattimes.com", "lokmat.com", "jagran.com", "bhaskar.com", "amarujala.com",
-    "livehindustan.com", "navbharattimes.indiatimes.com", "asianetnews.com", "tv9telugu.com", "tv9hindi.com",
-    "autocarindia.com", "carwale.com", "cardekho.com", "zigwheels.com", "rushlane.com", "team-bhp.com",
-    "91mobiles.com", "gadgets360.com", "gadgetsnow.com", "smartprix.com",
-    "ptinews.com", "aninews.in", "ianslive.in", "ians.in", "uniindia.com", "apnews.com", "ap.org", "apimages.com",
-    "reuters.com", "reutersconnect.com", "gettyimages.com", "gettyimages.in", "gettyimages.co.uk", "istockphoto.com",
-    "afp.com", "shutterstock.com", "alamy.com", "dreamstime.com", "agefotostock.com",
-    "bbc.com", "bbc.co.uk", "cnn.com", "nytimes.com", "theguardian.com", "washingtonpost.com", "wsj.com", "ft.com",
-    "bloomberg.com", "cnbc.com", "forbes.com", "reuters.tv", "aljazeera.com", "dw.com", "france24.com", "abc.net.au",
-    "cbsnews.com", "nbcnews.com", "foxnews.com", "usatoday.com", "latimes.com", "npr.org", "time.com", "newsweek.com",
-    "independent.co.uk", "dailymail.co.uk", "thesun.co.uk", "mirror.co.uk", "telegraph.co.uk", "skynews.com",
-    "variety.com", "hollywoodreporter.com", "deadline.com", "indiewire.com", "screenrant.com", "collider.com",
-    "ign.com", "polygon.com", "kotaku.com", "theverge.com", "techcrunch.com", "engadget.com", "wired.com",
-    "arstechnica.com", "gsmarena.com", "motor1.com", "carscoops.com", "autocar.co.uk", "topgear.com",
-    "yahoo.com", "msn.com", "news.google.com", "flipboard.com", "dailyhunt.in", "inshorts.com",
-    "wikipedia.org", "wikimedia.org", "imdb.com", "pinterest.com", "instagram.com", "facebook.com",
-    "x.com", "twitter.com", "threads.net", "tiktok.com", "reddit.com", "youtube.com", "youtu.be"
+    "123telugu.com",
+    "cinemaexpress.com",
+    "indiatimes.com",
+    "timesofindia.com",
+    "ndtv.com",
+    "hindustantimes.com",
+    "indianexpress.com",
+    "newindianexpress.com",
+    "thehindu.com",
+    "thehindubusinessline.com",
+    "news18.com",
+    "indiatoday.in",
+    "aajtak.in",
+    "intoday.in",
+    "zeenews.india.com",
+    "india.com",
+    "dnaindia.com",
+    "wionews.com",
+    "livemint.com",
+    "moneycontrol.com",
+    "business-standard.com",
+    "financialexpress.com",
+    "firstpost.com",
+    "thequint.com",
+    "scroll.in",
+    "theprint.in",
+    "thewire.in",
+    "deccanherald.com",
+    "deccanchronicle.com",
+    "tribuneindia.com",
+    "telegraphindia.com",
+    "republicworld.com",
+    "abplive.com",
+    "oneindia.com",
+    "filmibeat.com",
+    "pinkvilla.com",
+    "bollywoodhungama.com",
+    "koimoi.com",
+    "filmfare.com",
+    "idlebrain.com",
+    "greatandhra.com",
+    "gulte.com",
+    "sakshi.com",
+    "eenadu.net",
+    "manoramaonline.com",
+    "onmanorama.com",
+    "mathrubhumi.com",
+    "dailythanthi.com",
+    "dinamalar.com",
+    "vikatan.com",
+    "behindwoods.com",
+    "indiaglitz.com",
+    "sify.com",
+    "siasat.com",
+    "outlookindia.com",
+    "mid-day.com",
+    "freepressjournal.in",
+    "lokmattimes.com",
+    "lokmat.com",
+    "jagran.com",
+    "bhaskar.com",
+    "amarujala.com",
+    "livehindustan.com",
+    "navbharattimes.indiatimes.com",
+    "asianetnews.com",
+    "tv9telugu.com",
+    "tv9hindi.com",
+    "autocarindia.com",
+    "carwale.com",
+    "cardekho.com",
+    "zigwheels.com",
+    "rushlane.com",
+    "team-bhp.com",
+    "91mobiles.com",
+    "gadgets360.com",
+    "gadgetsnow.com",
+    "smartprix.com",
+    "ptinews.com",
+    "aninews.in",
+    "ianslive.in",
+    "ians.in",
+    "uniindia.com",
+    "apnews.com",
+    "ap.org",
+    "apimages.com",
+    "reuters.com",
+    "reutersconnect.com",
+    "gettyimages.com",
+    "gettyimages.in",
+    "gettyimages.co.uk",
+    "istockphoto.com",
+    "afp.com",
+    "shutterstock.com",
+    "alamy.com",
+    "dreamstime.com",
+    "agefotostock.com",
+    "bbc.com",
+    "bbc.co.uk",
+    "cnn.com",
+    "nytimes.com",
+    "theguardian.com",
+    "washingtonpost.com",
+    "wsj.com",
+    "ft.com",
+    "bloomberg.com",
+    "cnbc.com",
+    "forbes.com",
+    "reuters.tv",
+    "aljazeera.com",
+    "dw.com",
+    "france24.com",
+    "abc.net.au",
+    "cbsnews.com",
+    "nbcnews.com",
+    "foxnews.com",
+    "usatoday.com",
+    "latimes.com",
+    "npr.org",
+    "time.com",
+    "newsweek.com",
+    "independent.co.uk",
+    "dailymail.co.uk",
+    "thesun.co.uk",
+    "mirror.co.uk",
+    "telegraph.co.uk",
+    "skynews.com",
+    "variety.com",
+    "hollywoodreporter.com",
+    "deadline.com",
+    "indiewire.com",
+    "screenrant.com",
+    "collider.com",
+    "ign.com",
+    "polygon.com",
+    "kotaku.com",
+    "theverge.com",
+    "techcrunch.com",
+    "engadget.com",
+    "wired.com",
+    "arstechnica.com",
+    "gsmarena.com",
+    "motor1.com",
+    "carscoops.com",
+    "autocar.co.uk",
+    "topgear.com",
+    "yahoo.com",
+    "msn.com",
+    "news.google.com",
+    "flipboard.com",
+    "dailyhunt.in",
+    "inshorts.com",
+    "wikipedia.org",
+    "wikimedia.org",
+    "imdb.com",
+    "pinterest.com",
+    "instagram.com",
+    "facebook.com",
+    "x.com",
+    "twitter.com",
+    "threads.net",
+    "tiktok.com",
+    "reddit.com",
+    "youtube.com",
+    "youtu.be"
   ],
-  "denied_agencies": ["reuters", "reuters connect", "getty", "getty images", "afp", "shutterstock", "alamy"]
+  "denied_agencies": [
+    "reuters",
+    "reuters connect",
+    "getty",
+    "getty images",
+    "afp",
+    "shutterstock",
+    "alamy"
+  ]
 }
