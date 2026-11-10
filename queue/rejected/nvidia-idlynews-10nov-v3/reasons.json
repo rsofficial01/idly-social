@@ -1,0 +1,8 @@
+{
+  "slug": "nvidia-idlynews-10nov-v3",
+  "stage": "review",
+  "reasons": [
+    "Blind review 13/14 and every fact checked out, but one hard-rule break: the caption names Alice Huang, a private individual (former Megaspeed executive, no charges), next to an unproven allegation ('whom U.S. intelligence agencies reportedly believe is a Chinese spy') and as the affair partner. Remove her name (describe by role or drop). Also: inner-slide headlines on slides 2, 3 and 6 are sentence case, not Title Case. Consider cutting the 'unfaithful to my wife' quote on slide 2 (personal-life). Read 1: repetition across slides, slide 5 has a '01' with no 02, slide 6's kicker doesn't match its headline. Minor: slide 6's source line doesn't support the China-lobbying claim; image source URL not recorded (prebuilt); ICICI's 8.35% weight has one undated source. With those fixes it should clear the gate."
+  ],
+  "rejected_at": "2026-11-10T04:35:34+00:00"
+}
