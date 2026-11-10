@@ -1,0 +1,30 @@
+{
+  "slug": "ultraviolette-x47-10nov",
+  "account": "idlyautomotive",
+  "story_id": 1510,
+  "idly_article": true,
+  "evergreen": false,
+  "headline": "idlyautomotive_02",
+  "caption": "Ultraviolette's X-47 Venom electric motorcycle is out at an introductory ₹2.65 lakh for the first 5,000 buyers, then ₹3 lakh.\n\nThe company claims 343 km of range (IDC), 155 km/h and 0–100 km/h in 5.9 seconds. These are its own figures, not independently tested. It has an 11 kWh battery and supports 12 kW DC fast charging. Bookings are open on Ultraviolette's website and at its UV Space Stations, and deliveries start in November.\n\nHow many km do you ride on a normal day?\n\nFull story on idly.news (link in bio).\n\n#Ultraviolette #ElectricBike #EV #idlyauto\n\nPhoto: Ultraviolette. Official X-47 Venom studio image (Afterburner Yellow) from ultraviolette.com; studio background extended.",
+  "caption_final": "Ultraviolette's X-47 Venom electric motorcycle is out at an introductory ₹2.65 lakh for the first 5,000 buyers, then ₹3 lakh.\n\nThe company claims 343 km of range (IDC), 155 km/h and 0–100 km/h in 5.9 seconds. These are its own figures, not independently tested. It has an 11 kWh battery and supports 12 kW DC fast charging. Bookings are open on Ultraviolette's website and at its UV Space Stations, and deliveries start in November.\n\nHow many km do you ride on a normal day?\n\nFull story on idly.news (link in bio).\n\n#Ultraviolette #ElectricBike #EV #idlyauto\n\nPhoto: Ultraviolette. Official X-47 Venom studio image (Afterburner Yellow) from ultraviolette.com; studio background extended.",
+  "alt_text": "",
+  "image_credit": "Photo: Ultraviolette. Official X-47 Venom studio image (Afterburner Yellow) from ultraviolette.com; studio background extended.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "All checks strong: price, intro-price limit, claimed range and specs (labelled as company claims), where to book and delivery month. Question changed to a reader's own daily distance (was a yes/no poll). Fresh 10 Nov: idly 1510 unchanged. New cover: official Ultraviolette studio side profile, whole bike above the headline. Self: 14/14; reviewer: pending (blind review not yet run: this session had no Agent tool). Not cleared to publish until a fresh blind reviewer scores it; the post's score is the lower of the two. | reviewer: 13/14 (blind, 10 Nov); only blocker was 'Tell us below.', removed. Final = lower of each check."
+    }
+  },
+  "created_at": "2026-11-10T04:04:27+00:00",
+  "lane": {
+    "source": "prebuilt",
+    "folder": "posts/2026-11-10/idlyautomotive_02"
+  }
+}

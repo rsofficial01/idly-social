@@ -1,0 +1,30 @@
+{
+  "slug": "nvidia-idlynews-10nov",
+  "account": "idlynews",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "headline": "nvidia_idlynews",
+  "caption": "Nvidia lost about $192 billion in market value on Monday, Nov 9, as its shares fell 4.27% to $178.67.\n\nOn Sunday (U.S. time), its board opened an independent investigation into CEO Jensen Huang, run by independent directors with outside counsel. In a memo to staff, Huang wrote: \"I was unfaithful to my wife.\" Fortune and CBS News link the affair to Alice Huang (no relation), a former Megaspeed executive whom U.S. intelligence agencies reportedly believe is a Chinese spy. No charges have been reported, and China's foreign ministry calls the \"spy narrative\" \"entirely baseless.\"\n\nThe board says it has no reason to believe national security or Nvidia secrets were compromised. Huang remains CEO, and no findings or timeline have been announced.\n\nDates to watch: Nvidia's earnings on Nov 17 (3:30 AM IST, Nov 18), and a closed-door House briefing on Nov 18 that three committee chairs have requested.\n\nIf you invest from India: on Sep 30, Nvidia was about 8% of the Motilal Oswal and ICICI Prudential Nasdaq-100 funds, their biggest holding. Information, not investment advice.\n\nWhen a company investigates its own CEO, should it publish what it finds?\n\nSources: The New York Times, CBS News, Fortune, Yahoo Finance, Nvidia board statement, Nvidia 10-Q, House Foreign Affairs Committee, Motilal Oswal and ICICI Prudential factsheets.\n\n#idlynews #Nvidia #JensenHuang #NVDA #Markets\n\nPhoto: NVIDIA",
+  "caption_final": "Nvidia lost about $192 billion in market value on Monday, Nov 9, as its shares fell 4.27% to $178.67.\n\nOn Sunday (U.S. time), its board opened an independent investigation into CEO Jensen Huang, run by independent directors with outside counsel. In a memo to staff, Huang wrote: \"I was unfaithful to my wife.\" Fortune and CBS News link the affair to Alice Huang (no relation), a former Megaspeed executive whom U.S. intelligence agencies reportedly believe is a Chinese spy. No charges have been reported, and China's foreign ministry calls the \"spy narrative\" \"entirely baseless.\"\n\nThe board says it has no reason to believe national security or Nvidia secrets were compromised. Huang remains CEO, and no findings or timeline have been announced.\n\nDates to watch: Nvidia's earnings on Nov 17 (3:30 AM IST, Nov 18), and a closed-door House briefing on Nov 18 that three committee chairs have requested.\n\nIf you invest from India: on Sep 30, Nvidia was about 8% of the Motilal Oswal and ICICI Prudential Nasdaq-100 funds, their biggest holding. Information, not investment advice.\n\nWhen a company investigates its own CEO, should it publish what it finds?\n\nSources: The New York Times, CBS News, Fortune, Yahoo Finance, Nvidia board statement, Nvidia 10-Q, House Foreign Affairs Committee, Motilal Oswal and ICICI Prudential factsheets.\n\n#idlynews #Nvidia #JensenHuang #NVDA #Markets\n\nPhoto: NVIDIA",
+  "alt_text": "1: NVIDIA's GB200 Grace Blackwell Superchip board on black, under the headline \"$192B Wiped Off Nvidia as Its Board Probes Its CEO\"",
+  "image_credit": "Photo: NVIDIA",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "Keep 1: only two dates (Nov 17 earnings, Nov 18 requested briefing) on slide 2, nothing else to save. Send: market-moving for anyone holding Nvidia or a Nasdaq-100 fund. No idly.news article exists; caption lists sources instead."
+    }
+  },
+  "created_at": "2026-11-10T04:04:27+00:00",
+  "lane": {
+    "source": "prebuilt",
+    "folder": "posts/2026-11-10/nvidia_idlynews"
+  }
+}
