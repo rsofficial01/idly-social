@@ -1,0 +1,31 @@
+{
+ "account": "idlynews",
+ "title": "Telangana HC (Justice K Lakshman, reported 9 Nov 2026) sentences Ranga Reddy Collector C Narayana Reddy (IAS) to six months' simple imprisonment and a ₹2,000 fine for contempt, suspended for four weeks so he can appeal; he had been told in August 2025 to decide within 60 days a plea to take plots off the Section 22-A prohibitory list; contempt filed 15 Oct 2025; plea rejected 26 Feb and 8 Jul 2026; court called part of his counter-affidavit 'palpably false': 'Right or wrong, the order has to be obeyed'; no response reported",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://newsmeter.in/hyderabad/why-has-telangana-hc-sentenced-ranga-reddy-collector-to-6-months-in-jail-778993",
+  "https://indialegallive.com/constitutional-law-news/courts-news/telangana-high-court-sentences-ranga-reddy-district-collector-to-six-months-jail-for-contempt-suspends-sentence-for-four-weeks/",
+  "https://www.siasat.com/telangana-hc-sentences-rangareddy-collector-to-6-months-in-jail-3572994/",
+  "https://www.newsx.com/regionals/telangana-high-court-sentences-ranga-reddy-collector-to-6-months-in-jail-for-contempt-grants-4-week-relief-291028/ (read by the reviewer: 'to enable the Collector to file an appeal')"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:High_Court_Of_Telangana_State.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/High_Court_Of_Telangana_State.jpg/3840px-High_Court_Of_Telangana_State.jpg (3840x2880 Commons rendition of the 8192x6144 original; saved as _work/2026-11-11-hourly-0127/idlynews/photos/tshc/tshc_kck_3840.jpg, sha1 dcf35d3b1439056e68c552596ec423e529070d59)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Kavali Chandrakanth KCK",
+  "credit": "Photo: Kavali Chandrakanth KCK / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "subject": "The High Court for the State of Telangana building, Afzal Gunj, Hyderabad (the court that passed the order), photographed from across the Musi on 21 Aug 2025 (EXIF), own work",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces. Full-bleed cardkit hype cover, focal (0.62, 0.29), zoom 1.7: crop 1355x1694 from the top of the frame (x 1704-3059), downscaled 0.797 to 1080x1350; no upscale, no fill, no blur, no letterbox, no recolour. Central dome ~y 290-550 left of the centred logo; right dome ~y 610-740; headline from y 1016 over trees. Scrim 0.62."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (Telangana HC contempt sentence); B Chhath stage at Girgaon Chowpatty (about 10: no number, narrow, take-sides question) and C Hamilton ODI washout (sports has no account; no-result) dropped. 10 fixes applied: no 'rare/first' or 2021 history; suspension 'so he can appeal' on slide 2 and caption para 1; petitioners not named, no survey numbers, Collector named only as an official and not on the cover; 'reported 9 November', no order date; a number/date stat on every detail slide; 22-A explained plainly; neutral 'the court held/found'; question from readers' lives; Sources NewsMeter, India Legal, Siasat; crop on the central domed facade with no upscale.",
+  "g2": "FIX (card copy), applied word for word: slide 3 bullet 1 'To rule on taking plots off the 22-A list'; slide 4 bullets 'The court called part of his affidavit 'palpably false'' and the exact quote alone; slide 4 stat '26 FEB 2026', label 'Collector Rejected the Plea, Again on 8 July'; slide 2 filler bullets replaced by 'The court found he wilfully disobeyed its order'. Caption PASS. NewsX added to sources. card_problems [] on all slides; post_problems ([], []).",
+  "g3": "PASS: CC BY-SA 4.0 Kavali Chandrakanth KCK, actual court building, no watermark, no person in the crop (a possible figure on the riverside wall is outside it), downscaled not upscaled, domes clear of the logo and the headline.",
+  "g4": "PASS (blind reviewer) 12/14: hook 2, read 2, send 1 (mainly Telangana plot owners), keep 1 (nothing a general reader would save), reply 2, original 2, alone 2. All 4 slides at full size: no overlap, one left edge, white headlines, nothing cut off, full-bleed downscaled 0.797, sharp; credit top third lower-contrast over sky but readable. Self 12/14; final 12/14."
+ }
+}

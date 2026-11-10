@@ -1,0 +1,54 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0127-telangana-hc-collector-contempt",
+  "date": "11 Nov 2026",
+  "sources": [
+    "NewsMeter",
+    "India Legal",
+    "Siasat"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Telangana HC Gives District Collector 6 Months' Jail for Contempt",
+      "photo": "_work/2026-11-11-hourly-0127/idlynews/photos/tshc/tshc_kck_3840.jpg",
+      "photo_credit": "Photo: Kavali Chandrakanth KCK / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "focal": [
+        0.62,
+        0.29
+      ],
+      "zoom": 1.7
+    },
+    {
+      "type": "detail",
+      "stat": "4 WEEKS",
+      "stat_label": "Sentence Suspended So He Can Appeal",
+      "bullets": [
+        "Ranga Reddy Collector C Narayana Reddy, IAS, fined ₹2,000",
+        "The court found he wilfully disobeyed its order"
+      ],
+      "credit_line": "Sources: NewsMeter, India Legal, Siasat"
+    },
+    {
+      "type": "detail",
+      "stat": "60 DAYS",
+      "stat_label": "The Deadline the Court Set in August 2025",
+      "bullets": [
+        "To rule on taking plots off the 22-A list",
+        "Plots on that list can't be registered for sale",
+        "Notices went out only after contempt was filed"
+      ],
+      "credit_line": "Sources: NewsMeter, India Legal, Siasat"
+    },
+    {
+      "type": "detail",
+      "stat": "26 FEB 2026",
+      "stat_label": "Collector Rejected the Plea, Again on 8 July",
+      "bullets": [
+        "The court called part of his affidavit 'palpably false'",
+        "'Right or wrong, the order has to be obeyed'"
+      ],
+      "credit_line": "Sources: NewsMeter, India Legal"
+    }
+  ]
+}

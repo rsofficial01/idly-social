@@ -1,0 +1,13 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "hook 2: '6 Months'' on the cover with a clear stake (a sitting district Collector sentenced for ignoring a court order) over a strong full-bleed shot of the court; regional and 2 days old, so only just a 2. read 2: each slide moves the story on (suspension, then the order, then what he did, then the court's words); small nit: 'Notices went out' doesn't say to whom. send 1: forwarded mainly by Telangana plot owners stuck on the 22-A list or people waiting on an official; no broad national send reason. keep 1: the 22-A explanation is useful to Telangana plot owners, but there's no date, deadline or step a general reader would save. reply 2: 'Has a government office ever kept you waiting past its own deadline?' is answered from readers' own lives, one '?'. original 2: idly's own synthesis of 3 sources, Commons photo credited. alone 2: the cover plus the 3 slides make sense without the caption. Layout checks on all 4 slides at full size: no overlap or touching text; cover headline and footer share one left edge (x 50), detail labels and bullets share x 72; white headlines, nothing grey; nothing cut off; the cover is full-bleed (downscaled 0.797, no upscale), with no letterbox, box or blurred fill, and it is sharp; the dome is whole and clear of the logo and the headline block (top 1016); the vertical credit is present and legible, its top third lower-contrast over pale sky but readable; a dark blob of about 12x22 px beside the small right dome is featureless (bird or masonry), not an identifiable person; Sources lines on slides 2-4 sit above the footer rule; render_report: no overflow, credit_collision [], credit_truncated false, no UPSCALED. The empty band above the stat on the detail slides is the template's standard layout. No LEAK in the packet.",
+ "verdict": "PASS",
+ "reviewer": "blind reviewer, run 0127"
+}
