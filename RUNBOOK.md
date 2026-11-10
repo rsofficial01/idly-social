@@ -251,6 +251,8 @@ publishing limit (we stop at 25 posts per 24 h) and, for `graph.instagram.com` t
 
 ### 3. Pick a story per account
 
+Every run, hourly ones included: read `state/learnings.md` (the weekly numbers report's guidance) before choosing stories.
+
 Go down that account's candidates in rank order. For each one, read the full article:
 `curl -s https://api.idly.news/api/v1/articles/<id>/`, which has the `content` field. Apply the
 editorial rules. Don't post the same story on two accounts. Prefer stories with a hard number or date.
