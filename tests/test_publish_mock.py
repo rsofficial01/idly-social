@@ -27,6 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from PIL import Image  # noqa: E402
 
 from pipeline import common, publish  # noqa: E402
+from tests.lane_helpers import mp4_bytes  # noqa: E402
 from tests.test_editorial import GOOD_CAPTION, GOOD_SCORE  # noqa: E402
 
 TOKEN = "FAKE-SYSTEM-USER-TOKEN-do-not-leak-123"
@@ -54,6 +55,8 @@ class FakeGraph(BaseHTTPRequestHandler):
     polls: dict = {}
     containers: dict = {}
     quota_usage = 3
+    reel_error_urls: set = set()     # video_url values whose container ends in ERROR (Meta couldn't use the file)
+    uploads: list = []               # rupload.facebook.com calls: (path, headers, size)
 
     def log_message(self, *a):
         pass
@@ -69,8 +72,17 @@ class FakeGraph(BaseHTTPRequestHandler):
 
     def _handle(self, method):
         length = int(self.headers.get("Content-Length") or 0)
-        body = self.rfile.read(length).decode() if length else ""
+        raw = self.rfile.read(length) if length else b""
         auth = self.headers.get("Authorization")
+        if self.path.startswith("/rupload/"):                       # rupload.facebook.com (resumable upload)
+            FakeGraph.calls.append((method, self.path, "", auth))
+            FakeGraph.uploads.append((self.path, dict(self.headers), raw))
+            ok = auth in {f"OAuth {t}" for t in (FakeGraph.shared_token, *FakeGraph.fb_tokens) if t}
+            if not ok:
+                return self._send(400, {"debug_info": {"retriable": False, "type": "AuthError",
+                                                       "message": "invalid token"}})
+            return self._send(200, {"success": True, "message": "Upload successful."})
+        body = raw.decode(errors="replace")
         FakeGraph.calls.append((method, self.path, body, auth))
         token = auth[len("Bearer "):] if auth and auth.startswith("Bearer ") else None
         url = urlsplit(self.path)
@@ -146,15 +158,22 @@ class FakeGraph(BaseHTTPRequestHandler):
                 cid = "car1"
             elif form.get("media_type") == "STORIES":
                 cid = "st1"
+            elif form.get("media_type") == "REELS":
+                cid = f"{'ru' if q.get('upload_type') == 'resumable' else 'r'}{n}"
             elif form.get("is_carousel_item") == "true":
                 cid = f"{'v' if form.get('media_type') == 'VIDEO' else 'i'}{n}"
             else:
                 cid = "c1"
-            FakeGraph.containers[cid] = {**form, "_host": "ig" if on_ig else "fb", "_ig": seg[0]}
+            FakeGraph.containers[cid] = {**form, "_host": "ig" if on_ig else "fb", "_ig": seg[0], "_query": q}
+            if cid.startswith("ru"):
+                return self._send(200, {"id": cid, "uri": f"https://rupload.facebook.com/ig-api-upload/{V[1:]}/{cid}"})
             return self._send(200, {"id": cid})
         if len(seg) == 1 and seg[0] in FakeGraph.containers:
             FakeGraph.polls[seg[0]] = FakeGraph.polls.get(seg[0], 0) + 1
-            ready = FakeGraph.polls[seg[0]] > (2 if seg[0].startswith("v") else 1)   # videos take longer
+            if FakeGraph.containers[seg[0]].get("video_url") in FakeGraph.reel_error_urls:
+                return self._send(200, {"status_code": "ERROR", "status": "Error: Media upload has failed with "
+                                                                             "error code 2207026"})
+            ready = FakeGraph.polls[seg[0]] > (2 if seg[0][0] in "vr" else 1)   # videos take longer
             return self._send(200, {"status_code": "FINISHED" if ready else "IN_PROGRESS"})
         if len(seg) == 2 and seg[0] in USER_BY_ID and seg[1] == "media_publish":
             return self._send(200, {"id": "m1"})
@@ -175,6 +194,7 @@ class MockGraphCase(unittest.TestCase):
     def setUp(self):
         FakeGraph.calls, FakeGraph.polls, FakeGraph.containers, FakeGraph.refresh = [], {}, {}, {}
         FakeGraph.quota_usage = 3
+        FakeGraph.reel_error_urls, FakeGraph.uploads = set(), []
         FakeGraph.fail_first_media, FakeGraph.secret_configured = True, True
         FakeGraph.shared_token = self.env_token or None
         self.server = HTTPServer(("127.0.0.1", 0), FakeGraph)
@@ -390,6 +410,133 @@ class Stories(MockGraphCase):
             since = common.parse_time("2026-11-10T09:00:00+00:00")
             media_id = client.publish("1789", "st1", "", finder=lambda: client.find_recent_story("1789", since))
         self.assertEqual(media_id, "new")
+
+
+class Reels(MockGraphCase):
+    """publish_reel: REELS container -> FINISHED (polled longer) -> media_publish; fallbacks when Meta can't use
+    the raw.githubusercontent.com file; the same caption gate as feed posts."""
+    VIDEO = "queue/reels/rendered/reel-x/reel.mp4"
+    COVER = "queue/reels/rendered/reel-x/reel_cover.jpg"
+
+    def setUp(self):
+        super().setUp()
+        root = Path(self.tmp.name) / "repo"
+        d = root / "queue/reels/rendered/reel-x"
+        d.mkdir(parents=True)
+        (d / "reel.mp4").write_bytes(mp4_bytes())
+        Image.new("RGB", (1080, 1920), (10, 10, 10)).save(d / "reel_cover.jpg", "JPEG")
+        for p in (mock.patch.object(publish, "REPO", root), mock.patch.object(common, "REPO", root),
+                  mock.patch.object(publish, "VIDEO_POLL_WAITS", [0] * 6),
+                  mock.patch.object(publish, "RUPLOAD", f"http://127.0.0.1:{self.server.server_port}/rupload"),
+                  mock.patch.object(publish, "jsdelivr_url",
+                                    lambda rel: f"https://cdn.jsdelivr.net/gh/o/r@{'a' * 40}/{rel}")):
+            p.start()
+            self.patches.append(p)
+        self.raw = common.public_url(self.VIDEO)
+
+    def reel(self, account="idlytech", caption=GOOD_CAPTION, score=GOOD_SCORE, **kw):
+        kw.setdefault("wait", False)
+        return self.run_quiet(publish.publish_reel, account, self.VIDEO, caption, score=score, cover=self.COVER,
+                              story_id=1664, **kw)
+
+    def reel_containers(self):
+        return {k: v for k, v in FakeGraph.containers.items() if v.get("media_type") == "REELS"}
+
+    def test_reel_from_raw_githubusercontent(self):
+        res = self.reel(alt_text="A white WagonR", record_extra={"reel_slug": "reel-x"})
+        self.assertEqual(res["status"], "posted")
+        (cid, c), = self.reel_containers().items()
+        self.assertEqual((c["video_url"], c["share_to_feed"], c["cover_url"], c["alt_text"]),
+                         (self.raw, "true", common.public_url(self.COVER), "A white WagonR"))
+        self.assertEqual(c["caption"], GOOD_CAPTION)
+        self.assertEqual(FakeGraph.polls[cid], 3)                                # polled until FINISHED
+        entry = json.loads(common.POSTED_FILE.read_text())[-1]
+        self.assertEqual((entry["type"], entry["video_host"], entry["video"], entry["reel_slug"]),
+                         ("reel", "raw", self.raw, "reel-x"))
+        self.assertNotIn("video_attempts", entry)
+        self.assertEqual(common.posted_story_ids("idlytech"), set())             # not a feed post
+        self.assert_nothing_leaked()
+
+    def test_falls_back_to_jsdelivr_when_meta_cant_use_raw(self):
+        FakeGraph.reel_error_urls = {self.raw}
+        res = self.reel()
+        self.assertEqual(res["video_host"], "jsdelivr")
+        urls = [c["video_url"] for c in self.reel_containers().values()]
+        self.assertEqual(urls[0], self.raw)
+        self.assertTrue(urls[1].startswith("https://cdn.jsdelivr.net/gh/o/r@"))
+        self.assertIn("2207026", res["video_attempts"][0])
+        self.assertEqual(sum(p.endswith("/media_publish") for _, p, _, _ in FakeGraph.calls), 1)
+
+    def test_every_host_failing_publishes_nothing(self):
+        FakeGraph.reel_error_urls = {self.raw, f"https://cdn.jsdelivr.net/gh/o/r@{'a' * 40}/{self.VIDEO}"}
+        with self.assertRaises(publish.IGError) as ctx:
+            self.reel()                                   # the shared (network secret) token can't use rupload
+        self.assertIn("every host", str(ctx.exception))
+        if "resumable" in publish.reel_hosts():
+            self.assertIn("resumable", str(ctx.exception))
+        self.assertFalse(any(p.endswith("/media_publish") for _, p, _, _ in FakeGraph.calls))
+        self.assertFalse(common.POSTED_FILE.exists())
+
+    def test_caption_gate_and_score_gate(self):
+        with self.assertRaises(publish.GateRefused):
+            self.reel(caption=GOOD_CAPTION.replace("?", "."))
+        with self.assertRaises(publish.GateRefused):
+            self.reel(score={**GOOD_SCORE, "alone": 0, "total": GOOD_SCORE["total"] - GOOD_SCORE["alone"]})
+        self.assertEqual(FakeGraph.calls, [])
+
+    def test_dry_run_and_cli(self):
+        cap, score = Path(self.tmp.name) / "c.txt", Path(self.tmp.name) / "s.json"
+        cap.write_text(GOOD_CAPTION)
+        score.write_text(json.dumps(GOOD_SCORE))
+        code = self.run_quiet(publish.main, ["reel", "--account", "idlytech", "--video", self.VIDEO, "--caption-file",
+                                             str(cap), "--score-file", str(score), "--cover", self.COVER, "--dry-run"])
+        self.assertEqual(code, 0, self.err.getvalue())
+        self.assertEqual(FakeGraph.calls, [])
+        plan = self.out.getvalue()
+        self.assertIn(f"media_type=REELS, video_url={self.raw}", plan)
+        self.assertIn("cdn.jsdelivr.net", plan)
+        self.assertIn("upload_type=resumable", plan)
+        self.assertIn("share_to_feed=true", plan)
+
+    def test_local_file_checks(self):
+        root = publish.REPO / "queue/reels/rendered/reel-x"
+        (root / "reel.mp4").write_bytes(mp4_bytes(faststart=False))
+        with self.assertRaises(ValueError):
+            self.reel(dry_run=True)
+        (root / "reel.mp4").write_bytes(mp4_bytes(elst=True))
+        with self.assertRaises(ValueError):
+            self.reel(dry_run=True)
+
+
+class ReelsResumable(Reels):
+    """A graph.facebook.com token in this process (IG_SYSTEM_TOKEN or an account token on that host): the last
+    fallback uploads the file's bytes to rupload.facebook.com, the token only in its Authorization header."""
+    env_token = TOKEN
+
+    def test_resumable_upload(self):
+        os.environ["IDLY_REEL_HOSTS"] = "resumable"                              # undone by patch.dict
+        res = self.reel()
+        self.assertEqual(res["video_host"], "resumable")
+        (cid, c), = self.reel_containers().items()
+        self.assertTrue(cid.startswith("ru"))
+        self.assertEqual(c["_query"].get("upload_type"), "resumable")
+        self.assertNotIn("video_url", c)
+        path, headers, body = FakeGraph.uploads[0]
+        self.assertEqual(path, f"/rupload/ig-api-upload/{publish.API_VERSION}/{cid}")
+        self.assertEqual((headers["Authorization"], headers["offset"], headers["file_size"]),
+                         (f"OAuth {TOKEN}", "0", str(len(mp4_bytes()))))
+        self.assertEqual(body, mp4_bytes())
+        self.assert_nothing_leaked()
+
+    def test_every_host_failing_publishes_nothing(self):
+        os.environ["IDLY_REEL_HOSTS"] = "raw,jsdelivr"                           # the URL hosts only
+        super().test_every_host_failing_publishes_nothing()
+
+    def test_resumable_after_raw_and_jsdelivr_fail(self):
+        FakeGraph.reel_error_urls = {self.raw, f"https://cdn.jsdelivr.net/gh/o/r@{'a' * 40}/{self.VIDEO}"}
+        res = self.reel()
+        self.assertEqual(res["video_host"], "resumable")
+        self.assertEqual(len(res["video_attempts"]), 2)
 
 
 class EnvTokenMode(MockGraphCase):

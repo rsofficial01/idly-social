@@ -7,6 +7,9 @@
     python3 pipeline/publish.py check [--offline] [--no-refresh]   # every account: token, id, host, quota, expiry
     # an Instagram Story (a 1080x1920 JPEG, e.g. from `python3 -m cardkit.vertical story`), after the feed post
     python3 pipeline/publish.py story --account idlytech --image posts/2026-11-09/pm-idlytech-1691/story.jpg [--dry-run]
+    # a Reel (the lane's reel queue does this in GitHub Actions; this is for a human, or --dry-run)
+    python3 pipeline/publish.py reel --account idlytech --video queue/reels/rendered/<slug>/reel.mp4 \
+        --caption-file caption.txt --score-file score.json [--cover .../reel_cover.jpg] [--dry-run]
 
 Access, per account (first match wins):
 1. IG_TOKEN_<ACCOUNT>: that account's own token from the Meta dashboard ("Generate token"). Its host is
@@ -41,6 +44,7 @@ from pipeline.common import (ACCOUNTS, BUSINESS_ID, REPO, TOKEN_ENV, append_post
 
 GRAPH = "https://graph.facebook.com"        # Facebook Login (the shared system-user token)
 GRAPH_IG = "https://graph.instagram.com"    # Instagram User tokens
+RUPLOAD = "https://rupload.facebook.com"    # resumable video uploads (Facebook Login tokens only)
 FB_HOST, IG_HOST = "graph.facebook.com", "graph.instagram.com"
 HOSTS = (IG_HOST, FB_HOST)                  # detection order for an account's own token
 API_VERSION = "v27.0"            # latest Graph API version in Meta's docs (v27.0, released 4 Nov 2026)
@@ -61,6 +65,14 @@ USERNAME_RE = re.compile(r"^[a-z0-9._]{1,30}$")
 STORY_HEADROOM = 5
 STORY_ASPECT = (0.5, 0.6)        # 9:16 is 0.5625
 STORY_PUBLIC_WAIT = [5, 10, 15, 30, 30, 60, 60, 60]     # ~4.5 min for raw.githubusercontent.com to serve a new file
+VIDEO_POLL_WAITS = [10, 10, 15, 15, 20, 30, 30, 60, 60, 60, 60, 60, 60, 60]   # ~9 min: Meta processes reels slowly
+VIDEO_TYPES = ("video/mp4", "application/octet-stream", "video/quicktime")   # raw.githubusercontent: octet-stream
+MAX_VIDEO_BYTES = 300 * 1024 * 1024
+# Where Meta fetches a reel from, in order. raw.githubusercontent.com is the house scheme but serves .mp4 as
+# application/octet-stream; nothing in Meta's docs says that is refused, and nothing says it is accepted. So when the
+# container ends in ERROR, the next host is tried: jsDelivr's free CDN pinned to the commit (serves video/mp4), then
+# Meta's resumable upload of the local file (graph.facebook.com tokens only). IDLY_REEL_HOSTS=jsdelivr,raw reorders.
+REEL_HOSTS = ("raw", "jsdelivr", "resumable")
 
 AUTH_HINT = ("Meta got no valid shared access token. In the Claude cloud environment, add the network secret "
              "for graph.facebook.com (RUNBOOK.md, 'Meta access'); elsewhere set IG_SYSTEM_TOKEN")
@@ -249,6 +261,37 @@ class IGClient:
             if (m.get("caption") or "")[:120] == caption[:120]:
                 return m["id"]
         return None
+
+    def find_recent_reel(self, ig_id: str, caption: str) -> str | None:
+        """A recent reel with this caption (a feed post with the same caption doesn't count)."""
+        data = self.call("GET", f"{ig_id}/media", params={"fields": "id,caption,media_product_type", "limit": 10})
+        for m in data.get("data") or []:
+            if m.get("media_product_type") == "REELS" and (m.get("caption") or "")[:120] == caption[:120]:
+                return m["id"]
+        return None
+
+    def upload_video(self, container_id: str, path: Path) -> None:
+        """Resumable upload: POST the file's bytes to rupload.facebook.com/ig-api-upload/<version>/<container>
+        with "Authorization: OAuth <token>", offset 0 and file_size. Only to that fixed host (never to a URL from a
+        response), only with a token this process holds (a network secret can't reach rupload.facebook.com)."""
+        if not self._token:
+            raise IGError("resumable upload needs a token in this process (IG_TOKEN_<ACCOUNT> or IG_SYSTEM_TOKEN)")
+        url = f"{RUPLOAD}/ig-api-upload/{API_VERSION}/{container_id}"
+        headers = {"Authorization": f"OAuth {self._token}", "offset": "0", "file_size": str(path.stat().st_size),
+                   "User-Agent": "idly-social/2.0"}
+        try:
+            with open(path, "rb") as f:
+                r = requests.post(url, headers=headers, data=f, timeout=900, allow_redirects=False)
+        except requests.RequestException as ex:
+            raise IGError(self._clean(f"upload to rupload.facebook.com -> network error: {type(ex).__name__}"),
+                          transient=True)
+        try:
+            body = r.json()
+        except ValueError:
+            body = {}
+        if not r.ok or body.get("success") is False or "error" in body or "debug_info" in body:
+            why = (body.get("debug_info") or body.get("error") or {}).get("message") or r.reason
+            raise IGError(self._clean(f"upload to rupload.facebook.com -> HTTP {r.status_code}: {why}"))
 
     def find_recent_story(self, ig_id: str, since) -> str | None:
         """The newest story published at or after `since` (stories are not listed in /media)."""
@@ -801,6 +844,198 @@ def print_story_plan(account: str, url: str, story_of: str | None) -> None:
           f"story_of {story_of or '(no feed post found)'}")
 
 
+# ---- reels -------------------------------------------------------------------------------
+
+def check_reel_mp4(path: Path) -> dict:
+    """Local checks before Meta sees it: exists, <= 300 MB, the moov atom first (faststart), no edit lists."""
+    from cardkit.reel import mp4_boxes
+
+    if not path.is_file():
+        raise ValueError(f"video not found: {path}")
+    if path.stat().st_size > MAX_VIDEO_BYTES:
+        raise ValueError(f"{path.name} is over 300 MB")
+    boxes = mp4_boxes(str(path))
+    if not boxes["faststart"]:
+        raise ValueError(f"{path.name}: the moov atom must come before the media data (ffmpeg -movflags +faststart)")
+    if boxes["elst"]:
+        raise ValueError(f"{path.name} has an edit list; Instagram wants none (ffmpeg -use_editlist 0)")
+    return boxes
+
+
+def repo_owner_name() -> tuple[str, str] | None:
+    """('rsofficial01', 'idly-social') from the raw.githubusercontent.com base, or None for another host."""
+    from pipeline.common import IMAGE_BASE
+
+    m = re.match(r"https://raw\.githubusercontent\.com/([^/]+)/([^/]+)/", IMAGE_BASE + "/")
+    return (m.group(1), m.group(2)) if m else None
+
+
+def commit_of(rel: str) -> str | None:
+    """The pushed commit that has this file: origin/main (or HEAD) when it contains the path."""
+    import subprocess
+
+    for ref in ("origin/main", "HEAD"):
+        r = subprocess.run(["git", "rev-parse", "--verify", "-q", f"{ref}:{rel}"], cwd=REPO, capture_output=True,
+                           text=True)
+        if r.returncode == 0:
+            sha = subprocess.run(["git", "rev-parse", ref], cwd=REPO, capture_output=True, text=True).stdout.strip()
+            if re.fullmatch(r"[0-9a-f]{40}", sha):
+                return sha
+    return None
+
+
+def jsdelivr_url(rel: str) -> str | None:
+    """https://cdn.jsdelivr.net/gh/<owner>/<repo>@<commit>/<rel>: free, no account, serves video/mp4, immutable."""
+    owner = repo_owner_name()
+    sha = commit_of(rel) if owner else None
+    return f"https://cdn.jsdelivr.net/gh/{owner[0]}/{owner[1]}@{sha}/{rel}" if owner and sha else None
+
+
+def reel_hosts() -> list[str]:
+    raw = os.environ.get("IDLY_REEL_HOSTS", "").strip()
+    hosts = [h.strip() for h in raw.split(",") if h.strip()] if raw else list(REEL_HOSTS)
+    bad = [h for h in hosts if h not in REEL_HOSTS]
+    if bad:
+        raise ValueError(f"IDLY_REEL_HOSTS: unknown host(s) {bad}; use {', '.join(REEL_HOSTS)}")
+    return hosts
+
+
+def reel_sources(video: str) -> tuple[list[tuple[str, str]], Path | None]:
+    """[(host, video URL or local path)] in the order to try, and the local file (None for an https URL)."""
+    if video.startswith("https://"):
+        return [("url", video)], None
+    url, local = resolve_public(video)
+    rel = local.resolve().relative_to(REPO).as_posix()
+    out = []
+    for host in reel_hosts():
+        if host == "raw":
+            out.append(("raw", url))
+        elif host == "jsdelivr":
+            j = jsdelivr_url(rel)
+            if j:
+                out.append(("jsdelivr", j))
+        elif host == "resumable":
+            out.append(("resumable", str(local)))
+    return out, local
+
+
+def publish_reel(account: str, video: str, caption: str, *, score: dict | None, alt_text: str = "",
+                 share_to_feed: bool = True, dry_run: bool = False, cover: str | None = None,
+                 story_id: int | None = None, idly_article: bool = True, date: str | None = None,
+                 slot: str | None = None, record_extra: dict | None = None, wait: bool = True) -> dict:
+    """Publish a Reel: media_type=REELS with video_url (+ caption, share_to_feed, cover_url) -> poll until FINISHED
+    (videos take minutes) -> media_publish. Same caption rules and 12/14 gate as feed posts (no override), same
+    tokens. `video` is a committed local .mp4 (served from raw.githubusercontent.com; see REEL_HOSTS for the
+    fallbacks) or an https URL. Recorded in state/posted.json as type "reel". Returns {status, media_id, ...}."""
+    if account not in ACCOUNTS:
+        raise ValueError(f"unknown account {account!r}")
+    errs, warns = editorial.post_problems(caption, score, idly_article=idly_article)
+    if errs:
+        raise GateRefused("refused: caption problems: " + "; ".join(errs))
+    for w in warns:
+        log(f"  warning: {w}")
+    gate(score, False)
+    sources, local = reel_sources(video)
+    if local is not None:
+        check_reel_mp4(local)
+    cover_url, cover_local = resolve_public(cover) if cover else (None, None)
+    if cover_local is not None:
+        check_story_jpeg(cover_local)
+    date, slot = date or default_date(), slot or default_slot()
+    if dry_run:
+        print_reel_plan(account, sources, caption, cover_url, share_to_feed, alt_text, score)
+        return {"status": "dry-run", "type": "reel", "account": account, "video": sources[0][1], "cover": cover_url}
+    if wait and local is not None:
+        wait_public(sources[0][1] if sources[0][0] == "raw" else public_url(
+            local.resolve().relative_to(REPO).as_posix()), local, content_types=VIDEO_TYPES)
+        if cover_local is not None:
+            wait_public(cover_url, cover_local)
+    client, ig_id = connect(account)
+    used, total = client.quota(ig_id)
+    if used >= min(LOCAL_DAILY_CAP, total):
+        raise IGError(f"@{account} has published {used} posts in 24h (cap {min(LOCAL_DAILY_CAP, total)})")
+    fields = {"media_type": "REELS", "caption": caption, "share_to_feed": "true" if share_to_feed else "false"}
+    if cover_url:
+        fields["cover_url"] = cover_url
+    if alt_text:
+        fields["alt_text"] = alt_text
+
+    def create(**more) -> str:
+        try:
+            return client.create_container(ig_id, **fields, **more)
+        except IGError as e:
+            if "alt_text" not in fields or e.code in AUTH_CODES | PERMISSION_CODES:
+                raise
+            log(f"  warning: reel container refused with alt_text ({e}); trying without it")
+            fields.pop("alt_text")
+            return client.create_container(ig_id, **fields, **more)
+
+    attempts, used_host, used_url, container = [], None, None, None
+    for host, target in sources:
+        try:
+            if host == "resumable":
+                if client.host != FB_HOST:
+                    raise IGError("resumable upload is only for graph.facebook.com tokens")
+                container = client.call("POST", f"{ig_id}/media", params={"upload_type": "resumable"},
+                                        data={k: v for k, v in fields.items()})["id"]
+                client.upload_video(container, Path(target))
+                used_url = public_url(Path(target).resolve().relative_to(REPO).as_posix())
+            else:
+                container = create(video_url=target)
+                used_url = target
+            log(f"  reel container {container} ({host}) created; waiting for FINISHED (videos take a few minutes)")
+            client.wait_finished(container, VIDEO_POLL_WAITS)
+            used_host = host
+            break
+        except IGError as e:
+            if e.code in AUTH_CODES | PERMISSION_CODES:
+                raise
+            attempts.append(f"{host}: {e}")
+            log(f"  reel via {host} failed ({e}); trying the next host" if host != sources[-1][0] else
+                f"  reel via {host} failed ({e})")
+    if used_host is None:
+        raise IGError("reel failed on every host: " + " | ".join(attempts))
+    media_id = client.publish(ig_id, container, caption, finder=lambda: client.find_recent_reel(ig_id, caption))
+    permalink = client.permalink(media_id)
+    entry = {"type": "reel", "story_id": story_id, "account": account, "media_id": media_id, "permalink": permalink,
+             "posted_at": now_utc().isoformat(timespec="seconds"), "date": date, "slot": slot, "video": used_url,
+             "video_host": used_host, "cover": cover_url, "share_to_feed": share_to_feed,
+             "score_total": editorial.score_total(score)}
+    if attempts:
+        entry["video_attempts"] = attempts
+    entry = {**(record_extra or {}), **entry}
+    append_posted(entry)
+    log(f"  reel published on @{account}: {permalink}")
+    return {"status": "posted", **entry}
+
+
+def print_reel_plan(account: str, sources: list[tuple[str, str]], caption: str, cover_url: str | None,
+                    share_to_feed: bool, alt_text: str, score: dict | None) -> None:
+    """The would-be API calls for a reel. Makes no network calls."""
+    cached = load_accounts().get(account, {})
+    own = account_token(account) is not None
+    host = (cached.get("host") or IG_HOST) if own else FB_HOST
+    base = f"{base_url(host)}/{API_VERSION}"
+    ig = cached.get("id") or "<ig-user-id>"
+    print(f"[dry-run] @{account} REEL  score {editorial.score_total(score)}/{editorial.SCORE_MAX}  "
+          f"access: {describe_account_auth(account, cached.get('host'))}")
+    print(f"  GET  {base}/{ig}/content_publishing_limit?fields=quota_usage,config  -> stop if used >= {LOCAL_DAILY_CAP}")
+    extra = (f", cover_url={cover_url}" if cover_url else "") + (f", alt_text=<{len(alt_text)} chars>" if alt_text else "")
+    for i, (name, target) in enumerate(sources):
+        when = "" if i == 0 else "  (only if the previous container ends in ERROR)"
+        if name == "resumable":
+            print(f"  POST {base}/{ig}/media?upload_type=resumable  media_type=REELS, caption=<{len(caption)} chars>"
+                  f"{extra}{when}")
+            print(f"  POST {RUPLOAD}/ig-api-upload/{API_VERSION}/<container-id>  <{target}> (Authorization: OAuth, "
+                  f"graph.facebook.com tokens only)")
+        else:
+            print(f"  POST {base}/{ig}/media  media_type=REELS, video_url={target}, caption=<{len(caption)} chars>, "
+                  f"share_to_feed={'true' if share_to_feed else 'false'}{extra}{when}")
+    print(f"  GET  {base}/<container-id>?fields=status_code,status   (poll until FINISHED, up to ~9 min)")
+    print(f"  POST {base}/{ig}/media_publish  creation_id=<container-id>")
+    print(f"  GET  {base}/<media-id>?fields=permalink   -> state/posted.json: type reel")
+
+
 # ---- check: every account's token, id, host, publishing limit, expiry ---------------------
 
 def check_accounts(online: bool = True, expiry: bool = True) -> dict:
@@ -951,6 +1186,17 @@ def main(argv=None) -> int:
     st.add_argument("--story-of", help="the feed post's media id (default: the feed post from the image's folder)")
     st.add_argument("--no-wait", action="store_true", help="don't wait for raw.githubusercontent.com to serve it")
     st.add_argument("--dry-run", action="store_true")
+    rl = sub.add_parser("reel", help="publish a Reel (the lane's reel queue does this; for a human or --dry-run)")
+    rl.add_argument("--account", required=True, choices=list(ACCOUNTS))
+    rl.add_argument("--video", required=True, help="a committed .mp4 (e.g. queue/reels/rendered/<slug>/reel.mp4)")
+    rl.add_argument("--caption-file", required=True, type=Path)
+    rl.add_argument("--score-file", required=True, type=Path)
+    rl.add_argument("--cover", help="the reel_cover.jpg next to it (Reels-tab cover)")
+    rl.add_argument("--alt-text", default="")
+    rl.add_argument("--story-id", type=int)
+    rl.add_argument("--no-share-to-feed", action="store_true")
+    rl.add_argument("--no-idly-article", action="store_true")
+    rl.add_argument("--dry-run", action="store_true")
     c = sub.add_parser("check", help="every account: token, id, host, publishing limit, token expiry")
     c.add_argument("--offline", action="store_true", help="don't call the API; show the cached ids")
     c.add_argument("--no-refresh", action="store_true",
@@ -969,6 +1215,13 @@ def main(argv=None) -> int:
         elif args.cmd == "story":
             result = publish_story(args.account, args.image, dry_run=args.dry_run, story_of=args.story_of,
                                    wait=not args.no_wait)
+            print(json.dumps(result, indent=2))
+        elif args.cmd == "reel":
+            result = publish_reel(
+                args.account, args.video, args.caption_file.read_text(encoding="utf-8").strip(),
+                score=json.loads(args.score_file.read_text(encoding="utf-8")), alt_text=args.alt_text,
+                share_to_feed=not args.no_share_to_feed, dry_run=args.dry_run, cover=args.cover,
+                story_id=args.story_id, idly_article=not args.no_idly_article)
             print(json.dumps(result, indent=2))
         elif args.cmd == "check":
             report = check_accounts(online=not args.offline, expiry=not args.no_refresh)
