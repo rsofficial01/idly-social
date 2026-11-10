@@ -1,0 +1,58 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "DC Studios: Skydance names ex-Marvel executive Jeremy Latcham president and CCO from 1 Dec; James Gunn and Peter Safran step away after four years",
+  "headline": "Marvel Veteran Replaces James Gunn at DC From 1 Dec",
+  "caption": "Skydance, the company that now owns Warner Bros. and DC, has named former Marvel Studios executive Jeremy Latcham president and chief creative officer of DC Studios. He takes over on 1 December from James Gunn and Peter Safran, who ran the studio as co-chairmen and co-CEOs for four years.\n\nLatcham was at Marvel from 2004 to 2017, from Iron Man to The Avengers, Guardians of the Galaxy and Spider-Man: Homecoming. At DC he will run films, series and animation.\n\nSkydance says Gunn and Safran will return to full-time creative work. Gunn's Superman sequel, Man of Tomorrow, is in post-production and still dated 9 July 2027 in the US, with the pair as producers. Superman (2025) grossed $618 million worldwide.\n\nWhich DC film would you book a first-day ticket for?\n\nSources: Skydance, Variety, TheWrap, Deadline\n\n#DCStudios #JamesGunn #Superman #ManOfTomorrow #idlynerd",
+  "alt_text": "Slide 1: a licensed AP photo of James Gunn and Peter Safran, under the headline \"Marvel Veteran Replaces James Gunn at DC From 1 Dec\". Slide 2: \"13 YEARS\", Jeremy Latcham's run at Marvel Studios: he helped launch Marvel's film universe with Iron Man; executive producer, The Avengers and Guardians of the Galaxy; he'll lead DC's films, series and animation from here. Slide 3: \"9 JUL 2027\", Man of Tomorrow's US release date holds: Gunn wrote and directs it, and it is in post-production; Gunn and Safran stay on as its producers; Superman (2025) made $618M worldwide, the bar to beat.",
+  "sources": [
+    "Skydance",
+    "Variety",
+    "TheWrap",
+    "Deadline"
+  ],
+  "detail_slides": [
+    {
+      "stat": "13 YEARS",
+      "stat_label": "Jeremy Latcham's Run at Marvel Studios",
+      "bullets": [
+        "Helped launch Marvel's film universe with Iron Man",
+        "Executive producer, The Avengers and Guardians of the Galaxy",
+        "He'll lead DC's films, series and animation from here"
+      ]
+    },
+    {
+      "stat": "9 JUL 2027",
+      "stat_label": "Man of Tomorrow's US Release Date Holds",
+      "bullets": [
+        "Gunn wrote and directs it; it's in post-production",
+        "Gunn and Safran stay on as its producers",
+        "Superman (2025) made $618M worldwide: the bar to beat"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "licensed_wire",
+    "query": "James Gunn Peter Safran",
+    "agencies": [
+      "ap"
+    ],
+    "since_hours": 720
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 12,
+      "notes": "format: news. send 1: the exit has been everywhere since 9 Nov night; the only extra reason to forward is that Man of Tomorrow is unaffected and still has Gunn. keep 1: 1 Dec is an exec start date, not something a reader acts on, and 9 Jul 2027 is a US date first set in 2025 (only restated now). hook 2: names Gunn plus the Marvel-runs-DC twist and a date. reply 2: open question from readers' own cinema habits. original 2 assumes a licensed AP photo of Gunn/Safran resolves; if the wire is not configured the spec rejects (no trailer fallback, per Gate 1)."
+    }
+  },
+  "created_at": "2026-11-10T17:53:13+05:30",
+  "notes": "idlynerd desk, hourly run 1726. format: news. No idly.news article used (#1806 lacks the 1 Dec start and 9 Jul 2027 date): Sources line, no idly link. Image: licensed_wire (AP) only, no trailer fallback, per the Gate 1 reviewer (the cover must show the actual people, not a Superman still). No tags: the image owner would be a wire agency, not a brand/studio with an official handle."
+}
