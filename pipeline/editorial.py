@@ -146,10 +146,32 @@ def with_credit(caption: str, credit: str) -> str:
     return "\n".join(lines).rstrip() + "\n\n" + credit.strip()
 
 
+# People and groups designated or banned in India (UAPA lists, government blocking orders). Instagram's automated
+# India IT-Rules system hides posts naming or hashtagging them in India: the @idlynews Pannun post of 10 Nov 2026
+# was restricted this way. Hashtags of them are refused; any mention is a warning (desk + reviewer must decide,
+# and the story belongs on idly.news, not Instagram).
+INDIA_RESTRICTED = ["pannun", "sikhs ?for ?justice", "sfj", "khalistan", "babbar ?khalsa", "lashkar", "jaish",
+                    "hizbul", "nijjar", "\\blanda\\b", "goldy ?brar", "lawrence ?bishnoi", "dawood", "zakir ?naik",
+                    "popular ?front ?of ?india", "\\bpfi\\b", "\\bisis\\b", "\\bisil\\b", "al[- ]?qaeda"]
+
+
+def restricted_problems(caption: str) -> tuple[list[str], list[str]]:
+    errs, warns = [], []
+    tags = " ".join(re.findall(r"#\w+", caption or "")).lower()
+    for term in INDIA_RESTRICTED:
+        if re.search("#\\w*" + term.replace("?", "?").replace("\\b", ""), tags):
+            errs.append(f"hashtag names a person or group banned or designated in India ({term}): Instagram hides "
+                        "such posts in India; drop the hashtag and reconsider the story for Instagram")
+        elif re.search(term, (caption or "").lower()):
+            warns.append(f"mentions a person or group banned or designated in India ({term}): Instagram's automated "
+                         "India filter may hide the post; cover it on idly.news instead unless Rahul says otherwise")
+    return errs, warns
+
+
 def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[str], list[str]]:
     """idly_article=False is for a post with no idly.news article behind it (e.g. a founder-requested
     special): the caption must then NOT point to idly.news and must list its sources instead."""
-    errs, warns = [], []
+    errs, warns = restricted_problems(caption)
     text = caption or ""
     lines = [l.strip() for l in text.splitlines() if l.strip()]
     if idly_article and LINK_LINE not in text:

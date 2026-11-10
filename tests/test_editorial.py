@@ -141,3 +141,11 @@ def test_images_first_rejects_text_only_cover_credit():
         assert any("images first" in e for e in errs), credit
     errs, _ = editorial.caption_problems(base + "Photo: Ultraviolette", idly_article=False)
     assert not any("images first" in e for e in errs)
+
+
+def test_india_restricted_names():
+    errs, warns = editorial.restricted_problems("US delivers the suit. #Pannun #IndiaUS")
+    assert errs and "banned or designated in India" in errs[0]
+    errs, warns = editorial.restricted_problems("Sikhs for Justice leader's suit reaches India. #IndiaUS")
+    assert not errs and warns
+    assert editorial.restricted_problems("Holland and Iceland agree a deal. #Europe") == ([], [])
