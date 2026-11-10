@@ -137,9 +137,28 @@ class RenderReel(unittest.TestCase):
             self.assertEqual(Image.open(out / name).size, (1080, 1920), name)
         pages = [r for r in rows if r["type"] != "reel"]
         self.assertEqual([r["type"] for r in pages], ["cover", "detail", "detail", "end"])
+        zone = V.REEL_SAFE_ZONE
         for r in pages:
             self.assertEqual(V.vertical_problems([r]), [], r["page"])
             self.assertGreaterEqual(r["min_font_px"], 30, r["page"])
+            self.assertEqual(r["zone"], "reel")
+            for name, (x0, y0, x1, y1) in r["boxes"].items():          # Instagram's Reels UI zones
+                self.assertTrue(zone.top <= y0 and y1 <= zone.bottom, (r["page"], name, y0, y1))
+                if y1 > zone.right_from:
+                    self.assertLessEqual(x1, zone.right, (r["page"], name, "under the Reels buttons"))
+        for r in (p for p in pages if p["type"] == "detail"):
+            self.assertLessEqual(r["max_band"], V.MAX_EMPTY_BAND, r["page"])
+            self.assertGreaterEqual(r["label"], 52)
+            self.assertGreaterEqual(r["bullet"], 40)
+            self.assertEqual(r["orphans"], [])
+        self.assertGreater(pages[2]["stat"], 300)                          # "+86%": the stat is ~20% larger
+        cover = pages[0]
+        self.assertLessEqual(cover["boxes"]["date"][3], zone.bottom)       # headline and footer sit above y 1380
+        self.assertGreater(cover["boxes"]["headline"][3], zone.bottom - 120)
+        self.assertLess(cover["fade_start"], 700)                          # the photo fades out earlier
+        end = pages[3]["boxes"]
+        mid = (min(b[1] for b in end.values()) + max(b[3] for b in end.values())) / 2
+        self.assertAlmostEqual(mid, (zone.top + zone.bottom) / 2, delta=30)   # the end card is centred in the zone
         # the layers composite back to the story card (photo + overlay + text at rest)
         cover = np.asarray(Image.open(out / "reel_cover.jpg").convert("RGB"), dtype=int)
         last_cover_frame = np.asarray(R.video_frame(str(out / "reel.mp4"), 96), dtype=int)

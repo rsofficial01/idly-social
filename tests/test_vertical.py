@@ -103,6 +103,21 @@ class VerticalFraming(unittest.TestCase):
         self.assertIsNone(plan)
         self.assertIn("380-880", why)
 
+    def test_reel_frame_keeps_faces_above_the_earlier_fade(self):
+        self.assertEqual((F.REEL.face_top, F.REEL.face_bottom), (360, 700))
+        self.assertEqual(V.PUSH_ORIGIN[1], (F.REEL.face_top + F.REEL.face_bottom) // 2)
+        w, h = 2400, 3200
+        faces = [Face(1100, 1500, 260, 300)]
+        plan, why = F.plan_cover(w, h, faces, frame=F.REEL)
+        self.assertIsNotNone(plan, why)
+        for f in faces:
+            out = F.map_cover(F.padded(f, w, h), plan.crop, plan.out_h)
+            for z in (1.0, 1.06):
+                x0, y0, x1, y1 = push_map(out, z)
+                self.assertGreaterEqual(y0, V.LOGO_TOP + V.LOGO_H + 20)
+                self.assertLessEqual(y1, 760, "face runs into the reel's fade")
+                self.assertTrue(0 <= x0 and x1 <= 1080)
+
     def test_edge_margin_is_wider_than_the_cover(self):
         self.assertGreater(F.VERTICAL.edge_margin, F.COVER.edge_margin)
 
@@ -132,6 +147,26 @@ class VerticalFraming(unittest.TestCase):
 
 
 class Problems(unittest.TestCase):
+    def test_zones(self):
+        z = V.REEL_SAFE_ZONE
+        self.assertEqual((z.top, z.bottom, z.right, z.right_from), (220, 1380, 960, 1000))
+        self.assertEqual((V.STORY_ZONE.top, V.STORY_ZONE.bottom), (220, 1600))
+        self.assertEqual((z.col_right, V.STORY_ZONE.col_right), (960, 1016))
+
+    def test_reel_problems(self):
+        row = {"page": "detail 1", "type": "detail", "ui_buttons": ["site x 900-1016 y 1350-1380"],
+               "orphans": ["bullet2"], "max_band": 300, "safe": [220, 1380], "ui_zone": ["sources y 1500-1530"]}
+        text = " | ".join(V.vertical_problems([row]))
+        for want in ("Reels buttons", "lone word", "300px empty band", "y 220-1380"):
+            self.assertIn(want, text)
+
+    def test_max_empty_band(self):
+        im = Image.new("RGB", (1080, 1920), V.VBG_RGB)
+        im.paste((255, 255, 255), (64, 600, 400, 640))
+        im.paste((255, 255, 255), (64, 900, 400, 940))
+        self.assertEqual(V.max_empty_band(im, 500, 1000), 260)
+        self.assertEqual(V.max_empty_band(im, 600, 640), 0)
+
     def test_vertical_problems(self):
         clean = {"page": "cover", "type": "cover", "collisions": [], "ui_zone": [], "outside": [], "truncated": [],
                  "left_edges": {"kicker": 64, "headline": 64, "date": 64}, "min_font_px": 30, "scale": 1.0}

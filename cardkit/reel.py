@@ -9,6 +9,8 @@ The reel: 1080x1920, 30 fps, H.264 yuv420p (BT.709), faststart, no edit lists, a
   * 1-2 of the post's detail slides, re-laid out vertically, ~3 s each, with 8-frame crossfades;
   * an end card ~1.5 s: the account's logo, "idly.news" and the handle.
   reel_cover.jpg (the finished cover frame) is saved for the thumbnail.
+Every frame keeps its text inside cardkit.vertical.REEL_SAFE_ZONE (y 220-1380, clear of the Reels buttons at
+x >= 960 below y 1000): Instagram's caption, username and audio overlay covers the bottom ~540 px of a reel.
 
 Needs ffmpeg (and ffprobe for the checks). probe_reel(path) checks a file against Instagram's Reels spec;
 mp4_boxes(path) needs nothing but Python, for the publisher.
@@ -29,7 +31,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from cardkit.render import _hype_slides  # noqa: E402
-from cardkit.vertical import (VBG_RGB, VH, VW, _render_pages, _save_jpg, load_post,  # noqa: E402
+from cardkit.vertical import (REEL_SAFE_ZONE, VBG_RGB, VH, VW, _render_pages, _save_jpg, load_post,  # noqa: E402
                               vertical_problems)
 
 __all__ = ['render_reel', 'probe_reel', 'mp4_boxes', 'video_frame', 'timeline', 'pick_details', 'ffmpeg_cmd']
@@ -259,7 +261,7 @@ def render_reel(post: dict, out_dir: str, details: list[int] | None = None, repo
     picked = pick_details(post, details)
     rows: list = []
     pages = asyncio.run(_render_pages(post, layers=True, details=picked, end_card=True, base_dir=base_dir,
-                                      report=rows, verbose=verbose))
+                                      report=rows, verbose=verbose, zone=REEL_SAFE_ZONE))
     frames = ReelFrames(pages, len(picked))
     video = os.path.join(out_dir, 'reel.mp4')
     encode(frames, video, preset=preset)

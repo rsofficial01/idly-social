@@ -17,8 +17,10 @@ Layout (Rahul's rules, 10 Nov 2026), shared by the story card and every frame of
   * the logo top-centre over the photo (y 240-300), as on covers; the vertical photo credit up the right edge;
   * text: a small kicker with the account handle, the Title Case headline (Inter 800, left-aligned), and the footer
     (date left, idly.news right). Every text line starts at x=64;
-  * nothing in Instagram's UI zones: text stays between y 220 and y 1600 (the top ~220 px and the bottom ~320 px
-    are Instagram's), and no text is smaller than 30 px.
+  * nothing in Instagram's UI zones (a SafeZone): on a Story, text stays between y 220 and y 1600 (STORY_ZONE);
+    on a Reel, where the caption, username and audio overlay covers the bottom ~540 px and the like/comment/share
+    buttons sit at x >= 960 from y ~1000 down, text stays in y 220-1380 and clear of that column
+    (REEL_SAFE_ZONE). No text is smaller than 30 px.
 Never a boxed/letterboxed photo, never a blurred or darkened copy of the photo as a fill.
 
 Every page is checked in the browser the way the hype covers are: the headline fits (<= 3 lines), and the report
@@ -37,19 +39,48 @@ import sys
 import tempfile
 from io import BytesIO
 
-from PIL import Image, ImageFilter, ImageOps
+from dataclasses import dataclass
+
+from PIL import Image, ImageChops, ImageFilter, ImageOps
 
 if __package__ in (None, ""):
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from cardkit.render import (EMBER, HYPE_DETAIL_JS, JPEG_QUALITY, LOGO_FILE, LOGOS, _check_hype, _chrome, _esc,  # noqa: E402
-                            _hype_css, _hype_slides, _keep_compounds, _lum, credit_line_text)
+from cardkit.render import (EMBER, JPEG_QUALITY, LOGO_FILE, LOGOS, _check_hype, _chrome, _esc, _hype_css,  # noqa: E402
+                            _hype_slides, _keep_compounds, _lum, credit_line_text)
 
 VW, VH = 1080, 1920
-SAFE_TOP, SAFE_BOTTOM = 220, 1600       # Instagram's UI covers the top ~220 px and the bottom ~320 px
+VSIDE = 64                               # every text line starts here
+
+
+@dataclass(frozen=True)
+class SafeZone:
+    """Where text may sit on a 1080x1920 frame; Instagram's own UI covers the rest. Below `right_from`, nothing
+    important sits right of `right` (the Reels button column). head_max and fade_len are the cover's headline size
+    and photo fade for that frame (a higher text block needs a smaller headline and a shorter fade)."""
+    name: str
+    top: int
+    bottom: int
+    right: int = VW
+    right_from: int = VH
+    head_max: int = 92
+    fade_len: int = 620
+
+    @property
+    def col_right(self) -> int:
+        """Right edge of the text column."""
+        return min(VW - VSIDE, self.right)
+
+
+# Stories: Instagram's progress bar and name on top (~220 px), the reply bar at the bottom (~320 px).
+STORY_ZONE = SafeZone("story", top=220, bottom=1600)
+# Reels: the caption, username and audio overlay covers roughly the bottom 540 px; the like/comment/share buttons sit
+# at x >= 960 from y ~1000 down. Every reel frame keeps its text inside this zone. THE setting to change if Instagram
+# moves its Reels UI.
+REEL_SAFE_ZONE = SafeZone("reel", top=220, bottom=1380, right=960, right_from=1000, head_max=84, fade_len=500)
+SAFE_TOP, SAFE_BOTTOM = STORY_ZONE.top, STORY_ZONE.bottom
 MIN_TEXT_PX = 30
 VBG, VBG_RGB = '#0A0A0A', (10, 10, 10)
-VSIDE = 64                               # every text line starts here
 LOGO_TOP, LOGO_H = 240, 60
 PHOTO_ASPECT = 1080 / 1350               # the cover's 4:5 crop
 PHOTO_H_MIN, PHOTO_H_MAX = 1350, 1440
@@ -61,13 +92,18 @@ HEAD_W = VW - VSIDE - 96                 # leaves the right edge to the vertical
 VHEAD_FIT = dict(max=92, min=64, step=2, lines=3)
 CREDIT_Y = 1000                          # the credit's lower end (it reads upwards), above Reels' button column
 CREDIT_RIGHT = 32
-FADE_LEN, SOLID_BELOW_TEXT_TOP = 620, 150
-BODY_TOP, BODY_BOTTOM = 380, 1460        # detail slides: the text block is centred in this band
-SRC_BOTTOM = 1546                        # detail slides: the Sources line ends here, above the footer
-VDETAIL_FIT = dict(stat=300, statMin=140, statMaxW=VW - 2 * VSIDE, label=60, labelMin=40, bullet=48, bulletMin=34)
+FADE_LEN, SOLID_BELOW_TEXT_TOP = STORY_ZONE.fade_len, 150
+SRC_GAP, SRC_H = 24, 36                  # detail slides: Sources line, then this gap, then the footer
+BODY_GAP = 30                            # detail slides: the body band starts/ends this far from logo and Sources
+OPTICAL_LIFT = 40                        # detail slides: the block sits this far above the band's centre
+MAX_EMPTY_BAND = 220                     # detail slides: no empty horizontal band taller than this (Rahul's rule)
+# detail slides (reels): start sizes, the smallest they may shrink to and the largest they may grow to; spacing
+# (label, rule and bullet gaps) may grow up to gapMax times, until no band above or below the block is over maxGap
+VDETAIL_FIT = dict(stat=360, statMin=150, statMax=420, label=60, labelMin=52, labelMax=72, bullet=48, bulletMin=40,
+                   bulletMax=56, gapMax=2.2, labelGap=40, ruleTop=44, ruleBottom=40, liGap=24, maxGap=150)
 END_LOGO_H = 150
-PUSH_ORIGIN = (540, 630)                 # the reel's push-in centre: the middle of pipeline.framing.VERTICAL's
-                                         # face band (y 380-880), so planned faces stay clear of logo and edges
+PUSH_ORIGIN = (540, 530)                 # the reel's push-in centre: the middle of pipeline.framing.REEL's face
+                                         # band (y 360-700), so planned faces stay clear of logo, text and edges
 
 
 # ---- geometry -----------------------------------------------------------------------------------------------
@@ -151,13 +187,13 @@ VERTICAL_CSS = """
           color:rgba(255,255,255,.72)}
 .txt{position:absolute;left:%(side)dpx;bottom:%(head_bottom)dpx;width:%(head_w)dpx}
 .kick{font:700 %(kick_px)dpx/1 Inter;letter-spacing:.01em;color:%(ember)s;margin-bottom:28px}
-.v .head{position:static;width:%(head_w)dpx;font-size:92px;line-height:1.02;text-shadow:none}
-.v.d .body{top:%(body_top)dpx;bottom:%(body_bottom)dpx}
+.v .head{position:static;width:%(head_w)dpx;font-size:%(head_max)dpx;line-height:1.02;text-shadow:none}
+.v.d .body{top:%(body_top)dpx;bottom:%(body_bottom)dpx;padding-bottom:%(lift2)dpx;right:auto;width:%(body_w)dpx}
 .v.d .slabel,.v.d li{max-width:%(text_w)dpx;text-wrap:wrap}
 .v.d .logo,.v.e .logo{filter:none}
-.srcwrap{position:absolute;left:%(side)dpx;right:%(side)dpx;bottom:%(src_bottom)dpx}
+.srcwrap{position:absolute;left:%(side)dpx;width:%(text_w)dpx;bottom:%(src_bottom)dpx}
 .v .srcline{font:500 %(src_px)dpx/1.2 Inter;color:rgba(255,255,255,.52);margin:0}
-.endblk{position:absolute;left:%(side)dpx;right:%(side)dpx;top:%(safe_top)dpx;bottom:%(safe_bottom)dpx;display:flex;
+.endblk{position:absolute;left:%(side)dpx;width:%(text_w)dpx;top:%(safe_top)dpx;bottom:%(safe_bottom)dpx;display:flex;
         flex-direction:column;justify-content:center;align-items:flex-start}
 .endlogo{height:%(end_logo_h)dpx;width:auto;display:block;margin-left:%(end_logo_ml)spx}
 .endsite{font:800 132px/1 Inter;letter-spacing:-.045em;color:#fff;margin-top:64px}
@@ -178,18 +214,28 @@ def _logo_pad(acct: str, height: int) -> float:
         return round(bbox[0] / im.height * height, 1)
 
 
-def _vcss(acct: str, **kw) -> str:
+def _vcss(acct: str, zone: SafeZone = STORY_ZONE, **kw) -> str:
     base = dict(W=VW, H=VH, bg='transparent', side=VSIDE, dside=VSIDE, logo_h=LOGO_H, ember=EMBER)
     css = _hype_css(**{**base, **{k: v for k, v in kw.items() if k in ('top_a', 'logo_edge', 'logo_glow')}})
+    text_w = zone.col_right - VSIDE
+    src_bottom_y = zone.bottom - FOOT_PX - SRC_GAP
+    body_top_y, body_bottom_y = LOGO_TOP + LOGO_H + BODY_GAP, src_bottom_y - SRC_H - BODY_GAP
     vals = dict(W=VW, H=VH, vbg=VBG, vbg_rgb=','.join(map(str, VBG_RGB)), photo_h=PHOTO_H_MIN, logo_top=LOGO_TOP,
                 credit_right=CREDIT_RIGHT, credit_bottom=VH - CREDIT_Y, credit_px=CREDIT_PX, side=VSIDE,
-                foot_w=VW - 2 * VSIDE, foot_bottom=VH - SAFE_BOTTOM, foot_px=FOOT_PX,
-                head_bottom=VH - SAFE_BOTTOM + FOOT_PX + HEAD_GAP, head_w=HEAD_W, kick_px=KICK_PX, ember=EMBER,
-                body_top=BODY_TOP, body_bottom=VH - BODY_BOTTOM, text_w=VW - 2 * VSIDE, src_bottom=VH - SRC_BOTTOM,
-                src_px=SRC_PX, safe_top=SAFE_TOP + 80, safe_bottom=VH - SAFE_BOTTOM + 80, end_logo_h=END_LOGO_H,
+                foot_w=text_w, foot_bottom=VH - zone.bottom, foot_px=FOOT_PX,
+                head_bottom=VH - zone.bottom + FOOT_PX + HEAD_GAP, head_w=min(HEAD_W, text_w), head_max=zone.head_max,
+                kick_px=KICK_PX, ember=EMBER, body_top=body_top_y, body_bottom=VH - body_bottom_y,
+                body_w=text_w + 40, lift2=2 * OPTICAL_LIFT, text_w=text_w, src_bottom=VH - src_bottom_y,
+                src_px=SRC_PX, safe_top=zone.top, safe_bottom=VH - zone.bottom, end_logo_h=END_LOGO_H,
                 end_logo_ml=-_logo_pad(acct, END_LOGO_H))
     vals.update({k: v for k, v in kw.items() if k in vals})
     return css + VERTICAL_CSS % vals
+
+
+def detail_band(zone: SafeZone, has_sources: bool = True) -> tuple[int, int]:
+    """(y just below the logo, y of the top of the Sources line or footer): the band a detail slide's block fills."""
+    src_bottom_y = zone.bottom - FOOT_PX - SRC_GAP
+    return LOGO_TOP + LOGO_H, (src_bottom_y - SRC_H) if has_sources else (zone.bottom - FOOT_PX)
 
 
 def _foot(post: dict) -> str:
@@ -197,11 +243,12 @@ def _foot(post: dict) -> str:
             f"<span data-chk='site'>idly.news</span></div>")
 
 
-def vcover_html(post: dict, slide: dict, photo_file: str, photo_h: int, top_lum: float) -> str:
+def vcover_html(post: dict, slide: dict, photo_file: str, photo_h: int, top_lum: float,
+                zone: SafeZone = STORY_ZONE) -> str:
     """The story card / reel cover. `photo_file` is the already-cropped 1080 x photo_h window."""
     top_a = 0.42 if top_lum > 150 else (0.26 if top_lum > 90 else 0.12)
     logo_edge, logo_glow = (0.35, 0.55) if top_lum > 150 else ((0.2, 0.4) if top_lum > 110 else (0, 0.3))
-    css = _vcss(post['acct'], photo_h=photo_h, top_a=top_a, logo_edge=logo_edge, logo_glow=logo_glow)
+    css = _vcss(post['acct'], zone, photo_h=photo_h, top_a=top_a, logo_edge=logo_edge, logo_glow=logo_glow)
     credit = (f"<div class='credit' data-chk='credit'>{_esc(slide['photo_credit'])}</div>"
               if slide.get('photo_credit') else '')
     return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
@@ -211,20 +258,20 @@ def vcover_html(post: dict, slide: dict, photo_file: str, photo_h: int, top_lum:
   <div class='topfade'></div><div class='vfade'></div><div class='vsolid'></div>
   <img class='logo' data-chk='logo' data-kind='mark' src='file://{_logo_path(post['acct'])}'>
   {credit}
-  <div class='txt'><div class='kick' data-chk='kicker' data-edge='1'>@{_esc(post['acct'])}</div><div class='head' id='head' data-chk='headline' data-edge='1'>{_esc(slide['headline'])}</div></div>
+  <div class='txt'><div class='kick' data-chk='kicker' data-edge='1'>@{_esc(post['acct'])}</div><div class='head' id='head' data-chk='headline' data-edge='1' data-lines='1'>{_esc(slide['headline'])}</div></div>
   {_foot(post)}
 </div></body></html>"""
 
 
-def vdetail_html(post: dict, slide: dict) -> str:
+def vdetail_html(post: dict, slide: dict, zone: SafeZone = REEL_SAFE_ZONE) -> str:
     """A detail slide re-laid out for 9:16: stat, label, bullets and the Sources line on the dark background."""
-    css = _vcss(post['acct'])
+    css = _vcss(post['acct'], zone)
     stat = (f"<div class='stat' id='stat' data-chk='stat'>{_esc(slide['stat'])}</div>"
             if (slide.get('stat') or '').strip() else '')
-    label = (f"<div class='slabel' data-chk='label' data-edge='1'>{_keep_compounds(slide['stat_label'])}</div>"
+    label = (f"<div class='slabel' data-chk='label' data-edge='1' data-lines='1'>{_keep_compounds(slide['stat_label'])}</div>"
              if slide.get('stat_label') else '')
     rule = "<div class='rule'></div>" if (stat or label) and slide.get('bullets') else ''
-    bullets = ''.join(f"<li data-chk='bullet{i}' data-edge='1'>{_keep_compounds(b)}</li>"
+    bullets = ''.join(f"<li data-chk='bullet{i}' data-edge='1' data-lines='1'>{_keep_compounds(b)}</li>"
                       for i, b in enumerate(slide.get('bullets') or [], 1))
     src = credit_line_text(post, slide)
     srcline = (f"<div class='srcwrap'><div class='srcline' data-chk='sources' data-edge='1'>{_esc(src)}</div></div>"
@@ -239,9 +286,10 @@ def vdetail_html(post: dict, slide: dict) -> str:
 </div></body></html>"""
 
 
-def vend_html(post: dict) -> str:
-    """The end card: the account's logo, idly.news and the handle, left-aligned like everything else."""
-    css = _vcss(post['acct'])
+def vend_html(post: dict, zone: SafeZone = REEL_SAFE_ZONE) -> str:
+    """The end card: the account's logo, idly.news and the handle, left-aligned like everything else, centred
+    vertically in the zone."""
+    css = _vcss(post['acct'], zone)
     return f"""<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>
 <div class='s v e'>
   <div class='bgfill'></div>
@@ -273,7 +321,7 @@ VCOVER_JS = """
   let cb = o.creditY, clen = 0;
   if (c) {
     clen = Math.ceil(c.getBoundingClientRect().height);
-    if (clen > cb - (o.safeTop + o.pad)) cb = Math.min(o.safeBottom, o.safeTop + o.pad + clen);
+    if (clen > cb - (o.safeTop + o.pad)) cb = Math.min(o.creditMax, o.safeTop + o.pad + clen);
     c.style.bottom = (o.H - cb) + 'px';
   }
   return {size: s, lines: lines(), overflow: lines() > o.lines || wide(), text_top: top, fade_start: start,
@@ -289,7 +337,9 @@ VCHECK_JS = """
     return st.display !== 'none' && st.visibility !== 'hidden' && parseFloat(st.opacity) > 0; };
   const els = Array.from(document.querySelectorAll('[data-chk]')).filter(vis);
   const items = els.map(el => { const r = el.getBoundingClientRect();
-    return {el, name: el.dataset.chk, mark: el.dataset.kind === 'mark', x0: r.left, y0: r.top, x1: r.right, y1: r.bottom}; })
+    const it = parseFloat(el.dataset.inkTop || 0), ib = parseFloat(el.dataset.inkBottom || 0);
+    return {el, name: el.dataset.chk, mark: el.dataset.kind === 'mark', x0: r.left, y0: r.top + it, x1: r.right,
+            y1: r.bottom - ib}; })
     .filter(i => i.x1 - i.x0 > 0 && i.y1 - i.y0 > 0);
   const collisions = [];
   for (let i = 0; i < items.length; i++) for (let j = i + 1; j < items.length; j++) {
@@ -302,6 +352,23 @@ VCHECK_JS = """
                        .map(i => `${i.name} y ${r(i.y0)}-${r(i.y1)}`);
   const outside = items.filter(i => i.x0 < o.margin - 0.5 || i.x1 > o.W - o.margin + 0.5)
                        .map(i => `${i.name} x ${r(i.x0)}-${r(i.x1)}`);
+  const buttons = items.filter(i => i.y1 > o.rightFrom + 0.5 && i.x1 > o.rightX + 0.5)
+                       .map(i => `${i.name} x ${r(i.x0)}-${r(i.x1)} y ${r(i.y0)}-${r(i.y1)}`);
+  const lineWidths = el => {
+    const rg = document.createRange(); rg.selectNodeContents(el);
+    const lines = [];
+    for (const q of rg.getClientRects()) {
+      if (q.width < 0.5) continue;
+      const L = lines.find(x => Math.abs(x.mid - (q.top + q.bottom) / 2) < q.height * 0.4);
+      if (L) { L.l = Math.min(L.l, q.left); L.r = Math.max(L.r, q.right); }
+      else lines.push({mid: (q.top + q.bottom) / 2, l: q.left, r: q.right});
+    }
+    return lines.sort((a, b) => a.mid - b.mid).map(x => x.r - x.l);
+  };
+  const orphans = els.filter(el => el.dataset.lines).filter(el => {
+    const w = lineWidths(el);            // a last line under 30% of the longest: a lone word left hanging
+    return w.length >= 2 && w[w.length - 1] < 0.3 * Math.max(...w);
+}).map(el => el.dataset.chk);
   const left_edges = {};
   els.filter(el => el.dataset.edge).forEach(el => { left_edges[el.dataset.chk] = r(el.getBoundingClientRect().left); });
   const texts = items.filter(i => !i.mark);
@@ -309,7 +376,86 @@ VCHECK_JS = """
   const truncated = items.filter(i => getComputedStyle(i.el).textOverflow === 'ellipsis' &&
                                       i.el.scrollWidth > i.el.clientWidth + 1).map(i => i.name);
   const boxes = {}; items.forEach(i => { boxes[i.name] = [r(i.x0), r(i.y0), r(i.x1), r(i.y1)]; });
-  return {collisions, ui_zone, outside, left_edges, min_font_px, truncated, boxes};
+  return {collisions, ui_zone, outside, ui_buttons: buttons, orphans, left_edges, min_font_px, truncated, boxes};
+}
+"""
+
+# detail slides: the stat no wider than the column; shrink until the block fits; then grow the type (to the caps)
+# and the spacing until no empty band above or below the block is taller than maxGap. The stat's margins are trimmed
+# to its ink (its line box has room for accents), and data-ink-top/-bottom tell the checks where its ink is.
+VDETAIL_JS = """
+(o) => {
+  const body = document.querySelector('.body');
+  const stat = document.getElementById('stat');
+  const lab = document.querySelector('.slabel');
+  const rule = document.querySelector('.rule');
+  const lis = Array.from(document.querySelectorAll('li'));
+  const ctx = document.createElement('canvas').getContext('2d');
+  let s = o.stat, l = o.label, b = o.bullet, g = 1, statMax = o.statMax;
+  const ink = () => {
+    const cs = getComputedStyle(stat);
+    ctx.font = `${cs.fontStyle} ${cs.fontWeight} ${cs.fontSize} ${cs.fontFamily}`;
+    const m = ctx.measureText(stat.textContent.trim());
+    const lh = parseFloat(cs.lineHeight);
+    const base = (lh - (m.fontBoundingBoxAscent + m.fontBoundingBoxDescent)) / 2 + m.fontBoundingBoxAscent;
+    return {top: base - m.actualBoundingBoxAscent, bottom: base + m.actualBoundingBoxDescent, lh,
+            pad: parseFloat(cs.paddingBottom), left: m.actualBoundingBoxLeft};
+  };
+  const set = () => {
+    if (stat) {
+      stat.style.fontSize = s + 'px';
+      const k = ink();
+      const mt = Math.max(0, k.top), mb = Math.max(0, k.lh + k.pad - k.bottom);
+      stat.style.marginTop = (-mt) + 'px'; stat.style.marginBottom = (-mb) + 'px';
+      stat.dataset.inkTop = mt; stat.dataset.inkBottom = mb;
+    }
+    if (lab) { lab.style.fontSize = l + 'px'; lab.style.marginTop = (stat ? Math.round(o.labelGap * g) : 0) + 'px'; }
+    if (rule) rule.style.margin = `${Math.round(o.ruleTop * g)}px 0 ${Math.round(o.ruleBottom * g)}px`;
+    lis.forEach((li, i) => { li.style.fontSize = b + 'px';
+                             li.style.marginBottom = (i < lis.length - 1 ? Math.round(o.liGap * g) : 0) + 'px'; });
+  };
+  const statW = () => stat ? stat.getBoundingClientRect().width : 0;
+  const over = () => body.scrollHeight > body.clientHeight + 1;
+  const extent = () => {
+    let top = Infinity, bot = -Infinity;
+    for (const k of body.children) {
+      const r = k.getBoundingClientRect();
+      if (r.height <= 0) continue;
+      const t = k === stat ? r.top + parseFloat(stat.dataset.inkTop || 0) : r.top;
+      const d = k === stat ? r.bottom - parseFloat(stat.dataset.inkBottom || 0) : r.bottom;
+      top = Math.min(top, t); bot = Math.max(bot, d);
+    }
+    return [top, bot];
+  };
+  const gaps = () => { const [t, d] = extent(); return [t - o.above, o.below - d]; };
+  set();
+  if (stat) while (statW() > o.statMaxW && s > 80) { s -= 4; set(); }
+  while (over()) {
+    if (stat && s > o.statMin) s -= 6;
+    else if (b > o.bulletMin) b -= 1;
+    else if (l > o.labelMin) l -= 1;
+    else break;
+    set();
+  }
+  for (let guard = 0; guard < 400 && Math.max(...gaps()) > o.maxGap; guard++) {
+    const prev = [s, l, b, g];
+    let grew = false;
+    if (stat && s < statMax) { s += 4; grew = true; }
+    if (l < o.labelMax) { l += 1; grew = true; }
+    if (b < o.bulletMax) { b += 1; grew = true; }
+    if (!grew && g < o.gapMax) { g = Math.round((g + 0.05) * 100) / 100; grew = true; }
+    if (!grew) break;
+    set();
+    if (stat && statW() > o.statMaxW) { s = prev[0]; statMax = s; set(); }
+    if (over()) { [s, l, b, g] = prev; set(); break; }
+  }
+  if (stat) {   // optical left edge: the italic numerals' ink starts right of the text column; pull it back
+    const k = ink();
+    stat.style.marginLeft = Math.max(-40, Math.min(20, k.left)) + 'px';
+  }
+  const [gt, gb] = gaps();
+  return {stat: stat ? s : 0, label: l, bullet: b, spacing: g, overflow: over(), gap_above: Math.round(gt),
+          gap_below: Math.round(gb)};
 }
 """
 
@@ -336,7 +482,26 @@ BALANCE_JS = """
 }
 """
 
-CHECK_OPTS = dict(safeTop=SAFE_TOP, safeBottom=SAFE_BOTTOM, W=VW, margin=24)
+def check_opts(zone: SafeZone) -> dict:
+    return dict(safeTop=zone.top, safeBottom=zone.bottom, W=VW, margin=24, rightX=zone.right, rightFrom=zone.right_from)
+
+
+CHECK_OPTS = check_opts(STORY_ZONE)
+
+
+def max_empty_band(im: Image.Image, top: int, bottom: int, tol: int = 14) -> int:
+    """The tallest run of rows between `top` and `bottom` with nothing on them but the brand background."""
+    region = im.convert('RGB').crop((0, top, VW, bottom))
+    diff = ImageChops.difference(region, Image.new('RGB', region.size, VBG_RGB)).convert('L')
+    data = diff.point(lambda v: 255 if v > tol else 0).tobytes()
+    run = best = 0
+    for y in range(region.height):
+        if data[y * VW:(y + 1) * VW].strip(b'\x00'):
+            run = 0
+        else:
+            run += 1
+            best = max(best, run)
+    return best
 
 
 def vertical_problems(rows: list[dict], min_font: int = MIN_TEXT_PX) -> list[str]:
@@ -351,10 +516,18 @@ def vertical_problems(rows: list[dict], min_font: int = MIN_TEXT_PX) -> list[str
             out.append(f"{who}: text does not fit")
         for a, b in row.get('collisions') or []:
             out.append(f"{who}: {a} collides with {b}")
+        top, bottom = row.get('safe') or (SAFE_TOP, SAFE_BOTTOM)
         for z in row.get('ui_zone') or []:
-            out.append(f"{who}: {z} is inside Instagram's UI zone (text must stay in y {SAFE_TOP}-{SAFE_BOTTOM})")
+            out.append(f"{who}: {z} is inside Instagram's UI zone (text must stay in y {top}-{bottom})")
+        for z in row.get('ui_buttons') or []:
+            out.append(f"{who}: {z} is under the Reels buttons (right of x {REEL_SAFE_ZONE.right} below "
+                       f"y {REEL_SAFE_ZONE.right_from})")
         for z in row.get('outside') or []:
             out.append(f"{who}: {z} is outside the margins")
+        for z in row.get('orphans') or []:
+            out.append(f"{who}: {z} ends with a lone word on its last line")
+        if row.get('type') == 'detail' and (row.get('max_band') or 0) > MAX_EMPTY_BAND:
+            out.append(f"{who}: a {row['max_band']}px empty band (max {MAX_EMPTY_BAND}px)")
         for t in row.get('truncated') or []:
             out.append(f"{who}: {t} is cut short")
         edges = {k: v for k, v in (row.get('left_edges') or {}).items()}
@@ -387,8 +560,9 @@ async def _load(page, doc: str, tmp: str, name: str) -> None:
 
 
 async def _render_pages(post: dict, *, layers: bool, details: list[dict], end_card: bool, base_dir: str | None,
-                        report: list | None, verbose: bool) -> dict:
-    """Render the cover (always), and for a reel the cover's layers, the vertical detail slides and the end card."""
+                        report: list | None, verbose: bool, zone: SafeZone = STORY_ZONE) -> dict:
+    """Render the cover (always), and for a reel the cover's layers, the vertical detail slides and the end card,
+    all inside `zone` (STORY_ZONE for a story, REEL_SAFE_ZONE for every frame of a reel)."""
     from playwright.async_api import async_playwright
 
     _check_hype(post)
@@ -410,13 +584,17 @@ async def _render_pages(post: dict, *, layers: bool, details: list[dict], end_ca
             browser = await pw.chromium.launch(executable_path=_chrome(),
                                                args=['--no-sandbox', '--allow-file-access-from-files'])
             page = await browser.new_page(viewport={'width': VW, 'height': VH}, device_scale_factor=1)
-            await _load(page, vcover_html(post, cover, photo_file, win.h, top_lum), tmp, 'cover')
-            info = await page.evaluate(VCOVER_JS, dict(VHEAD_FIT, photoH=win.h, solidBelow=SOLID_BELOW_TEXT_TOP,
-                                                       fadeLen=FADE_LEN, creditY=CREDIT_Y, safeTop=SAFE_TOP,
-                                                       safeBottom=SAFE_BOTTOM, pad=16, H=VH))
-            info.update(await page.evaluate(VCHECK_JS, CHECK_OPTS))
-            info.update(page='cover', type='cover', scale=round(win.scale, 3), photo_h=win.h,
-                        crop=list(win.box), credit_line=cover.get('photo_credit'))
+            opts = check_opts(zone)
+            safe = [zone.top, zone.bottom]
+            await _load(page, vcover_html(post, cover, photo_file, win.h, top_lum, zone), tmp, 'cover')
+            credit_max = zone.right_from if zone.right < VW else zone.bottom   # reels: stay above the buttons
+            info = await page.evaluate(VCOVER_JS, dict(VHEAD_FIT, max=zone.head_max, photoH=win.h,
+                                                       solidBelow=SOLID_BELOW_TEXT_TOP, fadeLen=zone.fade_len,
+                                                       creditY=CREDIT_Y, creditMax=credit_max, safeTop=zone.top,
+                                                       safeBottom=zone.bottom, pad=16, H=VH))
+            info.update(await page.evaluate(VCHECK_JS, opts))
+            info.update(page='cover', type='cover', zone=zone.name, safe=safe, scale=round(win.scale, 3),
+                        photo_h=win.h, crop=list(win.box), credit_line=cover.get('photo_credit'))
             rows.append(info)
             out['cover'] = await _shot(page)
             if layers:
@@ -427,18 +605,23 @@ async def _render_pages(post: dict, *, layers: bool, details: list[dict], end_ca
                 out['text'] = await _shot(page, omit_background=True)
             out['details'] = []
             for i, s in enumerate(details, 1):
-                await _load(page, vdetail_html(post, s), tmp, f'detail{i}')
-                info = await page.evaluate(HYPE_DETAIL_JS, VDETAIL_FIT)
+                await _load(page, vdetail_html(post, s, zone), tmp, f'detail{i}')
+                above, below = detail_band(zone, bool(credit_line_text(post, s)))
+                info = await page.evaluate(VDETAIL_JS, dict(VDETAIL_FIT, statMaxW=zone.col_right - VSIDE,
+                                                            above=above, below=below))
                 await page.evaluate(BALANCE_JS, '.slabel, li')
-                info.update(await page.evaluate(VCHECK_JS, CHECK_OPTS))
+                info.update(await page.evaluate(VCHECK_JS, opts))
                 info['left_edges'].pop('stat', None)              # the italic stat is aligned optically
-                info.update(page=f'detail {i}', type='detail', credit_line=credit_line_text(post, s))
+                shot = await _shot(page)
+                info.update(page=f'detail {i}', type='detail', zone=zone.name, safe=safe,
+                            credit_line=credit_line_text(post, s),
+                            max_band=max_empty_band(shot, zone.top, zone.bottom))
                 rows.append(info)
-                out['details'].append(await _shot(page))
+                out['details'].append(shot)
             if end_card:
-                await _load(page, vend_html(post), tmp, 'end')
-                info = await page.evaluate(VCHECK_JS, CHECK_OPTS)
-                info.update(page='end card', type='end')
+                await _load(page, vend_html(post, zone), tmp, 'end')
+                info = await page.evaluate(VCHECK_JS, opts)
+                info.update(page='end card', type='end', zone=zone.name, safe=safe)
                 rows.append(info)
                 out['end'] = await _shot(page)
             await browser.close()
