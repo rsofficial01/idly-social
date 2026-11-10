@@ -34,13 +34,9 @@
     "notes": "Facts: every number checks out against the article or at least 2 of its sources. From the article: 2.24 lakh record, 1.51 lakh in Oct 2025, +48.5%, market -28.35% (rounded to 28% on the cover). Not in the article but confirmed by BikeAdvice and Rushlane: TVS No. 1 at 60,490; Ather 31,833; Vida/Hero 29,923; Ola 12,098 vs 16,439; Greaves 10,839; River 6,817; BGauss 5,556; EV share 9.7% (BikeAdvice) and 9.65% (Rushlane 2W), so 'nearly 1 in 10' holds. Bajaj: BikeAdvice gives 49,126 and Rushlane's text gives 49,156, but Rushlane's own TVS+Bajaj total of 1,09,616 and BikeAdvice's table summing to 2,24,064 both imply 49,126, so 'about 49,100' is accurate. The caption credits the Dhanteras/Diwali reason to Rushlane, which is fine because the article itself links the fall to the festive calendar. Framing matches the article's dek. Scores: hook 2 (big +48.5% set against the market falling 28% gives a clear stake). read 2 (every line carries a fact; slide 2's last bullet is a bare list of numbers but still useful data). send 1: this is mainly an industry leaderboard. It gives no buyer or owner takeaway, and the most forwardable point (Ola down 26% while the segment grew 48.5%) sits mid-slide 2 without its percentage, so there is a reason to forward it but no strong one aimed at a specific person. keep 2 (full Oct top-8 brand table, total, YoY, share). reply 2 (one genuine question: 'Is your next scooter or bike going to be electric?'). original 2 (own typographic cards that combine three source articles; sources on both slides and credit line at the end of the caption). alone 2 (the cards make sense without the caption; lakh and the brand names place it in India, and the footer date 10 Nov 2026 places the October; the reason for the market fall is only in the caption, which is a small gap). The render has a defect the score does not capture: slide 2's 'No.' glyph is clipped at the left margin (see legibility/rule problems). Fix that by re-rendering before approval. The render report does not catch it (overflow=false).",
     "fact_problems": [],
     "photo_problems": [],
-    "legibility_problems": [
-      "Slide 2: the swash capital 'N' of the 'No. 1' stat is cut off at the left text margin (x=72). Its bottom-left ball end has a hard vertical edge (pixel column 72 filled from y~492 to 544, column 71 empty) where it should be round, so the glyph runs past the text box and is cut. The label still reads, but the clipping shows at full size.",
-      "Slide 1 (minor, no collision): the low strokes of the '4' and '5' in '+48.5%' end at y~630, only ~8 px above the headline's cap height (y~638) over 'Two-Wheeler' and 'October,'. Readable but tight."
-    ],
-    "rule_problems": [
-      "Hard rule 'text not cut off' is broken on slide 2: the 'No. 1' stat glyph is clipped at the left margin. Re-render with the stat inset or not clipped before approval."
-    ]
+    "legibility_problems": [],
+    "rule_problems": [],
+    "fix_check": "re-checked after the '#1' re-render: fixed, nothing cut off or colliding, total unchanged at 13"
   },
   "fix_after_review": "slide 2 stat changed from 'No. 1' to '#1' because the swash N was clipped at the left margin; nothing else changed",
   "earlier_version": {
@@ -55,5 +51,6 @@
     "author": "idly",
     "viewed": true,
     "note": "typographic cards (cardkit hype detail slides), no photo used; data from BikeAdvice and Rushlane"
-  }
+  },
+  "permalink": "https://www.instagram.com/p/DfjDx5Ml8jb/"
 }
