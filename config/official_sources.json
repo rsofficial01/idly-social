@@ -12,7 +12,7 @@
     "denied_agencies: never used, even if an API returns them (idly has no licence).",
     "To add a source: see RUNBOOK.md, 'Official image lane' -> 'Adding a source'."
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "youtube_channels": [
     {
       "name": "Netflix India",
@@ -187,6 +187,12 @@
       "author_url": "https://www.youtube.com/@PlayStation",
       "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
       "verified": "2026-11-10 hourly 2327: Sony Interactive Entertainment's official PlayStation channel. YouTube oEmbed author_url https://www.youtube.com/@PlayStation (author 'PlayStation') for etOOO9Sq7u8, 90gpqJE-tLU and eT_A2gPhTIw; channel page externalId UC-2Y8dQb0S6DtpxNgAKoJKA, vanity @PlayStation, verified badge; playstation.com/en-us links youtube.com/user/playstation, which resolves to the same channel id. Evidence from the idlynerd desk, independently re-checked and passed by the blind reviewer at Gate 1."
+    },
+    {
+      "name": "Salman Khan Films",
+      "author_url": "https://www.youtube.com/@SalmanKhanFilms",
+      "channel_id": "UCz3Mq_cS7AVRatrpGQi7QUQ",
+      "verified": "2026-11-11 hourly 0426 (idlynerd desk): Salman Khan Films (SKF), the Mumbai production house, owns this channel. Its own site, www.salmankhanfilms.com, links https://www.youtube.com/@salmankhanfilms in two places: the footer social icon (aria-label 'Salman Khan Films on YouTube') and the Organization JSON-LD sameAs. The channel page shows title 'Salman Khan Films', externalId UCz3Mq_cS7AVRatrpGQi7QUQ and vanity @SalmanKhanFilms, a verified badge (header label 'Salman Khan Films, Verified'), 3.37M subscribers and 372 videos, and its header links instagram.com/skfilmsofficial, the same account the site links. YouTube oEmbed author_url is https://www.youtube.com/@SalmanKhanFilms (author 'Salman Khan Films') for fA8-gXDoAk8 (Maatrubhumi trailer) and WWthtnGbxUM (Maatrubhumi teaser). This entry does NOT cover the separate @SalmanKhanFilmsMusic channel."
     }
   ],
   "pending_review": [
