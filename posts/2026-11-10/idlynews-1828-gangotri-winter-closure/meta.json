@@ -1,0 +1,36 @@
+{
+ "account": "idlynews",
+ "title": "Gangotri closes for winter after 10 lakh-plus visitors (temple authorities; 'record-breaking', temple committee); Kedarnath and Yamunotri close 11 Nov, Badrinath 16 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.hindustantimes.com/india-news/gangotri-dham-portals-close-devotees-can-offer-prayers-at-winter-abode-in-mukhba-temple-101794312382809.html",
+  "https://www.etvbharat.com/en/state/doors-of-gangotri-dham-in-uttarkashi-are-closed-char-dham-yatra-2026-is-nearing-its-end-enn26111002455",
+  "https://www.etvbharat.com/en/bharat/schedule-for-closing-doors-of-yamunotri-badrinath-and-kedarnath-for-winter-announced-enn26102004166",
+  "https://theprint.in/india/kedarnath-temple-portals-to-close-on-nov-11/",
+  "https://www.freepressjournal.in/lifestyle/yamunotri-dham-winter-closure-2026-temple-doors-to-close-on-november-11-in-uttarakhand-all-you-need-to-know",
+  "https://ddindia.co.in/2026/09/char-dham-yatra-draws-record-pilgrims-badrinath-and-gangotri-set-new-highs/",
+  "https://www.uniindia.com/north-india/religion-uk-char-dham-yatra-pilgrims/205494"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Gangotri_temple_2007.jpg",
+  "file": "https://www.flickr.com/photos/9790785@N03/747242696/",
+  "downloaded": "https://live.staticflickr.com/1410/747242696_58e709dc86_o.jpg",
+  "licence": "CC BY 2.0",
+  "author": "envybalki",
+  "date": "2007-06-26",
+  "credit": "Photo: envybalki / Wikimedia Commons, CC BY 2.0 (cropped)",
+  "subject": "Gangotri temple, Uttarkashi district, Uttarakhand (the shrine that closed for winter on 10 Nov 2026)",
+  "viewed": true,
+  "processing": "Commons file Gangotri_temple_2007.jpg (2048x3072), fetched from the author's Flickr original (same file and licence; upload.wikimedia.org returned HTTP 429, Retry-After 600). Cropped to x 120-2048, y 0-2380 (1928x2380) to remove a group of pilgrims at the temple steps and a telecom mast at the left edge; 0 faces (YuNet); pipeline.framing ok full-bleed (0.57x at zoom 1.0). Cardkit hype cover at focal (0.5, 0.4), zoom 1.2 (crop top-anchored, bottom edge above the temple's Hindi notice board so it no longer sits behind the headline) = 0.68x downscale, with headline scrim 0.76; no other edits. Cover's vertical credit: 'Photo: envybalki / Wikimedia Commons, CC BY 2.0'; caption credit adds '(cropped)'."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "PASS: build C1 (Gangotri winter closure; ceiling 13 with double-sourced 'record', else 12); conditions: two sources per date/time/winter seat, neutral and secular wording, count attributed to temple authorities, no identifiable pilgrims in the photo. C2 fallback, C3 dropped.",
+  "g2": "PASS (blind reviewer): facts double-sourced, record attributed twice, neutral wording; edit: caption credit \"(cropped)\"",
+  "g3": "PASS (blind reviewer): Commons/Flickr CC BY 2.0 envybalki, same file; crop has no person; watch notice board behind headline and softness at Gate 4",
+  "g4": "PASS: reviewer 13/14; cover re-framed (focal 0.5,0.4, zoom 1.2) to keep the notice board out of frame; slightly soft at full size, clean at phone size"
+ }
+}

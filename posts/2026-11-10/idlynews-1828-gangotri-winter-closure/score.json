@@ -1,0 +1,33 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13). Blind reviewer, Gate 4, run 1828. No layout HOLD: full-bleed (focal 0.5/0.4, zoom 1.2, 0.68x downscale), no person, no watermark, notice board out of frame; pennant below the logo; domes clear of the 3-line white headline; headline legible over the dimmed grey roof; vertical credit readable and ~30 px clear of 'Record'. The 2007 photo is a little soft at 1:1 (pines, dome edges) but not pixelated, and reads clean at phone size. Corner domes meet the frame edges; the main cluster is whole. send 1: Kedarnath and Yamunotri shut tomorrow morning, before most readers see a peak-time post, so the forward is informational; Badrinath (16 Nov) is the only door still open. Other checks 2: record 10 lakh-plus on the cover, credited to the temple committee and the state government in the caption; closing dates and winter seats to keep; own-life family yatra question; slide 2 names each shrine. Minor: slide 2's label breaks 'Char / Dham' across lines.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "after render. send 1: Kedarnath/Yamunotri shut the morning after a peak-time post; the forward is to a family that did or plans the yatra (Badrinath to 16 Nov is the only open door), not a 'go now'. hook 2: 10 lakh-plus with 'record' attributed twice (temple committee via HT; state govt 'highest ever' via IANS/DD India). Cover: notice board cropped out by zoom 1.2; headline over grey stone under 0.76 scrim; 2007 photo slightly soft at 1:1 but downscaled 0.68x, fine at phone size."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4, run 1828. No layout HOLD: full-bleed (focal 0.5/0.4, zoom 1.2, 0.68x downscale), no person, no watermark, notice board out of frame; pennant below the logo; domes clear of the 3-line white headline; headline legible over the dimmed grey roof; vertical credit readable and ~30 px clear of 'Record'. The 2007 photo is a little soft at 1:1 (pines, dome edges) but not pixelated, and reads clean at phone size. Corner domes meet the frame edges; the main cluster is whole. send 1: Kedarnath and Yamunotri shut tomorrow morning, before most readers see a peak-time post, so the forward is informational; Badrinath (16 Nov) is the only door still open. Other checks 2: record 10 lakh-plus on the cover, credited to the temple committee and the state government in the caption; closing dates and winter seats to keep; own-life family yatra question; slide 2 names each shrine. Minor: slide 2's label breaks 'Char / Dham' across lines."
+ }
+}
