@@ -339,6 +339,14 @@
       "domain": "footballmanager.com",
       "organisation": "Sports Interactive",
       "verified": "2026-11-10: Sports Interactive's own Football Manager site (developer Sports Interactive Ltd, publisher SEGA Europe); official news and launch pages. Confirmed by the blind reviewer at Gate 1 (hourly run 1527)."
+    },
+    {
+      "domain": "godzilla.com",
+      "organisation": "Toho International",
+      "path_prefixes": [
+        "/blogs/news"
+      ],
+      "verified": "2026-11-10 hourly 1828: the site's own 'brought to you by Toho International' line and (c) TOHO footer; ComicBook.com's 2019 launch report; Toho International's GM (2023) on relaunching godzilla.com. Reviewer passed it (Gate 1, nerd/g1-verdict.md)."
     }
   ],
   "denied_domains": [
