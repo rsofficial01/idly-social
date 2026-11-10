@@ -1,0 +1,12 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "v2: same cover; slide 2 re-rendered with the fixed detail template (white Title Case headline, one left edge, hanging markers, source line). Content unchanged from the 13/14 blind-reviewed version.",
+ "story_id": 1510
+}

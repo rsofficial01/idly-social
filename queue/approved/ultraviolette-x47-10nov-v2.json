@@ -1,0 +1,17 @@
+{
+  "slug": "ultraviolette-x47-10nov-v2",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "Blind review 13/14 of the same content (10 Nov). v2 changes only the layout of slide 2 (fixed detail template); checked at full size in the main session: one left edge, white Title Case headline, no overlap, source line present. Blind reviewer, 10 Nov: HOLD reason: Only blocker is the 'Tell us below' comment prompt. Score is 13/14, so it would PASS once that's deleted (confirm the intro price is still open).\nhook 2: 'Claims 343 km range, from ₹2.65 lakh' gives two specific numbers and a clear buyer stake.\nread 2: Slide 2 is tight: price and cut-off, claimed performance, battery/charging/weight, booking and delivery.\nsend 1: The intro price for the first 5,000 buyers gives some urgency, but it's a niche premium EV with no comparison angle.\nkeep 2: Price, cut-off, specs, where to book and delivery month: a strong save.\nreply 2: 'How many km do Only blocker was 'Tell us below.', since removed. Price offer re-checked 10 Nov (first 5,000, still reported)."
+  },
+  "reviewed_at": "2026-11-10T05:09:33+00:00",
+  "reviewed_by": "blind reviewer (Claude), 10 Nov; v2 layout re-render checked in main session",
+  "notes": ""
+}
