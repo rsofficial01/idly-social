@@ -190,8 +190,15 @@ A silent 9-14 second **Reel** of a post that is already live, made and posted by
   there is never anyone else's music or audio). About 3.5 s of the cover (a slow 1.00 to 1.06 push-in on the photo,
   the kicker and headline slide up and fade in from 0.4 s), then 1-2 of the post's detail slides re-laid out for
   9:16 (about 3 s each, 8-frame crossfades), then a 1.5 s end card (the account's logo, idly.news, the handle). Same
-  look and rules as the story: full-width photo fading into #0A0A0A, one left edge, nothing in Instagram's UI zones,
-  no text under 30 px. `reel_cover.jpg` is the Reels-tab cover.
+  look as the story (full-width photo fading into #0A0A0A, one left edge, no text under 30 px), but a reel's own
+  safe zone: Instagram's caption, username and audio overlay covers the bottom ~540 px of a reel and its
+  like/comment/share buttons sit at x ≥ 960 from y ~1000 down, so every reel frame keeps its text in **y 220-1380**
+  and clear of that column (`REEL_SAFE_ZONE` in `cardkit/vertical.py`, the one setting to change if Instagram moves
+  its UI). The cover's headline sits just above y 1380 and the photo fades out earlier to match. Detail slides fill
+  the zone: bigger type (stat about 20% larger, label 52 px or more, bullets 40 px or more), the block centred a
+  little above the middle, no empty band over 220 px and no lone word on a last line. A slide with too little on
+  it (a stat and a label, no bullets) can't fill a reel frame: the lane rejects that reel with the reason, so pick
+  fuller slides with `--details`. `reel_cover.jpg` is the Reels-tab cover.
 - **Ask for one** (any run, once the feed post is live):
   1. Write the reel's caption with the same caption rules, but **leave the credit line off**: the lane appends the
      post's own credit. Score the reel on the 7 checks (12 or more, honestly: a reel isn't better than its post).
@@ -530,15 +537,16 @@ first** when you list it.
   `AP_MEDIA_API_KEY` is set; PTI, ANI and IANS are stubs until they give us an API). The lane picks the
   newest photo whose caption matches the query, big enough, that passes face framing, and costs nothing
   extra. **Never Reuters or Getty.** If wire isn't set up, it falls through to your fallback.
-- **Trailers:** YouTube thumbnails are 1280×720, so the lane uses the *letterbox* layout: the still at full
-  width below the logo, on a blurred, darkened copy of itself.
+- **Trailers:** YouTube thumbnails are 1280×720. Covers are always full-bleed ([Cover style](#cover-style-rahul-10-nov-2026)):
+  the lane crops the still to 4:5 around any faces (enlarging it up to 2x, with sharpening). If no full-bleed crop
+  keeps every face clear, it moves on to the next image attempt. Never a letterbox or a blurred fill.
 - **Newsrooms:** pages from news outlets (NDTV, Times of India, Cinema Express, 123telugu, Hindustan Times,
   Indian Express …) are always refused, as are images they host.
 
 What the lane checks (every one rejects the spec with a reason): allowlist and denylist; no placeholders,
 logos or blank images; under 900 px wide never (1080 px at more than 1.2× upscale); every face detected
 (YuNet) sits between y 190 and y 702 of the 1080×1350 cover, not cut by an edge, and nothing busy under the
-logo (else letterbox, else reject); the headline fits; the credit line on every slide doesn't collide; the
+logo (else the next image attempt, else reject); the headline fits; the credit line on every slide doesn't collide; the
 caption passes every caption rule with the credit appended.
 
 ### 3. Review (the reviewer step)
