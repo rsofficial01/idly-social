@@ -1,0 +1,33 @@
+{
+ "account": "idlyhype",
+ "title": "Converse x HAVEN Chuck 70 listed on Converse India at ₹10,999 (Jet Black/Cloud Dancer/White and Bungee Cord/Cloud Dancer/Black, UK 7-11; pages published 10 Nov 2026); HAVEN, a Canadian menswear retailer, launches it 12 Nov and Converse's wider release is 17 Nov; cashmere and long-pile hairy suede, side zip, leather toe cap",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://converse.in/products/converse-chuck-70-a22577c",
+  "https://converse.in/products/converse-chuck-70-a22575c",
+  "https://sneakerscartel.com/haven-and-converse-rework-the-chuck-70-in-cashmere-suede/",
+  "https://www.eyecmag.com/news/2026/11/9/haven-and-converse-share-an-appreciation-for-craftsmanship-on-the-chuck-taylor-70",
+  "https://kicksundercost.com/news/haven-converse-chuck-70-cashmere-suede-release"
+ ],
+ "photo_source": {
+  "page": "https://converse.in/products/converse-chuck-70-a22575c",
+  "file": "https://cdn.shopify.com/s/files/1/0685/3600/8775/files/A22575C_A_107X1_a4d3bd4d-3035-4040-addf-dd0ccef9604c.jpg?v=1793609520",
+  "licence": "Converse's own studio product image on Converse India's official store (converse.in); official brand image, editorial use, credited",
+  "author": "Converse",
+  "credit": "Image: Converse",
+  "subject": "Converse x HAVEN Chuck 70, Bungee Cord/Cloud Dancer/Black (A22575C), lateral side view on a plain light-grey studio background; product only, no people, no watermark",
+  "viewed": true,
+  "processing": "original 1000x1000 JPEG (sha1 65ae2214288355de29463685e5ac79d1be5085bb), saved as _work/2026-11-11-hourly-0227/idlyhype/photos/haven-a22575c-A.jpg; pipeline.framing: ok, 0 faces, focal 0.5/0.5, zoom 1.0, centred 800x1000 crop enlarged 1.35x (Lanczos + framing's sharpening) to framing-khaki/cover_source.png (1080x1350, sha1 786cd34f676e7fa2976895b8f76c5d0d448a1756); shoe body x 6-1073, y 335-1014; no other edits"
+ },
+ "tags": [
+  "converse.india"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer, predicted ceiling 13). Fixes applied: headline 'HAVEN x Converse Chuck 70: ₹10,999' (no 'Is Already in India'); single side view A22575C_A centred, heel loop and toe in frame; no India-first/stock claims; no GORE-TEX, OrthoLite or US/CAD price; Sources only Converse India, Sneakers Cartel, Eyec, Kicks Under Cost (no Hypebeast); HAVEN explained once on slide 2 (which also names Converse); tag @converse.india only; 'Image: Converse' last. C2 UGG x Aimé Leon Dore DROP (no India release/price, no people-free image); C3 Campus Q2 FY27 DROP (stale, off-brief).",
+  "g23": "Words PASS, picture PASS (blind reviewer). Neither headline fits one line in cardkit (both wrap to 2 lines, top 1050); kept 'HAVEN x Converse Chuck 70: ₹10,999'. Reviewer waived the 40 px rule for the thin lace aglet (about 34 px above the glyphs; sole 48-55 px clear) and accepted about 6 px side margins (1000 px square source, no larger official image). Khaki over black confirmed. Listings re-checked 02:58 IST before the final render: both ₹10,999, UK 7-11 available.",
+  "g4": "PASS (blind reviewer) 13/14: hook 2, read 2, send 1, keep 2, reply 2, original 2, alone 2. Self 12/14; final 12/14. Tag @converse.india confirmed in converse.in's own footer (instagram.com/converse.india)."
+ }
+}

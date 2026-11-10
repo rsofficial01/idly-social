@@ -1,0 +1,46 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-0227-haven-converse-chuck-70",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Converse India",
+    "Sneakers Cartel",
+    "Eyec",
+    "Kicks Under Cost"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "HAVEN x Converse Chuck 70: ₹10,999",
+      "photo": "_work/2026-11-11-hourly-0227/idlyhype/framing-khaki/cover_source.png",
+      "photo_credit": "Image: Converse",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "2",
+      "stat_label": "Colours on Converse India's Store Now",
+      "bullets": [
+        "Jet Black/Cloud Dancer/White, UK 7 to 11",
+        "Bungee Cord/Cloud Dancer/Black, same sizes and price",
+        "Converse made it with HAVEN, a Canadian menswear retailer"
+      ],
+      "credit_line": "Sources: Converse India, Sneakers Cartel, Kicks Under Cost"
+    },
+    {
+      "type": "detail",
+      "stat": "12 NOV",
+      "stat_label": "HAVEN's Own Drop; Converse's Wider Release 17 Nov",
+      "bullets": [
+        "Cashmere suede meets long-pile hairy suede",
+        "A side zip runs alongside the usual laces",
+        "A leather toe cap replaces the rubber bumper"
+      ],
+      "credit_line": "Sources: Sneakers Cartel, Eyec, Kicks Under Cost"
+    }
+  ]
+}
