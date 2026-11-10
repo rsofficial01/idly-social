@@ -1,0 +1,120 @@
+{
+  "slug": "2026-11-11-idlynerd-maatrubhumi-trailer",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T23:31:04+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=fA8-gXDoAk8",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=WWthtnGbxUM",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=WWthtnGbxUM",
+    "source_url": "https://www.youtube.com/watch?v=WWthtnGbxUM",
+    "image_url": "https://i.ytimg.com/vi/WWthtnGbxUM/maxresdefault.jpg",
+    "credit": "Image: Salman Khan Films (official teaser)",
+    "organisation": "Salman Khan Films",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=WWthtnGbxUM: author 'Salman Khan Films' https://www.youtube.com/@SalmanKhanFilms, title 'Maatrubhumi - Teaser | Salman Khan, Chitrangada Singh | Apoorva Lakhia'",
+      "thumbnail https://i.ytimg.com/vi/WWthtnGbxUM/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@SalmanKhanFilms",
+    "video_title": "Maatrubhumi - Teaser | Salman Khan, Chitrangada Singh | Apoorva Lakhia"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.33,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Salman Khan Films (official teaser)",
+      "Sources: Bollywood Hungama, Free Press Journal, NewsX"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Salman Khan Films (official teaser)",
+      "slug": "2026-11-11-idlynerd-maatrubhumi-trailer",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 316,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Bollywood Hungama, Free Press Journal, NewsX",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-maatrubhumi-trailer",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg"
+  ],
+  "caption_final": "Salman Khan says viewers above 75 can watch his new war film Maatrubhumi for ₹11. He said it at the film's trailer launch in Mumbai on 6 November (\"Humne 75 ke upar ke logon ka ticket rakha hai 11 rupaye\"). How to book the ₹11 seats, at which cinemas and with what proof of age haven't been announced yet.\n\nMaatrubhumi: May War Rest in Peace opens in cinemas on 4 December, the same day as Shraddha Kapoor's Eetha. Directed by Apoorva Lakhia, with Chitrangda Singh, it was made under the working title Battle of Galwan; Khan says it isn't a biopic. The trailer went online on 10 November on Salman Khan Films' YouTube channel.\n\nWho is the oldest person in your family who still goes to the cinema?\n\nFull story on idly.news (link in bio).\n\n#Maatrubhumi #SalmanKhan #Bollywood #HindiCinema #idlynerd\n\nImage: Salman Khan Films (official teaser)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
