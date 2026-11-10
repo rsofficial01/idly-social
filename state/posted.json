@@ -884,5 +884,39 @@
     "tagged": [
       "bape_us"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17910259587667009",
+    "permalink": "https://www.instagram.com/p/DfkIY0DjPEr/",
+    "posted_at": "2026-11-10T14:34:01+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1927-taigun-november-discount/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1927-taigun-november-discount/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyautomotive-1927-taigun-november-discount/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "volkswagen_india"
+    ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18094591730676654",
+    "permalink": "https://www.instagram.com/p/DfkIcfOlx9O/",
+    "posted_at": "2026-11-10T14:34:33+00:00",
+    "date": "2026-11-10",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1927-note-ban-cash/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1927-note-ban-cash/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1927-note-ban-cash/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlynews-1927-note-ban-cash/04.jpg"
+    ],
+    "score_total": 12
   }
 ]
