@@ -298,5 +298,20 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/review-mookuthi-amman-2-10nov-v2/04.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18124569191517314",
+    "permalink": "https://www.instagram.com/p/DfjQlqkF6qs/",
+    "posted_at": "2026-11-10T06:26:29+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/idlyhype-1130-nike-vegam-run/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
