@@ -1,0 +1,48 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 0,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Scored as the lower of self 12 and blind reviewer 12. keep 0: no vote, debate or effective date to save; the bill is only being re-introduced. send 2: an Indian reader forwards it to a relative in the US. hook 2: Diwali as a US federal holiday, headline over a lit-diya rangoli. Facts: Diwali Day Act, 12th federal holiday, five named Indian-origin backers, led by Grace Meng (DT Next/PTI; '5 Indian-origin lawmakers' also in India Today and TOI headlines); backers' reason attributed; tense 'are re-introducing' per PTI's 'will re-introduce'.",
+  "story_id": 1757,
+  "article": "https://www.idly.news/articles/1757",
+  "scored_as": "lower of the two totals (self 12, reviewer 12)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 0,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "keep 0: no vote, debate or effective date to save; the bill is only being re-introduced. send 2: an Indian reader forwards it to a relative in the US. hook 2: Diwali as a US federal holiday, headline over a lit-diya rangoli. Facts: Diwali Day Act, 12th federal holiday, five named Indian-origin backers, led by Grace Meng (DT Next/PTI; '5 Indian-origin lawmakers' also in India Today and TOI headlines); backers' reason attributed; tense 'are re-introducing' per PTI's 'will re-introduce'."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 0,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "keep 0: nothing a reader would save. There is no vote or debate date, deadline or eligibility, and the backers' names and the bill's name are not save-worthy. Structural to the story, no fix possible. Passes at exactly 12 with zero margin. Facts check against DT Next/PTI, India Today and TOI: 're-introducing' matches PTI's 'will re-introduce'; '12th' is single-source (PTI) but easy to check (the US has 11 federal holidays); the 5 names match DT Next/PTI; the backers' rationale is attributed. Photo: Commons 'Diwali lamps India 2011', siddarth varanasi via Flickr, CC BY 2.0, licence confirmed on upload; no people, no watermark; 1.055x upscale; the main diya sits clear of the logo and headline. Layout: no overflow and no credit collisions. The headline is legible over the dimmed marigolds, and the vertical credit is legible. Desk note, not a card problem: the linked idly article still says the sources 'differ' (5 vs 19) and mentions '14 other representatives', but the sources actually agree (TOI: 5 Indian-origin among 19). Correct the article."
+  },
+  "photo_source": {
+    "page": "https://commons.wikimedia.org/wiki/File:Diwali_lamps_India_2011.jpg",
+    "licence": "CC BY 2.0",
+    "author": "siddarth varanasi (Flickr)",
+    "viewed": true
+  },
+  "gates": {
+    "gate1": "PASS (ceiling 12)",
+    "gate2": "PASS after fixes",
+    "gate3": "PASS",
+    "gate4": "PASS"
+  }
+}

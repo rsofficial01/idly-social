@@ -1,0 +1,49 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Scored as the lower of self 13 and blind reviewer 14. send 1: a 300cc cruiser is a niche buy; the forward is to someone who booked one or is shopping in this segment, not a broad audience. keep 2: price of both versions, E-Clutch premium, full spec sheet, where deliveries started. hook 2: 'Deliveries Begin' plus the price on a full-width photo of the bike. Every spec matches both BikeAdvice and Rushlane; single-source details (Lajpat Nagar, 4 Nov, dealer-quoted timings) left out.",
+  "story_id": 1747,
+  "article": "https://www.idly.news/articles/1747",
+  "scored_as": "lower of the two totals (self 13, reviewer 14)",
+  "self_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 13,
+    "notes": "send 1: a 300cc cruiser is a niche buy; the forward is to someone who booked one or is shopping in this segment, not a broad audience. keep 2: price of both versions, E-Clutch premium, full spec sheet, where deliveries started. hook 2: 'Deliveries Begin' plus the price on a full-width photo of the bike. Every spec matches both BikeAdvice and Rushlane; single-source details (Lajpat Nagar, 4 Nov, dealer-quoted timings) left out."
+  },
+  "reviewer_score": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 14,
+    "notes": "No check below 2. Facts check against both BikeAdvice and Rushlane: Rs 2.22 / 2.62 lakh (+Rs 40,000); 286cc; 27.6 PS, 24.5 Nm; six-speed; 690 mm; 11.2 L; 173 / 176 kg; dual-channel ABS; TFT with navigation; the E-Clutch description; first units at BigWing dealers including Delhi; no national schedule. Single-source items were dropped as asked. Photo: Commons '2025 Honda Rebel 300 e-Clutch', Chanokchon, own work, CC BY-SA 4.0; no watermark; no faces in the band. It is a Thai-market show bike, and the alt text says so. Layout PASS. The photo band (y182-872) runs past the nominal 45% line, but it ends about 90 px above the headline (which starts at y962), so nothing sits under text; I accept it. Residual weaknesses that don't cost points: the show floor is busy (a CL bike on the left, crowd behind); the right mirror head is clipped about 8 px at the top edge of the band; the rear indicator touches the right edge. A Honda India press image via the official image lane would be the upgrade next time."
+  },
+  "photo_source": {
+    "page": "https://commons.wikimedia.org/wiki/File:2025_Honda_Rebel_300_e-Clutch.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Chanokchon",
+    "viewed": true,
+    "note": "top 80 px cropped so no bystander face survives; letterboxed on a blurred, darkened copy of the face-free crop; 0.548x"
+  },
+  "gates": {
+    "gate1": "PASS (ceiling 13)",
+    "gate2": "PASS",
+    "gate3": "PASS",
+    "gate4": "PASS"
+  }
+}
