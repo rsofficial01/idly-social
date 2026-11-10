@@ -1,0 +1,44 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": true,
+  "title": "Mookuthi Amman 2 Scores 3.6/10 With Critics",
+  "headline": "Mookuthi Amman 2 Scores 3.6/10 With Critics",
+  "caption": "Mookuthi Amman 2 finishes last of the six Diwali releases idly ranked. Half the reviews idly read say Nayanthara still holds the screen, but 9 of 10 fault the screenplay and 6 call the effects cheap. NDTV's Latha Srinivasan says it \"desperately needed a storytelling miracle\".\n\nidly's consolidated score: 3.6/10, the mean of 11 numeric ratings from idly's fixed panel of 47 Indian English-language outlets (newspapers, TV and news sites, established film publications), published on or after release and confirmed on the outlet's page or in two independent listings, converted to /10.\n\nHow much do the effects matter to you in a devotional fantasy, next to the story and the star?\n\nSources: ratings from OnlyKollywood, DT Next, 123Telugu, Filmfare, NDTV, Times of India, India Today, Indian Express, Cinema Express, Gulte and Rediff; read on the outlets' pages or in thereviewmonk, Rotten Tomatoes, Sacnilk and BollyMovieReviewz. Highs and lows from the 10 reviews idly read in full.\n\n#MookuthiAmman2 #Nayanthara #TamilCinema #MovieReview",
+  "alt_text": "1: official trailer still under the headline \"Mookuthi Amman 2 Scores 3.6/10 With Critics\". Cover: the official trailer image with the headline \"Mookuthi Amman 2 Scores 3.6/10 With Critics\". Slide 2: Mookuthi Amman 2, 3.6 out of 10 from 11 critic ratings, a strip of dots from 2.0 to 6.0, and the line \"11 panel ratings. Only one reaches 6/10.\" Slide 3: highs: Nayanthara holds the screen (5 of 10); Regina Cassandra's villain adds some bite (2 of 10); A bigger canvas than the first film (2 of 10). Lows: A weak, overstuffed screenplay (9 of 10); The VFX look cheap, even AI-made (6 of 10); The comedy misfires (6 of 10). Slide 4: every counted rating out of 10: OnlyKollywood 6.0; DT Next 5.0; 123Telugu 4.0; Filmfare 4.0; NDTV 4.0; Times of India 4.0; India Today 3.0; Indian Express 3.0; Cinema Express 3.0; Gulte 2.0; Rediff 2.0.",
+  "sources": [
+    "Hindustan Times",
+    "Indian Express",
+    "Times of India",
+    "NDTV",
+    "Filmfare",
+    "Cinema Express",
+    "thereviewmonk",
+    "Rotten Tomatoes"
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=v263z3rTcLw"
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "keep 1: no confirmed runtime or certificate. Risk: OnlyKollywood 3/5, 123Telugu 2/5, TOI 2/5 and Rediff 1/5 rest on the blind reviewer's page checks."
+    }
+  },
+  "created_at": "2026-11-10T05:27:18+00:00",
+  "append_slides": [
+    "posts/2026-11-10/review_mookuthi-amman-2_v2/02.jpg",
+    "posts/2026-11-10/review_mookuthi-amman-2_v2/03.jpg",
+    "posts/2026-11-10/review_mookuthi-amman-2_v2/04.jpg"
+  ],
+  "notes": "Diwali 2026 critics' consensus, panel rule v5 (research_v5.json). Cover: official trailer thumbnail via the lane."
+}
