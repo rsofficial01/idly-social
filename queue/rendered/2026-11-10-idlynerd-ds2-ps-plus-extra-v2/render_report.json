@@ -1,0 +1,239 @@
+{
+  "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T18:44:36+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://blog.playstation.com/2025/05/08/death-stranding-2-on-the-beach-hands-on-report/",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://blog.playstation.com/2025/05/08/death-stranding-2-on-the-beach-hands-on-report/",
+    "source_url": "https://blog.playstation.com/2025/05/08/death-stranding-2-on-the-beach-hands-on-report/",
+    "image_url": "https://blog.playstation.com/tachyon/2025/05/9996471f9d633c3289945874aed5071d3d691656.jpg",
+    "credit": "Image: PlayStation (Sony Interactive Entertainment)",
+    "organisation": "PlayStation (Sony Interactive Entertainment)",
+    "image_size": [
+      1920,
+      1080
+    ],
+    "log": [
+      "page https://blog.playstation.com/2025/05/08/death-stranding-2-on-the-beach-hands-on-report/ (PlayStation (Sony Interactive Entertainment)): og:title 'Death Stranding 2: On the Beach hands-on report', 1 image(s)",
+      "image https://blog.playstation.com/tachyon/2025/05/9996471f9d633c3289945874aed5071d3d691656.jpg (1920x1080)"
+    ],
+    "og_title": "Death Stranding 2: On the Beach hands-on report"
+  },
+  "faces": [
+    [
+      746.8,
+      433.1,
+      39.0,
+      51.6,
+      0.88
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.3991,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.25,
+    "crop": [
+      334.0,
+      0.0,
+      864.0,
+      1080.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        510,
+        534,
+        571,
+        614
+      ]
+    ],
+    "logo_saliency": 0.64,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        746.8,
+        433.1,
+        39.0,
+        51.6,
+        0.88
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.25,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: PlayStation (Sony Interactive Entertainment)",
+      "Sources: PlayStation India, Digit, Gizmochina",
+      "Sources: PlayStation Blog, Push Square"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: PlayStation (Sony Interactive Entertainment)",
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation India, Digit, Gizmochina",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 208,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Push Square",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Death Stranding 2: On the Beach joins the PlayStation Plus Game Catalogue on 17 November, Sony's PlayStation Blog said on Tuesday. The catalogue comes with the Extra and Deluxe tiers; Essential (₹649 a month in India) doesn't include it.\n\nIn India, PS Plus Extra costs ₹979 a month, ₹2,599 for three months or ₹8,709 a year, and Deluxe costs ₹1,109 a month. Buying the game outright costs ₹4,999 for the Standard Edition on PS Store India, or ₹3,099 in the store's current sale, which runs until 20 November.\n\nAtomfall and Dragon Quest III HD-2D Remake join on 17 November too. Sony gives US and UK dates for the rest: Hell Let Loose on 11 November; Like a Dragon: Pirate Yakuza in Hawaii, Trepang2, MotoGP 26 and Cricket 26 on 24 November. Deluxe adds Soul Reaver 2 and Freedom Wars Remastered. Sony says lineups can differ by region.\n\nDo you buy big PS5 games at launch, or wait for them to reach PS Plus?\n\nSources: PlayStation Blog, PlayStation India, Push Square, Digit, Gizmochina\n\n#DeathStranding2 #PSPlus #PlayStation #PS5 #idlynerd\n\nImage: PlayStation (Sony Interactive Entertainment)",
+  "story": {
+    "status": "rendered",
+    "framing": {
+      "mode": "cover",
+      "focal": [
+        0.3991,
+        0.5
+      ],
+      "zoom": 1.0,
+      "upscale": 1.25,
+      "crop": [
+        334.0,
+        0.0,
+        864.0,
+        1080.0
+      ],
+      "band_top": null,
+      "band_height": null,
+      "faces_out": [
+        [
+          510,
+          534,
+          571,
+          614
+        ]
+      ],
+      "logo_saliency": 0.79,
+      "notes": [
+        "1 face(s) detected"
+      ],
+      "faces_src": [
+        [
+          746.8,
+          433.1,
+          39.0,
+          51.6,
+          0.88
+        ]
+      ],
+      "frame": "vertical",
+      "out_h": 1350
+    },
+    "upscale": 1.25,
+    "checks": [
+      {
+        "size": 92,
+        "lines": 3,
+        "overflow": false,
+        "text_top": 1183,
+        "fade_start": 713,
+        "solid_from": 1333,
+        "credit_bottom": 1000,
+        "credit_len": 696,
+        "collisions": [],
+        "ui_zone": [],
+        "outside": [],
+        "ui_buttons": [],
+        "orphans": [],
+        "left_edges": {
+          "kicker": 64,
+          "headline": 64,
+          "date": 64
+        },
+        "min_font_px": 30,
+        "truncated": [],
+        "page": "cover",
+        "type": "cover",
+        "zone": "story",
+        "safe": [
+          220,
+          1600
+        ],
+        "scale": 1.0,
+        "photo_h": 1350,
+        "crop": [
+          0,
+          0,
+          1080,
+          1350
+        ],
+        "credit_line": "Image: PlayStation (Sony Interactive Entertainment)",
+        "problems": []
+      }
+    ],
+    "file": "story.jpg"
+  }
+}
