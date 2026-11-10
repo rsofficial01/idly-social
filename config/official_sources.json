@@ -55,7 +55,9 @@
     {"name": "Think Music", "author_url": "https://www.youtube.com/@thinkmusicofficial", "channel_id": "UCLbdVvreihwZRL6kwuEUYsA",
      "verified": "2026-11-10: verified badge, 23.1M subscribers (channel name 'Think Music India'); oEmbed confirmed. NOT @THINKMUSIC (an unrelated ASMR channel)"},
     {"name": "Lahari Music", "author_url": "https://www.youtube.com/@LahariMusicIndia", "channel_id": "UCnSqxrSfo1sK4WZ7nBpYW1Q",
-     "verified": "2026-11-10: verified badge, 19.3M subscribers; oEmbed confirmed"}
+     "verified": "2026-11-10: verified badge, 19.3M subscribers; oEmbed confirmed"},
+    {"name": "Rockstar Games", "author_url": "https://www.youtube.com/@RockstarGames", "channel_id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+     "verified": "2026-11-10: rockstargames.com/VI links to youtube.com/rockstargames (= this channel) and to tJbzMqJGH4k on it; verified badge; oEmbed author_url confirmed on GTA VI Trailer 1, Trailer 2 and Launch Trailer"}
   ],
   "pending_review": [
     {"name": "Saregama Telugu", "tried": ["@SaregamaTelugu", "@SaregamaTeluguOfficial"],
@@ -89,7 +91,8 @@
     {"domain": "mythrimoviemakers.com", "organisation": "Mythri Movie Makers"},
     {"domain": "tseries.com", "organisation": "T-Series"},
     {"domain": "saregama.com", "organisation": "Saregama"},
-    {"domain": "laharimusic.com", "organisation": "Lahari Music"}
+    {"domain": "laharimusic.com", "organisation": "Lahari Music"},
+    {"domain": "rockstargames.com", "organisation": "Rockstar Games", "path_prefixes": ["/newswire", "/VI"]}
   ],
   "denied_domains": [
     "123telugu.com", "cinemaexpress.com", "indiatimes.com", "timesofindia.com", "ndtv.com", "hindustantimes.com",
