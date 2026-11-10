@@ -1,0 +1,33 @@
+{
+ "account": "idlynews",
+ "title": "Madras HC (Madurai Bench) orders DVAC FIR over alleged fraudulent purchase of library books, including allegedly AI-generated ones; interim directions in a contempt case; next hearing 11 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.sekarreporter.com/coram-the-before-the-madurai-bench-of-madras-high-court-dated-10-11-2026-coram-the-honourable-mr-justice-g-r-swaminathan-and-the-honourable-mrs-justice-m-d-sumathi-cont-pmd-no-3763-of/ (order text, Cont P(MD) 3763 of 2026, 10.11.2026)",
+  "https://www.barandbench.com/news/litigation/madras-high-court-orders-fir-over-fake-ai-generated-books-in-public-libraries",
+  "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-book-procurement-scam-dvac-directed-register-fir-freeze-bank-account-558026",
+  "https://www.thenewsminute.com/tamil-nadu/library-book-procurement-scam-madras-hc-tells-dvac-to-file-fir",
+  "https://www.freepressjournal.in/india/tamil-nadu-library-book-procurement-scam-madras-high-court-orders-dvac-to-register-fir-freeze-publishers-bank-accounts",
+  "https://www.etvbharat.com/en/state/agal-vilakku-publishing-house-bank-account-frozen-over-library-book-procurement-scam-madurai-bench-of-madras-hc-enn26111002873"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Madurai_High_Court.jpg",
+  "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Madurai_High_Court.jpg/1920px-Madurai_High_Court.jpg (Wikimedia's own 1920x1440 render of File:Madurai_High_Court.jpg; this is the file used. The original at upload.wikimedia.org returned HTTP 429 on every attempt, so its size was not verified; the Commons API listed it as 1600x1200, unconfirmed)",
+  "licence": "CC BY-SA 3.0 (also GFDL)",
+  "author": "Arun",
+  "credit": "Photo: Arun / Wikimedia Commons, CC BY-SA 3.0",
+  "subject": "Madurai Bench of the Madras High Court building (the bench that issued the order), frontage with domed pavilions; people at the gate tiny and not identifiable; garlanded Gandhi statue under the headline gradient",
+  "viewed": true,
+  "processing": "file used: 1920x1440 Wikimedia render (sha1 3b7ea737cd24f981fb747dd781a48880b0a60787), saved as _work/2026-11-10-hourly-2227/idlynews/photos/madurai_hc_1920.jpg; plain 4:5 crop box (787,158,1813,1440) = x 41-94%, y 11-100% of the render (removes the top-left tent canopy and the right-edge metal wheel) -> photos/madurai_hc_crop45.jpg 1026x1282; pipeline.framing: ok, 0 faces, focal 0.5/0.5, zoom 1.0, upscale 1.05; cardkit scale 1.053, scrim 0.63; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (reviewer), narrow pass, ceiling 13 / realistic 12. Fixes: cover 'Madras HC Orders FIR Over Alleged AI-Written Library Books'; no publisher/proprietor/official names; no party blame or 1,500/1,800 counts; attribute to the court (interim directions); 11 NOV stat only if 2-sourced (else 1950); 1600 px original, canopy cropped out, framed crop shown at G3. C2 Black Sea DROP 10; C3 CISCE DROP (image rule).",
+  "g2": "PASS (blind reviewer): all G1 conditions met (cover verbatim, no private/official names, no party blame or book counts, minister line dropped, 'interim directions' once, every claim attributed to the court); 11 NOV 3+ sourced (order para 14, Bar & Bench, FPJ, ETV Bharat); facts checked against the order, Bar & Bench and LiveLaw; slide 3 'may be' softer than the order's 'would fall', allowed.",
+  "g3": "PASS (blind reviewer): Madurai Bench building, CC BY-SA 3.0 by Arun, credited, no watermark; Wikimedia 1920x1440 render (not the 1280 thumbnail), plain crop; canopy out of frame; ~10 small figures, faces ~12-15 px, not identifiable, none under the headline; Gandhi statue is a public monument above the headline; softness acceptable at 1.05x. G4 to check: vertical credit legibility over the white right wing, headline line 1 clear of heads, Sources lines on slides 2-3.",
+  "g4": "PASS (blind reviewer) 12/14, exactly at the gate: hook 1 (no number on the cover; public-money stake not on it), keep 1 (only the 11 Nov hearing date). Credit gap ~23 px to headline line 2; 'CC BY-SA 3.0' over the light wing low-contrast but legible; cover slightly soft (2009 compact camera, 1.05x) but not pixelated; no face under the headline. Self 12/14. Final 12/14."
+ }
+}

@@ -1,0 +1,46 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2227-tn-library-books-fir",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Bar & Bench",
+    "LiveLaw",
+    "The News Minute",
+    "Free Press Journal"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Madras HC Orders FIR Over Alleged AI‑Written Library Books",
+      "photo": "_work/2026-11-10-hourly-2227/idlynews/frame/cover_source.png",
+      "photo_credit": "Photo: Arun / Wikimedia Commons, CC BY-SA 3.0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "11 NOV",
+      "stat_label": "Next Hearing in Madras HC Library-Books Case",
+      "bullets": [
+        "DVAC told to register an FIR",
+        "A publisher's bank accounts to be frozen",
+        "Officials responsible to be identified"
+      ],
+      "credit_line": "Sources: Madras HC order, Bar & Bench, Free Press Journal"
+    },
+    {
+      "type": "detail",
+      "stat": "1950",
+      "stat_label": "TN Library Rules Applied to AI Books",
+      "bullets": [
+        "Court: books falsely credited to Jean Drèze, Bharati",
+        "Court: AI-written, plagiarised books may be 'doubtful taste'",
+        "Court: 'crores of rupees' left the public exchequer"
+      ],
+      "credit_line": "Sources: Madras HC order, Bar & Bench, Free Press Journal"
+    }
+  ]
+}

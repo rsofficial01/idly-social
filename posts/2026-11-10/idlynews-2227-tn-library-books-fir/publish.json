@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlynews-2227-tn-library-books-fir/01.jpg",
+  "posts/2026-11-10/idlynews-2227-tn-library-books-fir/02.jpg",
+  "posts/2026-11-10/idlynews-2227-tn-library-books-fir/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-10/idlynews-2227-tn-library-books-fir/caption.txt",
+ "alt_text_file": "posts/2026-11-10/idlynews-2227-tn-library-books-fir/alt.txt",
+ "score_file": "posts/2026-11-10/idlynews-2227-tn-library-books-fir/score.json",
+ "title": "Madras HC (Madurai Bench) orders DVAC FIR over alleged fraudulent purchase of library books, including allegedly AI-generated ones; interim directions in a contempt case; next hearing 11 Nov",
+ "tags": []
+}

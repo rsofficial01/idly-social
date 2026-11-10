@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (12) and reviewer (12); tie uses the reviewer's checks (identical breakdown; per-check minimum 12/14). Blind reviewer, Gate 4, run 2227. Gate 4 blind review. All 3 slides opened at full size: no overlap/touching text (headline line 2 ends x~995, vertical credit from x~1018), one left edge, white headline/labels, nothing cut off, full-bleed Commons photo of the Madurai Bench (no letterbox/blur, canopy out, 1.05x, slightly soft compact-camera photo but not pixelated), no face under the headline (figures' heads ~y 880-900, statue above the headline), credit readable (top 'CC BY-SA 3.0' over the light wing is low-contrast but legible), Sources line on 02-03. Hook 1: clear and novel (FIR over alleged AI-written library books) but no number on the cover and the public-money stake isn't on it. Read 2. Send 2: writers, librarians, book lovers (Dreze/Bharati detail). Keep 1: only the 11 Nov hearing date; little to save. Reply 2: own-life library question. Original 2. Alone 2.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: no number on the cover and the photo is a court building, so the stake (FIR, alleged AI-written books, public money) must carry it; keep 1: only the 11 Nov hearing date and the 1950 rule to save, no reader deadline; send 2: writers, librarians, teachers and Tamil readers, with the Drèze and Bharati detail; reply 2: own-life library question; original 2: built from the court order itself plus four outlets, our own photo choice and crop; alone 2: cover and each slide name the Madras HC and the library books."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Gate 4 blind review. All 3 slides opened at full size: no overlap/touching text (headline line 2 ends x~995, vertical credit from x~1018), one left edge, white headline/labels, nothing cut off, full-bleed Commons photo of the Madurai Bench (no letterbox/blur, canopy out, 1.05x, slightly soft compact-camera photo but not pixelated), no face under the headline (figures' heads ~y 880-900, statue above the headline), credit readable (top 'CC BY-SA 3.0' over the light wing is low-contrast but legible), Sources line on 02-03. Hook 1: clear and novel (FIR over alleged AI-written library books) but no number on the cover and the public-money stake isn't on it. Read 2. Send 2: writers, librarians, book lovers (Dreze/Bharati detail). Keep 1: only the 11 Nov hearing date; little to save. Reply 2: own-life library question. Original 2. Alone 2."
+ }
+}
