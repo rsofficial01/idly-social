@@ -1,0 +1,42 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Ramayana makes over ₹100 crore net in India on post-Diwali Monday",
+  "headline": "Ramayana Earns Over ₹100 Crore Net on Post-Diwali Monday",
+  "caption": "Ramayana: Part 1 made over ₹100 crore net in India on Monday 9 November, the day after Diwali and its fifth day in cinemas. Bollywood Hungama puts the day at ₹103.47 crore net; Sacnilk's early estimate is ₹107.50 crore net. Both trackers show it as the film's first ₹100 crore day.\n\nThe Hindi version brought in most of Monday's total: ₹85.20 crore net (Bollywood Hungama), ₹87.25 crore net (Sacnilk early estimate). India net after five days: ₹333.79 crore (Bollywood Hungama), ₹346.35 crore (Sacnilk early estimate). Trackers' figures differ and can be revised.\n\nDid you catch a film in a cinema over the Diwali break, and in which language?\n\nSources: Bollywood Hungama, Sacnilk\n\n#Ramayana #BoxOffice #Diwali2026 #IndianCinema #idlynerd",
+  "alt_text": "Slide 1: an official Ramayana image from the film's production partner under the headline \"Ramayana Earns Over ₹100 Crore Net on Post-Diwali Monday\". Slide 2: \"₹100 crore+\", Ramayana's India net on post-Diwali Monday: Bollywood Hungama ₹103.47 crore net, Sacnilk early estimate ₹107.50 crore net, its first ₹100 crore day, Monday 9 November. Slide 3: \"₹330 crore+\", Ramayana's India net after five days: Bollywood Hungama ₹333.79 crore net, Sacnilk early estimate ₹346.35 crore net, Thursday 5 to post-Diwali Monday 9 November.",
+  "sources": [
+    "Bollywood Hungama",
+    "Sacnilk"
+  ],
+  "notes": "Box-office news (idly articles #1764/#1758 were taken down; posted with no idly article), not the critics' review (Rahul's review-ramayana-part-1-10nov-v2 owns that and uses YleIZgpTF6w, deliberately excluded here). Detail slides prebuilt by the idlynerd desk (text only) and attached via append_slides. Slug sorts after review-* so it never jumps Rahul's queue. v2: cover moved off 8HiWKbDTc7w (its thumbnail is the original key art printing 'Part II Diwali 2027', a date since replaced) to the Malayalam trailer U05xJjT0aoc; fallback T-Series song yWNPxS0sXnE. YleIZgpTF6w and the Arabic Introduction (same poster) left out. v3: v2's T-Series cover was the song's promo poster ('SONG OUT NOW', handles, logos); cover now from the producers' own pages (DNEG, then ReDefine). YleIZgpTF6w excluded: it is the live review post's cover.",
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.dneg.com/news/witness-the-world-of-ramayana",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.redefine.co/news/discover-the-world-of-ramayana"
+      }
+    ]
+  },
+  "append_slides": [
+    "posts/2026-11-10/idlynerd-1130-ramayana-100-crore-monday/02.jpg",
+    "posts/2026-11-10/idlynerd-1130-ramayana-100-crore-monday/03.jpg"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 12,
+      "notes": "send 1: a general box-office update fans forward, no specific person needs it. keep 1: tracker numbers date within a day; no dates/prices/eligibility."
+    }
+  },
+  "created_at": "2026-11-10T12:09:26+05:30"
+}
