@@ -18,7 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline import framing, gitsync, lane, official_image, publish  # noqa: E402
 from pipeline.common import now_utc  # noqa: E402
 from tests.lane_helpers import (GOOD_SCORE, REVIEWER_SCORE, FakeFetcher, chrome_available, make_spec,  # noqa: E402
-                                og_routes, stub_renderer)
+                                og_routes, stub_renderer, stub_story_renderer)
 
 
 class LaneCase(unittest.TestCase):
@@ -36,6 +36,7 @@ class LaneCase(unittest.TestCase):
                         mock.patch("pipeline.common.POSTED_FILE", root / "state" / "posted.json")]
         if not self.real_renderer:
             self.patches.append(mock.patch.object(lane, "RENDERER", stub_renderer))
+            self.patches.append(mock.patch.object(lane, "STORY_RENDERER", stub_story_renderer))
         if not self.real_detector:
             self.patches.append(mock.patch.object(framing, "DETECTOR", lambda im: []))
         for p in self.patches:
@@ -113,7 +114,7 @@ class RenderPending(LaneCase):
         self.assertEqual(code, 0, err)
         rdir = self.q / "rendered" / "wagonr-oct"
         self.assertEqual(sorted(p.name for p in rdir.iterdir()),
-                         ["01.jpg", "02.jpg", "render_report.json", "spec.json"])
+                         ["01.jpg", "02.jpg", "render_report.json", "spec.json", "story.jpg"])
         self.assertFalse((self.q / "pending" / "wagonr-oct.json").exists())
         spec = json.loads((rdir / "spec.json").read_text())
         self.assertTrue(spec["caption_final"].endswith("\n\nImage: Maruti Suzuki"))
@@ -360,6 +361,119 @@ class PublishApproved(Review):
         self.assertTrue((self.q / "approved" / "wagonr-oct.json").exists())
 
 
+class LaneStories(PublishApproved):
+    """story.jpg: rendered with the post, posted right after it, and never able to hold up or change the feed post."""
+
+    def test_story_rendered_with_the_post(self):
+        rdir = self.render()
+        rep = json.loads((rdir / "render_report.json").read_text())
+        self.assertEqual(rep["story"]["status"], "rendered")
+        self.assertEqual(rep["story"]["framing"]["frame"], "vertical")
+        publish.check_story_jpeg(rdir / "story.jpg")
+        _, out, _ = self.run_cli("show", "wagonr-oct")
+        self.assertTrue(json.loads(out)["story"].endswith("queue/rendered/wagonr-oct/story.jpg"))
+
+    def test_story_off(self):
+        rdir = self.render(story=False)
+        self.assertFalse((rdir / "story.jpg").exists())
+        self.assertEqual(json.loads((rdir / "render_report.json").read_text())["story"]["status"], "off")
+
+    def test_story_framing_failure_keeps_the_post(self):
+        real = framing.plan_image
+
+        def plan(im, faces=None, use_saliency=True, frame=framing.COVER):
+            if frame is framing.VERTICAL:
+                raise framing.FramingError(["vertical: no crop keeps every face inside y 380-880"])
+            return real(im, faces, use_saliency, frame)
+
+        with mock.patch.object(framing, "plan_image", plan):
+            rdir = self.render()
+        self.assertTrue((rdir / "01.jpg").exists())
+        self.assertFalse((rdir / "story.jpg").exists())
+        rep = json.loads((rdir / "render_report.json").read_text())
+        self.assertIn("380-880", rep["story"]["reasons"][0])
+        self.assertIn("no story", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_story_layout_problem_keeps_the_post(self):
+        def bad(post, out, report):
+            stub_story_renderer(post, out, report)
+            report[-1]["collisions"] = [["credit", "site"]]
+            return str(out)
+
+        with mock.patch.object(lane, "STORY_RENDERER", bad):
+            rdir = self.render()
+        self.assertTrue((rdir / "02.jpg").exists())
+        self.assertFalse((rdir / "story.jpg").exists())
+        self.assertIn("credit collides with site", json.loads((rdir / "render_report.json").read_text())
+                      ["story"]["reasons"][0])
+
+    def publish_run(self, story_effect=None, **approve_kw):
+        self.approve(**approve_kw)
+        client = mock.Mock()
+        client.find_recent.return_value = None
+        feed = {"status": "posted", "permalink": "https://www.instagram.com/p/F/", "media_id": "1790"}
+        story = mock.Mock(side_effect=story_effect, return_value={"status": "posted", "media_id": "1791",
+                                                                  "permalink": ""})
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_post", return_value=feed), \
+                mock.patch.object(publish, "publish_story", story), \
+                mock.patch.object(publish, "connect", return_value=(client, "1784")), \
+                mock.patch("pipeline.run_day.url_ready", return_value=(True, "ok")):
+            code, _, err = self.run_cli("publish-approved")
+        self.assertEqual(code, 0, err)
+        return story, json.loads((self.q / "posted" / "wagonr-oct" / "result.json").read_text())
+
+    def test_story_posted_after_the_feed_post(self):
+        story, result = self.publish_run()
+        args, kw = story.call_args
+        self.assertEqual(args[0], "idlyautomotive")
+        self.assertTrue(args[1].endswith("/queue/rendered/wagonr-oct/story.jpg"))   # still public at that moment
+        self.assertEqual((kw["story_of"], kw["slot"]), ("1790", "lane"))
+        self.assertEqual(result["status"], "posted")
+        self.assertEqual(result["story"]["media_id"], "1791")
+        self.assertIn("story · @idlyautomotive wagonr-oct", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_story_failure_never_touches_the_feed_post(self):
+        _, result = self.publish_run(story_effect=publish.IGError("container st1 is ERROR: bad image"))
+        self.assertEqual(result["status"], "posted")
+        self.assertEqual(result["permalink"], "https://www.instagram.com/p/F/")
+        self.assertEqual(result["story"]["status"], "failed")
+        self.assertIn("story failed", next(self.reports.glob("lane-*.md")).read_text())
+
+    def test_reviewer_can_drop_the_story(self):
+        self.render()
+        self.run_cli("approve", "wagonr-oct", "--score-file", self.score_file(REVIEWER_SCORE), "--no-story")
+        story = mock.Mock()
+        client = mock.Mock()
+        client.find_recent.return_value = None
+        with mock.patch.dict(os.environ, {"IG_TOKEN_IDLYAUTOMOTIVE": "x"}), \
+                mock.patch.object(publish, "publish_post", return_value={"status": "posted", "media_id": "1"}), \
+                mock.patch.object(publish, "publish_story", story), \
+                mock.patch.object(publish, "connect", return_value=(client, "1784")), \
+                mock.patch("pipeline.run_day.url_ready", return_value=(True, "ok")):
+            self.run_cli("publish-approved")
+        story.assert_not_called()
+
+    def test_dry_run_shows_the_story_call(self):
+        self.approve()
+        with mock.patch.object(publish, "append_posted") as ap, mock.patch.object(publish, "connect") as conn:
+            code, out, err = self.run_cli("publish-approved", "--dry-run")
+        self.assertEqual(code, 0, err)
+        ap.assert_not_called()
+        conn.assert_not_called()
+        self.assertIn("media_type=STORIES", out)
+        self.assertIn("queue/rendered/wagonr-oct/story.jpg", out)
+
+    def test_stories_do_not_count_as_posts(self):
+        from pipeline import common
+        recent = (now_utc() - timedelta(minutes=5)).isoformat(timespec="seconds")
+        common.append_posted({"type": "story", "account": "idlyautomotive", "media_id": "9", "story_id": 990001,
+                              "posted_at": recent, "slot": "lane", "date": "2026-11-10"})
+        self.assertEqual(common.posted_story_ids("idlyautomotive"), set())
+        story, result = self.publish_run()                    # not "waiting" for a 30-minute gap, not a duplicate
+        self.assertEqual(result["status"], "posted")
+
+
 class GitMerges(unittest.TestCase):
     def test_posted_union(self):
         up = json.dumps([{"account": "a", "media_id": "1"}, {"account": "b", "media_id": "2"}])
@@ -417,6 +531,10 @@ class EndToEndDryRun(LaneCase):
         ap.assert_not_called()
         self.assertIn("POST", out)
         self.assertIn("media_type=CAROUSEL", out)
+        self.assertIn("media_type=STORIES", out)
+        rep = json.loads((self.q / "rendered" / "wagonr-oct-e2e" / "render_report.json").read_text())
+        self.assertEqual(rep["story"]["status"], "rendered", rep["story"])
+        publish.check_story_jpeg(self.q / "rendered" / "wagonr-oct-e2e" / "story.jpg")
 
 
 if __name__ == "__main__":

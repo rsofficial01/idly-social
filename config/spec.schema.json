@@ -172,6 +172,10 @@
         "pattern": "^@?[A-Za-z0-9._]{1,30}$"
       },
       "description": "Official Instagram accounts of whoever published the image (brand, studio, label), tagged on the cover. Verified handles only; a rejected tag never blocks the post."
+    },
+    "story": {
+      "type": "boolean",
+      "description": "false: no Instagram Story for this post. Default: render-pending makes story.jpg (9:16) and publish-approved posts it right after the feed post."
     }
   },
   "dependentRequired": {

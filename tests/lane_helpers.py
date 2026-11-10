@@ -155,6 +155,20 @@ def stub_renderer(posts, out_dir, png_dir, report):
     return out
 
 
+def stub_story_renderer(post, out_jpg, report):
+    """Stand-in for cardkit.vertical.render_story (no Chrome): a 1080x1920 JPEG and a clean report row."""
+    slide = post["slides"][0]
+    v = slide.get("vertical") or {}
+    im = Image.open(v.get("photo") or slide["photo"]).convert("RGB").resize((1080, v.get("photo_h") or 1350))
+    card = Image.new("RGB", (1080, 1920), (10, 10, 10))
+    card.paste(im, (0, 0))
+    card.save(out_jpg, "JPEG", quality=85)
+    report.append({"page": "cover", "type": "cover", "overflow": False, "collisions": [], "ui_zone": [],
+                   "outside": [], "truncated": [], "left_edges": {"kicker": 64, "headline": 64, "date": 64},
+                   "min_font_px": 30, "scale": 1.0, "photo_h": v.get("photo_h") or 1350})
+    return str(out_jpg)
+
+
 def chrome_available() -> bool:
     try:
         import playwright  # noqa: F401

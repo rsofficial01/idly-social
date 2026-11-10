@@ -2,7 +2,9 @@
 GitHub Actions publisher posts it once a blind reviewer approves it with `lane.py approve`.
 
 For posts made outside the lane (morning cards, Nvidia, reviews) when the Claude scheduled
-posting runs are unreliable. Nothing is re-rendered: the committed JPEGs are copied as they are.
+posting runs are unreliable. Nothing is re-rendered: the committed JPEGs are copied as they are. A story.jpg
+in the folder (made with `python3 -m cardkit.vertical story`, non-people photos only) is copied too, and
+publish-approved posts it right after the feed post.
 
     python3 pipeline/enqueue_prebuilt.py posts/2026-11-10/nvidia_idlynews --account idlynews \
         [--slides 01.jpg 02.jpg] [--no-idly-article] [--story-id 1664] [--evergreen]
@@ -72,6 +74,11 @@ def main(argv=None) -> int:
         name = f"{i:02d}.jpg"
         shutil.copyfile(src / s, dest / name)
         files.append(name)
+    story = None
+    if (src / "story.jpg").exists():
+        publish.check_story_jpeg(src / "story.jpg")
+        shutil.copyfile(src / "story.jpg", dest / "story.jpg")
+        story = {"status": "prebuilt", "file": "story.jpg"}
     alt = (src / "alt.txt").read_text(encoding="utf-8").strip().splitlines()[0] if (src / "alt.txt").exists() else ""
     credit = next((l for l in reversed(caption.splitlines()) if re.match(r"(Photo|Poster|Image|Still)s?:", l.strip())), "")
     spec = {"slug": slug, "account": a.account, "story_id": story_id, "idly_article": idly_article,
@@ -80,12 +87,12 @@ def main(argv=None) -> int:
             "created_at": now_utc().isoformat(timespec="seconds"),
             "lane": {"source": "prebuilt", "folder": src.relative_to(REPO).as_posix()}}
     save_json(dest / "spec.json", spec)
-    rep = {"files": files, "prebuilt": True, "caption_final": caption}
+    rep = {"files": files, "prebuilt": True, "caption_final": caption, **({"story": story} if story else {})}
     if a.image_source_url or a.image_org:
         rep["source"] = {"resolver": "prebuilt (recorded by the maker)", "source_url": a.image_source_url,
                          "image_url": None, "organisation": a.image_org}
     save_json(dest / "render_report.json", rep)
-    print(f"queued {slug}: {len(files)} slide(s) for @{a.account}")
+    print(f"queued {slug}: {len(files)} slide(s){' + story' if story else ''} for @{a.account}")
     return 0
 
 

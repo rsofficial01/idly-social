@@ -4,7 +4,7 @@ A Claude session writes a spec; GitHub Actions (plain code, in this repo) fetche
 source, frames it around any faces, renders the cards and later publishes; a Claude reviewer run approves.
 
     queue/pending/<slug>.json        spec, written by a Claude session          (schema: config/spec.schema.json)
-    queue/rendered/<slug>/           01.jpg, 02.jpg ..., spec.json, render_report.json   (render-pending)
+    queue/rendered/<slug>/           01.jpg, 02.jpg ..., story.jpg, spec.json, render_report.json   (render-pending)
     queue/approved/<slug>.json       the blind reviewer's score                 (lane.py approve, by Claude)
     queue/posted/<slug>/             the rendered files + approved.json + result.json    (publish-approved)
     queue/rejected/<slug>/           spec.json + reasons.json (+ render_report.json)
@@ -19,6 +19,9 @@ source, frames it around any faces, renders the cards and later publishes; a Cla
 
 The gate: published only if the LOWER of the self score and the reviewer's score is >= 12/14, and only while
 fresh (created_at under 8 hours ago, unless the spec says "evergreen": true). One post per account per run.
+Stories: render-pending also makes story.jpg (cardkit.vertical, framed with pipeline.framing.VERTICAL) unless the
+spec says "story": false; publish-approved posts it right after the feed post. A story that can't be framed,
+rendered or published is logged and skipped; it never holds up or changes the feed post.
 Both Actions commands are idempotent, take a lock, and with --push commit and push with a rebase-retry loop.
 """
 from __future__ import annotations
@@ -39,7 +42,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from pipeline import editorial, framing, gitsync, official_image, publish
-from pipeline.common import (REPO, REPORTS_DIR, load_json, load_posted, log, now_ist, now_utc,
+from pipeline.common import (REPO, REPORTS_DIR, entry_type, load_json, load_posted, log, now_ist, now_utc,
                              parse_time, posted_story_ids, public_url, save_json, token_env)
 
 QUEUE = Path(os.environ.get("IDLY_QUEUE_DIR") or REPO / "queue")
@@ -207,6 +210,51 @@ def render_with_cardkit(posts: list[dict], out_dir: Path, png_dir: Path, report:
 RENDERER = render_with_cardkit       # tests swap this for a stub when Chrome isn't available
 
 
+def render_story_with_cardkit(post: dict, out_jpg: Path, report: list) -> str:
+    from cardkit.vertical import render_story
+
+    return render_story(post, str(out_jpg), report=report, verbose=False)
+
+
+STORY_RENDERER = render_story_with_cardkit      # tests swap this too
+
+
+def story_problems(rows: list) -> list[str]:
+    from cardkit.vertical import vertical_problems
+
+    return vertical_problems(rows)
+
+
+def make_story(spec: dict, im, plan, post: dict, work: Path) -> tuple[Path | None, dict]:
+    """story.jpg for a lane post: the same photo, re-planned for the 9:16 photo window (faces kept clear of the
+    logo and the text, never letterboxed), the same headline and credit. (None, why) when it can't be made."""
+    if spec.get("story") is False:
+        return None, {"status": "off", "reasons": ["the spec says \"story\": false"]}
+    try:
+        faces = framing.faces_from_plan(plan) if plan.notes else None      # detected once, for the cover
+        vplan = framing.plan_image(im, faces=faces, frame=framing.VERTICAL)
+        if vplan.upscale > framing.MAX_UPSCALE + 1e-6:
+            raise framing.FramingError([f"{vplan.upscale:.2f}x upscale (max {framing.MAX_UPSCALE}x)"])
+        vphoto, vfocal, vzoom = framing.render_input(im, vplan, work / "vertical")
+        vpost = json.loads(json.dumps(post, default=str))
+        vpost["slides"][0]["vertical"] = {"photo": str(vphoto), "focal": list(vfocal), "zoom": vzoom,
+                                          "photo_h": vplan.out_h}
+        rows: list = []
+        path = Path(STORY_RENDERER(vpost, work / "story.jpg", rows))
+        problems = story_problems(rows)
+        if not problems:
+            publish.check_story_jpeg(path)
+    except framing.FramingError as e:
+        return None, {"status": "skipped", "reasons": [f"framing: {r}" for r in e.reasons]}
+    except (ValueError, FileNotFoundError, RuntimeError) as e:
+        return None, {"status": "skipped", "reasons": [f"render: {e}"]}
+    info = {"status": "rendered", "framing": vplan.to_dict(), "upscale": round(vplan.upscale, 3),
+            "checks": [{k: v for k, v in r.items() if k not in ("boxes",)} for r in rows]}
+    if problems:
+        return None, {**info, "status": "skipped", "reasons": problems}
+    return path, info
+
+
 def build_post(spec: dict, slug: str, photo: Path, focal, zoom: float, credit: str) -> dict:
     slides = [{"type": "cover", "headline": spec["headline"], "photo": str(photo), "photo_credit": credit,
                "focal": tuple(focal), "zoom": zoom}]
@@ -321,6 +369,7 @@ def render_one(path: Path) -> tuple[str, str]:
                     problems.append(str(e))
             if problems:
                 raise LaneReject(problems, "render")
+            story_jpg, story_info = make_story(spec, im, plan, post, work)   # never rejects the post itself
 
             staging = qdir("rendered") / f".{slug}.tmp"
             if staging.exists():
@@ -330,6 +379,8 @@ def render_one(path: Path) -> tuple[str, str]:
             for i, jpg in enumerate(jpgs, 1):
                 shutil.copyfile(jpg, staging / f"{i:02d}.jpg")
                 files.append(f"{i:02d}.jpg")
+            if story_jpg:
+                shutil.copyfile(story_jpg, staging / "story.jpg")
             rendered_at = now_utc().isoformat(timespec="seconds")
             save_json(staging / "spec.json", {
                 **spec, "slug": slug, "caption_final": caption, "image_credit": res.credit,
@@ -343,13 +394,15 @@ def render_one(path: Path) -> tuple[str, str]:
                            "overflow": False, "credit_lines": [r.get("credit_line") for r in slides_report],
                            "max_upscale": framing.MAX_UPSCALE},
                 "slides": [{k: v for k, v in r.items() if k != "jpg"} for r in slides_report],
-                "files": files, "caption_final": caption})
+                "files": files, "caption_final": caption,
+                "story": {**story_info, "file": "story.jpg" if story_jpg else None}})
             os.replace(staging, qdir("rendered") / slug)
         finally:
             shutil.rmtree(work, ignore_errors=True)
         path.unlink()
+        story_note = "story ready" if story_jpg else f"no story ({'; '.join(story_info.get('reasons') or [])[:160]})"
         msg = (f"{res.resolver} ({res.organisation}) · {plan.mode} · {len(plan.faces_src)} face(s) · "
-               f"upscale {plan.upscale:.2f}x · {len(files)} slide(s)")
+               f"upscale {plan.upscale:.2f}x · {len(files)} slide(s) · {story_note}")
         report_line(f"rendered · @{account} {slug} · {msg} · awaiting review")
         return "rendered", msg
     except LaneReject as e:
@@ -408,7 +461,10 @@ def cmd_show(a) -> int:
         "framing": (rep or {}).get("framing"), "faces": len((rep or {}).get("faces") or []),
         "created_at": spec["created_at"], "age_hours": round(age_hours(spec), 1),
         "files": [rel_to_repo(rdir / f) for f in (rep or {}).get("files", [])],
-        "note": "Blind packet: the self score is left out on purpose. Score the 7 checks yourself.",
+        "story": rel_to_repo(rdir / "story.jpg") if (rdir / "story.jpg").exists() else None,
+        "story_note": ((rep or {}).get("story") or {}).get("reasons"),
+        "note": ("Blind packet: the self score is left out on purpose. Score the 7 checks yourself. Look at the "
+                 "story too; approve with --no-story to post the feed post without it."),
     }
     print(json.dumps(packet, ensure_ascii=False, indent=2))
     return 0
@@ -438,7 +494,7 @@ def cmd_approve(a) -> int:
         return 0
     save_json(qdir("approved") / f"{a.slug}.json", {
         "slug": a.slug, "reviewer": score, "reviewed_at": now_utc().isoformat(timespec="seconds"),
-        "reviewed_by": a.by, "notes": a.notes or ""})
+        "reviewed_by": a.by, "notes": a.notes or "", **({"story": False} if a.no_story else {})})
     report_line(f"approved · @{spec['account']} {a.slug} · self {mine}, reviewer {theirs} -> {min(mine, theirs)}/14")
     print(f"approved: {min(mine, theirs)}/14 (publish-approved posts it on its next run)")
     return 0
@@ -522,7 +578,7 @@ def publish_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> t
         reject_item(slug, "publish", ["approved, but there is no rendered item"], extra={"approval": approval})
         return "rejected", "no rendered item"
     account = spec["account"]
-    prior = next((p for p in load_posted() if p.get("lane_slug") == slug), None)
+    prior = next((p for p in load_posted() if p.get("lane_slug") == slug and entry_type(p) == "feed"), None)
     if prior:                                     # posted by an earlier run whose final commit didn't land
         finish_posted(slug, approval, {**prior, "status": "posted", "recovered": True})
         report_line(f"posted (recovered record) · @{account} {slug} · {prior.get('permalink', '')}")
@@ -541,7 +597,7 @@ def publish_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> t
     if account in busy:
         return "waiting", f"@{account} already posted in this run; next run"
     last = max((parse_time(p["posted_at"]) for p in load_posted()
-                if p.get("account") == account and p.get("posted_at")), default=None)
+                if p.get("account") == account and p.get("posted_at") and entry_type(p) != "story"), default=None)
     if last is not None and now_utc() - last < MIN_GAP:
         return "waiting", f"@{account} posted {int((now_utc() - last).total_seconds() // 60)} min ago (min gap {MIN_GAP})"
     if not dry_run and not publish.account_token(account) and not allow_shared:
@@ -580,12 +636,44 @@ def publish_one(slug: str, *, dry_run: bool, allow_shared: bool, busy: set) -> t
                       "image_source": (spec.get("lane") or {}).get("source_url"), "archived_images": archived,
                       "score_self": editorial.score_total(spec["scores"]["self"]),
                       "score_reviewer": editorial.score_total(approval.get("reviewer"))})
+    story = publish_lane_story(slug, rdir, spec, approval, res, dry_run)
     if dry_run:
-        return "dry-run", f"would post {len(urls)} image(s) to @{account}"
+        return "dry-run", f"would post {len(urls)} image(s) to @{account}" + (
+            " and its story" if story.get("status") == "dry-run" else "")
+    res = {**res, "story": {k: story.get(k) for k in ("status", "media_id", "permalink", "reason") if story.get(k)}}
     finish_posted(slug, approval, res)
     busy.add(account)
     report_line(f"posted · @{account} {slug} · {editorial.score_total(low)}/14 · {res.get('permalink', '')}")
     return "posted", res.get("permalink", "")
+
+
+def publish_lane_story(slug: str, rdir: Path, spec: dict, approval: dict, feed: dict, dry_run: bool) -> dict:
+    """Post the item's story.jpg right after its feed post (still at queue/rendered/<slug>/, which is public until
+    this run pushes the move to posted/). Never raises: a failed story is logged and the feed post stands."""
+    path = rdir / "story.jpg"
+    account = spec["account"]
+    if not path.exists():
+        return {"status": "none"}
+    if spec.get("story") is False or approval.get("story") is False:
+        return {"status": "off"}
+    url = public_url(rel_to_repo(path))
+    try:
+        publish.check_story_jpeg(path)
+        if not dry_run:
+            from pipeline.run_day import url_ready
+            ok, why = url_ready(url, path.stat().st_size)
+            if not ok:
+                raise publish.IGError(f"story image not public ({why}): {url}")
+        res = publish.publish_story(account, url, dry_run=dry_run,
+                                    story_of=feed.get("media_id"), date=now_ist().date().isoformat(),
+                                    slot=LANE_SLOT, record_extra={"lane": "official-image", "story_of_slug": slug},
+                                    wait=False)
+        if not dry_run:
+            report_line(f"story · @{account} {slug} · {res.get('permalink') or res.get('media_id')}")
+        return res
+    except Exception as e:  # noqa: BLE001 - a story is an extra; the feed post is already up
+        report_line(f"story failed · @{account} {slug} · {e} (the feed post is up; no story this time)")
+        return {"status": "failed", "reason": str(e)[:300]}
 
 
 def cmd_publish_approved(a) -> int:
@@ -644,6 +732,7 @@ def main(argv=None) -> int:
     ok.add_argument("--score-file", required=True)
     ok.add_argument("--notes", default="")
     ok.add_argument("--by", default="claude reviewer (blind)")
+    ok.add_argument("--no-story", action="store_true", help="post the feed post without its story")
     no = sub.add_parser("reject", help="reject a pending, rendered or approved item")
     no.add_argument("slug")
     no.add_argument("--reason", required=True)
