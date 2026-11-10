@@ -175,6 +175,12 @@
       "author_url": "https://www.youtube.com/@footballmanager",
       "channel_id": "UCMWpuQCtigHebT0oRtFy7Gw",
       "verified": "2026-11-10: Sports Interactive's official Football Manager channel. YouTube oEmbed author_url is https://www.youtube.com/@footballmanager for LVskX0X7fCc, 9rdMzTr0sAg and yEUR_K--Kjw; footballmanager.com embeds those videos and its footer links to the channel (canonical /channel/UCMWpuQCtigHebT0oRtFy7Gw). Confirmed by the blind reviewer at Gate 1 (hourly run 1527)."
+    },
+    {
+      "name": "Prime Video UK",
+      "author_url": "https://www.youtube.com/@PrimeVideoUK",
+      "channel_id": "UCwSIJCMWZC5GDM59wj7pMsg",
+      "verified": "2026-11-10: Amazon Prime Video UK & IE's official channel. Channel page: verified badge, header links to amazon.co.uk/Amazon-Video, channel id from the page's externalId. Amazon's own newsroom page aboutamazon.com/news/entertainment/maxton-hall-prime-video (updated 9 Nov 2026) embeds this channel's vPAoANfZ-ps; YouTube oEmbed author_url https://www.youtube.com/@PrimeVideoUK for vPAoANfZ-ps. Evidence from the idlynerd desk, independently re-checked and passed by the blind reviewer at Gate 3 (hourly run 1927)."
     }
   ],
   "pending_review": [
