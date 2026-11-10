@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13). Blind reviewer, Gate 4, run 1828. No layout HOLD: full-bleed official Mahindra studio image of the current XUV 3XO, car whole (y ~470-1000) above the 2-line white headline (from y ~1050), logo on empty backdrop, vertical credit ~25 px clear of 'Stars'; slide 2/3 stat descenders ~20 px clear of the labels; no overflow or credit collision. hook 1: the peg is Mahindra's 6 Nov announcement (about 4.5 days old), and the price that made the hook moved to slide 3; '5 Bharat NCAP Stars' is a clear stake but not fresh. Other checks 2: a forward for a family choosing a CNG compact SUV; keepable scores, price band, km/kg, boot and standard kit; the question is about the reader's own next car (CNG vs petrol is a live choice in India), not a debate; Mahindra's claims attributed; slides name the car.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: Mahindra's 6 Nov release is ~4.5 days old (outside 24-48 h); price moved to slide 3 so the 2-line cover headline stays clear of the car. send 2: family CNG buyers / cab owners weighing a ₹10-12 lakh CNG SUV. keep 2: both scores, variant price range, km/kg, boot. Photo is the regular XUV 3XO (same body), not ZNG-badged."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Blind reviewer, Gate 4, run 1828. No layout HOLD: full-bleed official Mahindra studio image of the current XUV 3XO, car whole (y ~470-1000) above the 2-line white headline (from y ~1050), logo on empty backdrop, vertical credit ~25 px clear of 'Stars'; slide 2/3 stat descenders ~20 px clear of the labels; no overflow or credit collision. hook 1: the peg is Mahindra's 6 Nov announcement (about 4.5 days old), and the price that made the hook moved to slide 3; '5 Bharat NCAP Stars' is a clear stake but not fresh. Other checks 2: a forward for a family choosing a CNG compact SUV; keepable scores, price band, km/kg, boot and standard kit; the question is about the reader's own next car (CNG vs petrol is a live choice in India), not a debate; Mahindra's claims attributed; slides name the car."
+ }
+}

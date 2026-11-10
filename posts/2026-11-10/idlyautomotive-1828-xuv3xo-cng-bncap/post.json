@@ -1,0 +1,45 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1828-xuv3xo-cng-bncap",
+ "date": "10 Nov 2026",
+ "sources": [
+  "Mahindra",
+  "Autocar India",
+  "Autocar Professional",
+  "CarWale",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "XUV 3XO CNG Gets 5 Bharat NCAP Stars",
+   "photo": "_work/2026-11-10-hourly-1828/auto/photos/mahindra-xuv3xo-brochure-p3.jpg",
+   "photo_credit": "Image: Mahindra",
+   "focal": [
+    0.415,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "29.36/32",
+   "stat_label": "XUV 3XO CNG's Adult Occupant Score, Bharat NCAP",
+   "bullets": [
+    "Child occupant score: 45 of 49, key for families",
+    "Six airbags, ESC and ISOFIX standard on every variant",
+    "A detected gas leak switches it to petrol automatically"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "₹9.99 lakh",
+   "stat_label": "Starting Ex-Showroom Price of the XUV 3XO CNG",
+   "bullets": [
+    "Four variants; the top one costs ₹12.27 lakh",
+    "Mahindra claims 24.7 km/kg on CNG",
+    "Under-floor cylinders leave 270 litres of boot space"
+   ]
+  }
+ ]
+}

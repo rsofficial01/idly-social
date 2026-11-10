@@ -1,0 +1,36 @@
+{
+ "account": "idlyautomotive",
+ "title": "Mahindra XUV 3XO CNG (ZNG) gets a 5-star Bharat NCAP rating: 29.36/32 adult, 45/49 child; from ₹9.99 lakh",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.mahindra.com/news-room/press-release/en/mahindra-xuv-3xo-zng-secures-5-star-bharat-ncap-rating-Indias-first-sub-compact-cng-suv-to-achieve-this-milestone",
+  "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwbbf6a98f/X3XO/Press-release-Mahindra-XUV-3XO-ZNG-secures.pdf",
+  "https://www.autocarindia.com/car-news/mahindra-xuv-3xo-cng-secures-5-star-bncap-crash-safety-rating-441271",
+  "https://www.autocarpro.in/news/mahindra-xuv-3xo-zng-earns-five-star-bharat-ncap-rating-135791",
+  "https://www.carwale.com/news/mahindra-xuv-3xo-cng-gets-5-star-bncap-rating/",
+  "https://www.mahindra.com/news-room/press-release/en/mahindra-launches-xuv-3xo-zng-a-whole-lot-of-zing-unmistakably-mahindra-dna",
+  "https://www.businesstoday.in/auto/story/mahindra-xuv-3xo-zng-price-revealed-what-buyers-need-to-know-before-bookings-open-october-20-561731-2026-10-15"
+ ],
+ "photo_source": {
+  "page": "https://auto.mahindra.com/media-kit",
+  "file": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwf2f42d85/qmscertificate/doc/XUV3XOProductBrochure-01-07-24.pdf (page 3, embedded JPEG 2157x1438)",
+  "licence": "Official Mahindra product image from the XUV 3XO brochure linked on Mahindra's own media-kit and model pages (manufacturer media), credited",
+  "author": "Mahindra & Mahindra",
+  "credit": "Image: Mahindra",
+  "subject": "Mahindra XUV 3XO (current body, yellow with black roof), front three-quarter, studio; the ZNG is the CNG version of the same body; the photo is not ZNG-badged",
+  "viewed": true,
+  "processing": "embedded JPEG extracted unaltered with pdfimages (2157x1438, no colour profile); YuNet 0 faces checked before viewing; empty cabin, no number plate, no text overlay; cardkit hype cover focal (0.415, 0.5), zoom 1.0 (pipeline.framing ok, 0.94x downscale; focal x moved from the printed 0.5 to 0.415 so the car's left rear is not cut); no other edits"
+ },
+ "tags": [
+  "mahindraxuv3xo"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "PASS: build C2 (XUV 3XO ZNG 5-star Bharat NCAP), ceiling 13; conditions: two sources per number, attribute Mahindra's claims, no advertorial wording, clean official current-XUV 3XO image (ZNG key visual refused), own-life question. C1 and C3 dropped.",
+  "g2": "PASS after FIX: slide 2 stat label now names the car ('XUV 3XO CNG's Adult Occupant Score, Bharat NCAP'); alt.txt updated to match",
+  "g3": "PASS: Mahindra XUV 3XO brochure image (auto.mahindra.com media kit), current body, no people/plate/overlay, focal (0.415,0.5) zoom 1.0, 0.94x; 2-line headline below the tyres; @mahindraxuv3xo confirmed in Mahindra's press-release PDFs",
+  "g4": "PASS: reviewer 13/14 (hook 1: 6 Nov peg, price on slide 3); all slides clean, no overflow or collision"
+ }
+}
