@@ -1,0 +1,232 @@
+{
+  "slug": "2026-11-10-idlynerd-week-streams",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T15:30:46+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+    "source_url": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+    "image_url": "https://i.ytimg.com/vi/vHV6R0F1vAk/maxresdefault.jpg",
+    "credit": "Image: Prime Video India (official video)",
+    "organisation": "Prime Video India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=vHV6R0F1vAk: author 'Prime Video India' https://www.youtube.com/@PrimeVideoIN, title 'Jailer 2 Ultimate SHOWDOWN 🔥 | Rajinikanth | Prime Video India | November 12'",
+      "thumbnail https://i.ytimg.com/vi/vHV6R0F1vAk/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PrimeVideoIN",
+    "video_title": "Jailer 2 Ultimate SHOWDOWN 🔥 | Rajinikanth | Prime Video India | November 12"
+  },
+  "faces": [
+    [
+      542.3,
+      125.2,
+      151.5,
+      206.8,
+      0.925
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.4828,
+      0.4902
+    ],
+    "zoom": 1.02,
+    "upscale": 1.915,
+    "crop": [
+      336.0,
+      0.0,
+      564.0,
+      706.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        360,
+        192,
+        720,
+        682
+      ]
+    ],
+    "logo_saliency": 0.62,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        542.3,
+        125.2,
+        151.5,
+        206.8,
+        0.925
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.915,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "mentions a charge/crime without 'alleged': check unproven claims are marked"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Prime Video India (official video)",
+      "Sources: Outlook India, Oneindia",
+      "Sources: The Sunday Guardian, Esquire India",
+      "Sources: Netflix, Digit, The Week",
+      "Sources: Scroll, JioHotstar, Daily Jagran",
+      "Sources: Esquire India, Pinkvilla, Daily Jagran"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Prime Video India (official video)",
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Outlook India, Oneindia",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Sunday Guardian, Esquire India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix, Digit, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Scroll, JioHotstar, Daily Jagran",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 5,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Esquire India, Pinkvilla, Daily Jagran",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-week-streams",
+      "slide": 6,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+  ],
+  "caption_final": "Five of the Indian films and shows that start streaming this week:\n\nThursday, 12 November: Rajinikanth's Jailer 2 arrives on Prime Video in Tamil, with Telugu, Hindi, Malayalam and Kannada audio, four weeks after it opened in cinemas on 15 October. Pushpaka Vimanam, a Telugu time-travel fantasy starring Sai Ronak Katkuri, lands on JioHotstar the same day.\n\nFriday, 13 November: Meghna Gulzar's Hindi crime thriller Daayra, with Kareena Kapoor Khan and Prithviraj Sukumaran, comes to Netflix after its 18 September cinema release. Student of the Year: After Dark, a Hindi murder-mystery series with Shanaya Kapoor as twin sisters, starts on JioHotstar. Bandra, the Malayalam thriller with Dileep and Tamannaah Bhatia, reaches ZEE5 three years after its November 2023 cinema release.\n\nAlso this week: Ranabaali, Netflix, 13 November.\n\nWhich of these is your weekend watch?\n\nSources: Outlook India, Oneindia, Esquire India, The Sunday Guardian, Netflix, Digit, Scroll, Pinkvilla\n\n#Jailer2 #OTTReleases #PrimeVideo #IndianCinema #idlynerd\n\nImage: Prime Video India (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
