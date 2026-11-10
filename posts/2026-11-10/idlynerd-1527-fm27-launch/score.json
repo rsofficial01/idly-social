@@ -1,0 +1,66 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "hook 1: the stake (launches today) is clear for existing FM players, but Rs 4,499 is an ordinary list price, not a surprise, and at a glance the cover stadium could be any football game (the FM27 boards are small). HOLD resolved: slide 4 bullet 1 now reads 'New Cup Draws and Transfer Deadline Day events', and the caption and alt text say 'Cup Draws and Transfer Deadline Day events', matching Sports Interactive's 'events like Cup Draws and Transfer Deadline Day'. No 'live' anywhere. Exactly one '?'; the credit is the last line. Re-rendered slide 4: shared left edge, no touching text, source line present. Slides 1-3 unchanged (byte-identical) and passed earlier: the top shade is an acceptable recorded tonal edit and the logo reads; the 1.41x framing enlargement is crisp enough at full size; the headline is white and legible; the credit is readable. Accepted: boxed PS5 on 20 Nov, from Sports Interactive's own FAQ plus dlcompare. Tag @footballmanager confirmed (linked from footballmanager.com).",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: FM is a niche franchise in India and the cover is a stadium, not the key art; rest strong (launch day, Steam India price, editions/subscriptions clarified)."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: the stake (launches today) is clear for existing FM players, but Rs 4,499 is an ordinary list price, not a surprise, and at a glance the cover stadium could be any football game (the FM27 boards are small). HOLD resolved: slide 4 bullet 1 now reads 'New Cup Draws and Transfer Deadline Day events', and the caption and alt text say 'Cup Draws and Transfer Deadline Day events', matching Sports Interactive's 'events like Cup Draws and Transfer Deadline Day'. No 'live' anywhere. Exactly one '?'; the credit is the last line. Re-rendered slide 4: shared left edge, no touching text, source line present. Slides 1-3 unchanged (byte-identical) and passed earlier: the top shade is an acceptable recorded tonal edit and the logo reads; the 1.41x framing enlargement is crisp enough at full size; the headline is white and legible; the credit is readable. Accepted: boxed PS5 on 20 Nov, from Sports Interactive's own FAQ plus dlcompare. Tag @footballmanager confirmed (linked from footballmanager.com).",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "scored_as": "lower of the two totals (self 13, reviewer 13): tie, reviewer's checks used",
+ "story_id": null,
+ "idly_article": false,
+ "photo_source": {
+  "page": "https://www.footballmanager.com/fm27",
+  "file": "https://cdn.footballmanager.com/site/2026-10/3%20Match%20Experience.jpg",
+  "licence": "Official publisher image (Sports Interactive / SEGA), credited",
+  "author": "Sports Interactive",
+  "credit": "Image: Sports Interactive",
+  "viewed": true,
+  "processing": "face detector 0 faces before viewing; 768x960 crop at x 1344-2112 of the 2160x960 original (focal 0.8, 0.5); pipeline.framing enlarged and sharpened 1.41x to 1080x1350; gentle top shade (up to 35% darker at the top edge, fading out by y 320) so the white logo reads on the grey sky"
+ },
+ "sources": [
+  "https://www.footballmanager.com/fm27",
+  "https://www.footballmanager.com/news/football-manager-27-launches-10-november",
+  "https://www.footballmanager.com/news/fm27-touch-launches-apple-arcade-november-10",
+  "https://store.steampowered.com/app/4530370",
+  "https://www.gematsu.com/2026/09/football-manager-27-launches-november-10-for-ps5-xbox-series-pc-ios-and-android",
+  "https://gamingtrend.com/news/football-manager-27-touch-lands-on-apple-arcade-november-10/",
+  "https://www.ithinkdiff.com/football-manager-27-touch-apple-arcade-november-10/",
+  "https://www.dlcompare.com/gaming-news/football-manager-27-release-date-platforms-editions-87666"
+ ],
+ "gates": {
+  "g1": "BUILD C1 (Football Manager 27); FIXes applied: no 'free/included with Netflix', Mobile and Touch named as separate editions, 'Launches Today', Rs 4,499 list price only, official subscription names",
+  "g2": "FIX applied: slide 4 now '5' new features with SI wording; slide 3 label 'All Out Digitally Today'; caption aligned; boxed PS5 20 Nov added (SI FAQ + dlcompare)",
+  "g3": "PASS (official FM27 Match Day Theatre art from footballmanager.com/fm27; tag @footballmanager confirmed)",
+  "g4": "HOLD on 'as live events' (unsupported; introduced by the reviewer's own Gate 2 FIX); slide 4 and caption fixed; recheck PASS 13/14 (hook 1)."
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "account": "idlyautomotive",
+ "title": "Tata leads a 76% jump in India's electric car sales in October 2026",
+ "story_id": null,
+ "idly_article": false,
+ "sources": [
+  "https://www.autocarindia.com/car-news/ev-retail-sales-surge-76-percent-in-october-2026-441290",
+  "https://www.rushlane.com/electric-car-sales-oct-2026-tata-mahindra-mg-vinfast-12560667.html",
+  "https://www.carwale.com/news/car-sales-fall-142-yoy-in-october-evs-and-hybrids-gain-share/"
+ ],
+ "photo_source": {
+  "page": "https://www.tatamotors.com/press-releases/curvv-ev-makes-history/",
+  "file": "https://www.tatamotors.com/wp-content/uploads/2025/02/PR-kit–Curvv.ev-Makes-History.zip (Curvv.ev-Makes-History-3-high.jpg)",
+  "licence": "Official Tata Motors press-kit image for media use",
+  "author": "Tata Motors",
+  "credit": "Image: Tata Motors",
+  "viewed": true,
+  "processing": "cropped full-bleed 4:5 (focal 0.566,1.0; zoom 1.33; 1.176x Lanczos resize); number plate blurred"
+ },
+ "gates": {
+  "g1": "PASS: BUILD C1 (October EV car sales); FIXes applied (Tata-tied headline, FADA named, Kia units only, no reason for fall, no 'record')",
+  "g2": "PASS after FIX: slide 4 bullet reads 'Other EVs: ...'; Toyota 190 confirmed in Rushlane's table",
+  "g3": "PASS: Tata Motors PR-kit image, car whole, 1.176x, plate blur recorded",
+  "g4": "pending"
+ }
+}
