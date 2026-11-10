@@ -1,0 +1,8 @@
+{
+  "slug": "review-roundup-10nov",
+  "stage": "review",
+  "reasons": [
+    "Blind review 13/14 but the numbers can't be reproduced from the outlets the post names, because the inclusion rule is applied inconsistently: Scene '6.8 (13)' leaves out Gulte 2.5/5 (7 Nov), Telugu360 2.25/5 and Great Andhra 2.5/5 (6 Nov), all post-release from listed outlets (all 16 -> 6.5); Mookuthi Amman 2 '3.3 (9)' counts Gulte's 1/5 for the Telugu release but drops 123Telugu's 2/5 (all 10 -> 3.4); Ramayana '21 ratings' undercounts (Telugu360 4/5, The Week 3.5/5, Gulte 3/5, Great Andhra 3/5 qualify), though this reviewer finds 7.1 holds. The '68 ratings' total (~73+) and the caption's 'edges Scene by 0.3' (~0.6) rest on these counts. Fix: recompute, or state one inclusion rule (e.g. original-language outlets only) and apply it to every film. The ranking order and 'Two clear 6/10' survive. Read 1: method/disclaimer text repeated four times; the cover's bold line is sentence case. Note: the separate Ramayana review found Rediff/Sukanya Verma 2.5/5 uncounted (7.0, not 7.1); reconcile both when rebuilding."
+  ],
+  "rejected_at": "2026-11-10T04:40:25+00:00"
+}
