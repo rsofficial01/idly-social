@@ -1,0 +1,38 @@
+{
+ "account": "idlynews",
+ "title": "Maharashtra's UCC drafting committee (headed by retired SC judge Ranjana Desai) takes public feedback on 37 questions (marriage age options 18/21/24/27, bigamy, live-in registration at start and end, common succession rules without a will; mostly yes/no/no comment plus written suggestions) via its website, email or post until 15 Nov 2026; CM Fadnavis aims for a UCC Bill in the December winter session; on 10 Nov Owaisi called it a 'Hindu Civil Code' imposed on non-Hindus and Fadnavis cited the Directive Principles",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://indianexpress.com/article/cities/mumbai/marital-dispute-laws-pushing-couples-towards-live-ins-maharashtra-ucc-panel-asks-public-10923694/",
+  "https://indianexpress.com/article/legal-news/maharashtra-ucc-website-questionnaire-public-feedback-live-in-relationships-marriage-rules-amit-shah-fadnavis-10926776/",
+  "https://m.economictimes.com/news/india/maharashtra-ucc-panel-puts-live-in-womens-property-rights-in-focus/articleshow/135034746.cms",
+  "https://www.financialexpress.com/india-news/bigamy-halala-live-in-relationship-what-is-maharashtras-ucc-survey-asking-citizens/4364214/",
+  "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-uniform-civil-code-citizens-can-submit-suggestions-before-november-15-details-here-23655305",
+  "https://www.mid-day.com/mumbai/politics-news/article/maharashtra-ucc-row-owaisi-alleges-bias-calls-proposed-bill-hindu-civil-code-23659366",
+  "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-ucc-cm-fadnavis-says-constitution-directs-states-to-implement-uniform-civil-code-23659370",
+  "https://www.hindustantimes.com/india-news/uniform-civil-code-an-attempt-to-impose-hindu-civil-code-on-non-hindus-owaisi-101794315133487.html",
+  "https://www.awazthevoice.in/india-news/maharashtra-begins-public-consultations-on-ucc-bill-70577.html",
+  "https://www.tribuneindia.com/news/nation/uttarakhand-ucc-panel-report-drafting-complete-submission-soon-ranjana-desai-17951 (Desai headed Uttarakhand's panel)",
+  "https://www.freepressjournal.in/india/gujarat-govt-forms-5-member-committee-to-prepare-draft-for-ucc (Desai headed Gujarat's panel)"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Mantralay_of_Mumbai,_Administrative_Headquarters_05.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mantralay_of_Mumbai%2C_Administrative_Headquarters_05.jpg/1920px-Mantralay_of_Mumbai%2C_Administrative_Headquarters_05.jpg (Commons standard 1920px thumbnail of the 4128x3096 original; originals were rate-limited; 1920x1440, sha1 a292e0ea632f492a554fd16f01d900428505e834, saved as _work/2026-11-11-hourly-0032/idlynews/photos/commons/Mantralay_of_Mumbai_Administrative_Headquarters_05.jpg)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Pinakpani (own work, 10 Jun 2018)",
+  "credit": "Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "subject": "Mantralaya, Mumbai: the Maharashtra government's administrative headquarters (seat of the government running the UCC consultation); full frontage, Indian flag at full mast, rooftop 'मंत्रालय' sign and emblem, palms, road in front; no watermark; a helmeted motorcyclist and pillion seen side-on and distant pedestrians, all tiny and not identifiable (reviewer ruled acceptable at Gate 3)",
+  "viewed": true,
+  "processing": "pipeline.framing ok, 0 faces, upscale 0.94 at zoom 1; cover focal (0.48, 0.59), zoom 1.08 (to lift the motorbike ~29 px clear of the headline and keep the flag below the logo band): crop about 1067x1333 from y 107, scaled 1.012x; scrim 0.53; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C2 (blind reviewer), realistic ceiling 12. Fixes: service-first, Owaisi-Fadnavis on one slide with both attributed; confirm 37 questions/format/15 Nov/portal in two national outlets or drop; stake in headline without halala; own-life reply that doesn't take sides; view Mantralaya photo. C1 Manipur census DROP (satellite image ruled a stand-in; no people-free HC exterior); C3 Israel/Eisenkot DROP (~10).",
+  "g2": "FIX then applied (Gate 23, blind reviewer): slide 4 bullet 2 and caption changed to Uttarakhand's and Gujarat's panels (MP rested on IE alone; Tribune/BS and FPJ/Onmanorama confirm the two states); slide 3 bullet 1 changed to 'Most questions offer yes, no or no comment' (alt text aligned). Portal URL dropped earlier (single national source). Neutrality PASS.",
+  "g3": "PASS (Gate 23, blind reviewer): Pinakpani's Mantralaya photo, CC BY-SA 4.0, flag at full mast, sign visible, no watermark; riders and pedestrians not identifiable. Watch items checked before Gate 4: last headline line ends at x 1002, vertical credit starts at x 1023 (20 px gap); motorbike wheels end ~y 987, 'Marriage' cap top ~y 1016 (~29 px gap after reframing to zoom 1.08).",
+  "g4": "PASS (blind reviewer) 12/14: hook 1 (no scroll-stopping number on the cover; 37 and the marriage-age options only on slide 2), keep 1 (no portal address or email, URL unconfirmed so omitted); read, send, reply, original, alone 2. All five slides clean at full size; bike ~29 px above 'Marriage', '15 Nov' ~20 px from the vertical credit, flag tip below the logo. Self 13/14 (keep 2). Final 12/14."
+ }
+}

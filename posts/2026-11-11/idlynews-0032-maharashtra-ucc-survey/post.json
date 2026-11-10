@@ -1,0 +1,68 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0032-maharashtra-ucc-survey",
+  "date": "11 Nov 2026",
+  "sources": [
+    "The Indian Express",
+    "The Economic Times",
+    "Mid-Day",
+    "Hindustan Times",
+    "The Financial Express"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Marriage, Inheritance, Live-Ins: Maharashtra's UCC Survey Closes 15 Nov",
+      "photo": "_work/2026-11-11-hourly-0032/idlynews/frame/cover_source.png",
+      "photo_credit": "Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "focal": [
+        0.48,
+        0.59
+      ],
+      "zoom": 1.08
+    },
+    {
+      "type": "detail",
+      "stat": "37",
+      "stat_label": "Questions, From Marriage Age to Inheritance",
+      "bullets": [
+        "Minimum marriage age: choose 18, 21, 24 or 27",
+        "Whether live-ins must be registered at start and end",
+        "Common inheritance rules across religions, if there's no will"
+      ],
+      "credit_line": "Sources: The Indian Express, The Economic Times"
+    },
+    {
+      "type": "detail",
+      "stat": "3 WAYS",
+      "stat_label": "To Respond: Website, Email or Post",
+      "bullets": [
+        "Most questions offer yes, no or no comment",
+        "A written section takes your own suggestions",
+        "Individuals and organisations can both respond"
+      ],
+      "credit_line": "Sources: Mid-Day, The Indian Express"
+    },
+    {
+      "type": "detail",
+      "stat": "DEC",
+      "stat_label": "UCC Bill Aimed at Winter Session, Fadnavis Says",
+      "bullets": [
+        "Panel led by retired SC judge Ranjana Desai",
+        "She also headed Uttarakhand's and Gujarat's UCC panels",
+        "Public hearings across Maharashtra are also planned"
+      ],
+      "credit_line": "Sources: The Indian Express, The Economic Times, Mid-Day"
+    },
+    {
+      "type": "detail",
+      "stat": "10 NOV",
+      "stat_label": "The Questionnaire Draws a Political Row",
+      "bullets": [
+        "AIMIM's Owaisi: a 'Hindu Civil Code' imposed on non-Hindus",
+        "CM Fadnavis: the Constitution directs states toward a UCC"
+      ],
+      "credit_line": "Sources: Mid-Day (ANI, PTI), Hindustan Times"
+    }
+  ]
+}

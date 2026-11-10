@@ -1,0 +1,13 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "hook 1: the cover has a clear stake (marriage, inheritance, live-ins) and a deadline, but no scroll-stopping number; the most surprising detail (marriage-age options of 18, 21, 24 or 27) and the 37 are only on slide 2, and the photo is a government building rather than anything arresting. keep 1: it's a service post with a deadline, but neither the card nor the caption gives the portal address or email, so a reader can't act on the 15 Nov deadline from the post alone (the URL couldn't be confirmed, so leaving it out was right). Strong: each slide does one job (what it asks, how to respond, what's next, the row); the row is balanced, with one attributed bullet a side; an own-life question that doesn't ask readers to take sides; a credited CC BY-SA Commons photo of the actual institution. Layout: all five slides opened at full size; no overlap, one left edge, white headlines, nothing cut off, no letterbox or blur; the flag tip sits below the logo; the bike ends about 29 px above 'Marriage'; '15 Nov' ends about 20 px from the vertical credit, not touching. Gate 23 edits verified word for word in the cards, caption and alt.",
+ "verdict": "PASS",
+ "reviewer": "blind reviewer, run 0032"
+}
