@@ -1,0 +1,62 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self 13 and reviewer 13 (reviewer's checks used). All Gate 2/3 fixes confirmed: the amici line is in the caption (2,057 chars, post_problems ([], []), one '?'); 03/04 labels name 'The Supreme Court'; the credit reads '(edited)' on the cover and as the caption's last line; alt text updated. Cover credit is legible and clear of the headline. hook 1: a procedural court deadline over a hazy dome is a clear stake for Delhi-NCR readers but not a scroll-stopping number.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 13, reviewer 13)",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 1,
+  "total": 13,
+  "notes": "hook 2: a named court, a named deadline (before the 23 Nov hearing) and a concrete subject (vehicle-pollution roadmap) on the cover, over a recognisable Supreme Court dome. alone 1: the cover says 'Delhi-NCR' rather than naming who must answer (slide 2 names the Delhi, UP, Haryana and Rajasthan governments, MCD and Delhi Police). send: NCR commuters and owners of older vehicles (PUC, over-age vehicles, entry checks). keep: 23 Nov hearing plus the 25/26/30 Nov hearing calendar. reply: genuine PUC question. original: own synthesis from the 6 Nov order PDF; credited CC BY-SA photo of the actual court. Gate 2/3 fixes applied: amici's compliance point added for balance; slide 03/04 labels name the Supreme Court; credit marked (edited). Score unchanged."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "All Gate 2/3 fixes confirmed: the amici line is in the caption (2,057 chars, post_problems ([], []), one '?'); 03/04 labels name 'The Supreme Court'; the credit reads '(edited)' on the cover and as the caption's last line; alt text updated. Cover credit is legible and clear of the headline. hook 1: a procedural court deadline over a hazy dome is a clear stake for Delhi-NCR readers but not a scroll-stopping number.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_02.jpg",
+  "licence": "CC BY-SA 4.0 (edited: cropped, one number plate blurred; credited as \"(edited)\")",
+  "author": "Pinakpani",
+  "viewed": true,
+  "processing": "Commons 3840x2880 rendition of the 4128x3096 original; one legible car number plate Gaussian-blurred; hype cover 4:5 crop, focal (0.505, 0.70), zoom 1.54, scale 0.72 (downscale, no upscale). No people in frame (checked at full size)."
+ },
+ "sources": [
+  "https://www.livelaw.in/pdf_upload/2026/11/08/2731720262026-11-06-710519.pdf",
+  "https://www.dtnext.in/news/national/pollution-in-delhi-ncr-sharp-increase-in-vehicular-emissions-warrant-urgent-intervention-says-sc",
+  "https://lawchakra.in/?p=325713",
+  "https://openthemagazine.com/india/supreme-court-flags-vehicular-emissions-as-major-cause-of-delhi-ncr-pollution",
+  "https://www.indiatoday.in/india/law-news/story/delhi-ncr-vehicular-pollution-supreme-court-seeks-action-plan-3035777-2026-11-10"
+ ],
+ "gates": {
+  "g1": "# @idlynews · Gate 1 verdict (blind reviewer) · run 1327 IST, Tue 10 Nov 2026\n\nPredicted ceilings are hook / read / send / keep / reply / original / alone (0–2 each).\n\n## 1. #1788 Supreme Court gives Delhi-NCR governments two weeks on vehicle pollution: BUILD, ceiling 12–13\n\nhook 1–2 · read 2 · send 2 · keep 2 · reply 2 · original 2 · alone 1–2 = **12–13**.\n- hook is 1–2: \"court gives X weeks\" is routine unless the cover makes the stake concrete (who must answer, by when).\n- alone is 1–2: depends on the cover naming who must act.\n\nWhat I checked myself:\n- The order: dated 6 Nov 2026, bench of ",
+  "g2": "# @idlynews · Gate 2 (words) · #1788 SC Delhi-NCR vehicle pollution · run 1327 IST\n\n**Verdict: FIX** (two fixes; the quotes and deadlines check out).\n\n## What I checked myself (I downloaded the 6 Nov order PDF from LiveLaw and read it in full)\n- **Quotes, all verbatim:**\n  - Para 7: \"There can be little doubt that the issue warrants urgent and immediate intervention.\"\n  - Para 5: \"the sharp increase in issues attributable to vehicular emissions\".\n  - Para 7: \"time-bound roadmap\". DT Next/PTI carries the same words.\n- **Deadlines, \"Before 23 Nov\" is exact:**\n  - Para 7 directs the MCD, GNCTD, D",
+  "g3": "# @idlynews · Gate 3 (picture) · #1788 SC Delhi-NCR vehicle pollution · run 1327 IST\n\n**Verdict: FIX** (credit only; the image itself passes).\n\n- **File page checked myself:** https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_front_view_02.jpg\n  - Author: Pinakpani.\n  - Licence: \"Creative Commons Attribution-Share Alike 4.0 International\".\n  - 4128×3096, taken 8 Jan 2019, \"Supreme Court of India, Tilak Marg in New Delhi\".\n- **The actual subject:** the building of the court that issued the order.\n- **Clean:** no watermark. In the cropped cover no person is visible, and the one legi",
+  "g4": "# @idlynews · Gate 4 (finished card) · #1788 SC Delhi-NCR vehicle pollution · run 1327 IST\n\n**Verdict on the files as they stand: HOLD**, only until the Gate 2 and 3 fixes are in: the amici sentence, the\nslide 03/04 labels, and \"(edited)\" in the credit. Layout is clean, so there is no layout HOLD. Once the re-rendered\n01/03/04 and the caption match the fixes exactly, the score below stands and the verdict becomes PASS (13/14).\nI'll confirm on sight.\n\n## Layout (all four slides opened at full size)\n- **01:**\n  - The SC dome is whole and centred, below the logo.\n  - The headline is white, three ",
+  "g4_final": "PASS on the re-rendered slides and caption (reviewer recheck)"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self 12 and reviewer 12 (reviewer's checks used). All Gate 2 fixes confirmed on the re-rendered 03 and caption.txt: 'Average Battery Health Past 3.2 Lakh Km', 'average above 91%', 'averaging above 91% battery health', 'own fleet' removed. post_problems ([], []), one '?', 857 chars. send 1: the Mach-E isn't sold in India, so the forward is about EV battery longevity in general. keep 1: benchmark figures, not dates, prices or eligibility. Layout clean on 01-03.",
+ "story_id": 1723,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 12, reviewer 12)",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "send 1: the Mach-E is not sold in India; the send reason is battery anxiety (EV owner to a sceptical relative), not the car. keep 1: a battery-wear benchmark, not a date/price/deadline. Strong: a clear 92%-after-five-years hook over the actual model (2021 Mach-E), every figure attributed to Ford with an explicit 'not an independent test' line on card and caption, km conversions for Indian readers, open used-EV question."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "All Gate 2 fixes confirmed on the re-rendered 03 and caption.txt: 'Average Battery Health Past 3.2 Lakh Km', 'average above 91%', 'averaging above 91% battery health', 'own fleet' removed. post_problems ([], []), one '?', 857 chars. send 1: the Mach-E isn't sold in India, so the forward is about EV battery longevity in general. keep 1: benchmark figures, not dates, prices or eligibility. Layout clean on 01-03.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Mach-E_(2021)_(52919245557).jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ford_Mustang_Mach-E_%282021%29_%2852919245557%29.jpg/1920px-Ford_Mustang_Mach-E_%282021%29_%2852919245557%29.jpg",
+  "licence": "CC BY 2.0 (Flickr licence confirmed by FlickreviewR 2 on 30 Nov 2025)",
+  "author": "Charles from Port Chester, New York (Flickr: usf1fan2, https://www.flickr.com/photos/charles79/52919245557/)",
+  "viewed": true,
+  "processing": "1920x1234 Commons rendition of the 5578x3586 original; cropped to 1320x800 (x330-1650, y330-1130) around the car; letterboxed with framing.plan_letterbox/compose_letterbox (downscale 0.82x, band y200-855); car whole at about y270-625, x135-940; no identifiable person (driver not visible beyond a dark interior), plate blank; no watermark"
+ },
+ "sources": [
+  "https://insideevs.com/news/814780/ford-mustang-mache-battery-degradation-range-study/",
+  "https://www.motor1.com/news/814913/ford-mustang-mache-battery-health-report/",
+  "https://www.carscoops.com/2310610/2021-ford-mustang-mach-e-battery-report-card/",
+  "https://www.techtimes.com/articles/330307/20261109/fords-five-year-mach-e-battery-study-out-results-should-reassure-every-used-ev-shopper.htm",
+  "https://media.ford.com/us/en/articles/2026/mustang-mach-e-electric-vehicle-battery-health.html"
+ ],
+ "gates": {
+  "g1": "# @idlyautomotive · Gate 1 verdict (blind reviewer) · run 1327 IST, Tue 10 Nov 2026\n\nPredicted ceilings are hook / read / send / keep / reply / original / alone (0–2 each).\n\n## 1. FADA October: electric car sales +76% as car sales fall 14%: DROP, ceiling 11\n\nhook 2 · read 2 · send 1 · keep 1 · reply 1–2 · original 1 · alone 2 = 10–11.\n\nWhat I checked myself:\n- Confirmed by Autocar Professional (dated **6 Nov**): 37,049 vs 20,995 (+76.47%); share 7.3% vs 3.5% (Sept 8.5%);\n  Tata 14,669 (+77.6%), Mahindra 8,538 (+85.7%), JSW MG 5,939 (+10.8%), VinFast 2,571.\n- Not confirmed: \"FADA says demand ex",
+  "g2": "# @idlyautomotive · Gate 2 (words) · #1723 Ford Mach-E battery health · run 1327 IST\n\n**Verdict: FIX** (three precision fixes; everything else holds).\n\n## What I checked myself\n- InsideEVs (9 Nov) and Motor1 (9 Nov) give: about 36,000 2021 Mach-Es sold in the US and Canada; an average of 92%;\n  2,000+ cars past 100,000 miles; 30+ cars past 200,000 miles at an average of 88%; and 95% of cars between 87% and\n  97%. Ford's release still returns 503.\n- \"Five-year-old\" / \"after about five years\" is supported by InsideEVs (5.2 years) and Carscoops (\"five-plus\n  years\"). Dropping 55,000 miles is righ",
+  "g3": "# @idlyautomotive · Gate 3 (picture) · #1723 Ford Mach-E battery health · run 1327 IST\n\n**Verdict: PASS.**\n- **File page checked myself:** https://commons.wikimedia.org/wiki/File:Ford_Mustang_Mach-E_(2021)_(52919245557).jpg\n  - Licence: \"Creative Commons Attribution 2.0 Generic\". FlickreviewR 2 confirmed cc-by-2.0 on 30 Nov 2025.\n  - Author: \"Charles from Port Chester, New York\". Flickr source: charles79/52919245557.\n- **Model and styling:** the file is titled \"(2021)\", and its description is a 2020-production dual-motor AWD car.\n  I opened the 1920 px rendition with Read. It is the original-l",
+  "g4": "# @idlyautomotive · Gate 4 (finished card) · #1723 Ford Mach-E battery health · run 1327 IST\n\n**Verdict on the files as they stand: HOLD**, only because the three Gate 2 precision fixes aren't in yet (slide 03\nand the caption). Layout is clean, so there is no layout HOLD. Once the re-rendered 03 and the fixed caption match\nthe Gate 2 FIX exactly, the score below stands and the verdict becomes PASS (12/14). I'll confirm on sight.\n\n## Layout (all three slides opened at full size)\n- **01 cover:**\n  - The car is whole and sharp in the image band (y ~200–855), clear of the logo and the headline.\n  ",
+  "g4_final": "PASS on the re-rendered slides and caption (reviewer recheck)"
+ }
+}
