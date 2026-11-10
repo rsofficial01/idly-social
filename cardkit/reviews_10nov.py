@@ -1,13 +1,14 @@
 """10 Nov 2026: idly's Diwali 2026 review carousels for @idlynerd (consolidated published reviews).
 
-Data: /home/claude/reviews_diwali/research.json (v2: only reviews read with the fetch tool, or a rating in the
-outlet's own headline; nothing read only with curl). Every number on the cards comes from there.
+Data: /home/claude/reviews_diwali/research.json (v3: only reviews read on 10 Nov with the WebFetch tool, or shown in a
+WebSearch result from the outlet's own page; nothing read with curl, caches or mirrors). Every number on the cards
+comes from there. idly consolidates published reviews and did not watch the films.
 The roundup is built only when 4 or more films qualify.
 Renders with cardkit's hype template via render_cards(..., template='hype'). The four slide kinds used here
 ('vcover', 'verdict', 'scores', 'rank', plus 'picks') are registered at runtime below; cardkit/render.py itself
 is not modified. They share the hype template's fonts, colours, logo and footer.
 
-    python3 cardkit/_work/reviews_10nov.py            # render all posts into posts/2026-11-10/review_*/
+    python3 cardkit/reviews_10nov.py            # render all posts into posts/2026-11-10/review_*/
 """
 from __future__ import annotations
 
@@ -75,7 +76,7 @@ X_CSS = """
 .score .big{font-size:330px}
 .score .of{font-size:118px;color:rgba(255,255,255,.88);margin-left:10px}
 .hook{font:800 56px/1.08 Inter;letter-spacing:-.025em;margin-top:58px;text-wrap:balance;max-width:936px}
-.basis{font:500 25px/1.3 Inter;color:rgba(255,255,255,.62);margin-top:22px}
+.basis{font:500 25px/1.3 Inter;color:rgba(255,255,255,.62);margin-top:22px;text-wrap:balance;max-width:936px}
 
 /* detail-style pages */
 .d2 .body{position:absolute;left:72px;right:72px;top:96px;bottom:176px;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
@@ -194,7 +195,12 @@ def html_verdict(post, s):
         pts.append(f"<div class='note'>{e(s['highs_note'])}</div>")
     pts.append("<div class='sect lo'>Lows</div>")
     for h in s['lows']:
-        pts.append(f"<div class='pt l'><div class='t'>{e(h['point'])}</div><div class='n'>{len(h['outlets'])} reviews say so</div></div>")
+        n = f"{len(h['outlets'])} reviews say so"
+        if h.get('dissent'):
+            n += f"; {len(h['dissent'])} disagree"
+        pts.append(f"<div class='pt l'><div class='t'>{e(h['point'])}</div><div class='n'>{e(n)}</div></div>")
+    if s.get('lows_note'):
+        pts.append(f"<div class='note'>{e(s['lows_note'])}</div>")
     body = f"""
 <div class='d2'><div class='body'>
   <div class='kicker'>What critics agree on</div>
@@ -292,34 +298,17 @@ R._check_hype = _check
 # posts
 # ---------------------------------------------------------------------------------------------
 HOOKS = {
-    'ramayana-part-1': "Critics agree: dazzling scale, and Yash's Ravana steals it.",
-    'scene': "Suriya's back in form; the script wobbles, critics say.",
-    'summer-holidays': 'Sweet, nostalgic and predictable, critics say.',
-    'aadarsha-kutumbam': 'A fun first half, then it runs out of steam.',
-    'cult': 'Plenty of gore, not much tension, critics say.',
-    'mookuthi-amman-2': 'Critics agree on one thing: Nayanthara.',
-    'disco': 'The lowest-rated Diwali release in our count.',
+    'ramayana-part-1': "Critics agree: epic scale, and Yash's Ravana steals it.",
 }
-TITLE_PX = {'aadarsha-kutumbam': 92, 'ramayana-part-1': 104, 'mookuthi-amman-2': 104}
+TITLE_PX = {'ramayana-part-1': 104}
 ROUND_LINE = {
     'ramayana-part-1': "Hindi · Yash's Ravana, epic scale",
-    'scene': 'Tamil · Suriya back in form',
-    'summer-holidays': 'Telugu · warm but predictable',
-    'aadarsha-kutumbam': 'Telugu · fun first half only',
-    'cult': 'Telugu · gore over tension',
-    'mookuthi-amman-2': 'Tamil · only Nayanthara works',
-    'disco': 'Malayalam · violent and hollow',
 }
 SPLIT_NOTE = {
+    'ramayana-part-1': "Bollywood Hungama's review ran on 31 Oct, before release. idly did not watch the film.",
 }
 SHORT_WHO = {
-    'ramayana-part-1': 'Big-screen spectacle; set aside 3h15m.',
-    'scene': 'Suriya fans and dark-comedy lovers. Be patient early on.',
-    'summer-holidays': 'Families with kids, and anyone who misses village summers.',
-    'aadarsha-kutumbam': 'Venkatesh fans; others can wait for streaming.',
-    'cult': 'Slasher fans who are fine with heavy gore.',
-    'mookuthi-amman-2': 'Nayanthara completists only.',
-    'disco': 'Only if ultra-violent gangster films are your thing.',
+    'ramayana-part-1': "Big-screen spectacle; expect more awe than emotion.",
 }
 
 
@@ -333,10 +322,10 @@ def film_post(f):
     fx = f.get('facts') or {}
     meta = ' · '.join(x for x in (f['language'], fx.get('cert'), fx.get('runtime'), 'in theatres') if x)
     cover = dict(type='vcover', photo=SEATS, kicker="The verdict <span>· Diwali 2026</span>", title=title, meta=meta,
-                 score_html=score_html(f['score']), hook=HOOKS[f['slug']], title_px=TITLE_PX.get(f['slug'], 112),
-                 basis=f"Consolidated from {n} critic ratings, each converted to /10")
+                 score_html=score_html(f['score']), hook=HOOKS.get(f['slug'], ''), title_px=TITLE_PX.get(f['slug'], 112),
+                 basis=f"The average of {n} published critic ratings, each converted to /10. idly did not watch the film.")
     verdict = dict(type='verdict', title=f.get('short', title), score=fmt(f['score']), highs=f['highs'], lows=f['lows'],
-                   highs_note=f.get('highs_note'))
+                   highs_note=f.get('highs_note'), lows_note=f.get('lows_note'))
     unr = f['unrated']
     unrated_line = ''
     if unr:
@@ -345,7 +334,7 @@ def film_post(f):
                         f"used only for the highs and lows.")
     scores = dict(type='scores', title=f.get('short', title), score=fmt(f['score']),
                   rows=sorted(f['rated'], key=lambda r: -r['rating_10']), unrated=unrated_line, who=f['who'],
-                  extra=SPLIT_NOTE.get(f['slug']))
+                  extra=SPLIT_NOTE.get(f['slug'], 'idly did not watch the film.'))
     return dict(acct=ACCT, slug=f"review_{f['slug']}", date=DATE, slides=[cover, verdict, scores])
 
 
@@ -358,10 +347,10 @@ def roundup_post(films):
                              f"<span class='of' style='font-size:80px'>to</span><span class='big' style='font-size:250px;margin-left:24px'>{fmt(films[-1]['score'])}</span></div>"),
                  hook='From the best-reviewed release to the worst, in one list.', title_px=112,
                  basis='Scores out of 10: the average of published Indian critic ratings')
-    rank = dict(type='rank', films=[dict(title=f.get('short', f['title']), score=f['score'], line=f"{ROUND_LINE[f['slug']]} · {f['n_rated']} ratings")
+    rank = dict(type='rank', films=[dict(title=f.get('short', f['title']), score=f['score'], line=f"{ROUND_LINE.get(f['slug'], f['language'])} · {f['n_rated']} ratings")
                                     for f in films],
                 method='Theatrical releases from 30 Oct to 9 Nov with at least four reviews from established Indian outlets. Score: the average of their published ratings, converted to /10.')
-    picks = dict(type='picks', films=[dict(title=f.get('short', f['title']), score=f['score'], who=SHORT_WHO[f['slug']]) for f in films])
+    picks = dict(type='picks', films=[dict(title=f.get('short', f['title']), score=f['score'], who=SHORT_WHO.get(f['slug'], f['who'])) for f in films])
     return dict(acct=ACCT, slug='review_roundup', date=DATE, slides=[cover, rank, picks])
 
 
