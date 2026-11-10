@@ -1,0 +1,55 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self 12 and reviewer 12 (tie; reviewer's checks used). hook 1: launch announced 28 Oct, 'reaches Indian stores' (Apple's 9 Nov date) is a soft peg. send 1: ₹3,49,900+ pro laptop has a narrow forward.",
+ "story_id": null,
+ "idly_article": false,
+ "scored_as": "lower of the two totals (self 12, reviewer 12)",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: first touchscreen Mac + exact India price is a clear stake, but Apple announced it 28 Oct; the in-store peg (9 Nov, Apple's date) is soft and has no fresh coverage. send 1: a ₹3,49,900+ pro laptop is a narrow forward (editors, designers, developers). read/keep/reply/original/alone 2: plain India price ladder incl. education prices, where to buy, attributed Apple claims, open question from readers' own laptop use, idly's own synthesis on Apple's credited press image, every slide names the product."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Scored on posts/2026-11-10/idlytech-1130-macbook-pro-touch-india/01-04.jpg + caption.txt + alt.txt (final). hook 1: 'first touchscreen Mac' plus a specific India price is a clear stake, but the launch is 13 days old (Apple announced it 28 Oct). 'Reaches Indian stores' is a soft peg with no fresh coverage, and @idlytech's audience has likely seen it. send 1: a Rs 3.5 lakh pro laptop has a narrow forward (video editors, designers); no specific person needs it today. Other checks are strong: India prices and education prices are keepable; the question is genuine and open; the synthesis is idly's own with no Apple hype words; the Apple press image is credited; every slide names the product. Verified myself: the Apple India Newsroom release (INR 349900 / 409900 / 549900 and education 331900 / 385900; arrival in Apple Stores and Authorized Resellers 'starting Monday, November 9', attributed to Apple in the caption, while the intro's 6 Nov is left out; 'Touch capabilities on the Mac for the first time'; touch to 'work in tandem with the keyboard shortcuts and trackpad gestures'; Dynamic Island; 'up to 24 hours'); TelecomTalk 29 Oct (M5 Pro from Rs 3,49,900; M5 Max from Rs 5,49,900); launch coverage via search (Rs 3,49,900, edu Rs 3,31,900, 16-inch M5 Pro Rs 4,09,900). The Indian Express page is bot-blocked for me; I relied on the desk's quotes for IE only where Apple is the primary. Gate 3: Apple's own newsroom press image (dark rendition of the QuickTime shot), the actual MacBook Pro, front-on, Apple's butterfly wallpaper on screen; no people, watermark or overlaid text; downscaled, not upscaled. Opened all four slides at full size: laptop whole and clear of the logo and the headline text (~190px of the image's own black background between them, no band edge); one left edge; white headlines; vertical credit and source lines clear; nothing touching or cut. Mechanical caption check ([], []). Passes at exactly 12: no slack.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "photo_source": {
+  "page": "https://www.apple.com/in/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+  "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/article/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028_big.jpg.large_2x.jpg",
+  "licence": "Official Apple press image (editorial use, per Apple Newsroom legal notice)",
+  "author": "Apple",
+  "viewed": true,
+  "processing": "Apple's dark-background rendition (1960x1307); laptop cropped to its bounding box, downscaled 0.60 to 1020px wide and centred at x30-1050, y205-824 on a 1080x1350 pure-black canvas (matches the image's own black background); no upscale, no other edits. Script: _work/2026-11-10-1130/idlytech/scripts/compose_cover.py"
+ },
+ "gates": {
+  "g1": "Round 1 (Muse India prices / Xiaomi 18 Pro / Dyson HF1): Muse conditional (single-source rupee prices, no independent confirmation found) -> dropped; Xiaomi and Dyson dropped (no official image). Round 1b: BUILD MacBook Pro India, predicted ceiling 12, FIX 1-5 (peg attribution, cover headline, Apple prices only, no hype, sources/question).",
+  "g2": "PASS (combined G2-4 packet idlytech-g4.md): all FIX 1-5 applied; facts double-sourced (Apple, Indian Express, TelecomTalk); mechanical check ([], []).",
+  "g3": "PASS: Apple's own newsroom press image (dark rendition of the QuickTime shot), actual product, no people/watermark/overlaid text, downscaled.",
+  "g4": "PASS 12/14 (hook 1, send 1): all four slides opened at full size; no collisions, one left edge, white headlines, subject clear of logo and headline."
+ }
+}
