@@ -58,5 +58,15 @@
       }
     ]
   },
-  "notes": "idlynerd desk, hourly run 1327. Gate 1 BUILD (blind reviewer), FIXes applied: slide 2 says UK and Ireland and 'Earlier best for an Indian film: No. 2' (no film list, no Dhurandhar £2.1m); slide 3 is labelled a tracker estimate, Sacnilk only (Bollywood Hungama and the Hindi-only figure dropped: no second URL / trackers conflict); no 'record Monday' claim. Cover: World Of Ramayana 'This is Ravana' cSUnBKHQmHE, fallback A3PFnMC88EY. Excluded: 8HiWKbDTc7w (old 'Part II Diwali 2027' key art), msFKPTZA6PI ('November 5' date card), 4mzh5X7HHw0 (producer featurette), all song videos, DNEG/ReDefine pages. Pre-agreed v2 if Gate 4 HOLDs the cover: YleIZgpTF6w. Not the critics' review (review-ramayana-part-1-10nov-v2)."
+  "notes": "idlynerd desk, hourly run 1327. Gate 1 BUILD (blind reviewer), FIXes applied: slide 2 says UK and Ireland and 'Earlier best for an Indian film: No. 2' (no film list, no Dhurandhar £2.1m); slide 3 is labelled a tracker estimate, Sacnilk only (Bollywood Hungama and the Hindi-only figure dropped: no second URL / trackers conflict); no 'record Monday' claim. Cover: World Of Ramayana 'This is Ravana' cSUnBKHQmHE, fallback A3PFnMC88EY. Excluded: 8HiWKbDTc7w (old 'Part II Diwali 2027' key art), msFKPTZA6PI ('November 5' date card), 4mzh5X7HHw0 (producer featurette), all song videos, DNEG/ReDefine pages. Pre-agreed v2 if Gate 4 HOLDs the cover: YleIZgpTF6w. Not the critics' review (review-ramayana-part-1-10nov-v2).",
+  "slug": "tue-idlynerd-ramayana-uk-no1",
+  "caption_final": "Nitesh Tiwari's Ramayana: Rise of a Legend opened at No. 1 at the UK and Ireland box office over the weekend of 6–8 November. It is the first Indian film to top that chart. It took £1.7 million from 364 cinemas, and £2.2 million including previews.\n\nUntil now, second place was the best an Indian film had managed there. Jawan, for one, opened second behind The Nun II in September 2023.\n\nAt home, the Monday after Diwali was the film's biggest day so far. Tracker Sacnilk estimates ₹107.50 crore net in India on 9 November, from 23,911 shows, and ₹346.35 crore net over the first five days. Trackers' figures differ and can be revised.\n\nDid you watch Ramayana in a cinema this Diwali, and in which language?\n\nSources: The Hollywood Reporter India, Screen, Variety, Sacnilk\n\n#Ramayana #BoxOffice #IndianCinema #UKBoxOffice #idlynerd\n\nImage: World Of Ramayana (official video)",
+  "image_credit": "Image: World Of Ramayana (official video)",
+  "lane": {
+    "spec_sha256": "dc7793b28c6c8bb10dbf710d8c5f84f4e9147e3bd6886d01254bc9908b0005bd",
+    "rendered_at": "2026-11-10T08:26:53+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=cSUnBKHQmHE",
+    "image_url": "https://i.ytimg.com/vi/cSUnBKHQmHE/maxresdefault.jpg"
+  }
 }
