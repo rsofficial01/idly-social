@@ -214,5 +214,31 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/03.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-10-idlytech-instagram-ai-age-v3",
+    "image_credit": "Image: Meta",
+    "image_source": "https://about.fb.com/news/2024/09/instagram-teen-accounts/",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 14,
+    "story_id": 1712,
+    "account": "idlytech",
+    "media_id": "18122218895050807",
+    "permalink": "https://www.instagram.com/p/DfjK5snlxoc/",
+    "posted_at": "2026-11-10T05:36:46+00:00",
+    "date": "2026-11-10",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
