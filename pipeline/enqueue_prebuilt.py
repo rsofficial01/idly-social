@@ -35,6 +35,10 @@ def main(argv=None) -> int:
     ap.add_argument("--story-id", type=int)
     ap.add_argument("--no-idly-article", action="store_true")
     ap.add_argument("--evergreen", action="store_true")
+    ap.add_argument("--headline", help="the cover headline as published (default: the folder name)")
+    ap.add_argument("--title", help="one-line description of the story for the reviewer")
+    ap.add_argument("--image-source-url", help="page the image came from (official newsroom, media kit, Commons)")
+    ap.add_argument("--image-org", help="organisation that published the image")
     a = ap.parse_args(argv)
 
     src = a.folder if a.folder.is_absolute() else REPO / a.folder
@@ -71,12 +75,16 @@ def main(argv=None) -> int:
     alt = (src / "alt.txt").read_text(encoding="utf-8").strip().splitlines()[0] if (src / "alt.txt").exists() else ""
     credit = next((l for l in reversed(caption.splitlines()) if re.match(r"(Photo|Poster|Image|Still)s?:", l.strip())), "")
     spec = {"slug": slug, "account": a.account, "story_id": story_id, "idly_article": idly_article,
-            "evergreen": a.evergreen, "headline": src.name, "caption": caption, "caption_final": caption,
+            "evergreen": a.evergreen, "headline": a.headline or src.name, "title": a.title, "caption": caption, "caption_final": caption,
             "alt_text": alt[:1000], "image_credit": credit, "scores": {"self": self_score},
             "created_at": now_utc().isoformat(timespec="seconds"),
             "lane": {"source": "prebuilt", "folder": src.relative_to(REPO).as_posix()}}
     save_json(dest / "spec.json", spec)
-    save_json(dest / "render_report.json", {"files": files, "prebuilt": True, "caption_final": caption})
+    rep = {"files": files, "prebuilt": True, "caption_final": caption}
+    if a.image_source_url or a.image_org:
+        rep["source"] = {"resolver": "prebuilt (recorded by the maker)", "source_url": a.image_source_url,
+                         "image_url": None, "organisation": a.image_org}
+    save_json(dest / "render_report.json", rep)
     print(f"queued {slug}: {len(files)} slide(s) for @{a.account}")
     return 0
 
