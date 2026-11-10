@@ -1,0 +1,33 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Independent reviewer (scored blind): send 1: a plain winner announcement that says little about the book, so there's no clear person to forward it to beyond a general 'did you see'. keep 1: little worth saving beyond the book title and prize amount; no India availability, price, publisher or premise, so it doesn't work as a reading-list save. No fact, photo, legibility or rule problems.",
+  "story_id": 1735,
+  "article": "https://www.idly.news/articles/1735-m-john-harrison-wins-2026-booker-prize-for-the-end-of-everything",
+  "scored_as": "lower of the two totals (self 12, reviewer 12)",
+  "self_score": {
+    "hook": 2, "read": 2, "send": 1, "keep": 1, "reply": 2, "original": 2, "alone": 2, "total": 12,
+    "notes": "send 1: a natural forward to a sci-fi-reading friend, but it's general book news with no deeper stake for Indian readers. keep 1: only the title and author are worth saving for a reading list; no India price, edition or release date."
+  },
+  "reviewer_score": {
+    "hook": 2, "read": 2, "send": 1, "keep": 1, "reply": 2, "original": 2, "alone": 2, "total": 12,
+    "notes": "send: the forward reason is thin. It is a plain winner announcement and says almost nothing about the book, so there's no clear person who'd get it forwarded beyond a general 'did you see'. keep: there's little worth saving beyond the book title and prize amount. No India availability, price, publisher or premise, so it doesn't work as a reading-list save.",
+    "fact_problems": [],
+    "photo_problems": [],
+    "legibility_problems": [],
+    "rule_problems": []
+  },
+  "photo_source": {
+    "page": "https://unsplash.com/photos/an-open-book-with-pages-fanned-out-7Z-Dzq10fwE",
+    "licence": "Unsplash License",
+    "author": "Mikołaj (@qmikola)",
+    "viewed": true,
+    "crop": "focal (0.5, 0.5), zoom 1.0, from a 2400x1607 download; viewed at full size: an open book on black, no person, no watermark, no readable title of any other book"
+  }
+}
