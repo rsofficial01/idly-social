@@ -169,6 +169,35 @@ def stub_story_renderer(post, out_jpg, report):
     return str(out_jpg)
 
 
+def mp4_bytes(faststart: bool = True, elst: bool = False) -> bytes:
+    """A minimal MP4 box layout (ftyp, moov, mdat) for the publisher's local checks."""
+    def box(kind: bytes, payload: bytes = b"") -> bytes:
+        return (8 + len(payload)).to_bytes(4, "big") + kind + payload
+    trak = box(b"trak", box(b"edts", box(b"elst", b"\0" * 12))) if elst else b""
+    moov = box(b"moov", box(b"mvhd", b"\0" * 100) + trak)
+    ftyp, mdat = box(b"ftyp", b"isom\0\0\x02\0"), box(b"mdat", b"\0" * 4000)
+    return ftyp + (moov + mdat if faststart else mdat + moov)
+
+
+REEL_CALLS: list = []
+
+
+def stub_reel_renderer(post, out_dir, details, report):
+    """Stand-in for cardkit.reel.render_reel (no Chrome or ffmpeg): a box-valid MP4, the cover and preview stills."""
+    REEL_CALLS.append({"post": post, "details": details})
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "reel.mp4").write_bytes(mp4_bytes())
+    stub_story_renderer(post, out_dir / "reel_cover.jpg", report)
+    previews = []
+    for name in ("preview_00.5s.jpg", "preview_04.0s.jpg", "preview_07.0s.jpg", "preview_last.jpg"):
+        Image.open(out_dir / "reel_cover.jpg").save(out_dir / name, "JPEG", quality=70)
+        previews.append(str(out_dir / name))
+    report.append({"type": "reel", "page": "reel", "problems": [], "duration": 11.0})
+    return {"video": str(out_dir / "reel.mp4"), "cover": str(out_dir / "reel_cover.jpg"), "previews": previews,
+            "duration": 11.0, "frames": 330, "problems": []}
+
+
 def chrome_available() -> bool:
     try:
         import playwright  # noqa: F401
