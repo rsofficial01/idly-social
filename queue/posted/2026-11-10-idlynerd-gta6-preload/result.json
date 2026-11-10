@@ -1,0 +1,27 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "2026-11-10-idlynerd-gta6-preload",
+  "image_credit": "Image: Rockstar Games (official trailer)",
+  "image_source": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-10-idlynerd-gta6-preload/03.jpg"
+  ],
+  "score_self": 13,
+  "score_reviewer": 13,
+  "story_id": null,
+  "account": "idlynerd",
+  "media_id": "18197147116396225",
+  "permalink": "https://www.instagram.com/p/DfjKj99lHGr/",
+  "posted_at": "2026-11-10T05:33:46+00:00",
+  "date": "2026-11-10",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlynerd-gta6-preload/03.jpg"
+  ],
+  "score_total": 13
+}
