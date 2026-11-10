@@ -1,0 +1,42 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2130-glc-electric-sold-out",
+ "date": "10 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Autocar Pro",
+  "electrive",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Sold Out Till March 2027: Mercedes' ₹78.5 Lakh Electric GLC",
+   "photo": "_work/2026-11-10-hourly-2130/idlyautomotive/frame/cover_source.png",
+   "photo_credit": "Image: Mercedes-Benz",
+   "focal": [
+    0.5,
+    0.62
+   ],
+   "zoom": 1.15
+  },
+  {
+   "type": "detail",
+   "stat": "1,000+",
+   "stat_label": "Electric GLC Bookings by Launch Day, Mercedes Says",
+   "bullets": [
+    "Mercedes is seeking more kits to shorten the wait",
+    "First deliveries were due from Diwali, 8 November"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "711 km",
+   "stat_label": "Claimed WLTP Range, From a 94 kWh Battery",
+   "bullets": [
+    "One version only, GLC 400 4MATIC: no cheaper trim",
+    "Built from imported kits at Chakan, near Pune"
+   ]
+  }
+ ]
+}

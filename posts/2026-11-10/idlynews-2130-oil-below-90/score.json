@@ -1,0 +1,33 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (12) and reviewer (12); tie uses the reviewer's checks. Blind reviewer, Gate 4, run 2130. Gate 4 blind review. No HOLD issues: full-bleed NASA MODIS cover, strait clear of logo and headline, white 3-line headline with one left edge, vertical credit clear of the headline (about 35 px gap), slides 2-3 clean, Sources lines readable, nothing cut off or soft. Hook 2: $90 and a clear stake (Trump says the Iran war is ending) on the cover; 'Briefly' keeps it accurate but slightly softens it. Read 2: peak, then the low, then the India bill; each line earns the next. Send 1: no direct consumer consequence (pump prices unchanged; deliberately no prediction), so the forward reason is general interest for market and Gulf watchers. Keep 1: the import bill, 46% and about 88% dependence are context, not something a reader acts on (no dates, prices or deadlines for them). Reply 2: genuine own-life budget question, one '?'. Original 2: own synthesis of the oil move with PPAC India data; public-domain image credited. Alone 2: every slide names Brent, Trump or India; slide 2's 'naval blockade' is slightly context-dependent but clear with the cover.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Hook: $90 on the cover with a clear stake (war ending, per Trump), but oil-price falls are familiar, so it is a soft 2. Send 1: markets and fuel watchers, no specific person must-forward. Keep 1: India import bill and peak figure, but no dates or deadlines to act on. Reply 2: own-budget fuel question. Alone 2: cover and slides name Brent, Trump and India explicitly."
+ },
+ "reviewer_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "Gate 4 blind review. No HOLD issues: full-bleed NASA MODIS cover, strait clear of logo and headline, white 3-line headline with one left edge, vertical credit clear of the headline (about 35 px gap), slides 2-3 clean, Sources lines readable, nothing cut off or soft. Hook 2: $90 and a clear stake (Trump says the Iran war is ending) on the cover; 'Briefly' keeps it accurate but slightly softens it. Read 2: peak, then the low, then the India bill; each line earns the next. Send 1: no direct consumer consequence (pump prices unchanged; deliberately no prediction), so the forward reason is general interest for market and Gulf watchers. Keep 1: the import bill, 46% and about 88% dependence are context, not something a reader acts on (no dates, prices or deadlines for them). Reply 2: genuine own-life budget question, one '?'. Original 2: own synthesis of the oil move with PPAC India data; public-domain image credited. Alone 2: every slide names Brent, Trump or India; slide 2's 'naval blockade' is slightly context-dependent but clear with the cover."
+ }
+}

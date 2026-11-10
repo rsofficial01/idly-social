@@ -1,0 +1,48 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2130-oil-below-90",
+  "date": "10 Nov 2026",
+  "sources": [
+    "CNBC",
+    "The Guardian",
+    "Mint",
+    "OilPrice.com",
+    "ThePrint",
+    "Angel One"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Oil Briefly Below $90; Trump Says Iran War Ending Soon",
+      "photo": "_work/2026-11-10-hourly-2130/idlynews/frame/cover_source.png",
+      "photo_credit": "Image: NASA (MODIS) / Wikimedia Commons, public domain",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "$117+",
+      "stat_label": "Where Brent Stood at Its Late-October Peak",
+      "bullets": [
+        "Tuesday's low was Brent's lowest since 31 August",
+        "Trump says the US naval blockade stays for now",
+        "Some analysts still doubt a lasting peace deal"
+      ],
+      "credit_line": "Sources: CNBC, The Guardian, Mint, OilPrice.com"
+    },
+    {
+      "type": "detail",
+      "stat": "$90.6 BN",
+      "stat_label": "India's Crude Import Bill, April to September 2026",
+      "bullets": [
+        "Up 46% from $61.9 billion a year earlier",
+        "Higher prices, not bigger volumes, drove the rise",
+        "Nearly 9 in 10 barrels India uses are imported"
+      ],
+      "credit_line": "Sources: PPAC data via ThePrint, OilPrice.com, Angel One"
+    }
+  ]
+}

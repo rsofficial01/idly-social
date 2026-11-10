@@ -1,0 +1,38 @@
+{
+ "account": "idlyhype",
+ "title": "G-SHOCK 2500 analogue series priced in India at ₹9,995 to ₹26,995 (resin GAC-2500 from ₹9,995); Casio's analogue take on the 1983 DW-5000C",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.casio.com/intl/news/2026/1022-gac-2500gmc-2500/",
+  "https://www.outlookbusiness.com/spotlight/pr-wire/g-shock-introduces-the-2500-series-in-india",
+  "https://www.mediainfoline.com/brand/g-shock-introduces-the-2500-series-in-india",
+  "https://esquireindia.co.in/style/watches-and-jewellery/casio-india-unveils-g-shock-2500-series-analog-elegance-meets-rugged-toughness",
+  "https://t2online.in/tech/tech-news/g-shock-2500-series--casio-s-new-analogue-watches-add-a-three-cell-window-for-date-and-stopwatch/2008823",
+  "https://www.gizmochina.com/?p=760872",
+  "https://www.krishnawatch.com/products/casio-analog-2500-series-gac-2500-1adr-g1835",
+  "https://www.krishnawatch.com/products/casio-g-steel-2500-series-gmc-2500-1adr-g1832",
+  "https://news.google.com/rss/search?q=site:hypebeast.com+when:1d (Hypebeast, 10 Nov 2026 10:00 GMT: 'G-SHOCK Turned Singapore's IMBA Theatre Into a Walk-Through of the New 2500'; peg only, not on the card)"
+ ],
+ "photo_source": {
+  "page": "https://www.casio.com/intl/news/2026/1022-gac-2500gmc-2500/",
+  "file": "https://www.casio.com/content/dam/casio/global/corporate/pressroom/certification/release/2026/1022-gac-2500gmc-2500/img-09.jpg",
+  "licence": "Casio's own press-release image in its official newsroom (casio.com/intl/news), supplied for press use; credited",
+  "author": "Casio",
+  "credit": "Image: Casio",
+  "subject": "G-SHOCK GAC-2500-9A (yellow resin GAC-2500, the ₹9,995-from model line), front view with strap, on a plain white studio background; product only, no people, no watermark",
+  "viewed": true,
+  "processing": "original 1440x1440 (sha1 1f7c25b224e4e64ef4f76644a2b0a960a8f33d54), copied to _work/2026-11-10-hourly-2130/idlyhype/photos/casio-gac2500-yellow-img09.jpg; pipeline.framing: ok, full-bleed 4:5, 0 faces, focal 0.5/0.5, zoom 1.0, upscale 0.94 (1152x1440 crop downscaled to 1080x1350); no other edits"
+ },
+ "tags": [
+  "gshock_in"
+ ],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (reviewer), ceiling 13 (hook 1: India launch 23 Oct). Fixes: give the ₹9,995–₹26,995 range, don't tie ₹26,995 to the GMC; 'on sale in India', not new; no Hypebeast/Singapore on the card; no 'square' (octagonal case), use Casio's 'analogue take on the DW-5000C, the first G-Shock'; img-09 only (no KV-02), 2-line headline with text from y ≥ 1000; tag only if confirmed on Casio's own site. C2 Vacheron Fiftysix DROP ~9; C3 AJ4 Bred DROP ~9.",
+  "g2": "FIX (4) applied: slide 2 stat_label -> \"Top Price of G-Shock's 2500 Series in India\" (8 words, names G-Shock); slide 3 bullet 1 -> \"The 2500 keeps the original's form, with softer edges\"; 'priced in India' not 'on sale' (caption line 1 now adds 'Casio India announced it on 23 October'; meta title changed; Krishna Watch shows GAC-2500-1ADR and GMC-2500-1ADR out of stock at 21:51 IST, no stock claim made); question -> 'Analogue or digital: which kind of watch do you wear most days?'. Cover 'First G-Shock, Now Analogue: ₹9,995' (2 lines, top y 1050) accepted.",
+  "g3": "PASS: img-09 (GAC-2500-9A) is Casio's own newsroom image (casio.com/intl/news/2026/1022-gac-2500gmc-2500/), 1440x1440, product only, no watermark; framing focal 0.5/0.5, zoom 1.0, 0.94x downscale, full-bleed; case y ~270-850, 2-line headline from y ~1050 on the strap; tag @gshock_in confirmed on casio.com/in/service/sns/ and Casio India's G-Shock contest terms.",
+  "g4": "PASS (blind reviewer) 13/14: hook 1 (India launch 18 days old); case clear of 2-line headline and logo; @gshock_in confirmed on casio.com/in/service/sns. Self 13/14. Final 13/14."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Lower of self (13) and reviewer (13); tie uses the reviewer's checks. Blind reviewer, Gate 4, run 2130. Gate 4 blind review. No HOLD issues. Cover: full-bleed Casio product image; the watch case (about y 270-850) is clear of the 2-line white headline (from about y 1050, on the strap); the logo sits on the strap top, not the case; the credit is clear; sharp, no letterbox. The white studio background turns grey under the gradient but leaves no empty band. Slides 2-3: clean, one left edge (slide 3 bullet 1 wraps neatly), Sources lines readable. Hook 1: ₹9,995 is on the cover and the image is bold, but the India launch was 23 Oct (18 days ago) and a sub-₹10k analogue G-Shock is not a surprising number. Read 2. Send 2: a G-Shock fan or gift buyer has a clear reason to forward it. Keep 2: the ₹9,995-₹26,995 range, the two builds and 20 bar. Reply 2: broad own-life watch question. Original 2: own synthesis with Casio's image credited. Alone 2: every slide names G-Shock or the 2500.",
+ "self_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1: India launch was 23 Oct (18 days old), written as a buyer's card. send: sub-₹10k watch/gift shoppers and G-Shock owners. keep: ₹ range, two builds, how the date window works, 20 bar. reply: own-life analogue vs digital. alone: cover names G-Shock, analogue and the price."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "Gate 4 blind review. No HOLD issues. Cover: full-bleed Casio product image; the watch case (about y 270-850) is clear of the 2-line white headline (from about y 1050, on the strap); the logo sits on the strap top, not the case; the credit is clear; sharp, no letterbox. The white studio background turns grey under the gradient but leaves no empty band. Slides 2-3: clean, one left edge (slide 3 bullet 1 wraps neatly), Sources lines readable. Hook 1: ₹9,995 is on the cover and the image is bold, but the India launch was 23 Oct (18 days ago) and a sub-₹10k analogue G-Shock is not a surprising number. Read 2. Send 2: a G-Shock fan or gift buyer has a clear reason to forward it. Keep 2: the ₹9,995-₹26,995 range, the two builds and 20 bar. Reply 2: broad own-life watch question. Original 2: own synthesis with Casio's image credited. Alone 2: every slide names G-Shock or the 2500."
+ }
+}

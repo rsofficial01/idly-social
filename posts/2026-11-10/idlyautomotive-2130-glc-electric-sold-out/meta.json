@@ -1,0 +1,32 @@
+{
+ "account": "idlyautomotive",
+ "title": "Mercedes-Benz India says the electric GLC (₹78.5 lakh ex-showroom, GLC 400 4MATIC only) is sold out till March 2027; 1,000+ bookings; 94 kWh, 711 km WLTP; assembled from kits at Chakan",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.autocarindia.com/car-news/mercedes-glc-electric-launched-at-rs-785-lakh-441238",
+  "https://www.autocarpro.in/news/mercedes-glc-ev-launched-from-rs-785-lakh-bookings-cross-1000-in-record-time-135715",
+  "https://electrive.com/2026/11/05/mercedes-benz-starts-assembling-electric-glc-in-india",
+  "https://www.businesstoday.in/auto/story/mercedes-benz-electric-glc-launched-at-rs78-50-lakh-deliveries-to-begin-in-november-565777-2026-11-05",
+  "https://ackodrive.com/news/mercedes-benz-glc-electric-sold-out-in-india-till-march-2027/"
+ ],
+ "photo_source": {
+  "page": "https://media.mercedes-benz.com/en/article/89283cac-7529-4bf1-b4f1-f1e0b3ff08e2",
+  "file": "https://api.media.mercedes-benz.com/jsonapi/image/deliver/0a1c8442-7ba0-4d98-8370-6ce5520078fa/1920 (served 1800x1200)",
+  "licence": "Official Mercedes-Benz press photo from Mercedes-Benz Media (manufacturer media for editorial use), credited",
+  "author": "Mercedes-Benz AG",
+  "credit": "Image: Mercedes-Benz (electric GLC 400 4MATIC)",
+  "subject": "Mercedes-Benz GLC 400 4MATIC with EQ Technology (the electric GLC) in silver, driving on desert sand with dust behind and mountains in the background; front three-quarter; no person visible, no lettering, no number plate",
+  "viewed": true,
+  "processing": "pipeline.framing ok (0 faces, focal 0.5/0.5, zoom 1.0, upscale 1.12); per Gate 1 reviewer, cardkit hype cover uses focal (0.5, 0.62), zoom 1.15: crop 835x1043 from the 1800x1200 source, bottom-anchored, upscaled 1.295x with light sharpening; car spans y≈430-770 of 1350 and x≈155-870 of 1080; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD #1 (ceiling 12-13): attribute sell-out/bookings to Mercedes-Benz India; lead with the wait, don't call it new; deliveries 'due from Diwali'; no 'introductory'; image mbx_0a1c8442 at zoom ~1.1-1.15, lower focal; ₹ on cover; confirm @mercedesbenzind. #2 Legender backup only on conditions; #3 Yangwang DROP.",
+  "g2": "FIX applied (blind reviewer): slide 2 stat_label -> 'Electric GLC Bookings by Launch Day, Mercedes Says'; slide 2 bullet 1 -> 'Mercedes is seeking more kits to shorten the wait'; slide 3 bullet 1 -> 'One version only, GLC 400 4MATIC: no cheaper trim'. Cover, caption, facts, alt PASS.",
+  "g3": "PASS: official Mercedes-Benz Media press photo 0a1c8442 (desert testing, GLC 400 4MATIC with EQ Technology), 1800x1200, no person/watermark/plate; focal 0.5/0.62, zoom 1.15 (1.295x upscale). Tag: none (@mercedesbenzind not confirmed on mercedes-benz.co.in); post untagged.",
+  "g4": "PASS (blind reviewer) 13/14: send 1 (narrow luxury-EV audience, 6-day-old peg); credit ~20 px from '₹78.5' not touching; slide 3 wrap acceptable. Self 13/14. Final 13/14."
+ }
+}

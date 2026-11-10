@@ -1,0 +1,37 @@
+{
+ "account": "idlynews",
+ "title": "Brent briefly fell below $90 on Tue 10 Nov for the first time since August (low since 31 Aug) as Trump says the Iran war is ending fairly soon; India's April-September 2026 crude import bill $90.6 bn, up 46% (PPAC)",
+ "story_id": 1805,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+  "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+  "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+  "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html",
+  "https://scroll.in/latest/1096985/trump-says-iran-war-to-end-fairly-soon",
+  "https://theprint.in/economy/indias-crude-import-bill-jumps-46-to-90-6-billion-in-april-september-as-oil-prices-surge/3074774/",
+  "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html",
+  "https://www.angelone.in/news/economy/india-crude-oil-import-bill-rises-46-to-90-6-billion-in-april-september-2026",
+  "https://theprint.in/economy/indias-crude-import-dependence-rises-to-record-88-7-as-domestic-output-continues-to-decline/2998114/"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/1/16/Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg",
+  "licence": "Public domain (NASA, MODIS imagery)",
+  "author": "NASA (MODIS, Terra/Aqua), via Wikimedia Commons",
+  "original_size": "2320x1860",
+  "credit": "Image: NASA (MODIS) / Wikimedia Commons, public domain",
+  "subject": "Strait of Hormuz and Oman's Musandam peninsula, true-colour satellite view, 10 Dec 2018: the chokepoint under the US naval blockade in the story",
+  "viewed": true,
+  "processing": "Original 2320x1860 fetched; pipeline.framing ok (focal 0.5,0.5, zoom 1.0, scale 0.73 downscale, 0 faces); cardkit hype full-bleed 4:5 crop only; no other edits. No people, text or watermark."
+ },
+ "tags": [],
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD #3 (oil / Hormuz, ceiling 12-13): second market source for the cover figure (used 'below $90', shared by CNBC, OilPrice.com, Mint; Guardian $89.66 dropped from the card), 'Trump says' attribution, India line double-sourced (PPAC via ThePrint + OilPrice.com + Angel One), no petrol price prediction, dated Tuesday 10 Nov.",
+  "g2": "FIX applied: cover 'Oil Briefly Below $90; Trump Says Iran War Ending Soon'; caption first paragraph replaced with the reviewer's exact sentence ('briefly fell below $90 ... touching its lowest level since 31 August'); alt.txt headline updated. Attribution, slides 2-3 and India figures PASS.",
+  "g3": "PASS: NASA MODIS Strait of Hormuz, public domain, 2320x1860, no people/text/watermark; strait at ~25-45% height, clear of logo and headline block.",
+  "g4": "PASS (blind reviewer) 12/14: send 1 (no direct reader impact), keep 1 (import bill is context); layout clean, strait clear of logo and 3-line headline. Self 12/14. Final 12/14."
+ }
+}

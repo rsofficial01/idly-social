@@ -1,0 +1,44 @@
+{
+  "acct": "idlyhype",
+  "slug": "idlyhype-2130-gshock-2500",
+  "date": "10 Nov 2026",
+  "sources": [
+    "Casio",
+    "Esquire India",
+    "T2 Online",
+    "Gizmochina"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "First G-Shock, Now Analogue: ₹9,995",
+      "photo": "_work/2026-11-10-hourly-2130/idlyhype/frame/cover_source.png",
+      "photo_credit": "Image: Casio",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹26,995",
+      "stat_label": "Top Price of G-Shock's 2500 Series in India",
+      "bullets": [
+        "Resin GAC-2500 is the cheapest way in",
+        "Metal-clad GMC-2500 is the dearer build",
+        "Both rated to 20 bar (200 m) of water"
+      ]
+    },
+    {
+      "type": "detail",
+      "stat": "1983",
+      "stat_label": "Year the First G-Shock, the DW-5000C, Launched",
+      "bullets": [
+        "The 2500 keeps the original's form, with softer edges",
+        "One window shows date, stopwatch or settings",
+        "Set once; month-ends, leap years handled"
+      ]
+    }
+  ]
+}
