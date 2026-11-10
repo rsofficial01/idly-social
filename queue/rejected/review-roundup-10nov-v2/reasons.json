@@ -5,5 +5,5 @@
     "framing: cover: a 4:5 crop is only 576px wide, 1.88x upscale (max 1.2x)",
     "framing: letterbox: a face is cut off by the edge of the source image"
   ],
-  "rejected_at": "2026-11-10T05:33:06+00:00"
+  "rejected_at": "2026-11-10T05:35:34+00:00"
 }
