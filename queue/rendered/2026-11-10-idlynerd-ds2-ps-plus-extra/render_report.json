@@ -1,0 +1,207 @@
+{
+  "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-10T18:39:21+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=etOOO9Sq7u8",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=90gpqJE-tLU",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=90gpqJE-tLU",
+    "source_url": "https://www.youtube.com/watch?v=90gpqJE-tLU",
+    "image_url": "https://i.ytimg.com/vi/90gpqJE-tLU/maxresdefault.jpg",
+    "credit": "Image: PlayStation (official video)",
+    "organisation": "PlayStation",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=90gpqJE-tLU: author 'PlayStation' https://www.youtube.com/@PlayStation, title 'Death Stranding 2: On The Beach - Explore. Connect. Survive. | PS5 Games'",
+      "thumbnail https://i.ytimg.com/vi/90gpqJE-tLU/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PlayStation",
+    "video_title": "Death Stranding 2: On The Beach - Explore. Connect. Survive. | PS5 Games"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.27,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: PlayStation (official video)",
+      "Sources: PlayStation India, Digit, Gizmochina",
+      "Sources: PlayStation Blog, Push Square"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: PlayStation (official video)",
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation India, Digit, Gizmochina",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 208,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Push Square",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Death Stranding 2: On the Beach joins the PlayStation Plus Game Catalogue on 17 November, Sony's PlayStation Blog said on Tuesday. The catalogue comes with the Extra and Deluxe tiers; Essential (₹649 a month in India) doesn't include it.\n\nIn India, PS Plus Extra costs ₹979 a month, ₹2,599 for three months or ₹8,709 a year, and Deluxe costs ₹1,109 a month. Buying the game outright costs ₹4,999 for the Standard Edition on PS Store India, or ₹3,099 in the store's current sale, which runs until 20 November.\n\nAtomfall and Dragon Quest III HD-2D Remake join on 17 November too. Sony gives US and UK dates for the rest: Hell Let Loose on 11 November; Like a Dragon: Pirate Yakuza in Hawaii, Trepang2, MotoGP 26 and Cricket 26 on 24 November. Deluxe adds Soul Reaver 2 and Freedom Wars Remastered. Sony says lineups can differ by region.\n\nDo you buy big PS5 games at launch, or wait for them to reach PS Plus?\n\nSources: PlayStation Blog, PlayStation India, Push Square, Digit, Gizmochina\n\n#DeathStranding2 #PSPlus #PlayStation #PS5 #idlynerd\n\nImage: PlayStation (official video)",
+  "story": {
+    "status": "rendered",
+    "framing": {
+      "mode": "cover",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0,
+      "upscale": 1.875,
+      "crop": [
+        352.0,
+        0.0,
+        576.0,
+        720.0
+      ],
+      "band_top": null,
+      "band_height": null,
+      "faces_out": [],
+      "logo_saliency": 0.09,
+      "notes": [
+        "0 face(s) detected"
+      ],
+      "faces_src": [],
+      "frame": "vertical",
+      "out_h": 1350
+    },
+    "upscale": 1.875,
+    "checks": [
+      {
+        "size": 92,
+        "lines": 3,
+        "overflow": false,
+        "text_top": 1183,
+        "fade_start": 713,
+        "solid_from": 1333,
+        "credit_bottom": 1000,
+        "credit_len": 448,
+        "collisions": [],
+        "ui_zone": [],
+        "outside": [],
+        "ui_buttons": [],
+        "orphans": [],
+        "left_edges": {
+          "kicker": 64,
+          "headline": 64,
+          "date": 64
+        },
+        "min_font_px": 30,
+        "truncated": [],
+        "page": "cover",
+        "type": "cover",
+        "zone": "story",
+        "safe": [
+          220,
+          1600
+        ],
+        "scale": 1.0,
+        "photo_h": 1350,
+        "crop": [
+          0,
+          0,
+          1080,
+          1350
+        ],
+        "credit_line": "Image: PlayStation (official video)",
+        "problems": []
+      }
+    ],
+    "file": "story.jpg"
+  }
+}

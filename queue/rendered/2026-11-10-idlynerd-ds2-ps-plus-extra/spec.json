@@ -66,5 +66,15 @@
     }
   },
   "notes": "format: news. idlynerd hourly 2327, G1 BUILD, fixes 1-10 applied. No idly article. Cover chain: etOOO9Sq7u8, 90gpqJE-tLU, PS Blog og:image. Needs @PlayStation channel + playstation.com allowlisted. G4 HOLD if cover isn't DS2, lettering under headline, or soft.",
-  "created_at": "2026-11-11T00:05:00+05:30"
+  "created_at": "2026-11-11T00:05:00+05:30",
+  "slug": "2026-11-10-idlynerd-ds2-ps-plus-extra",
+  "caption_final": "Death Stranding 2: On the Beach joins the PlayStation Plus Game Catalogue on 17 November, Sony's PlayStation Blog said on Tuesday. The catalogue comes with the Extra and Deluxe tiers; Essential (₹649 a month in India) doesn't include it.\n\nIn India, PS Plus Extra costs ₹979 a month, ₹2,599 for three months or ₹8,709 a year, and Deluxe costs ₹1,109 a month. Buying the game outright costs ₹4,999 for the Standard Edition on PS Store India, or ₹3,099 in the store's current sale, which runs until 20 November.\n\nAtomfall and Dragon Quest III HD-2D Remake join on 17 November too. Sony gives US and UK dates for the rest: Hell Let Loose on 11 November; Like a Dragon: Pirate Yakuza in Hawaii, Trepang2, MotoGP 26 and Cricket 26 on 24 November. Deluxe adds Soul Reaver 2 and Freedom Wars Remastered. Sony says lineups can differ by region.\n\nDo you buy big PS5 games at launch, or wait for them to reach PS Plus?\n\nSources: PlayStation Blog, PlayStation India, Push Square, Digit, Gizmochina\n\n#DeathStranding2 #PSPlus #PlayStation #PS5 #idlynerd\n\nImage: PlayStation (official video)",
+  "image_credit": "Image: PlayStation (official video)",
+  "lane": {
+    "spec_sha256": "1fdec2707624f02ce021af2e2e68ac288aa35c1c2a75ea3e2d1ebd72558170e9",
+    "rendered_at": "2026-11-10T18:39:21+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=90gpqJE-tLU",
+    "image_url": "https://i.ytimg.com/vi/90gpqJE-tLU/maxresdefault.jpg"
+  }
 }
