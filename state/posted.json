@@ -240,5 +240,20 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-10-idlytech-instagram-ai-age-v3/03.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": 1747,
+    "account": "idlyautomotive",
+    "media_id": "17964070779219185",
+    "permalink": "https://www.instagram.com/p/DfjLXfeD4CW/",
+    "posted_at": "2026-11-10T05:40:48+00:00",
+    "date": "2026-11-10",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-10/am-idlyautomotive-1747/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
