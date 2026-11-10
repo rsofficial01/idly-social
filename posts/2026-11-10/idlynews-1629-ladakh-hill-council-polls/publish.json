@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/01.jpg",
+  "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/02.jpg",
+  "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/03.jpg",
+  "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/caption.txt",
+ "alt_text_file": "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/alt.txt",
+ "score_file": "posts/2026-11-10/idlynews-1629-ladakh-hill-council-polls/score.json",
+ "title": "Ladakh sets 4 December polls for all eight hill councils (SEC Ladakh schedule, 10 Nov)",
+ "tags": []
+}

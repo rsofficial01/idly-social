@@ -1,0 +1,33 @@
+{
+ "account": "idlynews",
+ "title": "Ladakh sets 4 December polls for all eight hill councils (SEC Ladakh schedule, 10 Nov)",
+ "story_id": null,
+ "idly_article": false,
+ "sources": [
+  "https://www.thehindu.com/news/national/ladakh/schedule-for-eight-ladakh-hill-council-elections-announced-polling-on-december-4/article71685727.ece",
+  "https://www.etvbharat.com/en/bharat/amid-shutdown-against-delimitation-ladakh-administration-announces-hill-development-council-elections-enn26111003421",
+  "https://kashmirlife.net/ladakh-to-hold-lahdc-elections-on-december-4-460503/",
+  "https://indianexpress.com/article/india/ladakh-winter-polls-protests-leh-boycott-kargil-shutdown-10957468/",
+  "https://www.thehindu.com/news/national/ladakh/president-promulgates-lahdc-regulation-paves-the-way-for-hill-council-polls-in-all-eight-districts-of-ladakh/article71604027.ece",
+  "https://thechenabtimes.com/2026/11/10/ladakh-announces-schedule-for-hill-development-council-elections/"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Kargil_during_the_winter_season.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kargil_during_the_winter_season.jpg",
+  "downloaded": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kargil_during_the_winter_season.jpg/1920px-Kargil_during_the_winter_season.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Akbesta",
+  "date": "2021-10-25",
+  "credit": "Photo: Akbesta / Wikimedia Commons, CC BY-SA 4.0",
+  "viewed": true,
+  "processing": "Commons 1920x1440 thumbnail; 0 faces (YuNet); pipeline.framing full-bleed focal (0.5,0.5) zoom 1.0 at 0.94x (downscale); cardkit hype 4:5 crop with headline scrim; no other edits"
+ },
+ "tags": [],
+ "story": "none (Stories paused by Rahul at 11:19 UTC, config/formats.json)",
+ "gates": {
+  "g1": "PASS: build C1 (Ladakh LAHDC polls); fixes: 'where contested', attribute shutdown reasons, 2nd sources or drop (dropped Leh boycott, Haneefa Jan, municipal, 3 pm)",
+  "g2": "FIX then PASS (r2): both shutdown reasons together and attributed; who called it; Leh Apex Body named; SEC Ladakh as announcer",
+  "g3": "PASS: Commons CC BY-SA 4.0, credit right, 0 faces, 0.94x",
+  "g4": "PASS: reviewer 12/14 (hook 1, send 1); all 4 slides clean, credit readable; no story (paused)"
+ }
+}

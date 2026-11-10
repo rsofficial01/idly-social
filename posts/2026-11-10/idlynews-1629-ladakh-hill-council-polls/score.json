@@ -1,0 +1,33 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self (13) and reviewer (12): hook 1: a clear date and a strong full-bleed Kargil image, but the cover's stake for a national reader is only 'polls on 4 Dec'. The tension (first councils in all eight districts, winter polls amid a shutdown) is on slide 04, not the cover. send 1: an obvious forward for Ladakhi voters, candidates and their families (nominations close 17 Nov), a weaker reason for most of the national audience. Everything else is strong: tight read-through, a keepable full calendar, a genuine reader-life question, idly's own synthesis of 4+ sources with a credited Commons photo, and slides that stand alone with both protest reasons attributed.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "send 1: strong for Ladakh readers and those following its talks with the Centre, a regional must-send rather than a national one. Hook: clear date and stake (all eight councils), no surprising number on the cover."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: a clear date and a strong full-bleed Kargil image, but the cover's stake for a national reader is only 'polls on 4 Dec'. The tension (first councils in all eight districts, winter polls amid a shutdown) is on slide 04, not the cover. send 1: an obvious forward for Ladakhi voters, candidates and their families (nominations close 17 Nov), a weaker reason for most of the national audience. Everything else is strong: tight read-through, a keepable full calendar, a genuine reader-life question, idly's own synthesis of 4+ sources with a credited Commons photo, and slides that stand alone with both protest reasons attributed."
+ }
+}
