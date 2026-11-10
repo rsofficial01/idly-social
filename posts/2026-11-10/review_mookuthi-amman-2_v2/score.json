@@ -1,0 +1,11 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: no confirmed runtime or certificate. Risk: OnlyKollywood 3/5, 123Telugu 2/5, TOI 2/5 and Rediff 1/5 rest on the blind reviewer's page checks."
+}

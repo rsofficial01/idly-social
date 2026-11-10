@@ -1,0 +1,2181 @@
+{
+ "version": 5,
+ "prepared": "2026-11-10",
+ "window": "Indian theatrical releases, 30 Oct to 9 Nov 2026 (the 8 films idly tracked)",
+ "rule": "A rating counts if it comes from idly's fixed panel of Indian English-language outlets, gives a number, was published on or after the film's India release, and was confirmed on the outlet's page or in two independent listings.",
+ "method": "Panel fixed once for all 8 films (below). A rating counts if: the outlet is on the panel; the review prints a numeric rating; it was published on or after the film's India theatrical release date; and idly confirmed it on the outlet's own page, or, where that page could not be opened, in two independent listings that agree (thereviewmonk, Rotten Tomatoes, Sacnilk Review-of-Reviews, BollyMovieReviewz). Outlet pages read earlier on 10 Nov by the v4 research or by idly's blind reviewer (lane report) are recorded as such. Ratings converted to /10 (x/5 x 2); score = mean, rounded half up to one decimal. A film is ranked if it has 4 or more counted ratings. No page was fetched with curl, wget or requests; pages WebFetch declined are recorded as unreachable. Search coverage: WebSearch in this session returns titles and URLs only and does not index several outlets (Hindustan Times, Filmfare, The Tribune, ABP Live, Rediff pages did not surface); each film's sources_checked lists what was searched. Panel outlets in no_rated_review_found were not seen with a rated review in any of those sources.",
+ "listings": {
+  "TRM": "thereviewmonk.com film page (read 10 Nov)",
+  "RT": "Rotten Tomatoes film page (read 10 Nov)",
+  "SAC": "Sacnilk Review-of-Reviews page (read 10 Nov)",
+  "BMR": "BollyMovieReviewz review round-up (read 10 Nov)"
+ },
+ "confirmation_types": {
+  "page": "outlet's page, read with WebFetch on 10 Nov (this build)",
+  "page_v4": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+  "page_reviewer": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build"
+ },
+ "panel": [
+  {
+   "outlet": "Times of India",
+   "category": "newspaper",
+   "domains": [
+    "timesofindia.indiatimes.com"
+   ]
+  },
+  {
+   "outlet": "Hindustan Times",
+   "category": "newspaper",
+   "domains": [
+    "hindustantimes.com"
+   ]
+  },
+  {
+   "outlet": "The Indian Express",
+   "category": "newspaper",
+   "domains": [
+    "indianexpress.com"
+   ]
+  },
+  {
+   "outlet": "The Hindu",
+   "category": "newspaper",
+   "domains": [
+    "thehindu.com"
+   ]
+  },
+  {
+   "outlet": "The New Indian Express / Cinema Express",
+   "category": "newspaper",
+   "domains": [
+    "newindianexpress.com",
+    "cinemaexpress.com"
+   ]
+  },
+  {
+   "outlet": "Deccan Herald",
+   "category": "newspaper",
+   "domains": [
+    "deccanherald.com"
+   ]
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "category": "newspaper",
+   "domains": [
+    "deccanchronicle.com"
+   ]
+  },
+  {
+   "outlet": "DT Next",
+   "category": "newspaper",
+   "domains": [
+    "dtnext.in"
+   ]
+  },
+  {
+   "outlet": "The Tribune",
+   "category": "newspaper",
+   "domains": [
+    "tribuneindia.com"
+   ]
+  },
+  {
+   "outlet": "The Telegraph (incl. t2)",
+   "category": "newspaper",
+   "domains": [
+    "telegraphindia.com",
+    "t2online.in"
+   ]
+  },
+  {
+   "outlet": "Mint",
+   "category": "newspaper",
+   "domains": [
+    "livemint.com"
+   ]
+  },
+  {
+   "outlet": "DNA",
+   "category": "newspaper",
+   "domains": [
+    "dnaindia.com"
+   ]
+  },
+  {
+   "outlet": "Telangana Today",
+   "category": "newspaper",
+   "domains": [
+    "telanganatoday.com"
+   ]
+  },
+  {
+   "outlet": "The Hans India",
+   "category": "newspaper",
+   "domains": [
+    "thehansindia.com"
+   ]
+  },
+  {
+   "outlet": "The Sunday Guardian",
+   "category": "newspaper",
+   "domains": [
+    "sundayguardianlive.com"
+   ]
+  },
+  {
+   "outlet": "Mathrubhumi (English)",
+   "category": "newspaper",
+   "domains": [
+    "english.mathrubhumi.com"
+   ]
+  },
+  {
+   "outlet": "The Siasat Daily",
+   "category": "newspaper",
+   "domains": [
+    "siasat.com"
+   ]
+  },
+  {
+   "outlet": "NDTV",
+   "category": "tv_news_site",
+   "domains": [
+    "ndtv.com"
+   ]
+  },
+  {
+   "outlet": "India Today",
+   "category": "tv_news_site",
+   "domains": [
+    "indiatoday.in"
+   ]
+  },
+  {
+   "outlet": "News18",
+   "category": "tv_news_site",
+   "domains": [
+    "news18.com"
+   ]
+  },
+  {
+   "outlet": "Times Now",
+   "category": "tv_news_site",
+   "domains": [
+    "timesnownews.com"
+   ]
+  },
+  {
+   "outlet": "WION",
+   "category": "tv_news_site",
+   "domains": [
+    "wionews.com"
+   ]
+  },
+  {
+   "outlet": "India TV",
+   "category": "tv_news_site",
+   "domains": [
+    "indiatvnews.com"
+   ]
+  },
+  {
+   "outlet": "ABP Live",
+   "category": "tv_news_site",
+   "domains": [
+    "abplive.com"
+   ]
+  },
+  {
+   "outlet": "Moneycontrol",
+   "category": "news_site",
+   "domains": [
+    "moneycontrol.com"
+   ]
+  },
+  {
+   "outlet": "Firstpost",
+   "category": "news_site",
+   "domains": [
+    "firstpost.com"
+   ]
+  },
+  {
+   "outlet": "The Quint",
+   "category": "news_site",
+   "domains": [
+    "thequint.com"
+   ]
+  },
+  {
+   "outlet": "Scroll",
+   "category": "news_site",
+   "domains": [
+    "scroll.in"
+   ]
+  },
+  {
+   "outlet": "The Wire",
+   "category": "news_site",
+   "domains": [
+    "thewire.in"
+   ]
+  },
+  {
+   "outlet": "The Federal",
+   "category": "news_site",
+   "domains": [
+    "thefederal.com"
+   ]
+  },
+  {
+   "outlet": "The South First",
+   "category": "news_site",
+   "domains": [
+    "thesouthfirst.com"
+   ]
+  },
+  {
+   "outlet": "Onmanorama",
+   "category": "news_site",
+   "domains": [
+    "onmanorama.com"
+   ]
+  },
+  {
+   "outlet": "Outlook",
+   "category": "magazine",
+   "domains": [
+    "outlookindia.com"
+   ]
+  },
+  {
+   "outlet": "The Week",
+   "category": "magazine",
+   "domains": [
+    "theweek.in"
+   ]
+  },
+  {
+   "outlet": "Rediff",
+   "category": "news_site",
+   "domains": [
+    "rediff.com"
+   ]
+  },
+  {
+   "outlet": "Filmfare",
+   "category": "film_publication",
+   "domains": [
+    "filmfare.com"
+   ]
+  },
+  {
+   "outlet": "The Hollywood Reporter India",
+   "category": "film_publication",
+   "domains": [
+    "hollywoodreporterindia.com"
+   ]
+  },
+  {
+   "outlet": "Film Information",
+   "category": "film_publication",
+   "domains": [
+    "filminformation.com"
+   ]
+  },
+  {
+   "outlet": "Koimoi",
+   "category": "film_publication",
+   "domains": [
+    "koimoi.com"
+   ]
+  },
+  {
+   "outlet": "Bollywood Hungama",
+   "category": "film_publication",
+   "domains": [
+    "bollywoodhungama.com"
+   ]
+  },
+  {
+   "outlet": "Pinkvilla",
+   "category": "film_publication",
+   "domains": [
+    "pinkvilla.com"
+   ]
+  },
+  {
+   "outlet": "OTTplay",
+   "category": "film_publication",
+   "domains": [
+    "ottplay.com"
+   ]
+  },
+  {
+   "outlet": "Gulte",
+   "category": "film_publication",
+   "domains": [
+    "gulte.com"
+   ]
+  },
+  {
+   "outlet": "123Telugu",
+   "category": "film_publication",
+   "domains": [
+    "123telugu.com"
+   ]
+  },
+  {
+   "outlet": "Great Andhra",
+   "category": "film_publication",
+   "domains": [
+    "greatandhra.com"
+   ]
+  },
+  {
+   "outlet": "Telugu360",
+   "category": "film_publication",
+   "domains": [
+    "telugu360.com"
+   ]
+  },
+  {
+   "outlet": "OnlyKollywood",
+   "category": "film_publication",
+   "domains": [
+    "onlykollywood.com"
+   ]
+  }
+ ],
+ "panel_borderline": [
+  {
+   "outlet": "Rediff",
+   "decision": "in",
+   "reason": "A web portal rather than a newspaper, but a national news site with a film desk and named critics since the 1990s."
+  },
+  {
+   "outlet": "Cinema Express",
+   "decision": "in, merged",
+   "reason": "The New Indian Express group's film site, same critics; one outlet with The New Indian Express, each review counted once."
+  },
+  {
+   "outlet": "t2",
+   "decision": "in, merged",
+   "reason": "The Telegraph's entertainment section; one outlet with The Telegraph (it can carry two critics on a film, as Rediff does)."
+  },
+  {
+   "outlet": "Moneycontrol",
+   "decision": "in",
+   "reason": "A business news site (Network18) that publishes signed film reviews: counts as a news site."
+  },
+  {
+   "outlet": "Mathrubhumi (English), Telangana Today, The Hans India, The Siasat Daily, The Sunday Guardian",
+   "decision": "in",
+   "reason": "Established newspapers found reviewing these films; the panel takes every established outlet that covered them."
+  },
+  {
+   "outlet": "Film Information",
+   "decision": "in",
+   "reason": "Trade weekly with signed reviews; it prints no numeric rating, so it never adds a number."
+  },
+  {
+   "outlet": "Koimoi, Bollywood Hungama, Pinkvilla, OTTplay",
+   "decision": "in",
+   "reason": "Digital-only film sites named in the founder's brief, with staff critics."
+  },
+  {
+   "outlet": "Gulte, 123Telugu, Great Andhra, Telugu360",
+   "decision": "in",
+   "reason": "Digital-only Telugu film sites named in the brief; the main English-language outlets for Telugu releases."
+  },
+  {
+   "outlet": "OnlyKollywood",
+   "decision": "in",
+   "reason": "Digital-only Tamil film site named in the brief."
+  },
+  {
+   "outlet": "Nettv4u",
+   "decision": "out",
+   "reason": "A listings and database portal, not a news outlet and not a film publication named in the brief."
+  },
+  {
+   "outlet": "MovieCrow, TeluguOne, FlickOnClick, M9 News, Filmibeat, Bollywood Bubble, MovieTalkies, T2BLive, MensXP",
+   "decision": "out",
+   "reason": "Digital-only entertainment sites not named in the brief; left out so the panel is closed rather than open-ended."
+  },
+  {
+   "outlet": "NewsBytes",
+   "decision": "out",
+   "reason": "A short-form news-summary app rather than a newspaper, TV channel or news site with a film desk."
+  },
+  {
+   "outlet": "Baradwaj Rangan, Deepak Dua (Cineyatra), Tusshar Sasi, LensMen Reviews, thefilmworld",
+   "decision": "out",
+   "reason": "Individual critics' blogs or channels."
+  },
+  {
+   "outlet": "The National, The Guardian, The Times (UK), IndieWire, IGN, Screen Rant, TheWrap, Khaleej Times, Gulf News, NextBestPicture",
+   "decision": "out",
+   "reason": "Non-Indian outlets: the panel is Indian outlets reviewing Indian releases."
+  },
+  {
+   "outlet": "Hindi-, Tamil- and Telugu-language editions (e.g. telugu.gulte.com, Navbharat Times, Dinamalar, Eenadu)",
+   "decision": "out",
+   "reason": "English-language panel: the brief's examples are all English-language, and these could not be searched consistently for all 8 films."
+  }
+ ],
+ "films": [
+  {
+   "slug": "ramayana-part-1",
+   "title": "Ramayana: Part 1",
+   "short": "Ramayana: Part 1",
+   "language": "Hindi",
+   "release": "2026-11-05",
+   "release_evidence": "5 Nov 2026 in India: Outlook ('Makers confirm November 5 release'); Sacnilk, 7 Oct (full release Thu 5 Nov, paid previews 4 Nov); Rotten Tomatoes 'Nov 5, 2026, wide'. thereviewmonk shows 6 Nov (worldwide confusion).",
+   "sources_checked": [
+    "TRM film page",
+    "RT film page",
+    "SAC Review-of-Reviews",
+    "BMR round-up",
+    "Gulte and Great Andhra review indexes",
+    "WebSearch: 'Ramayana Part 1 review <outlet>' for Koimoi, Telugu360, The Week, 123telugu, Times Now, Deccan Herald, Hindustan Times, The Tribune, Filmfare, India Today, The New Indian Express, Rediff",
+    "WebSearch: 'Ramayana Part 1 critics reviews roundup', 'Ramayana: Part 1 Wikipedia'"
+   ],
+   "results": [
+    {
+     "outlet": "Times of India",
+     "critic": "Renuka Vyavahare",
+     "rating_published": "4.5/5",
+     "rating_10": 9.0,
+     "published": "Nov 2026 (TRM); TOI article ID sits between its 30 Oct and 6 Nov reviews",
+     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/ramayana-rise-of-a-legend/movie-review/135561385.cms",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "TRM 9.0; SAC 4.5/5. Exact day not shown.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "DNA",
+     "critic": "Simran Singh",
+     "rating_published": "4.5/5",
+     "rating_10": 9.0,
+     "published": "Nov 2026 (TRM)",
+     "url": "https://www.dnaindia.com/bollywood/report-ramayana-movie-review-ranbir-kapoor-yash-nitesh-tiwari-namit-malhotra-sai-pallavi-bring-most-impactful-detailed-visually-rich-take-on-indian-epic-since-ramanand-sagar-s-ramayan-3223558",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "TRM 9.0; SAC 4.5/5. Exact day not shown.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Koimoi",
+     "critic": "Trishha Gaur",
+     "rating_published": "4.5/5",
+     "rating_10": 9.0,
+     "published": "2026-11-05 15:05 IST",
+     "url": "https://www.koimoi.com/bollywood-movies/movie-reviews/ramayana-movie-review-ft-ranbir-kapoor-sai-pallavi-yash-we-all-know-ramayana-but-i-bet-you-didnt-know-it-is-poetically-magical-to-hypnotize-your-soul/",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "DT Next",
+     "critic": "Dharshini",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "2026-11-05 12:03",
+     "url": "https://www.dtnext.in/entertainment/cinema/ramayana-movie-review-yash-brings-fire-ranbir-brings-grace-to-ramayana",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "2026-11-05 10:02 IST (HT article ID timestamp)",
+     "url": "https://www.hindustantimes.com/entertainment/bollywood/ramayana-part-1-review-yash-ranbir-kapoor-sai-pallavis-spectacular-film-breathes-new-life-into-an-epic-we-know-by-heart-101793853147143.html",
+     "confirmed_by": "two listings: TRM + BMR",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "India TV",
+     "critic": "Jaya Dwivedie",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "Nov 2026 (TRM)",
+     "url": "https://www.indiatvnews.com/entertainment/movie-review/ramayana-movie-review-rating-ranbir-kapoor-yash-sai-pallavi-ravie-dubey-namit-malhotra-nitesh-tiwari-1406",
+     "confirmed_by": "two listings: TRM + BMR",
+     "note": "Exact day not shown.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Pinkvilla",
+     "critic": "Goutham S",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "2026-11-05 11:52 IST",
+     "url": "https://www.pinkvilla.com/entertainment/reviews/ramayana-movie-review-ranbir-kapoor-and-yashs-battle-of-good-vs-evil-is-most-visually-stunning-ventures-in-indian-cinema-1406283",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "post-release per reviewer",
+     "url": "",
+     "confirmed_by": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "Reviewer: 'Telugu360 4/5 ... qualify'. Not found by this build's searches.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Week",
+     "critic": "Sajin Shrijith",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "2026-11-05 14:11 IST",
+     "url": "https://www.theweek.in/review/movies/2026/11/05/ramayana-part-1-2026-movie-review.html",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Shubhra Gupta",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Nov 2026 (TRM); IE article ID about 5 Nov",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/ramayana-part-1-movie-review-ranbir-kapoor-namit-malhotra-perfect-epic-for-kalyuga-10951499/",
+     "confirmed_by": "two listings: TRM + SAC (+ BMR)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Saibal Chatterjee",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Nov 2026 (TRM)",
+     "url": "https://www.ndtv.com/entertainment/ramayana-review-spectacle-overshadows-substance-in-ranbir-kapoor-and-yash-film-3-stars-12285603",
+     "confirmed_by": "two listings: TRM + SAC (+ BMR; URL says 3 stars)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Firstpost",
+     "critic": "Zinia Bandyopadhyay",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Nov 2026 (TRM)",
+     "url": "https://www.firstpost.com/lifestyle/ramayana-part-1-review-stunning-vfx-a-commanding-yash-but-an-inconsistent-retelling-14058012.html",
+     "confirmed_by": "two listings: TRM + SAC (+ BMR)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "News18",
+     "critic": "Chirag Sehgal",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Nov 2026 (TRM)",
+     "url": "https://www.news18.com/movies/bollywood/ramayana-movie-review-rating-part-1-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-ws-t-10413376.html",
+     "confirmed_by": "two listings: TRM + BMR",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "BH Harsh",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.newindianexpress.com/entertainment/review/2026/Nov/06/hindireview2026nov05ramayana-part-1-movie-review-ranbir-kapoor-starrer-has-many-things-working-for-it-except-ranbir-himself",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-05 22:16",
+     "url": "https://www.gulte.com/moviereviews/439892/ramayana-part-1-movie-review",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-05",
+     "url": "https://www.greatandhra.com/movies/reviews/ramayana-part-1-movie-review-yash-steals-the-show-in-this-grand-epic/",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-05 (URL)",
+     "url": "https://www.rediff.com/movies/review/ramayana-part-1-review-yash-steals-ranbirs-thunder/20261105.htm",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "TRM 5.0; SAC 2.5/5. rediff.com not reachable from this build.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sukanya Verma",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-05 (URL)",
+     "url": "https://www.rediff.com/movies/review/ramayana-part-1-review-all-scale-no-soul/20261105.htm",
+     "confirmed_by": "BMR 2.5/5 + outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "TRM lists it as unrated; the Rediff page carries a 2.5/5 Rediff Rating (reviewer).",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Outlook",
+     "critic": "Aishani Biswas",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-05",
+     "url": "https://www.outlookindia.com/art-entertainment/movie-review/ramayana-rise-of-a-legend-review-nitesh-tiwaris-spectacle-of-gods-and-demons-loses-the-soul-of-the-epic",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Bollywood Hungama",
+     "critic": "Taran Adarsh",
+     "rating_published": "5/5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Published 31 Oct, before the 5 Nov release."
+    },
+    {
+     "outlet": "The Quint",
+     "critic": "Suchin Mehrotra",
+     "rating_published": "TRM lists 6.0",
+     "published": "2026-11-05",
+     "url": "https://www.thequint.com/entertainment/movie-reviews/ramanyana-review-ranbir-kapoor-yash-namit-malhotra",
+     "counted": false,
+     "excluded_reason": "The review page (read 5 Nov edition) shows no numeric rating; TRM figure not printed by the outlet."
+    },
+    {
+     "outlet": "ABP Live",
+     "critic": "Rahul Yadav",
+     "rating_published": "TRM 8.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Devesh Sharma",
+     "rating_published": "TRM 8.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "The Tribune",
+     "critic": "Nonika Singh",
+     "rating_published": "TRM 8.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Vineeta Kumar",
+     "rating_published": "SAC 4/5",
+     "published": "2026-11-05",
+     "url": "https://www.indiatoday.in/movies/reviews/story/ramayana-part-1-review-ranbirs-rama-yashs-ravana-in-a-spellbinding-epic-for-the-ages-3032286-2026-11-05",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "The Telegraph (incl. t2)",
+     "critic": "Agnivo Niyogi",
+     "rating_published": "SAC 4/5",
+     "published": "",
+     "url": "https://www.telegraphindia.com/entertainment/yash-steals-the-show-in-nitesh-tiwaris-ambitious-retelling/cid/2187966",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Moneycontrol",
+     "critic": "Sarika Sharma",
+     "rating_published": "SAC 4/5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Film Information",
+     "critic": "Komal Nahta",
+     "rating_published": "none (SAC shows 4/5, BMR blank)",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Prints no numeric rating; the SAC figure is Sacnilk's own."
+    },
+    {
+     "outlet": "Scroll",
+     "critic": "Nandini Ramnath",
+     "rating_published": "none",
+     "published": "2026-11-05",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "Telangana Today",
+     "critic": "T Lalith Singh",
+     "rating_published": "none",
+     "published": "2026-11-05",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Federal",
+     "critic": "Puja Talwar",
+     "rating_published": "none",
+     "published": "2026-11-05",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Telegraph (incl. t2)",
+     "critic": "Priyanka Roy (t2)",
+     "rating_published": "none",
+     "published": "2026-11-05",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Rahul Desai",
+     "rating_published": "none",
+     "published": "2026-11-05",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Siasat Daily",
+     "critic": "Sardar Sarabjoth Singh",
+     "rating_published": "none",
+     "published": "2026-11-06",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "Mint",
+     "critic": "Uday Bhatia",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Anuj Kumar; Vivek M.V.",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Wire",
+     "critic": "Tatsam Mukherjee",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "WION",
+     "critic": "Shomini Sen",
+     "rating_published": "none",
+     "published": "not shown",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    }
+   ],
+   "no_rated_review_found": [
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "The Hans India",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "Times Now",
+    "The South First",
+    "Onmanorama",
+    "OTTplay",
+    "123Telugu",
+    "OnlyKollywood"
+   ],
+   "n_counted": 19,
+   "sum_10": 131.0,
+   "mean_exact": 6.8947,
+   "score": 6.9,
+   "ranked": true
+  },
+  {
+   "slug": "scene",
+   "title": "Scene",
+   "short": "Scene",
+   "language": "Tamil",
+   "release": "2026-11-06",
+   "release_evidence": "6 Nov 2026 (thereviewmonk; Sacnilk day-1 report; IANS, Telangana Today release announcements).",
+   "sources_checked": [
+    "TRM film page",
+    "RT film page",
+    "SAC Review-of-Reviews",
+    "Gulte and Great Andhra review indexes",
+    "WebSearch: 'Scene movie review Deccan Herald Suriya'",
+    "WebSearch restricted to gulte.com, telugu360.com, greatandhra.com; to onmanorama.com"
+   ],
+   "results": [
+    {
+     "outlet": "Times of India",
+     "critic": "M Suganth",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "Nov 2026 (TRM); TOI article ID about 6 Nov",
+     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/scene/movie-review/135594643.cms",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "Avinash Ramachandran",
+     "rating_published": "4/5",
+     "rating_10": 8.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.cinemaexpress.com/tamil/review/2026/Nov/06/scene-movie-review-suriya-jithus-quirky-experiment-subverts-superstardom-to-fantastic-effect",
+     "confirmed_by": "two listings: TRM + SAC (+ RT)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "OnlyKollywood",
+     "critic": "Karthik Krishnasamy",
+     "rating_published": "3.75/5",
+     "rating_10": 7.5,
+     "published": "2026-11-06",
+     "url": "https://www.onlykollywood.com/scene-movie-review/",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "TRM lists 7.6; the page prints 3.75/5 = 7.5.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Rohit Panikker",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "Nov 2026",
+     "url": "https://www.filmfare.com/reviews/south-movies/scene-review-suriyas-unconventional-cop-makes-this-crime-comedy-tick-87027.html",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Neeshita Nyayapati",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "2026-11-06 13:49 IST (HT article ID timestamp)",
+     "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/scene-movie-review-jithu-madhavan-follow-up-aavesham-unserious-hero-esque-film-suriya-nazriya-nazim-naslen-101793953191346.html",
+     "confirmed_by": "two listings: TRM + RT (RT read in v4)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Janani K",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.indiatoday.in/movies/reviews/story/scene-movie-review-suriya-jithu-madhavan-nazriya-naslen-serial-killer-thriller-3033500-2026-11-06",
+     "confirmed_by": "two listings: TRM + SAC (+ RT)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "Nov 2026; IE article ID about 6 Nov",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/scene-movie-review-suriya-wild-funny-dark-roller-coaster-10953104/",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Pinkvilla",
+     "critic": "Goutham S",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "Nov 2026",
+     "url": "https://www.pinkvilla.com/entertainment/south/scene-movie-review-suriyas-charm-and-swag-turn-this-dark-comedy-into-a-fun-entertainer-breaking-his-flawless-image-1406300",
+     "confirmed_by": "two listings: TRM + SAC",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "3.5/5",
+     "rating_10": 7.0,
+     "published": "Nov 2026",
+     "url": "https://www.ndtv.com/entertainment/scene-review-suriyas-eccentric-cop-avatar-is-a-total-delight-3-5-stars-12291889",
+     "confirmed_by": "two listings: SAC + RT (URL says 3.5 stars)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Week",
+     "critic": "Sajin Shrijith",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.theweek.in/review/movies/2026/11/06/suriya-scene-tamil-movie-review.html",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Deccan Herald",
+     "critic": "Jagadish Angadi",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06",
+     "url": "https://www.deccanherald.com/entertainment/scene-movie-review-suriya-is-compelling-in-average-cop-drama-4210460",
+     "confirmed_by": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "This build: page failed at the site (client error).",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-07",
+     "url": "https://www.gulte.com/moviereviews/440229/scene-movie-review",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06",
+     "url": "https://www.greatandhra.com/movies/reviews/scene-review-an-interesting-idea-average-narration/",
+     "confirmed_by": "outlet's review index page, read with WebFetch on 10 Nov",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Sankar",
+     "rating_published": "2.25/5",
+     "rating_10": 4.5,
+     "published": "2026-11-06 10:23 IST",
+     "url": "https://www.telugu360.com/scene-movie-review/",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Deccan Chronicle",
+     "critic": "BVS Prakash",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "2026-11-06",
+     "url": "https://www.deccanchronicle.com/entertainment/movie-review/scene-movie-review-suriyas-unconventional-cop-story-fails-to-deliver-2002230",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Times Now",
+     "critic": "Raisa Nasreen",
+     "rating_published": "TRM 7.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Published 5 Nov per idly's reviewer, before the 6 Nov release; and only one listing."
+    },
+    {
+     "outlet": "Koimoi",
+     "critic": "Athulya Nambiar",
+     "rating_published": "TRM 8.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "TRM 6.0",
+     "published": "2026-11-06",
+     "url": "https://www.rediff.com/movies/review/suriyas-scene-review-jithu-madhavan-delivers-engaging-investigative-thriller/20261106.htm",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Mathrubhumi (English)",
+     "critic": "Sia Viju",
+     "rating_published": "SAC 4/5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Vishal Menon",
+     "rating_published": "none",
+     "published": "2026-11-06",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Bhuvanesh Chandar",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Anandu Suresh (second IE review)",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Federal",
+     "critic": "Monashree Sankar",
+     "rating_published": "none",
+     "published": "2026-11-06",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "Onmanorama",
+     "critic": "first-half review",
+     "rating_published": "none",
+     "published": "2026-11-06",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    }
+   ],
+   "no_rated_review_found": [
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "The Sunday Guardian",
+    "The Siasat Daily",
+    "News18",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The South First",
+    "Outlook",
+    "Film Information",
+    "Bollywood Hungama",
+    "OTTplay",
+    "123Telugu"
+   ],
+   "n_counted": 15,
+   "sum_10": 95.0,
+   "mean_exact": 6.3333,
+   "score": 6.3,
+   "ranked": true
+  },
+  {
+   "slug": "mookuthi-amman-2",
+   "title": "Mookuthi Amman 2",
+   "short": "Mookuthi Amman 2",
+   "language": "Tamil",
+   "release": "2026-11-06",
+   "release_evidence": "6 Nov 2026 (thereviewmonk; Republic World and Filmibeat release lists, per v4).",
+   "sources_checked": [
+    "TRM film page",
+    "RT film page",
+    "Gulte and Great Andhra review indexes",
+    "WebSearch: 'Mookuthi Amman 2 movie review OnlyKollywood', 'Mookuthi Amman 2 Maha Sakthi review 123telugu', 'thereviewmonk Mookuthi Amman 2 critic reviews', 'sacnilk Mookuthi Amman 2 review of reviews'"
+   ],
+   "results": [
+    {
+     "outlet": "OnlyKollywood",
+     "critic": "Staff review",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-06",
+     "url": "https://www.onlykollywood.com/mookuthi-amman-2-movie-review/",
+     "confirmed_by": "TRM 6.0 + outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "DT Next",
+     "critic": "Manivasagan Namasivayam",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06 03:43",
+     "url": "https://www.dtnext.in/entertainment/cinema/mookuthi-amman-2-review-amman-saves-herself-in-this-vfx-heavy-devotional-entertainer",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Filmfare",
+     "critic": "Rohit Panikker",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "Nov 2026",
+     "url": "https://www.filmfare.com/reviews/south-movies/mookuthi-amman-2-review-nayanthara-anchors-an-uneven-devotional-fantasy-87059.html",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "Nov 2026",
+     "url": "https://www.ndtv.com/entertainment/mookuthi-amman-2-review-nayantharas-devotional-fantasy-lacks-stroytelling-miracle-2-stars-12292790",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Roopa Radhakrishnan",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "Nov 2026; TOI article ID about 6 Nov",
+     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/mookuthi-amman-2-maha-sakthi/movie-review/135595572.cms",
+     "confirmed_by": "TRM 4.0 + outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "Reviewer: 'All 9 ratings used match the outlets' own reviews'.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "123Telugu",
+     "critic": "",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "post-release (Telugu version)",
+     "url": "",
+     "confirmed_by": "outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "Reviewer: '123Telugu's 2/5'.",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "Prashanth Vallavan",
+     "rating_published": "1.5/5",
+     "rating_10": 3.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.cinemaexpress.com/tamil/review/2026/Nov/06/mookuthi-amman-2-movie-review-a-systematic-desecration-of-the-amman-genre",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Janani K",
+     "rating_published": "1.5/5",
+     "rating_10": 3.0,
+     "published": "2026-11-06 (URL)",
+     "url": "https://www.indiatoday.in/movies/reviews/story/mookuthi-amman-2-review-nayanthara-film-is-a-god-sized-disappointment-3033669-2026-11-06",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "1.5/5",
+     "rating_10": 3.0,
+     "published": "Nov 2026",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/mookuthi-amman-2-review-nayanthara-cannot-save-this-loud-hollow-movie-10953643/",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "1/5",
+     "rating_10": 2.0,
+     "published": "2026-11-07 (URL)",
+     "url": "https://www.rediff.com/movies/review/mookuthi-amman-2-review-nayantharas-mythological-sequel-fails-to-impress/20261107.htm",
+     "confirmed_by": "TRM 2.0 + outlet's page, read by idly's blind reviewer on 10 Nov (reports/lane-2026-11-10.md); not reachable from this build",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "1/5",
+     "rating_10": 2.0,
+     "published": "2026-11-08",
+     "url": "https://www.gulte.com/moviereviews/440480/mookuthi-amman-2-maha-sakthi-review",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Sruthi Ganapathy Raman",
+     "rating_published": "none",
+     "published": "2026-11-06",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (page read)"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Bhuvanesh Chandar",
+     "rating_published": "none",
+     "published": "Nov 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "TeluguOne / MovieCrow / FlickOnClick",
+     "critic": "",
+     "rating_published": "TRM 4.5 / 3.0; FlickOnClick 3/5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Not on the panel (digital-only sites not named in the brief)."
+    }
+   ],
+   "no_rated_review_found": [
+    "Hindustan Times",
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "News18",
+    "Times Now",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The Federal",
+    "The South First",
+    "Onmanorama",
+    "Outlook",
+    "The Week",
+    "Film Information",
+    "Koimoi",
+    "Bollywood Hungama",
+    "Pinkvilla",
+    "OTTplay",
+    "Great Andhra",
+    "Telugu360"
+   ],
+   "n_counted": 11,
+   "sum_10": 40.0,
+   "mean_exact": 3.6364,
+   "score": 3.6,
+   "ranked": true
+  },
+  {
+   "slug": "pyre",
+   "title": "Pyre",
+   "short": "Pyre",
+   "language": "Hindi",
+   "release": "2026-10-30",
+   "release_evidence": "30 Oct 2026: Sacnilk movie page (India release 30 Oct, day 1 Fri 30 Oct); Film Information review dated 30 Oct. THR India (29 Sep) had announced 23 Oct, later superseded.",
+   "sources_checked": [
+    "TRM film page",
+    "RT film page",
+    "WebSearch: 'Pyre review Hindustan Times', 'sacnilk Pyre 2026 review of reviews', 'bollymoviereviewz Pyre', 'Pyre movie review 2026 Padam Singh Hira Devi rating'"
+   ],
+   "results": [
+    {
+     "outlet": "Outlook",
+     "critic": "Aishani Biswas",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-10-30",
+     "url": "https://www.outlookindia.com/art-entertainment/movie-review/pyre-movie-review-vinod-kapris-portrait-of-ageing-and-abandonment-is-painfully-real",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Shubhra Gupta",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Oct 2026; IE article ID about 30-31 Oct, beside its 30 Oct Aadarsha Kutumbam review",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/pyre-movie-review-an-affecting-tale-of-love-loneliness-and-resilience-10943143/",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "RT 3.5/5; TRM 6.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "The two listings disagree (3.5/5 vs 3/5) and the HT page could not be opened from this build: unconfirmed. Published 30 Oct 14:08 IST (article ID)."
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Deepa Gahlot",
+     "rating_published": "TRM 6.0",
+     "published": "2026-10-30",
+     "url": "https://www.rediff.com/movies/review/pyre-review-hauntingly-melancholic/20261030.htm",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Sana Farzeen",
+     "rating_published": "3.5/5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Published 29 Oct (URL), before the 30 Oct release."
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Dhaval Roy",
+     "rating_published": "TRM 8.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Date not shown and only one listing; article ID sits well before TOI's 30 Oct reviews."
+    },
+    {
+     "outlet": "Scroll",
+     "critic": "Nandini Ramnath",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Anuj Kumar",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Federal",
+     "critic": "Zico Ghosh",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "Film Information",
+     "critic": "Staff review",
+     "rating_published": "none",
+     "published": "2026-10-30",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Sunday Guardian",
+     "critic": "Bhumi Vashisht",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "Kartik Bhardwaj",
+     "rating_published": "unrated",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Unrated, and dated 29 Oct (before release)."
+    }
+   ],
+   "no_rated_review_found": [
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "NDTV",
+    "News18",
+    "Times Now",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "The Wire",
+    "The South First",
+    "Onmanorama",
+    "The Week",
+    "Filmfare",
+    "The Hollywood Reporter India",
+    "Koimoi",
+    "Bollywood Hungama",
+    "Pinkvilla",
+    "OTTplay",
+    "Gulte",
+    "123Telugu",
+    "Great Andhra",
+    "Telugu360",
+    "OnlyKollywood"
+   ],
+   "n_counted": 2,
+   "sum_10": 12.0,
+   "mean_exact": 6.0,
+   "score": 6.0,
+   "ranked": false
+  },
+  {
+   "slug": "summer-holidays",
+   "title": "Summer Holidays",
+   "short": "Summer Holidays",
+   "language": "Telugu",
+   "release": "2026-11-06",
+   "release_evidence": "6 Nov 2026 (Gulte lists 06-11-2026; 123telugu; Filmibeat release list, per v4).",
+   "sources_checked": [
+    "Gulte and Great Andhra review indexes",
+    "WebSearch: 'thereviewmonk Summer Holidays Telugu movie reviews'",
+    "v4 outlet pages"
+   ],
+   "results": [
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-11-06",
+     "url": "https://www.123telugu.com/reviews/summer-holidays-telugu-movie-review-and-rating.html",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06",
+     "url": "https://www.gulte.com/moviereviews/440064/summer-holidays-movie-review",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Sankar",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06",
+     "url": "https://www.telugu360.com/summer-holidays-movie-review/",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-11-06",
+     "url": "https://www.greatandhra.com/movies/reviews/summer-holidays-review-pleasant-moments-but-little-drama/",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record); also its review index (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    }
+   ],
+   "no_rated_review_found": [
+    "Times of India",
+    "Hindustan Times",
+    "The Indian Express",
+    "The Hindu",
+    "The New Indian Express / Cinema Express",
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "NDTV",
+    "India Today",
+    "News18",
+    "Times Now",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The Federal",
+    "The South First",
+    "Onmanorama",
+    "Outlook",
+    "The Week",
+    "Rediff",
+    "Filmfare",
+    "The Hollywood Reporter India",
+    "Film Information",
+    "Koimoi",
+    "Bollywood Hungama",
+    "Pinkvilla",
+    "OTTplay",
+    "OnlyKollywood"
+   ],
+   "n_counted": 4,
+   "sum_10": 21.0,
+   "mean_exact": 5.25,
+   "score": 5.3,
+   "ranked": true
+  },
+  {
+   "slug": "aadarsha-kutumbam",
+   "title": "Aadarsha Kutumbam House No: 47",
+   "short": "Aadarsha Kutumbam",
+   "language": "Telugu",
+   "release": "2026-10-30",
+   "release_evidence": "30 Oct 2026 (thereviewmonk; Cinema Express review dated 30 Oct).",
+   "sources_checked": [
+    "TRM film page",
+    "RT film page",
+    "Gulte and Great Andhra review indexes"
+   ],
+   "results": [
+    {
+     "outlet": "Filmfare",
+     "critic": "Sashidhar Adivi",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "Oct 2026; Filmfare article ID about 2 Nov",
+     "url": "https://www.filmfare.com/reviews/south-movies/aadarsha-kutumbam-review-an-okayish-family-entertainer-86884.html",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "Suresh Kavirayani",
+     "rating_published": "3/5",
+     "rating_10": 6.0,
+     "published": "2026-10-30 (URL)",
+     "url": "https://www.cinemaexpress.com/telugu/review/2026/Oct/30/adarsha-kutumbam-movie-review-venkatesh-and-trivikrams-family-entertainer-takes-an-unexpected-turn",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-10-30 15:33",
+     "url": "https://www.gulte.com/moviereviews/438846/aadarsha-kutumbam-movie-review",
+     "confirmed_by": "outlet's page, read with WebFetch on 10 Nov (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "NDTV",
+     "critic": "Latha Srinivasan",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "Oct 2026; NDTV article ID about 31 Oct",
+     "url": "https://www.ndtv.com/entertainment/aadarsha-kutumbam-review-trivikram-srinivass-film-is-a-tried-and-tested-story-sans-surprises-12259004",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2.5/5",
+     "rating_10": 5.0,
+     "published": "2026-10-30",
+     "url": "https://www.greatandhra.com/movies/reviews/aadarsha-kutumbam-review-crime-drama-works-in-parts/",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record); also its review index (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The Indian Express",
+     "critic": "Yashaswini Sri",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "Oct 2026; IE article ID about 30-31 Oct",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/aadarsha-kutumbam-movie-review-trivikram-venkatesh-reunion-deserved-a-better-film-10943358/",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "2026-10-31 (URL)",
+     "url": "https://www.rediff.com/movies/review/aadarsha-kutumbam-house-no-47-movie-review-venkateshs-film-stumbles-under-unimpressive-writing/20261031.htm",
+     "confirmed_by": "two listings: TRM + RT",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "TRM 6.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Krishna",
+     "rating_published": "TRM 5.5",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "Sruthi Ganapathy Raman",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Sangeetha Devi Dundoo",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    }
+   ],
+   "no_rated_review_found": [
+    "Times of India",
+    "Hindustan Times",
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "India Today",
+    "News18",
+    "Times Now",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The Federal",
+    "The South First",
+    "Onmanorama",
+    "Outlook",
+    "The Week",
+    "Film Information",
+    "Koimoi",
+    "Bollywood Hungama",
+    "Pinkvilla",
+    "OTTplay",
+    "OnlyKollywood"
+   ],
+   "n_counted": 7,
+   "sum_10": 35.0,
+   "mean_exact": 5.0,
+   "score": 5.0,
+   "ranked": true
+  },
+  {
+   "slug": "nakhrewaalii",
+   "title": "Nakhrewaalii",
+   "short": "Nakhrewaalii",
+   "language": "Hindi",
+   "release": "2026-10-30",
+   "release_evidence": "30 Oct 2026 (Sacnilk movie page; thereviewmonk).",
+   "sources_checked": [
+    "TRM film page",
+    "Sacnilk movie page",
+    "WebSearch: 'Nakhrewaalii movie review rating', 'Nakhrewaalii review Hindustan Times Rishabh Suri', 'Nakhrewaalii review India Today', 'Nakhrewaalii review News18', 'bollymoviereviewz Nakhrewaalii', 'Nakhrewaalii rotten tomatoes'"
+   ],
+   "results": [
+    {
+     "outlet": "Hindustan Times",
+     "critic": "Rishabh Suri",
+     "rating_published": "TRM 6.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed Published 30 Oct 15:17 IST (article ID)."
+    },
+    {
+     "outlet": "News18",
+     "critic": "Yatamanyu Narain",
+     "rating_published": "TRM 6.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Times of India",
+     "critic": "Archika Khurana",
+     "rating_published": "TRM 5.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Times Now",
+     "critic": "Tanmayi Savadi",
+     "rating_published": "TRM 5.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "Bollywood Hungama",
+     "critic": "BH News Network",
+     "rating_published": "TRM 4.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed"
+    },
+    {
+     "outlet": "India Today",
+     "critic": "Anurag Singh Bohra",
+     "rating_published": "TRM 4.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed URL dated 30 Oct."
+    },
+    {
+     "outlet": "Rediff",
+     "critic": "Sreeju Sudhakaran",
+     "rating_published": "TRM 2.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed URL dated 31 Oct."
+    },
+    {
+     "outlet": "The Hollywood Reporter India",
+     "critic": "unsigned in search result",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    }
+   ],
+   "no_rated_review_found": [
+    "The Indian Express",
+    "The Hindu",
+    "The New Indian Express / Cinema Express",
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Hans India",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "NDTV",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The Federal",
+    "The South First",
+    "Onmanorama",
+    "Outlook",
+    "The Week",
+    "Filmfare",
+    "Film Information",
+    "Koimoi",
+    "Pinkvilla",
+    "OTTplay",
+    "Gulte",
+    "123Telugu",
+    "Great Andhra",
+    "Telugu360",
+    "OnlyKollywood"
+   ],
+   "n_counted": 0,
+   "sum_10": 0.0,
+   "mean_exact": 0.0,
+   "score": null,
+   "ranked": false
+  },
+  {
+   "slug": "cult",
+   "title": "#Cult",
+   "short": "#Cult",
+   "language": "Telugu",
+   "release": "2026-10-30",
+   "release_evidence": "30 Oct 2026 (thereviewmonk; Gulte, Telugu360 and Great Andhra reviews dated 30 Oct).",
+   "sources_checked": [
+    "Gulte and Great Andhra review indexes",
+    "WebSearch: 'thereviewmonk Cult Vishwak Sen reviews 2026'",
+    "v4 outlet pages"
+   ],
+   "results": [
+    {
+     "outlet": "123Telugu",
+     "critic": "123telugu Team",
+     "rating_published": "2.75/5",
+     "rating_10": 5.5,
+     "published": "2026-10-31",
+     "url": "https://www.123telugu.com/reviews/vishwak-sens-cult-telugu-movie-review-and-rating.html",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Gulte",
+     "critic": "Satya",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "2026-10-30",
+     "url": "https://www.gulte.com/moviereviews/438931/cult-movie-review/amp",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Telugu360",
+     "critic": "Sankar",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "2026-10-30",
+     "url": "https://www.telugu360.com/cult-movie-review/",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "Great Andhra",
+     "critic": "Venkat Arikatla",
+     "rating_published": "2/5",
+     "rating_10": 4.0,
+     "published": "2026-10-30",
+     "url": "https://www.greatandhra.com/movies/reviews/cult-review-too-much-gore-nothing-more/",
+     "confirmed_by": "outlet's page, read with WebFetch earlier on 10 Nov (research v4 record); also its review index (this build)",
+     "note": "",
+     "counted": true,
+     "excluded_reason": ""
+    },
+    {
+     "outlet": "The New Indian Express / Cinema Express",
+     "critic": "Suresh Kavirayani",
+     "rating_published": "TRM 3.0",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Only one listing shows this rating and the outlet page could not be opened from this build: unconfirmed URL dated 1 Nov."
+    },
+    {
+     "outlet": "The Hans India",
+     "critic": "",
+     "rating_published": "not seen",
+     "published": "",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "Review found in search ('Cult movie review: High-octane survival thriller'); rating not seen."
+    },
+    {
+     "outlet": "The Hindu",
+     "critic": "Srivathsan Nadadhur",
+     "rating_published": "none",
+     "published": "Oct 2026",
+     "url": "",
+     "counted": false,
+     "excluded_reason": "No numeric rating on the review (listed as unrated)"
+    }
+   ],
+   "no_rated_review_found": [
+    "Times of India",
+    "Hindustan Times",
+    "The Indian Express",
+    "Deccan Herald",
+    "Deccan Chronicle",
+    "DT Next",
+    "The Tribune",
+    "The Telegraph (incl. t2)",
+    "Mint",
+    "DNA",
+    "Telangana Today",
+    "The Sunday Guardian",
+    "Mathrubhumi (English)",
+    "The Siasat Daily",
+    "NDTV",
+    "India Today",
+    "News18",
+    "Times Now",
+    "WION",
+    "India TV",
+    "ABP Live",
+    "Moneycontrol",
+    "Firstpost",
+    "The Quint",
+    "Scroll",
+    "The Wire",
+    "The Federal",
+    "The South First",
+    "Onmanorama",
+    "Outlook",
+    "The Week",
+    "Rediff",
+    "Filmfare",
+    "The Hollywood Reporter India",
+    "Film Information",
+    "Koimoi",
+    "Bollywood Hungama",
+    "Pinkvilla",
+    "OTTplay",
+    "OnlyKollywood"
+   ],
+   "n_counted": 4,
+   "sum_10": 17.5,
+   "mean_exact": 4.375,
+   "score": 4.4,
+   "ranked": true
+  }
+ ],
+ "ranking": [
+  {
+   "rank": 1,
+   "slug": "ramayana-part-1",
+   "short": "Ramayana: Part 1",
+   "score": 6.9,
+   "n": 19
+  },
+  {
+   "rank": 2,
+   "slug": "scene",
+   "short": "Scene",
+   "score": 6.3,
+   "n": 15
+  },
+  {
+   "rank": 3,
+   "slug": "summer-holidays",
+   "short": "Summer Holidays",
+   "score": 5.3,
+   "n": 4
+  },
+  {
+   "rank": 4,
+   "slug": "aadarsha-kutumbam",
+   "short": "Aadarsha Kutumbam",
+   "score": 5.0,
+   "n": 7
+  },
+  {
+   "rank": 5,
+   "slug": "cult",
+   "short": "#Cult",
+   "score": 4.4,
+   "n": 4
+  },
+  {
+   "rank": 6,
+   "slug": "mookuthi-amman-2",
+   "short": "Mookuthi Amman 2",
+   "score": 3.6,
+   "n": 11
+  }
+ ],
+ "not_ranked": [
+  {
+   "slug": "pyre",
+   "n": 2,
+   "reason": "2 confirmed panel rating(s); 4 needed"
+  },
+  {
+   "slug": "nakhrewaalii",
+   "n": 0,
+   "reason": "0 confirmed panel rating(s); 4 needed"
+  }
+ ],
+ "total_counted": 60
+}
