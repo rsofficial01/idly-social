@@ -1,0 +1,68 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self 13 and reviewer 12 (reviewer's checks used). hook 1: a strong product shot and a dated, accurate headline, but Story mfg. is a niche name for Indian readers, the post has no surprising number, and there is no India release, so the stake is soft. send 1: the forward is limited to an ASICS/gorpcore friend or someone who knows the Auroville connection; nothing in it is something a specific person must see. read, keep (11 and 20 Nov, $180/£180, £20 express shipping to India plus duty at checkout, colourways), reply (a genuine import-or-wait question), original (idly's own India-buying check, own design, brand image credited) and alone (dated cover; every detail slide names Story mfg./ASICS and its source) are all strong.",
+ "self_score": {
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 2: the Auroville lead plus the date (11 Nov) and a clean, whole product shot. read 2: four slides, each adds something new (shipping to India and duties, dates and price, what's new on the shoe). send 1: a niche label; buying from India means a £180 shoe plus £20 DHL and import duty, with no Indian stockist, so few will act on it. keep 2: 11/20 Nov, $180/£180, £20 express, duties at checkout, colourways, where to buy. reply 2: a real import-or-wait question Indian sneaker buyers face. original 2: idly's synthesis, India angle and design; brand image credited. alone 2: every slide names Story mfg./ASICS and makes sense on its own."
+ },
+ "reviewer_score": {
+  "hook": 1,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: a strong product shot and a dated, accurate headline, but Story mfg. is a niche name for Indian readers, the post has no surprising number, and there is no India release, so the stake is soft. send 1: the forward is limited to an ASICS/gorpcore friend or someone who knows the Auroville connection; nothing in it is something a specific person must see. read, keep (11 and 20 Nov, $180/£180, £20 express shipping to India plus duty at checkout, colourways), reply (a genuine import-or-wait question), original (idly's own India-buying check, own design, brand image credited) and alone (dated cover; every detail slide names Story mfg./ASICS and its source) are all strong.",
+  "verdict": "PASS",
+  "fact_problems": [],
+  "photo_problems": [],
+  "legibility_problems": [],
+  "rule_problems": []
+ },
+ "scored_as": "lower of the two totals (self 13, reviewer 12): reviewer's checks",
+ "story_id": null,
+ "idly_article": false,
+ "photo_source": {
+  "page": "https://storymfg.com/products/story-mfg-x-asics-gel-transcend-fj-dark-brown-dark-brown",
+  "image_url": "https://cdn.shopify.com/s/files/1/1004/1966/files/ASICSxStory-Brown1.jpg",
+  "licence": "Story mfg. official product image (brand's own product page), editorial use reporting its own release, credited 'Image: Story mfg.'",
+  "author": "Story mfg.",
+  "viewed": true,
+  "processing": "2400x3000 product shot (one shoe, side profile, grey studio background, no people: YuNet 0 faces, checked by eye); cardkit hype cover, zoom 1.25, focal (0.486, 0.70), crop clamped to source y 600-3000, scale 0.5625 (no upscale); shoe at about x 115-988, y 231-681 on the cover"
+ },
+ "sources": [
+  "https://storymfg.com/products/story-mfg-x-asics-gel-transcend-fj-dark-brown-dark-brown",
+  "https://storymfg.com/products/story-mfg-x-asics-gel-transcend-fj-black-black",
+  "https://storymfg.com/pages/shipping-returns",
+  "https://www.soleretriever.com/news/articles/story-mfg-asics-gel-transcend-fj-pack-release-date-november-2026",
+  "https://manofmany.com/style/sneakers/story-mfg-asics-gel-transcend-fj",
+  "https://pausemag.co.uk/2026/11/story-mfg-x-asics-return-with-another-sneaker-collab/",
+  "https://justfreshkicks.com/asics-gel-transcend-fj-story-mfg-trees-are-poems/",
+  "https://sneakerbardetroit.com/story-mfg-asics-trees-are-poems/",
+  "https://www.mrporter.com/en-gb/journal/fashion/the-brand-that-moved-5000-miles-in-the-name-of-craftsmanship-894230",
+  "https://www.highsnobiety.com/p/story-mfg-interview/",
+  "https://atmos.earth/fashion-and-design/story-mfg-sustainable-fashion-interview/"
+ ],
+ "gates": {
+  "g1": "BUILD candidate 1 (Story mfg. x ASICS), ceiling 12, 13-14 with fixes: lead with the Auroville link, drop the unsourced 'not made in India', no Blue In Green date, sourced $180/£180. Dropped A$AP Rocky x PUMA Suede '94 (date conflict, PUMA-only sources, 10) and PUMA x Tamagotchi (no official image).",
+  "g2": "FIX (one item): slide 2 stat 'AUROVILLE' was not a number; everything else passed. G2b PASS: stat £20 'Express Shipping to India From the UK' cited to storymfg.com shipping page (Rest of world DHL Express £20 under £250) and meta.json ships_to '*'; dated cover headline accepted.",
+  "g3": "PASS: Story mfg.'s own 2400x3000 product shot, no person or watermark, credit 'Image: Story mfg.', framing zoom 1.25 focal 0.486/0.70, shoe clear of logo, headline and credit.",
+  "g4": "PASS, reviewer 12/14 (hook 1, send 1): all four slides clean, no overflow or collisions, caption post_problems ([], [])."
+ }
+}
