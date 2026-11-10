@@ -1,0 +1,8 @@
+{
+  "slug": "review-ramayana-part-1-10nov",
+  "stage": "review",
+  "reasons": [
+    "Blind review 12/14 but a fact error on the cover: Rediff's own review page gives Sukanya Verma's review 2.5/5 (Rediff Rating image under the text; https://www.rediff.com/movies/review/ramayana-part-1-review-all-scale-no-soul/20261105.htm); the post (copying thereviewmonk) treats it as unrated. Counted, it is 22 ratings and 154/22 = 7.0, not 7.1, which changes the cover, AVG marker, all three slides, caption and alt text; 'Lowest' also misses her 5.0. Also: 'Zimmer-Rahman background score works' is listed as critics' agreement though both Rediff critics call it underwhelming; '2 say it doesn't land' undercounts the Ranbir split (Rediff, t2); quote should be 'all scale no soul' (no comma); alt text is cut mid-word at 1000 characters. Reviewer scores: hook 2, read 1 (caption repeats the cards, method filler), send 2, keep 1 (no runtime/certificate), reply 2, original 2, alone 2."
+  ],
+  "rejected_at": "2026-11-10T04:34:58+00:00"
+}
