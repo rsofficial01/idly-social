@@ -88,7 +88,8 @@ class APAdapter(unittest.TestCase):
     def test_search_query_headers_and_filters(self):
         fake = FakeAP(self.items())
         a = ap.APAdapter(api_key=KEY, session=fake)
-        found = a.search("Kohli Perth", NOW - timedelta(hours=48))
+        # the window is measured from the clock at call time (NOW is fixed at import, which a long suite outruns)
+        found = a.search("Kohli Perth", datetime.now(timezone.utc) - timedelta(hours=48))
         self.assertEqual([c.id for c in found], [ID1])          # Reuters, priced, restricted, graphic, Getty out
         c = found[0]
         self.assertEqual(c.credit, "AP Photo/Jane Doe")
