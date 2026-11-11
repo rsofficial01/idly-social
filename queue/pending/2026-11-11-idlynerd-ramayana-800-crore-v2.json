@@ -1,0 +1,68 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "title": "Ramayana: Part 1 crosses ₹800 crore worldwide in six days (₹823.5 cr gross, 5–10 Nov, Sacnilk); India net ₹440.45 cr",
+ "headline": "Ramayana Crosses ₹800 Crore Worldwide in Six Days",
+ "caption": "Ramayana: Part 1 has grossed about ₹823.5 crore worldwide after six days (5–10 Nov), trade tracker Sacnilk estimates.\n\nThat is ₹526.5 crore gross from India and ₹297 crore from overseas. India net stands at ₹440.45 crore. Its biggest day so far was Monday 9 Nov at ₹107.5 crore net (Bollywood Hungama counts ₹103.47 crore), and Tuesday held at ₹94.1 crore, down 12.5%.\n\nThe Hindi version accounts for ₹336 crore of the India net. Kannada is next at ₹41.2 crore, ahead of Telugu (₹33 crore), Tamil (₹17.35 crore) and Malayalam (₹12.9 crore).\n\nJioHotstar will stream it as a pay-per-view release after its cinema run; no date or price yet.\n\nWhich language did you watch Ramayana in, or are you waiting for JioHotstar?\n\nSources: Sacnilk, Business Today, ETV Bharat, Bollywood Hungama, Prime Focus, Outlook\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd",
+ "alt_text": "Slide 1: an official image from Ramayana: Part 1, under the headline \"Ramayana Crosses ₹800 Crore Worldwide in Six Days\". Slide 2: \"₹440 CR\", Ramayana's India net after six days: its biggest day was ₹107.5 crore net on Monday 9 Nov, Tuesday held at ₹94.1 crore (down 12.5%), and overseas gross adds ₹297 crore; source Sacnilk. Slide 3: \"₹41.2 CR\", Kannada, Ramayana's biggest market after Hindi: the Hindi version alone made ₹336 crore net, ahead of Telugu at ₹33 crore and Tamil at ₹17.35 crore; source Sacnilk.",
+ "sources": [
+  "Sacnilk",
+  "Business Today",
+  "ETV Bharat",
+  "Bollywood Hungama",
+  "Prime Focus",
+  "Outlook"
+ ],
+ "detail_slides": [
+  {
+   "stat": "₹440 CR",
+   "stat_label": "Ramayana's India Net After Six Days",
+   "bullets": [
+    "Biggest day: ₹107.5 crore net, Monday 9 Nov",
+    "Tuesday held at ₹94.1 crore, down 12.5%",
+    "Overseas gross adds ₹297 crore"
+   ],
+   "credit_line": "Source: Sacnilk"
+  },
+  {
+   "stat": "₹41.2 CR",
+   "stat_label": "Kannada, Ramayana's Biggest Market After Hindi",
+   "bullets": [
+    "Hindi version alone: ₹336 crore net",
+    "Ahead of Telugu ₹33 crore and Tamil ₹17.35 crore"
+   ],
+   "credit_line": "Source: Sacnilk"
+  }
+ ],
+ "image": {
+  "resolver": "og_image_official",
+  "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+  "fallback": [
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=iDK6s4-2lm4"
+   },
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
+   }
+  ]
+ },
+ "story": false,
+ "notes": "format: news. v2 after the v1 framing reject (Rama_Lakshman_Sita three-shot and ATXNE61Y4RU). Copy unchanged from v1 (passed Gate 2). Attempt 1: redefine.co (allowlisted, ReDefine/Prime Focus) 'The Journey Begins with RAMA' (2 Apr 2026), og:image RAMA_02.png 4096x2160 by PNG header, Rama first-look still (single character per page text); may carry first-look lettering. Fallbacks: @WorldOfRamayana (allowlisted, oEmbed author_url checked 11 Nov) iDK6s4-2lm4 English Trailer, lNaSdnz2I8g Hindi Trailer, 8HiWKbDTc7w 'The Introduction'; 1280x720 thumbnails. No tags: attempts are ReDefine/World Of Ramayana, not DNEG. Not used: DNEG LA-premiere photo (red-carpet group, not the film), ReDefine CinemaCon phone photo, Prime Focus 1600x416 banners, DNEG/ReDefine 'world of Ramayana' 1280x720 (rejected 10 Nov). MAIN removed attempt 8HiWKbDTc7w: held on 10 Nov for printing the superseded 'PART II DIWALI 2027' key-art date.",
+ "scores": {
+  "self": {
+   "hook": 2,
+   "read": 2,
+   "send": 2,
+   "keep": 1,
+   "reply": 2,
+   "original": 2,
+   "alone": 2,
+   "total": 13,
+   "notes": "hook 2: ₹800 crore in six days on the cover. keep 1: box office isn't actionable; the JioHotstar pay-per-view line has no date or price. original 2 assumes a clean official still; drops to 1 if the cover lands on lettered trailer art (Gate 4 decides). send could be 1 if the reviewer sees it as a numbers update only."
+  }
+ },
+ "created_at": "2026-11-11T11:00:02+05:30"
+}
