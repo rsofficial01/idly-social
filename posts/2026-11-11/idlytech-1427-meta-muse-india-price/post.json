@@ -1,0 +1,32 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-1427-meta-muse-india-price",
+  "date": "11 Nov 2026",
+  "sources": [
+    "The Hindu",
+    "Gadgets 360",
+    "TelecomTalk",
+    "Meta"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Meta's Muse AI Agent Priced at ₹1,799 for India: Report",
+      "photo": "_work/2026-11-11-hourly-1427/idlytech/framing/muse-mascot-crop/cover_source.png",
+      "photo_credit": "Image: Meta",
+      "focal": [0.5, 0.5],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹8,999",
+      "stat_label": "Reported India Price, Muse Maximum Plan",
+      "bullets": [
+        "US plans: $20 and $100 a month",
+        "Meta says Muse is free for most tasks",
+        "Meta hasn't confirmed India prices, billing or launch date"
+      ],
+      "credit_line": "Sources: The Hindu, Gadgets 360, TelecomTalk, Meta"
+    }
+  ]
+}

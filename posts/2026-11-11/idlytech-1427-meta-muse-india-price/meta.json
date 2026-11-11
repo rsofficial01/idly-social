@@ -1,0 +1,93 @@
+{
+ "account": "idlytech",
+ "title": "Meta's Muse AI agent: The Hindu reports India prices of ₹1,799 (Power) and ₹8,999 (Maximum) ahead of an India launch (9 Nov 2026); US plans $20 and $100 a month; Meta says Muse is free for most of what people need; Meta has not confirmed the India prices, billing period or a launch date",
+ "story_id": 1790,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "The Hindu",
+   "date": "9 Nov 2026 (20:55 IST)",
+   "url": "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece"
+  },
+  {
+   "outlet": "Gadgets 360",
+   "date": "10 Nov 2026",
+   "url": "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267"
+  },
+  {
+   "outlet": "TelecomTalk",
+   "date": "10 Nov 2026",
+   "url": "https://telecomtalk.info/meta-muse-ai-india-price-confirmed/1013789/"
+  },
+  {
+   "outlet": "India Today",
+   "date": "10 Nov 2026",
+   "url": "https://www.indiatoday.in/technology/news/story/muse-meta-ai-agent-price-leaks-online-ahead-of-launch-in-india-details-here-3035972-2026-11-10"
+  },
+  {
+   "outlet": "Meta Newsroom (Muse in Singapore)",
+   "date": "28 Oct 2026",
+   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/"
+  },
+  {
+   "outlet": "Meta Newsroom (image source: Design the Muse App, Just for You)",
+   "date": "6 Nov 2026",
+   "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+  },
+  {
+   "outlet": "idly.news #1790",
+   "date": "10 Nov 2026",
+   "url": "https://api.idly.news/api/v1/articles/1790/"
+  }
+ ],
+ "fact_sources": {
+  "Meta has set India prices for Muse: ₹1,799 Power plan, ₹8,999 Maximum plan (reported by The Hindu)": [
+   "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece (₹1,799 Power, ₹8,999 Maximum)",
+   "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267 (Rs. 1,799 Power, Rs. 8,999 Maximum, 'according to a report')",
+   "https://telecomtalk.info/meta-muse-ai-india-price-confirmed/1013789/ (Rs 1,799 / Rs 8,999, attributed to The Hindu)",
+   "https://api.idly.news/api/v1/articles/1790/ (idly.news #1790)"
+  ],
+  "Muse is Meta's personal AI agent, not yet launched in India (prices set ahead of an India launch)": [
+   "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece ('ahead of its official launch in India')",
+   "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267 ('Ahead of Debut')",
+   "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/ ('Muse is a personal AI agent')"
+  ],
+  "US plans cost $20 and $100 a month": [
+   "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267 (US: monthly only, $20 and $100)",
+   "https://telecomtalk.info/meta-muse-ai-india-price-confirmed/1013789/ ('Plans start at $20 per month and go up to $100 per month')",
+   "https://api.idly.news/api/v1/articles/1790/ (idly.news #1790) (US monthly, $20 Power, $100 Maximum)"
+  ],
+  "Meta says Muse is free for most of what people need, with subscription plans for people who want to do more": [
+   "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/ ('It's free for most of what people need, with subscription plans for people who want to do more.')",
+   "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece ('a free tier with generous usage limits')"
+  ],
+  "Meta has not confirmed the India prices": [
+   "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece ('unclear whether these prices are final'; Meta did not respond to queries)",
+   "https://api.idly.news/api/v1/articles/1790/ (idly.news #1790) ('Meta has not yet confirmed the India prices')",
+   "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267 ('according to a report')"
+  ],
+  "Billing period (monthly or yearly) for the India prices is not stated": [
+   "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267 ('does not specify whether these prices are for monthly or yearly payment plans')",
+   "https://telecomtalk.info/meta-muse-ai-india-price-confirmed/1013789/ ('doesn't say whether either price is monthly or yearly')",
+   "https://api.idly.news/api/v1/articles/1790/ (idly.news #1790)"
+  ],
+  "No India launch date announced": [
+   "https://telecomtalk.info/meta-muse-ai-india-price-confirmed/1013789/ (Indian users can register 'soon'; no date)",
+   "https://api.idly.news/api/v1/articles/1790/ (idly.news #1790) ('nor announced a launch date')",
+   "https://yourstory.com/ai-story/why-meta-muse-isnt-in-india-zuckerberg-explain (Meta has not announced a launch date for India)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+  "file": "https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png (1920x1080, sha256 7c85ac285b635cde40d163dbad31f3364c6e42e50e4c45dd5d56a0bb68804937, saved unaltered as _work/2026-11-11-hourly-1427/idlytech/dl/meta/)",
+  "licence": "Meta press image (Meta Newsroom, about.fb.com; newsroom 'Download all images'), credited 'Image: Meta'",
+  "author": "Meta",
+  "crop": "x 236-1100 of 1920 (864x1080, mascot only; burned-in 'Introducing spaces / muse.ai' text and the Meta wordmark left out); pipeline.framing: focal [0.5,0.5], zoom 1.0, upscale 1.25, faces 0",
+  "viewed": true
+ },
+ "tags": [
+  "metanewsroom"
+ ],
+ "tag_evidence": "about.fb.com (Meta Newsroom, the image's source site) links its Instagram as https://www.instagram.com/metanewsroom/ in the page footer"
+}
