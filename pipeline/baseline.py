@@ -139,17 +139,30 @@ def check(text: str, region: str) -> tuple[str, int]:
     return '\n'.join(out), (2 if broken else 0)
 
 
+_MON = {m: i for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'], 1)}
+
+
+def _when(text: str) -> date | None:
+    """The first date in a 'when' string: 2026-12-13, '13 Dec 2026', '28 February 2027' or 'May 2027' (first of month)."""
+    try:
+        m = re.search(r'(20\d{2})-(0[1-9]|1[0-2])(?:-(0[1-9]|[12]\d|3[01]))?(?!\d)', text)
+        if m:
+            return date(int(m[1]), int(m[2]), int(m[3] or 1))
+        m = re.search(r'(?:(\d{1,2})\s+)?(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?,?\s+(20\d{2})', text, re.I)
+        if m:
+            return date(int(m[3]), _MON[m[2].lower()], int(m[1] or 1))
+    except ValueError:
+        pass
+    return None
+
+
 def due(region: str, today: date | None = None) -> list[str]:
     today = today or date.today()
     rows = []
     for it in load(region):
         if it['_kind'] != 'watch':
             continue
-        m = re.search(r'(20\d{2})-(0[1-9]|1[0-2])(?:-(0[1-9]|[12]\d|3[01]))?(?!\d)', str(it.get('when', '')))
-        try:
-            when = date(int(m[1]), int(m[2]), int(m[3] or 1)) if m else None
-        except ValueError:
-            when = None
+        when = _when(str(it.get('when', '')))
         rows.append((when or date.max, it))
     rows.sort(key=lambda r: r[0])
     return [f"{('OVERDUE ' if w < today else '') if w != date.max else 'undated '}{it.get('when')}: {it.get('what')} ({it.get('why')})" for w, it in rows]
