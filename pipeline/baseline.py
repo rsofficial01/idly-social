@@ -175,10 +175,11 @@ def validate(region: str) -> list[str]:
             errs.append(f'{where}: no keywords')
         if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', str(it.get('as_of', ''))):
             errs.append(f'{where}: as_of must be YYYY-MM-DD')
-    text = json.dumps(load(region), ensure_ascii=False)
-    for r in load_rules(region):
-        if rule_hits(text, [r]) and r.get('scan_baseline', True):
-            errs.append(f"rules: the baseline itself contains text that breaks rule {r['id']}")
+    rules = [r for r in load_rules(region) if r.get('scan_baseline', True)]
+    for it in load(region):                      # rule scan item by item, ignoring source links
+        text = json.dumps({k: v for k, v in it.items() if k != 'sources'}, ensure_ascii=False)
+        for r in rule_hits(text, rules):
+            errs.append(f"{it['_file']}:{it.get('id')}: text breaks rule {r['id']}")
     return errs
 
 
