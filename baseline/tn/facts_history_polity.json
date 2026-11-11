@@ -1,0 +1,6098 @@
+[
+ {
+  "id": "gov-appointment-art155-156",
+  "topic": "polity",
+  "statement": "The Governor of Tamil Nadu is appointed by the President under Article 155 and holds office during the President's pleasure for a nominal five-year term under Article 156, continuing until a successor takes over.",
+  "value": 5,
+  "unit": "years (nominal term)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-155-appointment-of-governor/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-156-term-of-office-of-governor/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "governor",
+   "ஆளுநர்",
+   "aalunar",
+   "article 155",
+   "article 156",
+   "pleasure of the president",
+   "raj bhavan",
+   "ராஜ் பவன்",
+   "governor appointment",
+   "ஆளுநர் நியமனம்"
+  ]
+ },
+ {
+  "id": "gov-executive-power-art154",
+  "topic": "polity",
+  "statement": "Under Article 154 the executive power of the state is vested in the Governor, but under Article 163 a Council of Ministers headed by the Chief Minister aids and advises the Governor except where the Constitution requires the Governor to act in discretion.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-154-executive-power-of-state/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-163-council-of-ministers-to-aid-and-advise-governor/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 154",
+   "article 163",
+   "aid and advise",
+   "discretion",
+   "governor discretion",
+   "ஆளுநர் விருப்புரிமை",
+   "council of ministers",
+   "அமைச்சரவை",
+   "amaichcharavai"
+  ]
+ },
+ {
+  "id": "gov-current-arlekar",
+  "topic": "polity",
+  "statement": "Rajendra Vishwanath Arlekar has discharged the Tamil Nadu Governor's functions since 12 March 2026, after R. N. Ravi was moved to West Bengal, and was appointed the full-time Governor on 12 October 2026.",
+  "value": "2026-10-12",
+  "unit": "date of full-time appointment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/List_of_governors_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-12",
+    "url": "https://www.dtnext.in/news/tamilnadu/rajendra-vishwanath-arlekar-appointed-tamil-nadu-governor-om-prakash-mathur-to-be-keralam-governor"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "arlekar",
+   "rajendra arlekar",
+   "rajendra vishwanath arlekar",
+   "ஆர்லேகர்",
+   "ஆளுநர் ஆர்லேகர்",
+   "r n ravi",
+   "rn ravi",
+   "ஆர்.என். ரவி",
+   "governor ravi",
+   "west bengal governor",
+   "governor in charge"
+  ]
+ },
+ {
+  "id": "gov-pardon-art161",
+  "topic": "polity",
+  "statement": "Article 161 lets the Governor grant pardons, reprieves and remissions or suspend or commute sentences for offences against state laws, acting on the advice of the state cabinet.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-161-power-of-governor-to-grant-pardons-etc-and-to-suspend-remit-or-commute-sentences-in-certain-cases/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 161",
+   "pardon",
+   "remission",
+   "premature release",
+   "முன்விடுதலை",
+   "தண்டனைக் குறைப்பு",
+   "governor pardon",
+   "rajiv case convicts",
+   "perarivalan"
+  ]
+ },
+ {
+  "id": "gov-ordinance-art213",
+  "topic": "polity",
+  "statement": "The Governor can promulgate an ordinance under Article 213 when the Assembly is not in session, and it lapses six weeks after the Assembly reassembles unless replaced by an Act.",
+  "value": 6,
+  "unit": "weeks after reassembly",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-213-power-of-governor-to-promulgate-ordinances-during-recess-of-legislature/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "ordinance",
+   "அவசரச் சட்டம்",
+   "avasara sattam",
+   "article 213",
+   "online gambling ordinance",
+   "six weeks"
+  ]
+ },
+ {
+  "id": "cm-floor-test-bommai",
+  "topic": "polity",
+  "statement": "In S.R. Bommai v Union of India (11 March 1994) the Supreme Court held that whether a ministry has a majority must be tested on the floor of the Assembly, not in the Governor's or President's assessment.",
+  "value": "1994-03-11",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: S.R. Bommai vs Union of India",
+    "date": "1994-03-11",
+    "url": "https://indiankanoon.org/doc/60799/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/S._R._Bommai_v._Union_of_India"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "bommai",
+   "s r bommai",
+   "sr bommai",
+   "floor test",
+   "நம்பிக்கை வாக்கெடுப்பு",
+   "nambikkai vakkeduppu",
+   "majority",
+   "பெரும்பான்மை",
+   "perumbanmai",
+   "article 356",
+   "governor invitation"
+  ]
+ },
+ {
+  "id": "cm-nabam-rebia-2016",
+  "topic": "polity",
+  "statement": "In Nabam Rebia v Deputy Speaker (13 July 2016) a Constitution Bench held that the Governor cannot summon or advance an Assembly session on his own, outside the advice of the Chief Minister and cabinet, while the government commands a majority.",
+  "value": "2016-07-13",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Nabam Rebia vs Deputy Speaker",
+    "date": "2016-07-13",
+    "url": "https://indiankanoon.org/doc/192490620/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "nabam rebia",
+   "arunachal",
+   "governor summon assembly",
+   "advancing session",
+   "சட்டப்பேரவை கூட்டத்தொடர்",
+   "governor discretion",
+   "speaker removal notice"
+  ]
+ },
+ {
+  "id": "cm-shivraj-chouhan-2020",
+  "topic": "polity",
+  "statement": "In Shivraj Singh Chouhan v Speaker, Madhya Pradesh (13 April 2020) the Supreme Court held that a Governor may direct a floor test for a sitting government when there is objective material suggesting it has lost its majority.",
+  "value": "2020-04-13",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Shivraj Singh Chouhan vs Speaker Madhya Pradesh Legislative Assembly",
+    "date": "2020-04-13",
+    "url": "https://indiankanoon.org/doc/179738554/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "shivraj singh chouhan",
+   "madhya pradesh",
+   "floor test",
+   "governor floor test",
+   "trust vote",
+   "நம்பிக்கை வாக்கு",
+   "lost majority",
+   "resort politics"
+  ]
+ },
+ {
+  "id": "cm-15pc-cap-35",
+  "topic": "polity",
+  "statement": "Article 164(1A), inserted by the 91st Amendment (2003), caps the council of ministers including the Chief Minister at 15% of the Assembly's strength (minimum 12), so Tamil Nadu's 234-member House allows at most 35 ministers.",
+  "value": 35,
+  "unit": "ministers (maximum)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Council_of_Ministers"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "35 ministers",
+   "cabinet size",
+   "cabinet expansion",
+   "அமைச்சரவை விரிவாக்கம்",
+   "15 per cent",
+   "15%",
+   "91st amendment",
+   "article 164",
+   "அமைச்சர்கள் எண்ணிக்கை",
+   "cabinet reshuffle",
+   "அமைச்சரவை மாற்றம்"
+  ]
+ },
+ {
+  "id": "cm-six-month-rule",
+  "topic": "polity",
+  "statement": "Under Article 164(4) a minister who is not an MLA must win a seat within six consecutive months or cease to be a minister.",
+  "value": 6,
+  "unit": "months",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "six months",
+   "non-mla minister",
+   "article 164(4)",
+   "by-election for minister",
+   "ஆறு மாதத்திற்குள்",
+   "not a member of the legislature",
+   "minister without seat"
+  ]
+ },
+ {
+  "id": "cm-collective-responsibility",
+  "topic": "polity",
+  "statement": "Article 164(2) makes the council of ministers collectively responsible to the Legislative Assembly, so a government falls if it loses a confidence vote.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "collective responsibility",
+   "கூட்டுப் பொறுப்பு",
+   "article 164(2)",
+   "confidence of the house",
+   "no-confidence",
+   "நம்பிக்கையில்லா தீர்மானம்"
+  ]
+ },
+ {
+  "id": "cm-duties-art167",
+  "topic": "polity",
+  "statement": "Article 167 obliges the Chief Minister to communicate cabinet decisions and proposed legislation to the Governor and to furnish information the Governor calls for.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-167-duties-of-chief-minister-as-respects-the-furnishing-of-information-to-governor-etc/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 167",
+   "governor seeks information",
+   "governor letter",
+   "ஆளுநர் கடிதம்",
+   "cm duty to inform governor"
+  ]
+ },
+ {
+  "id": "cm-business-rules-art166",
+  "topic": "polity",
+  "statement": "Under Article 166 all executive action is expressed in the Governor's name and the Governor makes the rules of business that allocate work among ministers.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-166-conduct-of-business-of-the-government-of-a-state/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 166",
+   "business rules",
+   "allocation of portfolios",
+   "துறை ஒதுக்கீடு",
+   "portfolio change",
+   "in the name of the governor",
+   "government order",
+   "அரசாணை",
+   "g.o."
+  ]
+ },
+ {
+  "id": "ag-art165",
+  "topic": "polity",
+  "statement": "The Advocate General, the state's chief law officer, is appointed by the Governor under Article 165, must be qualified to be a High Court judge and holds office during the Governor's pleasure.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "advocate general",
+   "அட்வகேட் ஜெனரல்",
+   "அரசு தலைமை வழக்கறிஞர்",
+   "article 165",
+   "ag tamil nadu",
+   "state law officer"
+  ]
+ },
+ {
+  "id": "dgp-prakash-singh",
+  "topic": "polity",
+  "statement": "Under Prakash Singh v Union of India (22 September 2006) a state must pick its DGP from the three senior-most officers empanelled by the UPSC, and the DGP gets a minimum two-year tenure regardless of superannuation.",
+  "value": 2,
+  "unit": "years minimum tenure",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Prakash Singh & Ors vs Union Of India",
+    "date": "2006-09-22",
+    "url": "https://indiankanoon.org/doc/1090328/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dgp",
+   "director general of police",
+   "காவல்துறை தலைமை இயக்குநர்",
+   "டிஜிபி",
+   "prakash singh",
+   "upsc panel",
+   "police reforms",
+   "in-charge dgp",
+   "acting dgp",
+   "dgp appointment"
+  ]
+ },
+ {
+  "id": "chief-secretary-role",
+  "topic": "polity",
+  "statement": "The Chief Secretary is the senior-most cadre post in the state administration, held by an IAS officer chosen by the state government, and acts as ex-officio secretary to the cabinet.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_secretary_(India)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "chief secretary",
+   "தலைமைச் செயலாளர்",
+   "thalaimai seyalalar",
+   "ias",
+   "cabinet secretary state",
+   "secretariat",
+   "தலைமைச் செயலகம்"
+  ]
+ },
+ {
+  "id": "ais-art312",
+  "topic": "polity",
+  "statement": "IAS and IPS officers serving Tamil Nadu belong to All India Services created under Article 312, recruited by the Union but working for the state, which is why their central deputation and discipline involve both governments.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-312-all-india-services/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "ias",
+   "ips",
+   "all india services",
+   "article 312",
+   "central deputation",
+   "மத்திய பணி",
+   "ias cadre rules",
+   "ஐஏஎஸ்",
+   "ஐபிஎஸ்"
+  ]
+ },
+ {
+  "id": "eci-officers-model-code",
+  "topic": "polity",
+  "statement": "Article 324 vests superintendence of Assembly elections in the Election Commission, and officials on election work are deemed to be on deputation to it (RP Act 1950, s.13CC), which is how it transfers police and civil officers during the model code.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/"
+   },
+   {
+    "outlet": "Vajiram & Ravi explainer on EC transfers",
+    "date": "accessed 2026-11-11",
+    "url": "https://vajiramandravi.com/current-affairs/?p=93838"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "election commission",
+   "தேர்தல் ஆணையம்",
+   "model code of conduct",
+   "நடத்தை விதிமுறைகள்",
+   "article 324",
+   "transfer of officers",
+   "13cc",
+   "deputation to eci",
+   "mcc",
+   "poll code"
+  ]
+ },
+ {
+  "id": "model-code-basics",
+  "topic": "polity",
+  "statement": "The model code of conduct is a set of Election Commission guidelines, not a statute, that binds parties, candidates and the government from the announcement of the poll schedule until results.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Model_Code_of_Conduct"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "model code",
+   "mcc",
+   "நடத்தை விதி",
+   "poll code",
+   "election code violation",
+   "freebies during poll",
+   "announcement ban"
+  ]
+ },
+ {
+  "id": "cm-2026-vijay-sworn",
+  "topic": "polity",
+  "statement": "C. Joseph Vijay of the TVK was sworn in as Chief Minister on 10 May 2026 after convincing Governor Arlekar of majority support, becoming Tamil Nadu's 16th Chief Minister.",
+  "value": "2026-05-10",
+  "unit": "date sworn in",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Council_of_Ministers"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vijay",
+   "chief minister vijay",
+   "முதல்வர் விஜய்",
+   "tvk government",
+   "தவெக அரசு",
+   "swearing-in",
+   "பதவியேற்பு",
+   "10 may 2026",
+   "joseph vijay"
+  ]
+ },
+ {
+  "id": "cm-2026-floor-test",
+  "topic": "polity",
+  "statement": "Vijay's government won its floor test on 13 May 2026 with 144 votes in favour and 22 against, while the DMK walked out.",
+  "value": 144,
+  "unit": "votes in favour",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "News On AIR (Prasar Bharati)",
+    "date": "2026-05-13",
+    "url": "https://newsonair.gov.in/tvk-government-wins-floor-test-in-tamil-nadu-assembly/"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-13",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "floor test",
+   "trust vote",
+   "நம்பிக்கை வாக்கெடுப்பு",
+   "144 votes",
+   "144",
+   "confidence motion",
+   "aiadmk rebels",
+   "dmk walkout",
+   "வெளிநடப்பு"
+  ]
+ },
+ {
+  "id": "cm-2026-coalition",
+  "topic": "polity",
+  "statement": "Congress left the DMK-led alliance to join the TVK government in May 2026, while four other alliance parties backed the TVK-led coalition without formally leaving the alliance.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "coalition government",
+   "கூட்டணி அரசு",
+   "congress joins tvk",
+   "காங்கிரஸ்",
+   "vck",
+   "iuml",
+   "cpi",
+   "cpi(m)",
+   "outside support",
+   "secular social justice victory alliance"
+  ]
+ },
+ {
+  "id": "cm-list-count",
+  "topic": "polity",
+  "statement": "Tamil Nadu (Madras State until 1969) has had chief ministers since 1952 ranging from C. Rajagopalachari to C. Joseph Vijay, who took office on 10 May 2026 after M. K. Stalin's term (7 May 2021 to 9 May 2026).",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "chief minister",
+   "முதலமைச்சர்",
+   "list of chief ministers",
+   "stalin",
+   "ஸ்டாலின்",
+   "former chief minister",
+   "முன்னாள் முதல்வர்"
+  ]
+ },
+ {
+  "id": "governor-chancellor-vc",
+  "topic": "polity",
+  "statement": "The Governor is ex-officio Chancellor of state universities, and in 2022-23 the Assembly passed bills shifting vice-chancellor appointments from the Governor to the state government, which became law after the Supreme Court's April 2025 ruling deemed them assented.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/State_of_Tamil_Nadu_v._Governor_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: The State Of Tamil Nadu vs The Governor Of Tamilnadu",
+    "date": "2025-04-08",
+    "url": "https://indiankanoon.org/doc/82729634/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vice-chancellor",
+   "vice chancellor",
+   "துணைவேந்தர்",
+   "vc appointment",
+   "chancellor",
+   "வேந்தர்",
+   "university bills",
+   "search committee",
+   "anna university vc"
+  ]
+ },
+ {
+  "id": "lop-2026-udhayanidhi",
+  "topic": "polity",
+  "statement": "Udhayanidhi Stalin of the DMK has been Leader of the Opposition since 11 May 2026; a party needs at least 10% of the Assembly's seats to have its leader recognised in that post.",
+  "value": 10,
+  "unit": "per cent of seats needed",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/List_of_leaders_of_the_opposition_in_the_Tamil_Nadu_Legislative_Assembly"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "leader of the opposition",
+   "எதிர்க்கட்சித் தலைவர்",
+   "ethirkatchi thalaivar",
+   "udhayanidhi",
+   "உதயநிதி",
+   "lop",
+   "opposition leader"
+  ]
+ },
+ {
+  "id": "assembly-234-seats",
+  "topic": "polity",
+  "statement": "The Tamil Nadu Legislative Assembly is a unicameral house of 234 members elected from single-member constituencies by first-past-the-post for five years, so a majority is 118.",
+  "value": 234,
+  "unit": "seats",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Legislative_Assembly"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "234",
+   "118",
+   "majority mark",
+   "பெரும்பான்மை",
+   "சட்டப்பேரவை",
+   "sattaperavai",
+   "legislative assembly",
+   "assembly seats",
+   "தொகுதிகள்",
+   "unicameral",
+   "hung assembly",
+   "தொங்கு சட்டமன்றம்"
+  ]
+ },
+ {
+  "id": "assembly-quorum",
+  "topic": "polity",
+  "statement": "Under Article 189(3) the quorum of the Assembly is ten members or one-tenth of the House, whichever is greater, which is 24 members in Tamil Nadu's 234-seat House.",
+  "value": 24,
+  "unit": "members",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-189-voting-in-houses-power-of-houses-to-act-notwithstanding-vacancies-and-quorum/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "quorum",
+   "கோரம்",
+   "article 189",
+   "one-tenth",
+   "house adjourned for want of quorum"
+  ]
+ },
+ {
+  "id": "speaker-art178-179",
+  "topic": "polity",
+  "statement": "The Assembly elects its Speaker and Deputy Speaker from among its members under Article 178, and the Speaker can be removed only by a resolution passed by a majority of all the then members after 14 days' notice under Article 179.",
+  "value": 14,
+  "unit": "days notice for removal resolution",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-178-the-speaker-and-deputy-speaker-of-the-legislative-assembly/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-179-vacation-and-resignation-of-and-removal-from-the-offices-of-speaker-and-deputy-speaker/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "speaker",
+   "சபாநாயகர்",
+   "sabanayagar",
+   "deputy speaker",
+   "துணை சபாநாயகர்",
+   "speaker election",
+   "removal of speaker",
+   "article 178",
+   "article 179"
+  ]
+ },
+ {
+  "id": "speaker-2026-prabhakar",
+  "topic": "polity",
+  "statement": "J. C. D. Prabhakar is the Speaker of the 17th Tamil Nadu Assembly elected in 2026.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-09-02",
+    "url": "https://www.dtnext.in/news/tamilnadu/rule-110-cm-vijays-announcement-doesnt-violate-it-says-speaker"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-06-29",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/sixth-aiadmk-mla-mr-vijayabaskar-resigns-likely-to-join-tvk-1967007"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "jcd prabhakar",
+   "j c d prabhakar",
+   "prabhakar",
+   "பிரபாகர்",
+   "speaker prabhakar",
+   "சபாநாயகர் பிரபாகர்",
+   "17th assembly"
+  ]
+ },
+ {
+  "id": "assembly-sessions-art174",
+  "topic": "polity",
+  "statement": "Article 174 requires the Governor to summon the Assembly so that no more than six months pass between the last sitting of one session and the first sitting of the next.",
+  "value": 6,
+  "unit": "months maximum gap",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-174-sessions-of-the-state-legislature-prorogation-and-dissolution/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "session",
+   "கூட்டத்தொடர்",
+   "koottathodar",
+   "prorogue",
+   "prorogation",
+   "dissolution",
+   "கலைப்பு",
+   "summon assembly",
+   "six months gap"
+  ]
+ },
+ {
+  "id": "governor-address-art176",
+  "topic": "polity",
+  "statement": "Article 176 requires the Governor to address the Assembly at the first session after each general election and at the start of each year's first session, setting out the government's agenda in a speech prepared by the government.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-176-special-address-by-the-governor/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "governor address",
+   "ஆளுநர் உரை",
+   "aalunar urai",
+   "article 176",
+   "customary address",
+   "opening session",
+   "motion of thanks",
+   "நன்றி தீர்மானம்"
+  ]
+ },
+ {
+  "id": "governor-address-walkouts",
+  "topic": "polity",
+  "statement": "Governor R. N. Ravi departed from the government-prepared address in January 2023, prompting a House resolution to record only the printed text, and walked out without reading it in 2024, 2025 and January 2026, citing the national anthem not being played at the start.",
+  "value": 3,
+  "unit": "consecutive years of walkouts (2024-2026)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2023-01-09",
+    "url": "https://www.dtnext.in/tamilnadu/2023/01/09/guv-tn-govt-tug-of-war-touches-new-low-at-assembly-session"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2026-01-20",
+    "url": "https://www.deccanherald.com/india/tamil-nadu/for-third-year-in-a-row-governor-r-n-ravi-walks-out-of-tamil-nadu-assembly-without-reading-speech-3868066"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "governor walkout",
+   "ஆளுநர் வெளிநடப்பு",
+   "national anthem",
+   "தேசிய கீதம்",
+   "tamil thai vazhthu",
+   "தமிழ்த்தாய் வாழ்த்து",
+   "governor speech row",
+   "r n ravi",
+   "rn ravi",
+   "ஆளுநர் உரை"
+  ]
+ },
+ {
+  "id": "rule-110",
+  "topic": "polity",
+  "statement": "Rule 110 of the Tamil Nadu Assembly Rules lets a minister make a statement on a matter of public importance with the Speaker's consent, and no debate is allowed on it when it is made, which is why scheme announcements under it draw opposition protests.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2021-08-30",
+    "url": "https://federaldbsite.hocalwire.in/states/south/tamil-nadu/any-minister-can-make-govt-announcements-tn-assembly"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2017-06-19",
+    "url": "https://www.dtnext.in/tamilnadu/2017/06/19/use-of-rule-110-stalin-puts-dissent-on-record"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rule 110",
+   "விதி 110",
+   "vidhi 110",
+   "110 announcement",
+   "110 அறிவிப்பு",
+   "statement under rule 110",
+   "no debate",
+   "assembly announcement"
+  ]
+ },
+ {
+  "id": "rule-110-2026-row",
+  "topic": "polity",
+  "statement": "In September 2026 the DMK objected to Chief Minister Vijay using Rule 110 to announce the withdrawal of cases against farmers and teachers, and Speaker J. C. D. Prabhakar ruled the statement did not violate the rule.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-09-02",
+    "url": "https://www.dtnext.in/news/tamilnadu/rule-110-cm-vijays-announcement-doesnt-violate-it-says-speaker"
+   },
+   {
+    "outlet": "The Pioneer",
+    "date": "2026-09",
+    "url": "https://dailypioneer.com/news/dmk-objects-to-dropping-farmer-teacher-cases-via-rule-110"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rule 110",
+   "விதி 110",
+   "withdrawal of cases",
+   "வழக்குகள் வாபஸ்",
+   "farmers cases",
+   "teachers cases",
+   "ev velu",
+   "e v velu"
+  ]
+ },
+ {
+  "id": "assembly-eviction-2017",
+  "topic": "polity",
+  "statement": "During the 18 February 2017 trust vote DMK MLAs, including M. K. Stalin, were evicted from the House by marshals on the Speaker's orders, and Edappadi K. Palaniswami won the vote 122-11.",
+  "value": 122,
+  "unit": "votes in favour",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Scroll.in",
+    "date": "2017-02-18",
+    "url": "https://scroll.in/latest/829669/floor-test-chaos-in-tamil-nadu-assembly-as-mlas-demand-secret-ballot"
+   },
+   {
+    "outlet": "Business Standard (PTI)",
+    "date": "2017-02-18",
+    "url": "https://www.business-standard.com/amp/article/pti-stories/eps-wins-trust-vote-amid-bedlam-117021800601_1.html"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "eviction",
+   "வெளியேற்றம்",
+   "marshals",
+   "அவைக் காவலர்கள்",
+   "suspension of mlas",
+   "சஸ்பெண்ட்",
+   "trust vote 2017",
+   "122-11",
+   "secret ballot",
+   "dmk mlas evicted",
+   "palaniswami trust vote"
+  ]
+ },
+ {
+  "id": "courts-art212",
+  "topic": "polity",
+  "statement": "Article 212 bars courts from questioning the validity of Assembly proceedings on the ground of irregular procedure, which limits challenges to expunctions, suspensions and Speaker's rulings, though the Supreme Court reviews Tenth Schedule decisions.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-212-courts-not-to-inquire-into-proceedings-of-the-legislature/"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Kihoto Hollohan vs Zachillhu",
+    "date": "1992-02-18",
+    "url": "https://indiankanoon.org/doc/1686885/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 212",
+   "expunction",
+   "அவைக்குறிப்பிலிருந்து நீக்கம்",
+   "expunged",
+   "speaker ruling",
+   "privilege",
+   "உரிமை மீறல்",
+   "breach of privilege",
+   "suspension of members"
+  ]
+ },
+ {
+  "id": "money-bill-art199",
+  "topic": "polity",
+  "statement": "Under Article 199 the Speaker certifies whether a bill is a Money Bill, and the Governor cannot return a Money Bill for reconsideration under Article 200.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-199-definition-of-money-bills/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-200-assent-to-bills/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "money bill",
+   "பண மசோதா",
+   "article 199",
+   "speaker certificate",
+   "finance bill",
+   "appropriation bill"
+  ]
+ },
+ {
+  "id": "budget-art202-206",
+  "topic": "polity",
+  "statement": "The state budget is the annual financial statement laid before the Assembly under Article 202, and when it cannot be passed in time, such as in an election year, the Assembly can pass a vote on account under Article 206 to fund spending for part of the year.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-202-annual-financial-statement/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-206-votes-on-account-votes-of-credit-and-exceptional-grants/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "nidhi nilai arikkai",
+   "vote on account",
+   "இடைக்கால பட்ஜெட்",
+   "interim budget",
+   "article 202",
+   "article 206",
+   "demand for grants",
+   "மானியக் கோரிக்கை"
+  ]
+ },
+ {
+  "id": "confidence-1988-janaki",
+  "topic": "polity",
+  "statement": "V. N. Janaki's government won a contested confidence vote in January 1988 amid disorder in the House, after which the Rajiv Gandhi government dismissed it and imposed President's Rule on 30 January 1988.",
+  "value": "1988-01-30",
+  "unit": "date of dismissal",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/President's_rule"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/V._N._Janaki"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "janaki",
+   "ஜானகி",
+   "v n janaki",
+   "1988 confidence vote",
+   "janaki government",
+   "president rule 1988",
+   "aiadmk split 1988"
+  ]
+ },
+ {
+  "id": "byelection-151a",
+  "topic": "polity",
+  "statement": "Section 151A of the Representation of the People Act requires a by-election within six months of a vacancy unless the remaining term is under one year or the Election Commission certifies it is difficult to hold one.",
+  "value": 6,
+  "unit": "months",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Representation of the People Act, 1951 (bare text, CourtBook)",
+    "date": "accessed 2026-11-11",
+    "url": "https://courtbook.in/representation-of-the-people-act-1951/section-151A"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "by-election",
+   "bypoll",
+   "இடைத்தேர்தல்",
+   "idaitherthal",
+   "151a",
+   "section 151a",
+   "six months",
+   "vacancy",
+   "காலியிடம்"
+  ]
+ },
+ {
+  "id": "mla-resignation-art190",
+  "topic": "polity",
+  "statement": "Under Article 190(3) an MLA's seat falls vacant when the Speaker accepts a written resignation, and the Speaker must reject it if satisfied it is not voluntary or genuine.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-190-vacation-of-seats/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "resignation",
+   "ராஜினாமா",
+   "rajinama",
+   "mla resigns",
+   "article 190",
+   "speaker accepts resignation",
+   "voluntary or genuine",
+   "sixty days absence"
+  ]
+ },
+ {
+  "id": "mla-resignations-2026",
+  "topic": "polity",
+  "statement": "Six AIADMK MLAs resigned their seats after the TVK government took office in 2026, the sixth being Karur MLA M. R. Vijayabhaskar on 29 June 2026, with most joining the TVK.",
+  "value": 6,
+  "unit": "AIADMK MLAs resigned",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-06-29",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/sixth-aiadmk-mla-mr-vijayabaskar-resigns-likely-to-join-tvk-1967007"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vijayabhaskar",
+   "விஜயபாஸ்கர்",
+   "mla resignation",
+   "aiadmk mlas resign",
+   "horse-trading",
+   "குதிரை பேரம்",
+   "defection",
+   "கட்சித் தாவல்",
+   "join tvk"
+  ]
+ },
+ {
+  "id": "byelections-oct-2026",
+  "topic": "polity",
+  "statement": "The TVK won both Assembly by-elections held on 6 October 2026, Dharapuram and Madurantakam, which the AIADMK had won in May; outlets differ on the party's resulting strength.",
+  "value": 109,
+  "unit": "TVK seats after by-elections",
+  "alt_values": [
+   "109 (South First; Wikipedia)",
+   "110 (The News Minute)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-10-09",
+    "url": "https://thesouthfirst.com/tamilnadu/tvk-wins-dharapuram-and-madurantakam-by-elections-road-ahead-to-an-independent-majority/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-10",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tn-bye-polls-tvk-wins-dharapuram-and-madurantakam-boosting-vijays-assembly-strength"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dharapuram",
+   "தாராபுரம்",
+   "madurantakam",
+   "மதுராந்தகம்",
+   "by-election",
+   "இடைத்தேர்தல்",
+   "bypoll result",
+   "109",
+   "110",
+   "tvk strength"
+  ]
+ },
+ {
+  "id": "tenth-schedule-basics",
+  "topic": "polity",
+  "statement": "Under the Tenth Schedule an MLA is disqualified for voluntarily giving up party membership or defying the party whip in a vote without condonation, and the Speaker decides the petition.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/provisions-as-to-disqualification-on-ground-of-defection/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-defection_law_(India)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "anti-defection",
+   "கட்சித் தாவல் தடைச் சட்டம்",
+   "tenth schedule",
+   "பத்தாவது அட்டவணை",
+   "whip",
+   "கொறடா",
+   "disqualification petition",
+   "தகுதி நீக்கம்",
+   "defection"
+  ]
+ },
+ {
+  "id": "tenth-schedule-merger",
+  "topic": "polity",
+  "statement": "Since the 91st Amendment (2003) removed the one-third 'split' exception, a defection is protected only as a merger, which requires at least two-thirds of the legislature party to agree.",
+  "value": null,
+  "unit": "two-thirds of legislature party",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/provisions-as-to-disqualification-on-ground-of-defection/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-defection_law_(India)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "merger",
+   "இணைப்பு",
+   "two-thirds",
+   "2/3",
+   "split",
+   "91st amendment",
+   "paragraph 4",
+   "anti-defection merger"
+  ]
+ },
+ {
+  "id": "kihoto-1992",
+  "topic": "polity",
+  "statement": "In Kihoto Hollohan v Zachillhu (18 February 1992) the Supreme Court upheld the anti-defection law but held that the Speaker's disqualification decisions, acting as a tribunal, are open to judicial review.",
+  "value": "1992-02-18",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Kihoto Hollohan vs Zachillhu And Others",
+    "date": "1992-02-18",
+    "url": "https://indiankanoon.org/doc/1686885/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kihoto",
+   "kihoto hollohan",
+   "judicial review",
+   "speaker as tribunal",
+   "anti-defection",
+   "tenth schedule"
+  ]
+ },
+ {
+  "id": "keisham-2020",
+  "topic": "polity",
+  "statement": "In Keisham Meghachandra Singh v Speaker, Manipur (21 January 2020) the Supreme Court said Speakers should decide disqualification petitions within three months absent exceptional circumstances.",
+  "value": 3,
+  "unit": "months (outer limit)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Keisham Meghachandra Singh vs Speaker Manipur Legislative Assembly",
+    "date": "2020-01-21",
+    "url": "https://indiankanoon.org/doc/102050163/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "keisham",
+   "meghachandra",
+   "three months",
+   "speaker delay",
+   "disqualification petition",
+   "தகுதி நீக்க மனு",
+   "manipur"
+  ]
+ },
+ {
+  "id": "disq-18-mlas",
+  "topic": "polity",
+  "statement": "Speaker P. Dhanapal disqualified 18 AIADMK MLAs backing T. T. V. Dhinakaran on 18 September 2017, and the Madras High Court upheld this on 25 October 2018 after a split Division Bench verdict.",
+  "value": 18,
+  "unit": "MLAs disqualified",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "LiveLaw",
+    "date": "2018-10-25",
+    "url": "https://www.livelaw.in/breaking-madras-hc-upholds-disqualification-of-18-aiadmk-mlas-of-tn-assembly"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2018-10-25",
+    "url": "https://www.deccanherald.com/india/madras-high-court-upholds-699731.html"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "18 mlas",
+   "18 எம்எல்ஏக்கள்",
+   "dhinakaran",
+   "தினகரன்",
+   "ttv",
+   "dhanapal",
+   "தனபால்",
+   "disqualification",
+   "தகுதி நீக்கம்",
+   "sathyanarayanan",
+   "ammk"
+  ]
+ },
+ {
+  "id": "council-abolished-1986",
+  "topic": "polity",
+  "statement": "Tamil Nadu's Legislative Council was abolished with effect from 1 November 1986 after an Assembly resolution moved by the M. G. Ramachandran government on 14 May 1986.",
+  "value": "1986-11-01",
+  "unit": "date abolished",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Madras_Legislative_Council"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-169-abolition-or-creation-of-legislative-councils-in-states/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "legislative council",
+   "சட்ட மேலவை",
+   "melavai",
+   "upper house",
+   "abolition 1986",
+   "article 169",
+   "mgr council"
+  ]
+ },
+ {
+  "id": "council-revival-attempts",
+  "topic": "polity",
+  "statement": "DMK governments tried to revive the Council in 1989, 1996 and 2010, when Parliament passed the Tamil Nadu Legislative Council Act, 2010, but each time the next AIADMK government passed a resolution to drop it, most recently in 2011.",
+  "value": 2010,
+  "unit": "year of last revival Act",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Madras_Legislative_Council"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "council revival",
+   "மேலவை மீண்டும்",
+   "legislative council act 2010",
+   "melavai",
+   "upper house revival",
+   "article 169"
+  ]
+ },
+ {
+  "id": "art200-options",
+  "topic": "polity",
+  "statement": "Under Article 200 the Governor may assent to a bill, withhold assent, return a non-money bill for reconsideration, or reserve it for the President, and if the Assembly passes a returned bill again the Governor shall not withhold assent.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-200-assent-to-bills/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 200",
+   "assent",
+   "ஒப்புதல்",
+   "oppudhal",
+   "withhold assent",
+   "pending bills",
+   "நிலுவை மசோதாக்கள்",
+   "bills pending with governor",
+   "return bill",
+   "reconsideration",
+   "மசோதா"
+  ]
+ },
+ {
+  "id": "art201-president",
+  "topic": "polity",
+  "statement": "Under Article 201 the President may assent to or withhold assent from a bill reserved by the Governor, or direct that a non-money bill be returned to the Assembly, which must reconsider it within six months.",
+  "value": 6,
+  "unit": "months for reconsideration",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-201-bills-reserved-for-consideration/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 201",
+   "reserved for president",
+   "குடியரசுத் தலைவர் ஒப்புதல்",
+   "president assent",
+   "president withholds assent",
+   "reserved bill"
+  ]
+ },
+ {
+  "id": "governor-bills-2023-standoff",
+  "topic": "polity",
+  "statement": "On 13 November 2023 Governor R. N. Ravi withheld assent to 10 bills and reserved two for the President, and the Assembly re-passed the 10 bills at a special session on 18 November 2023.",
+  "value": 10,
+  "unit": "bills",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/State_of_Tamil_Nadu_v._Governor_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "10 bills",
+   "பத்து மசோதாக்கள்",
+   "special session",
+   "சிறப்புக் கூட்டம்",
+   "re-passed bills",
+   "governor ravi bills",
+   "withheld assent"
+  ]
+ },
+ {
+  "id": "tn-v-governor-2025",
+  "topic": "polity",
+  "statement": "In State of Tamil Nadu v Governor of Tamil Nadu (8 April 2025) the Supreme Court held the Governor's reservation of the 10 re-passed bills illegal and, using Article 142, treated them as having received assent.",
+  "value": "2025-04-08",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: The State Of Tamil Nadu vs The Governor Of Tamilnadu",
+    "date": "2025-04-08",
+    "url": "https://indiankanoon.org/doc/82729634/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/State_of_Tamil_Nadu_v._Governor_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "deemed assent",
+   "ஒப்புதல் பெற்றதாகக் கருதப்படும்",
+   "article 142",
+   "tamil nadu vs governor",
+   "pardiwala",
+   "governor case",
+   "pocket veto",
+   "8 april 2025",
+   "supreme court governor"
+  ]
+ },
+ {
+  "id": "tn-v-governor-timelines",
+  "topic": "polity",
+  "statement": "The April 2025 judgment set timelines for Governors: one month to withhold or reserve on cabinet advice, three months when acting against that advice, and one month to assent to a re-passed bill, with delays open to judicial review.",
+  "value": 3,
+  "unit": "months (maximum, against advice)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/State_of_Tamil_Nadu_v._Governor_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: The State Of Tamil Nadu vs The Governor Of Tamilnadu",
+    "date": "2025-04-08",
+    "url": "https://indiankanoon.org/doc/82729634/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "timeline for governor",
+   "காலக்கெடு",
+   "one month",
+   "three months",
+   "governor timelines",
+   "judicial review of governor",
+   "sarkaria",
+   "punchhi"
+  ]
+ },
+ {
+  "id": "presidential-reference-2025",
+  "topic": "polity",
+  "statement": "Answering a Presidential reference on 20 November 2025, a Constitution Bench said courts cannot set timelines for Governors or the President on bills and that 'deemed assent' is alien to the Constitution, but a court may issue a limited mandamus against prolonged, unexplained inaction.",
+  "value": "2025-11-20",
+  "unit": "date of opinion",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "LiveLaw",
+    "date": "2025-11-20",
+    "url": "https://www.livelaw.in/top-stories/timelines-cant-be-fixed-for-governorspresident-for-bills-assent-no-concept-of-deemed-assent-supreme-court-in-presidential-reference-310575"
+   },
+   {
+    "outlet": "Supreme Court Observer",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.scobserver.in/cases/presidential-reference-on-powers-of-the-governor-and-president/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "presidential reference",
+   "குடியரசுத் தலைவர் குறிப்பு",
+   "article 143",
+   "no deemed assent",
+   "no timelines",
+   "limited mandamus",
+   "constitution bench",
+   "gavai",
+   "reference on governor powers"
+  ]
+ },
+ {
+  "id": "presidential-reference-options",
+  "topic": "polity",
+  "statement": "The November 2025 opinion said a Governor under Article 200 has three options, to assent, to reserve for the President, or to withhold and return the bill with comments, and cannot simply withhold assent and sit on it.",
+  "value": 3,
+  "unit": "options",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "LiveLaw",
+    "date": "2025-11-20",
+    "url": "https://www.livelaw.in/top-stories/timelines-cant-be-fixed-for-governorspresident-for-bills-assent-no-concept-of-deemed-assent-supreme-court-in-presidential-reference-310575"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 200",
+   "three options",
+   "withhold and return",
+   "governor options",
+   "pocket veto",
+   "presidential reference"
+  ]
+ },
+ {
+  "id": "seventh-schedule-lists",
+  "topic": "polity",
+  "statement": "Article 246 divides law-making into the Union, State and Concurrent Lists of the Seventh Schedule, and Parliament's law prevails over a state law on a Concurrent subject under Article 254 unless the state law gets Presidential assent.",
+  "value": 3,
+  "unit": "lists",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-246-subject-matter-of-laws-made-by-parliament-and-by-the-legislatures-of-states/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-254-inconsistency-between-laws-made-by-parliament-and-laws-made-by-the-legislatures-of-states/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "seventh schedule",
+   "ஏழாவது அட்டவணை",
+   "state list",
+   "மாநிலப் பட்டியல்",
+   "concurrent list",
+   "பொதுப் பட்டியல்",
+   "union list",
+   "article 246",
+   "article 254",
+   "repugnancy"
+  ]
+ },
+ {
+  "id": "state-list-police-order",
+  "topic": "polity",
+  "statement": "Public order (entry 1) and police (entry 2) are State List subjects, so law and order is the state government's responsibility.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/list-ii-state-list/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "law and order",
+   "சட்டம் ஒழுங்கு",
+   "sattam ozhungu",
+   "police",
+   "காவல்துறை",
+   "public order",
+   "state subject",
+   "entry 2"
+  ]
+ },
+ {
+  "id": "state-list-liquor-agri",
+  "topic": "polity",
+  "statement": "Intoxicating liquor (entry 8) and agriculture (entry 14) are on the State List, which is why prohibition and liquor retail are decided by the state.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/list-ii-state-list/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "liquor",
+   "மது",
+   "madhu",
+   "prohibition",
+   "மதுவிலக்கு",
+   "madhuvilakku",
+   "agriculture",
+   "வேளாண்மை",
+   "state list entry 8",
+   "tasmac"
+  ]
+ },
+ {
+  "id": "concurrent-education-electricity",
+  "topic": "polity",
+  "statement": "Education, including medical education and universities, is entry 25 of the Concurrent List (it was originally entry 11 of the State List), and electricity is entry 38 of the Concurrent List.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/list-iii-concurrent-list/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/list-ii-state-list/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "education concurrent list",
+   "கல்வி",
+   "kalvi",
+   "பொதுப் பட்டியல்",
+   "neet",
+   "nep",
+   "electricity",
+   "மின்சாரம்",
+   "entry 25",
+   "state list education"
+  ]
+ },
+ {
+  "id": "art356-basics",
+  "topic": "polity",
+  "statement": "Under Article 356 the President can take over a state's government on a report of constitutional breakdown, a proclamation needs Parliament's approval within two months, lasts six months at a time and cannot normally exceed one year.",
+  "value": 1,
+  "unit": "year (normal maximum)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-356-provisions-in-case-of-failure-of-constitutional-machinery-in-states/"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: S.R. Bommai vs Union of India",
+    "date": "1994-03-11",
+    "url": "https://indiankanoon.org/doc/60799/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "president's rule",
+   "குடியரசுத் தலைவர் ஆட்சி",
+   "kudiyarasu thalaivar aatchi",
+   "article 356",
+   "dismissal of government",
+   "ஆட்சிக் கலைப்பு",
+   "central rule"
+  ]
+ },
+ {
+  "id": "art356-tn-history",
+  "topic": "polity",
+  "statement": "Tamil Nadu has been under President's Rule four times: 31 January 1976 to 30 June 1977, 17 February to 9 June 1980, 30 January 1988 to 27 January 1989, and 30 January 1991 to 24 June 1991.",
+  "value": 4,
+  "unit": "spells",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/President's_rule"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "president's rule",
+   "குடியரசுத் தலைவர் ஆட்சி",
+   "1976",
+   "1980",
+   "1988",
+   "1991",
+   "dismissed government",
+   "karunanidhi dismissed",
+   "mgr dismissed",
+   "article 356"
+  ]
+ },
+ {
+  "id": "art356-1976",
+  "topic": "polity",
+  "statement": "The Karunanidhi government was dismissed on 31 January 1976 during the Emergency, and the Sarkaria Commission of inquiry was set up to probe corruption charges against it.",
+  "value": "1976-01-31",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/President's_rule"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Karunanidhi"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "1976 dismissal",
+   "emergency",
+   "நெருக்கடி நிலை",
+   "sarkaria commission",
+   "சர்க்காரியா கமிஷன்",
+   "karunanidhi",
+   "கருணாநிதி"
+  ]
+ },
+ {
+  "id": "art356-1991",
+  "topic": "polity",
+  "statement": "The Chandra Shekhar government at the Centre dismissed Karunanidhi's DMK government on 30 January 1991 and imposed President's Rule, months before Rajiv Gandhi was assassinated at Sriperumbudur on 21 May 1991.",
+  "value": "1991-01-30",
+  "unit": "date of dismissal",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/President's_rule"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "1991 dismissal",
+   "dmk government dismissed",
+   "chandra shekhar",
+   "ltte",
+   "விடுதலைப் புலிகள்",
+   "president rule 1991"
+  ]
+ },
+ {
+  "id": "fc-14-15-16-share",
+  "topic": "polity",
+  "statement": "Tamil Nadu's share of the states' pool of central taxes was about 4.02% under the 14th Finance Commission, 4.08% under the 15th and 4.097% under the 16th (2026-31), down from 5.39% under the 11th.",
+  "value": 4.097,
+  "unit": "per cent (16th FC)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Report of the Sixteenth Finance Commission, Vol. I (indiabudget.gov.in)",
+    "date": "2026-02-01",
+    "url": "https://www.indiabudget.gov.in/doc/16fcvol1.pdf"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Fifteenth_Finance_Commission"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "finance commission",
+   "நிதிக் குழு",
+   "nidhi kuzhu",
+   "devolution",
+   "வரிப் பகிர்வு",
+   "tax share",
+   "16th finance commission",
+   "15th finance commission",
+   "4.097",
+   "4.08",
+   "southern states share",
+   "fiscal federalism"
+  ]
+ },
+ {
+  "id": "fc-16-vertical-41",
+  "topic": "polity",
+  "statement": "The 16th Finance Commission kept the states' share of the divisible pool of central taxes at 41% for 2026-27 to 2030-31.",
+  "value": 41,
+  "unit": "per cent",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Report of the Sixteenth Finance Commission, Vol. I (indiabudget.gov.in)",
+    "date": "2026-02-01",
+    "url": "https://www.indiabudget.gov.in/doc/16fcvol1.pdf"
+   },
+   {
+    "outlet": "Dhanam Online",
+    "date": "2026-02",
+    "url": "https://english.dhanamonline.com/economy/southern-states-set-to-gain-more-from-finance-commissions-new-formula-9002688"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "41 per cent",
+   "41%",
+   "vertical devolution",
+   "divisible pool",
+   "16th finance commission",
+   "arvind panagariya",
+   "cess and surcharge"
+  ]
+ },
+ {
+  "id": "art280-fc",
+  "topic": "polity",
+  "statement": "Under Article 280 the President constitutes a Finance Commission every five years to recommend how central tax proceeds are shared between the Union and the states and among the states.",
+  "value": 5,
+  "unit": "years",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-280-finance-commission/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 280",
+   "finance commission",
+   "நிதிக் குழு",
+   "tax devolution",
+   "grants-in-aid"
+  ]
+ },
+ {
+  "id": "art293-borrowing",
+  "topic": "polity",
+  "statement": "Under Article 293(3) a state that still owes money to the Centre needs the Centre's consent to borrow, which gives the Union control over state borrowing limits.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-293-borrowing-by-state/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 293",
+   "borrowing",
+   "கடன்",
+   "kadan",
+   "borrowing limit",
+   "net borrowing ceiling",
+   "debt",
+   "consent to borrow"
+  ]
+ },
+ {
+  "id": "frbm-3pc",
+  "topic": "polity",
+  "statement": "Under the fiscal responsibility framework states are generally held to a fiscal deficit of 3% of GSDP, and Tamil Nadu has its own Fiscal Responsibility Act of 2003.",
+  "value": 3,
+  "unit": "per cent of GSDP",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "frbm",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "3 per cent",
+   "3%",
+   "gsdp",
+   "fiscal responsibility act",
+   "debt ceiling"
+  ]
+ },
+ {
+  "id": "gst-compensation-end",
+  "topic": "polity",
+  "statement": "GST compensation transfers to states ended on 30 June 2022, and Tamil Nadu told the 16th Finance Commission it faced an estimated shortfall of nearly Rs 20,000 crore in 2024-25 and had lost control over much of its tax base.",
+  "value": 20000,
+  "unit": "Rs crore (estimated 2024-25 shortfall)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Report of the Sixteenth Finance Commission, Vol. I (indiabudget.gov.in)",
+    "date": "2026-02-01",
+    "url": "https://www.indiabudget.gov.in/doc/16fcvol1.pdf"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "gst",
+   "ஜிஎஸ்டி",
+   "gst compensation",
+   "இழப்பீடு",
+   "gst council",
+   "30 june 2022",
+   "20,000 crore",
+   "sgst",
+   "fiscal autonomy"
+  ]
+ },
+ {
+  "id": "samagra-shiksha-dispute",
+  "topic": "polity",
+  "statement": "The Centre withheld about Rs 2,152 crore of Samagra Shiksha funds for 2024-25 after Tamil Nadu declined to sign the PM SHRI memorandum, and the state sued in the Supreme Court in May 2025; the court declined urgent hearing in June 2025.",
+  "value": 2152,
+  "unit": "Rs crore withheld",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next (PTI)",
+    "date": "2025-06-09",
+    "url": "https://www.dtnext.in/news/tamilnadu/sc-refuses-urgent-hearing-to-tns-plea-against-centre-over-education-funds-836435"
+   },
+   {
+    "outlet": "Scroll.in",
+    "date": "2025-05-19",
+    "url": "https://scroll.in/latest/1082509/tamil-nadu-to-move-sc-against-centre-withholding-education-funds-of-over-rs-2000-crore-mk-stalin"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "samagra shiksha",
+   "சமக்ர சிக்ஷா",
+   "pm shri",
+   "பிஎம் ஸ்ரீ",
+   "nep",
+   "புதிய கல்விக் கொள்கை",
+   "2,152 crore",
+   "2152",
+   "education funds",
+   "கல்வி நிதி",
+   "ssa funds",
+   "three-language"
+  ]
+ },
+ {
+  "id": "delimitation-freeze-84th",
+  "topic": "polity",
+  "statement": "The 84th Amendment (2001) froze the allocation of Lok Sabha and Assembly seats among states on the 1971 census until the first census taken after 2026, so Tamil Nadu's 39 Lok Sabha seats could change after that census.",
+  "value": 39,
+  "unit": "Lok Sabha seats",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Delimitation_Commission_of_India"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "delimitation",
+   "தொகுதி மறுசீரமைப்பு",
+   "thoguthi maruseeramaippu",
+   "84th amendment",
+   "1971 census",
+   "39 seats",
+   "lok sabha seats",
+   "population penalty",
+   "2026 freeze"
+  ]
+ },
+ {
+  "id": "delimitation-jac-2025",
+  "topic": "polity",
+  "statement": "Chief Minister Stalin hosted a Joint Action Committee on delimitation in Chennai on 22 March 2025, attended by leaders from Kerala, Telangana, Punjab, Karnataka and others, which sought a further 25-year freeze on population-based delimitation.",
+  "value": 25,
+  "unit": "years further freeze sought",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2025-03-22",
+    "url": "https://thesouthfirst.com/tamilnadu/a-call-for-fair-delimitation-dmk-unites-leaders-from-7-states-in-chennai-meet/"
+   },
+   {
+    "outlet": "Scroll.in",
+    "date": "2025-03-22",
+    "url": "https://scroll.in/latest/1080552/scroll_in"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "joint action committee",
+   "கூட்டு நடவடிக்கைக் குழு",
+   "jac",
+   "fair delimitation",
+   "25 years",
+   "delimitation meeting",
+   "revanth reddy",
+   "pinarayi vijayan"
+  ]
+ },
+ {
+  "id": "art262-water-disputes",
+  "topic": "polity",
+  "statement": "Article 262 lets Parliament set up tribunals for inter-state river disputes and bar other courts from them, the route used for the Cauvery dispute.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-262-adjudication-of-disputes-relating-to-waters-of-inter-state-rivers-or-river-valleys/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "article 262",
+   "inter-state river",
+   "நதிநீர்ப் பிரச்சினை",
+   "water dispute tribunal",
+   "cauvery",
+   "காவிரி"
+  ]
+ },
+ {
+  "id": "cauvery-tribunal-2007",
+  "topic": "polity",
+  "statement": "The Cauvery Water Disputes Tribunal's final award of 5 February 2007 allocated 419 tmcft a year to Tamil Nadu, 270 to Karnataka, 30 to Kerala and 7 to Puducherry, and was notified only on 20 February 2013.",
+  "value": 419,
+  "unit": "tmcft to Tamil Nadu (2007 award)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Kaveri_River_water_dispute"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: State of Karnataka vs State of Tamil Nadu (Cauvery)",
+    "date": "2018-02-16",
+    "url": "https://indiankanoon.org/doc/53558237/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "cauvery",
+   "காவிரி",
+   "kaveri",
+   "cauvery tribunal",
+   "காவிரி நடுவர் மன்றம்",
+   "419 tmc",
+   "tmcft",
+   "டிஎம்சி",
+   "cauvery award"
+  ]
+ },
+ {
+  "id": "cauvery-sc-2018",
+  "topic": "polity",
+  "statement": "On 16 February 2018 the Supreme Court cut Tamil Nadu's Cauvery share to 404.25 tmcft, raised Karnataka's to 284.75 tmcft, and required Karnataka to deliver 177.25 tmcft a year at Biligundlu.",
+  "value": 404.25,
+  "unit": "tmcft to Tamil Nadu",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: State of Karnataka vs State of Tamil Nadu (Cauvery)",
+    "date": "2018-02-16",
+    "url": "https://indiankanoon.org/doc/53558237/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Kaveri_River_water_dispute"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "cauvery verdict",
+   "காவிரி தீர்ப்பு",
+   "404.25",
+   "177.25",
+   "biligundlu",
+   "பிலிகுண்டுலு",
+   "14.75 tmc",
+   "bengaluru drinking water",
+   "cauvery 2018"
+  ]
+ },
+ {
+  "id": "cauvery-cwma",
+  "topic": "polity",
+  "statement": "The Cauvery Water Management Authority was set up by the Union government on 1 June 2018 under the Supreme Court's 2018 verdict, followed by the Cauvery Water Regulation Committee.",
+  "value": "2018-06-01",
+  "unit": "date constituted",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Kaveri_River_water_dispute"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "cwma",
+   "cauvery water management authority",
+   "காவிரி மேலாண்மை ஆணையம்",
+   "cwrc",
+   "cauvery water regulation committee",
+   "monthly release"
+  ]
+ },
+ {
+  "id": "mekedatu-2025",
+  "topic": "polity",
+  "statement": "On 13 November 2025 the Supreme Court found Tamil Nadu's application against Karnataka's Mekedatu reservoir report premature, since the Central Water Commission would decide only after the detailed project report and the views of the Cauvery authority and committee.",
+  "value": "2025-11-13",
+  "unit": "date of order",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: State of Karnataka vs State of Tamil Nadu (Mekedatu application)",
+    "date": "2025-11-13",
+    "url": "https://indiankanoon.org/doc/159855428/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "mekedatu",
+   "மேகதாது",
+   "mekedatu dam",
+   "balancing reservoir",
+   "dpr",
+   "central water commission",
+   "karnataka dam",
+   "cauvery"
+  ]
+ },
+ {
+  "id": "mullaperiyar-2014",
+  "topic": "polity",
+  "statement": "On 7 May 2014 the Supreme Court struck down Kerala's 2006 law capping the Mullaperiyar dam and allowed Tamil Nadu to store water up to 142 ft, a level reached on 21 November 2014 for the first time in 35 years.",
+  "value": 142,
+  "unit": "feet storage level",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: State Of Tamil Nadu vs State Of Kerala & Anr",
+    "date": "2014-05-07",
+    "url": "https://indiankanoon.org/doc/41744252/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Mullaperiyar_Dam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "mullaperiyar",
+   "முல்லைப் பெரியாறு",
+   "mullai periyar",
+   "142 feet",
+   "142 அடி",
+   "kerala dam",
+   "periyar dam",
+   "dam safety",
+   "999-year lease"
+  ]
+ },
+ {
+  "id": "mullaperiyar-lease",
+  "topic": "polity",
+  "statement": "The Mullaperiyar dam operates under a 999-year lease signed on 29 October 1886 between the Maharaja of Travancore and the British Secretary of State; the dam sits in Kerala but is operated by Tamil Nadu.",
+  "value": 999,
+  "unit": "years lease",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Mullaperiyar_Dam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "mullaperiyar lease",
+   "999 years",
+   "travancore",
+   "pennycuick",
+   "பென்னிகுயிக்",
+   "theni",
+   "தேனி"
+  ]
+ },
+ {
+  "id": "katchatheevu-1974-1976",
+  "topic": "polity",
+  "statement": "India recognised Sri Lanka's sovereignty over Katchatheevu under the 1974 maritime boundary agreement, and a 1976 agreement barred each country's fishermen from fishing in the other's exclusive economic zone.",
+  "value": 1974,
+  "unit": "year ceded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Katchatheevu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "katchatheevu",
+   "கச்சத்தீவு",
+   "kachatheevu",
+   "1974 agreement",
+   "fishermen",
+   "மீனவர்கள்",
+   "palk strait",
+   "sri lanka",
+   "இலங்கை",
+   "indira gandhi"
+  ]
+ },
+ {
+  "id": "katchatheevu-sc-2011",
+  "topic": "polity",
+  "statement": "In June 2011 the Jayalalithaa government petitioned the Supreme Court that the 1974 and 1976 agreements ceding Katchatheevu were unconstitutional.",
+  "value": 2011,
+  "unit": "year petition filed",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Katchatheevu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "katchatheevu",
+   "கச்சத்தீவு மீட்பு",
+   "retrieve katchatheevu",
+   "jayalalithaa petition",
+   "supreme court katchatheevu"
+  ]
+ },
+ {
+  "id": "official-language-art345",
+  "topic": "polity",
+  "statement": "Article 345 lets a state legislature adopt one or more languages for official purposes, and Tamil is Tamil Nadu's official language under that power.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-345-official-language-or-languages-of-a-state/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "official language",
+   "ஆட்சி மொழி",
+   "aatchi mozhi",
+   "article 345",
+   "tamil official language",
+   "tamil"
+  ]
+ },
+ {
+  "id": "two-language-1968",
+  "topic": "polity",
+  "statement": "Tamil Nadu has followed a two-language policy of Tamil and English since the Assembly adopted Chief Minister Annadurai's resolution of 23 January 1968 scrapping the three-language formula.",
+  "value": "1968-01-23",
+  "unit": "date resolution moved",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Herald",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.deccanherald.com/amp/story/india%2Ftamil-nadu%2Fexplained-tamil-nadus-2-language-policy-and-opposition-to-nep-hindi-3422150"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "two-language policy",
+   "இருமொழிக் கொள்கை",
+   "irumozhi kolgai",
+   "three-language",
+   "மும்மொழிக் கொள்கை",
+   "mummozhi",
+   "hindi imposition",
+   "இந்தித் திணிப்பு",
+   "hindi thinippu",
+   "nep",
+   "1968 resolution"
+  ]
+ },
+ {
+  "id": "neet-exemption-2021-bill",
+  "topic": "polity",
+  "statement": "The President withheld assent to Tamil Nadu's 2021 bill exempting the state from NEET, which Chief Minister Stalin told the Assembly on 4 April 2025, and the state challenged that decision in the Supreme Court in November 2025.",
+  "value": "2025-04-04",
+  "unit": "date announced",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Free Press Journal",
+    "date": "2025-04-05",
+    "url": "https://www.freepressjournal.in/education/president-droupadi-murmu-rejects-tamil-nadus-neet-exemption-bill-cm-mk-stalin-calls-it-dark-chapter-in-federalism"
+   },
+   {
+    "outlet": "LiveLaw",
+    "date": "2025-11-15",
+    "url": "https://www.livelaw.in/top-stories/tamil-nadu-moves-supreme-court-against-president-withholding-assent-to-neet-exemption-bill-310081"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "neet",
+   "நீட்",
+   "neet exemption",
+   "நீட் விலக்கு",
+   "neet vilakku",
+   "anti-neet bill",
+   "2021 bill",
+   "medical admission",
+   "class xii marks",
+   "president withholds assent"
+  ]
+ },
+ {
+  "id": "neet-tn-opposition",
+  "topic": "polity",
+  "statement": "Tamil Nadu has opposed a national medical entrance test since the Medical Council of India announced NEET in 2012, arguing the syllabus differed from state boards.",
+  "value": 2012,
+  "unit": "year NEET first announced",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/National_Eligibility_cum_Entrance_Test_(Undergraduate)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "neet",
+   "நீட்",
+   "neet opposition",
+   "state board",
+   "medical council of india",
+   "entrance exam",
+   "நுழைவுத் தேர்வு"
+  ]
+ },
+ {
+  "id": "rajamannar-committee",
+  "topic": "polity",
+  "statement": "The Karunanidhi government set up the P. V. Rajamannar Committee on Centre-state relations, which reported on 27 May 1971 recommending transfer of subjects to the states; sources differ on whether it was constituted in 1969 or 1970.",
+  "value": 1971,
+  "unit": "year of report",
+  "alt_values": [
+   "constituted 22 September 1969 (Vajiram & Ravi)",
+   "constituted 19 August 1970 (The News Minute)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Vajiram & Ravi",
+    "date": "accessed 2026-11-11",
+    "url": "https://vajiramandravi.com/current-affairs/rajamannar-committee/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.thenewsminute.com/tamil-nadu/how-karunanidhi-pitched-greater-state-autonomy-1970s-151669"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rajamannar committee",
+   "ராஜமன்னார் குழு",
+   "state autonomy",
+   "மாநில சுயாட்சி",
+   "maanila suyatchi",
+   "centre-state relations",
+   "1971 report"
+  ]
+ },
+ {
+  "id": "kurian-joseph-committee",
+  "topic": "polity",
+  "statement": "The Stalin government set up a high-level committee on Union-state relations under former Supreme Court judge Kurian Joseph in April 2025, and Stalin tabled Part I of its report in the Assembly on 18 February 2026.",
+  "value": "2026-02-18",
+  "unit": "date Part I tabled",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-02-18",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/cm-stalin-tables-high-level-panel-report-on-unionstate-relations-pushes-for-greater-state-autonomy"
+   },
+   {
+    "outlet": "Bar & Bench",
+    "date": "2025-04-15",
+    "url": "https://www.barandbench.com/amp/story/news/justice-kurian-joseph-to-head-tamil-nadus-high-level-committee-on-state-autonomy"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kurian joseph",
+   "குரியன் ஜோசப்",
+   "state autonomy committee",
+   "மாநில சுயாட்சி",
+   "high-level committee",
+   "union-state relations",
+   "autonomy report",
+   "federalism"
+  ]
+ },
+ {
+  "id": "cbi-general-consent",
+  "topic": "polity",
+  "statement": "Tamil Nadu withdrew its general consent for CBI investigations on 14 June 2023, hours after the ED arrested minister V. Senthil Balaji, so the CBI needs case-by-case state permission.",
+  "value": "2023-06-14",
+  "unit": "date withdrawn",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2023-06-15",
+    "url": "https://thesouthfirst.com/tamilnadu/tamil-nadu-withdraws-general-consent-for-cbi-probe-annamalai-says-stalin-fears-he-is-next/"
+   },
+   {
+    "outlet": "ETV Bharat",
+    "date": "2023-06-14",
+    "url": "https://etvbharat.com/english/state/tamil-nadu/tamil-nadu-makes-permission-mandatory-for-cbi-to-probe-in-state/na20230614210940995995999"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "cbi",
+   "சிபிஐ",
+   "general consent",
+   "பொது ஒப்புதல்",
+   "dspe act section 6",
+   "cbi consent",
+   "senthil balaji",
+   "செந்தில் பாலாஜி"
+  ]
+ },
+ {
+  "id": "ed-pmla",
+  "topic": "polity",
+  "statement": "The Enforcement Directorate, a central agency, investigates money laundering under the PMLA and does not need state consent, which is how it acts in Tamil Nadu despite the CBI consent withdrawal.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Enforcement_Directorate"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "ed",
+   "enforcement directorate",
+   "அமலாக்கத் துறை",
+   "amalakka thurai",
+   "pmla",
+   "money laundering",
+   "பணமோசடி",
+   "ed raid",
+   "ed arrest",
+   "tasmac ed"
+  ]
+ },
+ {
+  "id": "reservation-69pc",
+  "topic": "polity",
+  "statement": "Tamil Nadu reserves 69% of seats in state educational institutions and state government jobs: 30% for Backward Classes (including 3.5% for BC Muslims), 20% for Most Backward Classes and Denotified Communities, 18% for Scheduled Castes (including 3% for Arunthathiyars) and 1% for Scheduled Tribes.",
+  "value": 69,
+  "unit": "per cent",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Reservation_policy_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "69%",
+   "69 per cent",
+   "69 சதவீதம்",
+   "இட ஒதுக்கீடு",
+   "ida odhukkeedu",
+   "reservation",
+   "bc",
+   "mbc",
+   "sc",
+   "st",
+   "backward classes",
+   "பிற்படுத்தப்பட்டோர்",
+   "மிகவும் பிற்படுத்தப்பட்டோர்",
+   "social justice",
+   "சமூக நீதி"
+  ]
+ },
+ {
+  "id": "reservation-1993-act-ninth",
+  "topic": "polity",
+  "statement": "To shield 69% from the 50% ceiling, Tamil Nadu enacted its 1993 reservation Act, which received Presidential assent and was placed in the Ninth Schedule by the 76th Amendment of 31 August 1994.",
+  "value": 1994,
+  "unit": "year placed in Ninth Schedule",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Reservation_policy_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/List_of_amendments_of_the_Constitution_of_India"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/schedules/ninth-schedule/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "ninth schedule",
+   "ஒன்பதாவது அட்டவணை",
+   "76th amendment",
+   "1994 act",
+   "69% act",
+   "article 31b",
+   "jayalalithaa 69"
+  ]
+ },
+ {
+  "id": "indra-sawhney-50",
+  "topic": "polity",
+  "statement": "In Indra Sawhney v Union of India (16 November 1992) the Supreme Court capped reservations at 50% save in extraordinary situations, the ceiling Tamil Nadu's 69% exceeds.",
+  "value": 50,
+  "unit": "per cent ceiling",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Indra Sawhney vs Union Of India",
+    "date": "1992-11-16",
+    "url": "https://indiankanoon.org/doc/1363234/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Reservation_in_India"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "indra sawhney",
+   "mandal",
+   "50% ceiling",
+   "50 per cent cap",
+   "creamy layer",
+   "reservation cap",
+   "இட ஒதுக்கீடு உச்சவரம்பு"
+  ]
+ },
+ {
+  "id": "ir-coelho-2007",
+  "topic": "polity",
+  "statement": "In I.R. Coelho v State of Tamil Nadu (11 January 2007) a nine-judge bench held that laws added to the Ninth Schedule after 24 April 1973 can be tested against the basic structure, leaving the 69% law open to review.",
+  "value": "2007-01-11",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: I.R. Coelho vs State Of Tamil Nadu",
+    "date": "2007-01-11",
+    "url": "https://indiankanoon.org/doc/322504/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "coelho",
+   "i r coelho",
+   "ninth schedule review",
+   "basic structure",
+   "அடிப்படைக் கட்டமைப்பு",
+   "kesavananda",
+   "69% challenge"
+  ]
+ },
+ {
+  "id": "vanniyar-10-5-struck",
+  "topic": "polity",
+  "statement": "On 31 March 2022 the Supreme Court upheld the Madras High Court's ruling striking down the 2021 law giving Vanniyars 10.5% within the MBC quota, for lack of quantifiable data.",
+  "value": 10.5,
+  "unit": "per cent internal quota struck down",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Pattali Makkal Katchi vs A. Mayilerumperumal",
+    "date": "2022-03-31",
+    "url": "https://indiankanoon.org/doc/65086207/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vanniyar",
+   "வன்னியர்",
+   "10.5%",
+   "10.5 சதவீதம்",
+   "vanniyakula kshatriya",
+   "internal reservation",
+   "உள் ஒதுக்கீடு",
+   "pmk",
+   "பாமக",
+   "mbc sub-quota",
+   "caste survey"
+  ]
+ },
+ {
+  "id": "arunthathiyar-3pc",
+  "topic": "polity",
+  "statement": "Tamil Nadu's 2009 Act reserves 3% for Arunthathiyars within the 18% SC quota, and the Supreme Court's seven-judge ruling in State of Punjab v Davinder Singh (1 August 2024) upheld sub-classification of Scheduled Castes.",
+  "value": 3,
+  "unit": "per cent within SC quota",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: The State Of Punjab vs Davinder Singh",
+    "date": "2024-08-01",
+    "url": "https://indiankanoon.org/doc/155595286/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Arunthathiyar"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "arunthathiyar",
+   "அருந்ததியர்",
+   "arundhathiyar",
+   "3% sub-quota",
+   "sc sub-classification",
+   "உள் ஒதுக்கீடு",
+   "davinder singh",
+   "2009 act"
+  ]
+ },
+ {
+  "id": "ews-tn-rejects",
+  "topic": "polity",
+  "statement": "An all-party meeting chaired by Stalin on 12 November 2022, boycotted by the AIADMK and BJP, rejected the 103rd Amendment's 10% EWS quota and Tamil Nadu has not adopted it for state posts.",
+  "value": 10,
+  "unit": "per cent EWS quota rejected",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next (PTI)",
+    "date": "2022-11-12",
+    "url": "https://www.dtnext.in/news/tamilnadu/ews-quota-all-party-meet-rejects-constitutional-amendment"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2022-11-12",
+    "url": "https://www.thenewsminute.com/article/tn-parties-adopt-resolution-challenge-ews-aiadmk-bjp-boycott-all-party-meet-169871"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "ews",
+   "பொருளாதாரத்தில் நலிந்த பிரிவினர்",
+   "10% ews",
+   "103rd amendment",
+   "economically weaker sections",
+   "upper caste quota",
+   "all-party meeting"
+  ]
+ },
+ {
+  "id": "archakas-1970-seshammal",
+  "topic": "polity",
+  "statement": "The HR&CE (Amendment) Act, 1970 abolished hereditary succession for temple archakas, and in Seshammal v State of Tamil Nadu (14 March 1972) the Supreme Court upheld it while saying appointments must follow Agama rules.",
+  "value": "1972-03-14",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Seshammal & Ors vs State Of Tamil Nadu",
+    "date": "1972-03-14",
+    "url": "https://indiankanoon.org/doc/641343/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "archakas",
+   "அர்ச்சகர்கள்",
+   "archagar",
+   "all castes archakas",
+   "அனைத்து சாதியினரும் அர்ச்சகர்",
+   "hereditary priests",
+   "seshammal",
+   "agama",
+   "ஆகமம்"
+  ]
+ },
+ {
+  "id": "archakas-2006-2015",
+  "topic": "polity",
+  "statement": "The DMK government's order of 23 May 2006 allowing persons of all castes to be appointed archakas was considered by the Supreme Court in Adi Saiva Sivachariyargal Nala Sangam (2015), which required appointments to conform to the Agamas.",
+  "value": "2006-05-23",
+  "unit": "date of government order",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: All India Adi Saiva Sivacharyargal Seva vs State of Tamil Nadu (Madras HC)",
+    "date": "2020-09-03",
+    "url": "https://indiankanoon.org/doc/110905163/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "archakas",
+   "அர்ச்சகர்",
+   "2006 go",
+   "adi saiva",
+   "agama",
+   "priests training",
+   "அர்ச்சகர் பயிற்சி"
+  ]
+ },
+ {
+  "id": "archakas-2021-appointments",
+  "topic": "polity",
+  "statement": "On 14 August 2021 Chief Minister Stalin handed appointment orders to 58 archakas, including 24 trained at state-run schools under the all-castes scheme, and the Madras High Court upheld the 2020 archaka appointment rules in August 2022.",
+  "value": 24,
+  "unit": "trained archakas of all castes appointed",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Republic World",
+    "date": "2021-08-15",
+    "url": "https://www.republicworld.com/india/tamil-nadu-dmk-appoints-24-trained-aspirants-of-all-castes-as-priests-in-temples/"
+   },
+   {
+    "outlet": "South First",
+    "date": "2022-08-22",
+    "url": "https://thesouthfirst.com/tamilnadu/madras-high-court-upholds-tamil-nadu-appointment-rules-of-archakas-dmk-calls-it-a-victory/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "archakas",
+   "அர்ச்சகர்கள்",
+   "58 archakas",
+   "24 archakas",
+   "non-brahmin priests",
+   "பிராமணர் அல்லாத அர்ச்சகர்",
+   "temple priests",
+   "hr&ce"
+  ]
+ },
+ {
+  "id": "hrce-act-1959",
+  "topic": "polity",
+  "statement": "Hindu temples in Tamil Nadu are administered by the Hindu Religious and Charitable Endowments Department under the HR&CE Act, 1959.",
+  "value": 1959,
+  "unit": "year of Act",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Hindu_Religious_and_Charitable_Endowments_Department"
+   },
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: Seshammal & Ors vs State Of Tamil Nadu",
+    "date": "1972-03-14",
+    "url": "https://indiankanoon.org/doc/641343/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "hr&ce",
+   "hrce",
+   "இந்து சமய அறநிலையத் துறை",
+   "aranilaiya thurai",
+   "temple administration",
+   "temples",
+   "கோவில்",
+   "free temples",
+   "hr and ce act 1959"
+  ]
+ },
+ {
+  "id": "dvac",
+  "topic": "polity",
+  "statement": "The Directorate of Vigilance and Anti-Corruption (DVAC) is the state government's agency for investigating corruption by public servants in Tamil Nadu.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Directorate_of_Vigilance_and_Anti-Corruption"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dvac",
+   "vigilance",
+   "லஞ்ச ஒழிப்புத் துறை",
+   "lanja ozhippu",
+   "anti-corruption",
+   "ஊழல்",
+   "vigilance raid",
+   "disproportionate assets"
+  ]
+ },
+ {
+  "id": "lokayukta-2018",
+  "topic": "polity",
+  "statement": "Tamil Nadu's Lokayukta was created under the Tamil Nadu Lokayukta Act, 2018, passed in July 2018 and in force from 13 November 2018.",
+  "value": "2018-11-13",
+  "unit": "date in force",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Lokayukta"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Lokayukta"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "lokayukta",
+   "லோக் ஆயுக்தா",
+   "lok ayukta",
+   "lokayukta act 2018",
+   "ombudsman",
+   "corruption complaint"
+  ]
+ },
+ {
+  "id": "pc-act-17a",
+  "topic": "polity",
+  "statement": "Since the 2018 amendment to the Prevention of Corruption Act, section 17A requires prior approval of the competent authority before police investigate a public servant over official decisions, except in trap cases.",
+  "value": 2018,
+  "unit": "year section 17A inserted",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Prevention_of_Corruption_Act,_1988"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sanction to prosecute",
+   "வழக்குத் தொடர அனுமதி",
+   "section 17a",
+   "prior approval",
+   "prevention of corruption act",
+   "governor sanction",
+   "former ministers",
+   "ஊழல் தடுப்புச் சட்டம்"
+  ]
+ },
+ {
+  "id": "goondas-act",
+  "topic": "polity",
+  "statement": "Tamil Nadu's 1982 preventive detention law, popularly the Goondas Act (Gundar Sattam), allows habitual offenders to be detained for up to 12 months, with an advisory board of judges reviewing each detention.",
+  "value": 12,
+  "unit": "months maximum detention",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Preventive_Detention_Act,_1982"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "goondas act",
+   "குண்டர் சட்டம்",
+   "gundar sattam",
+   "preventive detention",
+   "தடுப்புக் காவல்",
+   "act 14 of 1982",
+   "habitual offender",
+   "advisory board"
+  ]
+ },
+ {
+  "id": "criminal-defamation-swamy",
+  "topic": "polity",
+  "statement": "In Subramanian Swamy v Union of India (13 May 2016) the Supreme Court upheld criminal defamation under IPC sections 499 and 500, a provision Tamil Nadu governments have often used against critics and the press.",
+  "value": "2016-05-13",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court Observer",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.scobserver.in/cases/subramanian-swamy-union-of-india-defamation-as-a-criminal-offence-case-background/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2016-05-13",
+    "url": "https://www.thenewsminute.com/news/sc-upholds-defamation-clause-recap-some-high-profile-defamation-cases-43205"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "defamation",
+   "அவதூறு",
+   "avadhooru",
+   "criminal defamation",
+   "அவதூறு வழக்கு",
+   "section 499",
+   "section 500",
+   "bns 356",
+   "subramanian swamy",
+   "defamation case against journalists"
+  ]
+ },
+ {
+  "id": "custodial-sathankulam",
+  "topic": "polity",
+  "statement": "The June 2020 custodial deaths of a father and son in Sathankulam police station were investigated by the CBI, and a Madurai sessions court convicted nine police personnel in March 2026 and sentenced them to death on 6 April 2026.",
+  "value": 9,
+  "unit": "police personnel convicted",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026",
+    "url": "https://www.thenewsminute.com/amp/story/tamil-nadu/sathankulam-horror-9-cops-convicted-for-brutal-father-son-custodial-killing"
+   },
+   {
+    "outlet": "Brut India",
+    "date": "2026-04-22",
+    "url": "https://www.brut.media/in/articles/sathankulam-custodial-deaths-what-led-to-the-death-penalty-verdict"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sathankulam",
+   "சாத்தான்குளம்",
+   "custodial death",
+   "காவல் மரணம்",
+   "lock-up death",
+   "லாக்கப் மரணம்",
+   "custodial torture",
+   "police excess",
+   "thoothukudi police"
+  ]
+ },
+ {
+  "id": "pocso",
+  "topic": "polity",
+  "statement": "Child sexual offences in Tamil Nadu are tried under the central POCSO Act, 2012, which sets up special courts and mandatory reporting.",
+  "value": 2012,
+  "unit": "year of Act",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Protection_of_Children_from_Sexual_Offences_Act,_2012"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "pocso",
+   "போக்சோ",
+   "child sexual abuse",
+   "குழந்தைகள் மீதான பாலியல்",
+   "special court",
+   "போக்சோ சட்டம்"
+  ]
+ },
+ {
+  "id": "sec-local-bodies",
+  "topic": "polity",
+  "statement": "Elections to panchayats and municipalities are run by the Tamil Nadu State Election Commission, not the Election Commission of India, under Articles 243K and 243ZA.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-243k-elections-to-the-panchayats/"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_State_Election_Commission"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "state election commission",
+   "மாநில தேர்தல் ஆணையம்",
+   "local body election",
+   "உள்ளாட்சித் தேர்தல்",
+   "ullatchi therthal",
+   "panchayat election",
+   "urban local body",
+   "article 243k",
+   "73rd amendment",
+   "74th amendment"
+  ]
+ },
+ {
+  "id": "local-bodies-women-50",
+  "topic": "polity",
+  "statement": "The Assembly unanimously passed a law in February 2016 raising reservation for women in Tamil Nadu's local bodies from the constitutional minimum of one-third to 50%.",
+  "value": 50,
+  "unit": "per cent",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2016-02-20",
+    "url": "https://www.deccanchronicle.com/amp/nation/current-affairs/210216/tamil-nadu-women-get-50-per-cent-quota-in-local-bodies.html"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-243d-reservation-of-seats/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "women reservation",
+   "மகளிர் இட ஒதுக்கீடு",
+   "50% women",
+   "local bodies women",
+   "உள்ளாட்சியில் பெண்கள்",
+   "one-third",
+   "article 243d"
+  ]
+ },
+ {
+  "id": "local-bodies-2022-urban",
+  "topic": "polity",
+  "statement": "In the February 2022 urban local body polls the DMK and allies won over two-thirds of more than 12,800 ward posts and all 21 municipal corporations.",
+  "value": 21,
+  "unit": "corporations won",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Onmanorama (PTI)",
+    "date": "2022-02-22",
+    "url": "https://onmanorama.com/news/india/2022/02/22/dmk-racing-towards-clean-sweep-in-urban-civic-polls-in-tn-wrests.html"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "urban local body election",
+   "நகர்ப்புற உள்ளாட்சித் தேர்தல்",
+   "corporation",
+   "மாநகராட்சி",
+   "mayor",
+   "மேயர்",
+   "2022 civic polls",
+   "ward councillor",
+   "கவுன்சிலர்"
+  ]
+ },
+ {
+  "id": "tasmac-monopoly",
+  "topic": "polity",
+  "statement": "TASMAC, set up in 1983, became the sole retail vendor of liquor in Tamil Nadu after an October 2003 amendment to the Tamil Nadu Prohibition Act, 1937, and private outlets were gone by 2004.",
+  "value": 2003,
+  "unit": "year retail monopoly began",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/TASMAC"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Alcohol_prohibition_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tasmac",
+   "டாஸ்மாக்",
+   "liquor shops",
+   "மதுக்கடை",
+   "madhukadai",
+   "liquor revenue",
+   "retail monopoly",
+   "prohibition act 1937",
+   "tasmac shops closure"
+  ]
+ },
+ {
+  "id": "prohibition-history",
+  "topic": "polity",
+  "statement": "Rajaji's Congress ministry introduced prohibition partially in 1937; it stayed total until the Karunanidhi government suspended it in 1971, was reimposed in 1974, and was lifted again by the MGR government in 1981.",
+  "value": 1971,
+  "unit": "year first suspended",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Alcohol_prohibition_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/TASMAC"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "prohibition",
+   "மதுவிலக்கு",
+   "madhuvilakku",
+   "total prohibition",
+   "பூரண மதுவிலக்கு",
+   "arrack",
+   "toddy",
+   "கள்",
+   "rajaji prohibition",
+   "1971",
+   "1981"
+  ]
+ },
+ {
+  "id": "noon-meal-kamaraj-mgr",
+  "topic": "polity",
+  "statement": "The school midday meal began under Chief Minister K. Kamaraj, launched in Ettayapuram on 17 July 1956 by the education department, and was expanded by M. G. Ramachandran into the Nutritious Noon Meal Scheme from 1 July 1982.",
+  "value": 1982,
+  "unit": "year expanded statewide",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Madras Courier",
+    "date": "accessed 2026-11-11",
+    "url": "https://madrascourier.com/biography/how-kamaraj-pioneered-the-mid-day-meal-scheme/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.thenewsminute.com/amp/story/tamil-nadu/school-meal-scheme"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Midday_Meal_Scheme"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "noon meal",
+   "சத்துணவு",
+   "sathunavu",
+   "midday meal",
+   "மதிய உணவு",
+   "kamaraj",
+   "காமராஜர்",
+   "mgr",
+   "எம்ஜிஆர்",
+   "nutritious noon meal",
+   "breakfast scheme",
+   "காலை உணவுத் திட்டம்"
+  ]
+ },
+ {
+  "id": "breakfast-scheme-2022",
+  "topic": "polity",
+  "statement": "The Chief Minister's Breakfast Scheme for government primary school pupils was launched in September 2022 and covers all 30,122 government primary schools for classes 1 to 5.",
+  "value": 30122,
+  "unit": "schools",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.thenewsminute.com/amp/story/tamil-nadu/school-meal-scheme"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "breakfast scheme",
+   "காலை உணவுத் திட்டம்",
+   "kalai unavu",
+   "cm breakfast scheme",
+   "முதல்வரின் காலை உணவு",
+   "30,122 schools"
+  ]
+ },
+ {
+  "id": "pds-universal",
+  "topic": "polity",
+  "statement": "Tamil Nadu runs a universal public distribution system rather than the targeted one under the 2013 National Food Security Act, giving all rice card holders free rice of 12-20 kg a month depending on family size.",
+  "value": 20,
+  "unit": "kg monthly ceiling per card",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2016-11-02",
+    "url": "https://www.dtnext.in/city/2016/11/02/more-food-grain-quota-on-cards-as-tamil-nadu-plans-to-stick-to-universal-pds"
+   },
+   {
+    "outlet": "Citizen Matters",
+    "date": "accessed 2026-11-11",
+    "url": "https://citizenmatters.in/public-distribution-system-tamilnadu/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "pds",
+   "ration",
+   "ரேஷன்",
+   "ration shop",
+   "நியாய விலைக் கடை",
+   "free rice",
+   "இலவச அரிசி",
+   "universal pds",
+   "nfsa",
+   "rice card",
+   "குடும்ப அட்டை",
+   "family card"
+  ]
+ },
+ {
+  "id": "tnpsc",
+  "topic": "polity",
+  "statement": "The Tamil Nadu Public Service Commission, a body under Article 315, recruits for state government posts through the Group exams.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Public_Service_Commission"
+   },
+   {
+    "outlet": "Constitution of India (constitutionofindia.net text)",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.constitutionofindia.net/articles/article-315-public-service-commissions-for-the-union-and-for-the-states/"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tnpsc",
+   "டிஎன்பிஎஸ்சி",
+   "group 4",
+   "group 2",
+   "group 1",
+   "குரூப் 4",
+   "public service commission",
+   "government jobs",
+   "அரசு வேலை"
+  ]
+ },
+ {
+  "id": "state-planning-commission",
+  "topic": "polity",
+  "statement": "The State Planning Commission, formed in 1971, was renamed the State Development Policy Council by the AIADMK government in 2020 and renamed back in August 2021 by the DMK government.",
+  "value": 1971,
+  "unit": "year formed",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2021-08-25",
+    "url": "https://www.dtnext.in/news/tamilnadu/sdpc-renamed-state-planning-commission"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "state planning commission",
+   "மாநில திட்டக் குழு",
+   "sdpc",
+   "state development policy council",
+   "jeyaranjan",
+   "planning commission"
+  ]
+ },
+ {
+  "id": "aavin",
+  "topic": "polity",
+  "statement": "Aavin is the brand of the Tamil Nadu Co-operative Milk Producers' Federation, the state's dairy cooperative, whose milk prices and procurement rates are set by the government.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Aavin"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "aavin",
+   "ஆவின்",
+   "milk price",
+   "பால் விலை",
+   "milk procurement",
+   "dairy",
+   "பால் கொள்முதல்"
+  ]
+ },
+ {
+  "id": "tangedco-split",
+  "topic": "polity",
+  "statement": "TANGEDCO was restructured in 2024 into the Tamil Nadu Power Distribution Corporation (TNPDCL), the Tamil Nadu Power Generation Corporation for thermal plants and the Tamil Nadu Green Energy Corporation for renewables, with the renaming approved on 27 June 2024.",
+  "value": "2024-06-27",
+  "unit": "date renaming approved",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2024",
+    "url": "https://www.dtnext.in/news/tamilnadu/union-govt-approves-tangedco-renaming-to-tnpdcl-794611"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2024-01",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-approves-plan-to-create-new-distribution-generation-green-energy-companies-replacing-tangedco-teda-765231"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tangedco",
+   "டான்ஜெட்கோ",
+   "tneb",
+   "மின்வாரியம்",
+   "minvariyam",
+   "tnpdcl",
+   "tnpgcl",
+   "tngecl",
+   "electricity board",
+   "power tariff",
+   "மின் கட்டணம்"
+  ]
+ },
+ {
+  "id": "justice-party-1916",
+  "topic": "history",
+  "statement": "The Justice Party (South Indian Liberal Federation) was founded on 20 November 1916 in Madras by C. Natesa Mudaliar, T. M. Nair and P. Theagaraya Chetty to press non-Brahmin claims.",
+  "value": "1916-11-20",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Justice_Party_(India)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "justice party",
+   "நீதிக் கட்சி",
+   "neethi katchi",
+   "south indian liberal federation",
+   "non-brahmin movement",
+   "பிராமணர் அல்லாதார்",
+   "t m nair",
+   "theagaraya chetty"
+  ]
+ },
+ {
+  "id": "justice-party-1920-ministry",
+  "topic": "history",
+  "statement": "The Justice Party won 63 of 98 seats in the November 1920 Madras Presidency elections, which the Congress boycotted, and A. Subbarayalu Reddiar became the first Chief Minister (Premier) under dyarchy.",
+  "value": 63,
+  "unit": "seats won of 98",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Justice_Party_(India)"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "justice party",
+   "நீதிக் கட்சி",
+   "1920 election",
+   "dyarchy",
+   "madras presidency",
+   "சென்னை மாகாணம்",
+   "subbarayalu reddiar",
+   "panagal",
+   "communal g.o."
+  ]
+ },
+ {
+  "id": "self-respect-1925",
+  "topic": "history",
+  "statement": "The Self-Respect Movement against caste hierarchy began in 1925 and was led by E. V. Ramasamy (Periyar).",
+  "value": 1925,
+  "unit": "year founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Self-Respect_Movement"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Periyar"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "self-respect movement",
+   "சுயமரியாதை இயக்கம்",
+   "suyamariyadhai",
+   "periyar",
+   "பெரியார்",
+   "e v ramasamy",
+   "ஈ.வெ.ரா",
+   "self-respect marriage",
+   "rationalism",
+   "பகுத்தறிவு"
+  ]
+ },
+ {
+  "id": "anti-hindi-1937-40",
+  "topic": "history",
+  "statement": "The first anti-Hindi agitation opposed the Rajaji ministry's compulsory Hindi in Madras Presidency schools from 1937; two protesters died, 1,198 people were arrested, and compulsory Hindi was withdrawn in 1940.",
+  "value": 1198,
+  "unit": "arrests",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "anti-hindi agitation",
+   "இந்தி எதிர்ப்புப் போராட்டம்",
+   "hindi ethirppu",
+   "1937",
+   "compulsory hindi",
+   "rajaji",
+   "language martyrs",
+   "மொழிப்போர் தியாகிகள்",
+   "mozhipor"
+  ]
+ },
+ {
+  "id": "anti-hindi-1965",
+  "topic": "history",
+  "statement": "The 1965 anti-Hindi agitation, against Hindi becoming the sole official language from 26 January 1965, left about 70 people dead by official estimates and drew Prime Minister Shastri's assurance that English would continue.",
+  "value": 70,
+  "unit": "deaths (official estimate)",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "1965 agitation",
+   "இந்தி எதிர்ப்பு 1965",
+   "language war",
+   "மொழிப்போர்",
+   "mozhippor",
+   "official languages act 1963",
+   "hindi imposition",
+   "இந்தித் திணிப்பு",
+   "language martyrs day",
+   "january 25"
+  ]
+ },
+ {
+  "id": "dk-1944",
+  "topic": "history",
+  "statement": "Periyar's movement took the name Dravidar Kazhagam in 1944, after the Justice Party merged under his leadership in 1938.",
+  "value": 1944,
+  "unit": "year named",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravidar_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dravidar kazhagam",
+   "திராவிடர் கழகம்",
+   "dk",
+   "திக",
+   "periyar",
+   "பெரியார்",
+   "k veeramani",
+   "கி.வீரமணி",
+   "dravidian movement",
+   "திராவிட இயக்கம்"
+  ]
+ },
+ {
+  "id": "dmk-1949",
+  "topic": "history",
+  "statement": "C. N. Annadurai founded the DMK on 17 September 1949 as a breakaway from Periyar's Dravidar Kazhagam.",
+  "value": "1949-09-17",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/C._N._Annadurai"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "dravida munnetra kazhagam",
+   "திராவிட முன்னேற்றக் கழகம்",
+   "annadurai",
+   "அண்ணா",
+   "anna",
+   "arignar anna",
+   "அறிஞர் அண்ணா",
+   "1949"
+  ]
+ },
+ {
+  "id": "madras-state-1956",
+  "topic": "history",
+  "statement": "Under the 1956 linguistic reorganisation, Madras State lost its Malayalam areas to Kerala and gained five Tamil-majority taluks from Travancore-Cochin.",
+  "value": 1956,
+  "unit": "year",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Madras_State"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/States_Reorganisation_Act,_1956"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "states reorganisation",
+   "மொழிவாரி மாநிலம்",
+   "linguistic states",
+   "madras state",
+   "சென்னை மாநிலம்",
+   "kanyakumari",
+   "கன்னியாகுமரி",
+   "1956"
+  ]
+ },
+ {
+  "id": "renamed-tamil-nadu-1969",
+  "topic": "history",
+  "statement": "Madras State was renamed Tamil Nadu on 14 January 1969 under Annadurai's DMK government.",
+  "value": "1969-01-14",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Madras_State"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/C._N._Annadurai"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tamil nadu name",
+   "தமிழ்நாடு பெயர்",
+   "tamil nadu day",
+   "தமிழ்நாடு நாள்",
+   "madras state",
+   "renaming",
+   "1969",
+   "annadurai"
+  ]
+ },
+ {
+  "id": "rajaji-cm-1952",
+  "topic": "history",
+  "statement": "C. Rajagopalachari (Rajaji) of the Congress was Chief Minister of Madras State from 10 April 1952 to 13 April 1954.",
+  "value": "1952-04-10",
+  "unit": "date took office",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/C._Rajagopalachari"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rajaji",
+   "ராஜாஜி",
+   "rajagopalachari",
+   "ராஜகோபாலாச்சாரி",
+   "kula kalvi",
+   "hereditary education scheme",
+   "congress rule"
+  ]
+ },
+ {
+  "id": "kamaraj-cm",
+  "topic": "history",
+  "statement": "K. Kamaraj of the Congress was Chief Minister from 13 April 1954 to 2 October 1963, when he resigned under the Kamaraj Plan to work for the party.",
+  "value": "1963-10-02",
+  "unit": "date resigned",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/K._Kamaraj"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kamaraj",
+   "காமராஜர்",
+   "kamarajar",
+   "perunthalaivar",
+   "பெருந்தலைவர்",
+   "kamaraj plan",
+   "congress",
+   "kingmaker"
+  ]
+ },
+ {
+  "id": "bhaktavatsalam-cm",
+  "topic": "history",
+  "statement": "M. Bhaktavatsalam was the last Congress Chief Minister, serving from 2 October 1963 to 6 March 1967, a period that included the 1965 anti-Hindi agitation.",
+  "value": "1967-03-06",
+  "unit": "date term ended",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Bhaktavatsalam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "bhaktavatsalam",
+   "பக்தவத்சலம்",
+   "last congress cm",
+   "congress rule ended",
+   "1967"
+  ]
+ },
+ {
+  "id": "annadurai-cm-1967",
+  "topic": "history",
+  "statement": "Annadurai became the first DMK Chief Minister on 6 March 1967 and died in office on 3 February 1969.",
+  "value": "1969-02-03",
+  "unit": "date of death",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/C._N._Annadurai"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "annadurai",
+   "அண்ணாதுரை",
+   "anna",
+   "அண்ணா",
+   "first dmk cm",
+   "1967",
+   "peraringnar anna"
+  ]
+ },
+ {
+  "id": "karunanidhi-terms",
+  "topic": "history",
+  "statement": "M. Karunanidhi was Chief Minister five times: 1969-71, 1971-76, 1989-91, 1996-2001 and 2006-11.",
+  "value": 5,
+  "unit": "terms",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Karunanidhi"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "karunanidhi",
+   "கருணாநிதி",
+   "kalaignar",
+   "கலைஞர்",
+   "dmk president",
+   "five-time cm"
+  ]
+ },
+ {
+  "id": "aiadmk-1972",
+  "topic": "history",
+  "statement": "M. G. Ramachandran founded the ADMK (later AIADMK) on 17 October 1972 after being expelled from the DMK following a feud with Karunanidhi.",
+  "value": "1972-10-17",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/All_India_Anna_Dravida_Munnetra_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "admk",
+   "anna dmk",
+   "அண்ணா திமுக",
+   "mgr",
+   "எம்ஜிஆர்",
+   "1972 split",
+   "two leaves",
+   "இரட்டை இலை"
+  ]
+ },
+ {
+  "id": "mgr-cm-1977-87",
+  "topic": "history",
+  "statement": "M. G. Ramachandran was Chief Minister from 30 June 1977 until his death on 24 December 1987, apart from a break under President's Rule in 1980.",
+  "value": "1987-12-24",
+  "unit": "date of death",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._G._Ramachandran"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "mgr",
+   "எம்ஜிஆர்",
+   "m g ramachandran",
+   "புரட்சித் தலைவர்",
+   "puratchi thalaivar",
+   "makkal thilagam",
+   "மக்கள் திலகம்"
+  ]
+ },
+ {
+  "id": "aiadmk-split-1988",
+  "topic": "history",
+  "statement": "After MGR's death the AIADMK split between his wife V. N. Janaki, who was Chief Minister from 7 to 30 January 1988, and J. Jayalalithaa, who led the reunited party from 1989.",
+  "value": "1988-01-07",
+  "unit": "Janaki sworn in",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/All_India_Anna_Dravida_Munnetra_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/V._N._Janaki"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "janaki",
+   "ஜானகி",
+   "aiadmk split",
+   "அதிமுக பிளவு",
+   "jayalalithaa faction",
+   "1988",
+   "janaki ramachandran"
+  ]
+ },
+ {
+  "id": "jayalalithaa-terms",
+  "topic": "history",
+  "statement": "J. Jayalalithaa was Chief Minister six times between 1991 and 2016, beginning on 24 June 1991 and ending with her death in office on 5 December 2016.",
+  "value": 6,
+  "unit": "terms",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/J._Jayalalithaa"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "அம்மா",
+   "puratchi thalaivi",
+   "புரட்சித் தலைவி",
+   "six-time cm"
+  ]
+ },
+ {
+  "id": "rajiv-assassination-1991",
+  "topic": "history",
+  "statement": "Former Prime Minister Rajiv Gandhi was assassinated by an LTTE suicide bomber at Sriperumbudur, Tamil Nadu, on 21 May 1991, during the election campaign.",
+  "value": "1991-05-21",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rajiv gandhi",
+   "ராஜீவ் காந்தி",
+   "assassination",
+   "படுகொலை",
+   "sriperumbudur",
+   "ஸ்ரீபெரும்புதூர்",
+   "ltte",
+   "perarivalan",
+   "nalini",
+   "jain commission"
+  ]
+ },
+ {
+  "id": "da-case-2001",
+  "topic": "history",
+  "statement": "The Supreme Court voided Jayalalithaa's 2001 appointment as Chief Minister in September 2001 because she stood convicted in the TANSI land case, and O. Panneerselvam was CM from 21 September 2001 until she returned on 2 March 2002 after the Madras High Court acquitted her.",
+  "value": "2001-09-21",
+  "unit": "date she was replaced",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/J._Jayalalithaa"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/O._Panneerselvam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "jayalalithaa 2001",
+   "tansi",
+   "supreme court 2001",
+   "ops",
+   "ஓபிஎஸ்",
+   "panneerselvam",
+   "பன்னீர்செல்வம்",
+   "disqualification"
+  ]
+ },
+ {
+  "id": "da-case-2014",
+  "topic": "history",
+  "statement": "On 27 September 2014 a Bengaluru special court convicted Jayalalithaa in the disproportionate assets case, sentenced her to four years and fined her Rs 100 crore, making her the first sitting Chief Minister forced out by a conviction.",
+  "value": 100,
+  "unit": "Rs crore fine",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Disproportionate_assets_case_against_J._Jayalalithaa"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "disproportionate assets",
+   "சொத்துக் குவிப்பு வழக்கு",
+   "sothu kuvippu",
+   "da case",
+   "john michael d cunha",
+   "100 crore",
+   "bengaluru court",
+   "2014 conviction"
+  ]
+ },
+ {
+  "id": "da-case-2015-acquittal",
+  "topic": "history",
+  "statement": "The Karnataka High Court acquitted Jayalalithaa on 11 May 2015, and she returned as Chief Minister on 23 May 2015.",
+  "value": "2015-05-11",
+  "unit": "date of acquittal",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Disproportionate_assets_case_against_J._Jayalalithaa"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kumaraswamy",
+   "acquittal",
+   "விடுதலை",
+   "karnataka high court",
+   "da case",
+   "சொத்துக் குவிப்பு"
+  ]
+ },
+ {
+  "id": "da-case-2017-sc",
+  "topic": "history",
+  "statement": "On 14 February 2017 the Supreme Court restored the trial court's conviction of Sasikala and two others in the assets case; proceedings against Jayalalithaa had abated on her death.",
+  "value": "2017-02-14",
+  "unit": "date of judgment",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court/High Court judgment via Indian Kanoon: State Of Karnataka vs Selvi J. Jayalalitha & Ors",
+    "date": "2017-02-14",
+    "url": "https://indiankanoon.org/doc/135095591/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Disproportionate_assets_case_against_J._Jayalalithaa"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sasikala",
+   "சசிகலா",
+   "supreme court 2017",
+   "da case verdict",
+   "parappana agrahara",
+   "ilavarasi",
+   "sudhakaran",
+   "சொத்துக் குவிப்பு"
+  ]
+ },
+ {
+  "id": "alliances-centre-1998-99",
+  "topic": "history",
+  "statement": "AIADMK ministers joined Vajpayee's government in 1998, resigned on 8 April 1999, and Jayalalithaa withdrew support on 14 April 1999, leading to the government's fall.",
+  "value": "1999-04-14",
+  "unit": "date support withdrawn",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/All_India_Anna_Dravida_Munnetra_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vajpayee",
+   "வாஜ்பாய்",
+   "nda",
+   "1999",
+   "aiadmk withdraws support",
+   "13 months government",
+   "coalition at centre"
+  ]
+ },
+ {
+  "id": "alliances-centre-dmk",
+  "topic": "history",
+  "statement": "The DMK joined the BJP-led NDA for the 1999 Lok Sabha election and Vajpayee's government, then allied with the Congress in 2004, when its alliance swept the state and it joined the UPA government.",
+  "value": 2004,
+  "unit": "year allied with Congress",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Karunanidhi"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "upa",
+   "ஐமுகூ",
+   "nda",
+   "dmk at centre",
+   "manmohan singh",
+   "union ministers",
+   "dayanidhi maran",
+   "a raja",
+   "t r baalu"
+  ]
+ },
+ {
+  "id": "freebies-2006-2011",
+  "topic": "history",
+  "statement": "Karunanidhi's 2006-11 government distributed free colour TVs to ration-card families, and Jayalalithaa's government from 2011 gave mixers, grinders, fans and free laptops to students.",
+  "value": 2006,
+  "unit": "year colour TV scheme began",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Karunanidhi"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/J._Jayalalithaa"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "freebies",
+   "இலவசங்கள்",
+   "ilavasam",
+   "colour tv",
+   "வண்ணத் தொலைக்காட்சி",
+   "mixer grinder",
+   "மிக்சி கிரைண்டர்",
+   "free laptop",
+   "இலவச மடிக்கணினி",
+   "welfare schemes"
+  ]
+ },
+ {
+  "id": "2g-acquittal",
+  "topic": "history",
+  "statement": "A special court in Delhi acquitted all accused in the 2G spectrum case, including DMK leaders A. Raja and Kanimozhi, on 21 December 2017; the ED and CBI appealed in March 2018, and on 22 March 2024 the Delhi High Court allowed the CBI's appeal to proceed.",
+  "value": "2017-12-21",
+  "unit": "date of acquittal",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2G_spectrum_case"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "2g",
+   "2ஜி",
+   "spectrum",
+   "அலைக்கற்றை",
+   "a raja",
+   "ஆ.ராசா",
+   "kanimozhi",
+   "கனிமொழி",
+   "2g acquittal",
+   "2g appeal"
+  ]
+ },
+ {
+  "id": "election-1952",
+  "topic": "history",
+  "statement": "In the 1952 Madras State election the Congress won 152 of 375 seats with 34.88% of the vote, short of a majority, and C. Rajagopalachari became Chief Minister; turnout was 54.75%.",
+  "value": 152,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1952_Madras_State_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1952",
+   "1952 election",
+   "1952 தேர்தல்",
+   "congress",
+   "காங்கிரஸ்",
+   "rajaji",
+   "375 seats",
+   "first election"
+  ]
+ },
+ {
+  "id": "election-1957",
+  "topic": "history",
+  "statement": "In 1957 the Congress won 151 of 205 seats and K. Kamaraj continued as Chief Minister; turnout was 46.56%.",
+  "value": 151,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1957_Madras_State_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1957",
+   "1957 election",
+   "1957 தேர்தல்",
+   "congress",
+   "kamaraj",
+   "காமராஜர்",
+   "205 seats"
+  ]
+ },
+ {
+  "id": "election-1962",
+  "topic": "history",
+  "statement": "In 1962 the Congress won 139 of 206 seats with 46.14% and Kamaraj continued as Chief Minister, while the DMK became the main opposition with 50 seats and 27.10%.",
+  "value": 139,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1962_Madras_State_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1962",
+   "1962 election",
+   "1962 தேர்தல்",
+   "congress",
+   "dmk",
+   "திமுக",
+   "kamaraj",
+   "50 seats"
+  ]
+ },
+ {
+  "id": "election-1967",
+  "topic": "history",
+  "statement": "In 1967 the DMK won 137 of 234 seats and ended Congress rule, with Annadurai as Chief Minister, even though the Congress, with 51 seats, polled a slightly higher vote share (41.10% to the DMK's 40.69%).",
+  "value": 137,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1967_Madras_State_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1967",
+   "1967 election",
+   "1967 தேர்தல்",
+   "dmk",
+   "திமுக",
+   "annadurai",
+   "அண்ணா",
+   "end of congress rule",
+   "dravidian rule",
+   "திராவிட ஆட்சி",
+   "1967 victory"
+  ]
+ },
+ {
+  "id": "election-1971",
+  "topic": "history",
+  "statement": "In 1971 the DMK under Karunanidhi won 184 of 234 seats with 48.58% of the vote, its best tally; turnout was 72.10%.",
+  "value": 184,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1971_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1971",
+   "1971 election",
+   "1971 தேர்தல்",
+   "dmk",
+   "karunanidhi",
+   "கருணாநிதி",
+   "184 seats",
+   "landslide"
+  ]
+ },
+ {
+  "id": "election-1977",
+  "topic": "history",
+  "statement": "In 1977 the AIADMK won 130 of 234 seats with 30.36% in its first Assembly election and M. G. Ramachandran became Chief Minister.",
+  "value": 130,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1977_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1977",
+   "1977 election",
+   "1977 தேர்தல்",
+   "aiadmk",
+   "அதிமுக",
+   "mgr",
+   "எம்ஜிஆர்",
+   "first aiadmk government"
+  ]
+ },
+ {
+  "id": "election-1980",
+  "topic": "history",
+  "statement": "In 1980, months after his government was dismissed, MGR's AIADMK won 129 of 234 seats with 38.75% and he returned as Chief Minister; turnout was 65.42%.",
+  "value": 129,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1980_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1980",
+   "1980 election",
+   "1980 தேர்தல்",
+   "aiadmk",
+   "mgr",
+   "எம்ஜிஆர்",
+   "1980 dismissal",
+   "re-elected"
+  ]
+ },
+ {
+  "id": "election-1984",
+  "topic": "history",
+  "statement": "In 1984 the AIADMK won 132 of 234 seats with 37.03% and MGR won a third term; turnout was 73.47%.",
+  "value": 132,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1984_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1984",
+   "1984 election",
+   "1984 தேர்தல்",
+   "aiadmk",
+   "mgr",
+   "எம்ஜிஆர்",
+   "third term",
+   "congress alliance"
+  ]
+ },
+ {
+  "id": "election-1989",
+  "topic": "history",
+  "statement": "In 1989, with the AIADMK split, the DMK won 150 of 234 seats with 33.18% and Karunanidhi returned as Chief Minister after 13 years; turnout was 69.69%.",
+  "value": 150,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1989_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1989",
+   "1989 election",
+   "1989 தேர்தல்",
+   "dmk",
+   "karunanidhi",
+   "கருணாநிதி",
+   "aiadmk split",
+   "jayalalithaa faction",
+   "janaki faction"
+  ]
+ },
+ {
+  "id": "election-1991",
+  "topic": "history",
+  "statement": "In 1991, held weeks after Rajiv Gandhi's assassination, the AIADMK won 164 of 234 seats with 44.39% and Jayalalithaa became Chief Minister, while the DMK won only 2; turnout was 63.84%.",
+  "value": 164,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1991_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1991",
+   "1991 election",
+   "1991 தேர்தல்",
+   "aiadmk",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "rajiv sympathy wave",
+   "dmk 2 seats",
+   "congress alliance"
+  ]
+ },
+ {
+  "id": "election-1996",
+  "topic": "history",
+  "statement": "In 1996 the DMK won 173 of 234 seats with 42.07% in alliance with the Tamil Maanila Congress (39 seats) and Karunanidhi became Chief Minister; turnout was 66.95%.",
+  "value": 173,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/1996_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "1996",
+   "1996 election",
+   "1996 தேர்தல்",
+   "dmk",
+   "karunanidhi",
+   "tmc",
+   "tamil maanila congress",
+   "தமாகா",
+   "moopanar",
+   "rajinikanth voice",
+   "anti-jayalalithaa wave"
+  ]
+ },
+ {
+  "id": "election-2001",
+  "topic": "history",
+  "statement": "In 2001 the AIADMK won 132 of 234 seats with 31.44% to the DMK's 31 seats and 30.92%, and Jayalalithaa returned as Chief Minister; turnout was 59.07%.",
+  "value": 132,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2001_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2001",
+   "2001 election",
+   "2001 தேர்தல்",
+   "aiadmk",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "2001 victory"
+  ]
+ },
+ {
+  "id": "election-2006",
+  "topic": "history",
+  "statement": "In 2006 the DMK won 96 of 234 seats with 26.46% and Karunanidhi formed a minority government backed by allies such as the Congress (34 seats), while the AIADMK won 61 seats with 32.64%; turnout was 70.82%.",
+  "value": 96,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2006_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2006",
+   "2006 election",
+   "2006 தேர்தல்",
+   "dmk",
+   "karunanidhi",
+   "minority government",
+   "சிறுபான்மை அரசு",
+   "congress support",
+   "colour tv",
+   "dmdk debut"
+  ]
+ },
+ {
+  "id": "election-2011",
+  "topic": "history",
+  "statement": "In 2011 the AIADMK won 150 of 234 seats with 38.40% and Jayalalithaa returned as Chief Minister, while Vijayakanth's DMDK (29 seats) beat the DMK (23) to second place.",
+  "value": 150,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2011_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2011",
+   "2011 election",
+   "2011 தேர்தல்",
+   "aiadmk",
+   "jayalalithaa",
+   "dmdk",
+   "தேமுதிக",
+   "vijayakanth",
+   "விஜயகாந்த்",
+   "2g impact",
+   "dmk 23 seats"
+  ]
+ },
+ {
+  "id": "election-2016",
+  "topic": "history",
+  "statement": "In 2016 the AIADMK won 136 of 234 seats with 41.06% and the AIADMK became the first ruling party re-elected since 1984, while the DMK won 89 with 31.86%.",
+  "value": 136,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2016_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2016",
+   "2016 election",
+   "2016 தேர்தல்",
+   "aiadmk",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "consecutive term",
+   "dmk 89 seats",
+   "people welfare front"
+  ]
+ },
+ {
+  "id": "election-2021",
+  "topic": "history",
+  "statement": "In 2021 the DMK won 133 of 234 seats (its alliance 159) with 37.70% and M. K. Stalin became Chief Minister, while the AIADMK won 66; turnout was 73.63%.",
+  "value": 133,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2021",
+   "2021 election",
+   "2021 தேர்தல்",
+   "dmk",
+   "திமுக",
+   "stalin",
+   "ஸ்டாலின்",
+   "159 seats",
+   "secular progressive alliance",
+   "மதச்சார்பற்ற முற்போக்குக் கூட்டணி",
+   "aiadmk 66"
+  ]
+ },
+ {
+  "id": "election-2026",
+  "topic": "history",
+  "statement": "In the 23 April 2026 election, counted on 4 May, the TVK won 108 of 234 seats with 34.92% of the vote, short of the 118 majority, against the DMK's 59 (24.19%) and the AIADMK's 47 (21.21%), producing Tamil Nadu's first hung Assembly.",
+  "value": 108,
+  "unit": "seats won by largest party",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-04",
+    "url": "https://www.dtnext.in/news/politics/tn-election-results-2026-tvk-leads-vote-share-with-3492-dmk-aiadmk-trail"
+   },
+   {
+    "outlet": "Scroll.in",
+    "date": "2026-05-04",
+    "url": "https://scroll.in/latest/1092557/tamil-nadu-assembly-election-results-counting-of-votes-to-begin-at-8-am"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "assembly election",
+   "சட்டமன்றத் தேர்தல்",
+   "sattamandra therthal",
+   "2026",
+   "2026 election",
+   "2026 தேர்தல்",
+   "tvk",
+   "தவெக",
+   "tamilaga vettri kazhagam",
+   "தமிழக வெற்றிக் கழகம்",
+   "vijay",
+   "விஜய்",
+   "hung assembly",
+   "108 seats",
+   "34.92%",
+   "dmk 59",
+   "aiadmk 47",
+   "2026 result",
+   "தேர்தல் முடிவு"
+  ]
+ },
+ {
+  "id": "election-2026-alliances",
+  "topic": "history",
+  "statement": "In 2026 the DMK-led alliance won 73 seats in all (DMK 59, Congress 5) and the AIADMK-led NDA 53 (AIADMK 47, BJP 1), and the AIADMK lost its main-opposition status to the DMK.",
+  "value": 73,
+  "unit": "seats for DMK-led alliance",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "spa",
+   "secular progressive alliance",
+   "nda",
+   "தேசிய ஜனநாயகக் கூட்டணி",
+   "bjp 1 seat",
+   "பாஜக",
+   "congress 5",
+   "alliance tally",
+   "opposition status"
+  ]
+ },
+ {
+  "id": "election-2026-turnout",
+  "topic": "history",
+  "statement": "Turnout in the 2026 Assembly election was a record 85.1% (revised from 84.69%), after a Special Intensive Revision of rolls left about 57.3 million eligible voters.",
+  "value": 85.1,
+  "unit": "per cent turnout",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "turnout",
+   "வாக்குப்பதிவு",
+   "vaakku pathivu",
+   "85.1%",
+   "record turnout",
+   "sir",
+   "special intensive revision",
+   "சிறப்பு தீவிர திருத்தம்",
+   "electoral rolls",
+   "வாக்காளர் பட்டியல்"
+  ]
+ },
+ {
+  "id": "election-2026-stalin-loses",
+  "topic": "history",
+  "statement": "Outgoing Chief Minister M. K. Stalin lost Kolathur in 2026 and resigned on 5 May, 15 of his ministers were defeated, and Vijay won both Perambur and Tiruchirappalli East, later giving up one seat.",
+  "value": 15,
+  "unit": "ministers defeated",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kolathur",
+   "கொளத்தூர்",
+   "stalin defeat",
+   "perambur",
+   "பெரம்பூர்",
+   "tiruchirappalli east",
+   "திருச்சி கிழக்கு",
+   "ministers defeated",
+   "edappadi"
+  ]
+ },
+ {
+  "id": "election-2026-dravidian-streak",
+  "topic": "history",
+  "statement": "The TVK's 2026 win ended 59 years of DMK or AIADMK rule that began in 1967, making it the first non-Dravidian major party to lead the Assembly since the 1960s.",
+  "value": 59,
+  "unit": "years of Dravidian-party rule ended",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamilaga_Vettri_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dravidian parties",
+   "திராவிடக் கட்சிகள்",
+   "59 years",
+   "end of dravidian rule",
+   "duopoly",
+   "dmk aiadmk alternation",
+   "non-dravidian"
+  ]
+ },
+ {
+  "id": "ls-2019",
+  "topic": "history",
+  "statement": "In the 2019 Lok Sabha election the DMK-led alliance won 38 of Tamil Nadu's 39 seats and the AIADMK, then in the NDA, won only Theni; turnout was 72.44%.",
+  "value": 38,
+  "unit": "seats of 39",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "lok sabha 2019",
+   "மக்களவைத் தேர்தல்",
+   "makkalavai",
+   "2019 general election",
+   "theni",
+   "தேனி",
+   "38 seats",
+   "mps",
+   "எம்பிக்கள்"
+  ]
+ },
+ {
+  "id": "ls-2024",
+  "topic": "history",
+  "statement": "In the 2024 Lok Sabha election the DMK-led INDIA bloc alliance swept all 39 Tamil Nadu seats, while the BJP-led NDA and the separate AIADMK front won none.",
+  "value": 39,
+  "unit": "seats of 39",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "lok sabha 2024",
+   "மக்களவைத் தேர்தல் 2024",
+   "india bloc",
+   "இந்தியா கூட்டணி",
+   "39/39",
+   "clean sweep",
+   "bjp zero",
+   "aiadmk zero"
+  ]
+ },
+ {
+  "id": "ls-2026-realignment",
+  "topic": "history",
+  "statement": "After the May 2026 Assembly result the Congress, VCK and IUML MPs moved with the TVK-led coalition, leaving the DMK camp with 27 of Tamil Nadu's Lok Sabha seats and the TVK-led alliance with 12.",
+  "value": 27,
+  "unit": "Lok Sabha seats with DMK camp",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "mps",
+   "lok sabha realignment",
+   "congress mps",
+   "vck",
+   "iuml",
+   "secular social justice victory alliance",
+   "27 seats",
+   "12 seats"
+  ]
+ },
+ {
+  "id": "jayalalithaa-death",
+  "topic": "history",
+  "statement": "Chief Minister J. Jayalalithaa died in office on 5 December 2016, having been admitted to Apollo Hospital, Chennai, on 22 September 2016, and O. Panneerselvam was sworn in as Chief Minister the next day.",
+  "value": "2016-12-05",
+  "unit": "date of death",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_J._Jayalalithaa"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "jayalalithaa death",
+   "ஜெயலலிதா மரணம்",
+   "apollo",
+   "அப்பல்லோ",
+   "arumughaswamy commission",
+   "december 5 2016",
+   "amma death"
+  ]
+ },
+ {
+  "id": "ops-sasikala-eps-2017",
+  "topic": "history",
+  "statement": "After the Supreme Court convicted V. K. Sasikala on 14 February 2017, ending her bid to become Chief Minister, her nominee Edappadi K. Palaniswami was sworn in on 16 February 2017, replacing O. Panneerselvam, who had rebelled against her.",
+  "value": "2017-02-16",
+  "unit": "date EPS sworn in",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/V._K._Sasikala"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sasikala",
+   "சசிகலா",
+   "chinnamma",
+   "சின்னம்மா",
+   "ops revolt",
+   "dharma yudham",
+   "தர்ம யுத்தம்",
+   "eps",
+   "இபிஎஸ்",
+   "edappadi",
+   "எடப்பாடி",
+   "koovathur",
+   "கூவத்தூர்"
+  ]
+ },
+ {
+  "id": "aiadmk-merger-2017",
+  "topic": "history",
+  "statement": "The Panneerselvam and Palaniswami factions merged in August 2017 and expelled Sasikala from the party in September 2017; she was released from prison in January 2021.",
+  "value": 2017,
+  "unit": "year of merger",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/V._K._Sasikala"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/O._Panneerselvam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "aiadmk merger",
+   "அதிமுக இணைப்பு",
+   "ops eps",
+   "sasikala expelled",
+   "ttv dhinakaran",
+   "ammk",
+   "அமமுக"
+  ]
+ },
+ {
+  "id": "eps-general-secretary-2022",
+  "topic": "history",
+  "statement": "Edappadi K. Palaniswami became AIADMK general secretary on 11 July 2022, the year O. Panneerselvam and two other MLAs backing him were expelled from the party.",
+  "value": "2022-07-11",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Edappadi_K._Palaniswami"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "general secretary",
+   "பொதுச் செயலாளர்",
+   "ops expelled",
+   "single leadership",
+   "ஒற்றைத் தலைமை",
+   "aiadmk leadership"
+  ]
+ },
+ {
+  "id": "aiadmk-bjp-2023-2025",
+  "topic": "history",
+  "statement": "The AIADMK left the BJP-led NDA on 25 September 2023, the two fought the 2024 Lok Sabha poll separately and won nothing, and they reunited on 11 April 2025 with Palaniswami as the chief ministerial face.",
+  "value": "2025-04-11",
+  "unit": "date of reunion",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "aiadmk bjp alliance",
+   "அதிமுக பாஜக கூட்டணி",
+   "nda",
+   "annamalai",
+   "அண்ணாமலை",
+   "2023 split",
+   "2025 reunion",
+   "amit shah"
+  ]
+ },
+ {
+  "id": "karunanidhi-death",
+  "topic": "history",
+  "statement": "M. Karunanidhi died on 7 August 2018, and M. K. Stalin, whom he had named his successor in 2013 and who had been working president since January 2017, became DMK president on 28 August 2018.",
+  "value": "2018-08-07",
+  "unit": "date of death",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._Karunanidhi"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/M._K._Stalin"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "karunanidhi death",
+   "கலைஞர் மறைவு",
+   "kalaignar",
+   "marina burial",
+   "stalin dmk president",
+   "திமுக தலைவர்"
+  ]
+ },
+ {
+  "id": "sterlite-firing-2018",
+  "topic": "history",
+  "statement": "Police firing on anti-Sterlite protesters in Thoothukudi on 22-23 May 2018 killed 13 people, and the state ordered the copper smelter sealed on 28 May 2018.",
+  "value": 13,
+  "unit": "killed",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2018_Thoothukudi_protest_shooting"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sterlite",
+   "ஸ்டெர்லைட்",
+   "thoothukudi firing",
+   "தூத்துக்குடி துப்பாக்கிச் சூடு",
+   "tuticorin",
+   "vedanta",
+   "13 killed",
+   "police firing"
+  ]
+ },
+ {
+  "id": "sterlite-commission-2022",
+  "topic": "history",
+  "statement": "The Justice Aruna Jagadeesan Commission reported in August 2022 that police used excessive force at Thoothukudi and recommended action against senior officers.",
+  "value": "2022-08-19",
+  "unit": "date reported",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2018_Thoothukudi_protest_shooting"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "aruna jagadeesan",
+   "அருணா ஜெகதீசன்",
+   "commission of inquiry",
+   "thoothukudi commission",
+   "police officers action",
+   "sterlite"
+  ]
+ },
+ {
+  "id": "jallikattu-2017",
+  "topic": "history",
+  "statement": "Mass protests at Chennai's Marina beach in January 2017 against the Supreme Court's ban on jallikattu led the state to pass a law allowing the bull-taming sport.",
+  "value": 2017,
+  "unit": "year",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2017_pro-jallikattu_protests"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "jallikattu",
+   "ஜல்லிக்கட்டு",
+   "marina protest",
+   "மெரினா போராட்டம்",
+   "bull taming",
+   "ஏறுதழுவுதல்",
+   "peta",
+   "2017 protests"
+  ]
+ },
+ {
+  "id": "sivaji-tmm-1988",
+  "topic": "history",
+  "statement": "Actor Sivaji Ganesan left the Congress to found the Thamizhaga Munnetra Munnani on 10 February 1988; allied with the Janaki faction, it lost every seat in 1989, including his own at Thiruvaiyaru, and was dissolved that December.",
+  "value": "1988-02-10",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Sivaji_Ganesan"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Thamizhaga_Munnetra_Munnani"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "sivaji ganesan",
+   "சிவாஜி கணேசன்",
+   "thamizhaga munnetra munnani",
+   "தமிழக முன்னேற்ற முன்னணி",
+   "film star party",
+   "actor politics",
+   "நடிகர் அரசியல்",
+   "thiruvaiyaru"
+  ]
+ },
+ {
+  "id": "dmdk-2005-2006",
+  "topic": "history",
+  "statement": "Actor Vijayakanth founded the DMDK in Madurai on 14 September 2005; contesting all 234 seats alone in 2006, it won only his own seat, Virudhachalam, but polled 8.38%.",
+  "value": 8.38,
+  "unit": "per cent vote share 2006",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Desiya_Murpokku_Dravida_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Vijayakanth"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dmdk",
+   "தேமுதிக",
+   "desiya murpokku dravida kazhagam",
+   "vijayakanth",
+   "விஜயகாந்த்",
+   "captain",
+   "கேப்டன்",
+   "virudhachalam",
+   "premalatha",
+   "பிரேமலதா"
+  ]
+ },
+ {
+  "id": "dmdk-2011-lop",
+  "topic": "history",
+  "statement": "Allied with the AIADMK in 2011, the DMDK won 29 seats and Vijayakanth was Leader of the Opposition from 2011 to 2016; he died on 28 December 2023.",
+  "value": 29,
+  "unit": "seats in 2011",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Vijayakanth"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Desiya_Murpokku_Dravida_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vijayakanth",
+   "விஜயகாந்த்",
+   "leader of the opposition",
+   "எதிர்க்கட்சித் தலைவர்",
+   "dmdk 29 seats",
+   "rishivandiyam",
+   "captain death"
+  ]
+ },
+ {
+  "id": "mnm-2018",
+  "topic": "history",
+  "statement": "Kamal Haasan founded Makkal Needhi Maiam in Madurai on 21 February 2018; he lost Coimbatore South narrowly in 2021, joined the DMK camp, and took a Rajya Sabha seat on 25 July 2025.",
+  "value": "2018-02-21",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Makkal_Needhi_Maiam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Kamal_Haasan"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "kamal haasan",
+   "கமல்ஹாசன்",
+   "makkal needhi maiam",
+   "மக்கள் நீதி மய்யம்",
+   "mnm",
+   "coimbatore south",
+   "rajya sabha",
+   "vanathi srinivasan"
+  ]
+ },
+ {
+  "id": "rajinikanth-withdrawal",
+  "topic": "history",
+  "statement": "Rajinikanth announced his entry into politics on 31 December 2017 but said on 29 December 2020 that he would not launch a party, citing his health.",
+  "value": "2020-12-29",
+  "unit": "date of withdrawal",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Rajinikanth"
+   },
+   {
+    "outlet": "The Tribune",
+    "date": "2020-12-30",
+    "url": "https://www.tribuneindia.com/news/nation/citing-health-reasons-rajini-scraps-political-plunge-plan-191152"
+   },
+   {
+    "outlet": "Onmanorama",
+    "date": "2020-12-29",
+    "url": "https://www.onmanorama.com/news/india/2020/12/29/actor-rajinikanth-puts-political-foray-on-hold.html"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "rajinikanth",
+   "ரஜினிகாந்த்",
+   "rajini",
+   "ரஜினி",
+   "political entry",
+   "not entering politics",
+   "god warning",
+   "superstar"
+  ]
+ },
+ {
+  "id": "tvk-founded-2024",
+  "topic": "history",
+  "statement": "Actor C. Joseph Vijay founded the Tamilaga Vettri Kazhagam on 2 February 2024, headquartered at Panaiyur, Chennai, saying it would contest the 2026 election.",
+  "value": "2024-02-02",
+  "unit": "date founded",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamilaga_Vettri_Kazhagam"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tvk",
+   "தவெக",
+   "tamilaga vettri kazhagam",
+   "தமிழக வெற்றிக் கழகம்",
+   "vijay party",
+   "thalapathy",
+   "தளபதி",
+   "panaiyur",
+   "பனையூர்"
+  ]
+ },
+ {
+  "id": "tvk-vikravandi-2024",
+  "topic": "history",
+  "statement": "The TVK held its first state conference at Vikravandi in Villupuram district on 27 October 2024, where Vijay set out the party's ideology.",
+  "value": "2024-10-27",
+  "unit": "date",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2024-10-27",
+    "url": "https://www.thenewsminute.com/tamil-nadu/vijays-tvk-conference-in-vikravandi-a-timeline-of-events"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "accessed 2026-11-11",
+    "url": "https://www.deccanherald.com/india/tamil-nadu/partys-first-state-conference-on-oct-27-tvk-chief-vijay-3199151"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "vikravandi",
+   "விக்கிரவாண்டி",
+   "tvk conference",
+   "மாநாடு",
+   "maanadu",
+   "villupuram",
+   "விழுப்புரம்",
+   "first state conference",
+   "tvk ideology"
+  ]
+ },
+ {
+  "id": "karur-crush-2025",
+  "topic": "history",
+  "statement": "On 27 September 2025 at least 41 people were killed in a crowd crush at a TVK campaign rally addressed by Vijay near Karur.",
+  "value": 41,
+  "unit": "deaths",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2025_Karur_crowd_crush"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamilaga_Vettri_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "karur",
+   "கரூர்",
+   "karur stampede",
+   "கரூர் கூட்ட நெரிசல்",
+   "crowd crush",
+   "கூட்ட நெரிசல்",
+   "41 dead",
+   "tvk rally",
+   "velusamypuram"
+  ]
+ },
+ {
+  "id": "karur-cbi-probe",
+  "topic": "history",
+  "statement": "On 13 October 2025 the Supreme Court transferred the Karur crush investigation to the CBI under a supervisory committee headed by retired judge Ajay Rastogi; the CBI probe is pending and no court has found any person or party responsible.",
+  "value": "2025-10-13",
+  "unit": "date of transfer order",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Supreme Court Observer",
+    "date": "2025-10-14",
+    "url": "https://www.scobserver.in/journal/supreme-court-orders-cbi-probe-into-karur-stampede-constitutes-retired-judge-led-oversight-panel/"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2025_Karur_crowd_crush"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "karur cbi",
+   "கரூர் சிபிஐ",
+   "cbi probe",
+   "ajay rastogi",
+   "supervisory committee",
+   "karur investigation",
+   "pending probe"
+  ]
+ },
+ {
+  "id": "tvk-state-party-2026",
+  "topic": "history",
+  "statement": "The Election Commission recognised the TVK as a state party in Tamil Nadu on 10 September 2026 and confirmed the whistle as its reserved symbol.",
+  "value": "2026-09-10",
+  "unit": "date recognised",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Tamilaga_Vettri_Kazhagam"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "tvk symbol",
+   "whistle",
+   "விசில்",
+   "state party recognition",
+   "மாநிலக் கட்சி அங்கீகாரம்",
+   "reserved symbol"
+  ]
+ },
+ {
+  "id": "stalin-2021-government",
+  "topic": "history",
+  "statement": "M. K. Stalin was sworn in as Chief Minister on 7 May 2021, heading the DMK's first government with a majority of its own since 1996, and served until 9 May 2026.",
+  "value": "2021-05-07",
+  "unit": "date sworn in",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "stalin",
+   "ஸ்டாலின்",
+   "stalin government",
+   "dravidian model",
+   "திராவிட மாடல்",
+   "dmk government 2021",
+   "magalir urimai thogai"
+  ]
+ },
+ {
+  "id": "periyar-life",
+  "topic": "history",
+  "statement": "E. V. Ramasamy (Periyar), who led the Self-Respect Movement and the Dravidar Kazhagam, is the ideological founder of Dravidian politics claimed by the DMK, AIADMK and others.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Periyar"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravidian_movement"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "periyar",
+   "பெரியார்",
+   "thanthai periyar",
+   "தந்தை பெரியார்",
+   "dravidian ideology",
+   "திராவிடம்",
+   "periyarism",
+   "rationalist"
+  ]
+ },
+ {
+  "id": "dravidian-movement",
+  "topic": "history",
+  "statement": "The Dravidian movement grew from the Justice Party and Self-Respect Movement, and parties descended from it, the DMK and AIADMK, governed Tamil Nadu without a break from 1967 to 2026.",
+  "value": 1967,
+  "unit": "year Dravidian rule began",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Dravidian_movement"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "dravidian movement",
+   "திராவிட இயக்கம்",
+   "dravida iyakkam",
+   "dravidian parties",
+   "திராவிடக் கட்சிகள்",
+   "dravidian model"
+  ]
+ },
+ {
+  "id": "film-politics-pattern",
+  "topic": "history",
+  "statement": "Tamil Nadu has had several actor-politicians as Chief Minister: M. G. Ramachandran, V. N. Janaki, J. Jayalalithaa and, from 2026, C. Joseph Vijay, whose TVK was the first actor-led party since MGR's AIADMK in 1977 to top the poll in its debut Assembly election.",
+  "value": 1977,
+  "unit": "year of the previous such debut win",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "actor politics",
+   "நடிகர் அரசியல்",
+   "cinema and politics",
+   "film star cm",
+   "mgr",
+   "vijay",
+   "jayalalithaa",
+   "fan clubs",
+   "ரசிகர் மன்றம்"
+  ]
+ },
+ {
+  "id": "madras-presidency",
+  "topic": "history",
+  "statement": "Before 1947 most of present Tamil Nadu formed part of the British Madras Presidency, whose legislature saw Justice Party ministries from 1920 to 1937 and Rajaji's first Congress ministry in 1937.",
+  "value": 1937,
+  "unit": "year first Congress ministry",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Madras_Presidency"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Justice_Party_(India)"
+   },
+   {
+    "outlet": "Wikipedia",
+    "date": "accessed 2026-11-11",
+    "url": "https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu"
+   }
+  ],
+  "as_of": "2026-11-11",
+  "keywords": [
+   "madras presidency",
+   "சென்னை மாகாணம்",
+   "chennai maagaanam",
+   "british rule",
+   "1937 ministry",
+   "rajaji ministry"
+  ]
+ }
+]
