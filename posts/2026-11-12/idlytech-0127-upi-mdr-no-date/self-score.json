@@ -1,0 +1,12 @@
+{
+ "stage": "gate4 (final card): UPI 0.4% fee, no start date",
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 14,
+ "notes": "Weakest checks, honestly: hook (a status story: the news is the absence of a date, not a new decision; the reviewer may cut to 1) and send (relies on the shopkeeper in the family / 'UPI will cost you' rumour reader). Keep is strong (rate, cap, worked examples, exemptions). Alone fixed by the slide-4 label naming the UPI fee. Image is a Commons QR standee (actual object), cropped so the live QR doesn't decode."
+}

@@ -1,0 +1,56 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0127-upi-mdr-no-date",
+ "date": "12 Nov 2026",
+ "sources": [
+  "NPCI",
+  "Business Today",
+  "IANS"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "UPI's 0.4% Fee Above ₹2,000 Still Has No Start Date",
+   "photo": "_work/2026-11-12-hourly-0127/tech/photos/upi_bhopal.jpg",
+   "photo_credit": "Photo: Suyash.dwivedi / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.34
+   ],
+   "zoom": 1.34
+  },
+  {
+   "type": "detail",
+   "stat": "₹12",
+   "stat_label": "Shop's Fee on a ₹3,000 UPI Payment",
+   "bullets": [
+    "₹200 on ₹50,000; capped at ₹300 from ₹75,000",
+    "Rail, fuel, insurance, telecom bills: flat ₹5 instead",
+    "Finance Ministry: about 96% of shop payments unaffected"
+   ],
+   "credit_line": "Sources: NPCI FAQ, Business Today, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "₹0",
+   "stat_label": "Direct UPI Fee for Customers",
+   "bullets": [
+    "NPCI bars shops from adding it to your bill",
+    "Transfers to friends and family stay free, any amount",
+    "Small QR shops, up to ₹1 lakh monthly: exempt"
+   ],
+   "credit_line": "Sources: NPCI FAQ, Business Today, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "15 OCT",
+   "stat_label": "UPI Fee's Original Start Date, Now Deferred",
+   "bullets": [
+    "Deferred on 13 Oct for the festive season",
+    "No new date notified as of 10 Nov",
+    "January start reported, not confirmed by NPCI"
+   ],
+   "credit_line": "Sources: The Week, Business Today, IANS"
+  }
+ ]
+}

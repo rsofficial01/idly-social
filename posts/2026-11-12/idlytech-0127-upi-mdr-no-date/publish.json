@@ -1,0 +1,16 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/01.jpg",
+  "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/02.jpg",
+  "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/03.jpg",
+  "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/alt.txt",
+ "score_file": "posts/2026-11-12/idlytech-0127-upi-mdr-no-date/score.json",
+ "title": "NPCI's 0.4% merchant discount rate on eligible P2M UPI payments above ₹2,000 (₹300 cap from ₹75,000; flat ₹5 for railway/fuel/insurance/telecom) still has no start date: due 15 Oct 2026, deferred 13 Oct by NPCI's UPI and Services Steering Committee for the festive season, date to be notified separately; none notified as of 10 Nov (IANS, Business Today). Merchant pays, not the customer (NPCI FAQ: ₹12 on ₹3,000, ₹200 on ₹50,000); P2P free; small QR merchants up to ₹1 lakh a month exempt; Finance Ministry: about 96% of UPI merchant payments unaffected; January start reported, not confirmed",
+ "tags": []
+}

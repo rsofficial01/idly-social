@@ -1,0 +1,133 @@
+{
+ "account": "idlytech",
+ "title": "NPCI's 0.4% merchant discount rate on eligible P2M UPI payments above ₹2,000 (₹300 cap from ₹75,000; flat ₹5 for railway/fuel/insurance/telecom) still has no start date: due 15 Oct 2026, deferred 13 Oct by NPCI's UPI and Services Steering Committee for the festive season, date to be notified separately; none notified as of 10 Nov (IANS, Business Today). Merchant pays, not the customer (NPCI FAQ: ₹12 on ₹3,000, ₹200 on ₹50,000); P2P free; small QR merchants up to ₹1 lakh a month exempt; Finance Ministry: about 96% of UPI merchant payments unaffected; January start reported, not confirmed",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "NPCI (UPI MDR FAQs, 15 Sep 2026, via SCC Online)",
+   "date": "16 Sep 2026",
+   "url": "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "10 Nov 2026",
+   "url": "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  },
+  {
+   "outlet": "IANS (via Social News XYZ)",
+   "date": "10 Nov 2026",
+   "url": "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali"
+  },
+  {
+   "outlet": "IANS (via Nagaland Post)",
+   "date": "10 Nov 2026",
+   "url": "https://nagalandpost.com/merchants-await-clarity-on-upi-mdr-rollout-after-diwali/"
+  },
+  {
+   "outlet": "The Week",
+   "date": "13 Oct 2026",
+   "url": "https://www.theweek.in/news/biz-tech/2026/10/13/npci-defers-upi-mdr-until-after-diwali.amp.html"
+  },
+  {
+   "outlet": "Inc42",
+   "date": "8 Oct 2026",
+   "url": "https://inc42.com/buzz/upi-mdr-rollout-may-be-deferred-to-january-2027-amid-pushback-by-retailers/"
+  }
+ ],
+ "fact_sources": {
+  "0.4% MDR on eligible P2M UPI payments above ₹2,000": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "Due 15 Oct; deferred 13 Oct by NPCI's UPI and Services Steering Committee for the festive season; date to be notified separately": [
+   "https://www.theweek.in/news/biz-tech/2026/10/13/npci-defers-upi-mdr-until-after-diwali.amp.html",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali"
+  ],
+  "No new date notified as of 10 Nov": [
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "Merchant pays, not the customer": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "₹12 on a ₹3,000 payment; ₹200 on ₹50,000": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "₹300 cap from ₹75,000": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "Flat ₹5 for railway, fuel, insurance and telecom payments above ₹2,000": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "About 96% of UPI merchant payments unaffected (Finance Ministry)": [
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10",
+   "https://inc42.com/buzz/upi-mdr-rollout-may-be-deferred-to-january-2027-amid-pushback-by-retailers/"
+  ],
+  "NPCI bars merchants passing the fee on; UPI apps can't add a platform fee": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "Shops could still adjust prices (attributed to Business Today)": [
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "P2P transfers free at any amount": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.socialnews.xyz/2026/11/10/merchants-await-clarity-on-upi-mdr-rollout-after-diwali",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "Small merchants receiving up to ₹1 lakh a month via UPI QR exempt": [
+   "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10"
+  ],
+  "January start reported, not confirmed by NPCI": [
+   "https://www.businesstoday.in/latest/economy/story/upi-payments-above-rs2000-to-attract-0-4-mdr-after-diwali-who-pays-who-is-exempt-and-when-charges-begin-566737-2026-11-10",
+   "https://inc42.com/buzz/upi-mdr-rollout-may-be-deferred-to-january-2027-amid-pushback-by-retailers/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Bhim_upi_ID_to_accept_entrance_fee_at_Shaurya_Smarak_Bhopal.jpg",
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bhim_upi_ID_to_accept_entrance_fee_at_Shaurya_Smarak_Bhopal.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Suyash.dwivedi",
+  "width": 2037,
+  "height": 2717,
+  "local": "_work/2026-11-12-hourly-0127/tech/photos/upi_bhopal.jpg",
+  "local_size": [
+   1920,
+   2561
+  ],
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Suyash.dwivedi / Wikimedia Commons, CC BY-SA 4.0",
+  "subject": "A 'BHIM / UPI Accepted Here' merchant QR standee (Indian Bank, old Allahabad Bank branding) at a payment counter in Bhopal",
+  "qr_check": "Crop excludes the bottom-left QR finder pattern and the VPA/'Pay To' strip; cv2.QRCodeDetector and QRCodeDetectorAruco return '' on 01-04.jpg (full source decodes, as control)"
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: Commons photo by an individual photographer; NPCI is not the image owner",
+ "cover": {
+  "focal": [
+   0.5,
+   0.34
+  ],
+  "zoom": 1.34,
+  "upscale": 0.754,
+  "note": "Reviewer-tested crop: source box (244,0,1676,1791) of 1920x2561; downscale only, no blur or compositing"
+ },
+ "gates": {
+  "gate1": "BUILD with fixes 1-6 (_work/2026-11-12-hourly-0127/reviews/tech-g1.md); Pixel Drop dropped, Anthropic IPO not built",
+  "gate23": "Picture PASS; copy FIX 1-3 applied (_work/2026-11-12-hourly-0127/reviews/tech-g23.md)",
+  "gate4": "PASS (blind reviewer 14/14, no HOLD; QR non-decodable verified on final files); _work/2026-11-12-hourly-0127/reviews/tech-g4.md"
+ }
+}
