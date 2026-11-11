@@ -1611,5 +1611,23 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-1628-yuge-yugeen-museum/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18196653772395765",
+    "permalink": "https://www.instagram.com/p/DfmXCb7l-0V/",
+    "posted_at": "2026-11-11T11:20:30+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-1628-dragon-quest-beta/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-1628-dragon-quest-beta/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-1628-dragon-quest-beta/03.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "squareenix"
+    ]
   }
 ]
