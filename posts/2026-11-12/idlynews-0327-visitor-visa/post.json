@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0327-visitor-visa",
+ "date": "12 Nov 2026",
+ "sources": [
+  "MHA (PIB)",
+  "The Indian Express",
+  "Hindustan Times"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tourist Visa Becomes 'Visitor Visa'; Forms Up to 70% Shorter",
+   "photo": "_work/2026-11-12-hourly-0327/news/framing_visa/cover_source.png",
+   "photo_credit": "Photo: Sgroey / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "30 DAYS",
+   "stat_label": "Visitor Visa V-1, With Multiple Entries",
+   "bullets": [
+    "Tourism plus business meetings and medical consultations",
+    "Also wellness retreats, short courses in Indian languages",
+    "Longer V-2: valid one, five or 10 years"
+   ],
+   "credit_line": "Sources: MHA statement (PIB), Hindustan Times, The Indian Express"
+  },
+  {
+   "type": "detail",
+   "stat": "1 YEAR",
+   "stat_label": "Medical Visas, Multiple Entries by Default",
+   "bullets": [
+    "AYUSH treatment gets its own visa, M-3",
+    "Attendants travel on M-2 and M-4 visas",
+    "May mean fewer repeat applications mid-treatment, MHA says"
+   ],
+   "credit_line": "Sources: MHA statement (PIB), The Indian Express"
+  },
+  {
+   "type": "detail",
+   "stat": "13 → 9",
+   "stat_label": "Main Visa Categories After the 27 Aug Cut",
+   "bullets": [
+    "Sub-categories 49 to 23: easier to pick one",
+    "Study in India students: e-S1 up to five years",
+    "Not in use yet; no start date notified"
+   ],
+   "credit_line": "Sources: MHA statement (PIB), The Indian Express, Hindustan Times"
+  }
+ ]
+}
