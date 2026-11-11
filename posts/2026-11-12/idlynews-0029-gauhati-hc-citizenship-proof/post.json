@@ -1,0 +1,44 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0029-gauhati-hc-citizenship-proof",
+  "date": "12 Nov 2026",
+  "sources": [
+    "LiveLaw",
+    "Scroll"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gauhati HC: PAN, Voter ID Not Citizenship Proof Without Records",
+      "photo": "_work/2026-11-12-hourly-0029/news/framing_hc/cover_source.png",
+      "photo_credit": "Photo: Pinakpani / Wikimedia Commons, CC BY 4.0 (cropped)",
+      "focal": [
+        0.328,
+        0.68
+      ],
+      "zoom": 1.5
+    },
+    {
+      "type": "detail",
+      "stat": "5 NOV ",
+      "stat_label": "Gauhati HC Ruling on PAN, Voter ID",
+      "bullets": [
+        "Both are issued on self-declaration, without formal verification",
+        "Records used to issue them must also be proved",
+        "Matters for families facing Foreigners Tribunals in Assam"
+      ],
+      "credit_line": "Sources: LiveLaw, Scroll"
+    },
+    {
+      "type": "detail",
+      "stat": "1971",
+      "stat_label": "Assam's Citizenship Cut-Off Year Under Section 6A",
+      "bullets": [
+        "Petitioner had to prove family's continuous residence in Assam",
+        "Old voter lists failed without a proved parent link",
+        "Ration card failed too; NRC receipt's original wasn't produced"
+      ],
+      "credit_line": "Sources: LiveLaw, Scroll"
+    }
+  ]
+}
