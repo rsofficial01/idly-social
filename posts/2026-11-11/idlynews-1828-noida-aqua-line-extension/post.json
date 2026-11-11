@@ -1,0 +1,45 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1828-noida-aqua-line-extension",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Press Information Bureau",
+    "The Hindu",
+    "Hindustan Times",
+    "Mint",
+    "The Economic Times"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Cabinet Clears ₹2,390 Crore Metro to Greater Noida West",
+      "photo": "_work/2026-11-11-hourly-1828/news/frame/cover_source.png",
+      "photo_credit": "Photo: Santosh4118 / Wikimedia Commons, CC BY-SA 4.0",
+      "focal": [
+        0.506,
+        0.62
+      ],
+      "zoom": 1.1
+    },
+    {
+      "type": "detail",
+      "stat": "8.449 KM",
+      "stat_label": "New Aqua Line Stretch, Five Elevated Stations",
+      "bullets": [
+        "Links Noida Sector 51 with Greater Noida Sector 4",
+        "Change at Sector 61 for Delhi's Blue Line"
+      ],
+      "credit_line": "Sources: Press Information Bureau, Hindustan Times, Mint"
+    },
+    {
+      "type": "detail",
+      "stat": "4 YEARS",
+      "stat_label": "Expected Time to Build the Aqua Line Extension",
+      "bullets": [
+        "Serves Gaur City, Cleo County and Sector 60 offices",
+        "Links riders to Delhi's airport and railway stations"
+      ],
+      "credit_line": "Sources: Press Information Bureau, Hindustan Times, Mint, The Economic Times"
+    }
+  ]
+}

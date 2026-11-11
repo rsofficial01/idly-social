@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Keep 1: route, interchange and build time are useful but it's a 4-year project, nothing to act on now. Send 2 for NCR commuters. Kept out of packets and the post folder."
+}

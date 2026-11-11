@@ -1,0 +1,99 @@
+{
+ "account": "idlynews",
+ "title": "Union Cabinet (11 Nov 2026) approves ₹2,390 crore Noida Metro Aqua Line extension, Noida Sector 51 to Greater Noida Sector 4 (Greater Noida West): 8.449 km, five elevated stations, interchange with Delhi Metro Blue Line at Noida Sector 61; Noida-Greater Noida network to 71.878 km; about four years to build (Mint, ET); serves Gaur City 1 & 2, Cleo County, Sector 60 offices (PIB); announced by Ashwini Vaishnaw",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Press Information Bureau",
+   "date": "11 Nov 2026 (3:08 PM)",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "11 Nov 2026 (6:10 PM)",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "11 Nov 2026",
+   "url": "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html"
+  },
+  {
+   "outlet": "Mint",
+   "date": "11 Nov 2026",
+   "url": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html"
+  },
+  {
+   "outlet": "The Economic Times",
+   "date": "11 Nov 2026",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms"
+  },
+  {
+   "outlet": "Business Standard",
+   "date": "11 Nov 2026",
+   "url": "https://www.business-standard.com/india-news/cabinet-clears-aqua-line-extension-from-noida-sec-51-to-greater-noida-sec-4-126111100859_1.html"
+  }
+ ],
+ "fact_sources": {
+  "Cabinet approved Aqua Line extension Noida Sector 51 to Greater Noida Sector 4, 8.449 km, five elevated stations": [
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969 ('length of 8.449 Km with 5 elevated stations')",
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('approved an 8.449-km extension ... five elevated stations')",
+   "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece ('with a length of 8.449 kilometres and five elevated stations')"
+  ],
+  "Cost ₹2,390 crore, announced by Union Minister Ashwini Vaishnaw": [
+   "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms ('Ashwini Vaishnaw on Wednesday announced the Cabinet's approval for the Rs 2,390-crore ... extension')",
+   "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece ('at an estimated cost of ₹2,390 crore')",
+   "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html ('cleared ₹2,390 crore for an 8.449-km extension')"
+  ],
+  "Interchange with Delhi Metro Blue Line at Noida Sector 61": [
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969 ('interchange at Noida Sector-61 Blue Line')",
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('interchange facility with the Delhi Metro's Blue Line at Noida Sector 61')",
+   "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html"
+  ],
+  "Noida-Greater Noida network becomes 71.878 km": [
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969 ('will have 71.878 Km of active Metro Rail Network')",
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('to 71.878 km')"
+  ],
+  "Greater Noida Sector 4 = Greater Noida West (Gaur City)": [
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('direct Delhi Metro connectivity to Noida and Greater Noida West')",
+   "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms (headline 'Noida to Greater Noida West Metro')",
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969 ('gaur City 1 & 2 at Greater Noida Sector-04')"
+  ],
+  "About four years to build (attributed to Mint and ET)": [
+   "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html ('is expected to be completed in four years')",
+   "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms ('expected to be completed within four years')"
+  ],
+  "Serves Gaur City 1 & 2, Cleo County (Sector 122), Gaur City Mall, Tech Mahindra/TCL Tech offices in Sector 60": [
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969",
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('Cleo County in Sector 122 and Gaur City 1 and 2 in Greater Noida Sector 4'; 'Tech Mahindra and TCL Tech in Sector 60')"
+  ],
+  "Access to Delhi's airport and railway stations via the interchange": [
+   "https://pib.gov.in/PressReleasePage.aspx?PRID=2334969 ('Delhi's Airport, Delhi's Railway Stations and various Bus Depots')",
+   "https://economictimes.indiatimes.com/industry/transportation/railways/noida-to-greater-noida-west-metro-gets-rs-2390-crore-boost-8-5-km-aqua-line-extension-to-have-five-new-stations-check-route-interchange-completion-timeline/articleshow/135732651.cms ('reach the Indira Gandhi International (IGI) Airport ... New Delhi, Anand Vihar and Hazrat Nizamuddin railway stations')",
+   "https://www.hindustantimes.com/india-news/noida-greater-noida-west-aqua-line-direct-connectivity-blue-line-delhi-metro-centre-union-cabinet-clears-extension-101794391767117.html ('including Delhi airport, railway stations and bus depots')"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Noida_Sector_61_metro_station.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Noida_Sector_61_metro_station.jpg/3840px-Noida_Sector_61_metro_station.jpg (3840x2880 standard thumb of the 4000x3000 original; saved unaltered as _work/2026-11-11-hourly-1828/news/img/s61_3840.jpg; sha256 a9e0cfa4f9cb58084824ec721b0f08848d73dec80ad1e990bb18530b3ef16fdf)",
+  "owner": "Santosh4118 (Wikimedia Commons user, own work)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Santosh4118",
+  "credit": "Photo: Santosh4118 / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "3840x2880 (original 4000x3000)",
+  "description": "Platform of Noida Sector 61 metro station (existing Delhi Metro Blue Line station, the new Aqua Line extension's interchange) with the 'Sector 61 Noida' roundel; taken 21 Sep 2022; no people in crop",
+  "focal": [
+   0.506,
+   0.62
+  ],
+  "zoom": 1.1,
+  "upscale": 0.52,
+  "faces": 0,
+  "viewed": true,
+  "framing": "pipeline.framing ok (focal 0.5,0.5 zoom 1.0 upscale 0.47 faces 0); overridden to focal [0.506,0.62] zoom 1.1 so the roundel sits clear of logo and headline and the vertical credit runs over the dark blue pillar and railings (Gate 3 fix); a narrow strip of a small notice board is cut at the right edge"
+ },
+ "tags": [],
+ "tags_confirmed": "none: image owner is an individual Commons user, no brand handle"
+}
