@@ -1,0 +1,32 @@
+{
+ "account": "idlynerd",
+ "title": "Marathon (Bungie) is free to play from 8 to 15 December 2026 (Open Play Week, alongside the Symbiosis update for all players on 8 Dec): Expedition Phase 1 (first PvE-only mode, co-op), 3v3 Deathmatch beta, Bishop Runner shell; ₹2,449 on Steam India today; consoles need a paid online subscription (PS Blog)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+  "https://gameinformer.com/2026/11/10/marathons-symbiosis-update-adds-host-of-new-modes-including-permanent-pve-next-month",
+  "https://store.steampowered.com/app/3065800/ (Steam store API cc=in, checked 11 Nov 2026: INR 2,449, no discount)"
+ ],
+ "photo_source": {
+  "page": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+  "file": "https://blog.playstation.com/tachyon/2048/11/475e02e6da09723fe2dd0469175d593a7c1fee39.jpg (the post's og:image and hero; 1920x1080; saved unaltered as _work/2026-11-11-hourly-0727/idlynerd/photos/marathon-symbiosis-psblog.jpg, sha1 a09b38f29b5e31367d272ecab4301793a3a936ea)",
+  "licence": "Official Bungie key art published by Sony Interactive Entertainment on the PlayStation Blog with the Symbiosis announcement; used credited for editorial news (playstation.com is on the allowlist)",
+  "author": "Bungie",
+  "credit": "Image: Bungie / PlayStation Blog",
+  "subject": "Marathon Symbiosis key art: a giant insect-like creature centre-frame with four armoured, helmeted CG Runners firing at it in purple rain; no real people, no lettering, logo or watermark",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 1.25 (enlarged and sharpened) -> _work/2026-11-11-hourly-0727/idlynerd/framing-marathon/cover_source.png (1080x1350, sha1 197d66f86815e102ad0c48e671fe420d456b6ee7); cardkit hype cover at scale 1.00; no fill, blur, letterbox or recolour. Creature's head and mandibles at about y 300-915; headline box top y 950 (3 lines, 100px); scrim 0.56."
+ },
+ "tags": [
+  "marathonthegame"
+ ],
+ "tag_evidence": "marathonthegame.com (Bungie's official Marathon site) links to https://www.instagram.com/marathonthegame (checked by the desk and the Gate 1 reviewer, 11 Nov 2026); the image is Bungie's key art.",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer, realistic 12-13); C2 Ramayana and C3 Fairgame$ DROP. Fixes applied: headline (10-word version set in 3 lines at cardkit's fixed 100px start, so the reviewer's 9-word fallback 'Marathon Is Free to Play From 8 to 15 December' is used; it also sets in 3 lines, box top y 950, clear of the mandible tips at ~y 915); no ₹0; console caveat bullet attributed to Sony; platforms and progress carry-over left off (Bungie's post body unreadable to the fetcher; only GameRiv states carry-over); slide 2 = Expedition Phase 1 / 3v3 Deathmatch beta / Bishop only, no 'solo'; ₹2,449 once on the cards; dates once (cover); Sources line; --no-idly-article; credit 'Image: Bungie / PlayStation Blog' last; tag marathonthegame.",
+  "g23": "Picture PASS, layout PASS; words FIX (blind reviewer, 12/14 before fixes), applied word for word: slide 3 bullet -> 'Consoles still need a paid online subscription, Sony says'; slide 3 label -> 'What Marathon Costs on Steam India Now'; slide 2 label -> \"What's New in Marathon's Symbiosis Update\"; caption 'a free update Bungie had already set' -> 'an update for all players that Bungie had already set for 8 December' and 'Marathon costs ₹2,449 on Steam India today.'; alt text mirrored. Re-rendered; post_problems ([], []).",
+  "g4": "pending"
+ }
+}

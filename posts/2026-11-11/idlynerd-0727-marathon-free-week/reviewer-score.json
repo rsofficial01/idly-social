@@ -1,0 +1,14 @@
+{
+ "desk": "idlynerd",
+ "post": "posts/2026-11-11/idlynerd-0727-marathon-free-week",
+ "verdict": "PASS",
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "notes": "Recheck after FIX: all five fixes applied word for word (slide 3 bullet 'Consoles still need a paid online subscription, Sony says', 9 words; slide 3 label 'What Marathon Costs on Steam India Now'; slide 2 label 'What's New in Marathon's Symbiosis Update'; caption 'an update for all players' and '₹2,449 on Steam India today'; alt text matches). Opened 02 and 03 at full size: no overlap, one left edge, white Title Case labels, source lines clear, no cut-off; slide 2's top band ~360 px is within precedent. Cover unchanged (passed earlier): full-bleed official Bungie key art, mandibles clear of the 3-line headline, credit on the edge. Caption: one '?', no bait, Sources line, 5 hashtags ending #idlynerd, credit last line. hook 1: the cover's stake is a free week a month out; the ₹2,449 that makes it bite is on slide 3, and Marathon is niche in India. Every other check 2: alone now 2 (both detail slides name Marathon). Tag marathonthegame PASS.",
+ "total": 13
+}

@@ -1,0 +1,43 @@
+{
+  "acct": "idlynerd",
+  "slug": "idlynerd-0727-marathon-free-week",
+  "date": "11 Nov 2026",
+  "sources": [
+    "PlayStation Blog",
+    "Game Informer"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Marathon Is Free to Play From 8 to 15 December",
+      "photo": "_work/2026-11-11-hourly-0727/idlynerd/framing-marathon/cover_source.png",
+      "photo_credit": "Image: Bungie / PlayStation Blog",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "",
+      "stat_label": "What's New in Marathon's Symbiosis Update",
+      "bullets": [
+        "Expedition Phase 1: PvE-only co-op, no rival players hunting",
+        "Deathmatch beta: quick 3v3 rounds, no loadout at risk",
+        "Bishop: a fast, blade-wielding new Runner shell to try"
+      ],
+      "credit_line": "Sources: PlayStation Blog, Game Informer"
+    },
+    {
+      "type": "detail",
+      "stat": "₹2,449",
+      "stat_label": "What Marathon Costs on Steam India Now",
+      "bullets": [
+        "Full game, not a demo, Game Informer reports",
+        "Consoles still need a paid online subscription, Sony says"
+      ],
+      "credit_line": "Sources: PlayStation Blog, Game Informer, Steam India"
+    }
+  ]
+}
