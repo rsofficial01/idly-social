@@ -1827,5 +1827,27 @@
     "score_reviewer": 13,
     "image_credit": "Photo: Alan Paone / Wikimedia Commons, CC BY 2.0, cropped",
     "tagged": []
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17880049725651246",
+    "permalink": "https://www.instagram.com/p/Dfm0vDjHzWP/",
+    "posted_at": "2026-11-11T15:40:02+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyautomotive-2027-tata-ev-offers/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyautomotive-2027-tata-ev-offers/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyautomotive-2027-tata-ev-offers/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyautomotive-2027-tata-ev-offers/04.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "tatamotorsgroup"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "image_credit": "Image: Tata Motors"
   }
 ]
