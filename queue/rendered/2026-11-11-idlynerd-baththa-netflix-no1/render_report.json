@@ -1,0 +1,216 @@
+{
+  "slug": "2026-11-11-idlynerd-baththa-netflix-no1",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-11T14:30:10+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=SQp3Li13tw0",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=CFroXKVQtuw",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=jVKwbD9hST8",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=jVKwbD9hST8",
+    "source_url": "https://www.youtube.com/watch?v=jVKwbD9hST8",
+    "image_url": "https://i.ytimg.com/vi/jVKwbD9hST8/maxresdefault.jpg",
+    "credit": "Image: Netflix India (official trailer)",
+    "organisation": "Netflix India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=jVKwbD9hST8: author 'Netflix India' https://www.youtube.com/@NetflixIndiaOfficial, title 'Baththa | Hindi Trailer | Vijay Sethupathi, Lijomol Jose | Netflix India'",
+      "thumbnail https://i.ytimg.com/vi/jVKwbD9hST8/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@NetflixIndiaOfficial",
+    "video_title": "Baththa | Hindi Trailer | Vijay Sethupathi, Lijomol Jose | Netflix India"
+  },
+  "faces": [
+    [
+      610.8,
+      152.5,
+      50.0,
+      66.2,
+      0.928
+    ],
+    [
+      508.4,
+      201.2,
+      21.9,
+      30.1,
+      0.804
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.458,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      298.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        575,
+        271,
+        691,
+        425
+      ],
+      [
+        390,
+        370,
+        440,
+        440
+      ]
+    ],
+    "logo_saliency": 0.11,
+    "notes": [
+      "2 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        610.8,
+        152.5,
+        50.0,
+        66.2,
+        0.928
+      ],
+      [
+        508.4,
+        201.2,
+        21.9,
+        30.1,
+        0.804
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 12 known items, 6 needing care (lpg-annapoorani: single_source, tvk-mekedatu-fishermen-2026: single_source, tvk-free-lpg-cylinders: single_source, katchatheevu-1974-1976: single_source, lpg-household-value: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Netflix India (official trailer)",
+      "Sources: Netflix Top 10, Koimoi",
+      "Sources: Netflix, The Week",
+      "Sources: Cinema Express, THR India, DT Next"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 80,
+      "lines": 3,
+      "overflow": false,
+      "top": 1010,
+      "credit_line": "Image: Netflix India (official trailer)",
+      "slug": "2026-11-11-idlynerd-baththa-netflix-no1",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix Top 10, Koimoi",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-baththa-netflix-no1",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-baththa-netflix-no1",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Cinema Express, THR India, DT Next",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-baththa-netflix-no1",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Vijay Sethupathi's Tamil film Baththa was the No. 1 film on Netflix in India in the week of 2–8 November, Netflix's Top 10 data shows. It was No. 1 in Sri Lanka too.\n\nWorldwide, Baththa drew 2.3 million views that week, No. 6 among non-English films, after 2.5 million views and No. 4 in its first week: 4.8 million views in two weeks. It streams in Tamil with Hindi, Telugu, Kannada and Malayalam audio.\n\nSethupathi is back in cinemas three times in eight weeks: Mysskin's Train on 4 December, Thiagarajan Kumararaja's Pocket Novel on 14 January for Pongal, and Mani Ratnam's Inji Vellam, with Sai Pallavi, on 29 January. Lyca Productions announced the Inji Vellam date on 11 November.\n\nWhich film did you skip in cinemas and end up loving at home?\n\nSources: Netflix Top 10, Koimoi, The Week, Cinema Express, The Hollywood Reporter India, DT Next\n\n#Baththa #VijaySethupathi #NetflixIndia #TamilCinema #idlynerd\n\nImage: Netflix India (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
