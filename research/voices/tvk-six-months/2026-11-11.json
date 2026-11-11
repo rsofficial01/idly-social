@@ -1,24 +1,30 @@
 {
  "topic": "tvk-six-months",
  "title": "Six months of the TVK government in Tamil Nadu",
- "generated": "2026-11-11T06:12+00:00",
+ "generated": "2026-11-11T06:18+00:00",
  "window": {
   "since": "2026-05-10",
   "until": "2026-11-10"
  },
  "totals": {
-  "posts_read": 5475,
-  "posts_counted": 5475,
-  "people": 4937,
+  "posts_read": 5503,
+  "posts_counted": 5503,
+  "people": 4963,
   "by_platform": {
-   "youtube": 5475
+   "youtube": 5503
   },
   "by_language": {
-   "en": 2081,
-   "ta": 3284,
-   "ta-latn": 110
+   "en": 2101,
+   "ta": 3288,
+   "ta-latn": 114
   },
-  "untagged": 4411
+  "untagged": 4354,
+  "tone": {
+   "praise": 1014,
+   "criticism": 211,
+   "mixed": 27,
+   "neither": 4251
+  }
  },
  "repeated_text": {
   "distinct_texts": 0,
@@ -41,21 +47,681 @@
   "MEDIA FILES": 140,
   "ABP Nadu": 123,
   "Nakkheeran TV ": 120,
-  "News18 Tamil Nadu": 106,
   "BBC News Tamil": 106,
   "Saattai": 97,
   "Tamil Janam": 89,
-  "Tarun Kumar Kedia": 87
+  "Tarun Kumar Kedia": 87,
+  "Tamilkaviswasan": 87
+ },
+ "about": [
+  {
+   "key": "tvk",
+   "label": "TVK / Vijay",
+   "people": 903,
+   "posts": 946,
+   "only_this_party": 824,
+   "tone_when_only_this_party": {
+    "praise": 207,
+    "criticism": 34,
+    "mixed": 5,
+    "neither": 578
+   }
+  },
+  {
+   "key": "dmk",
+   "label": "DMK / Stalin",
+   "people": 417,
+   "posts": 433,
+   "only_this_party": 287,
+   "tone_when_only_this_party": {
+    "praise": 30,
+    "criticism": 11,
+    "mixed": 4,
+    "neither": 242
+   }
+  },
+  {
+   "key": "aiadmk",
+   "label": "AIADMK / EPS",
+   "people": 91,
+   "posts": 91,
+   "only_this_party": 14,
+   "tone_when_only_this_party": {
+    "praise": 3,
+    "criticism": 0,
+    "mixed": 0,
+    "neither": 11
+   }
+  },
+  {
+   "key": "bjp",
+   "label": "BJP / Centre",
+   "people": 29,
+   "posts": 29,
+   "only_this_party": 10,
+   "tone_when_only_this_party": {
+    "praise": 0,
+    "criticism": 0,
+    "mixed": 0,
+    "neither": 10
+   }
+  },
+  {
+   "key": "ntk",
+   "label": "NTK / Seeman",
+   "people": 107,
+   "posts": 115,
+   "only_this_party": 100,
+   "tone_when_only_this_party": {
+    "praise": 26,
+    "criticism": 4,
+    "mixed": 2,
+    "neither": 68
+   }
+  },
+  {
+   "key": "congress",
+   "label": "Congress",
+   "people": 22,
+   "posts": 23,
+   "only_this_party": 15,
+   "tone_when_only_this_party": {
+    "praise": 2,
+    "criticism": 1,
+    "mixed": 0,
+    "neither": 12
+   }
+  },
+  {
+   "key": "vck_left",
+   "label": "VCK / Left",
+   "people": 13,
+   "posts": 13,
+   "only_this_party": 6,
+   "tone_when_only_this_party": {
+    "praise": 2,
+    "criticism": 0,
+    "mixed": 0,
+    "neither": 4
+   }
+  },
+  {
+   "key": "pmk",
+   "label": "PMK",
+   "people": 3,
+   "posts": 3,
+   "only_this_party": 2,
+   "tone_when_only_this_party": {
+    "praise": 0,
+    "criticism": 0,
+    "mixed": 0,
+    "neither": 2
+   }
+  }
+ ],
+ "by_month": [
+  {
+   "month": "2026-05",
+   "posts": 758,
+   "tone": {
+    "praise": 119,
+    "criticism": 30,
+    "mixed": 3,
+    "neither": 606
+   },
+   "tvk_only_tone": {
+    "praise": 26,
+    "criticism": 3,
+    "mixed": 0,
+    "neither": 83
+   },
+   "top_themes": [
+    "Rs 2,500 for women and other cash promises",
+    "Welfare schemes, ration, pensions",
+    "TASMAC and liquor",
+    "Jobs"
+   ]
+  },
+  {
+   "month": "2026-06",
+   "posts": 1599,
+   "tone": {
+    "praise": 247,
+    "criticism": 63,
+    "mixed": 9,
+    "neither": 1280
+   },
+   "tvk_only_tone": {
+    "praise": 47,
+    "criticism": 7,
+    "mixed": 2,
+    "neither": 135
+   },
+   "top_themes": [
+    "State debt and finances",
+    "Corruption and bribes",
+    "Welfare schemes, ration, pensions",
+    "Rain, flooding and drinking water"
+   ]
+  },
+  {
+   "month": "2026-07",
+   "posts": 857,
+   "tone": {
+    "praise": 122,
+    "criticism": 31,
+    "mixed": 2,
+    "neither": 702
+   },
+   "tvk_only_tone": {
+    "praise": 18,
+    "criticism": 6,
+    "mixed": 0,
+    "neither": 88
+   },
+   "top_themes": [
+    "Rs 2,500 for women and other cash promises",
+    "Welfare schemes, ration, pensions",
+    "Corruption and bribes",
+    "Law and order, safety"
+   ]
+  },
+  {
+   "month": "2026-08",
+   "posts": 1292,
+   "tone": {
+    "praise": 323,
+    "criticism": 42,
+    "mixed": 6,
+    "neither": 921
+   },
+   "tvk_only_tone": {
+    "praise": 92,
+    "criticism": 8,
+    "mixed": 1,
+    "neither": 136
+   },
+   "top_themes": [
+    "Welfare schemes, ration, pensions",
+    "Corruption and bribes",
+    "Farmers",
+    "Investment and industry"
+   ]
+  },
+  {
+   "month": "2026-09",
+   "posts": 272,
+   "tone": {
+    "praise": 83,
+    "criticism": 5,
+    "mixed": 0,
+    "neither": 184
+   },
+   "tvk_only_tone": {
+    "praise": 9,
+    "criticism": 0,
+    "mixed": 0,
+    "neither": 31
+   },
+   "top_themes": [
+    "Caste and religion",
+    "Corruption and bribes",
+    "Law and order, safety",
+    "Schools, colleges, NEET"
+   ]
+  },
+  {
+   "month": "2026-10",
+   "posts": 282,
+   "tone": {
+    "praise": 37,
+    "criticism": 11,
+    "mixed": 3,
+    "neither": 231
+   },
+   "tvk_only_tone": {
+    "praise": 8,
+    "criticism": 2,
+    "mixed": 1,
+    "neither": 33
+   },
+   "top_themes": [
+    "Welfare schemes, ration, pensions",
+    "Corruption and bribes",
+    "Prices and cost of living",
+    "Rain, flooding and drinking water"
+   ]
+  },
+  {
+   "month": "2026-11",
+   "posts": 443,
+   "tone": {
+    "praise": 83,
+    "criticism": 29,
+    "mixed": 4,
+    "neither": 327
+   },
+   "tvk_only_tone": {
+    "praise": 7,
+    "criticism": 8,
+    "mixed": 1,
+    "neither": 72
+   },
+   "top_themes": [
+    "Law and order, safety",
+    "Centre v state, Governor, language",
+    "Corruption and bribes",
+    "Prices and cost of living"
+   ]
+  }
+ ],
+ "unmatched": {
+  "posts": 3229,
+  "common_words": [
+   [
+    "super",
+    136
+   ],
+   [
+    "மக்கள்",
+    135
+   ],
+   [
+    "எல்லாம்",
+    71
+   ],
+   [
+    "சூப்பர்",
+    65
+   ],
+   [
+    "நீங்க",
+    64
+   ],
+   [
+    "நன்றி",
+    62
+   ],
+   [
+    "good",
+    59
+   ],
+   [
+    "speech",
+    55
+   ],
+   [
+    "ஆட்சி",
+    54
+   ],
+   [
+    "வாழ்த்துக்கள்",
+    53
+   ],
+   [
+    "நல்ல",
+    52
+   ],
+   [
+    "people",
+    51
+   ],
+   [
+    "இன்னும்",
+    51
+   ],
+   [
+    "இப்படி",
+    50
+   ],
+   [
+    "மக்களுக்கு",
+    47
+   ],
+   [
+    "தம்பி",
+    43
+   ],
+   [
+    "அரசு",
+    43
+   ],
+   [
+    "தமிழ்",
+    41
+   ],
+   [
+    "மாதிரி",
+    39
+   ],
+   [
+    "பணம்",
+    36
+   ],
+   [
+    "ஓட்டு",
+    35
+   ],
+   [
+    "நல்லா",
+    35
+   ],
+   [
+    "பேச்சு",
+    35
+   ],
+   [
+    "எங்களுக்கு",
+    34
+   ],
+   [
+    "அரசியல்",
+    33
+   ],
+   [
+    "உண்மை",
+    33
+   ],
+   [
+    "கடன்",
+    33
+   ],
+   [
+    "எப்படி",
+    32
+   ],
+   [
+    "எந்த",
+    32
+   ],
+   [
+    "enna",
+    32
+   ],
+   [
+    "போய்",
+    31
+   ],
+   [
+    "news",
+    30
+   ],
+   [
+    "correct",
+    30
+   ],
+   [
+    "அனைத்து",
+    30
+   ],
+   [
+    "should",
+    29
+   ],
+   [
+    "மக்களை",
+    29
+   ],
+   [
+    "அண்ணன்",
+    29
+   ],
+   [
+    "மிகவும்",
+    29
+   ],
+   [
+    "அமைச்சர்",
+    29
+   ],
+   [
+    "minister",
+    28
+   ],
+   [
+    "போல்",
+    28
+   ],
+   [
+    "தமிழ்நாடு",
+    28
+   ],
+   [
+    "உள்ள",
+    28
+   ],
+   [
+    "உள்ளது",
+    28
+   ],
+   [
+    "enga",
+    28
+   ],
+   [
+    "அருமை",
+    27
+   ],
+   [
+    "ரொம்ப",
+    27
+   ],
+   [
+    "கோடி",
+    27
+   ],
+   [
+    "முடியாது",
+    26
+   ],
+   [
+    "போட்டு",
+    26
+   ],
+   [
+    "இருக்கிறது",
+    26
+   ],
+   [
+    "பதில்",
+    26
+   ],
+   [
+    "government",
+    26
+   ],
+   [
+    "வேலை",
+    26
+   ],
+   [
+    "nalla",
+    26
+   ],
+   [
+    "அரிசி",
+    26
+   ],
+   [
+    "இல்ல",
+    25
+   ],
+   [
+    "கொண்டு",
+    25
+   ],
+   [
+    "time",
+    24
+   ],
+   [
+    "செய்து",
+    24
+   ],
+   [
+    "அதை",
+    24
+   ],
+   [
+    "இப்ப",
+    24
+   ],
+   [
+    "கொடுக்க",
+    24
+   ],
+   [
+    "வேண்டாம்",
+    24
+   ],
+   [
+    "illa",
+    24
+   ],
+   [
+    "best",
+    23
+   ],
+   [
+    "என்",
+    23
+   ],
+   [
+    "கார்த்திக்",
+    23
+   ],
+   [
+    "என்பது",
+    23
+   ],
+   [
+    "அம்மா",
+    23
+   ],
+   [
+    "tamil",
+    22
+   ],
+   [
+    "பேச",
+    22
+   ],
+   [
+    "உங்களுக்கு",
+    22
+   ],
+   [
+    "excellent",
+    22
+   ],
+   [
+    "இருந்து",
+    22
+   ],
+   [
+    "romba",
+    22
+   ],
+   [
+    "என்றால்",
+    22
+   ],
+   [
+    "neenga",
+    22
+   ],
+   [
+    "money",
+    22
+   ],
+   [
+    "மகளிர்",
+    22
+   ]
+  ]
  },
  "themes": [
   {
+   "key": "welfare",
+   "label": "Welfare schemes, ration, pensions",
+   "posts": 185,
+   "people": 182,
+   "likes": 5991,
+   "by_platform": {
+    "youtube": 185
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "இலவசம் வேண்டாம் விட்டுக்கு ஒருவர் படிப்பிற்கு தகுந்தார் போல் வேலைவாய்ப்பு ஏற்படுத்தி குடுத்தால் மக்கள் யாரிடமும் இலவசம் எதிர் பார்க்க மாட்டார்கள் CM sir",
+     "url": "https://www.youtube.com/watch?v=H5EX8BSyckE&lc=UgwrBj5agr5vFh_c8bt4AaABAg",
+     "platform": "youtube",
+     "likes": 1138,
+     "lang": "ta",
+     "date": "2026-05-13",
+     "under": "Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "நெஜமாவே ரேஷன் கடையில் பச்சரிசி சூப்பரா இருக்கு",
+     "url": "https://www.youtube.com/watch?v=SfoxlOO6gnI&lc=UgwucCNitBRY4HnkP8p4AaABAg",
+     "platform": "youtube",
+     "likes": 959,
+     "lang": "ta",
+     "date": "2026-10-06",
+     "under": "டேய் புழுத்த boys இதான்டா தவெக ஆட்சி பாத்துக்கோ!🙄|ration shop rice comparison btwn dmk…",
+     "owner": "Tamilkaviswasan"
+    },
+    {
+     "text": "பொய் பொய் பொய் இப்பவும் ரேஷன் கடைகளில் மஞ்சள் நிற பழைய அரிசி தான் தருகிறார்கள்",
+     "url": "https://www.youtube.com/watch?v=SfoxlOO6gnI&lc=UgybLiSYiJxypiSTYq14AaABAg",
+     "platform": "youtube",
+     "likes": 723,
+     "lang": "ta",
+     "date": "2026-10-06",
+     "under": "டேய் புழுத்த boys இதான்டா தவெக ஆட்சி பாத்துக்கோ!🙄|ration shop rice comparison btwn dmk…",
+     "owner": "Tamilkaviswasan"
+    },
+    {
+     "text": "புதிய கணக்கெடுப்பு எடுக்க வேண்டும் எங்களுக்கு இது வரை வரவில்லை புதிய திட்டம் ஆவது எங்களுக்கு வந்து சேர வேண்டும்",
+     "url": "https://www.youtube.com/watch?v=A87WTKpbSi0&lc=Ugxbiod3APpf9DmuhV94AaABAg",
+     "platform": "youtube",
+     "likes": 515,
+     "lang": "ta",
+     "date": "2026-06-15",
+     "under": "BREAKING : உரிமைத்தொகை ரூ.2,500 ஆக உயர்வு வெளியான Super Update | Magalir Urimai Thogai |…",
+     "owner": "Kumudam News 24x7"
+    },
+    {
+     "text": "மகளிர் உரிமைத் தொகை கொடுத்தால் ரேஷன் அட்டை இருக்கும் அனைத்து மகளிருக்கும் சமமாக தரவும்🎉",
+     "url": "https://www.youtube.com/watch?v=H5EX8BSyckE&lc=Ugy9S9pTCEBVPM2KTz14AaABAg",
+     "platform": "youtube",
+     "likes": 510,
+     "lang": "ta",
+     "date": "2026-05-13",
+     "under": "Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "புதிய மகளிர் உரிமை தொகைக்கு விண்ணப்பம் படிவம் கொடுக்கவும். புதிய ரேஷன் கார்டு க்கு",
+     "url": "https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzVRtYyKtwLSVIbLql4AaABAg",
+     "platform": "youtube",
+     "likes": 330,
+     "lang": "ta",
+     "date": "2026-05-14",
+     "under": "Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…",
+     "owner": "NewsTamil 24X7"
+    }
+   ]
+  },
+  {
    "key": "women_aid",
    "label": "Rs 2,500 for women and other cash promises",
-   "posts": 186,
-   "people": 176,
-   "likes": 8121,
+   "posts": 172,
+   "people": 162,
+   "likes": 8095,
    "by_platform": {
-    "youtube": 186
+    "youtube": 172
    },
    "heavy_posters": 0,
    "top": [
@@ -124,11 +790,11 @@
   {
    "key": "corruption",
    "label": "Corruption and bribes",
-   "posts": 168,
-   "people": 164,
-   "likes": 2227,
+   "posts": 166,
+   "people": 162,
+   "likes": 2225,
    "by_platform": {
-    "youtube": 168
+    "youtube": 166
    },
    "heavy_posters": 0,
    "top": [
@@ -191,79 +857,6 @@
      "date": "2026-06-20",
      "under": "#BIGNEWS : முதல்வர் விஜய் பேசாதது ஏன்?: வன்னி அரசு கொடுத்த பதில் | CM Vijay | TVK",
      "owner": "PuthiyathalaimuraiTV"
-    }
-   ]
-  },
-  {
-   "key": "experience",
-   "label": "Inexperience, \"give him time\"",
-   "posts": 109,
-   "people": 108,
-   "likes": 62157,
-   "by_platform": {
-    "youtube": 109
-   },
-   "heavy_posters": 0,
-   "top": [
-    {
-     "text": "Politicians doing Acting 🥴 Actors doing Politics 🥸",
-     "url": "https://www.youtube.com/watch?v=jq14f8llVPQ&lc=UgygHyol_nkcjDCvhPZ4AaABAg",
-     "platform": "youtube",
-     "likes": 44822,
-     "lang": "en",
-     "date": "2026-07-13",
-     "under": "Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻",
-     "owner": "Tarun Kumar Kedia"
-    },
-    {
-     "text": "Vijay sir acting in reel❌ Real Hero✅😊",
-     "url": "https://www.youtube.com/watch?v=jq14f8llVPQ&lc=Ugy5LQuLid9Vg8owV014AaABAg",
-     "platform": "youtube",
-     "likes": 11463,
-     "lang": "en",
-     "date": "2026-07-13",
-     "under": "Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻",
-     "owner": "Tarun Kumar Kedia"
-    },
-    {
-     "text": "ஓட்டு போட்ட மக்கள் அனுபவித்தே ஆக வேண்டும்",
-     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugz0o0ND6-S6GixGAyx4AaABAg",
-     "platform": "youtube",
-     "likes": 509,
-     "lang": "ta",
-     "date": "2026-05-22",
-     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
-     "owner": "TamilNadu People"
-    },
-    {
-     "text": "நடிகர் வரும் கூட்டத்திற்கு போனால் வேலை... பட்டாசு கம்பெனியில் வேலை பார்த்தால் இழப்பீடு🥰",
-     "url": "https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgwHY4it7jdLnkA3eHN4AaABAg",
-     "platform": "youtube",
-     "likes": 421,
-     "lang": "ta",
-     "date": "2026-07-10",
-     "under": "கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…",
-     "owner": "PuthiyathalaimuraiTV"
-    },
-    {
-     "text": "ஓட்டு போடாத மக்களும் சேர்ந்தே அனுபவிக்க வேண்டும்! 😮 காலக்கொடுமை! 😢",
-     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=UgyALS0MdkmFBTunUVh4AaABAg",
-     "platform": "youtube",
-     "likes": 311,
-     "lang": "ta",
-     "date": "2026-05-22",
-     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
-     "owner": "TamilNadu People"
-    },
-    {
-     "text": "போட்டது தவறில்லை... அனுபவம், ஆற்றல் இல்லாதவருக்கு அவசரமாக... பதவி கொடுத்தது தவறு",
-     "url": "https://www.youtube.com/watch?v=qzx9bRctoyY&lc=Ugz0AudqVG7u49Uv6yB4AaABAg",
-     "platform": "youtube",
-     "likes": 124,
-     "lang": "ta",
-     "date": "2026-09-16",
-     "under": "கொந்தளித்த TVK தொண்டன் ..! Public Opinion #vijay #cmvijay #udhayanidhistalin #tnassembly",
-     "owner": "MEDIA FILES"
     }
    ]
   },
@@ -343,11 +936,11 @@
   {
    "key": "debt",
    "label": "State debt and finances",
-   "posts": 88,
-   "people": 88,
+   "posts": 87,
+   "people": 87,
    "likes": 1676,
    "by_platform": {
-    "youtube": 88
+    "youtube": 87
    },
    "heavy_posters": 0,
    "top": [
@@ -410,6 +1003,152 @@
      "date": "2026-06-16",
      "under": "#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக",
      "owner": "Polimer News"
+    }
+   ]
+  },
+  {
+   "key": "law_order",
+   "label": "Law and order, safety",
+   "posts": 71,
+   "people": 65,
+   "likes": 510,
+   "by_platform": {
+    "youtube": 71
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "ரவுடிகளுக்கு ஓட்டு போட்டு 60 வருஷமா வர விட்டுட்டோம்.",
+     "url": "https://www.youtube.com/watch?v=Tr44_fYQ238&lc=UgyX8H_14h4pGAMmzXF4AaABAg",
+     "platform": "youtube",
+     "likes": 121,
+     "lang": "ta",
+     "date": "2026-09-07",
+     "under": "😮திமுகவும் சீமானும் கூட்டு களவாணிகள் | Seeman | Public Opinion | CM Vijay | DMK",
+     "owner": "The Expose"
+    },
+    {
+     "text": "காவல்துறையைச் சேர்ந்த பெண்மணி வெட்டிக் கொலை இதைப் பற்றி டிவிக்கு அரசு என்ன சொல்கிறது",
+     "url": "https://www.youtube.com/watch?v=5TZoH-DBw3s&lc=Ugz7xAdzLZBsRfm298x4AaABAg",
+     "platform": "youtube",
+     "likes": 87,
+     "lang": "ta",
+     "date": "2026-08-15",
+     "under": "தவெகவின் 100 நாள் ஆட்சி சொன்னதும் செய்ததும்.. CM VIJAY | TVK Govt | TN Politics | PT…",
+     "owner": "PuthiyathalaimuraiTV"
+    },
+    {
+     "text": "அவர்க்கு தான் அறிவு இல்ல பத்திரிக்கை காரங்க உங்களுக்கும் இல்லை எப்படி இருக்கும் அவங்க என்ன இன படுகொலை செய்யப்பட்டார்களா அதற்கு பதில் தூத்துக்குடி துப்பாக்கி சூட்டில் இறந்தவர்களுக்கு வைக்கலாமே அவர்களாவது மண்ணுக்காக…",
+     "url": "https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgzyQUqxt0hTqQ4guE14AaABAg",
+     "platform": "youtube",
+     "likes": 77,
+     "lang": "ta",
+     "date": "2026-07-10",
+     "under": "கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…",
+     "owner": "PuthiyathalaimuraiTV"
+    },
+    {
+     "text": "கொலை பண்ணுவேன் nu சொல்ற அமைச்சர பதவியில் இருந்து தூக்காம எதிர் முனைல பேசுனவன கட்சிய விட்டு தூக்கி இருக்கானுங்க... என்னடா நியாயம் இது...😂😂😂",
+     "url": "https://www.youtube.com/watch?v=v6zUCL5LCz4&lc=UgyDl6fK8RbgY61y9dx4AaABAg",
+     "platform": "youtube",
+     "likes": 60,
+     "lang": "ta",
+     "date": "2026-07-27",
+     "under": "Tvk Minister Audio | \"கால வச்சா கொன்னுடுவேன்\"-தீயை விட வேகமாக பரவும் அமைச்சர் ஜெகதீஸ்வரி…",
+     "owner": "NewsTamil 24X7"
+    },
+    {
+     "text": "முதல்வரின் பாதுகாப்பு செலவு.. நல திட்ட துவக்க விழா செலவுகளை மாதம் தோறும் வெளியிட வேண்டும்..",
+     "url": "https://www.youtube.com/watch?v=g0w6D-ZwmYA&lc=Ugzb5cvaQ6zV8nx-pw54AaABAg",
+     "platform": "youtube",
+     "likes": 28,
+     "lang": "ta",
+     "date": "2026-11-05",
+     "under": "விஜயின் 6 மாத ஆட்சி| ஒரு தாய் மாமன் இப்படித்தான் இருப்பாரா?|Public Opinion||Vijay|NFT|",
+     "owner": "News Focus Tamil"
+    },
+    {
+     "text": "எங்க விஜய் அண்ணா எவ்வளவு அழகா இருக்காரு,சிரிக்கிறாரு,ரொம்ப சிம்பிளா இருக்காரு,நல்லா செல்பி எடுக்கிறாரு.இதுக்கு மேலயும் பத்து பேரென்ன நூறு ரவுடிகள் வந்தா கூட ஒரு அடியில கீழே சாய்ப்பாரு.எனக்கு ஒண்ணும் வேணாம்பா விஜய்…",
+     "url": "https://www.youtube.com/watch?v=yaeC8nUa4s8&lc=UgwGYWxgCLWw5o6qd7x4AaABAg",
+     "platform": "youtube",
+     "likes": 12,
+     "lang": "ta",
+     "date": "2026-10-14",
+     "under": "விலைவாசி உயர்வு.. மக்கள் அதிர்ச்சி பேட்டி | price hike | Tamilnadu | CM Vijay",
+     "owner": "NewsTamil 24X7"
+    }
+   ]
+  },
+  {
+   "key": "centre",
+   "label": "Centre v state, Governor, language",
+   "posts": 64,
+   "people": 64,
+   "likes": 488,
+   "by_platform": {
+    "youtube": 64
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "இவர் இப்படி சொல்லிக்கொண்டே போகலாம் ஆனால் தமிழ்நாடு முதல்வர் டில்லி சென்று அங்கு தமிழ்நாடு இந்தியாவில் இரண்டாவது இடம் என்று தம்பட்டம் அடித்து கொண்டு உள்ளனர்கள்",
+     "url": "https://www.youtube.com/watch?v=8YHXN8h0jhM&lc=Ugx7GFUtZUByHqXMvSZ4AaABAg",
+     "platform": "youtube",
+     "likes": 109,
+     "lang": "ta",
+     "date": "2026-06-16",
+     "under": "“ரூ.13 லட்சம் கோடி கடன்\" - TN White Paperஐ வெளியிட்ட TVK Govt; DMKவின் ஊழலால் காலியானதா…",
+     "owner": "DW தமிழ்"
+    },
+    {
+     "text": "கடந்த அஞ்சு வருஷத்துல பாலாறும் தேனாறும் தமிழ்நாட்டில் ஓடுதுன்னு நானுங்க, இந்தியாவில் நம்பர் ஒன் மாடல் அரசு என்றார்கள்! சொல்லுங்க கோபால் இதெல்லாம் பொய்யா!",
+     "url": "https://www.youtube.com/watch?v=DujsIVduTU0&lc=UgyxPGEudE2Lsqn0ZXp4AaABAg",
+     "platform": "youtube",
+     "likes": 46,
+     "lang": "ta",
+     "date": "2026-06-17",
+     "under": "WhitePaper தவெக அரசின் வெள்ளை அறிக்கை - PTR வெள்ளை அறிக்கையோடு ஒப்பிட்டு Data சொல்லி…",
+     "owner": "Thanthi TV"
+    },
+    {
+     "text": "தம்பி இந்திர குமார் தேரடி வாழ்க வளர்க வாழ்த்துக்கள்",
+     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=Ugy7SdVElZMJGq-_0lV4AaABAg",
+     "platform": "youtube",
+     "likes": 45,
+     "lang": "ta",
+     "date": "2026-11-03",
+     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
+     "owner": "Theradi"
+    },
+    {
+     "text": "அருமை அருமை வாழ்த்துக்கள் இந்திரா🎉 நடப்பவை அனைத்தும் வருத்தமளிக்கிறது வேதனை😢😮",
+     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=UgzUG2RuWBGdlVwQBtV4AaABAg",
+     "platform": "youtube",
+     "likes": 35,
+     "lang": "ta",
+     "date": "2026-11-03",
+     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
+     "owner": "Theradi"
+    },
+    {
+     "text": "ஏன்டா ஆட்சி செய்ய தெரியாமல் போய் பேசுரான் தற்குறி மத்திய அரசு வெலிப்படையாக சொல்ட்டார்கள்",
+     "url": "https://www.youtube.com/watch?v=8YHXN8h0jhM&lc=Ugzi_jmnQgOvDwvR-O94AaABAg",
+     "platform": "youtube",
+     "likes": 32,
+     "lang": "ta",
+     "date": "2026-06-16",
+     "under": "“ரூ.13 லட்சம் கோடி கடன்\" - TN White Paperஐ வெளியிட்ட TVK Govt; DMKவின் ஊழலால் காலியானதா…",
+     "owner": "DW தமிழ்"
+    },
+    {
+     "text": "மனைவி மகன் மகளை துரத்தி விட்டு ஆட்சிக்கு வந்த மூன்று மாதத்தில் மக்கள் பணத்தை 10 கோடி செலவு செய்து லண்டன் போக வேண்டிய அவசியம் இல்லை ஆனால் த்ரிஷா லண்டனில் இரண்டு மாதமாக சூட்டிங் இருக்கிறது என்பதற்காக லண்டன் சென்று தொழில்…",
+     "url": "https://www.youtube.com/watch?v=qzx9bRctoyY&lc=UgwVaqbCe220nAryjbh4AaABAg",
+     "platform": "youtube",
+     "likes": 31,
+     "lang": "ta",
+     "date": "2026-09-18",
+     "under": "கொந்தளித்த TVK தொண்டன் ..! Public Opinion #vijay #cmvijay #udhayanidhistalin #tnassembly",
+     "owner": "MEDIA FILES"
     }
    ]
   },
@@ -487,148 +1226,75 @@
    ]
   },
   {
-   "key": "centre",
-   "label": "Centre v state, Governor, language",
-   "posts": 63,
-   "people": 63,
-   "likes": 488,
+   "key": "housing_land",
+   "label": "Housing, patta, land",
+   "posts": 61,
+   "people": 60,
+   "likes": 2585,
    "by_platform": {
-    "youtube": 63
+    "youtube": 61
    },
    "heavy_posters": 0,
    "top": [
     {
-     "text": "இவர் இப்படி சொல்லிக்கொண்டே போகலாம் ஆனால் தமிழ்நாடு முதல்வர் டில்லி சென்று அங்கு தமிழ்நாடு இந்தியாவில் இரண்டாவது இடம் என்று தம்பட்டம் அடித்து கொண்டு உள்ளனர்கள்",
-     "url": "https://www.youtube.com/watch?v=8YHXN8h0jhM&lc=Ugx7GFUtZUByHqXMvSZ4AaABAg",
+     "text": "மகளிர் உரிமை தொகை வீடு வசதி உள்ளவர்கள் வங்குகின்றர் ஏழைக்கு தாருங்கள் அண்ணா 🎉",
+     "url": "https://www.youtube.com/watch?v=H5EX8BSyckE&lc=Ugy59QQAsJJNOw7H3n94AaABAg",
      "platform": "youtube",
-     "likes": 109,
+     "likes": 442,
      "lang": "ta",
-     "date": "2026-06-16",
-     "under": "“ரூ.13 லட்சம் கோடி கடன்\" - TN White Paperஐ வெளியிட்ட TVK Govt; DMKவின் ஊழலால் காலியானதா…",
-     "owner": "DW தமிழ்"
+     "date": "2026-05-13",
+     "under": "Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM",
+     "owner": "Sathiyam News"
     },
     {
-     "text": "கடந்த அஞ்சு வருஷத்துல பாலாறும் தேனாறும் தமிழ்நாட்டில் ஓடுதுன்னு நானுங்க, இந்தியாவில் நம்பர் ஒன் மாடல் அரசு என்றார்கள்! சொல்லுங்க கோபால் இதெல்லாம் பொய்யா!",
-     "url": "https://www.youtube.com/watch?v=DujsIVduTU0&lc=UgyxPGEudE2Lsqn0ZXp4AaABAg",
+     "text": "அமோனியா தாக்கி உயிர் இழந்தவர்கள் ??, நீட் தேர்வால் உயிர் இழந்தவர்கள்?? பட்டாசு தொழிலாளர்கள் உயிர் இழந்தவர்கள்??? விவசாயி உயிர் இழப்பு??",
+     "url": "https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgxN8jWLM5vfNF27jR94AaABAg",
      "platform": "youtube",
-     "likes": 46,
-     "lang": "ta",
-     "date": "2026-06-17",
-     "under": "WhitePaper தவெக அரசின் வெள்ளை அறிக்கை - PTR வெள்ளை அறிக்கையோடு ஒப்பிட்டு Data சொல்லி…",
-     "owner": "Thanthi TV"
-    },
-    {
-     "text": "தம்பி இந்திர குமார் தேரடி வாழ்க வளர்க வாழ்த்துக்கள்",
-     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=Ugy7SdVElZMJGq-_0lV4AaABAg",
-     "platform": "youtube",
-     "likes": 45,
-     "lang": "ta",
-     "date": "2026-11-03",
-     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
-     "owner": "Theradi"
-    },
-    {
-     "text": "அருமை அருமை வாழ்த்துக்கள் இந்திரா🎉 நடப்பவை அனைத்தும் வருத்தமளிக்கிறது வேதனை😢😮",
-     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=UgzUG2RuWBGdlVwQBtV4AaABAg",
-     "platform": "youtube",
-     "likes": 35,
-     "lang": "ta",
-     "date": "2026-11-03",
-     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
-     "owner": "Theradi"
-    },
-    {
-     "text": "ஏன்டா ஆட்சி செய்ய தெரியாமல் போய் பேசுரான் தற்குறி மத்திய அரசு வெலிப்படையாக சொல்ட்டார்கள்",
-     "url": "https://www.youtube.com/watch?v=8YHXN8h0jhM&lc=Ugzi_jmnQgOvDwvR-O94AaABAg",
-     "platform": "youtube",
-     "likes": 32,
-     "lang": "ta",
-     "date": "2026-06-16",
-     "under": "“ரூ.13 லட்சம் கோடி கடன்\" - TN White Paperஐ வெளியிட்ட TVK Govt; DMKவின் ஊழலால் காலியானதா…",
-     "owner": "DW தமிழ்"
-    },
-    {
-     "text": "மனைவி மகன் மகளை துரத்தி விட்டு ஆட்சிக்கு வந்த மூன்று மாதத்தில் மக்கள் பணத்தை 10 கோடி செலவு செய்து லண்டன் போக வேண்டிய அவசியம் இல்லை ஆனால் த்ரிஷா லண்டனில் இரண்டு மாதமாக சூட்டிங் இருக்கிறது என்பதற்காக லண்டன் சென்று தொழில்…",
-     "url": "https://www.youtube.com/watch?v=qzx9bRctoyY&lc=UgwVaqbCe220nAryjbh4AaABAg",
-     "platform": "youtube",
-     "likes": 31,
-     "lang": "ta",
-     "date": "2026-09-18",
-     "under": "கொந்தளித்த TVK தொண்டன் ..! Public Opinion #vijay #cmvijay #udhayanidhistalin #tnassembly",
-     "owner": "MEDIA FILES"
-    }
-   ]
-  },
-  {
-   "key": "law_order",
-   "label": "Law and order, safety",
-   "posts": 63,
-   "people": 57,
-   "likes": 494,
-   "by_platform": {
-    "youtube": 63
-   },
-   "heavy_posters": 0,
-   "top": [
-    {
-     "text": "ரவுடிகளுக்கு ஓட்டு போட்டு 60 வருஷமா வர விட்டுட்டோம்.",
-     "url": "https://www.youtube.com/watch?v=Tr44_fYQ238&lc=UgyX8H_14h4pGAMmzXF4AaABAg",
-     "platform": "youtube",
-     "likes": 121,
-     "lang": "ta",
-     "date": "2026-09-07",
-     "under": "😮திமுகவும் சீமானும் கூட்டு களவாணிகள் | Seeman | Public Opinion | CM Vijay | DMK",
-     "owner": "The Expose"
-    },
-    {
-     "text": "காவல்துறையைச் சேர்ந்த பெண்மணி வெட்டிக் கொலை இதைப் பற்றி டிவிக்கு அரசு என்ன சொல்கிறது",
-     "url": "https://www.youtube.com/watch?v=5TZoH-DBw3s&lc=Ugz7xAdzLZBsRfm298x4AaABAg",
-     "platform": "youtube",
-     "likes": 87,
-     "lang": "ta",
-     "date": "2026-08-15",
-     "under": "தவெகவின் 100 நாள் ஆட்சி சொன்னதும் செய்ததும்.. CM VIJAY | TVK Govt | TN Politics | PT…",
-     "owner": "PuthiyathalaimuraiTV"
-    },
-    {
-     "text": "அவர்க்கு தான் அறிவு இல்ல பத்திரிக்கை காரங்க உங்களுக்கும் இல்லை எப்படி இருக்கும் அவங்க என்ன இன படுகொலை செய்யப்பட்டார்களா அதற்கு பதில் தூத்துக்குடி துப்பாக்கி சூட்டில் இறந்தவர்களுக்கு வைக்கலாமே அவர்களாவது மண்ணுக்காக…",
-     "url": "https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgzyQUqxt0hTqQ4guE14AaABAg",
-     "platform": "youtube",
-     "likes": 77,
+     "likes": 435,
      "lang": "ta",
      "date": "2026-07-10",
      "under": "கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…",
      "owner": "PuthiyathalaimuraiTV"
     },
     {
-     "text": "கொலை பண்ணுவேன் nu சொல்ற அமைச்சர பதவியில் இருந்து தூக்காம எதிர் முனைல பேசுனவன கட்சிய விட்டு தூக்கி இருக்கானுங்க... என்னடா நியாயம் இது...😂😂😂",
-     "url": "https://www.youtube.com/watch?v=v6zUCL5LCz4&lc=UgyDl6fK8RbgY61y9dx4AaABAg",
+     "text": "நடிகர் வரும் கூட்டத்திற்கு போனால் வேலை... பட்டாசு கம்பெனியில் வேலை பார்த்தால் இழப்பீடு🥰",
+     "url": "https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgwHY4it7jdLnkA3eHN4AaABAg",
      "platform": "youtube",
-     "likes": 60,
+     "likes": 421,
      "lang": "ta",
-     "date": "2026-07-27",
-     "under": "Tvk Minister Audio | \"கால வச்சா கொன்னுடுவேன்\"-தீயை விட வேகமாக பரவும் அமைச்சர் ஜெகதீஸ்வரி…",
-     "owner": "NewsTamil 24X7"
+     "date": "2026-07-10",
+     "under": "கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…",
+     "owner": "PuthiyathalaimuraiTV"
     },
     {
-     "text": "முதல்வரின் பாதுகாப்பு செலவு.. நல திட்ட துவக்க விழா செலவுகளை மாதம் தோறும் வெளியிட வேண்டும்..",
-     "url": "https://www.youtube.com/watch?v=g0w6D-ZwmYA&lc=Ugzb5cvaQ6zV8nx-pw54AaABAg",
+     "text": "கழுதைக்கு வாழ்க்க பட்டால் கத்தி தான் ஆக வேண்டும் என்பது போல. சாதனைகளை சொல்லுங்கள் என்றார் ரீல்சை போடுகிறார்கள். வேதனை .😂😂😂",
+     "url": "https://www.youtube.com/watch?v=Ou7OnWanazk&lc=Ugw2b5UIXy-kKc4t6zx4AaABAg",
      "platform": "youtube",
-     "likes": 28,
+     "likes": 177,
      "lang": "ta",
-     "date": "2026-11-05",
-     "under": "விஜயின் 6 மாத ஆட்சி| ஒரு தாய் மாமன் இப்படித்தான் இருப்பாரா?|Public Opinion||Vijay|NFT|",
-     "owner": "News Focus Tamil"
+     "date": "2026-08-23",
+     "under": "TVK-வின் 100 நாள் ஆட்சி எப்படி? பேசும்போது மேடையில் திடீர் பரபரப்பு! நடந்தது என்ன?",
+     "owner": "Behindwoods O2"
     },
     {
-     "text": "எங்க விஜய் அண்ணா எவ்வளவு அழகா இருக்காரு,சிரிக்கிறாரு,ரொம்ப சிம்பிளா இருக்காரு,நல்லா செல்பி எடுக்கிறாரு.இதுக்கு மேலயும் பத்து பேரென்ன நூறு ரவுடிகள் வந்தா கூட ஒரு அடியில கீழே சாய்ப்பாரு.எனக்கு ஒண்ணும் வேணாம்பா விஜய்…",
-     "url": "https://www.youtube.com/watch?v=yaeC8nUa4s8&lc=UgwGYWxgCLWw5o6qd7x4AaABAg",
+     "text": "எவ்வளவு பட்டாலும் வெட்கப்பட மாட்டேங்கிறானே😂",
+     "url": "https://www.youtube.com/watch?v=3EHvbh1ddfc&lc=Ugy2sEyR67g1hJK3riB4AaABAg",
      "platform": "youtube",
-     "likes": 12,
+     "likes": 170,
      "lang": "ta",
-     "date": "2026-10-14",
-     "under": "விலைவாசி உயர்வு.. மக்கள் அதிர்ச்சி பேட்டி | price hike | Tamilnadu | CM Vijay",
-     "owner": "NewsTamil 24X7"
+     "date": "2026-07-18",
+     "under": "திமுக போட்ட பிச்சை? | Seeman | DMK | CM Vijay | TVK | Tamil Political News | Gem TV",
+     "owner": "Gem Television"
+    },
+    {
+     "text": "எத்தனை முறை அவமானப்பட்டாலும் இவனுங்க திருந்த மாட்டானுங்க போல....",
+     "url": "https://www.youtube.com/watch?v=2KMQRO-cEJA&lc=UgxQGFbaLKb25j3JAd94AaABAg",
+     "platform": "youtube",
+     "likes": 157,
+     "lang": "ta",
+     "date": "2026-06-08",
+     "under": "\"தவெக ஆட்சி 3 மாதங்களாவது தாங்குமா?\" | MK STALIN | TVK Vijay",
+     "owner": "PuthiyathalaimuraiTV"
     }
    ]
   },
@@ -706,86 +1372,13 @@
    ]
   },
   {
-   "key": "investment",
-   "label": "Investment and industry",
-   "posts": 55,
-   "people": 55,
-   "likes": 350,
-   "by_platform": {
-    "youtube": 55
-   },
-   "heavy_posters": 0,
-   "top": [
-    {
-     "text": "Ellaam ladies ku amount kudunga Vijay sir..DMK atchila ennai pondra pala pengaluku kidakala...pls anaivarum samam endru neegalavathu kudungal",
-     "url": "https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzUYh2GnB4JPy9k5u14AaABAg",
-     "platform": "youtube",
-     "likes": 92,
-     "lang": "en",
-     "date": "2026-05-14",
-     "under": "Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…",
-     "owner": "NewsTamil 24X7"
-    },
-    {
-     "text": "G square investment ? Adhanaal thaan DMK kadharudhu.",
-     "url": "https://www.youtube.com/watch?v=xBwY7V02z6Q&lc=UgxwrMkhHvU5Z3eDduB4AaABAg",
-     "platform": "youtube",
-     "likes": 71,
-     "lang": "en",
-     "date": "2026-08-24",
-     "under": "பரந்தூர் விமான நிலையம் ரத்து கொந்தளித்த திமுக #thalapathyvijay #tvkvijay #mkstalin…",
-     "owner": "Patch work 2.0"
-    },
-    {
-     "text": "Hearty congratulations to all the people of Parandur🎉🎉🎉...justice is served to people by our CM and he won people's heart",
-     "url": "https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgyEpb2yXoivsggCpsJ4AaABAg",
-     "platform": "youtube",
-     "likes": 62,
-     "lang": "en",
-     "date": "2026-08-24",
-     "under": "CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…",
-     "owner": "NewsTamil 24X7"
-    },
-    {
-     "text": "அதைச்சுற்றி நிலத்தில் கோபாலபுற குடும்பம் முதலீடு செய்த பல ஆயிரம் கோடிகளைபோட்டதால தான் அழுகிறாங்க???",
-     "url": "https://www.youtube.com/watch?v=oT6k_w76bgI&lc=UgzvdbuY_TddxBUxmQh4AaABAg",
-     "platform": "youtube",
-     "likes": 42,
-     "lang": "ta",
-     "date": "2026-08-25",
-     "under": "பரந்தூர் விமான நிலையம் ரத்து கதறும் திமுக தலைமை குடும்பம் #thalapathyvijay #mkstalin…",
-     "owner": "Patch work 2.0"
-    },
-    {
-     "text": "விவசாய நிலங்களில் சாராய தொழிற்சாலைகள் நடத்துகிறார்கள். விவசாய நிலங்களில் அரசியல் அதிகாரம் பெற்றவர்கள் காலேஜ் கட்டி கொள்ளை அடிக்கிறார்கள். அரசியல் வாதிகள் ஏன் இந்த மாதிரி கேவலமான செயல்களில் தன் சொந்த நலன்களுக்காக இந்த…",
-     "url": "https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgyaEqZdxTOPGG0kr0l4AaABAg",
-     "platform": "youtube",
-     "likes": 16,
-     "lang": "ta",
-     "date": "2026-08-24",
-     "under": "பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…",
-     "owner": "Kizhakku News"
-    },
-    {
-     "text": "I Love to all parandur people heartly congratulations Our honorable CM Vijay Sir 💐💐💐🌹🌹🌹🌹🍫🍫🍫🍫🙏🙏🙏🙏💯💯💯💯❤️❤️❤️❤️❤️❤️❤️",
-     "url": "https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxUo_fF9dPWlfC4XfB4AaABAg",
-     "platform": "youtube",
-     "likes": 11,
-     "lang": "en",
-     "date": "2026-08-24",
-     "under": "CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…",
-     "owner": "NewsTamil 24X7"
-    }
-   ]
-  },
-  {
    "key": "farmers",
    "label": "Farmers",
-   "posts": 56,
-   "people": 54,
+   "posts": 57,
+   "people": 55,
    "likes": 1505,
    "by_platform": {
-    "youtube": 56
+    "youtube": 57
    },
    "heavy_posters": 0,
    "top": [
@@ -852,13 +1445,86 @@
    ]
   },
   {
+   "key": "investment",
+   "label": "Investment and industry",
+   "posts": 54,
+   "people": 54,
+   "likes": 346,
+   "by_platform": {
+    "youtube": 54
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "Ellaam ladies ku amount kudunga Vijay sir..DMK atchila ennai pondra pala pengaluku kidakala...pls anaivarum samam endru neegalavathu kudungal",
+     "url": "https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzUYh2GnB4JPy9k5u14AaABAg",
+     "platform": "youtube",
+     "likes": 92,
+     "lang": "en",
+     "date": "2026-05-14",
+     "under": "Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…",
+     "owner": "NewsTamil 24X7"
+    },
+    {
+     "text": "G square investment ? Adhanaal thaan DMK kadharudhu.",
+     "url": "https://www.youtube.com/watch?v=xBwY7V02z6Q&lc=UgxwrMkhHvU5Z3eDduB4AaABAg",
+     "platform": "youtube",
+     "likes": 71,
+     "lang": "en",
+     "date": "2026-08-24",
+     "under": "பரந்தூர் விமான நிலையம் ரத்து கொந்தளித்த திமுக #thalapathyvijay #tvkvijay #mkstalin…",
+     "owner": "Patch work 2.0"
+    },
+    {
+     "text": "Hearty congratulations to all the people of Parandur🎉🎉🎉...justice is served to people by our CM and he won people's heart",
+     "url": "https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgyEpb2yXoivsggCpsJ4AaABAg",
+     "platform": "youtube",
+     "likes": 62,
+     "lang": "en",
+     "date": "2026-08-24",
+     "under": "CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…",
+     "owner": "NewsTamil 24X7"
+    },
+    {
+     "text": "அதைச்சுற்றி நிலத்தில் கோபாலபுற குடும்பம் முதலீடு செய்த பல ஆயிரம் கோடிகளைபோட்டதால தான் அழுகிறாங்க???",
+     "url": "https://www.youtube.com/watch?v=oT6k_w76bgI&lc=UgzvdbuY_TddxBUxmQh4AaABAg",
+     "platform": "youtube",
+     "likes": 42,
+     "lang": "ta",
+     "date": "2026-08-25",
+     "under": "பரந்தூர் விமான நிலையம் ரத்து கதறும் திமுக தலைமை குடும்பம் #thalapathyvijay #mkstalin…",
+     "owner": "Patch work 2.0"
+    },
+    {
+     "text": "விவசாய நிலங்களில் சாராய தொழிற்சாலைகள் நடத்துகிறார்கள். விவசாய நிலங்களில் அரசியல் அதிகாரம் பெற்றவர்கள் காலேஜ் கட்டி கொள்ளை அடிக்கிறார்கள். அரசியல் வாதிகள் ஏன் இந்த மாதிரி கேவலமான செயல்களில் தன் சொந்த நலன்களுக்காக இந்த…",
+     "url": "https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgyaEqZdxTOPGG0kr0l4AaABAg",
+     "platform": "youtube",
+     "likes": 16,
+     "lang": "ta",
+     "date": "2026-08-24",
+     "under": "பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…",
+     "owner": "Kizhakku News"
+    },
+    {
+     "text": "I Love to all parandur people heartly congratulations Our honorable CM Vijay Sir 💐💐💐🌹🌹🌹🌹🍫🍫🍫🍫🙏🙏🙏🙏💯💯💯💯❤️❤️❤️❤️❤️❤️❤️",
+     "url": "https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxUo_fF9dPWlfC4XfB4AaABAg",
+     "platform": "youtube",
+     "likes": 11,
+     "lang": "en",
+     "date": "2026-08-24",
+     "under": "CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…",
+     "owner": "NewsTamil 24X7"
+    }
+   ]
+  },
+  {
    "key": "promises",
    "label": "Promises kept or broken",
-   "posts": 50,
-   "people": 49,
-   "likes": 685,
+   "posts": 48,
+   "people": 47,
+   "likes": 678,
    "by_platform": {
-    "youtube": 50
+    "youtube": 48
    },
    "heavy_posters": 0,
    "top": [
@@ -927,11 +1593,11 @@
   {
    "key": "roads_transport",
    "label": "Roads, buses, metro",
-   "posts": 47,
-   "people": 46,
-   "likes": 429,
+   "posts": 46,
+   "people": 45,
+   "likes": 425,
    "by_platform": {
-    "youtube": 47
+    "youtube": 46
    },
    "heavy_posters": 0,
    "top": [
@@ -994,6 +1660,79 @@
      "date": "2026-08-24",
      "under": "பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…",
      "owner": "Kizhakku News"
+    }
+   ]
+  },
+  {
+   "key": "power",
+   "label": "Power cuts and electricity bills",
+   "posts": 39,
+   "people": 39,
+   "likes": 888,
+   "by_platform": {
+    "youtube": 39
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "அண்ணன் போற அண்ணி வீட்ல கரண்ட் இருக்கான்னு பார்க்கணும்",
+     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugw7cefHGtC5hqVtjt94AaABAg",
+     "platform": "youtube",
+     "likes": 529,
+     "lang": "ta",
+     "date": "2026-05-22",
+     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
+     "owner": "TamilNadu People"
+    },
+    {
+     "text": "👏🏻👏🏻👏🏻👏🏻👏🏻🎉🎉🎉🎉 மும்முணை மின்சாரம்",
+     "url": "https://www.youtube.com/watch?v=Xkyr62hPHos&lc=UgyoIJjkmzKJkqXFzSF4AaABAg",
+     "platform": "youtube",
+     "likes": 198,
+     "lang": "ta",
+     "date": "2026-08-21",
+     "under": "தவெக அரசு கடனே வாங்காதா? | TN Assembly | DMK vs TVK | Shorts | Kalaignar News",
+     "owner": "Kalaignar TV News"
+    },
+    {
+     "text": "200 units electricity ki freebies nahi dena chahiye tha, baaki saare kaam badiya kiye hai CM ne",
+     "url": "https://www.youtube.com/watch?v=jq14f8llVPQ&lc=UgyzWU8gH3hsfgkzJGx4AaABAg",
+     "platform": "youtube",
+     "likes": 41,
+     "lang": "en",
+     "date": "2026-07-13",
+     "under": "Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻",
+     "owner": "Tarun Kumar Kedia"
+    },
+    {
+     "text": "அதான் இப்படி கரண்ட் ஆபீஸ்ல வேலை பார்த்துட்டு கரண்டை கட் பண்ணி விட்டீங்களா",
+     "url": "https://www.youtube.com/watch?v=l7DO1tHt3mk&lc=Ugwt1zRTUIyCQc1F_nR4AaABAg",
+     "platform": "youtube",
+     "likes": 36,
+     "lang": "ta",
+     "date": "2026-05-28",
+     "under": "எல்லாம் நன்றி கெட்ட நா*ய் | Cm Vijay | Ex Cm Stalin | kolathur | Public opinion | Gem Tv",
+     "owner": "Gem Television"
+    },
+    {
+     "text": "விஞ்ஞான ஊழல் திருடன் தங்கம் தென்னரசு கடன் வாங்கியே அஞ்சு வருஷம் ஓட்டிடானுங்க இன்னொரு முறை திமுக ஜெயித்து வந்து இருந்தா25லட்சம் கோடி கடன் வந்திருக்கும் 4000 கோடி வடிகால் ஊழல் கல்குவாரி ஏல ஊழல் பள்ளிக்கல்வித்துறை…",
+     "url": "https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgyF9z50gnkyJUxhvCF4AaABAg",
+     "platform": "youtube",
+     "likes": 17,
+     "lang": "ta",
+     "date": "2026-06-16",
+     "under": "#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக",
+     "owner": "Polimer News"
+    },
+    {
+     "text": "அப்போ அணில் வீட்டில் எல்லாம் கரண்ட் வேண்டாம் தான அப்போ எங்களுக்கு 400 யூனிட் இலவசமாக தாடா விஜய் டேய் விஜய்",
+     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugx7EZg-G-OdQOsSpbR4AaABAg",
+     "platform": "youtube",
+     "likes": 13,
+     "lang": "ta",
+     "date": "2026-05-22",
+     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
+     "owner": "TamilNadu People"
     }
    ]
   },
@@ -1071,86 +1810,13 @@
    ]
   },
   {
-   "key": "power",
-   "label": "Power cuts and electricity bills",
-   "posts": 37,
-   "people": 37,
-   "likes": 887,
-   "by_platform": {
-    "youtube": 37
-   },
-   "heavy_posters": 0,
-   "top": [
-    {
-     "text": "அண்ணன் போற அண்ணி வீட்ல கரண்ட் இருக்கான்னு பார்க்கணும்",
-     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugw7cefHGtC5hqVtjt94AaABAg",
-     "platform": "youtube",
-     "likes": 529,
-     "lang": "ta",
-     "date": "2026-05-22",
-     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
-     "owner": "TamilNadu People"
-    },
-    {
-     "text": "👏🏻👏🏻👏🏻👏🏻👏🏻🎉🎉🎉🎉 மும்முணை மின்சாரம்",
-     "url": "https://www.youtube.com/watch?v=Xkyr62hPHos&lc=UgyoIJjkmzKJkqXFzSF4AaABAg",
-     "platform": "youtube",
-     "likes": 198,
-     "lang": "ta",
-     "date": "2026-08-21",
-     "under": "தவெக அரசு கடனே வாங்காதா? | TN Assembly | DMK vs TVK | Shorts | Kalaignar News",
-     "owner": "Kalaignar TV News"
-    },
-    {
-     "text": "200 units electricity ki freebies nahi dena chahiye tha, baaki saare kaam badiya kiye hai CM ne",
-     "url": "https://www.youtube.com/watch?v=jq14f8llVPQ&lc=UgyzWU8gH3hsfgkzJGx4AaABAg",
-     "platform": "youtube",
-     "likes": 41,
-     "lang": "en",
-     "date": "2026-07-13",
-     "under": "Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻",
-     "owner": "Tarun Kumar Kedia"
-    },
-    {
-     "text": "அதான் இப்படி கரண்ட் ஆபீஸ்ல வேலை பார்த்துட்டு கரண்டை கட் பண்ணி விட்டீங்களா",
-     "url": "https://www.youtube.com/watch?v=l7DO1tHt3mk&lc=Ugwt1zRTUIyCQc1F_nR4AaABAg",
-     "platform": "youtube",
-     "likes": 36,
-     "lang": "ta",
-     "date": "2026-05-28",
-     "under": "எல்லாம் நன்றி கெட்ட நா*ய் | Cm Vijay | Ex Cm Stalin | kolathur | Public opinion | Gem Tv",
-     "owner": "Gem Television"
-    },
-    {
-     "text": "விஞ்ஞான ஊழல் திருடன் தங்கம் தென்னரசு கடன் வாங்கியே அஞ்சு வருஷம் ஓட்டிடானுங்க இன்னொரு முறை திமுக ஜெயித்து வந்து இருந்தா25லட்சம் கோடி கடன் வந்திருக்கும் 4000 கோடி வடிகால் ஊழல் கல்குவாரி ஏல ஊழல் பள்ளிக்கல்வித்துறை…",
-     "url": "https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgyF9z50gnkyJUxhvCF4AaABAg",
-     "platform": "youtube",
-     "likes": 17,
-     "lang": "ta",
-     "date": "2026-06-16",
-     "under": "#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக",
-     "owner": "Polimer News"
-    },
-    {
-     "text": "அப்போ அணில் வீட்டில் எல்லாம் கரண்ட் வேண்டாம் தான அப்போ எங்களுக்கு 400 யூனிட் இலவசமாக தாடா விஜய் டேய் விஜய்",
-     "url": "https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugx7EZg-G-OdQOsSpbR4AaABAg",
-     "platform": "youtube",
-     "likes": 13,
-     "lang": "ta",
-     "date": "2026-05-22",
-     "under": "tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people",
-     "owner": "TamilNadu People"
-    }
-   ]
-  },
-  {
    "key": "drugs",
    "label": "Drugs",
-   "posts": 36,
-   "people": 36,
-   "likes": 346,
+   "posts": 35,
+   "people": 35,
+   "likes": 318,
    "by_platform": {
-    "youtube": 36
+    "youtube": 35
    },
    "heavy_posters": 0,
    "top": [
@@ -1195,16 +1861,6 @@
      "owner": "PuthiyathalaimuraiTV"
     },
     {
-     "text": "இப்போதைக்கு ஏமாற்றம் தான் அளிக்கிறது.... கூடியே விரைவில் கொடுப்பார்கள் என்று நம்புகிறேன்....",
-     "url": "https://www.youtube.com/watch?v=7H2mVkpDuko&lc=UgxU_5ef4rK-bxQRprF4AaABAg",
-     "platform": "youtube",
-     "likes": 28,
-     "lang": "ta",
-     "date": "2026-08-08",
-     "under": "Tamil Nadu Budget 2026: No ₹2500 for Women? 😲 #tamilnadubudget2026 #budget2026",
-     "owner": "Boss Wallah Daily Tamil"
-    },
-    {
      "text": "இவர்கள் அனைவருக்கும் போதை உபயோகித்து இருக்கார்களா என்ற test நடத்த வேண்டும்.",
      "url": "https://www.youtube.com/watch?v=Nld3vjkQyI8&lc=UgyTrh37bQR8AHio1rV4AaABAg",
      "platform": "youtube",
@@ -1213,17 +1869,100 @@
      "date": "2026-06-29",
      "under": "DMK Arrest | அமைச்சர் சரத் சர்ச்சை வீடியோ.. திமுக இளைஞரணி நடத்திய நூதன போராட்டம்!",
      "owner": "ABP Nadu"
+    },
+    {
+     "text": "வெள்ளை நீங்க வந்து பத்து நாள் தான் ஆச்சு அது ஓகே தான் ஆனா நீங்க இலவச அறிவிப்பு கொடுக்கும் போது 10 லட்சம் கோடி கடை இருக்குனு தெரிஞ்சு தானே அறிவிப்பு கொடுத்தீங்க என்ன வெள்ளையா இருக்க விட்டுட்டு கடைசியில் நிதிநிலை மாதிரி…",
+     "url": "https://www.youtube.com/watch?v=8StZz5Fzzvc&lc=Ugxtm1C2x5Z7INwqiTl4AaABAg",
+     "platform": "youtube",
+     "likes": 16,
+     "lang": "ta",
+     "date": "2026-05-30",
+     "under": "#BREAKING || CM Vijay | Minister | Magalir Urimai Thogai | மாதம் ரூ.2500 -விடிந்ததும்…",
+     "owner": "NewsTamil 24X7"
+    }
+   ]
+  },
+  {
+   "key": "experience",
+   "label": "Inexperience, \"give him time\"",
+   "posts": 30,
+   "people": 30,
+   "likes": 76,
+   "by_platform": {
+    "youtube": 30
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "So, the intent is to disturb after 6 months ??? Be a healthy opposition, which is useful.. keep cheap gimmicks aside, and be there for Tamil Nadu, even if you are not the Govt anymore.. That's how winners are..",
+     "url": "https://www.youtube.com/watch?v=5jdG4qVxYoM&lc=UgwZ-zN9zLwBkrGVw8F4AaABAg",
+     "platform": "youtube",
+     "likes": 33,
+     "lang": "en",
+     "date": "2026-05-10",
+     "under": "Dravida Munnetra Kazhagam Gives TVK 6-Month Breathing Space? 😳🗳️🔥 #dmk #tvk",
+     "owner": "ViralShorts"
+    },
+    {
+     "text": "ஐயா வணக்கம் ஆறு மாதத்தில் ஆச்சி கலைப்பு என்று சொன்ன விஜய் அவர்கள் தமிழ் நாட்டு மக்களுக்கு மிகவும் மகிழ்ச்சியாக உள்ளது நன்றி வணக்கம்",
+     "url": "https://www.youtube.com/watch?v=KsNF4MlKgN4&lc=UgyVsk004I8zbmAgEVx4AaABAg",
+     "platform": "youtube",
+     "likes": 14,
+     "lang": "ta",
+     "date": "2026-05-24",
+     "under": "TVK | Vijay's plan to dissolve the government in six months..? Shocking background…",
+     "owner": "Tamil Janam"
+    },
+    {
+     "text": "ஆறு மாதம் அல்ல ஆறு வருஷம் ஆனாலும் டிவிகே எந்த ஒரு நன்மையும் நாட்டிற்கு செய்யப்போவதில்லை. காரணம், அவர்கள் யாரைப்பற்றியும் கவலை இல்லாத, எதற்கும் வாய் திறக்காத பிஜேபி யின் ஆட்சியை செய்துகொண்டு இருக்கிறார்கள். நிறைய…",
+     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=UgxH4qTZvUcxM5gQqut4AaABAg",
+     "platform": "youtube",
+     "likes": 6,
+     "lang": "ta",
+     "date": "2026-11-03",
+     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
+     "owner": "Theradi"
+    },
+    {
+     "text": "60 வருடத்தில் திராவிடக் கட்சிகள் பல வகையில் உயர்த்திய தமிழ்நாட்டை 6 மாதத்தில் தற்குறிகளால் தமிழ்நாடு நாசமாகி கொண்டிருக்கிறது",
+     "url": "https://www.youtube.com/watch?v=xQry67ox9pM&lc=UgyFwzjTPSNzlZhy3Dl4AaABAg",
+     "platform": "youtube",
+     "likes": 6,
+     "lang": "ta",
+     "date": "2026-11-09",
+     "under": "சட்டம் ஒழுங்கு - திணறுகிறதா தவெக அரசு? | TVK Govt | Crime | TN Police | Cm Vijay | Kelvi…",
+     "owner": "Sun News"
+    },
+    {
+     "text": "வணக்கம் 🙏 தோழர் 🎉 வாழ்த்துக்கள் ❤ இயன்றால் இந்த 6 மாதத்தில் ஏதாவது நல்லது நடந்திருந்தால் தேடி பார்த்து பதிவிடவும். நன்றி 💅",
+     "url": "https://www.youtube.com/watch?v=6pPA--cO6tg&lc=Ugy3yXPiAs7byul1FQR4AaABAg",
+     "platform": "youtube",
+     "likes": 3,
+     "lang": "ta",
+     "date": "2026-11-04",
+     "under": "TVK சட்டம் ஒழுங்கு - A Detailed Report | CM VIJAY | Tamilnadu | TheradiHQ",
+     "owner": "Theradi"
+    },
+    {
+     "text": "It is not about vijay got inexperienced ministers but the problem is they dont of basic understanding of politcs and services how do they manage ias officers 😮😢",
+     "url": "https://www.youtube.com/watch?v=VkVlCJcIYW4&lc=UgyFBY5Ibn9WkV85ezl4AaABAg",
+     "platform": "youtube",
+     "likes": 2,
+     "lang": "en",
+     "date": "2026-05-14",
+     "under": "TVK | Minister Keerthana | பூதாகரமான சர்ச்சை பேச்சு.. மன்னிப்பு கோரிய தவெக அமைச்சர்…",
+     "owner": "Thanthi TV"
     }
    ]
   },
   {
    "key": "arrests",
    "label": "Arrests of opponents, vendetta",
-   "posts": 29,
-   "people": 29,
+   "posts": 28,
+   "people": 28,
    "likes": 64,
    "by_platform": {
-    "youtube": 29
+    "youtube": 28
    },
    "heavy_posters": 0,
    "top": [
@@ -1438,11 +2177,11 @@
   {
    "key": "caste_religion",
    "label": "Caste and religion",
-   "posts": 19,
-   "people": 18,
-   "likes": 31,
+   "posts": 20,
+   "people": 19,
+   "likes": 32,
    "by_platform": {
-    "youtube": 19
+    "youtube": 20
    },
    "heavy_posters": 0,
    "top": [
@@ -1509,13 +2248,86 @@
    ]
   },
   {
+   "key": "govt_staff",
+   "label": "Government staff, teachers, old pension",
+   "posts": 15,
+   "people": 15,
+   "likes": 95,
+   "by_platform": {
+    "youtube": 15
+   },
+   "heavy_posters": 0,
+   "top": [
+    {
+     "text": "விஜய் அண்ணா தயவுசெய்து எங்களை போன்ற apply பண்ணாத பெண்களுக்கும் அதாவது அனைத்து மகளிருக்கும் கொடுங்கள் அரசு ஊழியர்கள் வருமான வரி கட்டுவோர் தவிர மீதி அனைத்து பெண்களுக்கும் பணம் கொடுங்கள் அண்ணா நன்றி விஜய் அண்ணா",
+     "url": "https://www.youtube.com/watch?v=D-NlDAJQYts&lc=UgypBVL7yIfMx3qthPp4AaABAg",
+     "platform": "youtube",
+     "likes": 69,
+     "lang": "ta",
+     "date": "2026-07-21",
+     "under": "TVK Govt | Magalir urimai thogai | மகளிருக்கு மாதம் ரூ.2,500..? எதிர்பார்த்த தேதி…",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "நமது பழைய அரசியல்வாதிகளும் அரசு ஊழியர்களும் குறுகிய காலத்தில் அரண்மனை போன்ற வீடுகளை எப்படி கட்டுகிறார்கள்?",
+     "url": "https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=UgxF4HAf4aKZGnlq01V4AaABAg",
+     "platform": "youtube",
+     "likes": 7,
+     "lang": "ta",
+     "date": "2026-06-17",
+     "under": "வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி",
+     "owner": "Polimer News"
+    },
+    {
+     "text": "அரசு ஊழியர்கள் வீட்டு பெண்களுக்கு உரிமைத்தொகை இல்லை என்றால் அவர்களின் குடும்பத்தில் உள்ளவர்களின் ஓட்டு மட்டும் வேண்டுமா.",
+     "url": "https://www.youtube.com/watch?v=BbhNL-pZNyQ&lc=UgwyWBwq6pZ02T76gSx4AaABAg",
+     "platform": "youtube",
+     "likes": 5,
+     "lang": "ta",
+     "date": "2026-05-15",
+     "under": "மகளிர் உரிமைத் தொகை ₹2500! புதிய விண்ணப்பம் எப்போது ?",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "70000 salary vangura IT employee government employee wife ku yethuku 2500 .... 15000 salary vangura neraiya peruku kedaikala",
+     "url": "https://www.youtube.com/watch?v=H5EX8BSyckE&lc=UgxSBjFsmB8QWJiHIkR4AaABAg",
+     "platform": "youtube",
+     "likes": 4,
+     "lang": "en",
+     "date": "2026-05-13",
+     "under": "Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "சர்கரை அட்டை உள்ளவ்கள் ஏழைகள் தான்.இன்று அதிகமா பண்க்காரங்க அரசு ஊழியர்களும் அரிசி அட்டை உள்ளது",
+     "url": "https://www.youtube.com/watch?v=H5EX8BSyckE&lc=UgyFyC3vrrori1Nwiw14AaABAg",
+     "platform": "youtube",
+     "likes": 4,
+     "lang": "ta",
+     "date": "2026-05-13",
+     "under": "Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM",
+     "owner": "Sathiyam News"
+    },
+    {
+     "text": "தமிழ் நாட்டில் கடன் இருக்கு 13லச்சம் கோடி வாங்கினது dmk,admk காரங்க cm விஜய் கடன் கொடுப்பது எப்படி வட்டி கட்டுவது எப்படி அரசு ஊழியர் களுக்கு சம்பளம், இலவசம் தருவது, இன்னும் மற்ற செலவினங்கள் உள்ளது அதனால் பொது மக்கள்…",
+     "url": "https://www.youtube.com/watch?v=7GZ8ZMez1Gw&lc=UgxZPGrjIyEEfNHBjPZ4AaABAg",
+     "platform": "youtube",
+     "likes": 2,
+     "lang": "ta",
+     "date": "2026-07-17",
+     "under": "TVK - ஆட்சி பற்றி மக்கள் கருத்து | Public Opinion #cmvijay #vijay #tvk #dmk…",
+     "owner": "MEDIA FILES"
+    }
+   ]
+  },
+  {
    "key": "access",
    "label": "Access to the CM and ministers",
-   "posts": 5,
-   "people": 5,
+   "posts": 7,
+   "people": 7,
    "likes": 2,
    "by_platform": {
-    "youtube": 5
+    "youtube": 7
    },
    "heavy_posters": 0,
    "top": [
@@ -1548,6 +2360,16 @@
      "date": "2026-11-10",
      "under": "🔴LIVE Netrikann : 6 மாதம் TVK ஆட்சி எப்படி இருக்கிறது முதல்வர் விஜய் அரசு? | Latest…",
      "owner": "Malaimurasu Tv 24X7"
+    },
+    {
+     "text": "Thambi romba theliva irukaaru. Idhai vijay paathu appavum press meet kudukalehna vekkeh kedulaiyeh kedu ketta vekkakedu.",
+     "url": "https://www.youtube.com/watch?v=-trBfvJTAmc&lc=UgycV5fPGHmrVcWYs5h4AaABAg",
+     "platform": "youtube",
+     "likes": 0,
+     "lang": "ta-latn",
+     "date": "2026-06-25",
+     "under": "நேருக்கு நேரா பதில் பேசணும்.1 Month of TVK Government Public Reaction.",
+     "owner": "Madurai Waalaa"
     },
     {
      "text": "Sethu project Maduravaiyal port Secretariate Pola SARVA NAASAM❗",
@@ -1588,7 +2410,6 @@
     "ABP Nadu": 3,
     "Behindwoods O2": 2,
     "MEDIA FILES": 2,
-    "News18 Tamil Nadu": 2,
     "Kizhakku News": 2,
     "BBC News Tamil": 2,
     "Polimer News": 2,
@@ -1602,7 +2423,8 @@
     "NewsJ": 1,
     "The Expose": 1,
     "TamilNadu People": 1,
-    "Behindwoods News": 1
+    "Behindwoods News": 1,
+    "CLICK TALKS": 1
    }
   },
   "reddit": "skipped: REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET are not set",
@@ -1612,6 +2434,7 @@
   "This is a reading of public posts found by the searches below, not a poll. It cannot give a share of the population.",
   "Comment sections over-represent people who are angry, organised or very online; party IT wings and fan pages post in them.",
   "Text repeated word for word by three or more accounts is left out of the counts and reported separately.",
+  "Tone is a word match (praise words v criticism words), not a reading of meaning: sarcasm and insults aimed at the other side are miscounted. Use it for direction over time, never as a percentage of support.",
   "Themes are matched by keyword. A post that mentions power cuts is counted under power whether it blames or defends anyone.",
   "YouTube comments sit under videos from channels with their own lean; the list of channels is in platform notes."
  ]
