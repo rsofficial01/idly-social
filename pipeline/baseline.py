@@ -145,8 +145,11 @@ def due(region: str, today: date | None = None) -> list[str]:
     for it in load(region):
         if it['_kind'] != 'watch':
             continue
-        m = re.search(r'(\d{4})-(\d{2})(?:-(\d{2}))?', str(it.get('when', '')))
-        when = date(int(m[1]), int(m[2]), int(m[3] or 1)) if m else None
+        m = re.search(r'(20\d{2})-(0[1-9]|1[0-2])(?:-(0[1-9]|[12]\d|3[01]))?(?!\d)', str(it.get('when', '')))
+        try:
+            when = date(int(m[1]), int(m[2]), int(m[3] or 1)) if m else None
+        except ValueError:
+            when = None
         rows.append((when or date.max, it))
     rows.sort(key=lambda r: r[0])
     return [f"{('OVERDUE ' if w < today else '') if w != date.max else 'undated '}{it.get('when')}: {it.get('what')} ({it.get('why')})" for w, it in rows]

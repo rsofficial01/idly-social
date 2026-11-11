@@ -69,6 +69,8 @@ class BaselineTests(unittest.TestCase):
 
     def test_due_and_validate(self):
         self.assertTrue(baseline.due('xx', date(2026, 12, 20))[0].startswith('OVERDUE'))
+        write(baseline.ROOT, 'watch_more.json', [{'id': 'fy', 'when': 'budget for 2026-27', 'what': 'x', 'why': 'y', 'status': 'verified', 'sources': SRC, 'as_of': '2026-11-10', 'keywords': ['budget']}])
+        self.assertTrue(any(l.startswith('undated') for l in baseline.due('xx', date(2026, 12, 20))))
         self.assertEqual(baseline.validate('xx'), [])
         root = baseline.ROOT
         write(root, 'ledger.json', [{'id': 'Bad Id', 'party': 'X', 'status': 'alleged', 'sources': [{'url': 'http://x'}], 'as_of': 'soon', 'keywords': []}])

@@ -1,0 +1,6746 @@
+[
+ {
+  "id": "tvk-seats-2026",
+  "topic": "formation",
+  "statement": "TVK won 108 of the 234 Assembly seats in 2026, short of the majority mark of 118.",
+  "value": 108,
+  "unit": "seats of 234",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-12",
+    "url": "https://www.dtnext.in/news/tamilnadu/rajendra-vishwanath-arlekar-appointed-tamil-nadu-governor-om-prakash-mathur-to-be-keralam-governor"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "assembly",
+   "சட்டப்பேரவை",
+   "mla",
+   "எம்எல்ஏ",
+   "majority",
+   "118",
+   "108",
+   "பெரும்பான்மை",
+   "2026 election",
+   "தேர்தல் முடிவு"
+  ]
+ },
+ {
+  "id": "vijay-sworn-in",
+  "topic": "formation",
+  "statement": "C. Joseph Vijay was sworn in as Chief Minister on 10 May 2026 with nine ministers.",
+  "value": "2026-05-10",
+  "unit": "date",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-10",
+    "url": "https://theprint.in/politics/inside-vijays-cabinet-of-9-ministers-a-mix-of-young-faces-old-hands-professionals-loyalists/2927127/"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-05-10",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/telangana/revanth-congratulates-vijay-on-taking-oath-as-tamil-nadu-chief-minister-1955775"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "swearing-in",
+   "பதவியேற்பு",
+   "chief minister",
+   "முதலமைச்சர்"
+  ]
+ },
+ {
+  "id": "vijay-kept-perambur",
+  "topic": "formation",
+  "statement": "Vijay won both Perambur and Tiruchirappalli East and kept Perambur, vacating Tiruchirappalli East.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "India TV",
+    "date": "2026-05-10",
+    "url": "https://www.indiatvnews.com/tamil-nadu/news-tamil-nadu-cm-vijay-resigns-from-tiruchirappalli-east-assembly-constituency-retains-perambur-2026-05-10-1040592"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "perambur",
+   "பெரம்பூர்",
+   "tiruchirappalli east",
+   "trichy east",
+   "திருச்சி கிழக்கு"
+  ]
+ },
+ {
+  "id": "trust-vote-13-may",
+  "topic": "formation",
+  "statement": "The government won the trust vote on 13 May 2026 by 144 votes to 22, with 5 MLAs neutral.",
+  "value": "144-22 (5 neutral)",
+  "unit": "votes",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-13",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-05-13",
+    "url": "https://thesouthfirst.com/tamilnadu/vck-places-major-conditions-for-support-as-vijay-government-wins-trust-vote-with-144-mlas/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "assembly",
+   "சட்டப்பேரவை",
+   "mla",
+   "எம்எல்ஏ",
+   "trust vote",
+   "floor test",
+   "நம்பிக்கை வாக்கெடுப்பு",
+   "144"
+  ]
+ },
+ {
+  "id": "dmk-walkout-trust-vote",
+  "topic": "formation",
+  "statement": "The DMK's 59 MLAs walked out of the 13 May trust vote.",
+  "value": 59,
+  "unit": "MLAs",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-13",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-05-13",
+    "url": "https://thesouthfirst.com/tamilnadu/vck-places-major-conditions-for-support-as-vijay-government-wins-trust-vote-with-144-mlas/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "walkout",
+   "வெளிநடப்பு",
+   "trust vote",
+   "59"
+  ]
+ },
+ {
+  "id": "trust-vote-ally-votes",
+  "topic": "formation",
+  "statement": "In the trust vote TVK cast 105 votes, Congress 5, CPI(M), CPI, VCK and IUML 2 each, and an expelled AMMK MLA 1, alongside AIADMK rebels.",
+  "value": {
+   "tvk": 105,
+   "congress": 5,
+   "cpi_m": 2,
+   "cpi": 2,
+   "vck": 2,
+   "iuml": 2,
+   "expelled_ammk": 1
+  },
+  "unit": "votes",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-13",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "congress",
+   "காங்கிரஸ்",
+   "vck",
+   "விசிக",
+   "iuml",
+   "cpi(m)",
+   "cpi",
+   "ammk",
+   "s. kamaraj",
+   "aiadmk rebels",
+   "trust vote"
+  ]
+ },
+ {
+  "id": "vck-support-conditions",
+  "topic": "formation",
+  "statement": "The VCK set conditions for its support, including a law against caste killings and opposition to delimitation.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-05-13",
+    "url": "https://thesouthfirst.com/tamilnadu/vck-places-major-conditions-for-support-as-vijay-government-wins-trust-vote-with-144-mlas/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vck",
+   "விசிக",
+   "thirumavalavan",
+   "conditions",
+   "honour killing law",
+   "ஆணவக் கொலை",
+   "delimitation",
+   "தொகுதி மறுவரையறை"
+  ]
+ },
+ {
+  "id": "congress-in-govt-first-since-1967",
+  "topic": "cabinet",
+  "statement": "Congress joined a Tamil Nadu government on 21 May 2026 for the first time since 1967.",
+  "value": 1967,
+  "unit": "year last in government",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-21",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-cabinet-expansion-sengottaiyan-moved-out-of-finance-as-vijay-inducts-23-ministers-launches-ai-ministry"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "congress",
+   "காங்கிரஸ்",
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "coalition",
+   "கூட்டணி ஆட்சி",
+   "1967"
+  ]
+ },
+ {
+  "id": "six-aiadmk-mlas-resigned",
+  "topic": "formation",
+  "statement": "Six AIADMK MLAs resigned their seats after the 2026 result.",
+  "value": 6,
+  "unit": "MLAs",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   },
+   {
+    "outlet": "PTI via ThePrint",
+    "date": "2026-09-08",
+    "url": "https://theprint.in/india/oct-6-by-poll-sets-stage-for-3-months-old-tvk-govts-first-electoral-test/3036548/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "resignation",
+   "ராஜினாமா",
+   "defection",
+   "கட்சித் தாவல்",
+   "assembly",
+   "சட்டப்பேரவை",
+   "mla",
+   "எம்எல்ஏ"
+  ]
+ },
+ {
+  "id": "two-ex-aiadmk-won-bypolls",
+  "topic": "elections",
+  "statement": "Former AIADMK MLAs K. Maragatham Kumaravel (Madurantakam) and P. Sathyabama (Dharapuram) resigned on 25 May, joined TVK and won the 6 October 2026 by-polls as TVK candidates.",
+  "value": 2,
+  "unit": "seats won by TVK",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-10-09",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tn-bye-polls-tvk-wins-dharapuram-and-madurantakam-boosting-vijays-assembly-strength"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "aiadmk",
+   "அதிமுக",
+   "by-poll",
+   "bypoll",
+   "இடைத்தேர்தல்",
+   "madurantakam",
+   "மதுராந்தகம்",
+   "dharapuram",
+   "தாராபுரம்",
+   "maragatham kumaravel",
+   "sathyabama"
+  ]
+ },
+ {
+  "id": "madurantakam-bypoll-margin",
+  "topic": "elections",
+  "statement": "TVK's winning margin over the DMK in the 6 October Madurantakam by-poll is reported differently by outlets.",
+  "value": null,
+  "unit": "votes",
+  "alt_values": [
+   "20,040 (DT Next)",
+   "20,081 (South First)",
+   "over 17,500 (The News Minute)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-10",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/tn-bypolls-vijays-tvk-gets-2-new-mlas-same-as-the-old-ones"
+   },
+   {
+    "outlet": "South First",
+    "date": "Oct 2026",
+    "url": "https://thesouthfirst.com/tamilnadu/tvk-wins-dharapuram-and-madurantakam-by-elections-road-ahead-to-an-independent-majority/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-10-09",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tn-bye-polls-tvk-wins-dharapuram-and-madurantakam-boosting-vijays-assembly-strength"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "dmk",
+   "திமுக",
+   "madurantakam",
+   "மதுராந்தகம்",
+   "by-poll",
+   "இடைத்தேர்தல்",
+   "margin"
+  ]
+ },
+ {
+  "id": "dharapuram-bypoll-result",
+  "topic": "elections",
+  "statement": "In the Dharapuram by-poll TVK's P. Sathyabama polled 66,841 votes to the DMK's 57,370, a margin of 9,471, with the AIADMK third.",
+  "value": 9471,
+  "unit": "votes margin",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-10",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/tn-bypolls-vijays-tvk-gets-2-new-mlas-same-as-the-old-ones"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "dmk",
+   "திமுக",
+   "aiadmk",
+   "அதிமுக",
+   "dharapuram",
+   "தாராபுரம்",
+   "by-poll",
+   "இடைத்தேர்தல்",
+   "sathyabama"
+  ]
+ },
+ {
+  "id": "five-seats-vacant",
+  "topic": "elections",
+  "statement": "Five Assembly seats remain vacant: Tiruchirappalli East, Perundurai, Ambasamudram, Viralimalai and Karur.",
+  "value": 5,
+  "unit": "seats",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "PTI via ThePrint",
+    "date": "2026-09-08",
+    "url": "https://theprint.in/india/oct-6-by-poll-sets-stage-for-3-months-old-tvk-govts-first-electoral-test/3036548/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "assembly",
+   "சட்டப்பேரவை",
+   "mla",
+   "எம்எல்ஏ",
+   "vacant seats",
+   "காலியிடங்கள்",
+   "by-poll",
+   "இடைத்தேர்தல்",
+   "tiruchirappalli east",
+   "perundurai",
+   "பெருந்துறை",
+   "ambasamudram",
+   "அம்பாசமுத்திரம்",
+   "viralimalai",
+   "விராலிமலை",
+   "karur",
+   "கரூர்"
+  ]
+ },
+ {
+  "id": "hc-dismissed-pil-24-sept",
+  "topic": "formation",
+  "statement": "On 24 September 2026 the Madras High Court dismissed a PIL seeking a deposit from the six resigned AIADMK MLAs and a five-year disqualification.",
+  "value": "2026-09-24",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "madras high court",
+   "உயர் நீதிமன்றம்",
+   "pil",
+   "disqualification",
+   "தகுதி நீக்கம்",
+   "aiadmk",
+   "அதிமுக"
+  ]
+ },
+ {
+  "id": "hc-speaker-two-months-13-oct",
+  "topic": "formation",
+  "statement": "On 13 October 2026 the Madras High Court upheld Speaker J.C.D. Prabhakar's acceptance of the six resignations and told him to decide AIADMK whip Krishnamurthy's disqualification petition within two months.",
+  "value": "2026-10-13",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "madras high court",
+   "speaker",
+   "சபாநாயகர்",
+   "j.c.d. prabhakar",
+   "disqualification",
+   "தகுதி நீக்கம்",
+   "krishnamurthy",
+   "aiadmk",
+   "அதிமுக",
+   "whip"
+  ]
+ },
+ {
+  "id": "sc-dismissed-appeal",
+  "topic": "formation",
+  "statement": "The Supreme Court dismissed the appeal against the High Court's ruling on the six resignations, as reported on 26 October 2026.",
+  "value": "2026-10-26",
+  "unit": "date reported",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "supreme court",
+   "உச்ச நீதிமன்றம்",
+   "disqualification",
+   "aiadmk",
+   "அதிமுக",
+   "resignation"
+  ]
+ },
+ {
+  "id": "speaker-deadline-mid-december",
+  "topic": "formation",
+  "statement": "idly's calculation: two months from the 13 October order puts the Speaker's deadline on the disqualification petition at about 13 December 2026; the petition is still pending.",
+  "value": "2026-12-13",
+  "unit": "approximate deadline",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Verdictum",
+    "date": "2026-10-26",
+    "url": "https://www.verdictum.in/supreme-court/plea-against-6-aiadmk-mlas-who-defected-to-tvk-1624643"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "speaker",
+   "சபாநாயகர்",
+   "disqualification",
+   "தகுதி நீக்கம்",
+   "deadline",
+   "aiadmk",
+   "அதிமுக",
+   "j.c.d. prabhakar"
+  ]
+ },
+ {
+  "id": "vijay-asked-for-time",
+  "topic": "formation",
+  "statement": "In his first speech as CM on 10 May 2026 Vijay asked for \"some time\" and said the treasury had been \"completely emptied\"; no report gives a fixed period.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Free Press Journal",
+    "date": "2026-05-10",
+    "url": "https://www.freepressjournal.in/india/give-me-some-time-and-i-will-not-make-a-mistake-vijays-first-address-as-tamil-nadu-chief-minister-video"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-05-10",
+    "url": "https://www.theweek.in/news/india/2026/05/10/chief-minister-vijays-first-speech-from-womens-safety-to-farmer-support-5-quotes-by-the-tvk-chief-in-chennai.amp.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "give me some time",
+   "empty treasury",
+   "கஜானா காலி",
+   "first speech"
+  ]
+ },
+ {
+  "id": "kamal-haasan-six-months",
+  "topic": "formation",
+  "statement": "MNM chief Kamal Haasan said on 17 May 2026 that Vijay should be given six months.",
+  "value": 6,
+  "unit": "months",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ANI",
+    "date": "2026-05-17",
+    "url": "https://aninews.in/news/national/politics/need-to-give-cm-vijay-six-months-time-mnm-chief-kamal-haasan-on-tamil-nadu-govt20260517172121/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "kamal haasan",
+   "கமல்ஹாசன்",
+   "mnm",
+   "மக்கள் நீதி மய்யம்",
+   "six months",
+   "ஆறு மாதம்"
+  ]
+ },
+ {
+  "id": "udhayanidhi-horse-trading-charge",
+  "topic": "formation",
+  "statement": "On 13 May 2026, the day of the trust vote, DMK's Udhayanidhi Stalin alleged horse-trading.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "alleged",
+  "response": "ThePrint's report of the charge carries no TVK reply; no court or agency finding has been reported.",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-05-13",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "udhayanidhi stalin",
+   "உதயநிதி",
+   "dmk",
+   "திமுக",
+   "horse-trading",
+   "குதிரை பேரம்",
+   "trust vote"
+  ]
+ },
+ {
+  "id": "south-first-six-month-survey",
+  "topic": "outlook",
+  "statement": "A South First survey of over 100 people on 8-9 November 2026, not a scientific poll, found 60.9% said the government failed expectations and 71.3% had little or no confidence.",
+  "value": {
+   "failed_expectations_pct": 60.9,
+   "little_or_no_confidence_pct": 71.3
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-11-10",
+    "url": "https://thesouthfirst.com/tamilnadu/in-tamil-nadu-vijays-tvk-won-on-the-promise-of-change-six-months-on-has-it-lived-up-to-expectations/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "six months",
+   "survey",
+   "கருத்துக்கணிப்பு",
+   "report card"
+  ]
+ },
+ {
+  "id": "council-of-ministers-35",
+  "topic": "cabinet",
+  "statement": "The council of ministers reached 35 including the Chief Minister by 22 May 2026, the constitutional maximum of 15% of 234 seats.",
+  "value": 35,
+  "unit": "ministers incl. CM",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-05-22",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-cabinet-now-at-35-iumls-shahjahan-vcks-vanni-arasu-sworn-in-as-ministers-1958360"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "35 ministers",
+   "15%"
+  ]
+ },
+ {
+  "id": "cabinet-party-split",
+  "topic": "cabinet",
+  "statement": "The 35-member council has 31 TVK ministers, 2 Congress, 1 VCK and 1 IUML.",
+  "value": {
+   "tvk": 31,
+   "congress": 2,
+   "vck": 1,
+   "iuml": 1
+  },
+  "unit": "ministers",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-05-22",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-cabinet-now-at-35-iumls-shahjahan-vcks-vanni-arasu-sworn-in-as-ministers-1958360"
+   },
+   {
+    "outlet": "IANS via Hans India",
+    "date": "2026-09-08",
+    "url": "https://www.thehansindia.com/tamilnadu/tamil-nadu-cabinet-reshuffle-likely-as-assembly-session-ends-1119635"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "congress",
+   "காங்கிரஸ்",
+   "vck",
+   "விசிக",
+   "iuml",
+   "coalition",
+   "கூட்டணி"
+  ]
+ },
+ {
+  "id": "cabinet-expansion-21-may",
+  "topic": "cabinet",
+  "statement": "On 21 May 2026 23 more ministers were sworn in (21 TVK, 2 Congress), Finance moved from Sengottaiyan to first-time MLA N. Marie Wilson, and a new AI ministry was created.",
+  "value": 23,
+  "unit": "ministers sworn in",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-21",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-cabinet-expansion-sengottaiyan-moved-out-of-finance-as-vijay-inducts-23-ministers-launches-ai-ministry"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "sengottaiyan",
+   "ai ministry",
+   "expansion",
+   "அமைச்சரவை விரிவாக்கம்"
+  ]
+ },
+ {
+  "id": "finance-changed-in-five-days",
+  "topic": "cabinet",
+  "statement": "idly's calculation: the Finance portfolio changed hands five days after it was first allotted (16 to 21 May 2026); no official reason was given.",
+  "value": 5,
+  "unit": "days",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-16",
+    "url": "https://www.dtnext.in/news/politics/done-waiting-for-allies-cm-vijay-allocates-portfolios-home-for-himself-finance-for-sengottaiyan-pwd-for-aadhav"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-21",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-cabinet-expansion-sengottaiyan-moved-out-of-finance-as-vijay-inducts-23-ministers-launches-ai-ministry"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "sengottaiyan",
+   "finance portfolio",
+   "நிதித்துறை"
+  ]
+ },
+ {
+  "id": "no-reshuffle-to-10-nov",
+  "topic": "cabinet",
+  "statement": "No cabinet reshuffle or removal was found between 22 May and 10 November 2026.",
+  "value": 0,
+  "unit": "reshuffles",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "IANS via Hans India",
+    "date": "2026-09-08",
+    "url": "https://www.thehansindia.com/tamilnadu/tamil-nadu-cabinet-reshuffle-likely-as-assembly-session-ends-1119635"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-11-10",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/vijay-tvk-chief-minister-cm-coalition-hits-misses-262370"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "reshuffle",
+   "அமைச்சரவை மாற்றம்"
+  ]
+ },
+ {
+  "id": "cabinet-prior-experience",
+  "topic": "cabinet",
+  "statement": "idly could source prior ministerial experience for one of the 35 ministers, K.A. Sengottaiyan (MLA since 1977), and prior legislative experience for two, adding N. Anand (Puducherry MLA, 2006).",
+  "value": {
+   "ministerial": 1,
+   "legislative": 2
+  },
+  "unit": "ministers",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-05-14",
+    "url": "https://thesouthfirst.com/tamilnadu/education-wealth-and-criminal-cases-everything-you-need-to-know-about-the-tamil-nadu-cabinet/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "sengottaiyan",
+   "bussy anand",
+   "n. anand",
+   "experience",
+   "first-time mla"
+  ]
+ },
+ {
+  "id": "sc-ministers-tvk",
+  "topic": "cabinet",
+  "statement": "The TVK council has 8 Scheduled Caste ministers, 7 from the 21 May induction plus VCK's Vanni Arasu, a record for Tamil Nadu.",
+  "value": 8,
+  "unit": "SC ministers",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-05-21",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/dawn-of-coalition-era-cm-vijay-expands-cabinet-with-record-7-dalit-ministers-inducts-2-congressmen-243906"
+   },
+   {
+    "outlet": "Open",
+    "date": "2026-05-23",
+    "url": "https://openthemagazine.com/politics/dalits-women-brahmins-a-muslim-and-congressmenvijays-ministry-is-unlike-anything-tamil-nadu-has-seen"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "dalit ministers",
+   "தலித் அமைச்சர்கள்",
+   "scheduled caste",
+   "vanni arasu"
+  ]
+ },
+ {
+  "id": "women-ministers-tvk",
+  "topic": "cabinet",
+  "statement": "The TVK council has four women ministers.",
+  "value": 4,
+  "unit": "women ministers",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Week",
+    "date": "2026-05-21",
+    "url": "https://www.theweek.in/news/india/2026/05/21/tamil-nadu-minister-list-2026-vijays-tvk-betters-jayalalithaa-by-inducting-four-women-into-cabinet.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "women ministers",
+   "பெண் அமைச்சர்கள்"
+  ]
+ },
+ {
+  "id": "brahmin-ministers-tvk",
+  "topic": "cabinet",
+  "statement": "The TVK council has two Brahmin ministers; HR&CE Minister S. Ramesh said no posts were given on caste consideration.",
+  "value": 2,
+  "unit": "ministers",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Herald",
+    "date": "May 2026",
+    "url": "https://www.deccanherald.com/india/tamil-nadu/cm-vijays-cabinet-inducts-highest-number-of-dalit-ministers-in-tamil-nadus-history-4011580"
+   },
+   {
+    "outlet": "PTI via Devdiscourse",
+    "date": "2026-05-23",
+    "url": "https://www.devdiscourse.com/article/politics/3919088-tvk-members-made-ministers-without-caste-consideration-tn-min-ramesh"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "brahmin ministers",
+   "s. ramesh",
+   "hr&ce",
+   "இந்து சமய அறநிலையத்துறை"
+  ]
+ },
+ {
+  "id": "dmk-2021-cabinet",
+  "topic": "history_2021",
+  "statement": "The DMK's first cabinet in 2021 had 34 members including the CM on day one, with 15 new faces, 3 SC ministers and 2 women.",
+  "value": {
+   "size": 34,
+   "new_faces": 15,
+   "sc": 3,
+   "women": 2
+  },
+  "unit": "ministers",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Week",
+    "date": "2021-05-07",
+    "url": "https://www.theweek.in/news/india/2021/05/07/stalin-sworn-in-as-tamil-nadu-cm-33-ministers-take-oath.html"
+   },
+   {
+    "outlet": "The Hindu via inkl",
+    "date": "May 2021",
+    "url": "https://www.inkl.com/news/stalin-retains-veterans-adds-15-new-faces-in-t-n-cabinet"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2024-10-01",
+    "url": "https://theprint.in/politics/with-allys-needling-eye-on-northern-tn-stalin-cabinet-makes-history-with-highest-ever-dalit-quorum/2292401"
+   },
+   {
+    "outlet": "The Quint",
+    "date": "2021-05-08",
+    "url": "https://www.thequint.com/neon/gender/tamil-nadu-chief-minister-dmk-stalin-where-women-cabinet-geetha-jeevan-kayalvizhi-selvaraj-aiadmk"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "2021"
+  ]
+ },
+ {
+  "id": "aiadmk-2016-cabinet-size",
+  "topic": "history_2016",
+  "statement": "The AIADMK's 2016 cabinet had 29 members at oath, with at most 2 SC ministers at any point in 2016-21.",
+  "value": {
+   "size": 29,
+   "sc_max": 2
+  },
+  "unit": "ministers",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2016-05-23",
+    "url": "https://www.business-standard.com/article/politics/jayalalithaa-keeps-five-poll-promises-on-day-1-116052300523_1.html"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2024-10-01",
+    "url": "https://theprint.in/politics/with-allys-needling-eye-on-northern-tn-stalin-cabinet-makes-history-with-highest-ever-dalit-quorum/2292401"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "2016"
+  ]
+ },
+ {
+  "id": "aiadmk-2011-reshuffles",
+  "topic": "history_2011",
+  "statement": "The AIADMK government made three cabinet reshuffles by 4 November 2011 and dropped six ministers that day without official reasons.",
+  "value": 3,
+  "unit": "reshuffles in six months",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "India TV",
+    "date": "Nov 2011",
+    "url": "https://www.indiatvnews.com/news/india/jaya-axes-six-ministers-inducts-another-six-11852.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "cabinet",
+   "அமைச்சரவை",
+   "minister",
+   "அமைச்சர்",
+   "reshuffle",
+   "2011"
+  ]
+ },
+ {
+  "id": "chief-secretary-extension",
+  "topic": "officers",
+  "statement": "The Centre approved a six-month extension for Chief Secretary M. Sai Kumar, from 1 September 2026 to 28 February 2027; he was installed by the Election Commission on 8 April 2026 and kept by TVK.",
+  "value": "2027-02-28",
+  "unit": "extension ends",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-07-15",
+    "url": "https://www.dtnext.in/news/tamilnadu/centre-grants-6-month-extension-to-tamil-nadu-chief-secretary"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "chief secretary",
+   "தலைமைச் செயலாளர்",
+   "m. sai kumar",
+   "சாய் குமார்",
+   "extension",
+   "ias"
+  ]
+ },
+ {
+  "id": "debt-inherited-2026",
+  "topic": "finance",
+  "statement": "The debt the TVK government inherited for 2025-26 is put at different levels by the DMK's interim budget and the TVK white paper.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 9.52 lakh crore (2025-26 RE, DMK interim budget, 17 Feb 2026)",
+   "about Rs 10 lakh crore (TVK white paper, 16 Jun 2026)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "dmk",
+   "திமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "10 lakh crore",
+   "inherited debt"
+  ]
+ },
+ {
+  "id": "debt-incl-psu-white-paper",
+  "topic": "finance",
+  "statement": "The white paper put total debt including state-company (PSU) debt at Rs 13.18 lakh crore.",
+  "value": 1318000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "psu debt",
+   "13.18 lakh crore",
+   "பொதுத்துறை நிறுவனக் கடன்"
+  ]
+ },
+ {
+  "id": "psu-debt-white-paper",
+  "topic": "finance",
+  "statement": "The white paper put state-company (PSU) debt at Rs 3.18 lakh crore.",
+  "value": 318000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "psu debt",
+   "tangedco",
+   "off-budget"
+  ]
+ },
+ {
+  "id": "debt-gsdp-2025-26",
+  "topic": "finance",
+  "statement": "The 2025-26 debt-to-GSDP ratio differs between the white paper and the budget documents.",
+  "value": null,
+  "unit": "% of GSDP",
+  "alt_values": [
+   "28.3% (TVK white paper)",
+   "27.4% (budget documents, 2025-26 RE)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "Jun 2026",
+    "url": "https://theprint.in/economy/doubled-debt-own-tax-collapse-a-white-paper-calling-it-structural-the-economy-tvk-govt-inherited/2963690/"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "debt to gsdp",
+   "28.3",
+   "27.4"
+  ]
+ },
+ {
+  "id": "debt-end-2026-27-tvk",
+  "topic": "finance",
+  "statement": "The TVK budget estimates debt at Rs 10,98,768 crore, 27.01% of GSDP, at the end of 2026-27.",
+  "value": 1098768,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-08-05",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-nadu-tvk-maiden-budget-marie-wilson-fiscal-revival-roadmap-252618"
+   },
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "27.01"
+  ]
+ },
+ {
+  "id": "debt-end-2026-27-dmk-interim",
+  "topic": "finance",
+  "statement": "The DMK's interim budget of 17 February 2026 had projected debt of Rs 10.71 lakh crore, 26.12% of GSDP, at the end of 2026-27.",
+  "value": 1071000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "thangam thennarasu",
+   "தங்கம் தென்னரசு",
+   "interim budget",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "26.12"
+  ]
+ },
+ {
+  "id": "tn-highest-debt-state",
+  "topic": "finance",
+  "statement": "Tamil Nadu's 2025-26 debt is the highest of any state, but the figure differs by source; a Union Rajya Sabha reply put it as the only state above Rs 10 lakh crore, ahead of Maharashtra (Rs 9.37 lakh crore) and Uttar Pradesh (Rs 8.84 lakh crore).",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 10,42,858 crore for 2025-26 (Union Rajya Sabha reply, RBI data, via DT Next)",
+   "Rs 9.38 lakh crore for 2025 RE and Rs 10.4 lakh crore for 2026 BE, about 29% of GSDP (TNM, RBI data)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-07-29",
+    "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadus-debts-cross-rs-10-lakh-cr-mark-tops-states"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadus-debt-in-focus-as-cm-vijay-says-dmk-left-behind-a-burden"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "highest debt",
+   "rbi",
+   "rajya sabha",
+   "maharashtra",
+   "uttar pradesh"
+  ]
+ },
+ {
+  "id": "debt-doubled-each-term",
+  "topic": "finance",
+  "statement": "idly's calculation: debt roughly doubled each five-year term, from Rs 2.23 lakh crore (2015-16) to Rs 4.80 lakh crore (2020-21), about 2.2 times, then to Rs 9.52 lakh crore (2025-26 RE), about 2 times.",
+  "value": {
+   "2015-16": 223030,
+   "2020-21": 480300,
+   "2025-26_RE": 952000
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   },
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "dmk",
+   "திமுக",
+   "aiadmk",
+   "அதிமுக",
+   "doubled"
+  ]
+ },
+ {
+  "id": "interest-2025-26",
+  "topic": "finance",
+  "statement": "The white paper put 2025-26 interest payments at Rs 67,050 crore, 22.8% of revenue receipts.",
+  "value": 67050,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "interest",
+   "வட்டி",
+   "interest payments",
+   "22.8"
+  ]
+ },
+ {
+  "id": "interest-2021-22",
+  "topic": "finance",
+  "statement": "Reported 2021-22 interest payments differ by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 38,740 crore (The Federal, citing white paper)",
+   "Rs 41,564 crore (Policy Circle)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   },
+   {
+    "outlet": "Policy Circle",
+    "date": "2026-06-19",
+    "url": "https://www.policycircle.org/economy/tamil-nadu-debt-welfare-spending/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "interest",
+   "வட்டி",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "2021-22"
+  ]
+ },
+ {
+  "id": "debt-per-person",
+  "topic": "finance",
+  "statement": "According to the white paper, debt per person was Rs 1,28,934 in 2025-26, up from Rs 77,819 in 2021-22.",
+  "value": {
+   "2021-22": 77819,
+   "2025-26": 128934
+  },
+  "unit": "Rs per person",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "Jun 2026",
+    "url": "https://theprint.in/economy/doubled-debt-own-tax-collapse-a-white-paper-calling-it-structural-the-economy-tvk-govt-inherited/2963690/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "per capita debt",
+   "தனிநபர் கடன்"
+  ]
+ },
+ {
+  "id": "white-paper-released",
+  "topic": "finance",
+  "statement": "Finance Minister N. Marie Wilson released a white paper on state finances on 16 June 2026.",
+  "value": "2026-06-16",
+  "unit": "date",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்"
+  ]
+ },
+ {
+  "id": "revenue-deficit-2025-26-conflict",
+  "topic": "finance",
+  "statement": "The 2025-26 revenue deficit in the white paper does not match the figure in the TVK's own budget seven weeks later; the gap is Rs 9,105 crore and no report explains it.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 78,324 crore, 2.2% of GSDP (TVK white paper, 16 Jun 2026)",
+   "Rs 69,219 crore (DMK interim budget RE, 17 Feb 2026)",
+   "Rs 69,219 crore (TVK budget RE, 5 Aug 2026)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "The Statesman",
+    "date": "Feb 2026",
+    "url": "https://www.thestatesman.com/india/tn-interim-budget-fm-accuses-centre-of-squeezing-states-finances-by-denying-its-due-share-of-funds-1503558287.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "78,324",
+   "69,219"
+  ]
+ },
+ {
+  "id": "fiscal-deficit-2025-26",
+  "topic": "finance",
+  "statement": "The 2025-26 fiscal deficit is put differently by the interim budget, the white paper and the TVK budget.",
+  "value": null,
+  "unit": "% of GSDP",
+  "alt_values": [
+   "3.48% (DMK interim budget RE)",
+   "3.8% (TVK white paper)",
+   "3.5% (TVK budget RE)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "2025-26"
+  ]
+ },
+ {
+  "id": "revenue-deficit-2026-27",
+  "topic": "finance",
+  "statement": "The TVK budget puts the 2026-27 revenue deficit at Rs 55,775 crore, 1.4% of GSDP.",
+  "value": 55775,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "55,775"
+  ]
+ },
+ {
+  "id": "fiscal-deficit-2026-27",
+  "topic": "finance",
+  "statement": "The TVK budget sets the 2026-27 fiscal deficit at Rs 1,21,819 crore, 3% of GSDP, the same ratio as the DMK interim budget's Rs 1.21 lakh crore.",
+  "value": 121819,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-08-05",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-nadu-tvk-maiden-budget-marie-wilson-fiscal-revival-roadmap-252618"
+   },
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "3%"
+  ]
+ },
+ {
+  "id": "revenue-receipts-not-reconciled",
+  "topic": "finance",
+  "statement": "The TVK budget put 2026-27 revenue receipts at Rs 3,50,027 crore, Rs 5,452 crore above the interim budget its white paper called overstated by about Rs 14,000 crore; a South First fact-check found the two documents not reconciled.",
+  "value": 350027,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-07",
+    "url": "https://thesouthfirst.com/tamilnadu/fact-check-tvks-white-paper-accused-the-dmk-of-inflating-revenue-estimates-has-its-own-budget-done-the-same/"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue receipts",
+   "வருவாய் வரவுகள்",
+   "fact check"
+  ]
+ },
+ {
+  "id": "own-tax-revenue-2026-27",
+  "topic": "finance",
+  "statement": "The 2026-27 budget puts the state's own tax revenue at Rs 2,26,740 crore.",
+  "value": 226740,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "own tax revenue",
+   "சொந்த வரி வருவாய்"
+  ]
+ },
+ {
+  "id": "committed-spending-61pct",
+  "topic": "finance",
+  "statement": "Salaries, pensions and interest take Rs 2,14,728 crore, 61% of revenue receipts, against a 50% average for states.",
+  "value": 214728,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "salaries",
+   "pensions",
+   "interest",
+   "வட்டி",
+   "committed expenditure"
+  ]
+ },
+ {
+  "id": "interest-share-vs-states",
+  "topic": "finance",
+  "statement": "RBI data shows interest took 20.8% of Tamil Nadu's revenue receipts in 2025-26, against 12.2% for all states, Kerala 20.9%, Karnataka 15.6%, Gujarat 12.4% and Maharashtra 11.5%.",
+  "value": {
+   "tamil_nadu": 20.8,
+   "all_states": 12.2,
+   "kerala": 20.9,
+   "karnataka": 15.6,
+   "gujarat": 12.4,
+   "maharashtra": 11.5
+  },
+  "unit": "% of revenue receipts",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "RBI, State Finances: A Study of Budgets",
+    "date": "2026-01-23",
+    "url": "https://rbi.org.in/scripts/PublicationsView.aspx?id=23729"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "interest",
+   "வட்டி",
+   "rbi",
+   "kerala",
+   "karnataka"
+  ]
+ },
+ {
+  "id": "gross-borrowing-2026-27",
+  "topic": "finance",
+  "statement": "The 2026-27 budget provides for gross borrowing of Rs 1,73,445 crore.",
+  "value": 173445,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/india/cm-vijay-led-govt-presents-first-budget-allots-over-rs-1000-cr-for-gold-ring-coin-gifts/3006469/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "borrowing",
+   "கடன் வாங்குதல்"
+  ]
+ },
+ {
+  "id": "budget-new-gift-schemes",
+  "topic": "finance",
+  "statement": "The 2026-27 budget set Rs 812 crore for a wedding gold coin and saree, Rs 560 crore for a 1-gram gold ring for babies born in government hospitals, and Rs 110 crore for a goat scheme.",
+  "value": {
+   "gold_coin_saree": 812,
+   "newborn_ring": 560,
+   "goats": 110
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2026-08-06",
+    "url": "https://www.business-standard.com/india-news/tamil-nadu-budget-2026-tvk-gold-coins-rings-cows-schemes-joseph-vijay-126080600253_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "annan seer",
+   "அண்ணன் சீர்",
+   "gold coin",
+   "தங்க நாணயம்",
+   "8 gram gold",
+   "thali",
+   "தாலிக்குத் தங்கம்",
+   "silk saree",
+   "brides",
+   "thaimaaman thanga mothiram",
+   "தாய்மாமன் தங்க மோதிரம்",
+   "gold ring",
+   "தங்க மோதிரம்",
+   "newborn",
+   "goat scheme"
+  ]
+ },
+ {
+  "id": "budget-cuts-offset",
+  "topic": "finance",
+  "statement": "Economist K. Jothi Sivagnanam found Rs 18,141 crore of cuts in the budget, including Rs 2,577 crore of capital spending, offsetting Rs 18,386 crore of new transfers.",
+  "value": {
+   "cuts": 18141,
+   "capital_cut": 2577,
+   "new_transfers": 18386
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-06",
+    "url": "https://thesouthfirst.com/opinion/first-budget-of-the-tvk-government-continuity-over-consolidation/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "jothi sivagnanam",
+   "capital expenditure",
+   "மூலதனச் செலவு"
+  ]
+ },
+ {
+  "id": "liquor-privilege-fee",
+  "topic": "finance",
+  "statement": "The 2026-27 budget adds a privilege fee on liquor makers of up to Rs 1,000 crore a year and budgets own tax revenue up 10%.",
+  "value": 1000,
+  "unit": "Rs crore a year",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/india/cm-vijay-led-govt-presents-first-budget-allots-over-rs-1000-cr-for-gold-ring-coin-gifts/3006469/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "tasmac",
+   "டாஸ்மாக்",
+   "privilege fee",
+   "liquor"
+  ]
+ },
+ {
+  "id": "revenue-target-16000",
+  "topic": "finance",
+  "statement": "The government expects about Rs 16,000 crore a year in extra revenue from tax reforms and a liquor privilege fee but has not explained the method.",
+  "value": 16000,
+  "unit": "Rs crore a year",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/politics/ai-city-laptops-hostels-branded-cycles-vijays-first-budget-gives-old-schemes-a-gen-z-makeover/3006173/"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-08-05",
+    "url": "https://www.theweek.in/news/india/2026/08/05/gold-laptops-and-the-uncle-vijay-effect-five-takeaways-from-tvk-govts-debut-budget.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue measures",
+   "16,000 crore"
+  ]
+ },
+ {
+  "id": "thennarasu-empty-paper",
+  "topic": "finance",
+  "statement": "Former finance minister Thangam Thennarasu called the white paper an \"empty paper\" repackaging budget data; idly's claim check rates that mostly true.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "Jun 2026",
+    "url": "https://www.dtnext.in/news/tamilnadu/bid-to-escape-from-hyped-promises-thangam-thennarasu"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "thangam thennarasu",
+   "தங்கம் தென்னரசு",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "empty paper",
+   "வெற்று அறிக்கை"
+  ]
+ },
+ {
+  "id": "eps-budget-zero",
+  "topic": "finance",
+  "statement": "After the 5 August budget Edappadi K. Palaniswami called it \"zero\", citing the unmet Rs 2,500 promise; the government said no existing welfare scheme had been cut.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/india/cm-vijay-led-govt-presents-first-budget-allots-over-rs-1000-cr-for-gold-ring-coin-gifts/3006469/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "edappadi k. palaniswami",
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "2500"
+  ]
+ },
+ {
+  "id": "claim-vijay-10-lakh-crore-debt",
+  "topic": "finance",
+  "statement": "idly's claim check rates Vijay's 10 May claim that the DMK left Rs 10 lakh crore of debt mostly true, though about Rs 4.8 lakh crore predates 2021.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Today",
+    "date": "2026-05-10",
+    "url": "https://www.businesstoday.in/india/story/dmk-emptied-the-treasury-has-left-rs-10-lakh-crore-debt-vijays-first-attack-after-taking-over-as-cm-530690-2026-05-10"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "dmk",
+   "திமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "10 lakh crore",
+   "fact check"
+  ]
+ },
+ {
+  "id": "claim-empty-treasury-unverifiable",
+  "topic": "finance",
+  "statement": "idly's claim check rates Vijay's claim that the DMK \"emptied the treasury\" unverifiable, because no cash-balance figure has been published.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Today",
+    "date": "2026-05-10",
+    "url": "https://www.businesstoday.in/india/story/dmk-emptied-the-treasury-has-left-rs-10-lakh-crore-debt-vijays-first-attack-after-taking-over-as-cm-530690-2026-05-10"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "empty treasury",
+   "கஜானா காலி",
+   "fact check"
+  ]
+ },
+ {
+  "id": "claim-stalin-debt-within-limit",
+  "topic": "finance",
+  "statement": "idly's claim check rates Stalin's 10 May claim that debt was within the permitted limit misleading, as the DMK's own figures show a 2025-26 fiscal deficit of 3.48%, above the 3% norm.",
+  "value": 3.48,
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "May 2026",
+    "url": "https://www.dtnext.in/news/tamilnadu/stalin-hits-back-at-vijays-empty-treasury-remark-says-tn-debt-within-limit"
+   },
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "dmk",
+   "திமுக",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "fact check",
+   "funds are there"
+  ]
+ },
+ {
+  "id": "gst-gross-2026",
+  "topic": "economy",
+  "statement": "Tamil Nadu's gross GST fell year on year every month from May to September 2026 (worst May, -15.1%) and rose 3% in October against 22.9% nationally.",
+  "value": {
+   "may": -15.1,
+   "aug": -1,
+   "sep": -5,
+   "oct": 3,
+   "india_oct": 22.9
+  },
+  "unit": "% year on year",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-03",
+    "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-points-to-17-rise-in-post-settlement-gst-revenue-amid-opposition-criticism"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-11-04",
+    "url": "https://theprint.in/india/tamil-nadus-gst-revenue-grows-just-3-in-october-dmk-blames-tvk-govt-for-weak-economic-growth/3090098/"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-02",
+    "url": "https://www.dtnext.in/news/tamilnadu/dmk-chief-stalin-slams-tvk-govt-over-gst-slump-loss-of-rs-1614-crore-korean-investment-to-ap"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "gst",
+   "ஜிஎஸ்டி",
+   "tax revenue",
+   "logesh tamilselvan",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்"
+  ]
+ },
+ {
+  "id": "gst-post-settlement",
+  "topic": "economy",
+  "statement": "State officials say the post-settlement GST share rose 15% from April to October 2026 and 8% in October.",
+  "value": {
+   "apr_oct": 15,
+   "oct": 8
+  },
+  "unit": "% growth",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-11-04",
+    "url": "https://theprint.in/india/tamil-nadus-gst-revenue-grows-just-3-in-october-dmk-blames-tvk-govt-for-weak-economic-growth/3090098/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "gst",
+   "ஜிஎஸ்டி",
+   "post-settlement",
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "logesh tamilselvan"
+  ]
+ },
+ {
+  "id": "tasmac-rs10-rise",
+  "topic": "welfare",
+  "statement": "TASMAC raised the printed price of liquor by Rs 10 a bottle from 1 November 2026, five weeks after Minister K. Vignesh said there would be no retail price rise in the near future.",
+  "value": 10,
+  "unit": "Rs per bottle",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-30",
+    "url": "https://www.dtnext.in/news/tamilnadu/tasmac-liquor-prices-to-rise-by-rs10-from-november-1-separate-buy-back-charge-scrapped"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-09-23",
+    "url": "https://www.dtnext.in/news/tamilnadu/minister-vignesh-allays-fears-of-liquor-price-hike-over-new-cess"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tasmac",
+   "டாஸ்மாக்",
+   "liquor price",
+   "மது விலை",
+   "k. vignesh",
+   "cess"
+  ]
+ },
+ {
+  "id": "white-paper-2021",
+  "topic": "history_2021",
+  "statement": "On 9 August 2021 the DMK's Finance Minister P. Thiaga Rajan released a white paper calling the AIADMK's finances \"unsustainable\" and projecting debt of about Rs 5.7 lakh crore by March 2022.",
+  "value": 570000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Scroll",
+    "date": "Aug 2021",
+    "url": "https://scroll.in/latest/1002450/tamil-nadu-fiscal-position-unsustainable-says-minister-blames-aiadmk-government-of-mismanagement"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "ptr",
+   "p. thiaga rajan",
+   "பழனிவேல் தியாகராஜன்",
+   "2021"
+  ]
+ },
+ {
+  "id": "white-paper-2021-aiadmk-response",
+  "topic": "history_2021",
+  "statement": "The AIADMK's R.B. Udhayakumar asked why the 2021 white paper was needed and noted the DMK's Rs 1,000 a month for women was unpaid.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "LatestLY/PTI",
+    "date": "2021-08-10",
+    "url": "https://www.latestly.com/agency-news/india-news-tamil-nadu-minister-releases-white-paper-on-states-economy-aiadmk-criticises-2729502.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "r.b. udhayakumar",
+   "2021",
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family"
+  ]
+ },
+ {
+  "id": "debt-gsdp-at-takeover-2021",
+  "topic": "history_2021",
+  "statement": "The 2021 white paper put debt at 24.98% of GSDP when the DMK took office.",
+  "value": 24.98,
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "Aug 2021",
+    "url": "https://www.thenewsminute.com/article/tn-s-fiscal-situation-dire-public-debt-rs-263-lakh-family-ptrs-white-paper-153684"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2021"
+  ]
+ },
+ {
+  "id": "debt-inherited-2021",
+  "topic": "history_2021",
+  "statement": "The debt the DMK inherited in 2021 differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 4,80,300 crore, 2020-21 (16th Finance Commission study)",
+   "Rs 5.13 lakh crore (TVK white paper, 2026)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2021",
+   "inherited debt"
+  ]
+ },
+ {
+  "id": "debt-end-2021-22",
+  "topic": "history_2021",
+  "statement": "Debt at the end of 2021-22 differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 5,70,189 crore (2021 white paper estimate)",
+   "Rs 5,59,632 crore (16th Finance Commission study)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "Aug 2021",
+    "url": "https://www.thenewsminute.com/article/tn-s-fiscal-situation-dire-public-debt-rs-263-lakh-family-ptrs-white-paper-153684"
+   },
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2021-22"
+  ]
+ },
+ {
+  "id": "first-budget-2021-22",
+  "topic": "history_2021",
+  "statement": "The DMK's first budget on 13 August 2021 had a revenue deficit of Rs 58,693 crore (2.75% of GSDP) and a fiscal deficit of Rs 92,529 crore (4.33%), the highest ratio of the four first budgets since 2011.",
+  "value": {
+   "revenue_deficit": 58693,
+   "fiscal_deficit": 92529,
+   "fd_pct": 4.33
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2021-22 budget analysis",
+    "date": "2021",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2021-22"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2021-08-13",
+    "url": "https://www.dtnext.in/tamilnadu/2021/08/13/tn-govt-announces-rs-3-tax-cut-on-petrol-waives-rs-2756-crore-shg-cooperative-loan"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "ptr",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "2021"
+  ]
+ },
+ {
+  "id": "actual-2021-22",
+  "topic": "history_2021",
+  "statement": "In outturn, 2021-22 had a revenue deficit of Rs 46,538 crore and a fiscal deficit of 3.56% (16th Finance Commission study).",
+  "value": {
+   "revenue_deficit": 46538,
+   "fd_pct": 3.56
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "2021-22",
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution"
+  ]
+ },
+ {
+  "id": "no-aiadmk-white-paper",
+  "topic": "history_2011",
+  "statement": "No AIADMK white paper was found for 2011 or 2016; its 2011 budget speech described the state as \"sinking under a huge debt burden\".",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2011-12",
+    "date": "2011-08-04",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2011-_RB-_English.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "white paper",
+   "வெள்ளை அறிக்கை",
+   "2011",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore"
+  ]
+ },
+ {
+  "id": "debt-inherited-2011",
+  "topic": "history_2011",
+  "statement": "The AIADMK's 2011 budget speech put the debt it inherited at \"over Rupees one lakh crores\".",
+  "value": 100000,
+  "unit": "Rs crore (over)",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2011-12",
+    "date": "2011-08-04",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2011-_RB-_English.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2011"
+  ]
+ },
+ {
+  "id": "first-budget-2011-12-revenue",
+  "topic": "history_2011",
+  "statement": "The AIADMK's first budget of 4 August 2011 showed a revenue surplus, the only one of the four first budgets since 2011, but sources give different amounts.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 173.87 crore surplus (budget speech)",
+   "Rs 438.78 crore surplus (Business Standard)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2011-12",
+    "date": "2011-08-04",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2011-_RB-_English.pdf"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2011-08-06",
+    "url": "https://www.business-standard.com/article/economy-policy/tn-budget-pegs-fiscal-deficit-at-rs-13-507-cr-111080600008_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "o. panneerselvam",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue surplus",
+   "2011"
+  ]
+ },
+ {
+  "id": "first-budget-2011-12-fiscal",
+  "topic": "history_2011",
+  "statement": "The 2011-12 fiscal deficit differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 16,881 crore, 2.90% of GSDP (budget speech)",
+   "Rs 13,507 crore (Business Standard)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2011-12",
+    "date": "2011-08-04",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2011-_RB-_English.pdf"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2011-08-06",
+    "url": "https://www.business-standard.com/article/economy-policy/tn-budget-pegs-fiscal-deficit-at-rs-13-507-cr-111080600008_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "2011"
+  ]
+ },
+ {
+  "id": "debt-end-2011-12",
+  "topic": "history_2011",
+  "statement": "Debt at the end of 2011-12 differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 1,18,610 crore, 20.39% of GSDP (budget speech)",
+   "Rs 1,18,801.75 crore (budget appendix)",
+   "Rs 1,27,128 crore, 16.92% (16th Finance Commission study)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2011-12",
+    "date": "2011-08-04",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2011-_RB-_English.pdf"
+   },
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2011-12"
+  ]
+ },
+ {
+  "id": "actual-2011-12",
+  "topic": "history_2011",
+  "statement": "In outturn, 2011-12 had a revenue surplus of Rs 1,364 crore and a fiscal deficit of 2.30% (16th Finance Commission study).",
+  "value": {
+   "revenue_surplus": 1364,
+   "fd_pct": 2.3
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "2011-12",
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution"
+  ]
+ },
+ {
+  "id": "milk-bus-hike-nov-2011",
+  "topic": "history_2011",
+  "statement": "The AIADMK raised bus fares and card-holders' Aavin milk from Rs 17.75 to Rs 24 a litre on 17 November 2011, a day after its first six months ended.",
+  "value": {
+   "milk_old": 17.75,
+   "milk_new": 24
+  },
+  "unit": "Rs per litre",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2011-11-18",
+    "url": "https://www.business-standard.com/article/economy-policy/tn-hikes-bus-fare-milk-price-111111800014_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "aavin",
+   "ஆவின்",
+   "milk price",
+   "பால் விலை",
+   "bus fare",
+   "பேருந்து கட்டணம்",
+   "2011"
+  ]
+ },
+ {
+  "id": "first-budget-2016-17",
+  "topic": "history_2016",
+  "statement": "The AIADMK's 2016-17 budget of 21 July 2016 had a revenue deficit of Rs 15,854.47 crore and a fiscal deficit of Rs 40,533.84 crore (2.96%), with no new taxes.",
+  "value": {
+   "revenue_deficit": 15854.47,
+   "fiscal_deficit": 40533.84,
+   "fd_pct": 2.96
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2016-17",
+    "date": "2016-07-21",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2016-2017-_English.pdf"
+   },
+   {
+    "outlet": "Business Standard/PTI",
+    "date": "2016-07-21",
+    "url": "https://www.business-standard.com/article/pti-stories/tn-bud-pegs-revenue-deficit-at-over-rs-15-000-cr-116072100857_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "o. panneerselvam",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "2016"
+  ]
+ },
+ {
+  "id": "debt-inherited-2016",
+  "topic": "history_2016",
+  "statement": "The AIADMK inherited debt of Rs 2,23,030 crore (2015-16) when re-elected in 2016.",
+  "value": 223030,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2016"
+  ]
+ },
+ {
+  "id": "debt-end-2016-17",
+  "topic": "history_2016",
+  "statement": "Debt at the end of 2016-17 differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 2,52,431 crore, 18.43% of GSDP (budget speech)",
+   "Rs 2,71,364 crore, 20.83% (16th Finance Commission study)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2016-17",
+    "date": "2016-07-21",
+    "url": "https://financedept.tn.gov.in/ta/my-documents/2020/07/BS_2016-2017-_English.pdf"
+   },
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "2016-17"
+  ]
+ },
+ {
+  "id": "actual-2016-17",
+  "topic": "history_2016",
+  "statement": "In outturn, 2016-17 had a revenue deficit of Rs 12,964 crore and a fiscal deficit of 4.31% (16th Finance Commission study).",
+  "value": {
+   "revenue_deficit": 12964,
+   "fd_pct": 4.31
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "16th Finance Commission evaluation study, Tamil Nadu",
+    "date": "text",
+    "url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "2016-17",
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution"
+  ]
+ },
+ {
+  "id": "mtfp-fiscal-deficit",
+  "topic": "outlook",
+  "statement": "The TVK's Medium Term Fiscal Plan sets the fiscal deficit at 3.00% of GSDP in 2026-27, 2.87% in 2027-28 and 2.80% in 2028-29.",
+  "value": {
+   "2026-27": 3.0,
+   "2027-28": 2.87,
+   "2028-29": 2.8
+  },
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis (PDF)",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2026/Budget_Analysis_2026-27-TN.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "medium term fiscal plan",
+   "mtfp",
+   "2027-28"
+  ]
+ },
+ {
+  "id": "mtfp-revenue-deficit",
+  "topic": "outlook",
+  "statement": "The plan projects revenue deficits of Rs 55,775 crore (2026-27), Rs 53,933 crore (2027-28) and Rs 51,058 crore (2028-29).",
+  "value": {
+   "2026-27": 55775,
+   "2027-28": 53933,
+   "2028-29": 51058
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "revenue deficit",
+   "வருவாய் பற்றாக்குறை",
+   "medium term fiscal plan",
+   "2027-28"
+  ]
+ },
+ {
+  "id": "mtfp-debt-path",
+  "topic": "outlook",
+  "statement": "The plan targets debt of 27.01% of GSDP in 2026-27, 26.57% in 2027-28 and 26.10% in 2028-29.",
+  "value": {
+   "2026-27": 27.01,
+   "2027-28": 26.57,
+   "2028-29": 26.1
+  },
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis (PDF)",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2026/Budget_Analysis_2026-27-TN.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "medium term fiscal plan",
+   "26.1"
+  ]
+ },
+ {
+  "id": "mtfp-interest",
+  "topic": "outlook",
+  "statement": "Planned interest rises to Rs 89,698 crore in 2027-28 and Rs 1,02,256 crore in 2028-29; the 2026-27 figure differs by source.",
+  "value": {
+   "2027-28": 89698,
+   "2028-29": 102256
+  },
+  "unit": "Rs crore",
+  "alt_values": [
+   "2026-27: Rs 78,683 crore (budget speech)",
+   "2026-27: Rs 76,456 crore (PRS)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis (PDF)",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2026/Budget_Analysis_2026-27-TN.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "interest",
+   "வட்டி",
+   "medium term fiscal plan"
+  ]
+ },
+ {
+  "id": "mtfp-14pct-growth",
+  "topic": "outlook",
+  "statement": "idly's calculation: the plan assumes nominal GSDP grows 14% a year (Rs 40,67,312 crore in 2026-27 to Rs 52,85,879 crore in 2028-29), and interest also grows 14% a year.",
+  "value": {
+   "2026-27": 4067312,
+   "2027-28": 4636736,
+   "2028-29": 5285879
+  },
+  "unit": "Rs crore nominal GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "gsdp",
+   "growth",
+   "14%",
+   "medium term fiscal plan"
+  ]
+ },
+ {
+  "id": "debt-growth-sensitivity",
+  "topic": "outlook",
+  "statement": "idly's calculation: with a 3% deficit and 27% debt, the debt ratio holds at about 12.5% nominal growth, falls about 0.3 points a year at 14%, and rises about 0.3 points a year at 11%.",
+  "value": {
+   "steady_growth_pct": 12.5,
+   "change_at_14pct": -0.3,
+   "change_at_11pct": 0.3
+  },
+  "unit": "points of GSDP a year",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "growth",
+   "gsdp",
+   "scenario"
+  ]
+ },
+ {
+  "id": "debt-target-equals-dmk-target",
+  "topic": "outlook",
+  "statement": "idly's calculation: the TVK's 2028-29 debt target of 26.10% is almost the 26.12% the DMK set for 2026-27.",
+  "value": {
+   "tvk_2028_29": 26.1,
+   "dmk_2026_27": 26.12
+  },
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   },
+   {
+    "outlet": "IANS",
+    "date": "2026-02-17",
+    "url": "https://ianslive.in/tns-outstanding-debt-to-touch-1071-lk-cr-in-2026-27-state-finance-minister-thangam-thennarasu--20260217140031"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "dmk",
+   "திமுக",
+   "target"
+  ]
+ },
+ {
+  "id": "fc16-tax-share",
+  "topic": "centre_state",
+  "statement": "Under the 16th Finance Commission (2026-27 to 2030-31) Tamil Nadu's share of central taxes moves from 4.079% to 4.097%.",
+  "value": {
+   "old": 4.079,
+   "new": 4.097
+  },
+  "unit": "% of divisible pool",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-02-01",
+    "url": "https://thesouthfirst.com/andhrapradesh/nda-ruled-andhra-pradesh-gains-most-among-southern-states-under-new-tax-devolution-formula"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution",
+   "tax share",
+   "வரிப் பகிர்வு"
+  ]
+ },
+ {
+  "id": "fc16-rules",
+  "topic": "centre_state",
+  "statement": "The 16th Finance Commission caps the fiscal deficit at 3% of GSDP each year, bars carrying forward unused borrowing room, ends revenue-deficit grants and asks states to bring off-budget borrowing onto their books.",
+  "value": 3,
+  "unit": "% of GSDP cap",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Moneylife",
+    "date": "2026-02-03",
+    "url": "https://www.moneylife.in/article/16th-finance-commission-retains-41-percentage-tax-devolution-interse-shares-to-shift-as-criteria-are-reworked-report/79561.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "off-budget borrowing",
+   "revenue deficit grant"
+  ]
+ },
+ {
+  "id": "off-budget-jump",
+  "topic": "outlook",
+  "statement": "idly's calculation: if all Rs 3.18 lakh crore of PSU debt moved onto the budget, the reported debt ratio would jump by about 7.8 points of GSDP in one step.",
+  "value": 7.8,
+  "unit": "points of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-06-16",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/widening-revenue-deficit-growing-debt-tvk-white-paper-lays-bare-tn-fiscal-crisis-246913"
+   },
+   {
+    "outlet": "Moneylife",
+    "date": "2026-02-03",
+    "url": "https://www.moneylife.in/article/16th-finance-commission-retains-41-percentage-tax-devolution-interse-shares-to-shift-as-criteria-are-reworked-report/79561.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "finance commission",
+   "16th finance commission",
+   "நிதிக் குழு",
+   "devolution",
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "psu debt",
+   "off-budget borrowing"
+  ]
+ },
+ {
+  "id": "ahluwalia-committee",
+  "topic": "outlook",
+  "statement": "A revenue committee chaired by Montek Singh Ahluwalia, set up in July 2026, has not reported and has no stated deadline.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-14",
+    "url": "https://www.dtnext.in/news/tamilnadu/montek-panel-meets-cm-vijay-set-to-begin-restructuring-finances"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "montek singh ahluwalia",
+   "ahluwalia committee",
+   "revenue committee",
+   "மான்டெக் சிங் அலுவாலியா"
+  ]
+ },
+ {
+  "id": "rs2500-unfunded",
+  "topic": "welfare",
+  "statement": "The 2026-27 budget set aside Rs 14,414 crore for the Rs 1,000 women's aid scheme and nothing for the promised rise to Rs 2,500.",
+  "value": 14414,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "budget",
+   "பட்ஜெட்",
+   "நிதிநிலை அறிக்கை",
+   "2026-27",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்"
+  ]
+ },
+ {
+  "id": "rs2500-full-cost",
+  "topic": "welfare",
+  "statement": "The Hindu, as cited by South First, put the Rs 2,500 scheme at about Rs 39,000 crore a year for 1.3 crore women.",
+  "value": 39000,
+  "unit": "Rs crore a year",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-06-18",
+    "url": "https://thesouthfirst.com/tamilnadu/five-weeks-into-power-tamil-nadu-governments-white-paper-raises-questions-over-costly-poll-promises/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "cost"
+  ]
+ },
+ {
+  "id": "rs2500-deficit-impact",
+  "topic": "outlook",
+  "statement": "idly's calculation: on the Rs 39,000 crore estimate the Rs 2,500 adds about Rs 24,600 crore a year, which with no other change would lift the 2027-28 fiscal deficit from 2.87% to about 3.4%, or about 3.05% even if the Rs 16,000 crore revenue target were met.",
+  "value": {
+   "extra_cost_rs_crore": 24600,
+   "fd_2027_28_pct": 3.4,
+   "fd_with_revenue_measures_pct": 3.05
+  },
+  "unit": "Rs crore / % of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-06-18",
+    "url": "https://thesouthfirst.com/tamilnadu/five-weeks-into-power-tamil-nadu-governments-white-paper-raises-questions-over-costly-poll-promises/"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-08-05",
+    "url": "https://www.theweek.in/news/india/2026/08/05/gold-laptops-and-the-uncle-vijay-effect-five-takeaways-from-tvk-govts-debut-budget.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "fiscal deficit",
+   "நிதிப் பற்றாக்குறை",
+   "gsdp",
+   "3% cap",
+   "2027-28"
+  ]
+ },
+ {
+  "id": "base-case-debt-nov-2027",
+  "topic": "outlook",
+  "statement": "idly's calculation: if nominal growth stays at 12-14% and the deficit is held at 3%, debt would sit at about 26.5-27.5% of GSDP by November 2027.",
+  "value": "26.5-27.5",
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "scenario",
+   "2027"
+  ]
+ },
+ {
+  "id": "downside-debt-11pct",
+  "topic": "outlook",
+  "statement": "idly's calculation: if nominal growth slows to about 11%, debt would rise to roughly 27.6-27.7% of GSDP by 2028-29 instead of falling to 26.1%.",
+  "value": "27.6-27.7",
+  "unit": "% of GSDP",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "debt",
+   "கடன்",
+   "borrowing",
+   "lakh crore",
+   "scenario",
+   "downside",
+   "2028-29"
+  ]
+ },
+ {
+  "id": "conclave-realisation-scenarios",
+  "topic": "outlook",
+  "statement": "idly's calculation: past realisation rates applied to the Rs 67,452 crore conclave give about Rs 5,700 crore at 8.5%, Rs 18,200 crore at 27% and Rs 37,100 crore at 55%; these rates took 2.5 to 6 years.",
+  "value": {
+   "8.5pct": 5700,
+   "27pct": 18200,
+   "55pct": 37100
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next (via PressReader)",
+    "date": "2021-09-01",
+    "url": "https://www.pressreader.com/india/dt-next/20210901/281492164417355"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2024-09-23",
+    "url": "https://www.dtnext.in/news/tamilnadu/only-853-of-investment-promised-during-eps-foreign-tours-realised-trb-rajaa-804897"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "vettri tamil nadu conclave",
+   "realisation",
+   "scenario"
+  ]
+ },
+ {
+  "id": "gim-2015-committed",
+  "topic": "deals",
+  "statement": "The AIADMK's GIM 2015 in September 2015 signed 98 MoUs worth about Rs 2.42 lakh crore.",
+  "value": 242000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2015-09-10",
+    "url": "https://www.business-standard.com/amp/article/economy-policy/tamil-nadu-rakes-in-rs-2-42-lakh-cr-115091000798_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "2015"
+  ]
+ },
+ {
+  "id": "gim-2015-realised",
+  "topic": "deals",
+  "statement": "The DMK said in 2021 that 64 of GIM 2015's 98 projects were taken up, but the realised amount differs by source; the AIADMK's own 2017 figure was 62 MoUs implemented.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 65,456 crore realised (DT Next)",
+   "Rs 1.33 lakh crore realised (The Hindu)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "DT Next (via PressReader)",
+    "date": "2021-09-01",
+    "url": "https://www.pressreader.com/india/dt-next/20210901/281492164417355"
+   },
+   {
+    "outlet": "The Hindu via inkl",
+    "date": "2021",
+    "url": "https://www.inkl.com/news/only-64-of-98-projects-signed-at-gim-2015-were-taken-up"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2017-01-23",
+    "url": "https://business-standard.com/article/economy-policy/tn-govt-implements-62-mous-signed-during-global-investors-meet-2015-117012300314_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "aiadmk",
+   "அதிமுக",
+   "dmk",
+   "திமுக",
+   "thangam thennarasu",
+   "தங்கம் தென்னரசு",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "2015"
+  ]
+ },
+ {
+  "id": "gim-2019-committed",
+  "topic": "deals",
+  "statement": "The AIADMK's GIM 2019 signed 304 MoUs; the committed value differs by source.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 3.0 lakh crore",
+   "Rs 3.41 lakh crore"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Business Standard/IANS",
+    "date": "2019-01-24",
+    "url": "https://business-standard.com/amp/article/news-ians/tn-signs-304-mous-for-rs-300-000-crore-investment-119012401004_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "aiadmk",
+   "அதிமுக",
+   "edappadi k. palaniswami",
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "2019"
+  ]
+ },
+ {
+  "id": "gim-2019-realised",
+  "topic": "deals",
+  "statement": "The DMK said in 2021 that GIM 2019 realised Rs 80,512 crore (about 26-27%), with 150-151 of 304 projects taken up.",
+  "value": 80512,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next (via PressReader)",
+    "date": "2021-09-01",
+    "url": "https://www.pressreader.com/india/dt-next/20210901/281492164417355"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "aiadmk",
+   "அதிமுக",
+   "dmk",
+   "திமுக",
+   "thangam thennarasu",
+   "தங்கம் தென்னரசு",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "2019"
+  ]
+ },
+ {
+  "id": "eps-tours-2019-realised",
+  "topic": "deals",
+  "statement": "DMK minister T.R.B. Rajaa said in 2024 that Edappadi K. Palaniswami's 2019 foreign tours produced 27 MoUs worth Rs 5,087 crore, of which Rs 434 crore (8.53%) was realised.",
+  "value": {
+   "mous": 27,
+   "committed": 5087,
+   "realised": 434,
+   "pct": 8.53
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2024-09-23",
+    "url": "https://www.dtnext.in/news/tamilnadu/only-853-of-investment-promised-during-eps-foreign-tours-realised-trb-rajaa-804897"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "edappadi k. palaniswami",
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "aiadmk",
+   "அதிமுக",
+   "t.r.b. rajaa",
+   "டி.ஆர்.பி. ராஜா",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "foreign tour"
+  ]
+ },
+ {
+  "id": "gim-2015-2019-realised-conflict",
+  "topic": "deals",
+  "statement": "DMK ministers gave different realised totals for the AIADMK's GIM 2015 and 2019 combined.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 86,190 crore, 33% (T.R.B. Rajaa, 2024)",
+   "about Rs 1.46 lakh crore (idly's calculation from Thennarasu's 2021 figures)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2024-09-23",
+    "url": "https://www.dtnext.in/news/tamilnadu/only-853-of-investment-promised-during-eps-foreign-tours-realised-trb-rajaa-804897"
+   },
+   {
+    "outlet": "DT Next (via PressReader)",
+    "date": "2021-09-01",
+    "url": "https://www.pressreader.com/india/dt-next/20210901/281492164417355"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "aiadmk",
+   "அதிமுக",
+   "dmk",
+   "திமுக",
+   "t.r.b. rajaa",
+   "thangam thennarasu",
+   "தங்கம் தென்னரசு"
+  ]
+ },
+ {
+  "id": "gim-2024",
+  "topic": "deals",
+  "statement": "The DMK's GIM 2024 signed 631 MoUs worth Rs 6.64 lakh crore; Minister T.R.B. Rajaa said in 2025 that nearly 80% had been grounded.",
+  "value": {
+   "mous": 631,
+   "committed": 664000,
+   "claimed_grounded_pct": 80
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint/PTI",
+    "date": "2024-01-08",
+    "url": "https://theprint.in/india/governance/in-1st-global-investors-meet-under-dmk-govt-tamil-nadu-secures-investments-of-over-rs-6-64-lakh-cr/1915873"
+   },
+   {
+    "outlet": "The Week/PTI",
+    "date": "2025-08-20",
+    "url": "https://www.theweek.in/wire-updates/business/2025/08/20/mes33-tn-mou-conversion-minister.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "global investors meet",
+   "gim",
+   "உலக முதலீட்டாளர்கள் மாநாடு",
+   "dmk",
+   "திமுக",
+   "t.r.b. rajaa",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "2024"
+  ]
+ },
+ {
+  "id": "dmk-mous-2021-2026",
+  "topic": "deals",
+  "statement": "The DMK government said its 1,179 MoUs from May 2021 to February 2026 were worth Rs 12.37 lakh crore, with 73.53% at an \"advanced stage\" and 35.11% \"in operation\", giving no realised-rupee figure.",
+  "value": {
+   "mous": 1179,
+   "committed": 1237000,
+   "advanced_pct": 73.53,
+   "in_operation_pct": 35.11
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-02-17",
+    "url": "https://www.dtnext.in/news/tamilnadu/1179-mous-translate-into-rs1237-lakh-crore-investment-says-tamil-nadu-interim-budget"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "interim budget"
+  ]
+ },
+ {
+  "id": "mou-conversion-not-comparable",
+  "topic": "deals",
+  "statement": "Definitions of MoU \"conversion\" differ: the DMK's 2021 statement on AIADMK meets counted commercial production, while its own record counted MoUs at ground-breaking or advanced stage; no independent audit exists.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next (via PressReader)",
+    "date": "2021-09-01",
+    "url": "https://www.pressreader.com/india/dt-next/20210901/281492164417355"
+   },
+   {
+    "outlet": "WION",
+    "date": "2026-02-12",
+    "url": "https://www.wionews.com/india-news/in-poll-bound-tamil-nadu-dmk-govt-shares-report-card-on-investment-mous-1770909801915"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "conversion",
+   "dmk",
+   "திமுக",
+   "aiadmk",
+   "அதிமுக"
+  ]
+ },
+ {
+  "id": "lt-mou-june-2026",
+  "topic": "deals",
+  "statement": "On 4 June 2026 the TVK government signed an MoU with L&T for Rs 18,600 crore and about 8,200 jobs.",
+  "value": 18600,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "Jun 2026",
+    "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-government-signs-mou-with-lt-for-rs-18600-crore-investment-8200-jobs"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "l&t",
+   "larsen & toubro"
+  ]
+ },
+ {
+  "id": "vettri-conclave-value",
+  "topic": "deals",
+  "statement": "The TVK's Vettri Tamil Nadu conclave on 13 August 2026, closed to the media, produced 97 company MoUs and 7 institutional agreements; the reported value differs.",
+  "value": null,
+  "unit": "Rs crore",
+  "alt_values": [
+   "Rs 67,452 crore (The News Minute)",
+   "Rs 67,542 crore (The Week)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-08-14",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tvk-govt-signs-mous-worth-rs-67k-crore-projects-106-lakh-jobs"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-08-13",
+    "url": "https://www.theweek.in/news/biz-tech/2026/08/13/vijay-government-100-days-investment-conclave-tamil-nadu.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "vettri tamil nadu conclave",
+   "வெற்றி தமிழ்நாடு",
+   "investment conclave",
+   "s. keerthana",
+   "கீர்த்தனா"
+  ]
+ },
+ {
+  "id": "vettri-conclave-jobs",
+  "topic": "deals",
+  "statement": "Projected jobs from the 13 August conclave differ by source.",
+  "value": null,
+  "unit": "jobs",
+  "alt_values": [
+   "1,06,998 (The News Minute)",
+   "1,21,788 (The Week)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-08-14",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tvk-govt-signs-mous-worth-rs-67k-crore-projects-106-lakh-jobs"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-08-13",
+    "url": "https://www.theweek.in/news/biz-tech/2026/08/13/vijay-government-100-days-investment-conclave-tamil-nadu.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "vettri tamil nadu conclave",
+   "jobs",
+   "வேலைவாய்ப்பு"
+  ]
+ },
+ {
+  "id": "rs-1-02-lakh-crore-explained",
+  "topic": "deals",
+  "statement": "idly's calculation: the government's claim of Rs 1,02,514 crore investment \"attracted\" in 100 days equals Rs 35,062 crore from seven pre-conclave MoUs plus the conclave's Rs 67,452 crore, so it is MoU commitments, not money invested.",
+  "value": 102514,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Star/The Statesman (ANN)",
+    "date": "2026-10-06",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/vijays-tvk-government-150-days-report-card-welfare-debt-investment-law-and-order-and-corruption-examined"
+   },
+   {
+    "outlet": "Swarajya",
+    "date": "2026-08-06",
+    "url": "https://swarajyamag.com/news-brief/tamil-nadu-unveils-rs-4414-crore-industrial-push-for-ai-city-spaceport-deep-sea-ports"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "1.02 lakh crore",
+   "100 days",
+   "investment attracted"
+  ]
+ },
+ {
+  "id": "rajaa-conclave-overlap-claim",
+  "topic": "deals",
+  "statement": "Former industries minister T.R.B. Rajaa said about 70 of the 97 conclave MoUs were expansions or leads from the DMK period, worth about 75% of the value, giving no method; Minister S. Keerthana said the conclave mixed new investors and expansions without giving a split.",
+  "value": {
+   "mous": 70,
+   "value_pct": 75
+  },
+  "unit": "MoUs / %",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-13",
+    "url": "https://www.dtnext.in/news/tamilnadu/vettri-conclave-borrows-70-mous-worth-75-investment-from-dmk-rule-trb-rajaa"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-13",
+    "url": "https://theprint.in/economy/greenfield-brownfield-red-flags-tvk-hails-dmk-questions-mous-at-vettri-tn-investment-conclave/3014089/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "t.r.b. rajaa",
+   "s. keerthana",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "vettri tamil nadu conclave"
+  ]
+ },
+ {
+  "id": "london-trip-deals",
+  "topic": "deals",
+  "statement": "The government put Vijay's September 2026 London trip at Rs 15,300 crore; named deals add to Rs 12,300 crore, led by Samvardhana Motherson's Rs 11,000 crore, with Rs 3,000 crore not itemised.",
+  "value": {
+   "claimed": 15300,
+   "named": 12300,
+   "samvardhana_motherson": 11000
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "Sep 2026",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/joseph-vijay-tamil-nadu-cm-london-tour-tvk-256673"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு",
+   "london",
+   "samvardhana motherson"
+  ]
+ },
+ {
+  "id": "korean-suppliers-andhra",
+  "topic": "deals",
+  "statement": "In November 2026 three Korean suppliers to Hyundai and Kia chose Anantapur in Andhra Pradesh for Rs 1,614 crore of projects and 1,418 jobs; Stalin said the state was in \"reverse gear\" and the Industries Department called that framing a distortion, saying suppliers follow carmakers.",
+  "value": {
+   "value": 1614,
+   "jobs": 1418
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-11-02",
+    "url": "https://theprint.in/india/dmk-accuses-tvk-govt-of-indifference-after-hyundai-kia-supplier-picks-andhra-for-rs-1614-cr-projects/3088517/"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-11-04",
+    "url": "https://theprint.in/india/tamil-nadu-says-suppliers-follow-carmakers-not-politics-as-oppn-flags-rs-1614-cr-investments-in-andhra/3090548/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "andhra pradesh",
+   "ஆந்திரா",
+   "anantapur",
+   "hyundai",
+   "kia",
+   "korean",
+   "mou",
+   "mous",
+   "புரிந்துணர்வு ஒப்பந்தம்",
+   "investment",
+   "முதலீடு"
+  ]
+ },
+ {
+  "id": "kia-to-andhra-2017",
+  "topic": "deals",
+  "statement": "Kia's car plant of about US$1.1 billion went to Andhra Pradesh in 2017 under the AIADMK; the state government said Kia's policy barred a unit where Hyundai operates.",
+  "value": 1.1,
+  "unit": "US$ billion",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Standard/IANS",
+    "date": "2017-05-11",
+    "url": "https://www.business-standard.com/article/news-ians/kia-motors-chose-andhra-due-to-hyundai-presence-in-tn-117051101494_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "kia",
+   "andhra pradesh",
+   "2017"
+  ]
+ },
+ {
+  "id": "first-solar-operating",
+  "topic": "deals",
+  "statement": "First Solar's 3.3 GW plant at Tirunelveli, announced under the DMK, has operated since January 2024.",
+  "value": 3.3,
+  "unit": "GW",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "pv magazine USA",
+    "date": "2024-01-11",
+    "url": "https://pv-magazine-usa.com/2024/01/11/first-solar-opens-manufacturing-plant-in-india"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "first solar",
+   "tirunelveli",
+   "திருநெல்வேலி",
+   "solar"
+  ]
+ },
+ {
+  "id": "vinfast-operating",
+  "topic": "deals",
+  "statement": "VinFast's EV plant at Thoothukudi (US$500 million phase 1) has operated since 4 August 2025.",
+  "value": 500,
+  "unit": "US$ million",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Business Today",
+    "date": "2025-08-04",
+    "url": "https://www.businesstoday.in/latest/corporate/story/vietnamese-ev-maker-vinfast-opens-plant-in-tamil-nadu-set-to-produce-50000-evs-annually-487652-2025-08-04"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "vinfast",
+   "thoothukudi",
+   "தூத்துக்குடி",
+   "ev plant"
+  ]
+ },
+ {
+  "id": "tata-jlr-ranipet-operating",
+  "topic": "deals",
+  "statement": "The Rs 9,000 crore Tata Motors/JLR plant at Ranipet has operated since 9 February 2026.",
+  "value": 9000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Autocar Pro",
+    "date": "Feb 2026",
+    "url": "https://www.autocarpro.in/news/tata-motors-begins-operations-at-tamil-nadu-facility-with-range-rover-evoque-production-131077"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "tata motors",
+   "jlr",
+   "ranipet",
+   "ராணிப்பேட்டை"
+  ]
+ },
+ {
+  "id": "ola-gigafactory-scaled-back",
+  "topic": "deals",
+  "statement": "Ola's Krishnagiri cell gigafactory, committed at 20 GWh, was scaled back to 5 GWh until FY29 and received a Union notice for a missed milestone.",
+  "value": {
+   "committed_gwh": 20,
+   "current_gwh": 5
+  },
+  "unit": "GWh",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Autocar Pro",
+    "date": "2025-07-14",
+    "url": "https://www.autocarpro.in/news/ola-electric-delays-expanding-cell-capacity-beyond-5-gwh-may-miss-pli-scheme-timeline-127520"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ola electric",
+   "krishnagiri",
+   "கிருஷ்ணகிரி",
+   "gigafactory",
+   "pli"
+  ]
+ },
+ {
+  "id": "metro-phase-2",
+  "topic": "deals",
+  "statement": "Chennai Metro Phase II (Rs 63,246 crore) opened its first 14.6 km stretch on 11 October 2026; one stretch had been due in December 2025.",
+  "value": {
+   "cost": 63246,
+   "km_open": 14.6
+  },
+  "unit": "Rs crore / km",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Indian Infrastructure",
+    "date": "2026-10-12",
+    "url": "https://indianinfrastructure.com/2026/10/12/poonamallee-vadapalani-stretch-under-chennai-metro-project-phase-ii-gets-inaugurated/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "chennai metro",
+   "சென்னை மெட்ரோ",
+   "phase ii",
+   "poonamallee",
+   "vadapalani"
+  ]
+ },
+ {
+  "id": "perur-desal",
+  "topic": "deals",
+  "statement": "The Perur desalination plant is under construction, now due \"by 2027\" instead of before December 2026; its cost moved from Rs 4,276 crore (2023) to Rs 5,814.57 crore (2026 report) without explanation.",
+  "value": {
+   "cost_2023": 4276,
+   "cost_2026": 5814.57
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-07-06",
+    "url": "https://www.dtnext.in/news/tamilnadu/cm-vijay-reviews-perur-plant-works-nemmeli-plant"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "perur",
+   "desalination",
+   "கடல்நீர் குடிநீர்",
+   "chennai water"
+  ]
+ },
+ {
+  "id": "hosur-airport-stalled",
+  "topic": "deals",
+  "statement": "The Hosur airport (about Rs 19,000 crore) is stalled after the Defence Ministry refused airspace clearance.",
+  "value": 19000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026",
+    "url": "https://www.dtnext.in/news/tamilnadu/defence-ministry-refuses-clearance-for-hosur-airport-project-over-airspace-concerns"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "hosur airport",
+   "ஓசூர் விமான நிலையம்",
+   "defence ministry"
+  ]
+ },
+ {
+  "id": "kulasekarapattinam-spaceport",
+  "topic": "deals",
+  "statement": "The Rs 985.96 crore Kulasekarapattinam spaceport is under construction, with commissioning targeted for 2026-27.",
+  "value": 985.96,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next/IANS",
+    "date": "2025-08-20",
+    "url": "https://www.dtnext.in/amp/story/news/national/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh-843966"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "kulasekarapattinam",
+   "குலசேகரப்பட்டினம்",
+   "spaceport",
+   "isro"
+  ]
+ },
+ {
+  "id": "parandur-cancelled",
+  "topic": "deals",
+  "statement": "The TVK government cancelled the DMK's Parandur airport (about Rs 27,400 crore) in the Assembly on 24 August 2026, citing farmland and water bodies; about 1,700 acres of private land had already been bought.",
+  "value": {
+   "value": 27400,
+   "acres_bought": 1700
+  },
+  "unit": "Rs crore / acres",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-24",
+    "url": "https://theprint.in/politics/vijay-govt-scraps-predecessor-dmks-parandur-airport-project-to-safeguard-villages-livelihoods/3023237/"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-06-18",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tvk-govt-drops-parandur-airport-project-says-alternative-site-to-be-identified"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "dmk",
+   "திமுக",
+   "parandur",
+   "பரந்தூர்",
+   "airport",
+   "விமான நிலையம்",
+   "nirmal kumar"
+  ]
+ },
+ {
+  "id": "ecr-corridor-other-cancellations",
+  "topic": "deals",
+  "statement": "The Rs 2,100 crore ECR elevated corridor is reported stalled without formal cancellation, and a Rs 261 crore sports city order and a Rs 310 crore flyover tender were cancelled.",
+  "value": {
+   "ecr_corridor": 2100,
+   "sports_city": 261,
+   "flyover": 310
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2026-09-01",
+    "url": "https://theprint.in/politics/the-dmk-era-infra-projects-halted-scrapped-by-vijay-govt-2nd-airport-for-chennai-to-elevated-corridor/3030579/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ecr elevated corridor",
+   "கிழக்கு கடற்கரைச் சாலை",
+   "sports city",
+   "flyover",
+   "cancelled"
+  ]
+ },
+ {
+  "id": "secretariat-to-hospital-2011",
+  "topic": "history_2011",
+  "statement": "In 2011 the AIADMK turned the DMK-built Secretariat complex into a hospital and set up an inquiry into its construction.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Oneindia",
+    "date": "2011-08-19",
+    "url": "https://www.oneindia.com/2011/08/19/jayalalithaa-sends-karunanidhi-s-dream-to-a-hospital.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "secretariat",
+   "omandurar",
+   "2011"
+  ]
+ },
+ {
+  "id": "tvk-first-files",
+  "topic": "welfare",
+  "statement": "Vijay signed three files on 10 May 2026: 200 free power units per two-month bill, a women's safety force (Singappen) and an Anti-Narcotics Task Force.",
+  "value": 3,
+  "unit": "files",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-05-10",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-cm-vijay-signs-first-files-offers-subsidised-electricity-womens-protection-force"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "first files",
+   "முதல் கையெழுத்து",
+   "free electricity",
+   "free power",
+   "இலவச மின்சாரம்",
+   "200 units",
+   "200 யூனிட்",
+   "tangedco",
+   "eb bill",
+   "singappen",
+   "சிங்கப்பெண்",
+   "anti-narcotics task force"
+  ]
+ },
+ {
+  "id": "free-power-200-units",
+  "topic": "welfare",
+  "statement": "From 10 May 2026 homes using up to 500 units get 200 free units per two-month bill (up from 100), covering about 1.46 crore consumers at Rs 1,730 crore a year extra subsidy.",
+  "value": {
+   "free_units": 200,
+   "consumers": 14600000,
+   "extra_subsidy_rs_crore": 1730
+  },
+  "unit": "units / consumers / Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-05-10",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-cm-vijay-signs-first-files-offers-subsidised-electricity-womens-protection-force"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "free electricity",
+   "free power",
+   "இலவச மின்சாரம்",
+   "200 units",
+   "200 யூனிட்",
+   "tangedco",
+   "eb bill",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "500 units"
+  ]
+ },
+ {
+  "id": "free-power-household-saving",
+  "topic": "welfare",
+  "statement": "idly's calculation: the free-power change saves about Rs 99 a month per eligible home on average (Rs 1,730 crore / 1.46 crore / 12).",
+  "value": 99,
+  "unit": "Rs a month",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026",
+    "url": "https://www.dtnext.in/news/tamilnadu/free-power-supply-up-to-200-units-to-benefit-146-cr-domestic-consumers"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "free electricity",
+   "free power",
+   "இலவச மின்சாரம்",
+   "200 units",
+   "200 யூனிட்",
+   "tangedco",
+   "eb bill",
+   "household",
+   "saving"
+  ]
+ },
+ {
+  "id": "women-aid-renamed",
+  "topic": "welfare",
+  "statement": "The DMK's Kalaignar Magalir Urimai Thogai of Rs 1,000 a month continues for about 1.31 crore women, renamed Magalir Urimai Thittam, with Rs 14,414 crore budgeted and the list being re-surveyed.",
+  "value": {
+   "rs_per_month": 1000,
+   "beneficiaries": 13100000,
+   "budget_rs_crore": 14414
+  },
+  "unit": "Rs / women / Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-08-05",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/tn-budget-welfare-schemes-rebranding-to-vetri-opposition-slams-tvk-252624"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-02-13",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-credits-rs-5000-each-to-131-crore-women-in-a-day-cm-stalin-promises-rs-2000-monthly-aid-in-20-govt"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "renamed"
+  ]
+ },
+ {
+  "id": "rs2500-timeline-statements",
+  "topic": "welfare",
+  "statement": "On the Rs 2,500, Minister K. Jegadeshwari said on 5 July there was \"no ambiguity\" and on 6 July \"very soon\", and the Finance Secretary said on 5 August it would come within a year.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-07-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/urimai-thogai-hike-on-cards-modalities-being-finalised-minister-k-jegadeshwari"
+   },
+   {
+    "outlet": "Asianet Tamil",
+    "date": "2026-07-06",
+    "url": "https://tamil.asianetnews.com/gallery/tamilnadu/tamilnadu-magalir-urimai-thogai-rs-2500-when-vijay-tvk-govt-update-nc53hmc"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-budget-2026-tvk-gives-tamil-nadu-budget-a-vetri-makeover"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "k. jegadeshwari",
+   "ஜெகதீஸ்வரி",
+   "finance secretary"
+  ]
+ },
+ {
+  "id": "vettri-payanam",
+  "topic": "welfare",
+  "statement": "Free bus travel for women (DMK's Vidiyal Payanam) was widened to express, deluxe and mofussil buses and renamed Vettri Payanam from 2 October 2026, at about Rs 6,000 crore a year.",
+  "value": 6000,
+  "unit": "Rs crore a year",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-10-02",
+    "url": "https://thesouthfirst.com/tamilnadu/vettri-payanam-cm-vijay-launches-the-expanded-free-bus-travel-scheme/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vettri payanam",
+   "வெற்றிப் பயணம்",
+   "vidiyal payanam",
+   "விடியல் பயணம்",
+   "free bus",
+   "இலவசப் பேருந்து",
+   "women"
+  ]
+ },
+ {
+  "id": "free-bus-saving-2022",
+  "topic": "welfare",
+  "statement": "A 2022 State Planning Commission survey of 1,275 women found the DMK-era free bus scheme saved women about Rs 888 a month on average.",
+  "value": 888,
+  "unit": "Rs a month",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu State Planning Commission study",
+    "date": "2022 survey",
+    "url": "https://spc.tn.gov.in/wp-content/uploads/VP-2.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vidiyal payanam",
+   "விடியல் பயணம்",
+   "free bus",
+   "state planning commission"
+  ]
+ },
+ {
+  "id": "lpg-annapoorani",
+  "topic": "welfare",
+  "statement": "Announced on 24 August 2026, Annapoorani Super Six repays the price of three LPG cylinders a year to families earning up to Rs 2.5 lakh, about 1.30 crore families, from Pongal (January 2027), at about Rs 4,000 crore; none was paid by 10 November.",
+  "value": {
+   "cylinders": 3,
+   "families": 13000000,
+   "cost_rs_crore": 4000
+  },
+  "unit": "cylinders / families / Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-24",
+    "url": "https://www.dtnext.in/news/tamilnadu/cm-vijay-announces-two-new-sops-worth-rs-10000-crore-for-women"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "lpg",
+   "cylinder",
+   "சிலிண்டர்",
+   "சமையல் எரிவாயு",
+   "annapoorani super six",
+   "அன்னபூரணி",
+   "pongal",
+   "பொங்கல்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்"
+  ]
+ },
+ {
+  "id": "lpg-household-value",
+  "topic": "welfare",
+  "statement": "idly's calculation: the LPG scheme is worth about Rs 256 a month per eligible family once paid (Rs 4,000 crore / 1.30 crore / 12).",
+  "value": 256,
+  "unit": "Rs a month",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-24",
+    "url": "https://www.dtnext.in/news/tamilnadu/cm-vijay-announces-two-new-sops-worth-rs-10000-crore-for-women"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "lpg",
+   "cylinder",
+   "சிலிண்டர்",
+   "சமையல் எரிவாயு",
+   "annapoorani super six",
+   "அன்னபூரணி",
+   "pongal",
+   "பொங்கல்",
+   "household"
+  ]
+ },
+ {
+  "id": "fine-rice-rs30",
+  "topic": "welfare",
+  "statement": "From 16 October 2026 fine rice is sold at Rs 30 a kg (up to 5 kg) at about 250 co-operative outlets; idly's calculation puts the saving at Rs 225-275 per 5 kg against open-market rice at Rs 75-85.",
+  "value": {
+   "price": 30,
+   "outlets": 250,
+   "saving_per_5kg": "225-275"
+  },
+  "unit": "Rs per kg",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-10-16",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-govt-steps-in-to-curb-food-inflation-fine-rice-to-be-sold-at-rs-30-per-kilo-1996318"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "fine rice",
+   "அரிசி",
+   "rs 30 rice",
+   "co-operative stores",
+   "food inflation"
+  ]
+ },
+ {
+  "id": "milk-procurement-44",
+  "topic": "welfare",
+  "statement": "The milk procurement price was raised from Rs 38 to Rs 44 a litre for about 3.16 lakh dairy farmers.",
+  "value": {
+   "old": 38,
+   "new": 44,
+   "farmers": 316000
+  },
+  "unit": "Rs per litre",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Rural Voice",
+    "date": "2026-08-31",
+    "url": "https://eng.ruralvoice.in/tamil-nadu-cm-vijay-raises-milk-procurement-price-to-rs-44-per-litre-giving-dairy-farmers-second-hike-in-two-weeks"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aavin",
+   "ஆவின்",
+   "milk procurement",
+   "பால் கொள்முதல் விலை",
+   "dairy farmers"
+  ]
+ },
+ {
+  "id": "aavin-product-prices",
+  "topic": "welfare",
+  "statement": "Around 28 October 2026 Aavin raised ghee from Rs 700 to Rs 780 a litre, 500 ml curd from Rs 35 to Rs 40 and 500 g butter from Rs 275 to Rs 320; retail milk was unchanged to 10 November.",
+  "value": {
+   "ghee": [
+    700,
+    780
+   ],
+   "curd_500ml": [
+    35,
+    40
+   ],
+   "butter_500g": [
+    275,
+    320
+   ]
+  },
+  "unit": "Rs",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-27",
+    "url": "https://www.dtnext.in/news/tamilnadu/aavin-hikes-prices-of-63-dairy-products-ahead-of-diwali-check-revised-rates"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-03",
+    "url": "https://www.dtnext.in/news/tamilnadu/aavin-denies-reports-of-rs-5-per-litre-price-hike"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aavin",
+   "ஆவின்",
+   "ghee",
+   "நெய்",
+   "curd",
+   "price hike",
+   "விலை உயர்வு"
+  ]
+ },
+ {
+  "id": "crop-waiver-25-may",
+  "topic": "welfare",
+  "statement": "The first crop-loan waiver announcement on 25 May 2026 was capped at Rs 50,000; Edappadi K. Palaniswami called it a \"betrayal\".",
+  "value": 50000,
+  "unit": "Rs cap",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-05-25",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-cm-vijay-announces-full-waiver-of-crop-loans-to-marginal-farmers"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2026-05-26",
+    "url": "https://www.deccanherald.com/india/tamil-nadu/aiadmks-palaniswami-hits-out-at-tvk-govts-crop-loan-waiver-up-to-rs-50000-calls-it-betrayal-4016492"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்",
+   "edappadi k. palaniswami",
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "aiadmk",
+   "அதிமுக"
+  ]
+ },
+ {
+  "id": "crop-waiver-16-june",
+  "topic": "welfare",
+  "statement": "On 16 June 2026 the waiver limit was raised to Rs 75,000 for loans taken 1 May 2025 to 28 February 2026, for about 14.43 lakh farmers at Rs 5,932.23 crore.",
+  "value": {
+   "limit": 75000,
+   "farmers": 1443000,
+   "cost_rs_crore": 5932.23
+  },
+  "unit": "Rs / farmers / Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-06-16",
+    "url": "https://thesouthfirst.com/tamilnadu/tamil-nadu-chief-minister-approves-waiver-of-crop-loans-of-up-to-rs-75000/"
+   },
+   {
+    "outlet": "Free Press Journal/IANS",
+    "date": "2026-06-16",
+    "url": "https://www.freepressjournal.in/india/tamil-nadu-expands-crop-loan-waiver-to-75000-rolls-out-5932-crore-package-for-1443-lakh-farmers"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்"
+  ]
+ },
+ {
+  "id": "crop-waiver-6-nov-order",
+  "topic": "welfare",
+  "statement": "A Co-operation Department order of 6 November 2026 drops the tiers and waives up to Rs 75,000 for every eligible borrower with loans from 1 May 2025 to 31 March 2026: 13,24,882 farmers, Rs 9,062.83 crore in all.",
+  "value": {
+   "farmers": 1324882,
+   "fully_cleared": 590621,
+   "partly": 734260,
+   "total_rs_crore": 9062.83,
+   "released": 6220.06,
+   "sanctioned_6_nov": 2842.77
+  },
+  "unit": "farmers / Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-11-08",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-expands-crop-loan-waiver-scheme-releases-rs-2842-crore-2002700"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-08",
+    "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-drops-tiered-system-for-rs-75000-loan-waiver"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்",
+   "v. gandhiraj",
+   "co-operation department"
+  ]
+ },
+ {
+  "id": "crop-waiver-average",
+  "topic": "welfare",
+  "statement": "idly's calculation: the crop-loan waiver averages about Rs 68,400 per borrower (Rs 9,062.83 crore / 13.25 lakh).",
+  "value": 68400,
+  "unit": "Rs one time",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-11-08",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-expands-crop-loan-waiver-scheme-releases-rs-2842-crore-2002700"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்",
+   "household"
+  ]
+ },
+ {
+  "id": "dmk-jewel-loan-waiver-2021",
+  "topic": "history_2021",
+  "statement": "The DMK announced a co-operative jewel-loan waiver for up to five sovereigns on 13 September 2021, about four months after taking office, at an estimated Rs 6,000 crore; it was later discontinued.",
+  "value": 6000,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2021-09-13",
+    "url": "https://www.dtnext.in/tamilnadu/2021/09/13/stalin-announces-waiver-of-cooperative-jewel-loans-up-to-5-sovereigns-per-family"
+   },
+   {
+    "outlet": "Devdiscourse/PTI",
+    "date": "2026-05-25",
+    "url": "https://www.devdiscourse.com/article/headlines/3920606-discontinued-jewel-loan-waiver-scheme-to-be-reconsidered-by-govt-says-tn-minister-v-gandhiraj"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "jewel loan waiver",
+   "நகைக் கடன் தள்ளுபடி",
+   "2021"
+  ]
+ },
+ {
+  "id": "sugarcane-4000",
+  "topic": "welfare",
+  "statement": "Sugarcane is priced at Rs 4,000 a tonne with the incentive paid by bank transfer from Deepavali, Rs 603.34 crore for the 2025-26 season; idly's calculation puts it at about Rs 67,000 per grower for about 90,000 growers.",
+  "value": {
+   "price_per_tonne": 4000,
+   "cost_rs_crore": 603.34,
+   "avg_per_grower": 67000
+  },
+  "unit": "Rs",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-08",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-govt-sanctions-rs-603-crore-sugarcane-incentive-farmers-assured-rs-4000-per-tonne"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "sugarcane",
+   "கரும்பு",
+   "farmers",
+   "deepavali"
+  ]
+ },
+ {
+  "id": "paddy-procurement-price",
+  "topic": "welfare",
+  "statement": "Paddy procurement is Rs 2,750 a quintal for fine and Rs 2,600 for common varieties from 1 September 2026.",
+  "value": {
+   "fine": 2750,
+   "common": 2600
+  },
+  "unit": "Rs per quintal",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint/PTI",
+    "date": "2026-08-10",
+    "url": "https://theprint.in/india/tn-govt-announces-increase-in-procurement-incentives-for-paddy-sugarcane-farmers/3010338/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "paddy",
+   "நெல்",
+   "procurement price",
+   "கொள்முதல் விலை"
+  ]
+ },
+ {
+  "id": "breakfast-scheme-extended",
+  "topic": "welfare",
+  "statement": "The CM's Breakfast Scheme was renamed the Perunthalaivar Kamarajar Breakfast Scheme on 15 July 2026 and extended to Classes 6-8 from 17 September for about 15.14 lakh more pupils (Rs 343.55 crore for the extension; Rs 710 crore in all).",
+  "value": {
+   "extra_pupils": 1514000,
+   "extension_rs_crore": 343.55,
+   "total_rs_crore": 710
+  },
+  "unit": "pupils / Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-07-23",
+    "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-renames-cm-breakfast-scheme-after-k-kamaraj-expands-coverage-1973305"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "breakfast scheme",
+   "காலை உணவுத் திட்டம்",
+   "kamarajar",
+   "காமராஜர்",
+   "school"
+  ]
+ },
+ {
+  "id": "schemes-renamed-vetri",
+  "topic": "welfare",
+  "statement": "Several DMK schemes were renamed with a \"Vetri\" prefix, including Naan Mudhalvan (now Vetri Skill Training, Rs 150 crore), Ungal Kaiyil Ulagam laptops (Vetri Laptop, Rs 2,000 crore) and Kalaignar Kanavu Illam (Vetri Veedu, Rs 3,500 crore, unit cost Rs 3.1 lakh to Rs 5 lakh).",
+  "value": {
+   "vetri_skill": 150,
+   "vetri_laptop": 2000,
+   "vetri_veedu": 3500
+  },
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-08-05",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/tn-budget-welfare-schemes-rebranding-to-vetri-opposition-slams-tvk-252624"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/politics/ai-city-laptops-hostels-branded-cycles-vijays-first-budget-gives-old-schemes-a-gen-z-makeover/3006173/"
+   },
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "vetri",
+   "வெற்றி",
+   "naan mudhalvan",
+   "நான் முதல்வன்",
+   "kalaignar kanavu illam",
+   "vetri veedu",
+   "laptop",
+   "renamed"
+  ]
+ },
+ {
+  "id": "no-dmk-scheme-dropped",
+  "topic": "welfare",
+  "statement": "No DMK welfare scheme was found to have been dropped; the Finance Secretary said none was discontinued, while Edappadi K. Palaniswami said the government had put stickers on existing schemes.",
+  "value": 0,
+  "unit": "schemes dropped",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-08-05",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/tn-budget-welfare-schemes-rebranding-to-vetri-opposition-slams-tvk-252624"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "edappadi k. palaniswami",
+   "eps",
+   "எடப்பாடி பழனிசாமி",
+   "stickers",
+   "ஸ்டிக்கர்",
+   "renamed",
+   "welfare schemes"
+  ]
+ },
+ {
+  "id": "dmk-kept-aiadmk-names-2021",
+  "topic": "history_2021",
+  "statement": "In 2021 the DMK kept AIADMK schemes under their names, including Amma Canteens, and handed out schoolbags carrying Palaniswami's picture rather than spend over Rs 13 crore replacing them.",
+  "value": 13,
+  "unit": "Rs crore",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2021-09-08",
+    "url": "https://thefederal.com/analysis/many-aiadmk-schemes-stay-is-dmk-setting-a-new-precedent"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "aiadmk",
+   "அதிமுக",
+   "amma canteen",
+   "அம்மா உணவகம்",
+   "schoolbags",
+   "2021"
+  ]
+ },
+ {
+  "id": "newborn-gold-ring",
+  "topic": "welfare",
+  "statement": "The Thaimaaman Thanga Mothiram scheme gives a 1-gram gold ring to babies born in government hospitals from 22 June 2026; it launched on 28 September and Udhayanidhi Stalin says the promise covered all children.",
+  "value": 1,
+  "unit": "gram",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Today",
+    "date": "2026-09-27",
+    "url": "https://www.businesstoday.in/india/story/thaimaaman-thanga-mothiram-cm-vijay-launches-gold-ring-scheme-for-babies-check-eligibility-558081-2026-09-27"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tns-thaimaaman-gold-ring-scheme-for-newborns-who-qualifies-what-documents-are-needed"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "thaimaaman thanga mothiram",
+   "தாய்மாமன் தங்க மோதிரம்",
+   "gold ring",
+   "தங்க மோதிரம்",
+   "newborn",
+   "udhayanidhi stalin",
+   "உதயநிதி"
+  ]
+ },
+ {
+  "id": "annan-seer-scheme",
+  "topic": "welfare",
+  "statement": "The Annan Seer scheme of 8 g gold and a silk saree for brides was ordered on 5 October 2026 with an income limit of Rs 2.5 lakh (promise Rs 5 lakh) and Rs 812 crore; the tender for 60,000 gold coins closes on 8 December and no coins had been given by 10 November.",
+  "value": {
+   "gold_grams": 8,
+   "income_limit": 250000,
+   "cost_rs_crore": 812,
+   "coins_tendered": 60000
+  },
+  "unit": "g / Rs / Rs crore",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/annan-seer-scheme-tn-invites-bids-for-60000-gold-coins-sarees"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-19",
+    "url": "https://www.dtnext.in/news/tamilnadu/annan-seer-scheme-for-brides-rs-812-crore-allocated-application-portal-awaited"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "annan seer",
+   "அண்ணன் சீர்",
+   "gold coin",
+   "தங்க நாணயம்",
+   "8 gram gold",
+   "thali",
+   "தாலிக்குத் தங்கம்",
+   "silk saree",
+   "brides",
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்"
+  ]
+ },
+ {
+  "id": "scorecard-count",
+  "topic": "welfare",
+  "statement": "idly's calculation: of 16 TVK scorecard rows on 10 November 2026, 2 were delivered, 5 partly, 3 started, 4 not started and 2 could not be verified.",
+  "value": {
+   "delivered": 2,
+   "partly": 5,
+   "started": 3,
+   "not_started": 4,
+   "could_not_verify": 2
+  },
+  "unit": "promises",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-11-10",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/vijay-tvk-chief-minister-cm-coalition-hits-misses-262370"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "manifesto",
+   "தேர்தல் அறிக்கை",
+   "promises",
+   "வாக்குறுதிகள்",
+   "scorecard"
+  ]
+ },
+ {
+  "id": "udhayanidhi-unfulfilled-list",
+  "topic": "welfare",
+  "statement": "On 28 September 2026 Leader of the Opposition Udhayanidhi Stalin listed the LPG, unemployment-aid and farm-loan promises as unfulfilled.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Hans India/IANS",
+    "date": "2026-09-28",
+    "url": "https://www.thehansindia.com/tamilnadu/lop-flays-tvk-over-unfulfilled-promises-law-order-in-tamil-nadu-1126378"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "udhayanidhi stalin",
+   "உதயநிதி",
+   "dmk",
+   "திமுக",
+   "leader of opposition",
+   "எதிர்க்கட்சித் தலைவர்",
+   "promises",
+   "lpg",
+   "cylinder",
+   "சிலிண்டர்",
+   "சமையல் எரிவாயு",
+   "annapoorani super six",
+   "அன்னபூரணி",
+   "pongal",
+   "பொங்கல்",
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்"
+  ]
+ },
+ {
+  "id": "promises-phasing-line",
+  "topic": "welfare",
+  "statement": "The government's line, as Finance Minister Marie Wilson was reported to say, is that promises will be phased over one, three and five years.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-06",
+    "url": "https://thesouthfirst.com/opinion/first-budget-of-the-tvk-government-continuity-over-consolidation/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "marie wilson",
+   "n. marie wilson",
+   "finance minister",
+   "நிதியமைச்சர்",
+   "மரிய வில்சன்",
+   "manifesto",
+   "promises",
+   "phasing"
+  ]
+ },
+ {
+  "id": "tvk-manifesto-released",
+  "topic": "welfare",
+  "statement": "TVK released its manifesto on 16 April 2026 with Rs 2,500 a month for women heads of family, free LPG cylinders and gold for brides as headline items.",
+  "value": "2026-04-16",
+  "unit": "date",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-04-16",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-2500-for-homemakers-free-lpg-cylinders-what-tvk-manifesto-2026-promises"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-04-16",
+    "url": "https://theprint.in/politics/vijay-unveils-tvks-manifesto-promises-free-gas-cylinders-8gm-gold-silk-saree-for-bride/2906861/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "manifesto",
+   "தேர்தல் அறிக்கை",
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "lpg",
+   "cylinder",
+   "சிலிண்டர்",
+   "சமையல் எரிவாயு",
+   "annapoorani super six",
+   "அன்னபூரணி",
+   "pongal",
+   "பொங்கல்",
+   "annan seer",
+   "அண்ணன் சீர்",
+   "gold coin",
+   "தங்க நாணயம்",
+   "8 gram gold",
+   "thali",
+   "தாலிக்குத் தங்கம்",
+   "silk saree",
+   "brides"
+  ]
+ },
+ {
+  "id": "dmk-first-files-2021",
+  "topic": "history_2021",
+  "statement": "Stalin signed five files on 7 May 2021: Rs 4,000 COVID relief per rice card, Aavin milk Rs 3 a litre cheaper, free town-bus travel for women, a petitions department with a 100-day target, and COVID treatment in private hospitals under the CM's insurance.",
+  "value": 5,
+  "unit": "files",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2021-05-07",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-4000-family-free-bus-travel-women-first-5-orders-signed-tn-cm-stalin-148449"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2021-05-07",
+    "url": "https://www.dtnext.in/tamilnadu/2021/05/07/mk-stalin-takes-charge-as-cm-here-are-his-first-5-orders"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "first files",
+   "முதல் கையெழுத்து",
+   "covid relief",
+   "aavin",
+   "free bus",
+   "2021"
+  ]
+ },
+ {
+  "id": "aiadmk-first-files-2011",
+  "topic": "history_2011",
+  "statement": "Jayalalithaa signed seven files on 16 May 2011 as PTI counted them, including 20 kg free rice a month, 4 g gold for brides' thali, marriage aid of Rs 25,000-50,000 and old-age pension raised from Rs 500 to Rs 1,000.",
+  "value": 7,
+  "unit": "files",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Oneindia/PTI",
+    "date": "2011-05-17",
+    "url": "https://www.oneindia.com/2011/05/17/jayafulfils-seven-promises-frommanifesto-aid0126.html"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2011-05-18",
+    "url": "https://www.business-standard.com/article/economy-policy/jayalalithaa-signs-seven-files-111051800077_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "first files",
+   "free rice",
+   "இலவச அரிசி",
+   "thali",
+   "pension",
+   "2011"
+  ]
+ },
+ {
+  "id": "aiadmk-first-files-2016",
+  "topic": "history_2016",
+  "statement": "Jayalalithaa signed five files on 23 May 2016, including a co-operative farm loan waiver for small and marginal farmers (est. Rs 5,780 crore), 100 free power units (est. Rs 1,607 crore), gold for brides raised to 8 g and 500 TASMAC shops shut.",
+  "value": 5,
+  "unit": "files",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2016-05-24",
+    "url": "https://www.business-standard.com/article/politics/jayalalithaa-keeps-five-poll-promises-on-day-1-116052300523_1.html"
+   },
+   {
+    "outlet": "Tribune",
+    "date": "2016-05-24",
+    "url": "https://www.tribuneindia.com/news/archive/nation/after-oath-amma-orders-free-electricity-waives-crop-loan-241332"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "first files",
+   "100 units",
+   "farm loan waiver",
+   "tasmac",
+   "2016"
+  ]
+ },
+ {
+  "id": "dmk-rs1000-took-28-months",
+  "topic": "history_2021",
+  "statement": "The DMK's promised Rs 1,000 a month for women heads of family launched on 15 September 2023, about 28 months after it took office, with eligibility rules rather than for every head of family.",
+  "value": 28,
+  "unit": "months",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Week",
+    "date": "2023-09-15",
+    "url": "https://www.theweek.in/news/india/2023/09/15/tamil-nadu-launches-rs-1000-monthly-cash-dole-scheme-for-women.html"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2023-03-20",
+    "url": "https://www.deccanchronicle.com/nation/current-affairs/200323/tamil-nadu-govt-to-launch-rs-1000-monthly-assistance-to-women-in-sept.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "28 months",
+   "2023"
+  ]
+ },
+ {
+  "id": "neet-exemption-pending",
+  "topic": "history_2021",
+  "statement": "The DMK's NEET exemption Bill passed the Assembly on 13 September 2021 with AIADMK, PMK and VCK support while the BJP walked out; five years later NEET still applies and the TVK CM was still seeking exemption in November 2026.",
+  "value": "2021-09-13",
+  "unit": "date bill passed",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Tribune",
+    "date": "2021-09-13",
+    "url": "https://www.tribuneindia.com/news/nation/tamil-nadu-assembly-passes-bill-seeking-exemption-from-neet-310600"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2021",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-passes-bill-ban-neet-state-155226"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-11-10",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/vijay-tvk-chief-minister-cm-coalition-hits-misses-262370"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "neet",
+   "நீட்",
+   "neet exemption",
+   "நீட் விலக்கு",
+   "dmk",
+   "திமுக",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "a.k. rajan committee"
+  ]
+ },
+ {
+  "id": "qol-infant-mortality",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's infant mortality rate fell from 22 per 1,000 live births in 2011 to 12 in 2023, against 25 for India; the 2019 value differs by source.",
+  "value": {
+   "2011": 22,
+   "2016": 17,
+   "2020": 13,
+   "2022": 11,
+   "2023": 12,
+   "india_2019": 30,
+   "india_2022": 26,
+   "india_2023": 25
+  },
+  "unit": "deaths per 1,000 live births",
+  "alt_values": [
+   "2019: 15 (SRS Bulletin)",
+   "2019: 11.1 (state Statistical Handbook)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "Tamil Nadu DES Statistical Handbook",
+    "date": "2025",
+    "url": "https://des.tn.gov.in/sites/default/files/2025-07/2.VITAL%20STATISTICS.pdf"
+   },
+   {
+    "outlet": "SRS Bulletin, Registrar General",
+    "date": "Oct 2021",
+    "url": "https://new.census.gov.in/nada/index.php/catalog/40473/download/44106/SRS_Bulletin_2021_Vol_54_No_1.pdf"
+   },
+   {
+    "outlet": "SRS Bulletin, Registrar General",
+    "date": "Jun 2025",
+    "url": "https://dxg9bfombtpmv.cloudfront.net/sites/4/2025/06/SRS_Bulletin_2022_Vol_57_No_1-1.pdf"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2025-09-04",
+    "url": "https://www.deccanherald.com/amp/story/india%2Finfant-mortality-rate-falls-to-25-per-1000-live-births-kerala-tamil-nadu-achieve-sdg-goals-3711698"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "infant mortality",
+   "imr",
+   "சிசு மரண விகிதம்",
+   "srs",
+   "health"
+  ]
+ },
+ {
+  "id": "qol-maternal-mortality",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's maternal mortality ratio fell from 97 per lakh live births in 2007-09 to 35 in 2021-23, second lowest in India, against 88 nationally.",
+  "value": {
+   "2007-09": 97,
+   "2011-13": 79,
+   "2014-16": 66,
+   "2016-18": 60,
+   "2018-20": 54,
+   "2021-23": 35,
+   "india_2011-13": 167,
+   "india_2014-16": 130,
+   "india_2018-20": 97,
+   "india_2021-23": 88
+  },
+  "unit": "deaths per lakh live births",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2018-06-07",
+    "url": "https://www.thenewsminute.com/article/maternal-mortality-rate-dips-130-167-kerala-best-india-82646"
+   },
+   {
+    "outlet": "Morung Express/PTI",
+    "date": "2022-11-30",
+    "url": "https://morungexpress.com/maternal-mortality-ratio-declines-to-97-in-2018-20-from-130-in-2014-16"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2025-09-11",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadus-maternal-mortality-drops-to-35-second-lowest-in-india"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "maternal mortality",
+   "mmr",
+   "மகப்பேறு இறப்பு விகிதம்",
+   "health"
+  ]
+ },
+ {
+  "id": "qol-stunting",
+  "topic": "quality_of_life",
+  "statement": "Stunted children under five in Tamil Nadu fell from 27.1% in NFHS-4 (2015-16) to 25.0% in NFHS-5 (2019-21).",
+  "value": {
+   "2015-16": 27.1,
+   "2019-21": 25.0
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "stunting",
+   "nfhs",
+   "malnutrition",
+   "ஊட்டச்சத்து குறைபாடு",
+   "children"
+  ]
+ },
+ {
+  "id": "qol-wasting",
+  "topic": "quality_of_life",
+  "statement": "Wasted children under five fell from 19.7% (NFHS-4, 2015-16) to 14.6% (NFHS-5, 2019-21).",
+  "value": {
+   "2015-16": 19.7,
+   "2019-21": 14.6
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "wasting",
+   "nfhs",
+   "malnutrition",
+   "children"
+  ]
+ },
+ {
+  "id": "qol-anaemia-women",
+  "topic": "quality_of_life",
+  "statement": "Anaemic women aged 15-49 fell from 55.0% (NFHS-4, 2015-16) to 53.4% (NFHS-5, 2019-21).",
+  "value": {
+   "2015-16": 55.0,
+   "2019-21": 53.4
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "anaemia",
+   "இரத்த சோகை",
+   "women",
+   "nfhs"
+  ]
+ },
+ {
+  "id": "qol-anaemia-children",
+  "topic": "quality_of_life",
+  "statement": "Anaemic children aged 6-59 months rose from 50.7% (NFHS-4, 2015-16) to 57.4% (NFHS-5, 2019-21).",
+  "value": {
+   "2015-16": 50.7,
+   "2019-21": 57.4
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "anaemia",
+   "இரத்த சோகை",
+   "children",
+   "nfhs"
+  ]
+ },
+ {
+  "id": "qol-institutional-births",
+  "topic": "quality_of_life",
+  "statement": "Births in an institution rose from 98.9% (NFHS-4, 2015-16) to 99.6% (NFHS-5, 2019-21).",
+  "value": {
+   "2015-16": 98.9,
+   "2019-21": 99.6
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "NHSRC Health Dossier 2021, Tamil Nadu",
+    "date": "2021",
+    "url": "https://nhsrcindia.org/sites/default/files/practice_image/HealthDossier2021/Tamil%20Nadu.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "institutional births",
+   "nfhs",
+   "hospital delivery"
+  ]
+ },
+ {
+  "id": "qol-multidimensional-poverty",
+  "topic": "quality_of_life",
+  "statement": "The share of Tamil Nadu's people in multidimensional poverty fell from 36.54% in 2005-06 to 2.20% in 2019-21 and a projected 1.43% in 2022-23, against India's 11.28%.",
+  "value": {
+   "2005-06": 36.54,
+   "2015-16": 4.76,
+   "2019-21": 2.2,
+   "2022-23_projection": 1.43,
+   "india_2022-23": 11.28
+  },
+  "unit": "% of population",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "NITI Aayog, Multidimensional Poverty in India since 2005-06",
+    "date": "Jan 2024",
+    "url": "https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "multidimensional poverty",
+   "mpi",
+   "வறுமை",
+   "niti aayog",
+   "poverty"
+  ]
+ },
+ {
+  "id": "qol-poverty-exits",
+  "topic": "quality_of_life",
+  "statement": "NITI Aayog estimates 43.98 lakh people in Tamil Nadu left multidimensional poverty between 2013-14 and 2022-23.",
+  "value": 4398000,
+  "unit": "people",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "NITI Aayog, Multidimensional Poverty in India since 2005-06",
+    "date": "Jan 2024",
+    "url": "https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "multidimensional poverty",
+   "வறுமை",
+   "niti aayog"
+  ]
+ },
+ {
+  "id": "qol-sdg-index",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu scored 67 (joint 3rd) in the 2019 SDG India Index, 74 (joint 2nd) in 2020-21 and 78 (3rd) in 2023-24, against India's 60, 66 and 71.",
+  "value": {
+   "2019": 67,
+   "2020-21": 74,
+   "2023-24": 78,
+   "india_2019": 60,
+   "india_2020-21": 66,
+   "india_2023-24": 71
+  },
+  "unit": "score out of 100",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard/ANI",
+    "date": "2019-12-30",
+    "url": "https://www.business-standard.com/article/news-ani/niti-aayog-releases-sdg-india-index-and-dashboard-2019-119123000723_1.html"
+   },
+   {
+    "outlet": "Tribune",
+    "date": "2021-06-03",
+    "url": "https://www.tribuneindia.com/news/nation/kerala-retains-top-rank-in-niti-aayogs-sdg-india-index-2020-21-bihar-worst-performer-262800"
+   },
+   {
+    "outlet": "DT Next/PTI",
+    "date": "2024-07-12",
+    "url": "https://www.dtnext.in/amp/news/national/kerala-uttarakhand-tamil-nadu-and-goa-top-performers-in-niti-aayogs-sustainable-development-goal-index-2023-24-794591"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "sdg index",
+   "niti aayog",
+   "நிலையான வளர்ச்சி இலக்குகள்"
+  ]
+ },
+ {
+  "id": "qol-college-enrolment",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's college gross enrolment ratio (ages 18-23) was 46.9% in 2016-17, 47.0% in 2021-22 and 52.3% in 2023-24, against India's 28.4% and 30.0%.",
+  "value": {
+   "2016-17": 46.9,
+   "2021-22": 47.0,
+   "2023-24": 52.3,
+   "india_2021-22": 28.4,
+   "india_2023-24": 30.0
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2018-01-06",
+    "url": "https://www.deccanchronicle.com/amp/nation/current-affairs/060118/tamil-nadu-tops-in-country-with-469-per-cent-gross-enrollment-ratio.html"
+   },
+   {
+    "outlet": "Ministry of Education, Lok Sabha reply",
+    "date": "2024-02-05",
+    "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/parliament_annexure_en/LSUQ_344.pdf"
+   },
+   {
+    "outlet": "AISHE table as reproduced by Arun C. Mehta",
+    "date": "Aug 2026",
+    "url": "https://educationforallinindia.com/wp-content/uploads/2026/08/ger-brief-analysis-UPDATED-ARUNCMEHTA.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "gross enrolment ratio",
+   "ger",
+   "aishe",
+   "higher education",
+   "உயர்கல்வி"
+  ]
+ },
+ {
+  "id": "qol-school-dropout",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's secondary (Classes 9-10) dropout rate was 7.7% in 2023-24 and 8.5% in 2024-25, against India's 11.5%; primary went from 0 to 2.7% and upper primary from 0 to 2.8%.",
+  "value": {
+   "secondary_2023-24": 7.7,
+   "secondary_2024-25": 8.5,
+   "india_secondary_2024-25": 11.5,
+   "primary_2023-24": 0,
+   "primary_2024-25": 2.7,
+   "upper_primary_2023-24": 0,
+   "upper_primary_2024-25": 2.8
+  },
+  "unit": "%",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Free Press Journal",
+    "date": "2025-10-29",
+    "url": "https://www.freepressjournal.in/education/tamil-nadu-school-dropout-rate-surges-across-all-levels-raising-alarm-among-educators"
+   },
+   {
+    "outlet": "UDISE+ 2024-25 table, reproduced",
+    "date": "Sep 2025",
+    "url": "https://educationforallinindia.com/wp-content/uploads/2025/09/Dropout-Transition-and-Retention-Rate-UDISEPlus-2024-25-DSEL.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dropout",
+   "udise",
+   "இடைநிற்றல்",
+   "school education"
+  ]
+ },
+ {
+  "id": "qol-rural-unemployment",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's rural unemployment fell from 79 per 1,000 in 2017-18 to 31 in 2023-24, above India's 53 and 25; the 2011-12 figure of 20 is from an older survey.",
+  "value": {
+   "2011-12": 20,
+   "2017-18": 79,
+   "2019-20": 50,
+   "2021-22": 42,
+   "2023-24": 31,
+   "india_2017-18": 53,
+   "india_2023-24": 25
+  },
+  "unit": "per 1,000 in labour force",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "RBI Handbook of Statistics on Indian States, Table 15",
+    "date": "text",
+    "url": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22803"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "unemployment",
+   "வேலையின்மை",
+   "rural",
+   "rbi"
+  ]
+ },
+ {
+  "id": "qol-crimes-against-scs",
+  "topic": "quality_of_life",
+  "statement": "NCRB cases of crimes against Scheduled Castes in Tamil Nadu went from 1,631 in 2010 to 1,144 in 2019 and 1,761 in 2022.",
+  "value": {
+   "2010": 1631,
+   "2011": 1391,
+   "2015": 1736,
+   "2016": 1291,
+   "2019": 1144,
+   "2020": 1274,
+   "2021": 1377,
+   "2022": 1761
+  },
+  "unit": "cases registered",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "MHA, Lok Sabha reply",
+    "date": "2023-12-19",
+    "url": "https://eparlib.nic.in/bitstream/123456789/2972977/1/AU2625.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ncrb",
+   "crimes against dalits",
+   "தலித் மீதான வன்கொடுமை",
+   "sc/st atrocities"
+  ]
+ },
+ {
+  "id": "qol-crimes-against-sts",
+  "topic": "quality_of_life",
+  "statement": "NCRB cases of crimes against Scheduled Tribes in Tamil Nadu went from 33 in 2010 to 67 in 2022.",
+  "value": {
+   "2010": 33,
+   "2011": 23,
+   "2015": 25,
+   "2016": 19,
+   "2019": 31,
+   "2020": 23,
+   "2021": 39,
+   "2022": 67
+  },
+  "unit": "cases registered",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "MHA, Lok Sabha reply",
+    "date": "2023-12-19",
+    "url": "https://eparlib.nic.in/bitstream/123456789/2972977/1/AU2625.pdf"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ncrb",
+   "crimes against tribals",
+   "sc/st atrocities"
+  ]
+ },
+ {
+  "id": "qol-crimes-against-women",
+  "topic": "quality_of_life",
+  "statement": "NCRB cases of crimes against women in Tamil Nadu were 6,354 in 2014, 4,463 in 2016, 9,207 in 2022 and 8,943 in 2023; these are raw counts.",
+  "value": {
+   "2014": 6354,
+   "2015": 5919,
+   "2016": 4463,
+   "2017": 5397,
+   "2020": 6630,
+   "2021": 8501,
+   "2022": 9207,
+   "2023": 8943
+  },
+  "unit": "cases registered",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "MHA, Lok Sabha reply",
+    "date": "2018-12-18",
+    "url": "https://eparlib.nic.in/bitstream/123456789/801789/1/AU1350.pdf"
+   },
+   {
+    "outlet": "MHA, Lok Sabha reply",
+    "date": "2019-11-29",
+    "url": "https://eparlib.nic.in/bitstream/123456789/957620/1/AU1868.pdf"
+   },
+   {
+    "outlet": "MHA, Lok Sabha reply",
+    "date": "2025-02-11",
+    "url": "https://eparlib.sansad.in/bitstream/123456789/2988476/1/AU1251_qcWu4i.pdf"
+   },
+   {
+    "outlet": "DT Next/IANS",
+    "date": "2025-10-01",
+    "url": "https://www.dtnext.in/news/tamilnadu/crimes-against-dalits-children-rose-in-tn-ncrb-2023-report-848281"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ncrb",
+   "crimes against women",
+   "பெண்களுக்கு எதிரான குற்றங்கள்"
+  ]
+ },
+ {
+  "id": "qol-income-per-person",
+  "topic": "quality_of_life",
+  "statement": "Tamil Nadu's net state domestic product per person at constant 2011-12 prices rose from Rs 93,112 in 2011-12 to about Rs 1.96 lakh in 2024-25, against India's Rs 1,14,710; the 2024-25 value differs by source.",
+  "value": {
+   "2011-12": 93112,
+   "2015-16": 115875,
+   "2016-17": 123206,
+   "2020-21": 143482,
+   "2021-22": 154269,
+   "india_2024-25": 114710
+  },
+  "unit": "Rs per person (constant 2011-12 prices)",
+  "alt_values": [
+   "2024-25: Rs 1,96,309 (RBI)",
+   "2024-25: Rs 1,97,747 (MoSPI series)"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "RBI Handbook of Statistics on Indian States, Table 10",
+    "date": "text",
+    "url": "https://www.rbi.org.in/scripts/PublicationsView.aspx?id=23184"
+   },
+   {
+    "outlet": "StatisticsTimes",
+    "date": "Dec 2025",
+    "url": "https://www.statisticstimes.com/economy/india/tamil-nadu-economy.php"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "per capita income",
+   "தனிநபர் வருமானம்",
+   "nsdp",
+   "rbi"
+  ]
+ },
+ {
+  "id": "ntr-tdp-precedent",
+  "topic": "elections",
+  "statement": "NTR's TDP took Andhra Pradesh in January 1983; the Governor dismissed him in August 1984 after defections, he was back 31 days later, and the TDP won 30 of 42 Lok Sabha seats in December 1984.",
+  "value": {
+   "ls_seats_1984": 30,
+   "of": 42
+  },
+  "unit": "seats",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2018-04-05",
+    "url": "https://www.thenewsminute.com/amp/story/features/how-ntr-convinced-indira-gandhi-strong-states-did-not-mean-weak-centre-79068"
+   },
+   {
+    "outlet": "The Quint",
+    "date": "2023-08-23",
+    "url": "https://www.thequint.com/opinion/august-andhra-anjaih-how-congress-was-wiped-out-from-its-bastion-in-the-south"
+   },
+   {
+    "outlet": "Wikipedia, citing ECI",
+    "date": "accessed 2026",
+    "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election_in_Andhra_Pradesh"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ntr",
+   "n.t. rama rao",
+   "என்டிஆர்",
+   "tdp",
+   "star-led government",
+   "actor politician"
+  ]
+ },
+ {
+  "id": "mgr-precedent",
+  "topic": "elections",
+  "statement": "M.G. Ramachandran's AIADMK won 130 seats in June 1977, won 2 of 39 Lok Sabha seats in January 1980, had its ministry dismissed, then won the Assembly again in May 1980 with 129 of 234.",
+  "value": {
+   "assembly_1977": 130,
+   "ls_1980": 2,
+   "assembly_1980": 129
+  },
+  "unit": "seats",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2016-05-01",
+    "url": "https://www.thenewsminute.com/amp/story/tamil-nadu/indira-gandhi-never-forgave-mgr-1977-42511"
+   },
+   {
+    "outlet": "Wikipedia, 1980 Lok Sabha in Tamil Nadu",
+    "date": "accessed 2026",
+    "url": "https://en.wikipedia.org/wiki/1980_Indian_general_election_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Wikipedia, citing ECI",
+    "date": "accessed 2026",
+    "url": "https://en.wikipedia.org/wiki/1980_Tamil_Nadu_Legislative_Assembly_election"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "mgr",
+   "m.g. ramachandran",
+   "எம்ஜிஆர்",
+   "aiadmk",
+   "அதிமுக",
+   "star-led government",
+   "1977"
+  ]
+ },
+ {
+  "id": "aap-delhi-precedent",
+  "topic": "elections",
+  "statement": "AAP won 67 of 70 Delhi seats in February 2015, lost all three municipal corporations in April 2017, won 0 of 7 Lok Sabha seats in May 2019 (vote share about 18%, from 32.9%), and won Delhi again in February 2020 with 62 of 70.",
+  "value": {
+   "assembly_2015": 67,
+   "ls_2019": 0,
+   "vote_share_2019": 18,
+   "assembly_2020": 62
+  },
+  "unit": "seats / %",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2015-02-10",
+    "url": "https://www.business-standard.com/amp/article/elections/aap-storms-to-power-in-delhi-wins-67-to-70-seats-115021001563_1.html"
+   },
+   {
+    "outlet": "Business Standard/PTI",
+    "date": "2017-04-26",
+    "url": "https://www.business-standard.com/amp/article/pti-stories/bjp-makes-a-clean-sweep-of-delhi-civic-bodies-117042601358_1.html"
+   },
+   {
+    "outlet": "Business Standard/IANS",
+    "date": "2019-05-24",
+    "url": "https://www.business-standard.com/article/news-ians/aap-s-delhi-vote-share-at-18-in-2019-from-33-in-2014-119052401568_1.html"
+   },
+   {
+    "outlet": "Madhyamam",
+    "date": "2020-02-12",
+    "url": "https://english.madhyamam.com/national/2020/feb/12/aap-sweeps-delhi-polls-62-seats-bjp-falls-way-behind"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aap",
+   "aam aadmi party",
+   "ஆம் ஆத்மி",
+   "delhi",
+   "kejriwal",
+   "outsider government"
+  ]
+ },
+ {
+  "id": "aap-punjab-precedent",
+  "topic": "elections",
+  "statement": "AAP won 92 of 117 Punjab seats in March 2022, lost the Sangrur Lok Sabha by-poll by 5,822 votes three months later, and won 3 of 13 Lok Sabha seats in June 2024.",
+  "value": {
+   "assembly_2022": 92,
+   "sangrur_margin": 5822,
+   "ls_2024": 3
+  },
+  "unit": "seats / votes",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "2022-06-26",
+    "url": "https://theprint.in/india/simranjit-mann-humbles-aap-in-cms-sangrur-constituency-wins-ls-bypoll-by-5800-votes/1013254"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2024-06-04",
+    "url": "https://www.deccanherald.com/amp/story/elections%2Findia%2Flok-sabha-elections-2024-with-7-seats-congress-makes-comeback-in-punjab-aap-gets-3-sad-1-3052729"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aap",
+   "punjab",
+   "sangrur",
+   "bhagwant mann",
+   "outsider government"
+  ]
+ },
+ {
+  "id": "ysrcp-precedent",
+  "topic": "elections",
+  "statement": "YSRCP won 151 of 175 Andhra Pradesh seats in May 2019, all 11 municipal corporations in March 2021, and then 4 of 25 Lok Sabha and 11 of 175 Assembly seats in 2024.",
+  "value": {
+   "assembly_2019": 151,
+   "corporations_2021": 11,
+   "ls_2024": 4,
+   "assembly_2024": 11
+  },
+  "unit": "seats",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2024-06-04",
+    "url": "https://thenewsminute.com/andhra-pradesh/jagan-questions-ap-voters-loyalty-after-massive-loss-congratulates-tdp-jsp-bjp"
+   },
+   {
+    "outlet": "NewsMeter",
+    "date": "Mar 2021",
+    "url": "https://newsmeter.in/regional/andhra-pradesh/ap-tdp-whitewashed-ysrc-wins-all-11-municipal-corporations-675511"
+   },
+   {
+    "outlet": "South First",
+    "date": "2024-06-07",
+    "url": "https://thesouthfirst.com/andhrapradesh/ysrcp-loses-its-presence-in-8-out-of-13-districts-in-andhra-pradesh-either-in-the-assembly-or-in-lok-sabha/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "ysrcp",
+   "jagan mohan reddy",
+   "ஜெகன்",
+   "andhra pradesh"
+  ]
+ },
+ {
+  "id": "star-led-pattern",
+  "topic": "elections",
+  "statement": "idly's reading: in three of the five star-led or outsider cases the party did badly at its first national election, though MGR and AAP in Delhi then won their next Assembly polls; five cases cannot predict Tamil Nadu.",
+  "value": {
+   "cases": 5,
+   "poor_first_national": 3
+  },
+  "unit": "cases",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Wikipedia, 1980 Lok Sabha in Tamil Nadu",
+    "date": "accessed 2026",
+    "url": "https://en.wikipedia.org/wiki/1980_Indian_general_election_in_Tamil_Nadu"
+   },
+   {
+    "outlet": "Business Standard/IANS",
+    "date": "2019-05-24",
+    "url": "https://www.business-standard.com/article/news-ians/aap-s-delhi-vote-share-at-18-in-2019-from-33-in-2014-119052401568_1.html"
+   },
+   {
+    "outlet": "Deccan Herald",
+    "date": "2024-06-04",
+    "url": "https://www.deccanherald.com/amp/story/elections%2Findia%2Flok-sabha-elections-2024-with-7-seats-congress-makes-comeback-in-punjab-aap-gets-3-sad-1-3052729"
+   },
+   {
+    "outlet": "South First",
+    "date": "2024-06-07",
+    "url": "https://thesouthfirst.com/andhrapradesh/ysrcp-loses-its-presence-in-8-out-of-13-districts-in-andhra-pradesh-either-in-the-assembly-or-in-lok-sabha/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "star-led government",
+   "precedent",
+   "2029",
+   "lok sabha",
+   "நாடாளுமன்றத் தேர்தல்"
+  ]
+ },
+ {
+  "id": "pawan-kalyan-envious",
+  "topic": "centre_state",
+  "statement": "Andhra Pradesh Deputy CM Pawan Kalyan said on 25 May 2026, in an indirect reference to Vijay, \"it even makes me feel envious\", after telling workers on 17 May not to compare him with Vijay.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "ThePrint/PTI",
+    "date": "2026-05-26",
+    "url": "https://theprint.in/india/sense-of-envy-says-pawan-kalyan-in-obvious-reference-to-tn-cm-vijay/2941747/"
+   },
+   {
+    "outlet": "News Arena India",
+    "date": "2026-05-17",
+    "url": "https://newsarenaindia.com/states/don-t-compare-me-with-joseph-vijay-pawan-kalyan/77483"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "pawan kalyan",
+   "பவன் கல்யாண்",
+   "jana sena",
+   "andhra pradesh",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்"
+  ]
+ },
+ {
+  "id": "shivakumar-mekedatu",
+  "topic": "centre_state",
+  "statement": "Karnataka CM D.K. Shivakumar said on 18 June 2026 that Mekedatu \"will help Tamil Nadu more than Karnataka\" and he was ready to talk to Vijay; TN Agriculture Minister R. Vinoth said on 24 July Tamil Nadu would \"never allow\" it.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-06-18",
+    "url": "https://www.dtnext.in/amp/story/news/national/mekedatu-will-benefit-tn-farmers-more-than-karnataka-cm-dk-shivakumar"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-06-18",
+    "url": "https://www.thenewsminute.com/karnataka/ready-to-hold-talks-with-tn-cm-vijay-on-mekedatu-project-says-karnataka-cm-shivakumar"
+   },
+   {
+    "outlet": "Telangana Today",
+    "date": "2026-07-24",
+    "url": "https://telanganatoday.com/discussion-on-mekedatu-issue-cm-vijay-received-official-invite-from-karnataka-says-minister"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "mekedatu",
+   "மேகதாது",
+   "d.k. shivakumar",
+   "karnataka",
+   "cauvery",
+   "காவிரி",
+   "r. vinoth"
+  ]
+ },
+ {
+  "id": "kerala-mullaperiyar",
+  "topic": "centre_state",
+  "statement": "After the TN budget sought a higher Mullaperiyar level, Kerala Water Resources Minister Mons Joseph said on 5 August 2026 \"we will not allow the water level\" to be raised, and Kerala CM V.D. Satheesan said a CM-level meeting was being considered.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-08-06",
+    "url": "https://www.thenewsminute.com/kerala/will-not-allow-water-level-to-be-raised-kerala-responds-to-tn-budget-on-mullaperiyar"
+   },
+   {
+    "outlet": "Deccan Chronicle/PTI",
+    "date": "2026-08-05",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/kerala/kerala-cm-satheesan-to-hold-talks-with-tn-cm-vijay-over-mullaperiyar-1976786"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "mullaperiyar",
+   "முல்லைப் பெரியாறு",
+   "kerala",
+   "கேரளா",
+   "v.d. satheesan",
+   "mons joseph"
+  ]
+ },
+ {
+  "id": "revanth-reddy-welfare",
+  "topic": "centre_state",
+  "statement": "Telangana CM A. Revanth Reddy told Vijay on 10 May 2026: \"I strongly believe that you will deliver welfare for the poor\".",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-05-10",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/telangana/revanth-congratulates-vijay-on-taking-oath-as-tamil-nadu-chief-minister-1955775"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "revanth reddy",
+   "telangana",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்"
+  ]
+ },
+ {
+  "id": "rahul-gandhi-new-generation",
+  "topic": "centre_state",
+  "statement": "Rahul Gandhi said on 10 May 2026 \"Tamil Nadu has chosen. A new generation. A new voice.\" and on 22 June pledged to stand with Vijay on the rights of Tamil people.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-05-10",
+    "url": "https://deccanchronicle.com/nation/congress-hails-vijays-rise-as-new-generation-politics-1955825"
+   },
+   {
+    "outlet": "Outlook",
+    "date": "2026-06-22",
+    "url": "https://www.outlookindia.com/national/rahul-gandhi-pledges-support-to-chief-minister-vijay-on-birthday"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "rahul gandhi",
+   "ராகுல் காந்தி",
+   "congress",
+   "காங்கிரஸ்",
+   "kharge",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்"
+  ]
+ },
+ {
+  "id": "modi-with-cm-vijay",
+  "topic": "centre_state",
+  "statement": "Prime Minister Narendra Modi, opening projects worth about Rs 13,000 crore in Chennai on 11 October 2026, said \"Together with CM Vijay, we are taking forward the development of the state.\"",
+  "value": 13000,
+  "unit": "Rs crore of projects",
+  "alt_values": [],
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint/PTI",
+    "date": "2026-10-11",
+    "url": "https://theprint.in/india/pm-modi-invokes-tamil-pride-pledges-helping-hand-to-vijay-cm-vows-to-work-with-centre/3068720/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "narendra modi",
+   "modi",
+   "மோடி",
+   "bjp",
+   "பாஜக",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "centre"
+  ]
+ },
+ {
+  "id": "karur-stampede-cbi-transfer",
+  "topic": "law_order",
+  "statement": "On 13 October 2025, on TVK's petition, the Supreme Court moved the probe into the 27 September 2025 Karur crowd crush, in which 41 people died, to the CBI under a committee led by former judge Ajay Rastogi; the cause is for the investigation to establish.",
+  "value": 41,
+  "unit": "deaths",
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "Oct 2025",
+    "url": "https://www.thenewsminute.com/tamil-nadu/supreme-court-orders-cbi-investigation-into-karur-stampede"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "Oct 2025",
+    "url": "https://theprint.in/india/karur-stampede-sc-orders-cbi-probe-panel-led-by-ex-sc-judge-to-monitor-investigation/2762654"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "karur stampede",
+   "கரூர் கூட்ட நெரிசல்",
+   "karur",
+   "கரூர்",
+   "cbi",
+   "சிபிஐ",
+   "supreme court",
+   "ajay rastogi"
+  ]
+ },
+ {
+  "id": "karur-dmk-govt-sought-cancel",
+  "topic": "law_order",
+  "statement": "On 2 December 2025 the then DMK government asked the Supreme Court to cancel the CBI probe and restore the police team; no report shows the TVK government withdrawing, pressing or changing that plea.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2025-12-03",
+    "url": "https://thesouthfirst.com/news/karur-stampede-tamil-nadu-government-seeks-to-cancel-cbi-investigation-says-police-probe-was-unbiased/"
+   },
+   {
+    "outlet": "LiveLaw",
+    "date": "Dec 2025",
+    "url": "https://www.livelaw.in/amp/top-stories/karur-stampede-case-tamil-nadu-govt-urges-supreme-court-to-vacate-interim-order-transferring-probe-to-cbi-311856"
+   },
+   {
+    "outlet": "The Week",
+    "date": "2026-07-07",
+    "url": "https://www.theweek.in/news/india/2026/07/07/supreme-court-cm-vijay-speech-karur-stampede.amp.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "karur stampede",
+   "கரூர் கூட்ட நெரிசல்",
+   "karur",
+   "கரூர்",
+   "cbi",
+   "சிபிஐ",
+   "dmk",
+   "திமுக",
+   "supreme court"
+  ]
+ },
+ {
+  "id": "karur-sc-july-2026",
+  "topic": "law_order",
+  "statement": "On 7 July 2026 the Supreme Court declined a DMK plea to stop the CM speaking about the Karur case, noting he is not an accused in the FIRs; the DMK withdrew.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Week",
+    "date": "2026-07-07",
+    "url": "https://www.theweek.in/news/india/2026/07/07/supreme-court-cm-vijay-speech-karur-stampede.amp.html"
+   },
+   {
+    "outlet": "LiveLaw",
+    "date": "2026-07-03",
+    "url": "https://www.livelaw.in/amp/top-stories/dmk-moves-supreme-court-against-tn-ministers-statements-on-karur-stampede-objects-to-cm-vijay-meeting-families-539793"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "karur stampede",
+   "கரூர் கூட்ட நெரிசல்",
+   "karur",
+   "கரூர்",
+   "cbi",
+   "சிபிஐ",
+   "vijay",
+   "c. joseph vijay",
+   "cm vijay",
+   "விஜய்",
+   "முதல்வர் விஜய்",
+   "dmk",
+   "திமுக",
+   "supreme court"
+  ]
+ },
+ {
+  "id": "karur-no-chargesheet",
+  "topic": "law_order",
+  "statement": "The CBI filed a first inquiry report in October 2025 and a charge sheet was expected by end-February 2026, but none had been reported as of 10 November 2026.",
+  "value": null,
+  "unit": null,
+  "alt_values": [],
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "Oct 2025",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/karur-stampede-cbi-submits-first-report-in-court-850593"
+   },
+   {
+    "outlet": "Lokmat/IANS",
+    "date": "2026-02-05",
+    "url": "https://www.lokmattimes.com/national/karur-stampede-tragedy-cbi-likely-to-file-chargesheet-by-month-end/amp"
+   },
+   {
+    "outlet": "ETV Bharat",
+    "date": "2026-03-10",
+    "url": "https://www.etvbharat.com/en/state/cbi-again-summons-tvk-chief-vijay-and-karur-mla-senthil-balaji-in-stampede-case-enn26031006993"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "karur stampede",
+   "கரூர் கூட்ட நெரிசல்",
+   "karur",
+   "கரூர்",
+   "cbi",
+   "சிபிஐ",
+   "charge sheet",
+   "குற்றப்பத்திரிகை"
+  ]
+ },
+ {
+  "id": "anbil-mahesh-arrest",
+  "topic": "law_order",
+  "statement": "Former DMK School Education Minister Anbil Mahesh Poyyamozhi was arrested on 26 October 2026 in a Prevention of Corruption Act case alleging money was collected from private schools as a \"party fund\"; a special court refused bail on 10 November.",
+  "value": "2026-10-26",
+  "unit": "date of arrest",
+  "alt_values": [],
+  "status": "alleged",
+  "response": "He called the September searches politically motivated and said nothing illegal was found; his lawyers argued a collective decision was being painted as corruption and that the Governor's sanction was not obtained; Stalin called it \"political vendetta\". No charge sheet has been reported.",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-26",
+    "url": "https://www.dtnext.in/news/tamilnadu/anbil-mahesh-becomes-first-ex-minister-to-be-arrested-for-graft-under-cm-vijays-government"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-10",
+    "url": "https://www.dtnext.in/news/tamilnadu/witnesses-materials-indicate-party-fund-extortion-says-spl-court-denies-anbil-mahesh-bail"
+   },
+   {
+    "outlet": "Hans India/IANS",
+    "date": "2026-11-10",
+    "url": "https://www.thehansindia.com/news/cities/chennai/chennai-special-court-rejects-bail-plea-of-ex-dmk-minister-anbil-mahesh-in-school-approval-scam-case-1140784"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "anbil mahesh",
+   "அன்பில் மகேஷ்",
+   "arrest",
+   "கைது",
+   "corruption",
+   "private schools"
+  ]
+ },
+ {
+  "id": "tvk-strength-after-bypolls",
+  "topic": "formation",
+  "statement": "After the 6 Oct 2026 by-polls TVK has 109 or 110 MLAs (sources differ), against a majority mark of 118 in the 234-seat Assembly; five seats are vacant.",
+  "value": "109",
+  "unit": "MLAs",
+  "alt_values": [
+   "109",
+   "110"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "10 Oct 2026",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/tn-bypolls-vijays-tvk-gets-2-new-mlas-same-as-the-old-ones"
+   },
+   {
+    "outlet": "South First",
+    "date": "Oct 2026",
+    "url": "https://thesouthfirst.com/tamilnadu/tvk-wins-dharapuram-and-madurantakam-by-elections-road-ahead-to-an-independent-majority/"
+   },
+   {
+    "outlet": "TNM",
+    "date": "9 Oct 2026",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tn-bye-polls-tvk-wins-dharapuram-and-madurantakam-boosting-vijays-assembly-strength"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "strength",
+   "majority",
+   "118",
+   "109",
+   "110",
+   "mlas",
+   "by-poll",
+   "bypoll",
+   "vacant seats",
+   "minority government",
+   "பெரும்பான்மை",
+   "இடைத்தேர்தல்"
+  ]
+ },
+ {
+  "id": "trust-vote-aiadmk-rebels",
+  "topic": "formation",
+  "statement": "In the 13 May 2026 trust vote (144 for, 22 against, 5 neutral), the number of AIADMK MLAs who backed the government is reported as 25, 24 or 22 (sources differ).",
+  "value": "25",
+  "unit": "MLAs",
+  "alt_values": [
+   "25",
+   "24",
+   "22"
+  ],
+  "status": "disputed",
+  "sources": [
+   {
+    "outlet": "ThePrint",
+    "date": "13 May 2026",
+    "url": "https://theprint.in/politics/vijay-cruises-through-tamil-nadu-assembly-floor-test-as-aiadmk-rebels-vote-in-favour-of-tvk/2929821/"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "10 Oct 2026",
+    "url": "https://www.dtnext.in/amp/story/news/tamilnadu/tn-bypolls-vijays-tvk-gets-2-new-mlas-same-as-the-old-ones"
+   },
+   {
+    "outlet": "The Week",
+    "date": "13 May 2026",
+    "url": "https://www.theweek.in/news/india/2026/05/13/vijay-wins-tamil-nadu-floor-test-24-aiadmk-mlas-vote-in-his-support.html"
+   },
+   {
+    "outlet": "PTI via ThePrint",
+    "date": "8 Sept 2026",
+    "url": "https://theprint.in/india/oct-6-by-poll-sets-stage-for-3-months-old-tvk-govts-first-electoral-test/3036548/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "trust vote",
+   "floor test",
+   "confidence vote",
+   "aiadmk rebels",
+   "velumani",
+   "cross-voting",
+   "நம்பிக்கை வாக்கெடுப்பு"
+  ]
+ }
+]

@@ -1,0 +1,801 @@
+[
+ {
+  "id": "tvk-free-power-200-units",
+  "party": "TVK",
+  "promise": "200 free power units (TNM read the manifesto as every month)",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "200 units per two-month bill for homes using up to 500 units, in force from 10 May 2026",
+  "verdict": "partly",
+  "annual_cost": "Rs 1,730 crore extra a year; budget Rs 1,545 crore for 10 May 2026 to 31 Mar 2027",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   },
+   {
+    "outlet": "Tamil Nadu budget speech 2026-27",
+    "date": "2026-08-05",
+    "url": "https://images.assettype.com/dt-next/2026-08-05/q5sjjxhu/TamilNadu_Budget_2026_2027_____English___Date_05_08_2026.pdf"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026-05-10",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-cm-vijay-signs-first-files-offers-subsidised-electricity-womens-protection-force"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "free electricity",
+   "free power",
+   "இலவச மின்சாரம்",
+   "200 units",
+   "200 யூனிட்",
+   "tangedco",
+   "eb bill"
+  ]
+ },
+ {
+  "id": "tvk-women-rs2500",
+  "party": "TVK",
+  "promise": "Rs 2,500 a month for women heads of family",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "DMK's Rs 1,000 continues as Magalir Urimai Thittam; hike \"under consideration\"; Finance Secretary said within a year (5 Aug)",
+  "verdict": "not_started",
+  "annual_cost": "Rs 14,414 crore budgeted at Rs 1,000; about Rs 39,000 crore a year at Rs 2,500 (The Hindu estimate cited by South First)",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Federal",
+    "date": "2026-11-10",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/vijay-tvk-chief-minister-cm-coalition-hits-misses-262370"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-06-18",
+    "url": "https://thesouthfirst.com/tamilnadu/five-weeks-into-power-tamil-nadu-governments-white-paper-raises-questions-over-costly-poll-promises/"
+   },
+   {
+    "outlet": "PRS Legislative Research, 2026-27 budget analysis",
+    "date": "Aug 2026",
+    "url": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2026-27"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-budget-2026-tvk-gives-tamil-nadu-budget-a-vetri-makeover"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family"
+  ]
+ },
+ {
+  "id": "tvk-six-free-lpg",
+  "party": "TVK",
+  "promise": "Six free LPG cylinders a year",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Annapoorani Super Six: three cylinders a year reimbursed to families earning up to Rs 2.5 lakh; announced 24 Aug; payments from Pongal (Jan 2027); none paid by 10 Nov",
+  "verdict": "started",
+  "annual_cost": "About Rs 4,000 crore",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-24",
+    "url": "https://www.dtnext.in/news/tamilnadu/cm-vijay-announces-two-new-sops-worth-rs-10000-crore-for-women"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "lpg",
+   "cylinder",
+   "சிலிண்டர்",
+   "சமையல் எரிவாயு",
+   "annapoorani super six",
+   "அன்னபூரணி",
+   "pongal",
+   "பொங்கல்"
+  ]
+ },
+ {
+  "id": "tvk-crop-loan-waiver",
+  "party": "TVK",
+  "promise": "Crop loan waiver (farmers' bodies say a complete waiver was promised)",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Co-operative crop loans waived up to Rs 75,000 per farmer; final order 6 Nov 2026 for 13,24,882 farmers",
+  "verdict": "partly",
+  "annual_cost": "Rs 9,062.83 crore, one time",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-11-08",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tn-expands-crop-loan-waiver-scheme-releases-rs-2842-crore-2002700"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-08",
+    "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-drops-tiered-system-for-rs-75000-loan-waiver"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-08-07",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/tamil-nadu-agriculture-budget-draws-criticism-from-farmers-bodies-1977287"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "crop loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "farm loan waiver",
+   "cooperative loan",
+   "கூட்டுறவு",
+   "75000",
+   "rs 75,000",
+   "farmers",
+   "விவசாயிகள்"
+  ]
+ },
+ {
+  "id": "tvk-paddy-price",
+  "party": "TVK",
+  "promise": "Paddy procurement at Rs 3,000 a quintal (TNM) or Rs 3,500 (DT Next); sources differ",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Rs 2,750 fine, Rs 2,600 common, from 1 Sept 2026",
+  "verdict": "partly",
+  "annual_cost": "Not published",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "ThePrint/PTI",
+    "date": "2026-08-10",
+    "url": "https://theprint.in/india/tn-govt-announces-increase-in-procurement-incentives-for-paddy-sugarcane-farmers/3010338/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "paddy",
+   "நெல்",
+   "procurement price",
+   "3000",
+   "3500"
+  ]
+ },
+ {
+  "id": "tvk-sugarcane-4500",
+  "party": "TVK",
+  "promise": "Sugarcane at Rs 4,500 a tonne",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Rs 4,000 a tonne; incentive paid by bank transfer from Deepavali",
+  "verdict": "partly",
+  "annual_cost": "Rs 603.34 crore for the 2025-26 season",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-08",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-govt-sanctions-rs-603-crore-sugarcane-incentive-farmers-assured-rs-4000-per-tonne"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "sugarcane",
+   "கரும்பு",
+   "4500"
+  ]
+ },
+ {
+  "id": "tvk-gold-saree-brides",
+  "party": "TVK",
+  "promise": "8 g gold and silk saree for brides",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Annan Seer order of 5 Oct; income limit Rs 2.5 lakh (promise Rs 5 lakh); gold-coin tender closes 8 Dec; no coins given by 10 Nov",
+  "verdict": "started",
+  "annual_cost": "Rs 812 crore",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-11-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/annan-seer-scheme-tn-invites-bids-for-60000-gold-coins-sarees"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-19",
+    "url": "https://www.dtnext.in/news/tamilnadu/annan-seer-scheme-for-brides-rs-812-crore-allocated-application-portal-awaited"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "annan seer",
+   "அண்ணன் சீர்",
+   "gold coin",
+   "தங்க நாணயம்",
+   "8 gram gold",
+   "thali",
+   "தாலிக்குத் தங்கம்",
+   "silk saree",
+   "brides"
+  ]
+ },
+ {
+  "id": "tvk-newborn-gold-ring",
+  "party": "TVK",
+  "promise": "Gold ring for newborns",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "1 g ring for babies born in government hospitals from 22 June; launched 28 Sept; being given out. Udhayanidhi Stalin says the promise covered all children (scope disputed)",
+  "verdict": "delivered",
+  "annual_cost": "Rs 560 crore (budget)",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Today",
+    "date": "2026-09-27",
+    "url": "https://www.businesstoday.in/india/story/thaimaaman-thanga-mothiram-cm-vijay-launches-gold-ring-scheme-for-babies-check-eligibility-558081-2026-09-27"
+   },
+   {
+    "outlet": "The News Minute",
+    "date": "2026",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tns-thaimaaman-gold-ring-scheme-for-newborns-who-qualifies-what-documents-are-needed"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2026-08-06",
+    "url": "https://www.business-standard.com/india-news/tamil-nadu-budget-2026-tvk-gold-coins-rings-cows-schemes-joseph-vijay-126080600253_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "thaimaaman thanga mothiram",
+   "தாய்மாமன் தங்க மோதிரம்",
+   "gold ring",
+   "தங்க மோதிரம்",
+   "newborn",
+   "udhayanidhi stalin",
+   "உதயநிதி"
+  ]
+ },
+ {
+  "id": "tvk-unemployment-aid",
+  "party": "TVK",
+  "promise": "Unemployment aid: Rs 4,000 a month for graduates, Rs 2,500 for diploma, ITI or Class 12",
+  "promised": "TVK youth blueprint, 29 Mar 2026; manifesto",
+  "current": "No order; budget funds skill training (Rs 150 crore) and 20,000 internships instead",
+  "verdict": "not_started",
+  "annual_cost": "No budget line",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-03-29",
+    "url": "https://www.dtnext.in/news/politics/2026-tn-elections-your-future-my-guarantee-vijay-unveils-10-point-youth-blueprint"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/politics/ai-city-laptops-hostels-branded-cycles-vijays-first-budget-gives-old-schemes-a-gen-z-makeover/3006173/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "unemployment allowance",
+   "வேலையில்லா உதவித்தொகை",
+   "4000",
+   "youth"
+  ]
+ },
+ {
+  "id": "tvk-pension-3000",
+  "party": "TVK",
+  "promise": "Rs 3,000 a month pension for elderly, widows and disabled",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "No order; rate unchanged",
+  "verdict": "not_started",
+  "annual_cost": "Not costed",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-04-16",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-2500-for-homemakers-free-lpg-cylinders-what-tvk-manifesto-2026-promises"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2026-10-03",
+    "url": "https://www.deccanchronicle.com/amp/southern-states/tamil-nadu/elders-seek-pension-hike-better-healthcare-1992679"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "old age pension",
+   "முதியோர் ஓய்வூதியம்",
+   "3000",
+   "widow pension"
+  ]
+ },
+ {
+  "id": "tvk-health-cover-25-lakh",
+  "party": "TVK",
+  "promise": "Rs 25 lakh health cover (from Rs 5 lakh)",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Announced 19 Aug; insurer tender issued; not in force on 10 Nov",
+  "verdict": "started",
+  "annual_cost": "Not published",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-19",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-assembly-annual-coverage-under-cm-health-insurance-hiked-to-rs-25-lakh"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-10-31",
+    "url": "https://www.dtnext.in/news/tamilnadu/new-cmchis-offers-rs-25-lakh-cover-insurers-liability-capped-at-rs-5-lakh-tn-govt-to-pay-rest"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "cmchis",
+   "health insurance",
+   "மருத்துவக் காப்பீடு",
+   "25 lakh"
+  ]
+ },
+ {
+  "id": "tvk-5-lakh-jobs-internships",
+  "party": "TVK",
+  "promise": "5 lakh government jobs and 5 lakh paid internships",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "No recruitment drive of this size found; 20,000 internships in phase one",
+  "verdict": "not_started",
+  "annual_cost": "Not published",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-04-16",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-2500-for-homemakers-free-lpg-cylinders-what-tvk-manifesto-2026-promises"
+   },
+   {
+    "outlet": "ThePrint",
+    "date": "2026-08-05",
+    "url": "https://theprint.in/politics/ai-city-laptops-hostels-branded-cycles-vijays-first-budget-gives-old-schemes-a-gen-z-makeover/3006173/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "government jobs",
+   "அரசு வேலை",
+   "internships",
+   "5 lakh jobs"
+  ]
+ },
+ {
+  "id": "tvk-fishing-ban-aid",
+  "party": "TVK",
+  "promise": "Fishing-ban aid (AIADMK says Rs 20,000 was promised; manifesto text not retrieved)",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Lean and ban-season aid raised from Rs 6,000 to Rs 7,000 per family",
+  "verdict": "partly",
+  "annual_cost": "Rs 135 crore",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-05",
+    "url": "https://www.dtnext.in/news/tamilnadu/tn-budget-2026-fishing-ban-assistance-hiked-to-rs-7000-for-193-lakh-families"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2026-08-08",
+    "url": "https://www.dtnext.in/news/tamilnadu/cm-vijay-fails-fishers-on-rs-20000-aid-promise-aiadmk"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "aiadmk",
+   "அதிமுக",
+   "fishing ban relief",
+   "மீன்பிடித் தடைக்கால நிவாரணம்",
+   "fishers",
+   "20000"
+  ]
+ },
+ {
+  "id": "tvk-anganwadi-sanitation-pay",
+  "party": "TVK",
+  "promise": "Anganwadi workers Rs 18,000; sanitation workers Rs 10,000; Rs 15 lakh retirement benefit",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Nothing found",
+  "verdict": "could_not_verify",
+  "annual_cost": "Not published",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2026-04-16",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-2500-for-homemakers-free-lpg-cylinders-what-tvk-manifesto-2026-promises"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "anganwadi",
+   "அங்கன்வாடி",
+   "sanitation workers",
+   "தூய்மைப் பணியாளர்கள்"
+  ]
+ },
+ {
+  "id": "tvk-women-groups-loans-msme-farmer-support",
+  "party": "TVK",
+  "promise": "Rs 5 lakh interest-free loans to women's groups; Rs 15,000 crore for small businesses; Rs 15,000 a year farmer support",
+  "promised": "TVK manifesto, 16 Apr 2026",
+  "current": "Nothing found",
+  "verdict": "could_not_verify",
+  "annual_cost": "Not published",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "DT Next",
+    "date": "Apr 2026",
+    "url": "https://www.dtnext.in/news/politics/highlights-tvk-manifesto-promises-rs-2500-monthly-aid-interest-free-loans-for-women-and-ai-led-governance"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "self help groups",
+   "மகளிர் சுய உதவிக் குழு",
+   "interest-free loans",
+   "msme",
+   "farmer support"
+  ]
+ },
+ {
+  "id": "tvk-safety-force-anti-drug",
+  "party": "TVK",
+  "promise": "Women's safety force and anti-drug task force",
+  "promised": "TVK campaign; first files signed 10 May 2026",
+  "current": "Both set up: Singappen launched 9 June; Anti-Narcotics Task Force order 8 Aug",
+  "verdict": "delivered",
+  "annual_cost": "Rs 354 crore; Rs 264.14 crore",
+  "status": "single_source",
+  "sources": [
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "tvk",
+   "tamilaga vettri kazhagam",
+   "தவெக",
+   "தமிழக வெற்றிக் கழகம்",
+   "singappen",
+   "சிங்கப்பெண்",
+   "anti-narcotics task force",
+   "போதைப்பொருள் தடுப்பு"
+  ]
+ },
+ {
+  "id": "dmk-2021-rs1000-women",
+  "party": "DMK",
+  "promise": "Rs 1,000 a month for women heads of family",
+  "promised": "DMK 2021 campaign; took office 7 May 2021",
+  "current": "Launched 15 Sept 2023, about 28 months after taking office, with eligibility rules rather than for every head of family",
+  "verdict": "delivered",
+  "annual_cost": "Rs 14,414 crore budgeted for 2026-27 (scheme as continued)",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The Week",
+    "date": "2023-09-15",
+    "url": "https://www.theweek.in/news/india/2023/09/15/tamil-nadu-launches-rs-1000-monthly-cash-dole-scheme-for-women.html"
+   },
+   {
+    "outlet": "Deccan Chronicle",
+    "date": "2023-03-20",
+    "url": "https://www.deccanchronicle.com/nation/current-affairs/200323/tamil-nadu-govt-to-launch-rs-1000-monthly-assistance-to-women-in-sept.html"
+   },
+   {
+    "outlet": "LatestLY/PTI",
+    "date": "2021-08-10",
+    "url": "https://www.latestly.com/agency-news/india-news-tamil-nadu-minister-releases-white-paper-on-states-economy-aiadmk-criticises-2729502.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "m.k. stalin",
+   "stalin",
+   "ஸ்டாலின்",
+   "magalir urimai thogai",
+   "மகளிர் உரிமைத் தொகை",
+   "magalir urimai thittam",
+   "மகளிர் உரிமைத் திட்டம்",
+   "kalaignar magalir urimai thogai",
+   "urimai thogai",
+   "rs 1,000",
+   "1000",
+   "2500",
+   "rs 2,500",
+   "women heads of family",
+   "28 months"
+  ]
+ },
+ {
+  "id": "dmk-2021-end-neet",
+  "party": "DMK",
+  "promise": "End NEET for Tamil Nadu",
+  "promised": "DMK 2021 campaign",
+  "current": "A.K. Rajan committee 5 June 2021; exemption Bill passed 13 Sept 2021; NEET still applies and in Nov 2026 the TVK CM was still seeking exemption",
+  "verdict": "started",
+  "annual_cost": "Not applicable",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2021",
+    "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-passes-bill-ban-neet-state-155226"
+   },
+   {
+    "outlet": "Tribune",
+    "date": "2021-09-13",
+    "url": "https://www.tribuneindia.com/news/nation/tamil-nadu-assembly-passes-bill-seeking-exemption-from-neet-310600"
+   },
+   {
+    "outlet": "The Federal",
+    "date": "2026-11-10",
+    "url": "https://thefederal.com/category/states/south/tamil-nadu/vijay-tvk-chief-minister-cm-coalition-hits-misses-262370"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "neet",
+   "நீட்",
+   "neet exemption",
+   "நீட் விலக்கு"
+  ]
+ },
+ {
+  "id": "dmk-2021-free-bus-women",
+  "party": "DMK",
+  "promise": "Free bus travel for women",
+  "promised": "DMK 2021 campaign",
+  "current": "First-day file; in force from 8 May 2021 (Vidiyal Payanam); widened by TVK as Vettri Payanam from 2 Oct 2026",
+  "verdict": "delivered",
+  "annual_cost": "About Rs 6,000 crore a year for the widened scheme (2026)",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2021-05-07",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-4000-family-free-bus-travel-women-first-5-orders-signed-tn-cm-stalin-148449"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-10-02",
+    "url": "https://thesouthfirst.com/tamilnadu/vettri-payanam-cm-vijay-launches-the-expanded-free-bus-travel-scheme/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "vidiyal payanam",
+   "விடியல் பயணம்",
+   "free bus"
+  ]
+ },
+ {
+  "id": "dmk-2021-petitions-100-days",
+  "party": "DMK",
+  "promise": "Settle public petitions within 100 days",
+  "promised": "DMK 2021 campaign; first-day file 7 May 2021",
+  "current": "By 29 June 2021, 50,643 of 1,21,720 petitions resolved (government figures, one source)",
+  "verdict": "partly",
+  "annual_cost": "Not published",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "The News Minute",
+    "date": "2021-05-07",
+    "url": "https://www.thenewsminute.com/tamil-nadu/rs-4000-family-free-bus-travel-women-first-5-orders-signed-tn-cm-stalin-148449"
+   },
+   {
+    "outlet": "DT Next",
+    "date": "2021-06-29",
+    "url": "https://dtnext.in/tamilnadu/2021/06/29/50k-pleas-received-under-ungal-thogudhiyil-mudhalamaichar-solved"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "dmk",
+   "திமுக",
+   "ungal thoguthiyil mudhalamaichar",
+   "petitions",
+   "மனுக்கள்",
+   "100 days"
+  ]
+ },
+ {
+  "id": "aiadmk-2011-free-rice-pension-gold",
+  "party": "AIADMK",
+  "promise": "Free rice (20 kg a month), old-age pension of Rs 1,000, and 4 g gold for brides' thali",
+  "promised": "AIADMK 2011 manifesto; took office 16 May 2011",
+  "current": "Signed as first-day files on 16 May 2011; later delivery not tracked in idly's report",
+  "verdict": "started",
+  "annual_cost": "Not published",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Oneindia/PTI",
+    "date": "2011-05-17",
+    "url": "https://www.oneindia.com/2011/05/17/jayafulfils-seven-promises-frommanifesto-aid0126.html"
+   },
+   {
+    "outlet": "Business Standard",
+    "date": "2011-05-18",
+    "url": "https://www.business-standard.com/article/economy-policy/jayalalithaa-signs-seven-files-111051800077_1.html"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "free rice",
+   "இலவச அரிசி",
+   "pension",
+   "thali gold",
+   "2011"
+  ]
+ },
+ {
+  "id": "aiadmk-2016-farm-loan-waiver",
+  "party": "AIADMK",
+  "promise": "Co-operative farm loan waiver for small and marginal farmers",
+  "promised": "AIADMK 2016 manifesto; took office 23 May 2016",
+  "current": "Signed as a first-day file on 23 May 2016; later delivery not tracked in idly's report",
+  "verdict": "started",
+  "annual_cost": "Est. Rs 5,780 crore",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2016-05-24",
+    "url": "https://www.business-standard.com/article/politics/jayalalithaa-keeps-five-poll-promises-on-day-1-116052300523_1.html"
+   },
+   {
+    "outlet": "Tribune",
+    "date": "2016-05-24",
+    "url": "https://www.tribuneindia.com/news/archive/nation/after-oath-amma-orders-free-electricity-waives-crop-loan-241332"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "farm loan waiver",
+   "பயிர்க் கடன் தள்ளுபடி",
+   "2016"
+  ]
+ },
+ {
+  "id": "aiadmk-2016-100-free-units",
+  "party": "AIADMK",
+  "promise": "100 free power units for homes",
+  "promised": "AIADMK 2016 manifesto",
+  "current": "Signed as a first-day file on 23 May 2016; kept by the DMK and raised by TVK to 200 units per two-month bill in 2026",
+  "verdict": "delivered",
+  "annual_cost": "Est. Rs 1,607 crore",
+  "status": "verified",
+  "sources": [
+   {
+    "outlet": "Business Standard",
+    "date": "2016-05-24",
+    "url": "https://www.business-standard.com/article/politics/jayalalithaa-keeps-five-poll-promises-on-day-1-116052300523_1.html"
+   },
+   {
+    "outlet": "South First",
+    "date": "2026-08-17",
+    "url": "https://thesouthfirst.com/tamilnadu/100-days-of-tvk-government-what-happened-to-vijays-first-three-signatures/"
+   }
+  ],
+  "as_of": "2026-11-10",
+  "keywords": [
+   "aiadmk",
+   "அதிமுக",
+   "jayalalithaa",
+   "ஜெயலலிதா",
+   "amma",
+   "100 units",
+   "free power",
+   "இலவச மின்சாரம்",
+   "2016"
+  ]
+ }
+]
