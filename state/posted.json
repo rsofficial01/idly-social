@@ -1322,5 +1322,20 @@
     "tagged": [
       "marathonthegame"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18156148429530822",
+    "permalink": "https://www.instagram.com/p/DflbAt0Cfrg/",
+    "posted_at": "2026-11-11T02:35:59+00:00",
+    "date": "2026-11-11",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0727-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0727-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0727-morning-brief/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
