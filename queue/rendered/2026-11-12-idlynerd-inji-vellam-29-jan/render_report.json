@@ -1,0 +1,115 @@
+{
+  "slug": "2026-11-12-idlynerd-inji-vellam-29-jan",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-11T18:31:37+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=5i73lHN4Bpw",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=5i73lHN4Bpw",
+    "source_url": "https://www.youtube.com/watch?v=5i73lHN4Bpw",
+    "image_url": "https://i.ytimg.com/vi/5i73lHN4Bpw/maxresdefault.jpg",
+    "credit": "Image: Sony Music South (official teaser)",
+    "organisation": "Sony Music South",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=5i73lHN4Bpw: author 'Sony Music South' https://www.youtube.com/@SonyMusicSouthOfficial, title 'Madras Talkies PC 23 - Title Teaser Video | Mani Ratnam | A.R.Rahman | Vijay Sethupathi |Sai Pallavi'",
+      "thumbnail https://i.ytimg.com/vi/5i73lHN4Bpw/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@SonyMusicSouthOfficial",
+    "video_title": "Madras Talkies PC 23 - Title Teaser Video | Mani Ratnam | A.R.Rahman | Vijay Sethupathi |Sai Pallavi"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.77,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sony Music South (official teaser)",
+      "Sources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Sony Music South (official teaser)",
+      "slug": "2026-11-12-idlynerd-inji-vellam-29-jan",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-inji-vellam-29-jan",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg"
+  ],
+  "caption_final": "Mani Ratnam's Inji Vellam opens in cinemas worldwide on Friday, 29 January 2027, the makers, Madras Talkies and Lyca Productions, announced on Wednesday.\n\nThe romantic drama is the first film to pair Vijay Sethupathi and Sai Pallavi, with music by A.R. Rahman. It was shot in Kolkata, and India Talkies co-produces.\n\nWhich Mani Ratnam love story do you still go back to?\n\nFull story on idly.news (link in bio).\n\nSources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India\n\n#InjiVellam #ManiRatnam #TamilCinema #Kollywood #idlynerd\n\nImage: Sony Music South (official teaser)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}

@@ -41,5 +41,15 @@
     }
   },
   "created_at": "2026-11-11T23:59:04+05:30",
-  "notes": "format: news. Gate 1 PASS and Gate 2+3 FIX applied (slide 2 names the film; 'Tamil' sourced to THR India + Filmibeat) (blind reviewer, run 2327); Gate 1 fixes: no Netflix line, 'shot in Kolkata', no Pongal/Pocket Novel claim, no Thug Life line, attributed to the makers Madras Talkies and Lyca Productions. Image: youtube_official 5i73lHN4Bpw only ('Madras Talkies PC 23 - Title Teaser Video'); oEmbed author_url https://www.youtube.com/@SonyMusicSouthOfficial (allowlisted 'Sony Music South'), checked 11 Nov; the only official upload (others are fan channels). Expected credit 'Image: Sony Music South (official teaser)' (video_kind sees 'Teaser'). No fallback by design; reviewer will HOLD at Gate 4 on burned-in title lettering, a face under the logo or cut off, or visible grain. No tags: the Sony Music South Instagram handle is not confirmed. story false: Stories paused."
+  "notes": "format: news. Gate 1 PASS and Gate 2+3 FIX applied (slide 2 names the film; 'Tamil' sourced to THR India + Filmibeat) (blind reviewer, run 2327); Gate 1 fixes: no Netflix line, 'shot in Kolkata', no Pongal/Pocket Novel claim, no Thug Life line, attributed to the makers Madras Talkies and Lyca Productions. Image: youtube_official 5i73lHN4Bpw only ('Madras Talkies PC 23 - Title Teaser Video'); oEmbed author_url https://www.youtube.com/@SonyMusicSouthOfficial (allowlisted 'Sony Music South'), checked 11 Nov; the only official upload (others are fan channels). Expected credit 'Image: Sony Music South (official teaser)' (video_kind sees 'Teaser'). No fallback by design; reviewer will HOLD at Gate 4 on burned-in title lettering, a face under the logo or cut off, or visible grain. No tags: the Sony Music South Instagram handle is not confirmed. story false: Stories paused.",
+  "slug": "2026-11-12-idlynerd-inji-vellam-29-jan",
+  "caption_final": "Mani Ratnam's Inji Vellam opens in cinemas worldwide on Friday, 29 January 2027, the makers, Madras Talkies and Lyca Productions, announced on Wednesday.\n\nThe romantic drama is the first film to pair Vijay Sethupathi and Sai Pallavi, with music by A.R. Rahman. It was shot in Kolkata, and India Talkies co-produces.\n\nWhich Mani Ratnam love story do you still go back to?\n\nFull story on idly.news (link in bio).\n\nSources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India\n\n#InjiVellam #ManiRatnam #TamilCinema #Kollywood #idlynerd\n\nImage: Sony Music South (official teaser)",
+  "image_credit": "Image: Sony Music South (official teaser)",
+  "lane": {
+    "spec_sha256": "521b9df639d27ab148a69916bfad6df76fdd801b53ead5cc45de0df49eddf16e",
+    "rendered_at": "2026-11-11T18:31:37+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=5i73lHN4Bpw",
+    "image_url": "https://i.ytimg.com/vi/5i73lHN4Bpw/maxresdefault.jpg"
+  }
 }
