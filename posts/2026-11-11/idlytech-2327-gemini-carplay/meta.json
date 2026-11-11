@@ -1,0 +1,103 @@
+{
+ "account": "idlytech",
+ "title": "Google starts rolling out the Gemini app on Apple CarPlay (11 Nov 2026), globally, to all Gemini users on iOS in every supported Gemini Live language: hands-free Gemini Live chats from the car display (calendar, unread Gmail, rehearsing), interrupt/change topic/pause, chats sync to the iPhone; Google's five setup steps (update app, allow mic, use Gemini Live on the phone once, connect and tap the Gemini icon on CarPlay, start or resume a chat); ChatGPT, Perplexity, Grok, Meta AI and Claude already had CarPlay apps (9to5Mac, Notebookcheck, iGeeksBlog); Gemini Live was already on Android Auto",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Google (The Keyword)",
+   "date": "11 Nov 2026",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
+  },
+  {
+   "outlet": "9to5Google",
+   "date": "11 Nov 2026",
+   "url": "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+  },
+  {
+   "outlet": "9to5Mac",
+   "date": "11 Nov 2026",
+   "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+  },
+  {
+   "outlet": "Notebookcheck",
+   "date": "8 Sep 2026",
+   "url": "https://www.notebookcheck.net/Claude-on-CarPlay-five-AI-assistants-in-the-car-but-not-Gemini.1393195.0.html"
+  },
+  {
+   "outlet": "iGeeksBlog",
+   "date": "7 Sep 2026",
+   "url": "https://www.igeeksblog.com/carplay-five-chatbot-apps/"
+  }
+ ],
+ "fact_sources": {
+  "Gemini app comes to Apple CarPlay; iOS users can talk to Gemini Live from the car display, hands-free": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+   "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+  ],
+  "Rolling out globally from 11 Nov 2026 to all Gemini users on iOS, in every supported Gemini Live language": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+   "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+  ],
+  "Ask about your calendar, catch up on unread email (Gmail), practise a presentation": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+  ],
+  "Interrupt to add a detail, change the subject or pause": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+  ],
+  "CarPlay chats sync to the Gemini app on the iPhone": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+  ],
+  "Five steps: update the app; allow the microphone; use Gemini Live on the phone at least once; connect to the car and tap the Gemini icon on CarPlay; start a new chat or pick up a recent one": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+  ],
+  "ChatGPT, Perplexity, Grok, Meta AI and Claude already had CarPlay apps before Gemini (stat 5+)": [
+   "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
+   "https://www.notebookcheck.net/Claude-on-CarPlay-five-AI-assistants-in-the-car-but-not-Gemini.1393195.0.html",
+   "https://www.igeeksblog.com/carplay-five-chatbot-apps/"
+  ],
+  "Gemini Live was already on Android Auto (and cars with Google built-in)": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "file_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Carplay_hero_image.png",
+  "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.width-1300.png",
+  "licence": "Official Google press image on Google's own newsroom (blog.google, on config/official_sources.json), credited",
+  "author": "Google",
+  "width": 2940,
+  "height": 1550,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Google",
+  "subject": "The Gemini app running on a car's CarPlay screen ('Gemini is connecting...', Gemini spark), in a dashboard",
+  "local": "_work/2026-11-11-hourly-2327/tech/photos/gemini-carplay-hero-original.png"
+ },
+ "tags": [
+  "google"
+ ],
+ "tags_confirmed": "Google's own site: the footer of the blog.google announcement page links to https://www.instagram.com/google/ (checked 11 Nov 2026; reviewer re-checked at Gate 2+3)",
+ "cover": {
+  "focal": [
+   0.531,
+   1.0
+  ],
+  "zoom": 1.2,
+  "upscale": 1.044,
+  "note": "Reviewer-requested re-frame; spark and on-screen text whole above the headline (text top y 950), no partial End pill, logo on the black bezel"
+ },
+ "gates": {
+  "gate1": "PASS (build #1; drop #2 laptop cap, #3 ChatGPT Go) _work/2026-11-11-hourly-2327/reviews/tech-g1.md",
+  "gate23": "PASS _work/2026-11-11-hourly-2327/reviews/tech-g23.md",
+  "gate4": "pending"
+ }
+}

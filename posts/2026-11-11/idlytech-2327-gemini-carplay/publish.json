@@ -1,0 +1,18 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlytech-2327-gemini-carplay/01.jpg",
+  "posts/2026-11-11/idlytech-2327-gemini-carplay/02.jpg",
+  "posts/2026-11-11/idlytech-2327-gemini-carplay/03.jpg",
+  "posts/2026-11-11/idlytech-2327-gemini-carplay/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlytech-2327-gemini-carplay/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlytech-2327-gemini-carplay/alt.txt",
+ "score_file": "posts/2026-11-11/idlytech-2327-gemini-carplay/score.json",
+ "title": "Google starts rolling out the Gemini app on Apple CarPlay (11 Nov 2026), globally, to all Gemini users on iOS in every supported Gemini Live language: hands-free Gemini Live chats from the car display (calendar, unread Gmail, rehearsing), interrupt/change topic/pause, chats sync to the iPhone; Google's five setup steps (update app, allow mic, use Gemini Live on the phone once, connect and tap the Gemini icon on CarPlay, start or resume a chat); ChatGPT, Perplexity, Grok, Meta AI and Claude already had CarPlay apps (9to5Mac, Notebookcheck, iGeeksBlog); Gemini Live was already on Android Auto",
+ "tags": [
+  "google"
+ ]
+}

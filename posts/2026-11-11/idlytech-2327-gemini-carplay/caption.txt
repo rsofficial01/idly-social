@@ -1,0 +1,15 @@
+Google has started rolling out its Gemini app on Apple CarPlay, so iPhone users can hold a hands-free Gemini Live conversation from the car's display. Google says the rollout began on 11 November, worldwide, for all Gemini users on iOS, in every language Gemini Live supports.
+
+You can ask what's on your calendar, catch up on unread Gmail or practise a presentation out loud, and cut in, change the subject or pause mid-reply, the company says. Chats sync to the Gemini app on the iPhone, so they are waiting when you park.
+
+Google lists five steps to start: update the Gemini app, allow microphone access, use Gemini Live on your iPhone at least once, connect the phone to your car and tap the Gemini icon on the CarPlay screen, then start a new chat or pick up a recent one.
+
+Gemini comes to CarPlay after ChatGPT, Perplexity, Grok, Meta AI and Claude, which already had CarPlay apps, as 9to5Mac, Notebookcheck and iGeeksBlog report. Android Auto drivers already had Gemini Live from Google's earlier rollout.
+
+What do you listen to on your daily drive right now: music, podcasts, news or nothing at all?
+
+Sources: Google, 9to5Google, 9to5Mac, Notebookcheck, iGeeksBlog
+
+#GoogleGemini #GeminiLive #AppleCarPlay #iPhone #idlytech
+
+Image: Google

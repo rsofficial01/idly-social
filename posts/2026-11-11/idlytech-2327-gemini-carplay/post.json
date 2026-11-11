@@ -1,0 +1,55 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2327-gemini-carplay",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Google",
+  "9to5Google",
+  "9to5Mac"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Gemini Live Starts Rolling Out on Apple CarPlay Worldwide",
+   "photo": "_work/2026-11-11-hourly-2327/tech/photos/gemini-carplay-hero-original.png",
+   "photo_credit": "Image: Google",
+   "focal": [
+    0.531,
+    1.0
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "11 NOV",
+   "stat_label": "Rollout Began for All Gemini Users on iOS",
+   "bullets": [
+    "Ask about your calendar or unread Gmail, hands-free",
+    "Cut in, change topic or pause mid-reply",
+    "Chats sync to the Gemini app on your iPhone"
+   ],
+   "credit_line": "Sources: Google, 9to5Google"
+  },
+  {
+   "type": "detail",
+   "stat": "5 STEPS",
+   "stat_label": "To Turn On Gemini Live in Your Car",
+   "bullets": [
+    "Update the Gemini app and allow microphone access",
+    "Use Gemini Live on your iPhone once first",
+    "Connect, tap Gemini, then start or resume a chat"
+   ],
+   "credit_line": "Sources: Google, 9to5Google, 9to5Mac"
+  },
+  {
+   "type": "detail",
+   "stat": "5+",
+   "stat_label": "Rival AI Chatbots Already Had CarPlay Apps",
+   "bullets": [
+    "ChatGPT, Perplexity, Grok, Meta AI and Claude among them",
+    "Android Auto drivers already had Gemini Live"
+   ],
+   "credit_line": "Sources: 9to5Mac, Notebookcheck, iGeeksBlog, Google"
+  }
+ ]
+}
