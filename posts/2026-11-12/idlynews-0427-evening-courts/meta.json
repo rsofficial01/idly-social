@@ -1,0 +1,134 @@
+{
+ "account": "idlynews",
+ "title": "Law Minister Arjun Ram Meghwal (MoS, Independent Charge, Law and Justice) says the Centre plans a pilot of evening courts in Delhi, Bihar and Andhra Pradesh: day courts would sit a few extra hours in the evening for pending cases, retired judges expected to preside, run with the respective High Courts; no start date, hours, budget or court list (interview with The New Indian Express published 10 Nov 2026, via Bar & Bench and LawBeat 11 Nov; to reporters in Deoria 11 Nov, UNI). Pendency per Law Ministry Rajya Sabha written reply of 23 Jul 2026 (NJDG; data as of 16 Jul): about 5.64 crore cases in all courts; district and subordinate courts 4.98 crore; Supreme Court over 96,000, 26 pending 30+ years. Delhi district courts began evening sittings for pending traffic challans only in Dec 2024.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Bar & Bench",
+   "date": "11 Nov 2026 (07:17 UTC)",
+   "url": "https://www.barandbench.com/news/centre-to-launch-evening-courts-on-pilot-basis-in-delhi-bihar-andhra-to-tackle-case-pendency"
+  },
+  {
+   "outlet": "LawBeat",
+   "date": "11 Nov 2026, 19:15 IST",
+   "url": "https://lawbeat.in/news-updates/centre-plans-evening-courts-in-delhi-bihar-and-andhra-pradesh-retired-judges-may-preside-1650834"
+  },
+  {
+   "outlet": "UNI (Deoria)",
+   "date": "11 Nov 2026",
+   "url": "https://www.uniindia.com/north-india/admin-law-min-meghwal-evening-courts/242116"
+  },
+  {
+   "outlet": "The New Indian Express (original interview, cited by Bar & Bench and LawBeat; not reachable from this session)",
+   "date": "10 Nov 2026",
+   "url": null
+  },
+  {
+   "outlet": "PTI via Telangana Today",
+   "date": "23 Jul 2026, 18:45 IST",
+   "url": "https://telanganatoday.com/more-than-5-64-crore-cases-pending-across-indian-courts-rs"
+  },
+  {
+   "outlet": "The News Insight (TNI Bureau)",
+   "date": "23 Jul 2026",
+   "url": "https://enewsinsight.com/mp-dilip-ray-raises-court-pendency-issue-centre-reports-5-64-crore-pending-cases/"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "28 Jul 2026",
+   "url": "https://www.barandbench.com/news/26-cases-pending-in-supreme-court-for-30-years-558-cases-for-20-years-centre-in-rajya-sabha"
+  },
+  {
+   "outlet": "Millennium Post",
+   "date": "17 Dec 2024",
+   "url": "https://www.millenniumpost.in/delhi/delhi-traffic-police-launches-evening-courts-590951"
+  },
+  {
+   "outlet": "ANI (via Devdiscourse)",
+   "date": "20 Dec 2024",
+   "url": "https://www.devdiscourse.com/article/headlines/3202397-evening-courts-launched-in-delhi-revolutionizing-traffic-violation-management"
+  }
+ ],
+ "fact_sources": {
+  "Evening-court pilot planned in Delhi, Bihar, Andhra Pradesh (Meghwal, TNIE interview 10 Nov)": [
+   "Bar & Bench",
+   "LawBeat",
+   "UNI (pilot, without states)"
+  ],
+  "Day courts sit a few extra hours in the evening for pending cases": [
+   "Bar & Bench",
+   "LawBeat"
+  ],
+  "Retired judges expected to preside": [
+   "LawBeat ('expected to be engaged to preside')",
+   "Bar & Bench ('engage the services of retired judges to preside')",
+   "UNI ('utilize the services of retired judges')"
+  ],
+  "Run with the respective High Courts": [
+   "Bar & Bench",
+   "LawBeat"
+  ],
+  "No start date, hours, budget or court list announced": [
+   "Bar & Bench ('shortly')",
+   "LawBeat",
+   "UNI (none given)"
+  ],
+  "Interview published 10 Nov": [
+   "LawBeat"
+  ],
+  "Meghwal in Deoria 11 Nov: Centre will launch pilot; SC pendency over 96,000": [
+   "UNI"
+  ],
+  "About 5.64 crore cases pending (Rajya Sabha written reply, 23 Jul 2026, NJDG)": [
+   "PTI/Telangana Today",
+   "The News Insight"
+  ],
+  "District and subordinate courts 4.98 crore": [
+   "The News Insight",
+   "Bar & Bench (28 Jul)"
+  ],
+  "Supreme Court over 96,000; 26 pending 30+ years": [
+   "PTI/Telangana Today",
+   "The News Insight (96,024)",
+   "Bar & Bench (26)"
+  ],
+  "Delhi district courts began evening sittings for pending traffic challans in Dec 2024": [
+   "Millennium Post",
+   "ANI via Devdiscourse"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Patna_High_Court_Gate_No._1_at_night.jpg",
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Patna_High_Court_Gate_No._1_at_night.jpg/3840px-Patna_High_Court_Gate_No._1_at_night.jpg",
+  "author": "AbhinavAnkur (own work)",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "size": "3840x2880 (Commons thumb of the 9216x6912 original)",
+  "local": "_work/2026-11-12-hourly-0427/news/img/patna_hc_gate_night.jpg",
+  "faces": 0,
+  "viewed": true,
+  "subject": "Gate No. 1 (judges' entrance) of the Patna High Court, Patna, Bihar, at night (20 May 2024, 19:42); Bihar is one of the three pilot states; the photo is not an announced evening-court venue",
+  "credit": "Photo: AbhinavAnkur / Wikimedia Commons, CC BY-SA 4.0",
+  "card_credit": "Photo: AbhinavAnkur / Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "cover": {
+  "photo": "_work/2026-11-12-hourly-0427/news/framing_evening_courts/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.47,
+  "note": "pipeline.framing ok, faces 0; centre 4:5 crop of the full height, downscaled, no enlargement, no blur or compositing"
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: Commons photo by an individual; no image owner account",
+ "gates": {
+  "gate1": "BUILD A (_work/2026-11-12-hourly-0427/reviews/news-g1.md); B and C DROP",
+  "gate23": "WORDS FIX 1 (slide 2 label attributes the plan to the Centre) and FIX 2 (Allahabad HC bullet cut) applied; PICTURE PASS; The News Insight accepted as second source for 5.64 crore, FPJ not cited (_work/2026-11-12-hourly-0427/reviews/news-g2.md)",
+  "gate4": "FIX at 11/14 (hook 1): cover headline changed to name the three states, 'Evening-Court Pilot for Delhi, Bihar, Andhra; 5.6 Crore Cases Pending' (non-breaking space keeps '5.6 Crore' together); cover re-rendered only; layout PASS (_work/2026-11-12-hourly-0427/reviews/news-g4.md)"
+ },
+ "cover_headline": "Evening-Court Pilot for Delhi, Bihar, Andhra; 5.6 Crore Cases Pending"
+}

@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0427-evening-courts",
+ "date": "12 Nov 2026",
+ "sources": [
+  "The New Indian Express",
+  "Bar & Bench",
+  "LawBeat",
+  "UNI",
+  "PTI"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Evening-Court Pilot for Delhi, Bihar, Andhra; 5.6 Crore Cases Pending",
+   "photo": "_work/2026-11-12-hourly-0427/news/framing_evening_courts/cover_source.png",
+   "photo_credit": "Photo: AbhinavAnkur / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "3 STATES",
+   "stat_label": "Centre's Planned Pilot: Delhi, Bihar, Andhra Pradesh",
+   "bullets": [
+    "Courts would sit extra evening hours for pending cases",
+    "Retired judges expected to preside over evening sittings",
+    "No start date, hours or list of courts yet"
+   ],
+   "credit_line": "Sources: Meghwal to The New Indian Express (10 Nov), Bar & Bench, LawBeat, UNI"
+  },
+  {
+   "type": "detail",
+   "stat": "4.98 CRORE",
+   "stat_label": "Cases Pending in District and Subordinate Courts",
+   "bullets": [
+    "Most of India's backlog sits in these trial courts",
+    "Supreme Court: over 96,000 pending; 26 for 30+ years"
+   ],
+   "credit_line": "Source: Rajya Sabha reply, 23 Jul 2026 (NJDG), via PTI, Bar & Bench, The News Insight"
+  }
+ ]
+}

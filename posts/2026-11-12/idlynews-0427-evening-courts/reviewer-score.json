@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Rescore after the cover fix (Gate 4b). hook 2: the cover now names Delhi, Bihar and Andhra next to the 5.6 crore figure, so readers in those states see their stake in a second; specific number plus a clear stake. send 1 (structural): a plan with no start date, hours or named courts gives a litigant's family nothing to act on. keep 1: only the three states and the pendency figures, with no dates, deadlines or eligibility. read, reply, original and alone stay at 2. Layout PASS on the new cover: 3-line white headline at top y 986 on the empty road below the gate (whose bottom is about y 880); longest line ends at x 992 and the vertical credit starts at x 1022, a 30 px gap, no touch; one left edge at x about 50 with the date; logo on sky; nothing cut off; full-bleed. Slides 02 and 03 are byte-identical to the Gate 4 versions I already passed. At the gate floor with no margin: ships only if the self score is also 12 or more."
+}
