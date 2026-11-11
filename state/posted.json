@@ -1304,5 +1304,23 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-0426-ibm-visa-sponsorship/02.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18121164758079948",
+    "permalink": "https://www.instagram.com/p/DflaNiBlgVB/",
+    "posted_at": "2026-11-11T02:28:59+00:00",
+    "date": "2026-11-11",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-0727-marathon-free-week/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-0727-marathon-free-week/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynerd-0727-marathon-free-week/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "marathonthegame"
+    ]
   }
 ]
