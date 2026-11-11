@@ -1849,5 +1849,25 @@
     "score_self": 13,
     "score_reviewer": 12,
     "image_credit": "Image: Tata Motors"
+  },
+  {
+    "story_id": 2003,
+    "account": "idlytech",
+    "media_id": "18164034562529431",
+    "permalink": "https://www.instagram.com/p/Dfm1ZJlDj0W/",
+    "posted_at": "2026-11-11T15:45:45+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/04.jpg"
+    ],
+    "score_total": 12,
+    "score_self": 13,
+    "score_reviewer": 12,
+    "image_credit": "Photo: Universalashic / Wikimedia Commons, CC BY-SA 3.0, cropped",
+    "tagged": []
   }
 ]
