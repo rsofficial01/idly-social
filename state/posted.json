@@ -1903,5 +1903,20 @@
     "tagged": [
       "nike"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18495461980105175",
+    "permalink": "https://www.instagram.com/p/DfnBbfoidk8/",
+    "posted_at": "2026-11-11T17:30:58+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-2228-swachh-survekshan/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-2228-swachh-survekshan/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlynews-2228-swachh-survekshan/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
