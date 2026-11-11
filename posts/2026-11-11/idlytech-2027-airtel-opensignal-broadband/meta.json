@@ -1,0 +1,120 @@
+{
+ "account": "idlytech",
+ "title": "Opensignal's November 2026 India Fixed Broadband Experience report (data 1 Apr–29 Jun 2026, published 11 Nov): Airtel ahead on all five overall measures; on wired broadband Airtel 26–27% faster than Jio on download and upload, BSNL 0.5/0.8 Mbps behind Airtel, Jio slowest of the three on wired speed at 30.5/21.0 Mbps; reliability Airtel 486, Jio 423, BSNL 419; fixed wireless Airtel 32.4/20.7 vs Jio 25.7/17.1 Mbps, reliability 450 vs 382; Jio has about 9.4 million of India's 13.5 million 5G FWA connections (TRAI, Aug 2026)",
+ "story_id": 2003,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "FoneArena",
+   "date": "11 Nov 2026",
+   "url": "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html"
+  },
+  {
+   "outlet": "TelecomTalk",
+   "date": "11 Nov 2026",
+   "url": "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/"
+  },
+  {
+   "outlet": "Voice&Data",
+   "date": "11 Nov 2026",
+   "url": "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  },
+  {
+   "outlet": "TelecomLead",
+   "date": "11 Nov 2026",
+   "url": "https://telecomlead.com/broadband/airtel-beats-reliance-jio-in-home-broadband-speed-reliability-and-fwa-performance-opensignal-report-2026-128677"
+  },
+  {
+   "outlet": "Gadgets 360 (via idly #2003; page refuses fetch)",
+   "date": "11 Nov 2026",
+   "url": "https://www.gadgets360.com/telecom/news/airtel-jio-bsnl-broadband-speed-opensignal-fixed-experience-report-12313192"
+  },
+  {
+   "outlet": "idly.news story 2003",
+   "date": "11 Nov 2026",
+   "url": "https://api.idly.news/api/v1/articles/2003/"
+  }
+ ],
+ "fact_sources": {
+  "Opensignal November 2026 India Fixed Broadband Experience report; data 1 Apr–29 Jun 2026": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "Airtel 26–27% faster than Jio on wired download and upload (cover: Up To 27%)": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "BSNL 0.5 Mbps behind Airtel on download, 0.8 Mbps on upload": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "Jio slowest of the three on wired download and upload (BSNL ahead of Jio)": [
+   "https://telecomlead.com/broadband/airtel-beats-reliance-jio-in-home-broadband-speed-reliability-and-fwa-performance-opensignal-report-2026-128677",
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/"
+  ],
+  "Jio wired average 30.5 Mbps download, 21.0 Mbps upload": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomlead.com/broadband/airtel-beats-reliance-jio-in-home-broadband-speed-reliability-and-fwa-performance-opensignal-report-2026-128677"
+  ],
+  "Reliability (100–1,000): Airtel 486, Jio 423, BSNL 419": [
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "Airtel led all five overall measures: reliability, consistent quality, download, upload, video": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "Fixed wireless: Airtel 32.4 vs Jio 25.7 Mbps download; 20.7 vs 17.1 Mbps upload": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950",
+   "https://telecomlead.com/broadband/airtel-beats-reliance-jio-in-home-broadband-speed-reliability-and-fwa-performance-opensignal-report-2026-128677"
+  ],
+  "Fixed wireless reliability: Airtel 450, Jio 382": [
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950"
+  ],
+  "TRAI Aug 2026: Jio about 9.4 million of 13.5 million 5G FWA connections": [
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/",
+   "https://telecomlead.com/broadband/airtel-beats-reliance-jio-in-home-broadband-speed-reliability-and-fwa-performance-opensignal-report-2026-128677"
+  ],
+  "Based on real users' connections (real-world user experience data)": [
+   "https://www.voicendata.com/broadband/opensignal-ranks-airtel-first-in-indias-fixed-broadband-experience-12800950",
+   "https://telecomtalk.info/airtel-beats-jio-bsnl-five-broadband-opensignal/1013836/"
+  ],
+  "Report does not cover plan prices": [
+   "https://api.idly.news/api/v1/articles/2003/",
+   "https://www.fonearena.com/blog/496854/airtel-leads-jio-reliability-speeds.html"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Airtel_swargate_brach.JPG",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Airtel_swargate_brach.JPG/3840px-Airtel_swargate_brach.JPG",
+  "licence": "CC BY-SA 3.0",
+  "author": "Universalashic",
+  "width": 3840,
+  "height": 2880,
+  "original_width": 2592,
+  "original_height": 1944,
+  "note": "Commons' standard 3840 rendering of the 2592x1944 original (upload.wikimedia.org answered 429); Airtel's Swargate, Pune office (Vega Centre), taken 2 Oct 2012",
+  "faces": 0,
+  "viewed": true
+ },
+ "tags": [],
+ "cover": {
+  "focal": [
+   0.4604,
+   0.5451
+  ],
+  "zoom": 1.5,
+  "upscale": 0.7,
+  "effective_upscale_vs_original": 1.04
+ }
+}

@@ -1,0 +1,17 @@
+Opensignal's November 2026 India Fixed Broadband Experience report puts Airtel ahead of Jio and BSNL on all five overall measures: reliability, consistent quality, download speed, upload speed and video. It is built on real users' home connections measured from 1 April to 29 June 2026.
+
+On wired home broadband, Airtel was 26–27% faster than Jio on download and upload. BSNL finished just 0.5 Mbps behind Airtel on download and 0.8 Mbps on upload, which left Jio the slowest of the three on wired speed, at 30.5 Mbps down and 21.0 Mbps up. On reliability (Opensignal's 100–1,000 scale), Airtel scored 486, Jio 423 and BSNL 419.
+
+On fixed wireless (home internet over the air, with no cable to the home), Airtel averaged 32.4 Mbps down and 20.7 Mbps up, against Jio's 25.7 and 17.1, and led on reliability, 450 to 382. Yet Jio has about 9.4 million of India's 13.5 million 5G fixed wireless connections, TRAI's August 2026 data shows.
+
+The report doesn't cover plan prices, so check coverage and prices at your own address before switching.
+
+Does your home broadband hold up when everyone at home is online?
+
+Full story on idly.news (link in bio).
+
+Sources: Opensignal, via FoneArena, TelecomTalk, Voice&Data, TelecomLead, Gadgets 360
+
+#Airtel #Jio #BSNL #HomeBroadband #idlytech
+
+Photo: Universalashic / Wikimedia Commons, CC BY-SA 3.0, cropped

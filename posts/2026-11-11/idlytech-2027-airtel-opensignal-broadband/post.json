@@ -1,0 +1,57 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2027-airtel-opensignal-broadband",
+ "date": "11 Nov 2026",
+ "sources": [
+  "FoneArena",
+  "TelecomTalk",
+  "Voice&Data",
+  "TelecomLead"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Airtel Home Broadband Up To 27% Faster Than Jio: Opensignal",
+   "photo": "_work/2026-11-11-hourly-2027/tech/photos/airtel-swargate-full.jpg",
+   "photo_credit": "Photo: Universalashic / Wikimedia Commons, CC BY-SA 3.0, cropped",
+   "focal": [
+    0.4604,
+    0.5451
+   ],
+   "zoom": 1.5
+  },
+  {
+   "type": "detail",
+   "stat": "30.5 Mbps",
+   "stat_label": "Jio's Average Wired Download, Apr–Jun 2026",
+   "bullets": [
+    "Jio: slowest of three on wired download and upload",
+    "BSNL was just 0.5 Mbps behind Airtel on download",
+    "Jio's wired upload: 21.0 Mbps, key for video calls"
+   ],
+   "credit_line": "Sources: Opensignal via FoneArena, TelecomLead, TelecomTalk"
+  },
+  {
+   "type": "detail",
+   "stat": "486",
+   "stat_label": "Airtel's Reliability Score on a 100–1,000 Scale",
+   "bullets": [
+    "Jio scored 423 and BSNL 419 on reliability",
+    "Airtel led all five overall measures, video included",
+    "Measured on real users' home connections, Apr–Jun 2026"
+   ],
+   "credit_line": "Sources: Opensignal via TelecomTalk, Voice&Data, FoneArena"
+  },
+  {
+   "type": "detail",
+   "stat": "9.4 Million",
+   "stat_label": "Jio's 5G Fixed Wireless Lines, of 13.5 Million",
+   "bullets": [
+    "Fixed wireless download: Airtel 32.4, Jio 25.7 Mbps",
+    "Fixed wireless upload: Airtel 20.7, Jio 17.1 Mbps",
+    "Speeds from Apr–Jun 2026; connections from TRAI, August 2026"
+   ],
+   "credit_line": "Sources: TRAI (Aug 2026), Opensignal via Voice&Data, TelecomTalk"
+  }
+ ]
+}

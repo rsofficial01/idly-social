@@ -1,0 +1,16 @@
+{
+ "account": "idlytech",
+ "story_id": 2003,
+ "no_idly_article": false,
+ "images": [
+  "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/01.jpg",
+  "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/02.jpg",
+  "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/03.jpg",
+  "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/alt.txt",
+ "score_file": "posts/2026-11-11/idlytech-2027-airtel-opensignal-broadband/score.json",
+ "title": "Opensignal's November 2026 India Fixed Broadband Experience report (data 1 Apr–29 Jun 2026, published 11 Nov): Airtel ahead on all five overall measures; on wired broadband Airtel 26–27% faster than Jio on download and upload, BSNL 0.5/0.8 Mbps behind Airtel, Jio slowest of the three on wired speed at 30.5/21.0 Mbps; reliability Airtel 486, Jio 423, BSNL 419; fixed wireless Airtel 32.4/20.7 vs Jio 25.7/17.1 Mbps, reliability 450 vs 382; Jio has about 9.4 million of India's 13.5 million 5G FWA connections (TRAI, Aug 2026)",
+ "tags": []
+}

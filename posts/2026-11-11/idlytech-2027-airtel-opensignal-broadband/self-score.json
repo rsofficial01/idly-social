@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "keep 1: the benchmarks are Apr\u2013Jun 2026 data (4\u20135 months old) with no plan prices or plans, so there's little to save beyond the speed figures. hook 2 but on the edge: the cover number is 'Up To 27%' (a range) on old data; the Jio-vs-Airtel stakes carry it. The other checks are strong: own-life question, own synthesis, Commons photo credited, every slide names the operators and the data window."
+}

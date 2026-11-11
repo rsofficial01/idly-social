@@ -1,0 +1,13 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Post score = per-check minimum of desk self-score (13/14) and blind reviewer (12/14) = 12/14. WEAK: hook, keep. Self notes: keep 1: the benchmarks are Apr–Jun 2026 data (4–5 months old) with no plan prices or plans, so there's little to save beyond the speed figures. hook 2 but on the edge: the cover number is 'Up To 27%' (a range) on old data; the Jio-vs-Airtel stakes carry it. The other checks are strong: own-life question, own synthesis, Commons photo credited, every slide names the operators and the data window. Reviewer notes: hook 1: 'Up To 27% Faster Than Jio' is specific and Jio-vs-Airtel is a live argument, but over a full-frame Airtel logo the finished cover reads like an Airtel ad at a glance, 'Up To' hedges the number, and the data is from Apr-Jun; it doesn't stop a scroll in a second. read 2: cover, then Jio's wired speeds with BSNL's surprise, then reliability for all three, then the fixed-wireless speed gap against Jio's 9.4M subscriber lead; every line earns the next. send 2: someone choosing or arguing about home broadband (Jio vs Airtel vs BSNL) has concrete numbers to forward. keep 1: real benchmarks, but 4.5-month-old averages with no plan prices; little to act on later. reply 2: 'Does your home broadband hold up when everyone at home is online?' is answered from readers' own homes; the only '?'. original 2: idly's own synthesis of four outlets plus TRAI, including the fixed-wireless speed vs subscriber contrast; own design; CC BY-SA photo credited with 'cropped'. alone 2: every slide names the operators, the measure and the Apr-Jun 2026 window; the card makes sense without the caption.",
+ "self_total": 13,
+ "reviewer_total": 12
+}
