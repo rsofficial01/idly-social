@@ -1808,5 +1808,24 @@
     "score_reviewer": 13,
     "image_credit": "Photo: Vroomtrapit / Wikimedia Commons, CC0",
     "tagged": []
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18650126404020575",
+    "permalink": "https://www.instagram.com/p/Dfm0eCCDclu/",
+    "posted_at": "2026-11-11T15:37:47+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyhype-2027-diljit-coachella-2027/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyhype-2027-diljit-coachella-2027/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyhype-2027-diljit-coachella-2027/03.jpg"
+    ],
+    "score_total": 12,
+    "score_self": 13,
+    "score_reviewer": 13,
+    "image_credit": "Photo: Alan Paone / Wikimedia Commons, CC BY 2.0, cropped",
+    "tagged": []
   }
 ]
