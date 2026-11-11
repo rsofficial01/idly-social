@@ -1,0 +1,100 @@
+{
+ "account": "idlynerd",
+ "title": "Nintendo (news release, 11 Nov 2026): The Legend of Zelda: Ocarina of Time for Nintendo Switch 2, a full remake of the 1998 N64 game launched 5 Nov 2026, sold over 5.2 million units worldwide in its first four days, including 8,10,000 in Japan (physical + digital); Nintendo says it is the highest first-four-days global sales for any Nintendo-published Switch 2 game. For scale (Nintendo IR, as of 30 Sep 2026): Donkey Kong Bananza 5.05 million life-to-date, Mario Kart World 16.48 million",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the API feed (checked 11 Nov 2026, 18:3x IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Nintendo Co., Ltd. (news release)",
+   "date": "11 Nov 2026",
+   "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
+  },
+  {
+   "outlet": "Gematsu",
+   "date": "11 Nov 2026",
+   "url": "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days"
+  },
+  {
+   "outlet": "Nintendo Life",
+   "date": "11 Nov 2026",
+   "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  },
+  {
+   "outlet": "Nintendo IR (top-selling Switch 2 titles)",
+   "date": "as of 30 Sep 2026",
+   "url": "https://www.nintendo.co.jp/ir/en/finance/software/index.html"
+  },
+  {
+   "outlet": "Nintendo UK (product page)",
+   "date": "fetched 11 Nov 2026",
+   "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/The-Legend-of-Zelda-Ocarina-of-Time-3115664.html"
+  }
+ ],
+ "fact_sources": {
+  "over 5.2 million units worldwide in first four days": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html (sold over 5.2 million units worldwide)",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "physical and digital combined": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html (footnote: includes both physical and digital versions)",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "highest global sales for any Nintendo-published Switch 2 game in first four days (Nintendo's claim)": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "full remake of the 1998 Nintendo 64 game": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "Donkey Kong Bananza 5.05 million and Mario Kart World 16.48 million life-to-date as of 30 Sep 2026": [
+   "https://www.nintendo.co.jp/ir/en/finance/software/index.html",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "announced Wednesday 11 Nov 2026": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days"
+  ],
+  "8,10,000 (810,000) in Japan": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html (including 810,000 units sold in Japan)",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  ],
+  "launched 5 Nov 2026 on Nintendo Switch 2 (developed for Switch 2)": [
+   "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html",
+   "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+   "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days",
+   "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/The-Legend-of-Zelda-Ocarina-of-Time-3115664.html"
+  ]
+ },
+ "image": {
+  "page": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/The-Legend-of-Zelda-Ocarina-of-Time-3115664.html",
+  "file_url": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/nswitch2_thelegendofzeldaocarinaoftime_1/TheLegendOfZeldaOcarinaOfTime_19.jpg",
+  "owner": "Nintendo",
+  "licence": "official publicity screenshot (Nintendo product page)",
+  "author": "Nintendo",
+  "credit": "Image: Nintendo (official screenshot)",
+  "size": [
+   3840,
+   2160
+  ],
+  "focal": [
+   0.31,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.625,
+  "faces": 0,
+  "viewed": true,
+  "sha256": "f22ba372b86936f02f256f686d8a0a9c2e08e9b11caf86ee1f7c8c045e0f18c7"
+ },
+ "tags": [
+  "nintendouk"
+ ],
+ "tags_confirmed": "instagram.com/NintendoUK linked from the source product page on nintendo.com (Nintendo UK), fetched 11 Nov 2026"
+}

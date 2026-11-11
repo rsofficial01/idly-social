@@ -1,0 +1,44 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1828-zelda-ocarina-5-million",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Nintendo",
+  "Gematsu",
+  "Nintendo Life"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Zelda: Ocarina of Time Sells 5.2 Million in Four Days",
+   "photo": "_work/2026-11-11-hourly-1828/nerd/frame/cover_source.png",
+   "photo_credit": "Image: Nintendo (official screenshot)",
+   "focal": [
+    0.31,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "8,10,000",
+   "stat_label": "Ocarina of Time's Japan Sales in Four Days",
+   "bullets": [
+    "Nintendo: best four-day sales of its Switch 2 games",
+    "Out since 5 November, developed for Nintendo Switch 2",
+    "A full remake of the 1998 Nintendo 64 game"
+   ],
+   "credit_line": "Sources: Nintendo, Gematsu, Nintendo Life"
+  },
+  {
+   "type": "detail",
+   "stat": "5.05M",
+   "stat_label": "Donkey Kong Bananza's Total Sales by 30 Sep",
+   "bullets": [
+    "Ocarina of Time's four-day total is already higher",
+    "Mario Kart World still leads Switch 2: 16.48 million"
+   ],
+   "credit_line": "Sources: Nintendo IR, Nintendo Life"
+  }
+ ]
+}
