@@ -23,7 +23,7 @@ THEMES: dict[str, tuple[str, list[str]]] = {
     'promises': ('Promises kept or broken', [
         'promise', 'manifesto', 'vaakuruthi', 'vakkuruthi', 'loan waiver', 'வாக்குறுதி', 'தேர்தல் அறிக்கை', 'கடன் தள்ளுபடி']),
     'liquor': ('TASMAC and liquor', ['tasmac', 'liquor', 'wine shop', 'டாஸ்மாக்', 'மதுக்கடை', 'மதுபான', 'மது விலை']),
-    'jobs': ('Jobs', ['unemploy', 'job', 'velai', 'tnpsc', 'internship', 'வேலைவாய்ப்பு', 'வேலை இல்ல', 'வேலையில்ல']),
+    'jobs': ('Jobs', ['unemploy', 'job', 'velai', 'வேலை', 'tnpsc', 'internship', 'வேலைவாய்ப்பு', 'வேலை இல்ல', 'வேலையில்ல']),
     'corruption': ('Corruption and bribes', [
         'corrupt', 'bribe', 'lanjam', 'commission', 'scam', 'ஊழல்', 'லஞ்ச', 'கமிஷன்']),
     'roads_transport': ('Roads, buses, metro', [
@@ -35,7 +35,7 @@ THEMES: dict[str, tuple[str, list[str]]] = {
     'farmers': ('Farmers', ['farmer', 'paddy', 'sugarcane', 'procurement', 'delta', 'விவசாயி', 'நெல்', 'கரும்பு']),
     'investment': ('Investment and industry', [
         'investment', 'mou', 'factory', 'investor', 'data centre', 'data center', 'parandur', 'முதலீடு', 'தொழிற்சாலை']),
-    'debt': ('State debt and finances', ['debt', 'white paper', 'treasury', 'borrow', 'கடன் சுமை', 'வெள்ளை அறிக்கை', 'கஜானா']),
+    'debt': ('State debt and finances', ['debt', 'white paper', 'treasury', 'borrow', 'கடன்', 'kadan', 'கோடி கடன்', 'வெள்ளை அறிக்கை', 'கஜானா']),
     'arrests': ('Arrests of opponents, vendetta', [
         'arrest', 'vendetta', 'revenge politics', 'dvac', 'raid', 'கைது', 'பழிவாங்க', 'ரெய்டு']),
     'access': ('Access to the CM and ministers', [
@@ -51,11 +51,12 @@ THEMES: dict[str, tuple[str, list[str]]] = {
         'inexperience', 'no experience', 'not experienced', 'give him time', 'give time', 'give some time', 'six months',
         '6 months', 'அனுபவம் இல்ல', 'அனுபவமில்ல', 'அவகாச', 'ஆறு மாத', '6 மாத', 'டைம் கொடு', 'time kudu']),
     'welfare': ('Welfare schemes, ration, pensions', [
-        'ration', 'pension', 'scheme', 'free bus', 'breakfast', 'gold ring', 'ரேஷன்', 'ஓய்வூதிய', 'திட்டம்', 'இலவச',
+        'ration', 'pension', 'scheme', 'அரிசி', 'arisi', 'மகளிர்', 'free bus', 'breakfast', 'gold ring', 'ரேஷன்', 'ஓய்வூதிய', 'திட்டம்', 'இலவச',
         'நியாய விலை', 'pongal gift', 'பொங்கல் பரிசு']),
     'govt_staff': ('Government staff, teachers, old pension', [
         'old pension', 'ops scheme', 'govt employee', 'government employee', 'jacto', 'அரசு ஊழியர்', 'பழைய ஓய்வூதிய',
         'பணி நிரந்தர', 'தற்காலிக', 'part time teacher', 'பகுதிநேர']),
+    'votes_money': ('Votes, cash for votes, elections', ['ஓட்டு', 'vote', 'ஓட்டுக்கு', 'பணம் கொடுத்து', 'cash for vote', 'by-election', 'இடைத்தேர்தல்', 'தேர்தல்']),
     'housing_land': ('Housing, patta, land', ['patta', 'பட்டா', 'வீடு', 'housing', 'eviction', 'ஆக்கிரமிப்பு']),
 }
 
