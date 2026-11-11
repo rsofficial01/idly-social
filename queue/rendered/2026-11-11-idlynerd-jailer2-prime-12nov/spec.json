@@ -1,0 +1,77 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "story": false,
+  "title": "Jailer 2 streams on Prime Video from 12 Nov in five languages, in India and 240+ countries",
+  "headline": "₹800-Crore Jailer 2 Streams on Prime Video From 12 Nov",
+  "caption": "Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November, four weeks after it opened in cinemas on 15 October. Prime Video India says it will stream in Tamil, Telugu, Hindi, Malayalam and Kannada, in India and in more than 240 countries and territories.\n\nThe first Jailer (2023) is already on Prime Video, so both films will be on one service. Nelson Dilipkumar directed the sequel and Sun Pictures produced it.\n\nTrade trackers put Jailer 2's worldwide gross above ₹800 crore, the most for any Tamil film so far.\n\nDid you see Jailer 2 in a theatre, or were you waiting for it to stream?\n\nSources: The Hollywood Reporter India, DT Next, Gulf News, Khaleej Times, The Week\n\n#Jailer2 #Rajinikanth #PrimeVideo #TamilCinema #idlynerd",
+  "alt_text": "Slide 1: a still from an official Jailer 2 video on Sun TV's YouTube channel, under the headline \"₹800-Crore Jailer 2 Streams on Prime Video From 12 Nov\". Slide 2: \"5\", Languages It Streams In: Tamil, Telugu, Hindi, Malayalam and Kannada; in 240+ countries and territories, so family abroad can watch; four weeks after cinemas, for anyone who missed it.",
+  "sources": [
+    "The Hollywood Reporter India",
+    "DT Next",
+    "Gulf News"
+  ],
+  "detail_slides": [
+    {
+      "stat": "5",
+      "stat_label": "Languages It Streams In",
+      "bullets": [
+        "Tamil, Telugu, Hindi, Malayalam, Kannada: watch in yours",
+        "240+ countries and territories, so family abroad can watch",
+        "Four weeks after cinemas, for anyone who missed it"
+      ],
+      "credit_line": "Sources: The Hollywood Reporter India, DT Next, Gulf News"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=k1OU4CqguLw",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=TwYycH1J3Ek"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=Tn8-UEQnazA"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=4fJRk-5ENmU"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=hIHUeuw2yj8"
+      }
+    ]
+  },
+  "tags": [
+    "suntv"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 2: ₹800-crore + 12 Nov date + Prime Video on the cover. send 2: five languages + 240+ countries = forward to Telugu/Hindi/Malayalam/Kannada-speaking family and NRIs. keep 2: date, languages, where. reply 2: theatre vs stream from their own lives. original 1: the 12 Nov date was announced 5 Nov and widely covered; our angle (languages, abroad, four weeks) is synthesis, not new news. alone 2: cover says what, where, when."
+    }
+  },
+  "notes": "idlynerd run 1528. Format: news. No idly article. G1 PASS (fixes a-f). Chain, all Sun TV @suntv, untried: k1OU4CqguLw TMP theme; TwYycH1J3Ek Roddy theme; Tn8-UEQnazA, 4fJRk-5ENmU, hIHUeuw2yj8 lyric videos. Excluded (failed/held 10 Nov): FW_PPcr1sPE vUj2ZFkdaiA aaNq2NL6D4A BDLqVhpPYTw DlZavKYK_P8 ugzPkXEqff4 vHV6R0F1vAk. Lettering unverified. Tag suntv: sunnetwork.in links instagram.com/suntv.",
+  "created_at": "2026-11-11T15:43:52+05:30",
+  "slug": "2026-11-11-idlynerd-jailer2-prime-12nov",
+  "caption_final": "Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November, four weeks after it opened in cinemas on 15 October. Prime Video India says it will stream in Tamil, Telugu, Hindi, Malayalam and Kannada, in India and in more than 240 countries and territories.\n\nThe first Jailer (2023) is already on Prime Video, so both films will be on one service. Nelson Dilipkumar directed the sequel and Sun Pictures produced it.\n\nTrade trackers put Jailer 2's worldwide gross above ₹800 crore, the most for any Tamil film so far.\n\nDid you see Jailer 2 in a theatre, or were you waiting for it to stream?\n\nSources: The Hollywood Reporter India, DT Next, Gulf News, Khaleej Times, The Week\n\n#Jailer2 #Rajinikanth #PrimeVideo #TamilCinema #idlynerd\n\nImage: Sun TV (official video)",
+  "image_credit": "Image: Sun TV (official video)",
+  "lane": {
+    "spec_sha256": "74580a66249aa323f42ff97a3298e67cb51418a2c2fca4f77b337ab05a350118",
+    "rendered_at": "2026-11-11T10:17:51+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=TwYycH1J3Ek",
+    "image_url": "https://i.ytimg.com/vi/TwYycH1J3Ek/maxresdefault.jpg"
+  }
+}
