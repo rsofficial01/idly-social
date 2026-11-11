@@ -1,0 +1,52 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0727-morning-brief",
+  "date": "11 Nov 2026",
+  "sources": [
+    "MoSPI",
+    "The Economic Times",
+    "Business Standard",
+    "The Hindu",
+    "Hindustan Times",
+    "The Indian Express",
+    "Reuters",
+    "Al Jazeera",
+    "AP",
+    "BBC"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US House Votes 211‑204 to Send Hegseth Impeachment to Committee",
+      "photo": "_work/2026-11-11-hourly-0727/idlynews/framing-capitol/cover_source.png",
+      "photo_credit": "Photo: Architect of the Capitol / Wikimedia Commons (public domain)",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "5.1%",
+      "stat_label": "India's Jobless Rate, July-September",
+      "bullets": [
+        "Rural fell to 4.3%; urban edged up to 6.8%",
+        "Dhaka refuses Sheikh Hasina a passport, seeks her extradition",
+        "EC: poll code now covers re-hired retirees, 5 states"
+      ],
+      "credit_line": "Sources: MoSPI (PLFS), The Economic Times, Business Standard, The Hindu, HT, The Indian Express"
+    },
+    {
+      "type": "detail",
+      "stat": "8",
+      "stat_label": "Articles Against Pete Hegseth Sent to Committee",
+      "bullets": [
+        "Key charge: waging the Iran war without Congress's approval",
+        "Sponsor Thomas Massie was the only Republican voting no",
+        "US alleges Iran-backed plot at UK airbase; Iran denies"
+      ],
+      "credit_line": "Sources: Reuters, Al Jazeera, AP, BBC, The Hindu"
+    }
+  ]
+}

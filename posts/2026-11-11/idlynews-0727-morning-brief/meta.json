@@ -1,0 +1,38 @@
+{
+ "account": "idlynews",
+ "title": "Morning Brief, Wed 11 Nov 2026: US House votes 211-204 to send the Hegseth impeachment resolution to committee (lead); India's jobless rate 5.1% in Jul-Sep (rural 4.3%, urban 6.8%); Bangladesh won't issue Hasina a passport, MEA says travel needs 'a travel document'; EC extends poll-code curbs to retired officials re-employed by 5 states voting in 2027; US charges 3 men it calls Iran-backed over alleged plots incl. RAF Fairford",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "sources": [
+  "PIB / MoSPI PLFS quarterly bulletin press note (10 Nov 2026, 16:00): https://pib.gov.in/PressReleasePage.aspx?PRID=2334749",
+  "The Economic Times (10 Nov 2026): https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-falls-to-5-1-in-july-september-as-rural-joblessness-declines/articleshow/135709920.cms",
+  "Business Standard (10 Nov 2026): https://www.business-standard.com/economy/news/unemployment-dips-slightly-to-5-1-in-july-september-govt-survey-126111000641_1.html",
+  "The Hindu (10-11 Nov 2026), Hasina/MEA: https://www.thehindu.com/news/national/after-bangladesh-rules-out-passport-for-hasina-india-says-travel-document-needed/article71686655.ece",
+  "Hindustan Times (10 Nov 2026), Hasina/MEA: https://www.hindustantimes.com/india-news/india-declines-comment-on-sheikh-hasina-s-passport-request-says-travel-document-needed-101794318744281.html",
+  "Hindustan Times (10 Nov 2026), EC: https://www.hindustantimes.com/india-news/eci-extends-neutrality-restrictions-re-employed-officials-in-poll-bound-states-101794305239183.html",
+  "The Indian Express (10 Nov 2026), EC: https://indianexpress.com/article/india/election-commission-mcc-rules-retired-government-officials-10957734/",
+  "Al Jazeera / AP (10 Nov 2026), Hegseth: https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth",
+  "The Hindu / Reuters (11 Nov 2026), Hegseth: https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece",
+  "BBC (11 Nov 2026), Iran plots: https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+  "Al Jazeera (11 Nov 2026), Iran plots: https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base",
+  "The Hindu (11 Nov 2026), Iran plots: https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece"
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/a/a3/United_States_Capitol_west_front_edit2.jpg (original, 2953x1529); saved as _work/2026-11-11-hourly-0727/idlynews/photos/capitol.jpg, sha256 8ed1007ec56a7d722da07cbb2ab9b99397511ce395c325912c66797eeefeabc8",
+  "licence": "Public domain (work of an employee of the Architect of the Capitol, US federal government)",
+  "author": "Architect of the Capitol (photo, 1997); derivative edit by O.J. (Ottojula) on Wikimedia Commons, 2011",
+  "credit": "Photo: Architect of the Capitol / Wikimedia Commons (public domain)",
+  "subject": "West front of the US Capitol, Washington DC, where the House voted on 10 Nov 2026",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, scale 0.88 (downscale, no enlargement); 4:5 full-bleed centre crop, no fill. Dome from cover y ~235 to ~730, clear of the logo zone (y < 170); headline top y 1022 (3 lines, 76px) over the lower facade and steps under the scrim (0.71). Distant pedestrians a few pixels tall, not identifiable."
+ },
+ "tags": [],
+ "tag_evidence": "none: public-domain government photo; reviewer Gate 1: no tag",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (Morning Brief), world-led cover accepted as a one-day exception because no national lead had a lawful actual-subject image; India slide before World slide; C2 and C3 dropped. Fixes applied: cover 'US House Votes 211-204 to Send Hegseth Impeachment to Committee' (non-breaking hyphen keeps 211-204 on one line); 'derail' only attributed to Reuters in the caption; slide 2 stat 5.1% / 'India's Jobless Rate, July-September'; slide 3 stat 8 / 'Articles of Impeachment Sent to Committee'; Hasina line uses MEA's 'a travel document', no 'a legal matter', Bangladeshi official unnamed; no youth 18.9%, no Sonia memoir, no Senate 53-seat line (Al Jazeera only); 'alleged' and attribution on the Iran plots line; credit as given; no tag; format special; Morning Brief in the caption opening.",
+  "g234": "Reviewer FIX (facts, caption, picture pass; cover kept): all six bullets cut to 9 words or fewer exactly as given; slide 3 label 'Articles Against Pete Hegseth Sent to Committee'; each new claim re-checked in 2 sources; re-rendered 01-03; alt text updated; caption unchanged; post_problems ([], [])."
+ }
+}
