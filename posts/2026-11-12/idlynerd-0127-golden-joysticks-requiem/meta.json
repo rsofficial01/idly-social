@@ -1,0 +1,188 @@
+{
+ "account": "idlynerd",
+ "title": "Golden Joystick Awards 2026 (44th, held Wed 11 Nov 2026; mostly fan-voted): Resident Evil Requiem (Capcom) wins Ultimate Game of the Year with 17% of the public vote, one point ahead of Phantom Blade Zero (16%), Crimson Desert third (Insider Gaming, TheGamer); Requiem's four awards: Ultimate GOTY, Console GOTY (27%), Best Game Trailer, Best Lead Performer (Angela Sant'Albano as Grace Ashcroft); Capcom Studio of the Year (57%); Onimusha: Way of the Sword Best Audio Design; Crimson Desert PC GOTY; Dispatch Storytelling + Soundtrack; Big Walk Critics' Choice; The Witcher 4 Most Wanted (TheGamer, Insider Gaming, Polygon); GTA 6 (out 19 Nov) not on the shortlist. Meccha Chameleon (self-published indie) also won four awards (Best Multiplayer Game, Best Indie Game – Self-published, Developers' Choice, Streamers' Choice), tying Requiem for most (TheGamer, Insider Gaming). Steam India prices checked 12 Nov ~02:00 IST: RE Requiem ₹4,399, Crimson Desert ₹4,499, Phantom Blade Zero ₹4,299, Dispatch ₹1,300, Big Walk ₹999, Meccha Chameleon ₹309 (no discounts).",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the API feed (candidates.json, generated 11 Nov 19:58 UTC; checked 12 Nov 2026 ~01:40 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Insider Gaming (Mike Straw)",
+   "date": "11 Nov 2026, 20:15 UTC",
+   "url": "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/"
+  },
+  {
+   "outlet": "Insider Gaming (all winners)",
+   "date": "11 Nov 2026",
+   "url": "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  },
+  {
+   "outlet": "TheGamer (all winners, live, with vote shares)",
+   "date": "11 Nov 2026",
+   "url": "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/"
+  },
+  {
+   "outlet": "Polygon",
+   "date": "11 Nov 2026",
+   "url": "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/"
+  },
+  {
+   "outlet": "GamesRadar+ (organiser: vote page)",
+   "date": "2026",
+   "url": "https://www.gamesradar.com/goldenjoystickawards/"
+  },
+  {
+   "outlet": "GamesRadar+ (how to watch, 18:00 GMT start)",
+   "date": "10 Nov 2026",
+   "url": "https://www.gamesradar.com/games/heres-how-to-watch-the-golden-joystick-awards-2026/"
+  },
+  {
+   "outlet": "Xbox Wire",
+   "date": "10 Nov 2026",
+   "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+  },
+  {
+   "outlet": "Steam India store (Resident Evil Requiem, app 3764200)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/3764200/"
+  },
+  {
+   "outlet": "Steam India store (Crimson Desert, app 3321460)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/3321460/"
+  },
+  {
+   "outlet": "Steam India store (Phantom Blade Zero, app 4115450)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/4115450/"
+  },
+  {
+   "outlet": "Steam India store (Dispatch, app 2592160, AdHoc Studio)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/2592160/"
+  },
+  {
+   "outlet": "Steam India store (Big Walk, app 1478500, House House / Panic)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/1478500/"
+  },
+  {
+   "outlet": "Steam India store (Meccha Chameleon, app 4704690)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/4704690/"
+  }
+ ],
+ "fact_sources": {
+  "Resident Evil Requiem won Ultimate Game of the Year at the Golden Joystick Awards 2026": [
+   "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/"
+  ],
+  "17% of the public vote; Phantom Blade Zero 16% (one point); Crimson Desert third": [
+   "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/ (17% of the public vote; one percentage point ahead of Phantom Blade Zero, 16%; Crimson Desert rounded out the top three)",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/ (Ultimate GOTY: Requiem 1st 17%, Phantom Blade Zero 2nd 16%, Crimson Desert 3rd)"
+  ],
+  "Requiem won four awards: Ultimate GOTY, Console GOTY, Best Game Trailer, Best Lead Performer": [
+   "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/ (four awards on the night)",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/ (Final Tallies: 4 wins)",
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/"
+  ],
+  "Console Game of the Year, 27%": [
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Best Lead Performer: Angela Sant'Albano as Grace Ashcroft": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/"
+  ],
+  "Capcom Studio of the Year, 57%": [
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Onimusha: Way of the Sword (Capcom) Best Audio Design": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Crimson Desert PC Game of the Year": [
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Dispatch Best Storytelling and Best Soundtrack": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Big Walk Critics' Choice": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "The Witcher 4 Most Wanted": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+  ],
+  "Top prize decided by public vote (most awards fan-voted; four by panel)": [
+   "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/ (17% of the public vote; largely decided by public voting)",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/ (nearly all voted on by fans, four by a panel)",
+   "https://www.gamesradar.com/goldenjoystickawards/ (Vote for your Ultimate Game of the Year)"
+  ],
+  "Held Wednesday 11 November": [
+   "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/",
+   "https://www.gamesradar.com/games/heres-how-to-watch-the-golden-joystick-awards-2026/"
+  ],
+  "GTA 6 out 19 November; not on the shortlist": [
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/ (won't be released until Nov. 19, isn't in competition)",
+   "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/ (nominee lists)",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/ (nominee lists)"
+  ],
+  "Steam India prices 12 Nov: RE Requiem ₹4,399; Crimson Desert ₹4,499 (base game app 3321460, titled Crimson Desert Enhanced, type game); Phantom Blade Zero ₹4,299; no discounts": [
+   "https://store.steampowered.com/api/appdetails?appids=3764200&cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=3321460&cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=4115450&cc=in"
+  ],
+  "Meccha Chameleon won four awards (Best Multiplayer Game, Best Indie Game – Self-published, Developers' Choice, Streamers' Choice), tying Resident Evil Requiem for most awards won": [
+   "https://www.thegamer.com/golden-joystick-awards-2026-all-winners/ (each marked WINNER; Final Tallies: 4 wins, tied with Resident Evil Requiem)",
+   "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/ (Multiplayer 31%, Self-published Indie 32%, Developers' Choice, Streamers' Choice)",
+   "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/ (Multiplayer, Self-published Indie, Developer's Choice)"
+  ],
+  "Steam India prices 12 Nov: Dispatch ₹1,300 (app 2592160, AdHoc Studio); Big Walk ₹999 (app 1478500, House House/Panic); Meccha Chameleon ₹309 (app 4704690); no discounts": [
+   "https://store.steampowered.com/api/appdetails?appids=2592160&cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=1478500&cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=4704690&cc=in"
+  ]
+ },
+ "photo_source": {
+  "page": "https://store.steampowered.com/app/3764200/",
+  "file_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/9e35202b6c8262496e1c57275c51bcead7232249/ss_9e35202b6c8262496e1c57275c51bcead7232249.1920x1080.jpg",
+  "licence": "official publisher store screenshot (Capcom), used for news about the game, credited",
+  "author": "Capcom",
+  "width": 1920,
+  "height": 1080,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Capcom",
+  "subject": "Resident Evil Requiem: Raccoon City Police Department main hall (pillars, curving staircase, reception desk, chandelier, lit arched doorway); no people, no UI, logo or promo lettering (tiny in-world RECEPTION plaque only)",
+  "local": "_work/2026-11-12-hourly-0127/nerd/photos/re/re_ss9.jpg",
+  "processing": "Source cropped to its left 1620x1080 (no compositing) so the 4:5 window sits 150 px left of centre and the chandelier clears the centred idly logo (_work/2026-11-12-hourly-0127/nerd/photos/re/re_ss9_shift.png); pipeline.framing: 864x1080 crop, enlarged 1.25x (Lanczos + light unsharp mask) to _work/2026-11-12-hourly-0127/nerd/framing_re9s/cover_source.png; cardkit focal [0.5,0.5], zoom 1.0. Laplacian variance on the doorway at 1:1 on the rendered cover ~1,386. Gate 3 approved the centred framing (framing_re9); see g4.md."
+ },
+ "tags": [
+  "re_games",
+  "capcomusa"
+ ],
+ "tags_confirmed": "instagram.com/re_games linked from Capcom's Resident Evil portal game.capcom.com/residentevil/en/; instagram.com/capcomusa linked from capcomusa.com (both fetched 12 Nov 2026 ~01:45 IST); image is Capcom's",
+ "cover": {
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0
+ },
+ "gates": {
+  "gate1": "_work/2026-11-12-hourly-0127/reviews/nerd-g1.md (A BUILD with 9 fixes, applied; B, C dropped)",
+  "gate23": "_work/2026-11-12-hourly-0127/reviews/nerd-g23.md (picture PASS; copy FIX 1-7, applied exactly)",
+  "gate4": "PASS at Gate 4b (blind reviewer 13/14: send 1); first Gate 4 PASS 12 combined to 11, desk revised slides 3-4 + caption; _work/2026-11-12-hourly-0127/reviews/nerd-g4.md, nerd-g4b.md"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0127-golden-joysticks-requiem",
+ "date": "12 Nov 2026",
+ "sources": [
+  "TheGamer",
+  "Insider Gaming",
+  "Polygon",
+  "Steam India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Resident Evil Requiem Takes 4 Golden Joysticks, Including GOTY",
+   "photo": "_work/2026-11-12-hourly-0127/nerd/framing_re9s/cover_source.png",
+   "photo_credit": "Image: Capcom",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "17%",
+   "stat_label": "Requiem's Ultimate Game of the Year Vote Share",
+   "bullets": [
+    "Resident Evil Requiem edged Phantom Blade Zero's 16%",
+    "Top prize decided by public vote, not a jury",
+    "GTA 6, out 19 Nov, wasn't on the shortlist"
+   ],
+   "credit_line": "Sources: TheGamer, Insider Gaming"
+  },
+  {
+   "type": "detail",
+   "stat": "57%",
+   "stat_label": "Capcom's Studio of the Year Vote Share",
+   "bullets": [
+    "Requiem also won Console Game of the Year (27%)",
+    "Plus Best Trailer and Best Lead Performer (Angela Sant'Albano)",
+    "Resident Evil Requiem is ₹4,399 on Steam India"
+   ],
+   "credit_line": "Sources: TheGamer, Insider Gaming, Steam India (12 Nov)"
+  },
+  {
+   "type": "detail",
+   "stat": "₹309",
+   "stat_label": "Meccha Chameleon, Best Multiplayer Game, on Steam India",
+   "bullets": [
+    "Tied Resident Evil Requiem for most awards won",
+    "Dispatch, Best Storytelling and Soundtrack: ₹1,300",
+    "Crimson Desert, PC Game of the Year: ₹4,499"
+   ],
+   "credit_line": "Sources: Steam India (12 Nov), TheGamer, Insider Gaming"
+  }
+ ]
+}
