@@ -1,8 +1,8 @@
 # Citizen voices: Six months of the TVK government in Tamil Nadu
 
-Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
+Generated 2026-11-11T08:05+00:00 UTC · window 2026-05-10 to 2026-11-10
 
-**5,530 posts from 4,988 accounts** counted (youtube 5,530); languages: en 2,123, ta 3,294, ta-latn 113. 0 copy-paste posts left out. 4,041 matched no theme.
+**5,512 posts from 4,975 accounts** counted (youtube 5,512); languages: en 2,089, ta 3,306, ta-latn 117. 0 copy-paste posts left out. 4,055 matched no theme (some of those still name a party; see Unmatched posts).
 
 ## Read this first
 
@@ -17,29 +17,29 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 
 | Theme | People | Posts | Likes | Platforms |
 |---|---:|---:|---:|---|
-| Welfare schemes, ration, pensions | 310 | 317 | 13,410 | youtube 317 |
+| Welfare schemes, ration, pensions | 303 | 310 | 12,454 | youtube 310 |
 | State debt and finances | 202 | 205 | 2,815 | youtube 205 |
-| Votes, cash for votes, elections | 181 | 187 | 7,344 | youtube 187 |
-| Rs 2,500 for women and other cash promises | 162 | 172 | 8,095 | youtube 172 |
-| Corruption and bribes | 162 | 166 | 3,183 | youtube 166 |
-| Jobs | 149 | 153 | 5,169 | youtube 153 |
-| Rain, flooding and drinking water | 88 | 88 | 2,125 | youtube 88 |
-| Centre v state, Governor, language | 67 | 67 | 504 | youtube 67 |
+| Votes, cash for votes, elections | 173 | 179 | 6,566 | youtube 179 |
+| Corruption and bribes | 163 | 167 | 2,236 | youtube 167 |
+| Rs 2,500 for women and other cash promises | 161 | 171 | 8,095 | youtube 171 |
+| Jobs | 147 | 151 | 5,167 | youtube 151 |
+| Centre v state, Governor, language | 66 | 66 | 488 | youtube 66 |
 | Law and order, safety | 65 | 71 | 510 | youtube 71 |
 | Schools, colleges, NEET | 63 | 63 | 1,121 | youtube 63 |
 | Housing, patta, land | 60 | 61 | 2,585 | youtube 61 |
+| Farmers | 54 | 56 | 1,505 | youtube 56 |
 | Investment and industry | 54 | 54 | 346 | youtube 54 |
-| Farmers | 53 | 55 | 1,485 | youtube 55 |
-| Power cuts and electricity bills | 51 | 51 | 1,132 | youtube 51 |
-| Prices and cost of living | 48 | 49 | 2,266 | youtube 49 |
 | Promises kept or broken | 47 | 48 | 678 | youtube 48 |
 | Roads, buses, metro | 45 | 46 | 425 | youtube 46 |
-| Drugs | 36 | 36 | 319 | youtube 36 |
+| Power cuts and electricity bills | 39 | 39 | 888 | youtube 39 |
+| Prices and cost of living | 38 | 39 | 440 | youtube 39 |
+| Drugs | 35 | 35 | 318 | youtube 35 |
 | Arrests of opponents, vendetta | 28 | 28 | 64 | youtube 28 |
-| TASMAC and liquor | 25 | 25 | 82 | youtube 25 |
+| TASMAC and liquor | 24 | 24 | 81 | youtube 24 |
 | Hospitals and medicine | 23 | 23 | 208 | youtube 23 |
 | Inexperience, "give him time" | 21 | 21 | 40 | youtube 21 |
-| Caste and religion | 17 | 18 | 18 | youtube 18 |
+| Caste and religion | 19 | 20 | 32 | youtube 20 |
+| Rain, flooding and drinking water | 15 | 15 | 159 | youtube 15 |
 | Government staff, teachers, old pension | 15 | 15 | 95 | youtube 15 |
 | Access to the CM and ministers | 7 | 7 | 2 | youtube 7 |
 
@@ -47,10 +47,10 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 
 - “இலவசம் வேண்டாம் விட்டுக்கு ஒருவர் படிப்பிற்கு தகுந்தார் போல் வேலைவாய்ப்பு ஏற்படுத்தி குடுத்தால் மக்கள் யாரிடமும் இலவசம் எதிர் பார்க்க மாட்டார்கள் CM sir” · 1,138 likes · 2026-05-13 · under “Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM” (Sathiyam News) · [link](https://www.youtube.com/watch?v=H5EX8BSyckE&lc=UgwrBj5agr5vFh_c8bt4AaABAg)
 - “நெஜமாவே ரேஷன் கடையில் பச்சரிசி சூப்பரா இருக்கு” · 959 likes · 2026-10-06 · under “டேய் புழுத்த boys இதான்டா தவெக ஆட்சி பாத்துக்கோ!🙄|ration shop rice comparison btwn dmk…” (Tamilkaviswasan) · [link](https://www.youtube.com/watch?v=SfoxlOO6gnI&lc=UgwucCNitBRY4HnkP8p4AaABAg)
-- “அனைவரும் ஒன்று சேர்ந்து இலவசமே வேண்டாம் என்று குரல் கொடுத்தால் விலைவாசி குறையும் லஞ்சம் வாங்குபவர்களை நான் திரும்பி கேள்வி கேட்கலாம் வேண்டாம் வேண்டாம் இலவசம் வேண்டாம்” · 933 likes · 2026-10-26 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgyhDofnIcK-kl6o0Yt4AaABAg)
 - “பொய் பொய் பொய் இப்பவும் ரேஷன் கடைகளில் மஞ்சள் நிற பழைய அரிசி தான் தருகிறார்கள்” · 723 likes · 2026-10-06 · under “டேய் புழுத்த boys இதான்டா தவெக ஆட்சி பாத்துக்கோ!🙄|ration shop rice comparison btwn dmk…” (Tamilkaviswasan) · [link](https://www.youtube.com/watch?v=SfoxlOO6gnI&lc=UgybLiSYiJxypiSTYq14AaABAg)
 - “மகளிர் உரிமை தொகை எல்லா பெண்களுக்கும் கொடுங்கள் மற்றவர்கள். மனம் புண்படும் cm சார்” · 635 likes · 2026-05-14 · under “Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=Ugx6eUNEIrB-QzuEys94AaABAg)
 - “புதிய கணக்கெடுப்பு எடுக்க வேண்டும் எங்களுக்கு இது வரை வரவில்லை புதிய திட்டம் ஆவது எங்களுக்கு வந்து சேர வேண்டும்” · 515 likes · 2026-06-15 · under “BREAKING : உரிமைத்தொகை ரூ.2,500 ஆக உயர்வு வெளியான Super Update | Magalir Urimai Thogai |…” (Kumudam News 24x7) · [link](https://www.youtube.com/watch?v=A87WTKpbSi0&lc=Ugxbiod3APpf9DmuhV94AaABAg)
+- “மகளிர் உரிமைத் தொகை கொடுத்தால் ரேஷன் அட்டை இருக்கும் அனைத்து மகளிருக்கும் சமமாக தரவும்🎉” · 510 likes · 2026-05-13 · under “Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM” (Sathiyam News) · [link](https://www.youtube.com/watch?v=H5EX8BSyckE&lc=Ugy9S9pTCEBVPM2KTz14AaABAg)
 
 ### State debt and finances
 
@@ -67,8 +67,17 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “ஒரு ஓட்டு வாங்க வழி இல்ல வாய பார்” · 1,231 likes · 2026-07-19 · under “திமுக போட்ட பிச்சை? | Seeman | DMK | CM Vijay | TVK | Tamil Political News | Gem TV” (Gem Television) · [link](https://www.youtube.com/watch?v=3EHvbh1ddfc&lc=UgxZ7EpVrIfmPD-I13R4AaABAg)
 - “உண்மை 😢😢😢😢இதை விஜய் சார் பார்க்கனும் இதுதான் தமிழ் நாட்டு மக்களின் மனநிலை ரொம்ப வேதனையா இருக்கு 😢😢😢😢 எவ்ளோ பேர் இந்த மாதிரி மன வேதனையில் இருக்கிறோம்😢😢ஏன்டா விஜய் க்கு ஓட்டு போட்டோம்னு வருத்தமா இருக்கு 😢😢😢” · 744 likes · 2026-09-16 · under “கொந்தளித்த TVK தொண்டன் ..! Public Opinion #vijay #cmvijay #udhayanidhistalin #tnassembly” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=qzx9bRctoyY&lc=UgxQAVvx41xMX1an0x14AaABAg)
 - “ஓட்டு போட்ட மக்கள் அனுபவித்தே ஆக வேண்டும்” · 509 likes · 2026-05-22 · under “tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people” (TamilNadu People) · [link](https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugz0o0ND6-S6GixGAyx4AaABAg)
-- “சின்ன பையங்க தெரியாம ஓட்டு போடல சின்னப் பையன்களுக்குள்ள புத்தியுட பெரியவங்களுக்கு இல்லாம போயிருச்சு” · 369 likes · 2026-10-25 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgzE8dPj0iGLkDiCjqR4AaABAg)
 - “ஓட்டு போடாத மக்களும் சேர்ந்தே அனுபவிக்க வேண்டும்! 😮 காலக்கொடுமை! 😢” · 311 likes · 2026-05-22 · under “tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people” (TamilNadu People) · [link](https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=UgyALS0MdkmFBTunUVh4AaABAg)
+- “மக்கள் ஓட்டு போட்டது இவ்வளவு நம்பி அல்ல எனவே இவளை பதவியிலிருந்து நீக்க வேண்டும்” · 216 likes · 2026-07-27 · under “Tvk Minister Audio | "கால வச்சா கொன்னுடுவேன்"-தீயை விட வேகமாக பரவும் அமைச்சர் ஜெகதீஸ்வரி…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=v6zUCL5LCz4&lc=UgzV2Zo4u3SI0Czr-tJ4AaABAg)
+
+### Corruption and bribes
+
+- “நிலம் வாங்கிய ஊபிக்கள் கதறல், ஊழல் அதிகாரிகள் திருட்டு திமுக அமைச்சர்கள் தலையில் துண்டுடன் கதறல், பரந்தூர் மக்கள் மகிழ்ச்சி வெற்றித் தலைவர் தளபதி விஜய் அவர்களுக்கு பரந்தூர் மக்கள் மனமார்ந்த நன்றி❤❤❤❤❤” · 339 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxaylozyJeHEz1pJWZ4AaABAg)
+- “🎉❤ social justice organisation freedom anti-corruption 🎉❤❤❤❤❤” · 283 likes · 2026-06-20 · under “#BIGNEWS : முதல்வர் விஜய் பேசாதது ஏன்?: வன்னி அரசு கொடுத்த பதில் | CM Vijay | TVK” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=g5-zeLZUWVM&lc=Ugy7hI24Axgu5tjff594AaABAg)
+- “என்னமோ..... ஊழல்.... இல்ல..... லஞ்சம்... இல்ல னு பேசீட்டு இருக்கீங்க.... அதெல்லாம் டுமீளா” · 164 likes · 2026-07-27 · under “Tvk Minister Audio | "கால வச்சா கொன்னுடுவேன்"-தீயை விட வேகமாக பரவும் அமைச்சர் ஜெகதீஸ்வரி…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=v6zUCL5LCz4&lc=UgwleKyNHihGCfr8N5h4AaABAg)
+- “அரசு வழக்கறிஞர் நியமிப்பதில் பல லட்சம் ஊழல் யார் ஆட்சியில் என்பதை கொஞ்சம் பேசுங்கள்.” · 148 likes · 2026-08-22 · under “TVK-வின் 100 நாள் ஆட்சி எப்படி? பேசும்போது மேடையில் திடீர் பரபரப்பு! நடந்தது என்ன?” (Behindwoods O2) · [link](https://www.youtube.com/watch?v=Ou7OnWanazk&lc=UgzxkspwE27DrEp0ZDh4AaABAg)
+- “தண்ணிபைப்புக்கு லஞ்சம் இன்னைக்கும் வாங்கறாங்க” · 143 likes · 2026-07-11 · under “மக்கள் அரங்கம் : தவெக ஆட்சி - நல்ல மாற்றமா? ஏமாற்றமா? | Makkal Arangam” (Malaimurasu Tv 24X7) · [link](https://www.youtube.com/watch?v=z71JlbmNtKI&lc=Ugz1HHlGlGdJLC_pe6Z4AaABAg)
+- “S -social Justice O-organized F- Freedom A- Anti corruption” · 129 likes · 2026-06-20 · under “#BIGNEWS : முதல்வர் விஜய் பேசாதது ஏன்?: வன்னி அரசு கொடுத்த பதில் | CM Vijay | TVK” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=g5-zeLZUWVM&lc=UgxnOJMq2Z-RYX4Ubsl4AaABAg)
 
 ### Rs 2,500 for women and other cash promises
 
@@ -79,15 +88,6 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “புதிய மகளிர் உரிமை தொகைக்கு விண்ணப்பம் படிவம் கொடுக்கவும். புதிய ரேஷன் கார்டு க்கு” · 330 likes · 2026-05-14 · under “Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzVRtYyKtwLSVIbLql4AaABAg)
 - “நியூஸ் ஜெ சேனல் லுக்கு வேண்டுகோள் மகளிர் உரிமை தொகை கிடைக்காதவர்கள் என்ன செய்ய வேண்டும் என்று கேட்டு சொல்லுமாறு மிகவும் வராத பல லெட்ச மகளிர் சார்பாக கேட்டுக்கொள்கிறேன் நன்றி” · 296 likes · 2026-05-15 · under “#BREAKING || 60 வயதிற்கு மேல் உள்ள பெண்களுக்கு உதவித்தொகை | CM Vijay | Magalir Urimai…” (NewsJ) · [link](https://www.youtube.com/watch?v=XF2LWhzctUU&lc=UgxmNp1hnKz_Cwlqva54AaABAg)
 
-### Corruption and bribes
-
-- “அனைவரும் ஒன்று சேர்ந்து இலவசமே வேண்டாம் என்று குரல் கொடுத்தால் விலைவாசி குறையும் லஞ்சம் வாங்குபவர்களை நான் திரும்பி கேள்வி கேட்கலாம் வேண்டாம் வேண்டாம் இலவசம் வேண்டாம்” · 933 likes · 2026-10-26 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgyhDofnIcK-kl6o0Yt4AaABAg)
-- “நிலம் வாங்கிய ஊபிக்கள் கதறல், ஊழல் அதிகாரிகள் திருட்டு திமுக அமைச்சர்கள் தலையில் துண்டுடன் கதறல், பரந்தூர் மக்கள் மகிழ்ச்சி வெற்றித் தலைவர் தளபதி விஜய் அவர்களுக்கு பரந்தூர் மக்கள் மனமார்ந்த நன்றி❤❤❤❤❤” · 339 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxaylozyJeHEz1pJWZ4AaABAg)
-- “🎉❤ social justice organisation freedom anti-corruption 🎉❤❤❤❤❤” · 283 likes · 2026-06-20 · under “#BIGNEWS : முதல்வர் விஜய் பேசாதது ஏன்?: வன்னி அரசு கொடுத்த பதில் | CM Vijay | TVK” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=g5-zeLZUWVM&lc=Ugy7hI24Axgu5tjff594AaABAg)
-- “என்னமோ..... ஊழல்.... இல்ல..... லஞ்சம்... இல்ல னு பேசீட்டு இருக்கீங்க.... அதெல்லாம் டுமீளா” · 164 likes · 2026-07-27 · under “Tvk Minister Audio | "கால வச்சா கொன்னுடுவேன்"-தீயை விட வேகமாக பரவும் அமைச்சர் ஜெகதீஸ்வரி…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=v6zUCL5LCz4&lc=UgwleKyNHihGCfr8N5h4AaABAg)
-- “அரசு வழக்கறிஞர் நியமிப்பதில் பல லட்சம் ஊழல் யார் ஆட்சியில் என்பதை கொஞ்சம் பேசுங்கள்.” · 148 likes · 2026-08-22 · under “TVK-வின் 100 நாள் ஆட்சி எப்படி? பேசும்போது மேடையில் திடீர் பரபரப்பு! நடந்தது என்ன?” (Behindwoods O2) · [link](https://www.youtube.com/watch?v=Ou7OnWanazk&lc=UgzxkspwE27DrEp0ZDh4AaABAg)
-- “தண்ணிபைப்புக்கு லஞ்சம் இன்னைக்கும் வாங்கறாங்க” · 143 likes · 2026-07-11 · under “மக்கள் அரங்கம் : தவெக ஆட்சி - நல்ல மாற்றமா? ஏமாற்றமா? | Makkal Arangam” (Malaimurasu Tv 24X7) · [link](https://www.youtube.com/watch?v=z71JlbmNtKI&lc=Ugz1HHlGlGdJLC_pe6Z4AaABAg)
-
 ### Jobs
 
 - “இலவசம் வேண்டாம் விட்டுக்கு ஒருவர் படிப்பிற்கு தகுந்தார் போல் வேலைவாய்ப்பு ஏற்படுத்தி குடுத்தால் மக்கள் யாரிடமும் இலவசம் எதிர் பார்க்க மாட்டார்கள் CM sir” · 1,138 likes · 2026-05-13 · under “Magalir urimai thogai | CM Vijay | 'மகளிர்' உரிமைத்தொகை - பெண்களுக்கு 'Good News' சொன்ன CM” (Sathiyam News) · [link](https://www.youtube.com/watch?v=H5EX8BSyckE&lc=UgwrBj5agr5vFh_c8bt4AaABAg)
@@ -96,15 +96,6 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “வேலை இல்லாமல் இந்த வெள்ளைஅறிக்கையை விடுறாங்களா நீங்க சொகுசு வாழ மக்கள் கஷ்டப்படுறாங்க திமுக சொத்தை ஜப்தி பண்ணனும்” · 243 likes · 2026-06-16 · under “#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக” (Polimer News) · [link](https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgwWG7_WatzKveOY7CN4AaABAg)
 - “இன்னும் லட்சம் பேருக்கு மகளிர் தொகை வரவில்லை மகளிர் தொகை மக்களை ஏமாற்றும் செயல் வேலை வாய்ப்பு கொடுக்கலாம்” · 190 likes · 2026-05-14 · under “Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=Ugz4GWnNEIi7nNngTYZ4AaABAg)
 - “அதான் இப்படி கேவலமான வேலை செய்யிரிங்கலா” · 136 likes · 2026-05-27 · under “எல்லாம் நன்றி கெட்ட நா*ய் | Cm Vijay | Ex Cm Stalin | kolathur | Public opinion | Gem Tv” (Gem Television) · [link](https://www.youtube.com/watch?v=l7DO1tHt3mk&lc=Ugx4qnbIwC6jmtb6vmF4AaABAg)
-
-### Rain, flooding and drinking water
-
-- “வேலை இல்லாமல் இந்த வெள்ளைஅறிக்கையை விடுறாங்களா நீங்க சொகுசு வாழ மக்கள் கஷ்டப்படுறாங்க திமுக சொத்தை ஜப்தி பண்ணனும்” · 243 likes · 2026-06-16 · under “#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக” (Polimer News) · [link](https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgwWG7_WatzKveOY7CN4AaABAg)
-- “வெள்ளை அறிக்கை இல்லை வெள்ளரிக்காய் 👍” · 195 likes · 2026-06-17 · under “தவெகவின் வெள்ளை அறிக்கை | கடன் வாங்கி வைத்த திமுக ? | கடனை அடைக்கப்போகும் தவெக |” (Saattai) · [link](https://www.youtube.com/watch?v=Jbd3iZkrAyk&lc=Ugx1uri5WpJiXdP4-5R4AaABAg)
-- “அது நீங்க விட்ட வெள்ளை அறிக்கை போன ஆட்சியில்” · 188 likes · 2026-06-16 · under “#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக” (Polimer News) · [link](https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgyHnXV8m8RulFK1uad4AaABAg)
-- “மக்களை திசை திருப்பதற்காக வெள்ளை அறிக்கை பிழை பிழையாக வாசித்து மக்களை திசை திருப்பி உள்ளனர் இது ஒரு TVKவின் திட்டமிட்ட செயல்” · 178 likes · 2026-06-17 · under “தவெகவின் வெள்ளை அறிக்கை | கடன் வாங்கி வைத்த திமுக ? | கடனை அடைக்கப்போகும் தவெக |” (Saattai) · [link](https://www.youtube.com/watch?v=Jbd3iZkrAyk&lc=UgyfHm-W3BzPaupWmPR4AaABAg)
-- “வெள்ளை அறிக்கை வெளியிட்ட விஜயை தமிழக மக்கள் பாராட்டுகின்றனர்” · 125 likes · 2026-06-17 · under “வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி” (Polimer News) · [link](https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=UgxRb23tmcSQ9I7nTBN4AaABAg)
-- “தமிழ் நாட்டில் அனைத்து மூலைகளிலும் ஒந்த நிறுவனம் தண்ணீர் தர வேண்டும் மக்கள் செய்த தவறுக்கு தண்டனை” · 86 likes · 2026-07-12 · under “தவெக ஆட்சி - இறங்கி அடித்த இடும்பாவனம் கார்த்தி பேச ஆர்ப்பரித்த சீமான் தம்பிகள் |…” (Malaimurasu Tv 24X7) · [link](https://www.youtube.com/watch?v=PJExgwFPhfg&lc=UgwqyHC9sb8lB9Qurfl4AaABAg)
 
 ### Centre v state, Governor, language
 
@@ -142,15 +133,6 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “எவ்வளவு பட்டாலும் வெட்கப்பட மாட்டேங்கிறானே😂” · 170 likes · 2026-07-18 · under “திமுக போட்ட பிச்சை? | Seeman | DMK | CM Vijay | TVK | Tamil Political News | Gem TV” (Gem Television) · [link](https://www.youtube.com/watch?v=3EHvbh1ddfc&lc=Ugy2sEyR67g1hJK3riB4AaABAg)
 - “எத்தனை முறை அவமானப்பட்டாலும் இவனுங்க திருந்த மாட்டானுங்க போல....” · 157 likes · 2026-06-08 · under “"தவெக ஆட்சி 3 மாதங்களாவது தாங்குமா?" | MK STALIN | TVK Vijay” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=2KMQRO-cEJA&lc=UgxQGFbaLKb25j3JAd94AaABAg)
 
-### Investment and industry
-
-- “Ellaam ladies ku amount kudunga Vijay sir..DMK atchila ennai pondra pala pengaluku kidakala...pls anaivarum samam endru neegalavathu kudungal” · 92 likes · 2026-05-14 · under “Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzUYh2GnB4JPy9k5u14AaABAg)
-- “G square investment ? Adhanaal thaan DMK kadharudhu.” · 71 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் ரத்து கொந்தளித்த திமுக #thalapathyvijay #tvkvijay #mkstalin…” (Patch work 2.0) · [link](https://www.youtube.com/watch?v=xBwY7V02z6Q&lc=UgxwrMkhHvU5Z3eDduB4AaABAg)
-- “Hearty congratulations to all the people of Parandur🎉🎉🎉...justice is served to people by our CM and he won people's heart” · 62 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgyEpb2yXoivsggCpsJ4AaABAg)
-- “அதைச்சுற்றி நிலத்தில் கோபாலபுற குடும்பம் முதலீடு செய்த பல ஆயிரம் கோடிகளைபோட்டதால தான் அழுகிறாங்க???” · 42 likes · 2026-08-25 · under “பரந்தூர் விமான நிலையம் ரத்து கதறும் திமுக தலைமை குடும்பம் #thalapathyvijay #mkstalin…” (Patch work 2.0) · [link](https://www.youtube.com/watch?v=oT6k_w76bgI&lc=UgzvdbuY_TddxBUxmQh4AaABAg)
-- “விவசாய நிலங்களில் சாராய தொழிற்சாலைகள் நடத்துகிறார்கள். விவசாய நிலங்களில் அரசியல் அதிகாரம் பெற்றவர்கள் காலேஜ் கட்டி கொள்ளை அடிக்கிறார்கள். அரசியல் வாதிகள் ஏன் இந்த மாதிரி கேவலமான செயல்களில் தன் சொந்த நலன்களுக்காக இந்த…” · 16 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgyaEqZdxTOPGG0kr0l4AaABAg)
-- “I Love to all parandur people heartly congratulations Our honorable CM Vijay Sir 💐💐💐🌹🌹🌹🌹🍫🍫🍫🍫🙏🙏🙏🙏💯💯💯💯❤️❤️❤️❤️❤️❤️❤️” · 11 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxUo_fF9dPWlfC4XfB4AaABAg)
-
 ### Farmers
 
 - “அமோனியா தாக்கி உயிர் இழந்தவர்கள் ??, நீட் தேர்வால் உயிர் இழந்தவர்கள்?? பட்டாசு தொழிலாளர்கள் உயிர் இழந்தவர்கள்??? விவசாயி உயிர் இழப்பு??” · 435 likes · 2026-07-10 · under “கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgxN8jWLM5vfNF27jR94AaABAg)
@@ -160,23 +142,14 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “ஐந்து வருடங்கள் ஒரு பைசா கூட கிடைக்கல, இவர்களாவது தருவாங்க ன்னு நினேத்தேன், தீய சக்தி திமுக தீயசக்தி திமுக ன்னு சொல்லிய இவர்களும் கொடுக்க மாட்டாங்க போல, எங்களை போன்ற கிராமப்புற ஏழை விவசாயிகள் எத்தனையோ பேருக்கு உரிமை…” · 52 likes · 2026-06-15 · under “BREAKING : உரிமைத்தொகை ரூ.2,500 ஆக உயர்வு வெளியான Super Update | Magalir Urimai Thogai |…” (Kumudam News 24x7) · [link](https://www.youtube.com/watch?v=A87WTKpbSi0&lc=UgwLF64wXZ37OWR_oOd4AaABAg)
 - “ஏற்கனவே சென்னை விமான நிலையத்தின் பயன்பாட்டு விகிதம் குறைவு. சென்னை விமான நிலையம் ஒன்னும் நெருக்கடியில் இல்லை. அதனால் விவசாயிகளை சாகடிக்க தேவையில்லை.” · 32 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgzdCTl8qKmnHeC66sJ4AaABAg)
 
-### Power cuts and electricity bills
+### Investment and industry
 
-- “அண்ணன் போற அண்ணி வீட்ல கரண்ட் இருக்கான்னு பார்க்கணும்” · 529 likes · 2026-05-22 · under “tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people” (TamilNadu People) · [link](https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugw7cefHGtC5hqVtjt94AaABAg)
-- “👏🏻👏🏻👏🏻👏🏻👏🏻🎉🎉🎉🎉 மும்முணை மின்சாரம்” · 198 likes · 2026-08-21 · under “தவெக அரசு கடனே வாங்காதா? | TN Assembly | DMK vs TVK | Shorts | Kalaignar News” (Kalaignar TV News) · [link](https://www.youtube.com/watch?v=Xkyr62hPHos&lc=UgyoIJjkmzKJkqXFzSF4AaABAg)
-- “ஒரு சிலருக்கு கரண்ட் பிள்ளே வரலா அதுக்கும் இந்த ஆட்சிதான்” · 109 likes · 2026-10-29 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgynPklxOBqvnz4WRGd4AaABAg)
-- “நம்ம பசங்களுக்கு நாம்தான் செய்யனும் அது நம் கடமை சொல்லி காட்டுனா அது அப்பா இல்லை மின்சாரத்த சேமிங்க” · 58 likes · 2026-10-27 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgyxlqzS_dmb_D52i_B4AaABAg)
-- “200 units electricity ki freebies nahi dena chahiye tha, baaki saare kaam badiya kiye hai CM ne” · 41 likes · 2026-07-13 · under “Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻” (Tarun Kumar Kedia) · [link](https://www.youtube.com/watch?v=jq14f8llVPQ&lc=UgyzWU8gH3hsfgkzJGx4AaABAg)
-- “அதான் இப்படி கரண்ட் ஆபீஸ்ல வேலை பார்த்துட்டு கரண்டை கட் பண்ணி விட்டீங்களா” · 36 likes · 2026-05-28 · under “எல்லாம் நன்றி கெட்ட நா*ய் | Cm Vijay | Ex Cm Stalin | kolathur | Public opinion | Gem Tv” (Gem Television) · [link](https://www.youtube.com/watch?v=l7DO1tHt3mk&lc=Ugwt1zRTUIyCQc1F_nR4AaABAg)
-
-### Prices and cost of living
-
-- “அனைவரும் ஒன்று சேர்ந்து இலவசமே வேண்டாம் என்று குரல் கொடுத்தால் விலைவாசி குறையும் லஞ்சம் வாங்குபவர்களை நான் திரும்பி கேள்வி கேட்கலாம் வேண்டாம் வேண்டாம் இலவசம் வேண்டாம்” · 933 likes · 2026-10-26 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgyhDofnIcK-kl6o0Yt4AaABAg)
-- “யார் ஆட்சிக்கு வந்தாலும் விலைவாசி குறையாது” · 738 likes · 2026-10-25 · under “தி.மு.க ஆட்சியில் ..? | Public Opinion | CM Vijay | MK Stalin | Seeman | TVK | DMK…” (MEDIA FILES) · [link](https://www.youtube.com/watch?v=M3EziYwM9Jk&lc=UgyrdIS7AOfj9Kj9IU94AaABAg)
-- “இலவசப் மகளிர் பேருந்துப் பயணம் வேண்டாம் பயணச்சீட்டு விலையை குறையுங்கள். 1000ரூபாய் வேண்டாம் விலைவாசி உயர்வை கட்டுக்குள் கொண்டு வாருங்கள். இலவச சிலிண்டர்கள் வேண்டாம் சிலிண்டர் விலையை குறையுங்கள். அரசு அதிகாரிகளுக்கு…” · 113 likes · 2026-06-17 · under “வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி” (Polimer News) · [link](https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=Ugxnpy1SErMb1IhnZU94AaABAg)
-- “எங்களைப் போன்ற அடித்தட்டு மக்கள் நூறு ரூபாய்க்கு ஐநூறு ரூபாய்க்கும் தினமும் கஷ்டப்பட்டு வாழ்ந்துக் கொண்டிருக்கிறோம். ஆனால் இவ்வளோ பெரிய கடன் சுமையை எங்கள்மீது தள்ளி இந்த அரசு இன்னும் கஷ்டப்படுத்திிறது. இதனால் விலைவாசி…” · 78 likes · 2026-06-17 · under “வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி” (Polimer News) · [link](https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=UgxFUbB0LzwcmamvGU14AaABAg)
-- “ஆவின் பாலை அழிக்க போறானுங்😢க” · 49 likes · 2026-11-05 · under “விஜயின் 6 மாத ஆட்சி| ஒரு தாய் மாமன் இப்படித்தான் இருப்பாரா?|Public Opinion||Vijay|NFT|” (News Focus Tamil) · [link](https://www.youtube.com/watch?v=g0w6D-ZwmYA&lc=UgwRHZBQk-ccBLLF7H54AaABAg)
-- “தயவு செஞ்சு free bus கேன்சல் பண்ணுங்க தங்க மோதிரம் திட்டம் கேன்சல் பண்ணுங்க 2500 ரூபாய் வேண்டாம் கல்வி மருத்துவம் விலைவாசி இதுல கவனம் செலுத்துங்கள் cm அண்ணா ப்ளீஸ் ஏழை எளிய மக்கள் கஷ்ட படுறாங்க 😢😢😢” · 35 likes · 2026-10-14 · under “விலைவாசி உயர்வு.. மக்கள் அதிர்ச்சி பேட்டி | price hike | Tamilnadu | CM Vijay” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=yaeC8nUa4s8&lc=Ugy0O3WIkA3aTOYcDh54AaABAg)
+- “Ellaam ladies ku amount kudunga Vijay sir..DMK atchila ennai pondra pala pengaluku kidakala...pls anaivarum samam endru neegalavathu kudungal” · 92 likes · 2026-05-14 · under “Magalir Urimai Thogai|CM Vijay | ரூ.1000-ஆ ரூ.2500-ஆ -மகளிருக்கு சற்றுமுன் வந்தது…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=BIdyKIfU6SQ&lc=UgzUYh2GnB4JPy9k5u14AaABAg)
+- “G square investment ? Adhanaal thaan DMK kadharudhu.” · 71 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் ரத்து கொந்தளித்த திமுக #thalapathyvijay #tvkvijay #mkstalin…” (Patch work 2.0) · [link](https://www.youtube.com/watch?v=xBwY7V02z6Q&lc=UgxwrMkhHvU5Z3eDduB4AaABAg)
+- “Hearty congratulations to all the people of Parandur🎉🎉🎉...justice is served to people by our CM and he won people's heart” · 62 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgyEpb2yXoivsggCpsJ4AaABAg)
+- “அதைச்சுற்றி நிலத்தில் கோபாலபுற குடும்பம் முதலீடு செய்த பல ஆயிரம் கோடிகளைபோட்டதால தான் அழுகிறாங்க???” · 42 likes · 2026-08-25 · under “பரந்தூர் விமான நிலையம் ரத்து கதறும் திமுக தலைமை குடும்பம் #thalapathyvijay #mkstalin…” (Patch work 2.0) · [link](https://www.youtube.com/watch?v=oT6k_w76bgI&lc=UgzvdbuY_TddxBUxmQh4AaABAg)
+- “விவசாய நிலங்களில் சாராய தொழிற்சாலைகள் நடத்துகிறார்கள். விவசாய நிலங்களில் அரசியல் அதிகாரம் பெற்றவர்கள் காலேஜ் கட்டி கொள்ளை அடிக்கிறார்கள். அரசியல் வாதிகள் ஏன் இந்த மாதிரி கேவலமான செயல்களில் தன் சொந்த நலன்களுக்காக இந்த…” · 16 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgyaEqZdxTOPGG0kr0l4AaABAg)
+- “I Love to all parandur people heartly congratulations Our honorable CM Vijay Sir 💐💐💐🌹🌹🌹🌹🍫🍫🍫🍫🙏🙏🙏🙏💯💯💯💯❤️❤️❤️❤️❤️❤️❤️” · 11 likes · 2026-08-24 · under “CM Vijay | Paranthur Airport | இப்படி ஒரு Reaction-ஆ.. CM விஜயை தூக்கி வைத்து கொண்டாடும்…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=D_OOx5WWF0s&lc=UgxUo_fF9dPWlfC4XfB4AaABAg)
 
 ### Promises kept or broken
 
@@ -195,6 +168,24 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 - “Cm சொன்னதை செய்தார்.. மாற்று இடத்தில் விமான நிலையம் கட்டப்படும் என்றார் அதற்குள் தொழில் சாலைகள் வராது.. அண்டை மாநிலம் முன்னேறிவிடும் என புலம்பல்கள்.. அப்படி அக்கறை படுபவர்கள் அப்போதே மாற்று இடம் செய்திருக்கலாம்.....” · 19 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் ரத்து இந்த துணிச்சல் ஸ்டாலினிடம்இல்லை #thalapathyvijay #mkstalin…” (Patch work 2.0) · [link](https://www.youtube.com/watch?v=IwVvx5rOTHs&lc=UgwC0dtulsU_nGE_4Tp4AaABAg)
 - “விவசாய நிலங்களில் சாராய தொழிற்சாலைகள் நடத்துகிறார்கள். விவசாய நிலங்களில் அரசியல் அதிகாரம் பெற்றவர்கள் காலேஜ் கட்டி கொள்ளை அடிக்கிறார்கள். அரசியல் வாதிகள் ஏன் இந்த மாதிரி கேவலமான செயல்களில் தன் சொந்த நலன்களுக்காக இந்த…” · 16 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=UgyaEqZdxTOPGG0kr0l4AaABAg)
 - “சென்னை சேலம் எட்டு வழி சாலை அமைப்பதற்கு எதிர்ப்பு தெரிவித்த திருட்டு முன்னேற்ற கழகம் பரந்தூரில் விவசாய நிலங்கள் மட்டும் இல்லாமல் ஏரிகளையும் அழித்து விமான நிலையம் அமைக்க வேண்டிய நோக்கம் என்ன” · 15 likes · 2026-08-24 · under “பரந்தூர் விமான நிலையம் கைவிடப்பட்டது சரியா?| Badri Seshadri | CM Vijay Parandur Airport…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=7EnDa0N1vYg&lc=Ugz43qZdH6kin6shIGp4AaABAg)
+
+### Power cuts and electricity bills
+
+- “அண்ணன் போற அண்ணி வீட்ல கரண்ட் இருக்கான்னு பார்க்கணும்” · 529 likes · 2026-05-22 · under “tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people” (TamilNadu People) · [link](https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugw7cefHGtC5hqVtjt94AaABAg)
+- “👏🏻👏🏻👏🏻👏🏻👏🏻🎉🎉🎉🎉 மும்முணை மின்சாரம்” · 198 likes · 2026-08-21 · under “தவெக அரசு கடனே வாங்காதா? | TN Assembly | DMK vs TVK | Shorts | Kalaignar News” (Kalaignar TV News) · [link](https://www.youtube.com/watch?v=Xkyr62hPHos&lc=UgyoIJjkmzKJkqXFzSF4AaABAg)
+- “200 units electricity ki freebies nahi dena chahiye tha, baaki saare kaam badiya kiye hai CM ne” · 41 likes · 2026-07-13 · under “Why would Tamil Nadu elect an actor as CM? 😳 Vijay Thalapathy 🧔🏻” (Tarun Kumar Kedia) · [link](https://www.youtube.com/watch?v=jq14f8llVPQ&lc=UgyzWU8gH3hsfgkzJGx4AaABAg)
+- “அதான் இப்படி கரண்ட் ஆபீஸ்ல வேலை பார்த்துட்டு கரண்டை கட் பண்ணி விட்டீங்களா” · 36 likes · 2026-05-28 · under “எல்லாம் நன்றி கெட்ட நா*ய் | Cm Vijay | Ex Cm Stalin | kolathur | Public opinion | Gem Tv” (Gem Television) · [link](https://www.youtube.com/watch?v=l7DO1tHt3mk&lc=Ugwt1zRTUIyCQc1F_nR4AaABAg)
+- “விஞ்ஞான ஊழல் திருடன் தங்கம் தென்னரசு கடன் வாங்கியே அஞ்சு வருஷம் ஓட்டிடானுங்க இன்னொரு முறை திமுக ஜெயித்து வந்து இருந்தா25லட்சம் கோடி கடன் வந்திருக்கும் 4000 கோடி வடிகால் ஊழல் கல்குவாரி ஏல ஊழல் பள்ளிக்கல்வித்துறை…” · 17 likes · 2026-06-16 · under “#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக” (Polimer News) · [link](https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgyF9z50gnkyJUxhvCF4AaABAg)
+- “அப்போ அணில் வீட்டில் எல்லாம் கரண்ட் வேண்டாம் தான அப்போ எங்களுக்கு 400 யூனிட் இலவசமாக தாடா விஜய் டேய் விஜய்” · 13 likes · 2026-05-22 · under “tvk ஆட்சியில் மின்வெட்டு மக்கள் கருத்து🤣 | cm joseph vijay paavangal | Tamilnadu people” (TamilNadu People) · [link](https://www.youtube.com/watch?v=n_t8G5zDwj8&lc=Ugx7EZg-G-OdQOsSpbR4AaABAg)
+
+### Prices and cost of living
+
+- “இலவசப் மகளிர் பேருந்துப் பயணம் வேண்டாம் பயணச்சீட்டு விலையை குறையுங்கள். 1000ரூபாய் வேண்டாம் விலைவாசி உயர்வை கட்டுக்குள் கொண்டு வாருங்கள். இலவச சிலிண்டர்கள் வேண்டாம் சிலிண்டர் விலையை குறையுங்கள். அரசு அதிகாரிகளுக்கு…” · 113 likes · 2026-06-17 · under “வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி” (Polimer News) · [link](https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=Ugxnpy1SErMb1IhnZU94AaABAg)
+- “எங்களைப் போன்ற அடித்தட்டு மக்கள் நூறு ரூபாய்க்கு ஐநூறு ரூபாய்க்கும் தினமும் கஷ்டப்பட்டு வாழ்ந்துக் கொண்டிருக்கிறோம். ஆனால் இவ்வளோ பெரிய கடன் சுமையை எங்கள்மீது தள்ளி இந்த அரசு இன்னும் கஷ்டப்படுத்திிறது. இதனால் விலைவாசி…” · 78 likes · 2026-06-17 · under “வெள்ளை அறிக்கை வெளியிட்டது த.வெ.க. அரசு.. தமிழகத்தின் மொத்த கடன் ரூ.13.18 லட்சம் கோடி” (Polimer News) · [link](https://www.youtube.com/watch?v=W9ndB4xwU-s&lc=UgxFUbB0LzwcmamvGU14AaABAg)
+- “ஆவின் பாலை அழிக்க போறானுங்😢க” · 49 likes · 2026-11-05 · under “விஜயின் 6 மாத ஆட்சி| ஒரு தாய் மாமன் இப்படித்தான் இருப்பாரா?|Public Opinion||Vijay|NFT|” (News Focus Tamil) · [link](https://www.youtube.com/watch?v=g0w6D-ZwmYA&lc=UgwRHZBQk-ccBLLF7H54AaABAg)
+- “தயவு செஞ்சு free bus கேன்சல் பண்ணுங்க தங்க மோதிரம் திட்டம் கேன்சல் பண்ணுங்க 2500 ரூபாய் வேண்டாம் கல்வி மருத்துவம் விலைவாசி இதுல கவனம் செலுத்துங்கள் cm அண்ணா ப்ளீஸ் ஏழை எளிய மக்கள் கஷ்ட படுறாங்க 😢😢😢” · 35 likes · 2026-10-14 · under “விலைவாசி உயர்வு.. மக்கள் அதிர்ச்சி பேட்டி | price hike | Tamilnadu | CM Vijay” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=yaeC8nUa4s8&lc=Ugy0O3WIkA3aTOYcDh54AaABAg)
+- “எங்களுக்கு இலவசம் எதுமே வேணா இருக்கிற விலைவாசி ஏறாமல் இருந்தால் அதுவே போதும் கல்வியை தரமா குடுங்க மருத்துவ மும் தாரமா குடுங்க பேசிக்கா கிடைக்க வேண்டியது சுத்தமா குடுங்க அதுவே போதும்” · 31 likes · 2026-07-22 · under “மகளிருக்கு மாதம் ரூ.2,500! பட்ஜெட்டில் காத்திருக்கும் இன்ப அதிர்ச்சி! Women Scheme 2500…” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=bItBoX-b4VQ&lc=UgyAHP_p3WAoh2Mx-fJ4AaABAg)
+- “உங்களுக்கெல்லாம் அப்படி தான் வேண்டும். மாதம் 2000 ரூபாயாவது கிடைத்திருக்கும்.. விலைவாசி கட்டுக்குள் இருந்திருக்கும் மற்றம் வேண்டுமென்று தலையில் மண்ணை வாரி போட்டு கொண்டீர்களே .நல்லா அனுபவியுங்கள்...” · 24 likes · 2026-11-05 · under “விஜயின் 6 மாத ஆட்சி| ஒரு தாய் மாமன் இப்படித்தான் இருப்பாரா?|Public Opinion||Vijay|NFT|” (News Focus Tamil) · [link](https://www.youtube.com/watch?v=g0w6D-ZwmYA&lc=UgzDD0oteEy7R140tgB4AaABAg)
 
 ### Drugs
 
@@ -243,12 +234,21 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 
 ### Caste and religion
 
+- “"அமைதியே சக்திவாய்ந்த ஆயுதம். அதிகமாக பேசுவதைவிட, அமைதியாக செயல்பட்டு சாதிப்பதே உண்மையான வெற்றி. பொறுமை கடலைவிடப் பெரியது; பொறுமையும் நிதானமும் இருந்தால்தான் எந்த செயலையும் வெற்றிகரமாக நடைமுறைப்படுத்த முடியும்.…” · 14 likes · 2026-06-23 · under “CM Vijay Speech | பேரவையில் கடைசி 10 நிமிடம்.. அதிரவிட்ட CM பேச்சு” (Thanthi TV) · [link](https://www.youtube.com/watch?v=jeMbTLBlD4k&lc=UgxisyRKPNNLuQbAXQR4AaABAg)
 - “கோயில்களுக்கு போனாலும் , நடிகர்களை பார்க்க போனாலும், முதலில் நமது குடும்ப பாதுகாப்புதான் முக்கியம்,,,,,,! கவனமாக, நெரிசல் இல்லாத இடங்களில் பிள்ளை களுடன்நிற்கவேண்டும், எல்லா சம்பவங்களுக்கும் அரசு நிதி உதவி கிடைக்காது,” · 5 likes · 2026-07-10 · under “கரூர் கூட்ட நெரிசலில் உயிரிழந்தோரின் குடும்பத்திற்கு அரசு வேலை.. பொதுமக்களின் கருத்து CM…” (PuthiyathalaimuraiTV) · [link](https://www.youtube.com/watch?v=GQ1ELtfIOYc&lc=UgyA3R0SE2EqZPk0z4B4AaABAg)
 - “TVK SARKAR, Mass Gathering & CM Thalapathy Vijay Anna is Entered in Politics with Gd intensions not for Cash but for Gd cause🌀🇪🇸 He is Caste Religious Neutral Charismatic leader✨😇..!! . @… 🇮🇳 .” · 3 likes · 2026-08-23 · under “Makkal Mandram | CMVIjay | TVK | DMK | AIADMK | VCK | தவெக அரசின் 100 நாட்கள்..சாதனையா?…” (Thanthi TV) · [link](https://www.youtube.com/watch?v=8YgWXkbKyQ4&lc=UgzidwBF5PPRDoNQTM94AaABAg)
 - “பாமக எம்எல்ஏ கணேஷ் குமார் அண்ணன் உரை மிகத் தெளிவானது ஜாதி பார்க்காமல் பேசும் வார்த்தைகளை வாருங்கள் மக்களுக்கு மிகவும் பயனுள்ளது” · 3 likes · 2026-08-24 · under “Makkal Mandram | CMVIjay | TVK | DMK | AIADMK | VCK | தவெக அரசின் 100 நாட்கள்..சாதனையா?…” (Thanthi TV) · [link](https://www.youtube.com/watch?v=8YgWXkbKyQ4&lc=UgxszxiqomgaPwQLY5x4AaABAg)
 - “ஐயா நம்ம ஊர்ல எங்க பார்த்தாலும் பிரியாணி கடை - ரூ 150 முதல் 700 வரை எல்லோர் முகத்தில் மஞ்சள் பூசுவதில்லை - வர்ணம் தான வீட்டு சமையல் குறைவு... அரசு ஊழியர் சம்பளம், இந் நோவா கார் பெட்ரோல் மின்சார கட்டணம் ஓசி பஸ் செல்லும்…” · 2 likes · 2026-06-17 · under “என்ன சொல்கிறது தவெகவின் வெள்ளை அறிக்கை | Badri Seshadri | TVK White Paper | CM Vijay |…” (Kizhakku News) · [link](https://www.youtube.com/watch?v=AtN6vlh2egk&lc=Ugyio4H5IhMid3POw154AaABAg)
 - “சின்னப் பையன் நல்ல அறிவுடன் கதைக்கின்றான் தனது குடும்பம்,ஊர் மக்கள் ,வாழ்வாதாரம், கோயில் ,குளம் எல்லாவற்றையும் நேசிக்கின்றான் நல்லா வருவாய் மகனே மக்களின் CM நிச்சயம் உங்களுக்கு நல்லதே செய்வார் God bless all of you” · 1 likes · 2026-09-01 · under “CM Vijay | Parandur Airport | முதலமைச்சர் விஜய்க்கு நன்றி சொன்ன சிறுவன் ராகுல் | N18S” (News18 Tamil Nadu) · [link](https://www.youtube.com/watch?v=GwlIjg1LVB0&lc=Ugzj4_1yQVltdUFLNsN4AaABAg)
-- “விஜய் என்ன பன்னுவார் தெரியாது நல்லது மட்டுமே பண்ணுவார் நம்பி தான் vote all people இத ஜாதி அரசியல் மத அரசியலா மாத்திடாதிங்க” · 1 likes · 2026-06-19 · under “தவெகவின் ஒரு மாத ஆட்சி எப்படி இருக்கு : பொதுமக்கள் கருத்து | TVK one month public opinion” (அரசியல் பார்வை) · [link](https://www.youtube.com/watch?v=Tuh-OAztHsI&lc=Ugx1vLPwDo6mwIqFQUR4AaABAg)
+
+### Rain, flooding and drinking water
+
+- “தமிழ் நாட்டில் அனைத்து மூலைகளிலும் ஒந்த நிறுவனம் தண்ணீர் தர வேண்டும் மக்கள் செய்த தவறுக்கு தண்டனை” · 86 likes · 2026-07-12 · under “தவெக ஆட்சி - இறங்கி அடித்த இடும்பாவனம் கார்த்தி பேச ஆர்ப்பரித்த சீமான் தம்பிகள் |…” (Malaimurasu Tv 24X7) · [link](https://www.youtube.com/watch?v=PJExgwFPhfg&lc=UgwqyHC9sb8lB9Qurfl4AaABAg)
+- “Mazhai penja thanni nika kudathu... Atha onnu pannunga Tambaram la... Athu pothum ❤ vera ethum seiya venam” · 27 likes · 2026-05-21 · under “"God Gift" எமோஷனலாக பேசிய தவெக அமைச்சர் சரத்குமாரின் மனைவி | TVK Minister Sarathkumar |…” (NewsTamil 24X7) · [link](https://www.youtube.com/watch?v=j6yI81eyjf4&lc=UgwwkMmEYCgT6PaKIt94AaABAg)
+- “சிஎம் சார் நான் சொல்றேன்னு வருத்தப்பட்டு காமிங்க எங்கு சென்றாலும் இந்த 2500 வெள்ளை வெள்ளம் இதே புலம்பலாக இருக்கு நான் வீட்டை விட்டு கிளம்பி ஆபீஸ் போகும் வரை பஸ்ஸிலும் சரி இப்போது இடங்களிலும் தெரிகிறதே பல்வேறு தான்…” · 18 likes · 2026-07-26 · under “மகளிர் உரிமைத் தொகை ரூ 2500! ஆக.15-ல் விஜய் மாஸ் அறிவிப்பு? | #athiradiarivipugal #kmutt…” (ATHIRADI ARIVIPUGAL - அதிரடி அறிவிப்புகள்) · [link](https://www.youtube.com/watch?v=TPQGbEjRMNY&lc=UgzNYhvPHqNYyboDFU94AaABAg)
+- “விஞ்ஞான ஊழல் திருடன் தங்கம் தென்னரசு கடன் வாங்கியே அஞ்சு வருஷம் ஓட்டிடானுங்க இன்னொரு முறை திமுக ஜெயித்து வந்து இருந்தா25லட்சம் கோடி கடன் வந்திருக்கும் 4000 கோடி வடிகால் ஊழல் கல்குவாரி ஏல ஊழல் பள்ளிக்கல்வித்துறை…” · 17 likes · 2026-06-16 · under “#BREAKING | வெள்ளை அறிக்கை வெளியிட்ட தவெக அரசு... பதிலடி கொடுத்த திமுக” (Polimer News) · [link](https://www.youtube.com/watch?v=7rpcyVPYgQE&lc=UgyF9z50gnkyJUxhvCF4AaABAg)
+- “நாடகம் அரசாங்கம் ரீல்ஸ் ஆட்சி அதிகாரம் லாட்டரி சீட்டு ஆட்சி RSS BJP Hiv Aids முகமூடி அணிந்து ஆட்சி அதிகாரம் நடக்கிறது 20212022/23 வரை கோவிட் மழை வெள்ளம் புயல் காரணமாக அரசாங்கம் வருமானம் இல்லாமல் கடன் வாங்கி அரசாங்கம்…” · 5 likes · 2026-06-16 · under ““ரூ.13 லட்சம் கோடி கடன்" - TN White Paperஐ வெளியிட்ட TVK Govt; DMKவின் ஊழலால் காலியானதா…” (DW தமிழ்) · [link](https://www.youtube.com/watch?v=8YHXN8h0jhM&lc=UgywzAxKVLMgJtcYPkl4AaABAg)
+- “சூயஸ் பிரஞ்சு நிறுவனத்துக்கு கொங்கு மண்டல தண்ணீர் பகிர்மானத்தை கொடுத்தது இந்த தவெக அரசு” · 2 likes · 2026-07-14 · under “தவெக ஆட்சி - இறங்கி அடித்த இடும்பாவனம் கார்த்தி பேச ஆர்ப்பரித்த சீமான் தம்பிகள் |…” (Malaimurasu Tv 24X7) · [link](https://www.youtube.com/watch?v=PJExgwFPhfg&lc=Ugxcm6xfI3tgZmSScJ14AaABAg)
 
 ### Government staff, teachers, old pension
 
@@ -272,12 +272,12 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 
 | Party | People | Posts | Naming only this party | Praise words | Criticism words |
 |---|---:|---:|---:|---:|---:|
-| TVK / Vijay | 920 | 964 | 846 | 197 | 34 |
-| DMK / Stalin | 408 | 425 | 285 | 28 | 11 |
-| AIADMK / EPS | 90 | 90 | 15 | 3 | 0 |
-| BJP / Centre | 30 | 30 | 9 | 0 | 0 |
-| NTK / Seeman | 107 | 115 | 100 | 26 | 4 |
-| Congress | 21 | 22 | 15 | 2 | 1 |
+| TVK / Vijay | 919 | 962 | 843 | 207 | 34 |
+| DMK / Stalin | 407 | 423 | 281 | 28 | 11 |
+| AIADMK / EPS | 89 | 89 | 14 | 3 | 0 |
+| BJP / Centre | 30 | 30 | 10 | 0 | 0 |
+| NTK / Seeman | 108 | 116 | 101 | 26 | 4 |
+| Congress | 23 | 24 | 15 | 2 | 1 |
 | VCK / Left | 13 | 13 | 6 | 2 | 0 |
 | PMK | 3 | 3 | 2 | 0 | 0 |
 
@@ -285,17 +285,17 @@ Generated 2026-11-11T07:16+00:00 UTC · window 2026-05-10 to 2026-11-10
 
 | Month | Posts | Praise words | Criticism words | TVK-only: praise | TVK-only: criticism | Top themes |
 |---|---:|---:|---:|---:|---:|---|
-| 2026-05 | 781 | 124 | 28 | 30 | 3 | Rs 2,500 for women and other cash promises, Welfare schemes, ration, pensions, Jobs, Votes, cash for votes, elections |
-| 2026-06 | 1,532 | 215 | 63 | 35 | 7 | State debt and finances, Welfare schemes, ration, pensions, Corruption and bribes, Rain, flooding and drinking water |
-| 2026-07 | 847 | 119 | 31 | 16 | 6 | Jobs, Welfare schemes, ration, pensions, Rs 2,500 for women and other cash promises, Votes, cash for votes, elections |
-| 2026-08 | 1,286 | 320 | 42 | 92 | 8 | Welfare schemes, ration, pensions, Corruption and bribes, Farmers, Investment and industry |
+| 2026-05 | 719 | 119 | 28 | 26 | 3 | Rs 2,500 for women and other cash promises, Welfare schemes, ration, pensions, Jobs, Votes, cash for votes, elections |
+| 2026-06 | 1,599 | 247 | 63 | 47 | 7 | State debt and finances, Welfare schemes, ration, pensions, Corruption and bribes, Votes, cash for votes, elections |
+| 2026-07 | 906 | 124 | 31 | 18 | 6 | Jobs, Votes, cash for votes, elections, Welfare schemes, ration, pensions, Rs 2,500 for women and other cash promises |
+| 2026-08 | 1,291 | 321 | 42 | 92 | 8 | Welfare schemes, ration, pensions, Corruption and bribes, Farmers, Investment and industry |
 | 2026-09 | 273 | 83 | 5 | 9 | 0 | Votes, cash for votes, elections, Welfare schemes, ration, pensions, Caste and religion, Corruption and bribes |
-| 2026-10 | 350 | 41 | 12 | 8 | 2 | Welfare schemes, ration, pensions, Prices and cost of living, Votes, cash for votes, elections, Corruption and bribes |
-| 2026-11 | 461 | 85 | 30 | 7 | 8 | Votes, cash for votes, elections, Law and order, safety, Centre v state, Governor, language, Prices and cost of living |
+| 2026-10 | 282 | 37 | 11 | 8 | 2 | Welfare schemes, ration, pensions, Corruption and bribes, Votes, cash for votes, elections, Prices and cost of living |
+| 2026-11 | 442 | 84 | 29 | 7 | 8 | Law and order, safety, Votes, cash for votes, elections, Centre v state, Governor, language, Corruption and bribes |
 
-## Unmatched posts (2,990): commonest words
+## Unmatched posts (3,002): commonest words
 
-super (129), மக்கள் (122), நன்றி (62), எல்லாம் (61), சூப்பர் (60), நீங்க (57), good (56), ஆட்சி (49), people (48), speech (48), நல்ல (48), வாழ்த்துக்கள் (47), இன்னும் (46), இப்படி (45), தம்பி (43), மக்களுக்கு (42), தமிழ் (40), பேச்சு (34), எப்படி (32), correct (31), enna (31), should (30), news (30), மாதிரி (30), அரசு (29), அமைச்சர் (29), நல்லா (28), அரசியல் (28), அண்ணன் (28), minister (27), பணம் (27), enga (27), government (27), உண்மை (27), மிகவும் (26), எந்த (26), current (25), போய் (25), அருமை (25), எங்களுக்கு (25), illa (25), nalla (25), உள்ளது (25), ரொம்ப (24), தமிழ்நாடு (24), best (23), இல்ல (23), மக்களை (23), கார்த்திக் (23), கொண்டு (23), பதில் (23), years (23), romba (23), உள்ள (23), அம்மா (23), tamil (22), போல் (22), இருக்கிறது (22), neenga (22), money (22), time (21), முடியாது (21), bill (21), thank (21), airport (21), பேச (20), இதை (20), இருந்து (20), excellent (20), என்பது (20), என்றால் (20), chennai (19), video (19), பாவம் (19), செய்து (19), வாழ்க (19), இப்ப (19), nice (19), iruku (19), முதல்வர் (19)
+super (137), மக்கள் (121), சூப்பர் (64), நன்றி (62), எல்லாம் (59), good (56), நீங்க (56), speech (54), ஆட்சி (51), வாழ்த்துக்கள் (51), நல்ல (48), people (47), இப்படி (46), இன்னும் (45), தம்பி (44), மக்களுக்கு (43), தமிழ் (41), பேச்சு (35), மாதிரி (33), எப்படி (32), news (30), அரசு (30), அமைச்சர் (30), enna (30), நல்லா (29), minister (28), should (28), அரசியல் (28), அண்ணன் (28), correct (28), உண்மை (28), மிகவும் (27), போய் (26), எங்களுக்கு (26), பணம் (26), government (26), எந்த (26), அருமை (25), nalla (25), உள்ளது (25), enga (25), மக்களை (24), ரொம்ப (24), தமிழ்நாடு (24), illa (24), best (23), இருக்கிறது (23), கார்த்திக் (23), கொண்டு (23), பதில் (23), உள்ள (23), அம்மா (23), time (22), tamil (22), இல்ல (22), போல் (22), excellent (22), romba (22), money (22), years (22), போட்டு (21), பேச (21), முதல்வர் (21), thank (21), neenga (21), airport (21), video (20), முடியாது (20), congratulations (20), என்பது (20), என்றால் (20), chennai (19), பாவம் (19), இதை (19), நாடு (19), என் (19), மாற்றம் (19), செய்து (19), வாழ்க (19), இப்ப (19)
 
 ## Copy-paste text (left out of the counts)
 
@@ -305,27 +305,27 @@ super (129), மக்கள் (122), நன்றி (62), எல்லாம�
 
 - NewsTamil 24X7: 538
 - PuthiyathalaimuraiTV: 522
+- Thanthi TV: 349
 - Gem Television: 298
-- Thanthi TV: 266
 - Malaimurasu Tv 24X7: 250
 - Sathiyam News: 240
-- MEDIA FILES: 226
 - Kizhakku News: 185
 - Patch work 2.0: 179
 - Polimer News: 175
 - Color Kannadi Voice: 161
 - DW தமிழ்: 159
 - Behindwoods O2: 153
+- MEDIA FILES: 140
+- Star Talks Tamil: 131
 - ABP Nadu: 123
 - Nakkheeran TV : 120
 - BBC News Tamil: 106
 - Saattai: 97
 - Tamil Janam: 89
 - Tarun Kumar Kedia: 87
-- Tamilkaviswasan: 87
 
 ## Platform notes
 
-- **youtube**: videos_read: 90, units_used: 1901, units_cap: 2600, channels: {'PuthiyathalaimuraiTV': 8, 'NewsTamil 24X7': 8, 'Gem Television': 5, 'Malaimurasu Tv 24X7': 4, 'Sathiyam News': 4, 'Thanthi TV': 4, 'MEDIA FILES': 3, 'Patch work 2.0': 3, 'ABP Nadu': 3, 'Behindwoods O2': 2, 'Kizhakku News': 2, 'BBC News Tamil': 2, 'Polimer News': 2, 'DW தமிழ்': 2, 'Color Kannadi Voice': 2, 'Nakkheeran TV ': 2, 'Tarun Kumar Kedia': 1, 'Saattai': 1, 'Tamilkaviswasan': 1, 'Tamil Fleet Media': 1, 'NewsJ': 1, 'The Expose': 1, 'TamilNadu People': 1, 'Behindwoods News': 1, 'IshfaqAW ': 1}
+- **youtube**: videos_read: 90, units_used: 1901, units_cap: 2600, channels: {'PuthiyathalaimuraiTV': 8, 'NewsTamil 24X7': 8, 'Gem Television': 5, 'Thanthi TV': 5, 'Malaimurasu Tv 24X7': 4, 'Sathiyam News': 4, 'Patch work 2.0': 3, 'ABP Nadu': 3, 'Behindwoods O2': 2, 'MEDIA FILES': 2, 'Kizhakku News': 2, 'Star Talks Tamil': 2, 'BBC News Tamil': 2, 'Polimer News': 2, 'DW தமிழ்': 2, 'Color Kannadi Voice': 2, 'Nakkheeran TV ': 2, 'Tarun Kumar Kedia': 1, 'Saattai': 1, 'Tamilkaviswasan': 1, 'Tamil Fleet Media': 1, 'NewsJ': 1, 'The Expose': 1, 'TamilNadu People': 1, 'Behindwoods News': 1}
 - **reddit**: skipped: REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET are not set
 - **x**: skipped: X search is off (it is paid per post; set VOICES_X_ENABLED=true to allow it)
