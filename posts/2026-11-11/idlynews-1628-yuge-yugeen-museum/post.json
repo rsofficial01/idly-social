@@ -1,0 +1,46 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1628-yuge-yugeen-museum",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Press Information Bureau",
+    "ETV Bharat",
+    "ThePrint",
+    "DD News"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "North and South Block Museum Gets ₹3,230 Crore Nod",
+      "photo": "_work/2026-11-11-hourly-1628/news/framing/yybm/cover_source.png",
+      "photo_credit": "Photo: Ankur Panchbudhe / Wikimedia Commons, CC BY 2.0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "LATE 2027",
+      "stat_label": "Museum's First Gallery Due in North Block",
+      "bullets": [
+        "Its theme is Adornment; more galleries added later",
+        "Whole project built in phases through FY 2030-31",
+        "PMO's February move freed South Block for the museum"
+      ],
+      "credit_line": "Sources: Press Information Bureau, ETV Bharat, ThePrint, DD News"
+    },
+    {
+      "type": "detail",
+      "stat": "1 CRORE",
+      "stat_label": "Visitors a Year the Museum Is Built For",
+      "bullets": [
+        "About 18 lakh objects identified for display",
+        "Galleries planned: astronomy, scripts, faith, trade, architecture",
+        "Union Minister Vaishnaw: world's largest museum display area"
+      ],
+      "credit_line": "Sources: Press Information Bureau, ETV Bharat"
+    }
+  ]
+}

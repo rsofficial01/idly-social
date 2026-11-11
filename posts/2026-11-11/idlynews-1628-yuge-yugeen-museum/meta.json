@@ -1,0 +1,91 @@
+{
+ "account": "idlynews",
+ "title": "Cabinet (CCEA, 11 Nov 2026) approves ₹3,230 crore for the Yuge Yugeen Bharat Museum at North and South Block, New Delhi (cost appraised by the Public Investment Board); first gallery (Adornment) due in North Block in late 2027; phased build FY 2026-27 to FY 2030-31; built for 1 crore visitors a year; ~18 lakh objects identified; Vaishnaw: world's largest display area; PMO moved to Seva Teerth Feb 2026",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Press Information Bureau",
+   "date": "11 Nov 2026 (3:05 PM)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1"
+  },
+  {
+   "outlet": "ETV Bharat",
+   "date": "11 Nov 2026 (4:15 PM)",
+   "url": "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  },
+  {
+   "outlet": "ThePrint (PTI)",
+   "date": "11 Nov 2026 (3:46 PM)",
+   "url": "https://theprint.in/india/cabinet-nod-to-development-of-yuge-yugeen-bharat-museum-at-north-and-south-block-complex/3095977/"
+  },
+  {
+   "outlet": "ThePrint",
+   "date": "12 Feb 2026",
+   "url": "https://theprint.in/india/modi-to-chair-last-cabinet-meeting-in-south-block-before-pmo-shift/2852720/"
+  },
+  {
+   "outlet": "DD News",
+   "date": "14 Feb 2026",
+   "url": "https://ddnews.gov.in/en/cabinet-approves-transition-of-north-south-blocks-into-yuge-yugeen-bharat-national-museum/"
+  }
+ ],
+ "fact_sources": {
+  "CCEA chaired by PM Modi approved YYBM at North and South Block for ₹3,230 crore on Wed 11 Nov; adaptive reuse": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://theprint.in/india/cabinet-nod-to-development-of-yuge-yugeen-bharat-museum-at-north-and-south-block-complex/3095977/",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "Cost appraised by the Public Investment Board": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://theprint.in/india/cabinet-nod-to-development-of-yuge-yugeen-bharat-museum-at-north-and-south-block-complex/3095977/"
+  ],
+  "First gallery (Adornment) to open in North Block in the later part of 2027; more galleries added modularly": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "Phased implementation FY 2026-27 to FY 2030-31": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "Built for 1 crore visitors a year": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "About 1.8 million (18 lakh) objects identified (National Museum, Culture Ministry museums, 52 ASI site museums, state museums, private collections)": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "Gallery themes: Architecture and Cityscapes, Mathematics and Astronomy, Languages and Scripts, Faith and Spirituality, Bharat Connects (Trade and Ideas)": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139"
+  ],
+  "Vaishnaw: 'the largest display area in the world' (attributed claim)": [
+   "https://www.etvbharat.com/en/bharat/cabinet-nod-to-yuge-yugeen-bharat-museum-in-national-capital-to-showcase-indias-civilizational-heritage-enn26111104139",
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1 (release text)",
+   "https://theprint.in/india/cabinet-nod-to-development-of-yuge-yugeen-bharat-museum-at-north-and-south-block-complex/3095977/ ('billed to be')"
+  ],
+  "Announced by the PM on 18 May 2023": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961&reg=3&lang=1",
+   "https://theprint.in/india/cabinet-nod-to-development-of-yuge-yugeen-bharat-museum-at-north-and-south-block-complex/3095977/"
+  ],
+  "PMO moved out of South Block to Seva Teerth in February 2026 (inaugurated 13 Feb)": [
+   "https://theprint.in/india/modi-to-chair-last-cabinet-meeting-in-south-block-before-pmo-shift/2852720/",
+   "https://ddnews.gov.in/en/cabinet-approves-transition-of-north-south-blocks-into-yuge-yugeen-bharat-national-museum/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:North_%26_South_Block,_New_Delhi_(29473956940).jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/8/84/North_%26_South_Block%2C_New_Delhi_%2829473956940%29.jpg (1944x3456 original, saved unaltered as _work/2026-11-11-hourly-1628/news/photos/north-south-block-panchbudhe.jpg; sha256 c4fc0d20934c61753c13a8aed9789da820e12c46688ab27b83e142dbfe4a8505)",
+  "licence": "CC BY 2.0",
+  "author": "Ankur Panchbudhe (Flickr: ankurp), transferred to Commons by Vis M",
+  "description": "South Block, New Delhi: main dome and turrets, facade and red 'South Block' sign; taken 10 Sep 2016; no people",
+  "size": "1944x3456",
+  "crop": "pipeline.framing: full-bleed 4:5, focal [0.5,0.5], zoom 1.0, scale 0.56 (downscale), faces 0 -> _work/2026-11-11-hourly-1628/news/framing/yybm/cover_source.png",
+  "viewed": true
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is a Commons/Flickr photo by an individual, not a brand or official account.",
+ "baseline_note": "Not a Tamil Nadu story; no baseline exists for Delhi."
+}
