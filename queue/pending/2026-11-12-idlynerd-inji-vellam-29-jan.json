@@ -1,0 +1,45 @@
+{
+  "account": "idlynerd",
+  "story_id": 2013,
+  "idly_article": true,
+  "title": "Mani Ratnam's Inji Vellam (Vijay Sethupathi, Sai Pallavi) in cinemas worldwide on 29 Jan 2027, makers Madras Talkies and Lyca Productions announce (11 Nov 2026)",
+  "headline": "Mani Ratnam's Inji Vellam Hits Cinemas On 29 January 2027",
+  "caption": "Mani Ratnam's Inji Vellam opens in cinemas worldwide on Friday, 29 January 2027, the makers, Madras Talkies and Lyca Productions, announced on Wednesday.\n\nThe romantic drama is the first film to pair Vijay Sethupathi and Sai Pallavi, with music by A.R. Rahman. It was shot in Kolkata, and India Talkies co-produces.\n\nWhich Mani Ratnam love story do you still go back to?\n\nFull story on idly.news (link in bio).\n\nSources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India\n\n#InjiVellam #ManiRatnam #TamilCinema #Kollywood #idlynerd",
+  "alt_text": "Slide 1: the official image from the Inji Vellam title teaser video (Sony Music South), under the headline \"Mani Ratnam's Inji Vellam Hits Cinemas On 29 January 2027\". Slide 2: \"1ST\", the first film together for Vijay Sethupathi and Sai Pallavi; A.R. Rahman scores Inji Vellam, reuniting with Mani Ratnam; a Tamil romantic drama, shot in Kolkata. Sources: IANS, The Hollywood Reporter India, Pinkvilla, IBTimes India.",
+  "sources": [
+    "IANS",
+    "The Hollywood Reporter India",
+    "Pinkvilla",
+    "IBTimes India"
+  ],
+  "detail_slides": [
+    {
+      "stat": "1ST",
+      "stat_label": "Film Together For Vijay Sethupathi And Sai Pallavi",
+      "bullets": [
+        "A.R. Rahman scores Inji Vellam, reuniting with Mani Ratnam",
+        "A Tamil romantic drama, shot in Kolkata"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=5i73lHN4Bpw"
+  },
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 2: date on the cover plus the Mani Ratnam / Sethupathi-Sai Pallavi / Rahman combination. read 2: two short slides, each fact once. send 2: fans of the pair and of Ratnam-Rahman. keep 2: release date. reply 2: rewatch question from readers' own lives. original 1: lane thumbnail from the uploader, straight announcement. alone 2: names and date on the cards."
+    }
+  },
+  "created_at": "2026-11-11T23:59:04+05:30",
+  "notes": "format: news. Gate 1 PASS and Gate 2+3 FIX applied (slide 2 names the film; 'Tamil' sourced to THR India + Filmibeat) (blind reviewer, run 2327); Gate 1 fixes: no Netflix line, 'shot in Kolkata', no Pongal/Pocket Novel claim, no Thug Life line, attributed to the makers Madras Talkies and Lyca Productions. Image: youtube_official 5i73lHN4Bpw only ('Madras Talkies PC 23 - Title Teaser Video'); oEmbed author_url https://www.youtube.com/@SonyMusicSouthOfficial (allowlisted 'Sony Music South'), checked 11 Nov; the only official upload (others are fan channels). Expected credit 'Image: Sony Music South (official teaser)' (video_kind sees 'Teaser'). No fallback by design; reviewer will HOLD at Gate 4 on burned-in title lettering, a face under the logo or cut off, or visible grain. No tags: the Sony Music South Instagram handle is not confirmed. story false: Stories paused."
+}
