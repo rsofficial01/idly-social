@@ -1,0 +1,59 @@
+{
+ "account": "idlyhype",
+ "title": "Space Jam 30th-anniversary Jordans listed at Indian stores (checked 11 Nov 2026): Jordan Hydro XI 'Space Jam' slides ₹4,995 (Superkicks, VegNonVeg); Air Jordan 1 Low SE 'Magic Ball' ₹11,495 (Superkicks, VegNonVeg); Air Jordan 1 Mid SE 'Space Jam' IX6374-001 ₹12,495 (Superkicks, VegNonVeg); Air Jordan 3 Retro SE 'Lola Bunny' IZ1694-600, kids' sizes, ₹12,495 (VegNonVeg); Jordan Spizike Low 'Jam Central' ₹15,995 (Superkicks); AJ11 'Green Screen' and Women's AJ11 'Magic Ball' not listed in India as of 11 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "format": "list",
+ "sources": [
+  "https://www.superkicks.in/products/jordan-hydro-xi-space-jam-black-varsity-royal-white-blue-tint",
+  "https://www.vegnonveg.com/products/jordan-hydro-xi-retro-blackvarsity-royal-white-blue-tint",
+  "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-magic-ball-black-metallic-silver-action-green",
+  "https://www.vegnonveg.com/products/jordan-air-jordan-1-low-se-blackmetallic-silver-action-green",
+  "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-space-jam-black-yellow-zest-action-green",
+  "https://www.vegnonveg.com/products/jordan-air-jordan-1-mid-se-space-jam-blackyellow-zest-action-green",
+  "https://www.nike.com/t/air-jordan-1-mid-se-space-jam-mens-shoes-OtgyIYLD/IX6374-001",
+  "https://www.vegnonveg.com/products/jordan-air-jordan-3-retro-se-light-soft-pinksunset-pulse-white",
+  "https://www.highsnobiety.com/p/jordan-3-space-jam-lola-bunny/",
+  "https://www.superkicks.in/products/jordan-spizike-low-jam-central-black-atomic-orange-green-strike",
+  "https://www.complex.com/style/a/mike-destefano/space-jam-vintage-merch-30th-anniversary",
+  "https://en.wikipedia.org/wiki/Space_Jam"
+ ],
+ "fact_sources": {
+  "Space Jam turns 30 this week (1996 film)": [
+   "https://www.complex.com/style/a/mike-destefano/space-jam-vintage-merch-30th-anniversary",
+   "https://en.wikipedia.org/wiki/Space_Jam"
+  ],
+  "Range celebrates 30 years of Space Jam": [
+   "Superkicks product descriptions (AJ1 Mid SE, AJ1 Low SE, Spizike, Hydro XI, Brooklyn tee)",
+   "https://www.highsnobiety.com/p/jordan-3-space-jam-lola-bunny/"
+  ],
+  "Prices": "Superkicks (Shopify product .js, 05:23 UTC 11 Nov) and VegNonVeg (product page JSON price, 05:23 UTC 11 Nov) as tabled in g234.md",
+  "Superkicks sizes in stock 11 Nov": "Superkicks product .js variant availability, 05:23 UTC: Hydro XI UK 6-12; AJ1 Low SE out UK 8, 12; AJ1 Mid SE out UK 10; Spizike UK 6-12",
+  "Hare Jumpman on Spizike tongue": [
+   "https://www.superkicks.in/products/jordan-spizike-low-jam-central-black-atomic-orange-green-strike"
+  ],
+  "AJ11 Green Screen / Women's AJ11 Magic Ball not listed in India as of 11 Nov": "Checked Superkicks product feed and Releases page, VegNonVeg new-ins footwear and 'space jam' search, nike.in homepage Fresh Drops, 11 Nov",
+  "Lola Bunny kids' sizes, part of the Space Jam 30th-anniversary range": [
+   "https://www.vegnonveg.com/products/jordan-air-jordan-3-retro-se-light-soft-pinksunset-pulse-white",
+   "https://www.highsnobiety.com/p/jordan-3-space-jam-lola-bunny/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.nike.com/t/air-jordan-1-mid-se-space-jam-mens-shoes-OtgyIYLD/IX6374-001",
+  "file": "https://static.nike.com/a/images/t_PDP_1728_v1/f_jpg,q_90,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4d36895d-73f2-4453-a4b0-2f22316341e0/AIR+JORDAN+1+MID+SE+V4.png",
+  "licence": "Nike's own studio product image on Nike's official product page (nike.com); official brand image, editorial use, credited",
+  "author": "Nike",
+  "credit": "Image: Nike",
+  "subject": "Air Jordan 1 Mid SE 'Space Jam' (IX6374-001), lateral side view on Nike's plain grey studio gradient; product only, no people, no watermark",
+  "viewed": true,
+  "processing": "original 1728x2160 JPEG (sha1 9699db124fbe7f2f713d12dbc474e016549f9e23) saved as _work/2026-11-11-hourly-1029/idlyhype/photos/aj1mid-spacejam-4d36895d.jpg; pipeline.framing: ok, 0 faces, focal 0.5/0.5, zoom 1.0, upscale 0.62 (downscale only) -> framing-aj1mid/cover_source.png (1728x2160, sha1 0d4a0eef6a100f8496326c98a91040c436f76827); cardkit scales to 1080x1350; shoe at about x 72-1008, y 467-979; headline 2 lines below the sole; no other edits"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: no Jordan/Nike India Instagram handle found on nike.com pages fetched; stockists are not the image owner (reviewer fix 8: no tag).",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer). Not a repeat (new India-price angle, different lead pair); post must not mention the 10 Nov post. Fixes applied: 2-line headline ('Space Jam Jordans in India From ₹4,995', since the range headline wrapped to 3 lines); every slide names pair, store and ₹ price; 'listed at' and 'sizes in stock on 11 Nov', no 'out now'; Lola Bunny 'kids' sizes', VegNonVeg only, no UK range; AJ11 Green Screen and Women's AJ11 Magic Ball 'not listed in India as of 11 Nov'; no exact anniversary day; question about first watching Space Jam; Sources: Superkicks, VegNonVeg, Nike, Highsnobiety; format list; no tag; 'Image: Nike' last. C2 adidas x SP5DER and C3 UNIQLO x Cecilie Bahnsen DROP.",
+  "g23": "Layout PASS on all six slides (blind reviewer). Fixes applied: slide 05 insole line and 21 Nov Nike date cut (one source; conflicting dates), replaced with 'Part of Jordan's Space Jam 30th-anniversary range'; same claims removed from alt.txt, title and fact_sources; curly quotes on colourway names on every slide (straight quote touched the J of 'Jam Central'). A hair space after the opening quote on slide 06 keeps it clear of the J (measured: quote x 560-570, J from x 573).",
+  "g4": "pending"
+ }
+}

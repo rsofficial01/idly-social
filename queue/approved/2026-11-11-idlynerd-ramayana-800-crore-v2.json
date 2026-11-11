@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "send 1: a box-office milestone that fans forward to the group chat, plausible but not a must-send; the Kannada No. 2 line helps a little. keep 1: no price, date or deadline readers can act on; the language split is interesting, not keepable; the JioHotstar pay-per-view line is caption-only, with no date or price. Copy is unchanged from what passed Gate 2 (Sacnilk figures verified at Gate 1: WW 823.50 = 526.50 + 297; net 440.45; Mon 107.50; Tue 94.10; six-day languages 336/41.20/33/17.35/12.90; Bollywood Hungama Monday 103.47). Image: redefine.co (allowlisted, ReDefine (Prime Focus)) og:image RAMA_02.png 4096x2160, the 'The Journey Begins with RAMA' first-look still of Rama in crown and tilak, so it reads as Ramayana. No burned-in lettering, title card or watermark. Downscaled 0.638, sharp. Full-bleed, no letterbox, blur or extension. One face at cover y 336-692 (inside 190-702), whole, not cut by an edge, well above the headline (top 956). Headline: 3 lines, white, legible over the gradient, one left edge; 'Days' ends ~20 px short of the vertical credit, which is present and readable. Minor: the crown's top finial sits just under the 'nerd.' logo (y ~85-110); the logo stays legible (shadow) and the face is clear; there's no headroom to lower it (crop top is y 42). Slides 02 and 03: white Title Case labels, shared left edge, no overflow, no credit_collision (render report), 'Source: Sacnilk' on both. caption_final ends 'Image: ReDefine (Prime Focus)'; caption_errors and caption_warnings empty. No tag: correct, the image isn't DNEG's. I didn't open spec.json."
+  },
+  "reviewed_at": "2026-11-11T05:33:02+00:00",
+  "reviewed_by": "blind reviewer, hourly 1029",
+  "notes": "Gate 4 PASS 12/14 (blind); self 13; lower = 12. No tag (ReDefine image)."
+}

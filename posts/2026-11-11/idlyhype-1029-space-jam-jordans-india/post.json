@@ -1,0 +1,77 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1029-space-jam-jordans-india",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Nike",
+  "Highsnobiety"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Space Jam Jordans in India From ₹4,995",
+   "photo": "_work/2026-11-11-hourly-1029/idlyhype/framing-aj1mid/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,995",
+   "stat_label": "Jordan Hydro XI ‘Space Jam’ Slides",
+   "bullets": [
+    "Listed at Superkicks and VegNonVeg, same price",
+    "Cushioned slides with adjustable straps for everyday wear",
+    "Superkicks sizes in stock on 11 Nov: UK 6–12"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg"
+  },
+  {
+   "type": "detail",
+   "stat": "₹11,495",
+   "stat_label": "Air Jordan 1 Low SE ‘Magic Ball’",
+   "bullets": [
+    "Listed at Superkicks and VegNonVeg, same price",
+    "Superkicks: UK 8, 12 sold out by 11 Nov"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg"
+  },
+  {
+   "type": "detail",
+   "stat": "₹12,495",
+   "stat_label": "Air Jordan 1 Mid SE ‘Space Jam’",
+   "bullets": [
+    "The cover pair, listed at Superkicks and VegNonVeg",
+    "Superkicks: only UK 10 sold out by 11 Nov",
+    "Style code IX6374-001, to match the right pair"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike"
+  },
+  {
+   "type": "detail",
+   "stat": "₹12,495",
+   "stat_label": "Air Jordan 3 Retro SE ‘Lola Bunny’",
+   "bullets": [
+    "Listed at VegNonVeg only, in kids' sizes",
+    "Part of Jordan's Space Jam 30th-anniversary range"
+   ],
+   "credit_line": "Sources: VegNonVeg, Highsnobiety"
+  },
+  {
+   "type": "detail",
+   "stat": "₹15,995",
+   "stat_label": "Jordan Spizike Low ‘ Jam Central’",
+   "bullets": [
+    "Listed at Superkicks only",
+    "A Hare Jumpman on the tongue marks the anniversary",
+    "Superkicks sizes in stock on 11 Nov: UK 6–12"
+   ],
+   "credit_line": "Source: Superkicks"
+  }
+ ]
+}
