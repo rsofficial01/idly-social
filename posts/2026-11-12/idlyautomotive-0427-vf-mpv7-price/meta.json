@@ -1,0 +1,123 @@
+{
+ "account": "idlyautomotive",
+ "title": "VinFast VF MPV 7 (seven-seat electric MPV, India) costs ₹20.39 lakh ex-showroom, ₹4.1 lakh below its ₹24.49 lakh launch price (launched 15 Apr 2026); price cut reported 4 Nov 2026 (Autocar India 4 Nov, Business Today 5 Nov), no end date announced; still listed at ₹20.39 lakh on CarWale, CarDekho and ZigWheels model pages read 12 Nov 2026; one fully loaded variant; 60.13 kWh, 517 km claimed (ARAI), 10-70% DC in 30 min, 150 kW / 280 Nm FWD, seven seats, up to 1,240 litres (VinFast India release 15 Apr 2026)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Autocar India",
+   "date": "4 Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/vinfast-vf-mpv7-prices-slashed-by-over-rs-4-lakhs-441235"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "5 Nov 2026, 13:39 IST",
+   "url": "https://www.businesstoday.in/auto/story/good-news-for-ev-buyers-vinfasts-vf-mpv-7-becomes-rs4-lakh-cheaper-heres-how-much-it-costs-now-565871-2026-11-05"
+  },
+  {
+   "outlet": "CarWale (VF MPV 7 model page; 'Price Cut 11 Nov 2026' update entry)",
+   "date": "read 12 Nov 2026, ~05:40 IST",
+   "url": "https://www.carwale.com/vinfast-cars/vf-mpv-7/"
+  },
+  {
+   "outlet": "CarDekho (VF MPV 7 model page)",
+   "date": "read 12 Nov 2026, ~05:40 IST",
+   "url": "https://www.cardekho.com/vinfast/vf-mpv-7"
+  },
+  {
+   "outlet": "ZigWheels (VF MPV 7 model page, 'Updated: November 2026')",
+   "date": "read 12 Nov 2026, ~05:40 IST",
+   "url": "https://www.zigwheels.com/vinfast-cars/vf-mpv-7/"
+  },
+  {
+   "outlet": "VinFast (India launch press release, investor-relations newsroom)",
+   "date": "15 Apr 2026",
+   "url": "https://vinfastauto.us/investor-relations/news/vinfast-launches-the-all-new-vf-mpv-7-a-spacious-electric-seven-seater-for"
+  },
+  {
+   "outlet": "Rushlane (launch price)",
+   "date": "15 Apr 2026",
+   "url": "https://www.rushlane.com/vinfast-vf-mpv-7-launch-price-rs-24-49-lakh-517-km-range-7-seater-12544201.html"
+  }
+ ],
+ "fact_sources": {
+  "₹20.39 lakh ex-showroom now": [
+   "Autocar India 4 Nov",
+   "Business Today 5 Nov",
+   "CarWale model page (read 12 Nov; update dated 11 Nov)",
+   "CarDekho model page (read 12 Nov)",
+   "ZigWheels model page (read 12 Nov)"
+  ],
+  "₹4.1 lakh less than the ₹24.49 lakh launch price": [
+   "Autocar India",
+   "Business Today",
+   "CarDekho",
+   "CarWale"
+  ],
+  "launched 15 April 2026 at ₹24.49 lakh": [
+   "VinFast release 15 Apr (date)",
+   "Rushlane 15 Apr",
+   "CarWale timeline",
+   "Autocar India model page timeline"
+  ],
+  "cut on 4 Nov; no end date announced": [
+   "Autocar India 4 Nov (no time limit mentioned)",
+   "CarDekho timeline (4 Nov)",
+   "Business Today (not framed as a limited-period offer)"
+  ],
+  "one fully loaded variant": [
+   "Autocar India",
+   "CarWale",
+   "CarDekho"
+  ],
+  "60.13 kWh, 517 km claimed (ARAI)": [
+   "VinFast release",
+   "Autocar India",
+   "Business Today",
+   "CarDekho"
+  ],
+  "10-70% DC fast charge in 30 minutes": [
+   "VinFast release",
+   "CarWale"
+  ],
+  "150 kW, 280 Nm, front-wheel drive": [
+   "VinFast release",
+   "Autocar India (204 hp / 280 Nm front motor)"
+  ],
+  "seven seats; up to 1,240 litres with rear rows folded": [
+   "VinFast release",
+   "CarWale"
+  ],
+  "Autocar India linked the cut to slow sales (attributed)": [
+   "Autocar India"
+  ]
+ },
+ "image": {
+  "page": "https://vinfastauto.us/investor-relations/news/vinfast-officially-launches-vf-mpv-7-in-the-philippines",
+  "file_url": "https://static-cms-prod.vinfastauto.us/statics/fields/images/news-investor/photo-1-33.jpg",
+  "author": "VinFast (official press release image, VF MPV 7 Philippines launch release, Manila, 5 May 2026)",
+  "licence": "Official press image, editorial use with credit",
+  "size": "1920x1271",
+  "local": "_work/2026-11-12-hourly-0427/auto/img/vinfast_vf_mpv7_official_ph.jpg",
+  "faces": 0,
+  "viewed": true,
+  "subject": "Black VinFast VF MPV 7 with a 'VF MPV 7' front plate, front three-quarter, open tarmac, cloudy sky. Philippine-market (LHD) car; same model as India: VinFast's India (15 Apr) and Philippines (5 May) releases give identical 4,740 x 1,872 x 1,734 mm, 2,840 mm wheelbase, 150 kW / 280 Nm, 60.13 kWh. A person sits in the driver's seat in the source (dim, behind glass, not identifiable); the cover crop leaves that part of the cabin out.",
+  "credit": "Image: VinFast"
+ },
+ "cover": {
+  "photo": "_work/2026-11-12-hourly-0427/auto/framing_vfmpv7_off/cover_source.png",
+  "focal": [
+   0.735,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 1.06,
+  "note": "pipeline.framing ok, faces 0, upscale 1.06 (crop 1017 px wide); desk set focal x 0.735 (framing default 0.5 kept the driver in frame). Front-fascia crop: rear and most of the side out of frame; fascia, light bar, V logo and plate sit above the headline (top y 1016, 3 lines at 78 px)."
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: VinFast India's Instagram handle could not be confirmed on VinFast's own site (vinfastauto.in is behind a Cloudflare challenge); VinFast's US site links only @vinfastus.",
+ "gates": {
+  "gate1": "BUILD C (_work/2026-11-12-hourly-0427/reviews/auto-g1.md), hook capped at 1; A and B dropped"
+ }
+}

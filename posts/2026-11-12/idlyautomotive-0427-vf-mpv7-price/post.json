@@ -1,0 +1,47 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0427-vf-mpv7-price",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Business Today",
+  "CarWale",
+  "CarDekho",
+  "VinFast"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "VinFast's Seven-Seat VF MPV 7 EV Now ₹20.39 Lakh Ex-Showroom",
+   "photo": "_work/2026-11-12-hourly-0427/auto/framing_vfmpv7_off/cover_source.png",
+   "photo_credit": "Image: VinFast",
+   "focal": [
+    0.735,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹4.1 LAKH",
+   "stat_label": "Less Than Its ₹24.49 Lakh Launch Price",
+   "bullets": [
+    "Cut on 4 Nov; no end date announced",
+    "New price still listed this month",
+    "One fully loaded variant, so no trims to compare"
+   ],
+   "credit_line": "Sources: Autocar India, Business Today, CarWale, CarDekho"
+  },
+  {
+   "type": "detail",
+   "stat": "517 KM",
+   "stat_label": "Claimed Range (ARAI) on a 60.13 kWh Battery",
+   "bullets": [
+    "DC fast charging: 10 to 70% in 30 minutes",
+    "Seven seats; up to 1,240 litres with rows folded",
+    "150 kW, 280 Nm motor driving the front wheels"
+   ],
+   "credit_line": "Sources: VinFast, Autocar India, CarWale"
+  }
+ ]
+}
