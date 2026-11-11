@@ -1388,5 +1388,31 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlyautomotive-0927-dzire-next-seven-sedans/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+    "image_credit": "Image: ReDefine (Prime Focus)",
+    "image_source": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-11-idlynerd-ramayana-800-crore-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-11-idlynerd-ramayana-800-crore-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-11-idlynerd-ramayana-800-crore-v2/03.jpg"
+    ],
+    "score_self": 13,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "17919461340532831",
+    "permalink": "https://www.instagram.com/p/DflvZISD-_W/",
+    "posted_at": "2026-11-11T05:34:06+00:00",
+    "date": "2026-11-11",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-11-idlynerd-ramayana-800-crore-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-11-idlynerd-ramayana-800-crore-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-11-idlynerd-ramayana-800-crore-v2/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
