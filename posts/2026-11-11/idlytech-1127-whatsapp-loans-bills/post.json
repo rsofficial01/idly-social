@@ -1,0 +1,46 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-1127-whatsapp-loans-bills",
+  "date": "11 Nov 2026",
+  "sources": [
+    "TechCrunch",
+    "Business Standard (PTI)",
+    "Meta",
+    "Business Today"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "WhatsApp's Head Wants Loans in Chats; 22,722 Billers Already In",
+      "photo": "_work/2026-11-11-hourly-1127/idlytech/photos/cand/wa_billpay.png",
+      "photo_credit": "Image: Meta",
+      "focal": [
+        0.675,
+        0.46
+      ],
+      "zoom": 1.15
+    },
+    {
+      "type": "detail",
+      "stat": "22,722",
+      "stat_label": "Billers You Can Pay Inside WhatsApp",
+      "bullets": [
+        "Tap the ₹ icon at the top of Chats",
+        "Electricity, gas, water, FASTag, card and loan bills",
+        "Pay by UPI, debit card or credit card"
+      ],
+      "credit_line": "Sources: Meta, Business Today"
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Things WhatsApp Head Kunal Shah Wants to Fix",
+      "bullets": [
+        "Richer voice notes, groups, stickers and video",
+        "Bills, borrowing and travel data, through partners",
+        "AI so you don't miss bookings, appointments"
+      ],
+      "credit_line": "Sources: TechCrunch, Business Standard (PTI)"
+    }
+  ]
+}

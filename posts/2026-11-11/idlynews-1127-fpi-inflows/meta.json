@@ -1,0 +1,44 @@
+{
+ "account": "idlynews",
+ "title": "FPIs net ₹53,739 crore into Indian equities over six trading sessions, 2–9 Nov 2026 (depository/NSDL data via PTI), after ₹35,861 crore (Sept) and ₹34,843 crore (Oct) of net selling; 2026 cumulative FPI equity outflow still ₹2.41 lakh crore; Geojit's V K Vijayakumar cites the AI-stock sell-off in the US, South Korea, Taiwan and Japan and better-than-expected Q2 results, with easing crude also cited; Sensex up more than 1,000 points in early trade on 11 Nov (first session after the 10 Nov holiday)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "Business Standard / PTI (10 Nov 2026, 16:47 IST): https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html",
+  "Free Press Journal (10 Nov 2026, 17:24 IST): https://www.freepressjournal.in/business/fpis-pump-53739-crore-into-indian-equities-ai-sell-off-sparks-buying-spree-in-november",
+  "Livemint (10 Nov 2026, 19:48 IST): https://www.livemint.com/market/stock-market-news/fpis-return-to-dalal-street-amid-ai-sell-off-and-oil-slump-can-proposed-tax-cuts-sustain-inflows-11794315705620.html",
+  "The Hindu / PTI (1 Nov 2026): https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece",
+  "The Hindu / PTI (11 Nov 2026, 10:26 IST): https://www.thehindu.com/business/Industry/stock-markets-surge-in-early-trade-sensex-jumps-1097-points/article71688324.ece",
+  "Hindustan Times (11 Nov 2026, 09:16 IST): Sensex jumps over 1,200 points, Nifty crosses 25,350 as markets hit 8-month high",
+  "Livemint (11 Nov 2026, 08:40 IST): https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
+  "Business Standard (10 Nov 2026): Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada; Hindustan Times (10 Nov 2026, 08:17 IST): Sensex, Nifty closed today for local holiday"
+ ],
+ "fact_sources": {
+  "₹53,739 crore net FPI equity inflow, 2–9 Nov, six trading sessions, depository data": ["Business Standard/PTI 10 Nov", "Free Press Journal 10 Nov", "Livemint 10 Nov (NSDL)"],
+  "Net outflows ₹34,843 crore in October and ₹35,861 crore in September": ["Business Standard/PTI 10 Nov", "Free Press Journal 10 Nov", "The Hindu/PTI 1 Nov"],
+  "Cumulative 2026 FPI equity outflow ₹2.41 lakh crore (₹2.41 trillion) after the November buying": ["Business Standard/PTI 10 Nov ('Rs 2.41 trillion')", "Free Press Journal 10 Nov ('₹2.41 lakh crore')", "consistent with The Hindu/PTI 1 Nov: ₹2.95 lakh crore to end-October minus ₹53,739 crore"],
+  "Major buying in index heavyweights, especially financial services, IT, autos, telecom": ["Business Standard/PTI 10 Nov", "Free Press Journal 10 Nov"],
+  "Vijayakumar (Geojit): AI sell-off in US, South Korea, Taiwan, Japan; India seen as a non-AI trade": ["Business Standard/PTI 10 Nov", "Free Press Journal 10 Nov", "The Hindu/PTI 11 Nov ('weakening of the AI trade')"],
+  "Better-than-expected July–September (Q2) results as support": ["The Hindu/PTI 11 Nov (Vijayakumar: 'better-than-expected Q2 results')", "Business Standard/PTI 10 Nov (Vijayakumar: 'impressive earnings growth')"],
+  "Easing crude oil cited": ["Livemint 10 Nov ('sharp retreat in crude oil prices')", "The Hindu/PTI 11 Nov ('sustained moderation in crude oil prices')", "Livemint 11 Nov ('softer crude')"],
+  "Sensex rose more than 1,000 points in early trade on Wed 11 Nov, first session after the 10 Nov holiday": ["The Hindu/PTI 11 Nov (1,097 points)", "Hindustan Times 11 Nov (over 1,200 points)", "Livemint 11 Nov", "Business Standard / HT 10 Nov (holiday)"]
+ },
+ "left_out": "Business Standard's later '₹56,771 crore in 8 days / biggest since Dec 2020' and Business Today's 'highest since Sept 2024' (unverified, reviewer); exchange-data '₹53,170 crore' (different dataset); index levels; rupee bullet (no two-source 'since 2 Nov' figure); any advice language.",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Bombay_Stock_Exchange,_2015_1.jpg",
+  "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bombay_Stock_Exchange%2C_2015_1.jpg/1280px-Bombay_Stock_Exchange%2C_2015_1.jpg (Commons thumbnail of the 1836x3264 original; 1600px thumb returned HTTP 400); saved as _work/2026-11-11-hourly-1127/idlynews/photos/bse-2015.jpg, 1280x2276, sha256 74d82c75c4e35e2986b0c4d9c9c93e945dc58b6c647ecfb02e9c6835a8a942cc",
+  "licence": "CC BY-SA 3.0 (re-confirmed on the file page by the coordinator, Gate 1)",
+  "author": "Karthikndr (Wikimedia Commons user)",
+  "credit": "Photo: Karthikndr / Wikimedia Commons, CC BY-SA 3.0",
+  "subject": "Phiroze Jeejeebhoy Towers, the BSE (Bombay Stock Exchange) building on Dalal Street, Mumbai, with 'BSE' letters on the crown; no people",
+  "viewed": true,
+  "processing": "pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 0.84 (no enlargement); full-bleed 4:5 crop, no fill or extension; 'BSE' letters at cover y ~255, clear of the logo zone and the headline block."
+ },
+ "tags": [],
+ "tag_evidence": "none: the image owner is a Commons photographer, not BSE",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD B (ceiling 13) with fixes: cover 'Foreign Investors Pour ₹53,739 Crore Into Stocks Since 2 Nov'; slide 2 ₹2.41 LAKH CR 'Still Net Sold by Foreign Investors in 2026' with October ₹34,843 crore and six sessions/depository data, rupee bullet cut (not two-sourced); slide 3 '3' reasons; no index levels on cards; caption Sensex 'more than 1,000 points'; question as given; A and C dropped. Photo passed Gate 3 at G1."
+ }
+}

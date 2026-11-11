@@ -1,0 +1,38 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1127-fpi-inflows",
+  "date": "11 Nov 2026",
+  "sources": ["PTI", "Free Press Journal", "Livemint", "The Hindu"],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Foreign Investors Pour ₹53,739 Crore Into Stocks Since 2 Nov",
+      "photo": "_work/2026-11-11-hourly-1127/idlynews/bse/cover_source.png",
+      "photo_credit": "Photo: Karthikndr / Wikimedia Commons, CC BY-SA 3.0",
+      "focal": [0.5, 0.5],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹2.41 LAKH CR",
+      "stat_label": "Still Net Sold by Foreign Investors in 2026",
+      "bullets": [
+        "October alone saw ₹34,843 crore in net selling",
+        "Index heavyweights in finance, IT, autos, telecom drew buying",
+        "Six trading sessions, 2–9 Nov, depository data"
+      ],
+      "credit_line": "Sources: PTI, Free Press Journal"
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Reasons Analysts Give for Foreign Investors' Return",
+      "bullets": [
+        "AI-stock sell-off abroad: India seen as a non-AI market",
+        "Better-than-expected July–September company results",
+        "A sharp retreat in crude oil prices"
+      ],
+      "credit_line": "Sources: PTI, Livemint"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+ "account": "idlytech",
+ "title": "WhatsApp head Kunal Shah (in charge since June 2026) sets out three aims in a note on X, 10 Nov 2026: richer voice notes, groups, stickers and video; paying bills, borrowing money and staying connected while travelling made as simple as a message, with financial-services and telecom partners; AI so users never miss a booking or appointment; no timelines given; personal messages and calls stay end-to-end encrypted (Shah). Context: WhatsApp bill payments in India since September 2026, 22,722 billers in 30 categories via Bharat Connect, ₹ icon, UPI/debit/credit card (Meta)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+  "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html",
+  "https://www.thehindubusinessline.com/info-tech/whatsapp-to-bring-bill-payments-within-chats-use-ai-to-save-time-says-ceo-kunal-shah/article71688394.ece",
+  "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+  "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03",
+  "https://www.outlookmoney.com/news/whatsapp-brings-utility-credit-card-and-loan-bill-payments-to-india",
+  "https://www.outlookbusiness.com/corporate/whatsapp-launches-bill-payments-in-india-how-to-pay-bills-using-upi-cards"
+ ],
+ "fact_sources": {
+  "Kunal Shah is head of WhatsApp, in charge since June 2026": [
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html",
+   "https://www.thehindubusinessline.com/info-tech/whatsapp-to-bring-bill-payments-within-chats-use-ai-to-save-time-says-ceo-kunal-shah/article71688394.ece",
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/ (took over from Will Cathcart earlier this year; note titled 'My Thoughts 5 Months In')"
+  ],
+  "Note posted on X on 10 Nov": [
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/ (shared on Tuesday = 10 Nov)",
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html (post on X)"
+  ],
+  "Three aims: richer voice notes/groups/stickers/video; bills, borrowing, travel connectivity via financial-services and telecom partners; AI so you never miss a booking or appointment": [
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html"
+  ],
+  "No dates or timelines given": [
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/ (full note reproduced, no dates)",
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html"
+  ],
+  "Over 10 billion voice messages a day": [
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html"
+  ],
+  "Personal messages and calls stay end-to-end encrypted (Shah)": [
+   "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+   "https://www.business-standard.com/technology/tech-news/whatsapp-to-make-connections-richer-use-ai-to-save-time-ceo-kunal-shah-126111100264_1.html"
+  ],
+  "Bill payments on WhatsApp in India since September 2026": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/ (3 Sep 2026)",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03 (launched 2 Sep 2026)"
+  ],
+  "22,722 billers across 30 categories via Bharat Connect (BBPS)": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03",
+   "https://www.outlookmoney.com/news/whatsapp-brings-utility-credit-card-and-loan-bill-payments-to-india"
+  ],
+  "Electricity, gas, water, FASTag, insurance, credit card and loan repayments": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03"
+  ],
+  "Rupee icon at the top of the home screen": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03"
+  ],
+  "Pay by UPI, debit card or credit card": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03"
+  ],
+  "Rolling out gradually": [
+   "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+   "https://www.businesstoday.in/technology/news/story/whatsapp-gets-a-new-bill-payment-feature-in-india-what-you-can-pay-and-how-it-works-553093-2026-09-03"
+  ]
+ },
+ "photo_source": {
+  "page": "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+  "file": "https://about.fb.com/wp-content/uploads/2026/09/Image.png (1954x826 PNG, the post's og:image original; saved as _work/2026-11-11-hourly-1127/idlytech/photos/cand/wa_billpay.png)",
+  "licence": "Meta newsroom press image (company's own newsroom, editorial use for the feature it announces)",
+  "author": "Meta",
+  "credit": "Image: Meta",
+  "subject": "Meta's official mock-up of WhatsApp's India bill-payments screens (3 Sep 2026 launch image); the cover crop shows the Electricity biller screen (Assam Electricity, Ajmer Vidyut (AVVNL), Andhra Pradesh Central Power Distribution Corporation, Arunachal Pradesh Power (DOPAP), Adani Electricity); presented as the September launch image, not as new this week",
+  "viewed": true,
+  "processing": "pipeline.framing on the original: ok, 0 faces. Cover rendered by cardkit hype from the original PNG (_work/2026-11-11-hourly-1127/idlytech/photos/cand/wa_billpay.png) at focal (0.675, 0.46), zoom 1.15: crop 574 px wide (about source x 1032-1606, full Electricity screen plus edges of the Bill payments and Assam Electricity screens), upscaled 1.88x (within 2x) to 1080x1350. Electricity screen with its five biller rows whole in the upper half; the headline sits on the screen's blank lower half. The chat-list screen with three small avatar photos (source x about 40-95) is outside the crop. No fill, blur, letterbox or recolour."
+ },
+ "tags": [],
+ "story": "none (Stories paused)"
+}
