@@ -1,0 +1,55 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2127-milk-prices",
+ "date": "11 Nov 2026",
+ "sources": [
+  "ANI",
+  "PTI",
+  "Gujarat Samachar"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Amul, Mother Dairy Raise Milk Prices ₹2–₹4 From 12 Nov",
+   "photo": "_work/2026-11-11-hourly-2127/news/frame/cover_source.png",
+   "photo_credit": "Photo: Ravi Palwe / Unsplash",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "+₹4 / +₹2",
+   "stat_label": "Amul Gold and Taaza, Per Litre",
+   "bullets": [
+    "A litre of Gold daily: about ₹120 more monthly",
+    "A litre of Taaza daily: about ₹60 more monthly"
+   ],
+   "credit_line": "Sources: GCMMF statement via ANI, Gujarat Samachar"
+  },
+  {
+   "type": "detail",
+   "stat": "₹76",
+   "stat_label": "Mother Dairy Full Cream, Delhi-NCR, Per Litre",
+   "bullets": [
+    "Up from ₹72; toned ₹60 to ₹62",
+    "Cow milk ₹62 to ₹65 a litre",
+    "Mother Dairy confirmed the rates in a statement (ANI)"
+   ],
+   "credit_line": "Sources: Mother Dairy statement via ANI, PTI"
+  },
+  {
+   "type": "detail",
+   "stat": "4–5%",
+   "stat_label": "Rise in Prices Paid to Farmers, GCMMF Says",
+   "bullets": [
+    "GCMMF's reasons: costlier feed, fodder, packaging, fuel; uneven rain",
+    "GCMMF: about 80% of the price reaches farmers",
+    "Amul's last rise: ₹2 a litre, 14 May 2026"
+   ],
+   "credit_line": "Sources: GCMMF statement via ANI, Gujarat Samachar, PTI"
+  }
+ ]
+}

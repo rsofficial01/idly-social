@@ -1,0 +1,156 @@
+{
+ "account": "idlynews",
+ "title": "Amul (GCMMF statement, 11 Nov 2026) raises fresh pouch milk prices from Thu 12 Nov: Gold (6% fat) +₹4 a litre (about 5.5%), Taaza (3% fat) +₹2 (about 3.3%); GCMMF cites costlier cattle feed, fodder, packaging film and fuel and low, uneven rain, says member unions raised farmer procurement prices 4–5% in a year and its 36 lakh producers get about 80% of what consumers pay. Mother Dairy (statement via ANI, 11 Nov; same rates reported earlier by PTI citing sources) raises Delhi-NCR prices the same day: full cream ₹72→₹76, toned ₹60→₹62, double toned ₹54→₹56, cow ₹62→₹65. Both last raised prices by ₹2 on 14 May 2026",
+ "story_id": 2001,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ANI (via ThePrint)",
+   "date": "11 Nov 2026 (8:08 pm)",
+   "url": "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/"
+  },
+  {
+   "outlet": "Gujarat Samachar",
+   "date": "11 Nov 2026",
+   "url": "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245"
+  },
+  {
+   "outlet": "india.com (with ANI inputs)",
+   "date": "11 Nov 2026 (7:43 pm)",
+   "url": "https://www.india.com/business/amul-milk-price-hike-milk-gets-costlier-from-november-12-mother-dairy-cost-spike-nationwide-8544012/"
+  },
+  {
+   "outlet": "ANI (via Asianet Newsable), Mother Dairy statement",
+   "date": "11 Nov 2026 (8:00 pm)",
+   "url": "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo"
+  },
+  {
+   "outlet": "ANI (via webindia123), Mother Dairy statement",
+   "date": "11 Nov 2026 (8:11 pm)",
+   "url": "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html"
+  },
+  {
+   "outlet": "PTI (via DT Next)",
+   "date": "11 Nov 2026",
+   "url": "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday"
+  },
+  {
+   "outlet": "The Week",
+   "date": "11 Nov 2026",
+   "url": "https://www.theweek.in/news/biz-tech/2026/11/11/chai-pricier-now-why-mother-dairy-amul-are-hiking-milk-prices.html"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "14 May 2026",
+   "url": "https://www.businesstoday.in/personal-finance/news/story/amul-mother-dairy-raise-milk-prices-by-rs-2-per-litre-from-may-14-check-new-rates-here-531378-2026-05-14"
+  },
+  {
+   "outlet": "idly.news #2001 (India Today, NDTV, TOI)",
+   "date": "11 Nov 2026",
+   "url": "https://api.idly.news/api/v1/articles/2001/"
+  }
+ ],
+ "fact_sources": {
+  "Amul fresh pouch milk prices rise from Thu 12 Nov 2026 (GCMMF statement, 11 Nov)": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/ (ANI)",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245",
+   "https://www.india.com/business/amul-milk-price-hike-milk-gets-costlier-from-november-12-mother-dairy-cost-spike-nationwide-8544012/",
+   "https://idly.news (article #2001; API https://api.idly.news/api/v1/articles/2001/)"
+  ],
+  "Amul Gold (6% fat) +₹4 a litre, about 5.5%": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245",
+   "https://www.india.com/business/amul-milk-price-hike-milk-gets-costlier-from-november-12-mother-dairy-cost-spike-nationwide-8544012/"
+  ],
+  "Amul Taaza (3% fat) +₹2 a litre, about 3.3%": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245",
+   "https://www.india.com/business/amul-milk-price-hike-milk-gets-costlier-from-november-12-mother-dairy-cost-spike-nationwide-8544012/"
+  ],
+  "Both brands raise prices ₹2–₹4 a litre from 12 Nov (cover)": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/ (Amul: Taaza +2, Gold +4)",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245",
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo (Mother Dairy: 'Rs. 2 - 4 per litre')",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html"
+  ],
+  "A litre a day: about ₹120 more a month (Gold), about ₹60 (Taaza) [idly's arithmetic: ₹4 x 30, ₹2 x 30]": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245",
+   "https://idly.news (article #2001; API https://api.idly.news/api/v1/articles/2001/) (same arithmetic)"
+  ],
+  "GCMMF reasons: costlier cattle feed, fodder, packaging film, fuel; low and uneven rainfall": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245"
+  ],
+  "Member unions raised farmer procurement prices 4–5% over the past year (GCMMF)": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245"
+  ],
+  "GCMMF: its 36 lakh milk producers get about 80% of what consumers pay": [
+   "https://theprint.in/india/amul-to-hike-fresh-milk-pouch-prices-by-up-to-5-across-india-from-12-november/3096346/ ('80%')",
+   "https://english.gujaratsamachar.com/news/national/amul-announces-nationwide-milk-price-hike-gold-up-indian-rupee4-taaza-indian-rupee2-per-litre-61558290245 ('about 80 paise of every rupee')"
+  ],
+  "Mother Dairy Delhi-NCR full cream ₹72 → ₹76 from 12 Nov": [
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html",
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday (PTI)",
+   "https://newsable.asianetnews.com/business/mother-dairy-and-amul-raise-milk-prices-by-rs-2-to-rs-6-per-liter-articleshow-bqozxpa",
+   "https://www.dynamitenews.com/national/milk-to-get-costlier-from-november-12-amul-mother-dairy-announce-price-hikes-amid-supply-crunch",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/chai-pricier-now-why-mother-dairy-amul-are-hiking-milk-prices.html"
+  ],
+  "Mother Dairy toned ₹60 → ₹62": [
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html",
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday",
+   "https://newsable.asianetnews.com/business/mother-dairy-and-amul-raise-milk-prices-by-rs-2-to-rs-6-per-liter-articleshow-bqozxpa",
+   "https://www.dynamitenews.com/national/milk-to-get-costlier-from-november-12-amul-mother-dairy-announce-price-hikes-amid-supply-crunch",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/chai-pricier-now-why-mother-dairy-amul-are-hiking-milk-prices.html"
+  ],
+  "Mother Dairy double toned ₹54 → ₹56 (caption)": [
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html",
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday",
+   "https://newsable.asianetnews.com/business/mother-dairy-and-amul-raise-milk-prices-by-rs-2-to-rs-6-per-liter-articleshow-bqozxpa",
+   "https://www.dynamitenews.com/national/milk-to-get-costlier-from-november-12-amul-mother-dairy-announce-price-hikes-amid-supply-crunch",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/chai-pricier-now-why-mother-dairy-amul-are-hiking-milk-prices.html"
+  ],
+  "Mother Dairy cow milk ₹62 → ₹65": [
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html",
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday",
+   "https://newsable.asianetnews.com/business/mother-dairy-and-amul-raise-milk-prices-by-rs-2-to-rs-6-per-liter-articleshow-bqozxpa",
+   "https://www.dynamitenews.com/national/milk-to-get-costlier-from-november-12-amul-mother-dairy-announce-price-hikes-amid-supply-crunch"
+  ],
+  "Mother Dairy confirmed the rates in a statement on 11 Nov (ANI); PTI reported the same rates earlier, citing sources": [
+   "https://newsable.asianetnews.com/business/mother-dairy-increases-milk-prices-by-up-to-rs-4-per-litre-in-delhi-articleshow-yok8ugo (ANI statement quote)",
+   "https://news.webindia123.com/news/Articles/Business/20261111/4518516.html (ANI statement quote)",
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday (PTI, sources)"
+  ],
+  "Both brands last raised prices on 14 May 2026, by ₹2 a litre": [
+   "https://www.dtnext.in/news/business/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday (Mother Dairy last hike 14 May 2026)",
+   "https://www.businesstoday.in/personal-finance/news/story/amul-mother-dairy-raise-milk-prices-by-rs-2-per-litre-from-may-14-check-new-rates-here-531378-2026-05-14",
+   "https://www.theweek.in/news/biz-tech/2026/05/13/amul-mother-dairy-raise-milk-prices-heres-how-much-more-youll-pay-from-may-14.amp.html"
+  ]
+ },
+ "photo_source": {
+  "page": "https://unsplash.com/photos/b1bhCMVJlGA",
+  "file_url": "https://images.unsplash.com/photo-1763917599845-84379a0132d6",
+  "licence": "Unsplash License (free; not Unsplash+)",
+  "author": "Ravi Palwe (https://unsplash.com/@ravipalwe)",
+  "width": 2048,
+  "height": 2560,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Ravi Palwe / Unsplash"
+ },
+ "tags": [],
+ "cover": {
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.53
+ }
+}
