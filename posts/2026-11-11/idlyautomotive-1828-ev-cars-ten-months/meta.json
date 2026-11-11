@@ -1,0 +1,88 @@
+{
+ "account": "idlyautomotive",
+ "title": "India registered nearly 3 lakh electric cars in Jan-Oct 2026 (Vahan; GaadiWaadi 2,93,877 with data to 4 Nov; Autocar India's quarterly figures sum to about 2.94 lakh), against just under 2 lakh in all of 2025 (Autocar India 1,95,571; Frost & Sullivan via IBEF). Autocar India counts 3,04,701 from 1 Jan to 9 Nov, which it calls the first calendar year above 3 lakh, and expects 3.5-3.6 lakh by 31 Dec. Shares: Tata 39.7%, Mahindra about 23% (now No. 2, overtaking JSW MG), JSW MG 18.7%, VinFast about 5%; top three about 81%.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-11",
+   "url": "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297"
+  },
+  {
+   "outlet": "GaadiWaadi",
+   "date": "2026-11-11",
+   "url": "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/"
+  },
+  {
+   "outlet": "IBEF (Frost & Sullivan report)",
+   "date": "2026-06-30",
+   "url": "https://www.ibef.org/news/india-s-electric-car-sales-set-to-cross-3-lakh-units-for-first-time-in-2026"
+  }
+ ],
+ "fact_sources": {
+  "Nearly 3 lakh electric cars registered Jan-Oct 2026 (Vahan)": [
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (registered 2,93,877 vehicles between January and October as of Vahan data provided till November 4)",
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (Q1 63,370, Q2 88,040, Q3 1,04,744, October 37,516)"
+  ],
+  "All of 2025 ended just under 2 lakh": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (CY2025 1,95,571)",
+   "https://www.ibef.org/news/india-s-electric-car-sales-set-to-cross-3-lakh-units-for-first-time-in-2026 (just under two lakh units sold in 2025)"
+  ],
+  "3,04,701 from 1 Jan to 9 Nov; first calendar year above 3 lakh (attributed to Autocar India)": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (3,04,701 EVs have been delivered to customers between January 1 and November 9 in 2026)"
+  ],
+  "3.5-3.6 lakh expected by 31 Dec (Autocar India estimate, attributed)": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (expected to close CY2026 with estimated record retail sales of 3.5 lakh-3.6 lakh units)"
+  ],
+  "Tata 39.7% share": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (39.67%)",
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (39.7 per cent)"
+  ],
+  "Mahindra No. 2, about 23%, overtaking JSW MG": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (22.86%; now ranked second, ahead of MG; 19% in CY2025)",
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (22.8%; Mahindra moves ahead of JSW MG Motor)"
+  ],
+  "JSW MG third, 18.7%": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (18.70%)",
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (18.7%)"
+  ],
+  "VinFast fourth, about 5%": [
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (5.20%)",
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (5.3%)"
+  ],
+  "Top three about four in five": [
+   "https://gaadiwaadi.com/top-10-ev-brands-in-2026-jan-oct-tata-sits-1st-mahindra-moves-up-to-2nd/ (about 81.3 per cent)",
+   "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297 (39.67+22.86+18.70 = 81.2%)"
+  ]
+ },
+ "image": {
+  "page": "https://www.mahindraelectricsuv.com/xev-9s.html",
+  "file_url": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/dw71d93ad7/XEV-9s/mobile_latest/DIGITAL_Ride_Quality_2314X4500.jpg",
+  "owner": "Mahindra Electric Automobile Ltd (Mahindra's Electric Origin SUV site, linked from auto.mahindra.com)",
+  "licence": "Official manufacturer product image, used with credit",
+  "author": "Mahindra Electric Automobile Ltd",
+  "credit": "Image: Mahindra Electric Automobile (XEV 9S)",
+  "size": "2314x4500 original; cover crop 1851x2314 at scale 0.583 (no enlargement)",
+  "focal": [
+   0.48,
+   0.45
+  ],
+  "zoom": 1.25,
+  "upscale": 0.583,
+  "faces": 0,
+  "viewed": true
+ },
+ "tags": [
+  "mahindraelectricsuvs"
+ ],
+ "tags_confirmed": "Footer of https://www.mahindraelectricsuv.com/ (Mahindra Electric's own site, linked from https://auto.mahindra.com/) links https://www.instagram.com/mahindraelectricsuvs/ ; same link on its BE 6 SPORTEQ press-release page; checked 11 Nov 2026",
+ "headline": "Record: Nearly 3 Lakh Electric Cars Sold in Ten Months",
+ "gates": {
+  "g1": "BUILD C1 with conditions (no '3 lakh crossed' on cover without a second source; two sources per number; no Oct +76%; 'Electric Cars' + 'Sold'; Mahindra No. 2 on a slide; reply about reader's next car)",
+  "g2": "FIX applied: Title Case with lowercase short prepositions (cover, slide 2 and 3 labels); reviewer's optional 'Record:' headline used",
+  "g3": "PASS: sha1 matches mahindraelectricsuv.com file, faces=0, Mahindra's own site, no upscale, @mahindraelectricsuvs confirmed",
+  "g4": "PASS (reviewer 12/14; send 1, keep 1)"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Post score = per-check minimum of desk self-score (12/14) and blind reviewer (12/14) = 12/14. WEAK: send, keep. Self notes: Number on cover (nearly 3 lakh) and clear stake; send is for EV-curious buyers, keep is the brand-share ranking plus the year-end estimate; single-source crossing kept off the cover per G1. Reviewer notes: Hook 2: 'Record' plus 'Nearly 3 Lakh' on the cover gives a clear stake over the actual car, sharp; it would be stronger with the exact count, which is single-source. Send 1: a market-share and volume post; the forward reason (an EV-curious buyer) is implied, not served by a buyer angle on the slides. Keep 1: brand shares and a forecast are reference, with no price, date, spec or eligibility to save. Read 2 (cover to the 3,04,701 count with the 2025 comparison to the brand ranking, no filler), reply 2 (would your next car be electric, a question from readers' own lives), original 2 (synthesis of Autocar India, GaadiWaadi and IBEF with attribution; official Mahindra image credited), alone 2 ('lakh' and the Tata/Mahindra/JSW MG ranking make the Indian market clear even though the cover drops the word 'India'). Layout: cover full-bleed, no upscale, XEV 9S whole and clear of the logo and headline; the road fades to black for about 170 px above the headline, which is the source image under the gradient, not an empty band. Slides 2-3: shared left edge, white Title Case labels, no touching text, Sources lines clear of the footer rule; the italic stat glyphs overhang the left edge slightly, as the template does.",
+ "self_total": 12,
+ "reviewer_total": 12
+}

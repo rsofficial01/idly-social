@@ -1,0 +1,44 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1828-ev-cars-ten-months",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "GaadiWaadi"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Record: Nearly 3 Lakh Electric Cars Sold in Ten Months",
+   "photo": "_work/2026-11-11-hourly-1828/auto/frame/cover_source.png",
+   "photo_credit": "Image: Mahindra Electric Automobile (XEV 9S)",
+   "focal": [
+    0.48,
+    0.45
+   ],
+   "zoom": 1.25
+  },
+  {
+   "type": "detail",
+   "stat": "3,04,701",
+   "stat_label": "Electric Cars Sold in 2026, to 9 November",
+   "bullets": [
+    "A first for a calendar year, Autocar India says",
+    "All of 2025 ended just under 2 lakh",
+    "Autocar India expects 3.5-3.6 lakh by 31 December"
+   ],
+   "credit_line": "Sources: Autocar India (Vahan data), Frost & Sullivan via IBEF"
+  },
+  {
+   "type": "detail",
+   "stat": "39.7%",
+   "stat_label": "Tata's Share of Electric Cars Sold in 2026",
+   "bullets": [
+    "Mahindra overtakes JSW MG for No. 2, about 23%",
+    "JSW MG third at 18.7%; VinFast fourth, about 5%",
+    "Top three sell about four in five electric cars"
+   ],
+   "credit_line": "Sources: Autocar India, GaadiWaadi (Vahan data)"
+  }
+ ]
+}
