@@ -1,0 +1,57 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2327-badbo-india",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "adidas",
+  "Complex",
+  "FashionUnited"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Bad Bunny's Two New BadBo Pairs Hit India From ₹11,999",
+   "photo": "_work/2026-11-11-hourly-2327/hype/photos/badbo-adidas-737380-rot.jpg",
+   "photo_credit": "Image: adidas",
+   "focal": [
+    0.5,
+    0.575
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹11,999",
+   "stat_label": "BadBo 1.1 Simple Brown at Superkicks",
+   "bullets": [
+    "The low-top BadBo, with three wave-like overlays",
+    "Style LM5057, UK 7–12, in stock now",
+    "adidas's US retail price for it: $120"
+   ],
+   "credit_line": "Sources: Superkicks, adidas"
+  },
+  {
+   "type": "detail",
+   "stat": "₹15,999",
+   "stat_label": "BadBo 1.0 Grey Three at Superkicks",
+   "bullets": [
+    "The original BadBo in tonal leather and suede",
+    "Style LC5290, UK 7–12, in stock now",
+    "adidas's US retail price for it: $160"
+   ],
+   "credit_line": "Sources: Superkicks, adidas"
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Worldwide Release Date, per adidas",
+   "bullets": [
+    "On the adidas CONFIRMED app and select stores",
+    "BadBo: Bad Bunny's first signature shoe, launched 2026",
+    "The low-top 1.1 joined the line in September"
+   ],
+   "credit_line": "Sources: adidas, Complex, FashionUnited"
+  }
+ ]
+}
