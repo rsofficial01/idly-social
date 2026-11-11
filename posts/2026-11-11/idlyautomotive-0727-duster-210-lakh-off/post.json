@@ -1,0 +1,44 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-0727-duster-210-lakh-off",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Autocar India",
+    "GaadiWaadi",
+    "Renault India"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Duster Gets Up To ₹2.10 Lakh Off Till 30 November",
+      "photo": "_work/2026-11-11-hourly-0727/idlyautomotive/photos/duster-cover-mobile-002.jpg",
+      "photo_credit": "Image: Renault India",
+      "focal": [
+        0.5,
+        0.58
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹1.5 LAKH",
+      "stat_label": "Duster's Top Exchange Bonus, Needs a Trade-In",
+      "bullets": [
+        "Plus up to ₹50,000 cash and ₹10,000 loyalty",
+        "Scrapping instead of exchanging: up to ₹25,000",
+        "4.99% loan offer too; amounts vary by dealer"
+      ],
+      "credit_line": "Sources: Autocar India, GaadiWaadi"
+    },
+    {
+      "type": "detail",
+      "stat": "₹65,000",
+      "stat_label": "Kiger Leads Renault's Other November Offers",
+      "bullets": [
+        "Triber: up to ₹55,000 off the sub-4-metre MPV",
+        "Kwid: up to ₹40,000 on Renault's cheapest car"
+      ],
+      "credit_line": "Sources: Autocar India, GaadiWaadi"
+    }
+  ]
+}

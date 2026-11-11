@@ -1,0 +1,31 @@
+{
+ "account": "idlyautomotive",
+ "title": "Renault Duster gets benefits of up to ₹2.10 lakh in November 2026, till 30 Nov (Autocar India 9 Nov; GaadiWaadi 10 Nov): up to ₹1.5 lakh exchange bonus, up to ₹50,000 cash, up to ₹10,000 loyalty; scrappage up to ₹25,000 instead of exchange; 4.99% loan offer; from ₹10.49 lakh ex-showroom; Kiger up to ₹65,000, Triber ₹55,000, Kwid ₹40,000",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://www.autocarindia.com/car-news/benefits-up-to-rs-235-lakh-on-renault-duster-in-november-2026-441289",
+  "https://gaadiwaadi.com/renault-offering-savings-of-up-to-rs-2-10-lakh-on-new-cars-this-november/",
+  "https://www.renault.co.in/cars/renault-duster.html"
+ ],
+ "photo_source": {
+  "page": "https://www.renault.co.in/cars/renault-duster.html",
+  "file": "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/rb3k5/reveal/overview/duster-overview-mobile-002.jpg (2560x4551; saved unaltered as _work/2026-11-11-hourly-0727/idlyautomotive/photos/duster-cover-mobile-002.jpg, sha1 4c5ee21cf037a8a99e894b37096af346a69530c3)",
+  "licence": "Official Renault India product image from its own Duster model page (manufacturer media), used credited for editorial news",
+  "author": "Renault India",
+  "credit": "Image: Renault India",
+  "subject": "Renault Duster (third generation, green, silver front bumper, 'DUSTER' grille lettering), whole, front three-quarter view on a gravel clearing with palms and hills behind; no people, no text overlay, no watermark; Renault's dummy plate RE-012-LT",
+  "viewed": true,
+  "processing": "YuNet 0 faces before viewing. pipeline.framing: ok, 0 faces, upscale 0.42 (downscale, no enlargement). Reviewer-set focal (0.5, 0.58), zoom 1.0: cardkit hype cover crop of the full 2560 width to 1080x1350 at scale 0.42; no upscale, fill, blur, letterbox or recolour. Rendered: car whole at about y 315-760 (x 150-890), logo over hills/sky, 3-line headline ink about y 975-1240 (unchanged after the headline fix), scrim 0.64."
+ },
+ "tags": [
+  "renaultindia"
+ ],
+ "tag_evidence": "Renault India owns the cover image; its own Duster model page (https://www.renault.co.in/cars/renault-duster.html) links https://www.instagram.com/renaultindia; the same handle passed review on the 10 Nov Duster Hybrid and Kiger posts.",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (blind reviewer, ceiling 14, realistic 13); B VinFast vs VW and C Tata-Iveco DROP. Fixes applied: reviewer's headline verbatim; exchange bonus needs a trade-in; 4.99% loan without a stacking claim; no trim names; price only 'from ₹10.49 lakh'; cut the demand opinion, the Hybrid claim, ₹2.35/2.30 lakh, MPFi speculation and October sales; caption attributes and says offers vary by city, dealer and stock; Sources line; 'Image: Renault India' last; image mobile-002 at focal (0.5, 0.58), zoom 1.0; tag renaultindia.",
+  "g234": "FIX (blind reviewer, 12/14: read 1, alone 1). Applied exactly: headline 'Duster Gets Up To ₹2.10 Lakh Off Till 30 November' (10 words); cut to cover + 2 detail slides with stats (₹1.5 LAKH exchange bonus slide; ₹65,000 Kiger-led other offers slide); ₹10.49 lakh off the cards (caption only); caption unchanged; alt text updated. Every slide figure (₹50,000, ₹10,000, ₹25,000, ₹65,000, ₹55,000, ₹40,000) confirmed in both Autocar India and GaadiWaadi."
+ }
+}
