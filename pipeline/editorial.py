@@ -168,11 +168,36 @@ def restricted_problems(caption: str) -> tuple[list[str], list[str]]:
     return errs, warns
 
 
+def baseline_problems(text: str) -> tuple[list[str], list[str]]:
+    """idly's baseline (baseline/<region>/, see RUNBOOK "The baseline"): a caption that breaks a baseline publishing
+    rule is an error; one that touches baseline items the desk must handle with care (disputed figures, allegations,
+    single-source facts) gets a warning naming them, so the desk reads `python3 -m pipeline.baseline check` first."""
+    errs, warns = [], []
+    try:
+        from pipeline import baseline
+        regions = [p.name for p in baseline.ROOT.iterdir() if p.is_dir()] if baseline.ROOT.exists() else []
+        for region in regions:
+            for rule in baseline.rule_hits(text, baseline.load_rules(region)):
+                errs.append(f"baseline rule '{rule['id']}' ({region}): {rule['why']}")
+            found = baseline.match(text, baseline.load(region), limit=12)
+            care = [f for f in found if f.get('status') in ('disputed', 'alleged', 'single_source')]
+            if care:
+                warns.append(f"baseline ({region}): this caption touches {len(found)} known items, {len(care)} needing care ("
+                             + ', '.join(f"{f['id']}: {f['status']}" for f in care[:5])
+                             + f"); run: python3 -m pipeline.baseline check --region {region} --file <caption file>")
+    except Exception as exc:        # the baseline must never block publishing by crashing
+        warns.append(f'baseline check could not run ({type(exc).__name__})')
+    return errs, warns
+
+
 def caption_problems(caption: str, *, idly_article: bool = True) -> tuple[list[str], list[str]]:
     """idly_article=False is for a post with no idly.news article behind it (e.g. a founder-requested
     special): the caption must then NOT point to idly.news and must list its sources instead."""
     errs, warns = restricted_problems(caption)
     text = caption or ""
+    b_errs, b_warns = baseline_problems(text)
+    errs += b_errs
+    warns += b_warns
     lines = [l.strip() for l in text.splitlines() if l.strip()]
     if idly_article and LINK_LINE not in text:
         errs.append(f"missing the line: {LINK_LINE}")

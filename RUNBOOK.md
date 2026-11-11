@@ -781,3 +781,36 @@ public's own words next to the media's.
   (or the desk) reads the excerpts before anything is quoted. Quote a post only as "a commenter on YouTube/Reddit",
   with the link kept in the sources, and never a private person's name.
 - **Discord** is not covered: it has no public search, and a bot can read only servers whose admins invite it.
+
+
+## The baseline (Tamil Nadu first)
+
+idly does not write local news from the fresh headline alone. `baseline/tn/` holds what idly has already sourced about
+Tamil Nadu: the people in office, the numbers, every promise and its verdict, the "showcased v what followed" ledger,
+the state's history and constitutional rules, dated things to watch, and the rules for what idly never publishes.
+It was built from the report "Six Months of TVK: The Record" (11 Nov 2026) and grows with every story.
+
+**Every desk, for any story that touches Tamil Nadu politics, government, policy, courts, the economy or public figures:**
+1. Before Gate 1, run `python3 -m pipeline.baseline check "<headline and the key facts>"`. Read everything it prints.
+2. Use it. Put the new development in its context in the caption or a detail slide: what was promised, what the last
+   number was, how the previous governments did on the same point, what happened the last time this was announced.
+   A story that only repeats today's headline, when the baseline shows the claim was made before or contradicts a
+   sourced figure, does not pass Gate 2.
+3. Follow the status labels. `disputed`: give both figures. `alleged`: say alleged and carry the response.
+   `single_source`: find a second source before leaning on it. If the new story contradicts a `verified` item, check
+   the story twice; if the story is right, the baseline gets corrected in the same commit.
+4. `STOP` (exit code 2) means the text breaks a rule in `baseline/tn/rules.json`. Rewrite or drop it. Never edit the
+   rule to get a post through. `editorial.caption_problems` runs the same rules and blocks the post.
+5. After publishing, record it: `python3 -m pipeline.baseline log --note "<what happened, one line>" --source <https link>
+   --ids <baseline ids it updates> --keywords <words a later story would use>`, and commit `baseline/tn/log.jsonl`.
+   When a development settles something (a ruling, a scheme starting, a figure revised), also edit the item in its
+   JSON file: new `current`/`value`, new `as_of`, new source. Run `python3 -m pipeline.baseline validate` before committing.
+6. Once a day (the first run after 08:00 IST), @idlynews runs `python3 -m pipeline.baseline due` and treats anything due
+   within a week as a story to prepare, with its history already in hand.
+
+**The same test for every party.** When a story criticises one party on a point, the baseline usually shows how the
+others did on it. Say so in a line. **History and polity:** `facts_history_polity.json` carries the constitutional rule
+or the precedent (how a floor test works, what the Governor may do with a bill, what happened to earlier star-led
+parties). Use it to explain, not to predict. **Citizen voices:** `python3 -m pipeline.voices pull <topic>` gives a reading
+of public comments; it is never a poll. **Not Tamil Nadu?** There is no baseline yet for other states; say so in the
+report so the gap is visible. New regions go in `baseline/<region>/` with the same files.

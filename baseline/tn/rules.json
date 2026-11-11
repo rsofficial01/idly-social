@@ -1,0 +1,12 @@
+[
+ {"id": "sabareesan-drug-claim", "all": ["sabar[ie]+san|சபரீசன்"], "any": ["drug", "narcotic", "meth", "kingpin", "ganja", "போதை", "கஞ்சா"],
+  "why": "idly found no sourced, on-record drug allegation against him. Do not publish or imply one."},
+ {"id": "karur-cause", "all": ["karur|கரூர்"], "any": ["conspiracy", "engineered", "orchestrat", "planned the stampede", "caused the stampede", "behind the stampede", "had a hand", "சதி"],
+  "why": "The CBI probe is pending and no court has found any person or party responsible for the Karur crush. Report steps in the case only; attribute any conspiracy charge to the named person making it, with the reply.", "scan_baseline": false},
+ {"id": "poll-language", "all": ["(youtube|comment|reddit)"], "any": ["% of (tamil nadu|people|voters|tamils)", "majority of (people|voters|tamils)", "public opinion poll"],
+  "why": "idly's comment digest is a reading of posts, not a poll. Say 'N comments from M accounts', never a share of the public.", "scan_baseline": false},
+ {"id": "six-months-promise", "all": ["vijay|விஜய்"], "any": ["asked for six months", "promised six months", "sought six months", "six-month deadline he set", "ஆறு மாதம் கேட்ட"],
+  "why": "Vijay asked for 'some time' (10 May) and 'a little more time' (23 June). The six-month clock came from others (Kamal Haasan; by Stalin's account, the DMK).", "scan_baseline": false},
+ {"id": "astrologer-name", "all": ["rickey|radhan pandit|vettrivel"], "any": ["astrolog", "osd", "ஜோதிட"],
+  "why": "The astrologer is a private individual; describe the episode without his name."}
+]
