@@ -1,0 +1,69 @@
+{
+  "slug": "2026-11-11-idlynerd-baththa-netflix-no1-v2",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "story": false,
+  "title": "Baththa is Netflix India's No. 1 film (2-8 Nov 2026): 2.3M views worldwide that week, 4.8M in two weeks",
+  "headline": "Vijay Sethupathi's Baththa Tops Netflix India's Films, 4.8M Views Worldwide",
+  "caption": "Vijay Sethupathi's Tamil film Baththa was the No. 1 film on Netflix in India in the week of 2–8 November, Netflix's Top 10 data shows. It was No. 1 in Sri Lanka too.\n\nWorldwide, Baththa drew 2.3 million views that week, No. 6 among non-English films, after 2.5 million views and No. 4 in its first week: 4.8 million views in two weeks. It streams in Tamil with Hindi, Telugu, Kannada and Malayalam audio.\n\nSethupathi is back in cinemas three times in eight weeks: Mysskin's Train on 4 December, Thiagarajan Kumararaja's Pocket Novel on 14 January for Pongal, and Mani Ratnam's Inji Vellam, with Sai Pallavi, on 29 January. Lyca Productions announced the Inji Vellam date on 11 November.\n\nWhich film did you skip in cinemas and end up loving at home?\n\nSources: Netflix Top 10, Koimoi, The Week, Cinema Express, The Hollywood Reporter India, DT Next\n\n#Baththa #VijaySethupathi #NetflixIndia #TamilCinema #idlynerd",
+  "alt_text": "Slide 1: a still from an official Baththa trailer, with the headline \"Vijay Sethupathi's Baththa Tops Netflix India's Films, 4.8M Views Worldwide\". Slide 2: 2.3M, Baththa's second-week views worldwide: down from 2.5M at No. 4 in week one; now No. 6 among non-English films; No. 1 film in Sri Lanka that week too. Slide 3: 5, languages you can watch Baththa in: Tamil original, plus Hindi, Telugu, Kannada and Malayalam audio, so family who don't speak Tamil can still watch it. Slide 4: 3, Vijay Sethupathi's next three cinema releases: 4 Dec 2026, Train, by Mysskin; 14 Jan 2027, Pocket Novel, for Pongal; 29 Jan 2027, Inji Vellam, by Mani Ratnam.",
+  "sources": [
+    "Netflix Top 10",
+    "Koimoi",
+    "The Week",
+    "Cinema Express",
+    "THR India",
+    "DT Next"
+  ],
+  "detail_slides": [
+    {
+      "stat": "2.3M",
+      "stat_label": "Baththa's Second-Week Views Worldwide",
+      "bullets": [
+        "Down from 2.5M at No. 4 in week one",
+        "Now No. 6 among non-English films",
+        "No. 1 film in Sri Lanka that week too"
+      ],
+      "credit_line": "Sources: Netflix Top 10, Koimoi"
+    },
+    {
+      "stat": "5",
+      "stat_label": "Languages You Can Watch Baththa In",
+      "bullets": [
+        "Tamil original, plus Hindi, Telugu, Kannada, Malayalam audio",
+        "Family who don't speak Tamil can still watch it"
+      ],
+      "credit_line": "Sources: Netflix, The Week"
+    },
+    {
+      "stat": "3",
+      "stat_label": "Vijay Sethupathi's Next Three Cinema Releases",
+      "bullets": [
+        "4 Dec 2026: Train, by Mysskin",
+        "14 Jan 2027: Pocket Novel, for Pongal",
+        "29 Jan 2027: Inji Vellam, by Mani Ratnam"
+      ],
+      "credit_line": "Sources: Cinema Express, THR India, DT Next"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=Dt4476TjEo0"
+  },
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: No. 1 among Netflix India's films is a clear claim, but 4.8M worldwide views is not a startling number on its own. read 2: four slides, each fact once. send 2: Tamil viewers forwarding to friends and family who need the Hindi/Telugu/Kannada/Malayalam audio; Sethupathi fans for three dated releases. keep 2: five audio languages plus three cinema dates. reply 2: skipped-in-cinemas question from readers' own lives. original 2: idly's synthesis of Netflix's weekly data with the release calendar (drops to 1 if the lane cover carries trailer lettering). alone 2: cover names the film, the platform, India and the number."
+    }
+  },
+  "created_at": "2026-11-11T20:05:19+05:30",
+  "notes": "format: news. idlynerd desk, hourly run 1927, v2 (last try). Same copy as 2026-11-11-idlynerd-baththa-netflix-no1 (Gates 1-2 PASS; Gate 4 HOLD on jVKwbD9hST8's lettered thumbnail). Image: Dt4476TjEo0 only ('World of Baththa', @thinkmusicofficial, allowlisted, oEmbed re-checked 11 Nov), no fallback. Thumbnail not viewed by the desk (people). Gate 4 HOLD triggers: burned-in text in the crop, face under headline/logo or cut off, soft cover. No tag."
+}
