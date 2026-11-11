@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0427-xbox-cloud-free",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Xbox India store",
+  "Xbox Wire",
+  "Pure Xbox"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Xbox Cloud Goes Free With Ads; 15-⁠Hour Game Pass Cap",
+   "photo": "_work/2026-11-12-hourly-0427/nerd/framing_xcloud-phone/cover_source.png",
+   "photo_credit": "Image: Xbox",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "11 NOV",
+   "stat_label": "Free Xbox Cloud Play With Ads Goes Public",
+   "bullets": [
+    "Stream select games you own, after watching ads",
+    "Some free-to-play titles too; no console or Game Pass",
+    "Time-limited sessions; Xbox lists it 'where available'"
+   ],
+   "credit_line": "Sources: Xbox India cloud gaming page, Pure Xbox"
+  },
+  {
+   "type": "detail",
+   "stat": "₹499",
+   "stat_label": "Game Pass Essential: Five Cloud Hours a Month",
+   "bullets": [
+    "Premium ₹699: 10 hours; Ultimate ₹1,089: 15 hours",
+    "Bought hours stay in your account until used",
+    "Microsoft expects the limits to affect 4% of subscribers"
+   ],
+   "credit_line": "Sources: Xbox India store (12 Nov), Xbox Wire, Windows Central"
+  }
+ ]
+}

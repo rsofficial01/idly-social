@@ -1,0 +1,17 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/01.jpg",
+  "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/02.jpg",
+  "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/alt.txt",
+ "score_file": "posts/2026-11-12/idlynerd-0427-xbox-cloud-free/score.json",
+ "title": "Xbox Cloud Gaming's free, ad-supported tier went public on 11 Nov 2026 (Pure Xbox; Xbox India cloud gaming page: 'Stream your games for free with ad-supported cloud gaming. Session limits apply', 'where available'): select games you own plus supported free-to-play games, no Game Pass needed. Microsoft is rolling out monthly Game Pass cloud limits (Xbox Wire, 3 Sep 2026: Ultimate 15 h, Premium 10, Essential 5; expects 4% of subscribers affected); Xbox India store read 12 Nov 04:57 IST lists Essential ₹499/month 'Cloud playtime (5 hours/month)', Premium ₹699 '(10 hours/month)', Ultimate ₹1,089 '(15 hours/month)'; purchased Cloud Playtime stays until used. Rollout uneven: Pure Xbox's Ultimate account still showed 'Unlimited' on 11 Nov. Xbox Cloud Gaming launched in India in Nov 2025.",
+ "tags": [
+  "xboxgamepass"
+ ]
+}

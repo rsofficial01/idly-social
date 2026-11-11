@@ -1,0 +1,126 @@
+{
+ "account": "idlynerd",
+ "title": "Xbox Cloud Gaming's free, ad-supported tier went public on 11 Nov 2026 (Pure Xbox; Xbox India cloud gaming page: 'Stream your games for free with ad-supported cloud gaming. Session limits apply', 'where available'): select games you own plus supported free-to-play games, no Game Pass needed. Microsoft is rolling out monthly Game Pass cloud limits (Xbox Wire, 3 Sep 2026: Ultimate 15 h, Premium 10, Essential 5; expects 4% of subscribers affected); Xbox India store read 12 Nov 04:57 IST lists Essential ₹499/month 'Cloud playtime (5 hours/month)', Premium ₹699 '(10 hours/month)', Ultimate ₹1,089 '(15 hours/month)'; purchased Cloud Playtime stays until used. Rollout uneven: Pure Xbox's Ultimate account still showed 'Unlimited' on 11 Nov. Xbox Cloud Gaming launched in India in Nov 2025.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Xbox India cloud gaming page (Microsoft)",
+   "date": "read 12 Nov 2026, 04:58 IST",
+   "url": "https://www.xbox.com/en-IN/cloud-gaming"
+  },
+  {
+   "outlet": "Xbox India store, Game Pass plans (Microsoft)",
+   "date": "read 12 Nov 2026, 04:57 IST",
+   "url": "https://www.xbox.com/en-IN/games/store/game-pass-premium/CFQ7TTC0P85B"
+  },
+  {
+   "outlet": "Xbox Wire (Microsoft), 'Upcoming Changes to Xbox Cloud Gaming'",
+   "date": "3 Sep 2026",
+   "url": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/"
+  },
+  {
+   "outlet": "Pure Xbox (Fraser Gilbert)",
+   "date": "11 Nov 2026",
+   "url": "https://www.purexbox.com/news/2026/11/xbox-brings-its-free-tier-of-cloud-gaming-to-loads-more-players-today"
+  },
+  {
+   "outlet": "Techlusive",
+   "date": "22 Apr 2026",
+   "url": "https://www.techlusive.in/gaming/xbox-game-pass-ultimate-now-more-affordable-in-india-after-price-drop-1658866/"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "12 Nov 2025",
+   "url": "https://www.freepressjournal.in/tech/xbox-cloud-gaming-launches-in-india-plans-start-from-rs-499-per-month"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "12 Nov 2025",
+   "url": "https://www.businesstoday.in/technology/news/story/xbox-cloud-gaming-launches-in-india-stream-hundreds-of-games-across-devices-with-xbox-game-pass-501910-2025-11-12"
+  },
+  {
+   "outlet": "PC Gamer (caps, 4%)",
+   "date": "Sep 2026",
+   "url": "https://www.pcgamer.com/gaming-industry/microsoft-announces-cap-on-xbox-cloud-gaming-hours-for-game-pass-subscribers-admits-most-arent-using-it-much-anyway/"
+  },
+  {
+   "outlet": "VGC (15-hour cap, extra playtime sold)",
+   "date": "Sep 2026",
+   "url": "https://www.videogameschronicle.com/news/xbox-is-capping-cloud-gaming-to-15-hours-and-charging-for-extra-playtime/"
+  },
+  {
+   "outlet": "Windows Central",
+   "date": "21 Oct 2026",
+   "url": "https://www.windowscentral.com/gaming/xbox/microsoft-reveals-its-new-hourly-xbox-cloud-gaming-playtime-pass-prices"
+  }
+ ],
+ "fact_sources": {
+  "Free ad-supported tier public on 11 Nov; select owned games + some F2P; no Game Pass needed; session limits; 'where available'": [
+   "Xbox India cloud page (Microsoft)",
+   "Pure Xbox"
+  ],
+  "Monthly Game Pass cloud limits rolling out: Ultimate 15 h, Premium 10, Essential 5": [
+   "Xbox Wire / Xbox India store (Microsoft)",
+   "Pure Xbox",
+   "VGC",
+   "PC Gamer"
+  ],
+  "Essential ₹499, Premium ₹699 (India)": [
+   "Xbox India store (Microsoft, 12 Nov)",
+   "Free Press Journal"
+  ],
+  "Ultimate ₹1,089 (India)": [
+   "Xbox India store (Microsoft, 12 Nov)",
+   "Techlusive"
+  ],
+  "Microsoft expects 4% of Game Pass subscribers affected": [
+   "Xbox Wire (Microsoft, attributed)",
+   "PC Gamer"
+  ],
+  "Pure Xbox's Ultimate account still showed Unlimited on 11 Nov": [
+   "Pure Xbox (attributed, single outlet, own account)"
+  ],
+  "Xbox Cloud Gaming launched in India Nov 2025": [
+   "Business Today",
+   "Free Press Journal"
+  ],
+  "Purchased Cloud Playtime stays in the account until used": [
+   "Xbox India cloud page FAQ (Microsoft)",
+   "Windows Central (21 Oct 2026: passes don't expire until fully used)"
+  ]
+ },
+ "image": {
+  "page": "https://www.xbox.com/en-IN/cloud-gaming",
+  "file_url": "https://cms-assets.xboxservices.com/assets/e2/93/e2938f57-cdc7-46af-b759-60e476ba0fa5.jpg?n=Cloud-Gaming_Panel-760_Handheld_980x1080_02.jpg",
+  "author": "Xbox (Microsoft)",
+  "licence": "Official brand marketing image on Xbox's own India page, used with credit",
+  "size": "1960x2160",
+  "local": "_work/2026-11-12-hourly-0427/nerd/img/xcloud-handheld-980.jpg",
+  "faces": 0,
+  "viewed": true,
+  "subject": "Smartphone in a clip-on controller streaming a racing game (fictional game art), held in two hands cut off at the frame edges; no face, head or body; bokeh background",
+  "credit": "Image: Xbox",
+  "card_credit": "Image: Xbox"
+ },
+ "cover": {
+  "photo": "_work/2026-11-12-hourly-0427/nerd/framing_xcloud-phone/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.62,
+  "note": "pipeline.framing ok, faces 0; centre 4:5 crop of the full height, downscale only, no blur or compositing. Headline uses a U+2060 word joiner after the hyphen so '15-Hour' stays on one line."
+ },
+ "tags": [
+  "xboxgamepass"
+ ],
+ "tags_confirmed": "xboxgamepass: the only Instagram link in the HTML of xbox.com/en-IN/cloud-gaming (Xbox's own site); confirmed by the reviewer and Main at Gate 1b",
+ "gates": {
+  "gate1": "A BUILD after picture re-pitch (_work/2026-11-12-hourly-0427/reviews/nerd-g1.md, nerd-g1b.md); B Fairgames and C Witcher 3 AI voice DROP",
+  "gate23": "FIX slide 2 applied (_work/2026-11-12-hourly-0427/reviews/nerd-g2.md): stat ₹0 -> 11 NOV, label 'Free Xbox Cloud Play With Ads Goes Public', 'games you own' said once; alt updated. Cover, slide 3, caption, picture PASS",
+  "gate4": "pending (packet _work/2026-11-12-hourly-0427/packets/nerd-g4.md)"
+ }
+}
