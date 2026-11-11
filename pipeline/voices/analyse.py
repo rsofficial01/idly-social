@@ -150,7 +150,7 @@ def markdown(d: dict) -> str:
              f"**{t['posts_counted']:,} posts from {t['people']:,} accounts** counted "
              f"({', '.join(f'{k} {v:,}' for k, v in t['by_platform'].items()) or 'none'}); "
              f"languages: {', '.join(f'{k} {v:,}' for k, v in t['by_language'].items()) or 'n/a'}. "
-             f"{d['repeated_text']['posts']:,} copy-paste posts left out. {t['untagged']:,} matched no theme.", '',
+             f"{d['repeated_text']['posts']:,} copy-paste posts left out. {t['untagged']:,} matched no theme (some of those still name a party; see Unmatched posts).", '',
              '## Read this first', ''] + [f'- {c}' for c in d['caveats']] + ['', '## Themes, by number of different people', '',
              '| Theme | People | Posts | Likes | Platforms |', '|---|---:|---:|---:|---|']
     for r in d['themes']:

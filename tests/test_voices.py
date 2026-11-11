@@ -151,6 +151,8 @@ class AnalyseTests(unittest.TestCase):
     def test_themes_and_language(self):
         self.assertIn('power', themes.tag('தினமும் மின்வெட்டு'))
         self.assertIn('women_aid', themes.tag('where is the 2500 for women'))
+        self.assertNotIn('water', themes.tag('வெள்ளை அறிக்கை வெளியிட்டார்'))      # 'white paper' is not a flood
+        self.assertIn('water', themes.tag('சென்னையில் வெள்ளம்'))
         self.assertEqual(themes.language('தினமும் மின்வெட்டு நடக்கிறது'), 'ta')
         self.assertEqual(themes.language('namma area la current illa, romba kashtam'), 'ta-latn')
         self.assertEqual(themes.language('The roads are better now'), 'en')

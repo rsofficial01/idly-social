@@ -12,7 +12,7 @@ THEMES: dict[str, tuple[str, list[str]]] = {
         'விலைவாசி', 'விலை உயர்', 'விலையேற்ற', 'ஆவின்', 'பால் விலை']),
     'water': ('Rain, flooding and drinking water', [
         'waterlog', 'water log', 'flood', 'storm water', 'stormwater', 'rain water', 'drainage', 'drinking water',
-        'மழைநீர்', 'வெள்ள', 'தண்ணீர்', 'வடிகால்', 'குடிநீர்', 'mazhai']),
+        'மழைநீர்', 'வெள்ளம்', 'வெள்ளத்', 'வெள்ளப்', 'வெள்ள நீர்', 'வெள்ள பாதிப்பு', 'தண்ணீர்', 'வடிகால்', 'குடிநீர்', 'mazhai']),
     'law_order': ('Law and order, safety', [
         'law and order', 'law & order', 'murder', 'rowdy', 'rowdies', 'crime', 'women safety', "women's safety", 'harass',
         'custodial', 'lock-up', 'lockup', 'சட்டம் ஒழுங்கு', 'சட்டம்-ஒழுங்கு', 'கொலை', 'ரவுடி', 'பாதுகாப்பு', 'பாலியல்']),
