@@ -48,8 +48,15 @@ THEMES: dict[str, tuple[str, list[str]]] = {
         'centre', 'central government', 'union government', 'governor', 'delimitation', 'hindi', 'nep', 'gst share',
         'bjp', 'modi', 'மத்திய அரசு', 'ஒன்றிய அரசு', 'ஆளுநர்', 'இந்தி', 'தொகுதி மறுவரையறை']),
     'experience': ('Inexperience, "give him time"', [
-        'inexperience', 'no experience', 'experience', 'give him time', 'give time', 'six months', '6 months',
-        'reel', 'actor', 'fan club', 'அனுபவ', 'அவகாச', 'ஆறு மாத', 'நடிகர்']),
+        'inexperience', 'no experience', 'not experienced', 'give him time', 'give time', 'give some time', 'six months',
+        '6 months', 'அனுபவம் இல்ல', 'அனுபவமில்ல', 'அவகாச', 'ஆறு மாத', '6 மாத', 'டைம் கொடு', 'time kudu']),
+    'welfare': ('Welfare schemes, ration, pensions', [
+        'ration', 'pension', 'scheme', 'free bus', 'breakfast', 'gold ring', 'ரேஷன்', 'ஓய்வூதிய', 'திட்டம்', 'இலவச',
+        'நியாய விலை', 'pongal gift', 'பொங்கல் பரிசு']),
+    'govt_staff': ('Government staff, teachers, old pension', [
+        'old pension', 'ops scheme', 'govt employee', 'government employee', 'jacto', 'அரசு ஊழியர்', 'பழைய ஓய்வூதிய',
+        'பணி நிரந்தர', 'தற்காலிக', 'part time teacher', 'பகுதிநேர']),
+    'housing_land': ('Housing, patta, land', ['patta', 'பட்டா', 'வீடு', 'housing', 'eviction', 'ஆக்கிரமிப்பு']),
 }
 
 _TAMIL = re.compile(r'[஀-௿]')
@@ -77,3 +84,61 @@ def label(key: str, extra_labels: dict | None = None) -> str:
     if key in THEMES:
         return THEMES[key][0]
     return (extra_labels or {}).get(key, key.replace('_', ' ').title())
+
+
+# Who a post is about: party and leader names, plus the nicknames and insults supporters and opponents use for
+# each side. Used only to sort posts; the insult words themselves are never published.
+ABOUT: dict[str, tuple[str, list[str]]] = {
+    'tvk': ('TVK / Vijay', [
+        'tvk', 'vijay', 'thalapathy', 'thalapathi', 'thalaivaa', 'joseph', 'panaiyur', 'anil', 'anils', 'tharkuri',
+        'bussy', 'aadhav', 'sengottaiyan', 'த.வெ.க', 'தவெக', 'விஜய்', 'தளபதி', 'வெற்றிக் கழக', 'வெற்றி கழக', 'பனையூர்',
+        'ஜோசப்', 'அணில்', 'தற்குறி', 'புஸ்ஸி', 'ஆதவ்', 'செங்கோட்டையன்', 'விசில்']),
+    'dmk': ('DMK / Stalin', [
+        'dmk', 'stalin', 'udhay', 'udhayanidhi', 'karunanidhi', 'kanimozhi', 'senthil balaji', 'dravidian model',
+        'dravida model', 'vidiyal', 'sudalai', 'oopis', 'upis', 'திமுக', 'தி.மு.க', 'ஸ்டாலின்', 'உதயநிதி', 'கருணாநிதி',
+        'கனிமொழி', 'செந்தில் பாலாஜி', 'திராவிட மாடல்', 'விடியல்', 'சுடலை', 'ஊபி', 'உபிஸ்', 'உடன்பிறப்பு', 'அறிவாலய',
+        'சூரியன்', 'கலைஞர்']),
+    'aiadmk': ('AIADMK / EPS', [
+        'aiadmk', 'admk', 'eps', 'edappadi', 'palaniswami', 'palanisamy', 'jayalalitha', 'jayalalithaa', 'velumani',
+        'panneerselvam', 'அதிமுக', 'அ.தி.மு.க', 'எடப்பாடி', 'பழனிசாமி', 'ஜெயலலிதா', 'அம்மா ஆட்சி', 'வேலுமணி',
+        'பன்னீர்', 'இரட்டை இலை', 'எம்ஜிஆர்']),
+    'bjp': ('BJP / Centre', [
+        'bjp', 'modi', 'annamalai', 'amit shah', 'sanghi', 'sangi', 'nainar', 'rss', 'பாஜக', 'பா.ஜ.க', 'மோடி',
+        'அண்ணாமலை', 'அமித்', 'சங்கி', 'நயினார்', 'தாமரை']),
+    'ntk': ('NTK / Seeman', ['ntk', 'seeman', 'naam tamilar', 'நாம் தமிழர்', 'சீமான்', 'தம்பிகள்']),
+    'congress': ('Congress', ['congress', 'rahul gandhi', 'selvaperunthagai', 'காங்கிரஸ்', 'ராகுல்']),
+    'vck_left': ('VCK / Left', ['vck', 'thiruma', 'thirumavalavan', 'cpm', 'communist', 'விசிக', 'திருமா', 'கம்யூனிஸ்ட்']),
+    'pmk': ('PMK', ['pmk', 'anbumani', 'ramadoss', 'பாமக', 'அன்புமணி', 'ராமதாஸ்']),
+}
+
+PRAISE = ['super', 'great', 'good job', 'well done', 'congrat', 'best cm', 'proud', 'thank', 'excellent', 'hats off',
+          'good decision', 'welcome move', 'நல்ல', 'அருமை', 'சூப்பர்', 'வாழ்த்து', 'நன்றி', 'பாராட்டு', 'சிறப்பு', 'வரவேற்க',
+          'மகிழ்ச்சி', 'semma', 'vera level', 'nalla']
+CRITIC = ['worst', 'waste', 'fail', 'useless', 'resign', 'shame', 'fraud', 'cheat', 'fake', 'disappoint', 'regret',
+          'pathetic', 'nothing done', 'no use', 'மோசம்', 'ஏமாற்ற', 'தோல்வி', 'வெட்க', 'கேவல', 'பொய்', 'வீண்', 'ராஜினாமா',
+          'நடக்கவில்லை', 'செய்யவில்லை', 'ஒன்றும் இல்ல', 'எதுவும் இல்ல', 'கொடுமை', 'mosam', 'poi', 'emaathu']
+
+_LATIN = re.compile(r'^[a-z0-9 .\'&-]+$')
+_cache: dict[str, re.Pattern] = {}
+
+
+def _hit(low: str, term: str) -> bool:
+    """Latin-script terms match as whole words ('eps' must not match 'steps'); Tamil terms match as substrings."""
+    term = term.lower()
+    if not _LATIN.match(term):
+        return term in low
+    pat = _cache.get(term)
+    if pat is None:
+        pat = _cache[term] = re.compile(r'(?<![a-z0-9])' + re.escape(term) + r'(?![a-z0-9])')
+    return bool(pat.search(low))
+
+
+def about(text: str) -> list[str]:
+    low = text.lower()
+    return [key for key, (_, words) in ABOUT.items() if any(_hit(low, w) for w in words)]
+
+
+def tone(text: str) -> str:
+    low = text.lower()
+    p, c = any(w in low for w in PRAISE), any(w in low for w in CRITIC)
+    return 'mixed' if p and c else 'praise' if p else 'criticism' if c else ''

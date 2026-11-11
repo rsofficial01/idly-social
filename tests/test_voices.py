@@ -155,6 +155,14 @@ class AnalyseTests(unittest.TestCase):
         self.assertEqual(themes.language('namma area la current illa, romba kashtam'), 'ta-latn')
         self.assertEqual(themes.language('The roads are better now'), 'en')
 
+    def test_about_and_tone(self):
+        self.assertEqual(themes.about('three steps to fix this'), [])            # 'eps' inside 'steps' is not AIADMK
+        self.assertEqual(themes.about('EPS should answer for this'), ['aiadmk'])
+        self.assertEqual(themes.about('விடியல் ஆட்சி போதும், தளபதி வந்தாச்சு'), ['tvk', 'dmk'])
+        self.assertEqual(themes.tone('Super decision by the CM'), 'praise')
+        self.assertEqual(themes.tone('worst government, total waste'), 'criticism')
+        self.assertEqual(themes.tone('the bus was late'), '')
+
     def test_digest_drops_copy_paste_and_never_names_anyone(self):
         spam = 'TVK government is the best government ever in the history of Tamil Nadu, vote TVK again and again'
         raw = [post(1, 'Daily power cut for three hours in Perambur, @some_handle said the same', 'a', 50),

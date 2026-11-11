@@ -37,6 +37,8 @@ def prepare(posts: list[Post], must_match: list[str], extra_themes: dict | None 
             continue
         p.themes = themes.tag(p.text, extra_themes)
         p.lang = themes.language(p.text)
+        p.about = themes.about(p.text)
+        p.tone = themes.tone(p.text)
         out.append(p)
     return out
 
@@ -49,6 +51,31 @@ def repeated(posts: list[Post], min_authors: int = 3, min_chars: int = 60) -> di
         if len(n) >= min_chars:
             by_text[n].add(p.author_key)
     return {t: a for t, a in by_text.items() if len(a) >= min_authors}
+
+
+_TOKEN = re.compile(r'[a-z]{4,}|[\u0B80-\u0BFF]{3,}')
+_STOP = set('''this that with have from they will what your there their about would which when were been them then than
+very just like only also more some into over such even much many most does dont cant here please sir brother anna
+இந்த அந்த என்று என்ன ஒரு அது இது நான் நீங்கள் அவர் அவர்கள் இருக்கு இல்லை வேண்டும் மட்டும் தான் எல்லா நம்ம எங்கள் உங்கள் அவங்க இருக்கும்
+செய்ய வந்து போல மேலும் ஆனால் எனக்கு நாங்கள் ஐயா அண்ணா சார் பண்ண இனி இப்போ எப்போ எங்க யார் ஏன் கூட'''.split())
+
+
+def unmatched_terms(posts: list[Post], top: int = 80, min_people: int = 6) -> list[list]:
+    """The commonest words in posts that matched no theme and named no party: what the keyword lists are missing."""
+    who = defaultdict(set)
+    for p in posts:
+        if p.themes or p.about:
+            continue
+        for tok in set(_TOKEN.findall(p.text.lower())):
+            if tok not in _STOP:
+                who[tok].add(p.author_key)
+    rows = sorted(((t, len(a)) for t, a in who.items() if len(a) >= min_people), key=lambda r: -r[1])
+    return [list(r) for r in rows[:top]]
+
+
+def _tones(group: list[Post]) -> dict:
+    c = Counter(p.tone or 'neither' for p in group)
+    return {k: c.get(k, 0) for k in ('praise', 'criticism', 'mixed', 'neither')}
 
 
 def digest(topic: dict, posts: list[Post], notes: dict, now: datetime | None = None, per_theme: int = 6) -> dict:
@@ -88,15 +115,28 @@ def digest(topic: dict, posts: list[Post], notes: dict, now: datetime | None = N
         'window': {'since': topic.get('since'), 'until': topic.get('until')},
         'totals': {'posts_read': len(posts), 'posts_counted': len(clean), 'people': len(authors),
                    'by_platform': dict(by_platform), 'by_language': dict(langs),
-                   'untagged': sum(1 for p in clean if not p.themes)},
+                   'untagged': sum(1 for p in clean if not p.themes),
+                   'tone': _tones(clean)},
         'repeated_text': {'distinct_texts': len(rep), 'posts': len(rep_ids),
                           'examples': [excerpt(t, 140) for t in sorted(rep, key=lambda t: -len(rep[t]))[:5]]},
         'where_from': dict(owners.most_common(20)),
+        'about': [{'key': k, 'label': themes.ABOUT[k][0], 'people': len({p.author_key for p in g}), 'posts': len(g),
+                   'only_this_party': sum(1 for p in g if len(p.about) == 1),
+                   'tone_when_only_this_party': _tones([p for p in g if len(p.about) == 1])}
+                  for k in themes.ABOUT for g in [[p for p in clean if k in p.about]] if g],
+        'by_month': [{'month': m, 'posts': len(g), 'tone': _tones(g),
+                      'tvk_only_tone': _tones([p for p in g if p.about == ['tvk']]),
+                      'top_themes': [themes.label(k) for k, _ in Counter(t for p in g for t in p.themes).most_common(4)]}
+                     for m in sorted({p.published.strftime('%Y-%m') for p in clean if p.published})
+                     for g in [[p for p in clean if p.published and p.published.strftime('%Y-%m') == m]]],
+        'unmatched': {'posts': sum(1 for p in clean if not p.themes and not p.about),
+                      'common_words': unmatched_terms(clean)},
         'themes': theme_rows, 'platform_notes': notes,
         'caveats': [
             'This is a reading of public posts found by the searches below, not a poll. It cannot give a share of the population.',
             'Comment sections over-represent people who are angry, organised or very online; party IT wings and fan pages post in them.',
             'Text repeated word for word by three or more accounts is left out of the counts and reported separately.',
+            'Tone is a word match (praise words v criticism words), not a reading of meaning: sarcasm and insults aimed at the other side are miscounted. Use it for direction over time, never as a percentage of support.',
             'Themes are matched by keyword. A post that mentions power cuts is counted under power whether it blames or defends anyone.',
             'YouTube comments sit under videos from channels with their own lean; the list of channels is in platform notes.',
         ],
@@ -121,6 +161,17 @@ def markdown(d: dict) -> str:
         for x in r['top']:
             under = f" · under “{x['under']}” ({x['owner']})" if x['under'] else f" · {x['owner']}"
             lines.append(f"- “{x['text']}” · {x['likes']:,} likes · {x['date']}{under} · [link]({x['url']})")
+    lines += ['', '## Who the posts are about', '', '| Party | People | Posts | Naming only this party | Praise words | Criticism words |', '|---|---:|---:|---:|---:|---:|']
+    for r in d.get('about', []):
+        t = r['tone_when_only_this_party']
+        lines.append(f"| {r['label']} | {r['people']:,} | {r['posts']:,} | {r['only_this_party']:,} | {t['praise']:,} | {t['criticism']:,} |")
+    lines += ['', '## Month by month', '', '| Month | Posts | Praise words | Criticism words | TVK-only: praise | TVK-only: criticism | Top themes |', '|---|---:|---:|---:|---:|---:|---|']
+    for r in d.get('by_month', []):
+        lines.append(f"| {r['month']} | {r['posts']:,} | {r['tone']['praise']:,} | {r['tone']['criticism']:,} | "
+                     f"{r['tvk_only_tone']['praise']:,} | {r['tvk_only_tone']['criticism']:,} | {', '.join(r['top_themes'])} |")
+    u = d.get('unmatched', {})
+    lines += ['', f"## Unmatched posts ({u.get('posts', 0):,}): commonest words", '',
+              ', '.join(f'{w} ({n})' for w, n in u.get('common_words', [])) or 'none']
     lines += ['', '## Copy-paste text (left out of the counts)', '']
     lines += [f'- “{e}”' for e in d['repeated_text']['examples']] or ['- none found']
     lines += ['', '## Where the posts sit', ''] + [f'- {k}: {v:,}' for k, v in d['where_from'].items()]

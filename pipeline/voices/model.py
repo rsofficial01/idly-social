@@ -21,6 +21,8 @@ class Post:
     context_owner: str = ''  # the channel or subreddit
     themes: list[str] = field(default_factory=list)
     lang: str = ''
+    about: list[str] = field(default_factory=list)   # parties/leaders the post names
+    tone: str = ''           # praise | criticism | mixed | '' (word match only)
 
 
 class PlatformError(Exception):
