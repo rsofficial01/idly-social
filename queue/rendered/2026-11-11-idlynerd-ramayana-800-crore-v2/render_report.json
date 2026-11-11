@@ -1,0 +1,160 @@
+{
+  "slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-11T05:31:01+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "source_url": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "image_url": "https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png",
+    "credit": "Image: ReDefine (Prime Focus)",
+    "organisation": "ReDefine (Prime Focus)",
+    "image_size": [
+      4096,
+      2160
+    ],
+    "log": [
+      "page https://www.redefine.co/news/the-journey-begins-with-rama (ReDefine (Prime Focus)): og:title 'The Journey Begins with RAMA', 1 image(s)",
+      "image https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png (4096x2160)"
+    ],
+    "og_title": "The Journey Begins with RAMA"
+  },
+  "faces": [
+    [
+      1953.8,
+      622.7,
+      354.0,
+      450.8,
+      0.933
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5202,
+      0.5098
+    ],
+    "zoom": 1.02,
+    "upscale": 0.638,
+    "crop": [
+      1284.0,
+      42.0,
+      1694.0,
+      2118.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        400,
+        336,
+        680,
+        692
+      ]
+    ],
+    "logo_saliency": 1.67,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        1953.8,
+        622.7,
+        354.0,
+        450.8,
+        0.933
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 0.638,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: ReDefine (Prime Focus)",
+      "Source: Sacnilk",
+      "Source: Sacnilk"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 98,
+      "lines": 3,
+      "overflow": false,
+      "top": 956,
+      "credit_line": "Image: ReDefine (Prime Focus)",
+      "slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 0.638
+    },
+    {
+      "stat": 232,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Sacnilk",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 232,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Sacnilk",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-11-idlynerd-ramayana-800-crore-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana: Part 1 has grossed about ₹823.5 crore worldwide after six days (5–10 Nov), trade tracker Sacnilk estimates.\n\nThat is ₹526.5 crore gross from India and ₹297 crore from overseas. India net stands at ₹440.45 crore. Its biggest day so far was Monday 9 Nov at ₹107.5 crore net (Bollywood Hungama counts ₹103.47 crore), and Tuesday held at ₹94.1 crore, down 12.5%.\n\nThe Hindi version accounts for ₹336 crore of the India net. Kannada is next at ₹41.2 crore, ahead of Telugu (₹33 crore), Tamil (₹17.35 crore) and Malayalam (₹12.9 crore).\n\nJioHotstar will stream it as a pay-per-view release after its cinema run; no date or price yet.\n\nWhich language did you watch Ramayana in, or are you waiting for JioHotstar?\n\nSources: Sacnilk, Business Today, ETV Bharat, Bollywood Hungama, Prime Focus, Outlook\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd\n\nImage: ReDefine (Prime Focus)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
