@@ -1,0 +1,118 @@
+{
+ "account": "idlytech",
+ "title": "Apple sells 'intelligence usage packs' (AI top-ups) for Apple Creator Studio (reported 9 Nov 2026): $49.99 one-time in the US (no rupee price reported); sold in 8 countries incl. India (US, UK, Canada, Brazil, France, Germany, India, Mexico); used only after the monthly AI limit; unused usage rolls over and expires 12 months after purchase; tied to the buying Apple Account, no Family Sharing; Logic Pro is the only app selling them so far. Creator Studio in India: ₹399/month or ₹3,999/year; students and educators ₹199/month or ₹1,999/year.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Engadget",
+   "date": "9 Nov 2026",
+   "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/"
+  },
+  {
+   "outlet": "9to5Mac",
+   "date": "9 Nov 2026",
+   "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+  },
+  {
+   "outlet": "iClarified",
+   "date": "Nov 2026",
+   "url": "https://www.iclarified.com/103377/apple-starts-selling-extra-ai-usage-for-creator-studio"
+  },
+  {
+   "outlet": "Smartprix",
+   "date": "28 Oct 2026",
+   "url": "https://us.smartprix.com/bytes/your-macs-creative-apps-are-getting-ai-assistants-and-apple-creator-studio-still-starts-at-₹399-a-month/"
+  },
+  {
+   "outlet": "Digit",
+   "date": "29 Jan 2026 (updated)",
+   "url": "https://www.digit.in/news/general/apple-creator-studio-now-available-for-purchase-india-pricing-what-it-offers-and-more.html"
+  },
+  {
+   "outlet": "Telecomtalk",
+   "date": "14 Jan 2026",
+   "url": "https://telecomtalk.info/apple-creator-studio-launched-in-india-for-rs-399-per-month/1003519/"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "Jan 2026",
+   "url": "https://www.freepressjournal.in/tech/apple-creator-studio-subscription-launched-in-india-final-cut-pro-logic-pro-pixelmator-pro-priced-at-399-per-month"
+  },
+  {
+   "outlet": "Apple Newsroom (image source)",
+   "date": "27 Oct 2026",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
+  }
+ ],
+ "fact_sources": {
+  "Intelligence usage pack is a $49.99 one-time purchase (US price)": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/ ($50, US)",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/ ($49.99 one-time purchase)"
+  ],
+  "No rupee price for the pack has been reported": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/ (US price only)",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/ (US price only)",
+   "idly #1918 (sources give no rupee price); Smartprix's ~₹4,500 is a currency estimate and is not used"
+  ],
+  "Launch reported 9 Nov 2026": [
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/ (9 Nov 2026, 8:32 a.m. PT)",
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/ (9 Nov 2026, 3:56 pm EST)"
+  ],
+  "Sold in 8 countries incl. India (US, UK, Canada, Brazil, France, Germany, India, Mexico); active Creator Studio subscription needed": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+   "https://www.iclarified.com/103377/apple-starts-selling-extra-ai-usage-for-creator-studio"
+  ],
+  "Used only after the monthly limit is reached": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+  ],
+  "Unused usage rolls over month to month, expires 12 months after purchase": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+  ],
+  "Tied to the Apple Account that bought it; no Family Sharing": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+  ],
+  "Logic Pro is the only app selling packs so far": [
+   "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/ (first app to support the packs)",
+   "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/ (only app where you can currently buy extra usage)"
+  ],
+  "Creator Studio India: ₹399/month, ₹3,999/year": [
+   "https://www.digit.in/news/general/apple-creator-studio-now-available-for-purchase-india-pricing-what-it-offers-and-more.html",
+   "https://telecomtalk.info/apple-creator-studio-launched-in-india-for-rs-399-per-month/1003519/",
+   "https://us.smartprix.com/bytes/your-macs-creative-apps-are-getting-ai-assistants-and-apple-creator-studio-still-starts-at-₹399-a-month/"
+  ],
+  "Students and educators: ₹199/month, ₹1,999/year": [
+   "https://www.digit.in/news/general/apple-creator-studio-now-available-for-purchase-india-pricing-what-it-offers-and-more.html (student/educator ₹199/₹1,999)",
+   "https://telecomtalk.info/apple-creator-studio-launched-in-india-for-rs-399-per-month/1003519/ (student ₹199/₹1,999)",
+   "https://us.smartprix.com/bytes/your-macs-creative-apps-are-getting-ai-assistants-and-apple-creator-studio-still-starts-at-₹399-a-month/ (₹199/month for students and educators)"
+  ]
+ },
+ "left_out": [
+  "Which other apps get packs next and when (sources differ: 9to5Mac says Final Cut Pro, Pixelmator Pro, iWork later this month; Engadget calls it likely)",
+  "How much usage a pack buys (Apple hasn't said)",
+  "'Built on Apple models and OpenAI' detail of the assistants (not double-checked in time)",
+  "Smartprix's ~₹4,500 rupee estimate for the pack (a currency conversion, not a price)",
+  "The 27 Oct Creator Studio feature update list (two weeks old)",
+  "idly #1918 not linked: it says the pack report did not say how long a pack lasts, which contradicts the 12-month fact"
+ ],
+ "photo_source": {
+  "page": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+  "file": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/article/Apple-Creator-Studio-Logic-Pro-for-Mac-assistant-261027_big.jpg.large_2x.jpg (1960x1307; saved as _work/2026-11-11-hourly-1227/idlytech/photos/Apple-Creator-Studio-Logic-Pro-for-Mac-assistant-261027.jpg)",
+  "licence": "Apple Newsroom press image (company's own newsroom, editorial use for the product it announces)",
+  "author": "Apple",
+  "credit": "Image: Apple",
+  "subject": "Logic Pro for Mac on a MacBook Pro with the Assistant (beta) panel open beside a drum-pattern project; the app that sells the packs first",
+  "viewed": true,
+  "processing": "pipeline.framing on the original: ok, 0 faces, upscale 1.03. Cover rendered by cardkit hype from framing/Apple-Creator-Studio-Logic-Pro-for-Mac-assistant-261027/cover_source.png at focal (0.60, 0.5), zoom 1.0 (reviewer G1 fix 6): crop 1046 px wide, upscaled 1.03x to 1080x1350. Assistant panel whole on the right third (y ~350-925), above the headline block; the logo sits on the black band above the laptop. No fill, blur, letterbox or recolour."
+ },
+ "tags": [],
+ "tag_evidence": {},
+ "gates": {
+  "g1": "BUILD B with fixes 1-8 (g1-review.md), all applied"
+ },
+ "story": "none (Stories paused)"
+}

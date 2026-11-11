@@ -1,0 +1,28 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-1227-creator-studio-ai-top-ups",
+  "date": "11 Nov 2026",
+  "sources": ["Engadget", "9to5Mac", "Smartprix", "Digit"],
+  "slides": [
+    {"type": "cover",
+     "headline": "Apple's ₹399 Creator Studio Now Sells $49.99 AI Top-Ups",
+     "photo": "_work/2026-11-11-hourly-1227/idlytech/framing/Apple-Creator-Studio-Logic-Pro-for-Mac-assistant-261027/cover_source.png",
+     "photo_credit": "Image: Apple",
+     "focal": [0.60, 0.5],
+     "zoom": 1.0},
+    {"type": "detail",
+     "stat": "12 MONTHS",
+     "stat_label": "How Long a Creator Studio AI Top-Up Lasts",
+     "bullets": ["Used only once your monthly AI limit runs out",
+                 "One Apple Account only; family members can't share it",
+                 "Logic Pro is the only app selling it now"],
+     "credit_line": "Sources: Engadget, 9to5Mac"},
+    {"type": "detail",
+     "stat": "₹3,999",
+     "stat_label": "Creator Studio's Yearly Price in India",
+     "bullets": ["Students, educators: ₹199 a month, ₹1,999 a year",
+                 "Indian subscribers can buy top-ups: one of eight countries",
+                 "$49.99 is the US price; rupee price not reported"],
+     "credit_line": "Sources: Digit, Smartprix, Engadget"}
+  ]
+}
