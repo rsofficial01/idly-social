@@ -1,0 +1,126 @@
+{
+ "account": "idlynews",
+ "title": "Reuters investigation (11 Nov 2026): DoT ordered internet providers to block 129 betting websites in 2026 (34 on 21 Jul, purported Rajasthan HC order; 95 on 2 Sep, purported Allahabad HC order) on emailed documents presented as High Court orders that neither court's online records contain; Rajasthan HC registrar: 'appears to be fraudulent'; Allahabad HC judge's office: 'no such order has been passed'; Allahabad HC complaint and UP Police case on 6 Nov against unknown persons for alleged forgery and cheating; no arrests reported; DoT did not respond to Reuters; both directions still on DoT's website on 11 Nov (Reuters)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Reuters (via Yahoo News)",
+   "date": "11 Nov 2026",
+   "url": "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html"
+  },
+  {
+   "outlet": "Reuters (via Khaleej Times)",
+   "date": "11 Nov 2026 (2:25 pm)",
+   "url": "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "11 Nov 2026 (2:41 pm)",
+   "url": "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites"
+  },
+  {
+   "outlet": "The Wire",
+   "date": "11 Nov 2026 (6:34 pm)",
+   "url": "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report"
+  },
+  {
+   "outlet": "The420.in (re-reports Reuters)",
+   "date": "11 Nov 2026",
+   "url": "https://the420.in/india-fake-high-court-website-blocking-orders/"
+  }
+ ],
+ "fact_sources": {
+  "DoT ordered internet providers to block 129 betting websites in 2026 on two purported High Court orders": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html ('129 illegal betting websites this year based on two state High Court orders')",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites ('led to the blocking of 129 websites in total')",
+   "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report"
+  ],
+  "34 sites blocked by the 21 July direction, on a purported Rajasthan HC order": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html (July 21 direction, 34 betting websites)",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites (forged Rajasthan HC order, at least 34 websites in July)",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe"
+  ],
+  "95 sites blocked by the 2 September direction, on a purported Allahabad HC order": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html (Sept 2 direction, 95)",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites (blocking order dated 2 September; 95 websites)",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe"
+  ],
+  "Both directions rested on emailed documents presented as High Court orders": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html ('Each came with emailed copies of purported court orders')",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe ('The order was emailed on Sunday, July 19')"
+  ],
+  "Neither document is in either court's online case (registration) records, per Reuters": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe ('neither court order appears in the courts' online registration records')",
+   "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report"
+  ],
+  "Rajasthan HC registrar: the order 'appears to be fraudulent'": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites",
+   "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report"
+  ],
+  "Allahabad HC judge's office: 'no such order has been passed'; the court found the order was never passed": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe ('no such order has been passed by Her Ladyship')",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites (internal investigation found no such order; private secretary confirmed)"
+  ],
+  "The Allahabad 'order' QR code opened an unrelated page (Reuters)": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html (random page showing the case number)",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe ('led to a random webpage that displayed a one-line case number')",
+   "https://the420.in/india-fake-high-court-website-blocking-orders/"
+  ],
+  "Allahabad HC filed a police complaint on 6 Nov; UP Police registered a case against unknown persons for alleged forgery and cheating": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites (FIR registered 6 Nov; BNS 318(2), 336(2), 336(3), 337, 338, 340(2))",
+   "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report"
+  ],
+  "No arrests reported": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe ('no arrests had been made')",
+   "https://the420.in/india-fake-high-court-website-blocking-orders/"
+  ],
+  "Who made the orders is not known": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html ('could not determine who created them')",
+   "https://m.thewire.in/article/law/india-blocked-129-betting-sites-but-the-court-orders-behind-them-were-faked-report ('unclear how the orders were generated')",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe"
+  ],
+  "DoT did not respond to Reuters' questions": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe",
+   "https://the420.in/india-fake-high-court-website-blocking-orders/"
+  ],
+  "Both directions still on DoT's website on 11 Nov (Reuters)": [
+   "https://sg.news.yahoo.com/exclusive-india-ordered-website-takedowns-100604196.html ('As of Wednesday, both orders remained on the ministry's website')",
+   "https://www.khaleejtimes.com/world/asia/india-website-takedowns-fake-court-orders-police-probe",
+   "https://the420.in/india-fake-high-court-website-blocking-orders/"
+  ],
+  "Cover shows the Allahabad High Court, Prayagraj": [
+   "https://commons.wikimedia.org/wiki/File:Allahabad_high_court.jpg (Category: Allahabad High Court building; geotag 25°27'11\"N 81°49'12\"E)",
+   "https://barandbench.com/news/up-police-registers-fir-after-forged-allahabad-high-court-order-leads-to-takedown-of-95-websites"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Allahabad_high_court.jpg",
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Allahabad_high_court.jpg",
+  "licence": "CC0 1.0 (self, Cc-zero)",
+  "author": "Vroomtrapit (English Wikipedia)",
+  "width": 2592,
+  "height": 1944,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Vroomtrapit / Wikimedia Commons, CC0"
+ },
+ "tags": [],
+ "cover": {
+  "focal": [
+   0.5752,
+   0.43
+  ],
+  "zoom": 1.15,
+  "upscale": 0.799
+ }
+}

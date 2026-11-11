@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2027-dot-fake-court-orders",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Reuters",
+  "Bar & Bench",
+  "The Wire"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "DoT Blocked 129 Betting Sites on Orders High Courts Disown",
+   "photo": "_work/2026-11-11-hourly-2027/news/frame/cover_source.png",
+   "photo_credit": "Photo: Vroomtrapit / Wikimedia Commons, CC0",
+   "focal": [
+    0.5752,
+    0.43
+   ],
+   "zoom": 1.15
+  },
+  {
+   "type": "detail",
+   "stat": "34 + 95",
+   "stat_label": "Betting Sites Blocked in Two DoT Directions",
+   "bullets": [
+    "21 Jul: 34 sites, on a 'Rajasthan HC' order",
+    "2 Sep: 95 sites, on an 'Allahabad HC' order",
+    "Reuters: both still on DoT's website on 11 Nov"
+   ],
+   "credit_line": "Sources: Reuters, Bar & Bench, The Wire"
+  },
+  {
+   "type": "detail",
+   "stat": "0",
+   "stat_label": "Court Records Matching Either 'Order', Reuters Found",
+   "bullets": [
+    "Rajasthan HC registrar: order 'appears to be fraudulent'",
+    "Allahabad HC found its 'order' was never passed",
+    "Allahabad 'order' QR code opened an unrelated web page"
+   ],
+   "credit_line": "Sources: Reuters, Bar & Bench, The Wire"
+  },
+  {
+   "type": "detail",
+   "stat": "6 NOV",
+   "stat_label": "Allahabad HC Complaint; UP Police Register a Case",
+   "bullets": [
+    "Case against unknown persons: alleged forgery and cheating",
+    "No arrests reported; who made the orders unknown",
+    "DoT did not respond to Reuters' questions"
+   ],
+   "credit_line": "Sources: Reuters, Bar & Bench"
+  }
+ ]
+}

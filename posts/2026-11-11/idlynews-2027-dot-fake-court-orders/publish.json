@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/01.jpg",
+  "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/02.jpg",
+  "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/03.jpg",
+  "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/alt.txt",
+ "score_file": "posts/2026-11-11/idlynews-2027-dot-fake-court-orders/score.json",
+ "title": "Reuters investigation (11 Nov 2026): DoT ordered internet providers to block 129 betting websites in 2026 (34 on 21 Jul, purported Rajasthan HC order; 95 on 2 Sep, purported Allahabad HC order) on emailed documents presented as High Court orders that neither court's online records contain; Rajasthan HC registrar: 'appears to be fraudulent'; Allahabad HC judge's office: 'no such order has been passed'; Allahabad HC complaint and UP Police case on 6 Nov against unknown persons for alleged forgery and cheating; no arrests reported; DoT did not respond to Reuters; both directions still on DoT's website on 11 Nov (Reuters)",
+ "tags": []
+}
