@@ -1,0 +1,47 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2127-moon-shoe-remake",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Al Jazeera",
+  "UPI",
+  "Superkicks",
+  "VegNonVeg",
+  "Nike"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "A $437,500 Auction Shoe Now Has a ₹8,995 Remake",
+   "photo": "_work/2026-11-11-hourly-2127/hype/photos/moon-29001a8a-0b6d-4d96-8733-087752ddfb60.jpg",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "1 of 12",
+   "stat_label": "Moon Shoes Made for the 1972 Olympic Trials",
+   "bullets": [
+    "Sold at Sotheby's, New York, on 23 July 2019",
+    "A sneaker auction record at the time",
+    "By Nike co-founder Bill Bowerman; only known unworn pair"
+   ],
+   "credit_line": "Sources: Al Jazeera, UPI"
+  },
+  {
+   "type": "detail",
+   "stat": "₹8,995",
+   "stat_label": "Moon Shoe OG Remake, in Stock in India",
+   "bullets": [
+    "Superkicks: Black/Sail IX3952-001, UK 6–12",
+    "VegNonVeg lists the same pair in UK 7–11",
+    "Nike's US price for this pair: $105"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike"
+  }
+ ]
+}
