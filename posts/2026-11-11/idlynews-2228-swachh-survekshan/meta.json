@@ -1,0 +1,147 @@
+{
+ "account": "idlynews",
+ "title": "Swachh Survekshan 2025-26 (10th edition; awards presented by President Droupadi Murmu at Vigyan Bhawan, New Delhi, Wed 11 Nov 2026): Navi Mumbai tops the Super Swachh League (for cities ranked in the top three in recent editions), ahead of Surat and Vijayawada, rising from third in 2024-25, when Indore led the league followed by Surat and Navi Mumbai. Indore is not in this year's top three, ending its run of eight surveys at the top (The Tribune, The Federal; PTI in 2025 reported its eighth straight win); Indore-Depalpur came second to Ahmedabad-Sanand in the new Swachh Shehar Jodi mentor-mentee category. Main ranking: Greater Visakhapatnam, Jabalpur and Lucknow lead cities of 10 lakh-plus; Ujjain, Chandigarh and Guntur lead 3-10 lakh. Special awards: coastal (Puri, Alappuzha, Ratnagiri), riverfront (Rewa, Bilaspur, Varanasi), Himalayan (Rudrapur, Jammu, Shopian). The survey ranked 4,751 cities on 43 indicators (ETV Bharat, ANI), up from 73 in 2016; India TV gave 4,909, so the figure is attributed.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ETV Bharat",
+   "date": "11 Nov 2026 (6:06 PM, updated 7:53 PM)",
+   "url": "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028"
+  },
+  {
+   "outlet": "The News Mill (ANI)",
+   "date": "11 Nov 2026 (10:02 PM)",
+   "url": "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/"
+  },
+  {
+   "outlet": "Punjab Kesari English (IANS)",
+   "date": "11 Nov 2026 (7:40 PM)",
+   "url": "https://english.punjabkesari.com/india/indore-slips-from-top-rank-in-swachh-survekshan-2025-26-bhopal-figured-nowhere-nine-mp-cities-win-national-recoginition"
+  },
+  {
+   "outlet": "The Tribune",
+   "date": "11 Nov 2026 (10:09 PM)",
+   "url": "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  },
+  {
+   "outlet": "The Federal",
+   "date": "11 Nov 2026 (8:02 PM)",
+   "url": "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "11 Nov 2026 (8:04 PM)",
+   "url": "https://www.freepressjournal.in/mumbai/navi-mumbai-ranks-indias-cleanest-city-among-4751-urban-centres-in-swachh-survekshan-2025-26-video"
+  },
+  {
+   "outlet": "The Tribune (PTI)",
+   "date": "17 Jul 2025",
+   "url": "https://www.tribuneindia.com/news/india/indore-wins-cleanest-city-title-for-8th-time"
+  },
+  {
+   "outlet": "The Hitavada",
+   "date": "18 Jul 2025",
+   "url": "https://www.thehitavada.com/Encyc/2025/7/18/indore-moves-to-super-swachh-league.html"
+  }
+ ],
+ "fact_sources": {
+  "Awards presented by President Murmu at Vigyan Bhawan, New Delhi, Wed 11 Nov 2026": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.freepressjournal.in/mumbai/navi-mumbai-ranks-indias-cleanest-city-among-4751-urban-centres-in-swachh-survekshan-2025-26-video",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  ],
+  "Super Swachh League 2025-26: Navi Mumbai 1, Surat 2, Vijayawada 3": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.freepressjournal.in/mumbai/navi-mumbai-ranks-indias-cleanest-city-among-4751-urban-centres-in-swachh-survekshan-2025-26-video",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu",
+   "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596"
+  ],
+  "Super Swachh League 2024-25: Indore 1, Surat 2, Navi Mumbai 3 (Navi Mumbai rose from 3rd to 1st)": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://www.thehitavada.com/Encyc/2025/7/18/indore-moves-to-super-swachh-league.html",
+   "https://www.tribuneindia.com/news/india/indore-wins-cleanest-city-title-for-8th-time"
+  ],
+  "The SSL is for cities ranked in the top three in recent editions (PIB 2024-25 release; fetch refused 403, text from a search snippet)": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145459",
+   "https://www.thehitavada.com/Encyc/2025/7/18/indore-moves-to-super-swachh-league.html"
+  ],
+  "Indore not in this year's top three": [
+   "https://english.punjabkesari.com/india/indore-slips-from-top-rank-in-swachh-survekshan-2025-26-bhopal-figured-nowhere-nine-mp-cities-win-national-recoginition",
+   "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596",
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/"
+  ],
+  "Indore's run of eight surveys at the top ends": [
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu",
+   "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596",
+   "https://www.tribuneindia.com/news/india/indore-wins-cleanest-city-title-for-8th-time"
+  ],
+  "Swachh Shehar Jodi (new): Ahmedabad-Sanand 1, Indore-Depalpur 2, Tirupati-Kuppam 3": [
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  ],
+  "Main ranking 10 lakh-plus: Greater Visakhapatnam 1, Jabalpur 2, Lucknow 3": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  ],
+  "Main ranking 3-10 lakh: Ujjain 1, Chandigarh 2, Guntur 3": [
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu",
+   "https://thefederal.com/category/news/indore-loses-crown-after-8-years-navi-mumbai-indias-cleanest-city-262596"
+  ],
+  "Special awards: coastal Puri, Alappuzha, Ratnagiri; riverfront Rewa, Bilaspur, Varanasi": [
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  ],
+  "Special award, Himalayan: Rudrapur, Jammu, Shopian": [
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.tribuneindia.com/news/delhi/cleanliness-reflects-public-health-social-consciousness-administrative-accountability-president-murmu"
+  ],
+  "4,751 cities this year, 73 in 2016 (India TV: 4,909, so attributed)": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/",
+   "https://www.freepressjournal.in/mumbai/navi-mumbai-ranks-indias-cleanest-city-among-4751-urban-centres-in-swachh-survekshan-2025-26-video"
+  ],
+  "43 indicators": [
+   "https://www.etvbharat.com/en/bharat/swachh-sarvekshan-awards-navi-mumbai-grabs-top-spot-in-super-swachh-league-surat-ranked-second-enn26111105028",
+   "https://thenewsmill.com/2026/11/president-droupadi-murmu-presents-swachh-survekshan-2025-26-awards/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Navi_Mumbai_Municipal_Corporation-002.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Navi_Mumbai_Municipal_Corporation-002.jpg/3840px-Navi_Mumbai_Municipal_Corporation-002.jpg (3840x2523 rendition of the 5184x3406 original https://upload.wikimedia.org/wikipedia/commons/6/6a/Navi_Mumbai_Municipal_Corporation-002.jpg)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Koushik 7 (Wikimedia Commons user; signature on photo reads 'Koushik G')",
+  "width": 3840,
+  "height": 2523,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Koushik 7 / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "subject": "Navi Mumbai Municipal Corporation headquarters, CBD Belapur, at night (Commons date 26 Jan 2018), lit in red, white, green and purple; no people; another outlet's photo: no",
+  "local": "_work/2026-11-11-hourly-2228/news/photos/nmmc-002.jpg",
+  "sha256": "707d6d17690c8eec7bb74b964840a0b3545cff752a71a707a0ab9418c4008593",
+  "processing": "facecheck --delete unviewed: OK 0 faces 3840x2523. pipeline.framing: ok, 0 faces, focal 0.5/0.5, zoom 1.0 (a centre crop that clipped the building and put it under the headline). Desk-chosen crop: focal [0.43, 1.0], zoom 1.3, render scale 0.70 (a downscale, no enlargement), full-bleed. The photographer's signature (bottom-left) and the flagpole (right) are fully outside the crop, nothing retouched; the reviewer ruled at Gate 3 that the signature must stay out of frame and never be retouched, and that the credit must say (cropped). Rendered 01.jpg facecheck: OK 0 faces 1080x1350."
+ },
+ "tags": [],
+ "tags_confirmed": "No tag. NMMC's Instagram (@nmmconline) is linked only from its official WhatsApp channel; nmmc.gov.in links only Facebook and X (NMMConline), and the X bio couldn't be read. Per the reviewer's Gate 1 rule, no tag.",
+ "cover": {
+  "focal": [
+   0.43,
+   1.0
+  ],
+  "zoom": 1.3
+ },
+ "gates": {
+  "gate1": "BUILD A (Swachh Survekshan) with binding fixes: no 'cleanest city', 'tops 4,751' or bare 'No. 1'; Indore's eight-survey run two-sourced; SSL explained with Vizag named; 4,751 attributed and kept off the cover; 2.7 crore and Dewas dropped; tag only if confirmed (not confirmed, so none). B (Karnataka quota SLP) and C (TN law and order) dropped. All fixes applied.",
+  "gate2": "FIX applied: slide 3 bullets labelled 'Main ranking'; the special-awards slide lost 'NEW' (and was later dropped); caption attribution now 'The Tribune and The Federal report'; desk changed 'New awards' to 'Special awards' (accepted); alt text matched.",
+  "gate3": "Picture PASS. FIX applied: credit is 'Photo: Koushik 7 / Wikimedia Commons, CC BY-SA 4.0 (cropped)' on the cover and as the caption's last line; signature stays fully out of frame, never retouched. Download note: upload.wikimedia.org returned 429 (robot policy) to browser and generic User-Agents; on Main's instruction the desk used the repo's own UA 'idly-social/1.0 (+https://idly.news)' (from pipeline/fetch.py) for one Commons API call and one thumbnail download, both 200.",
+  "gate4": "PASS. Main took the reviewer's optional fix: slide 4 (special awards, stat '3') dropped as filler, so the post has 3 slides (cover, SSL, main ranking), with no re-render needed; alt text's slide 4 sentence removed; the caption still names the special-award winners."
+ }
+}

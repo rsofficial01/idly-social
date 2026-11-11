@@ -1,0 +1,48 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2228-swachh-survekshan",
+  "date": "11 Nov 2026",
+  "sources": [
+    "ETV Bharat",
+    "ANI",
+    "IANS",
+    "PTI",
+    "The Tribune",
+    "The Federal"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Navi Mumbai Ends Indore's 8-Survey Run Atop Swachh Survekshan",
+      "photo": "_work/2026-11-11-hourly-2228/news/framing/cover_source.png",
+      "photo_credit": "Photo: Koushik 7 / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "focal": [
+        0.43,
+        1.0
+      ],
+      "zoom": 1.3
+    },
+    {
+      "type": "detail",
+      "stat": "3RD TO 1ST",
+      "stat_label": "Navi Mumbai in the Super Swachh League",
+      "bullets": [
+        "League for cities ranked top three in recent surveys",
+        "Surat second, Vijayawada third; Indore misses the top three",
+        "Ahmedabad–Sanand top new mentor-city pairs; Indore–Depalpur second"
+      ],
+      "credit_line": "Sources: ETV Bharat, ANI, IANS"
+    },
+    {
+      "type": "detail",
+      "stat": "4,751",
+      "stat_label": "Cities Ranked in Swachh Survekshan 2025-26",
+      "bullets": [
+        "Main ranking, 10 lakh-plus: Visakhapatnam, Jabalpur, Lucknow",
+        "Main ranking, 3–10 lakh: Ujjain, Chandigarh, Guntur",
+        "Up from 73 cities surveyed in 2016"
+      ],
+      "credit_line": "Sources: ETV Bharat, ANI, The Tribune, The Federal"
+    }
+  ]
+}
