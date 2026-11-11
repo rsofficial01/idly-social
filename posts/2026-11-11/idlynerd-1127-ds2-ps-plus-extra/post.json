@@ -1,0 +1,43 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1127-ds2-ps-plus-extra",
+ "date": "11 Nov 2026",
+ "sources": [
+  "PlayStation Blog",
+  "Push Square"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Death Stranding 2 Joins PS Plus Extra on 17 Nov",
+   "photo": "_work/2026-11-11-hourly-1127/idlynerd/framing/ds2-dust-porter/cover_source.png",
+   "photo_credit": "Image: PlayStation (Sony Interactive Entertainment)",
+   "focal": [
+    0.4,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹979",
+   "stat_label": "PS Plus Extra a Month in India",
+   "bullets": [
+    "Death Stranding 2 alone costs ₹4,999 on PS Store",
+    "Deluxe (₹1,109 a month) also includes it",
+    "Essential (₹649) members don't get it"
+   ],
+   "credit_line": "Sources: PlayStation India, PS Store India, Latestly"
+  },
+  {
+   "type": "detail",
+   "stat": "2 MORE",
+   "stat_label": "Also Joining PS Plus Extra on 17 Nov",
+   "bullets": [
+    "Atomfall: survival-action from the studio behind Sniper Elite",
+    "Dragon Quest III HD-2D Remake: the RPG classic, rebuilt"
+   ],
+   "credit_line": "Sources: PlayStation Blog, Push Square"
+  }
+ ]
+}
