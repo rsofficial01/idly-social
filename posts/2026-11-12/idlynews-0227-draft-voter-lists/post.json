@@ -1,0 +1,49 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0227-draft-voter-lists",
+ "date": "12 Nov 2026",
+ "sources": ["News on AIR", "ANI", "The Wire", "DT Next", "The South First", "Onmanorama"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Voters in 16 States/UTs: Check Your Name by 11 Dec",
+   "photo": "_work/2026-11-12-hourly-0227/news/framing/cover_source.png",
+   "photo_credit": "Photo: Ramesh Lalwani / Wikimedia Commons, CC BY 2.0 (cropped). Nirvachan Sadan, New Delhi",
+   "focal": [0.30, 0.30],
+   "zoom": 1.66
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Election Commission's Draft Voter Lists Due",
+   "bullets": [
+    "A draft roll is the voter list before corrections",
+    "13 states, 3 UTs, including Tamil Nadu, Kerala, Bihar",
+    "Uttar Pradesh: draft 17 Nov, claims till 16 Dec"
+   ],
+   "credit_line": "Sources: ECI schedule via News on AIR, ANI; The Wire, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "6 · 7 · 8",
+   "stat_label": "Voter-List Forms to Add, Object or Correct",
+   "bullets": [
+    "Form 6 adds names, including those cut in SIR",
+    "Form 7 objects to a dead or duplicate entry",
+    "Form 8 corrects details or records a new address"
+   ],
+   "credit_line": "Sources: Onmanorama, The South First, DT Next, The Wire"
+  },
+  {
+   "type": "detail",
+   "stat": "1 JAN 2027",
+   "stat_label": "Turn 18 by Then to Register to Vote",
+   "bullets": [
+    "Turning 18 by 1 Oct 2027: apply in advance",
+    "Claims settled by 28 Dec; final rolls 4 Jan",
+    "Forms are online at voters.eci.gov.in"
+   ],
+   "credit_line": "Sources: News on AIR, ThePrint (PTI), DT Next, Law Street"
+  }
+ ]
+}

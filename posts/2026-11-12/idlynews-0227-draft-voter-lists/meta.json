@@ -1,0 +1,179 @@
+{
+ "account": "idlynews",
+ "title": "Election Commission of India's Special Summary Revision (SSR) 2027: integrated draft electoral rolls due 12 Nov 2026 in 13 states and 3 UTs (Andaman and Nicobar, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Kerala, Lakshadweep, Madhya Pradesh, Manipur, Puducherry, Punjab, Rajasthan, Tamil Nadu, Uttarakhand, West Bengal); claims and objections until 11 Dec, disposal by 28 Dec, final rolls 4 Jan 2027, qualifying date 1 Jan 2027 (ECI order of 15 Oct). Uttar Pradesh's draft moved to 17 Nov with claims 17 Nov-16 Dec (ECI approved 6 Nov; UP CEO Navdeep Rinwa, 10 Nov). Form 6 inclusion (SIR-deleted names can reapply, per DT Next and The South First), Form 7 objection/deletion, Form 8 correction/shift; advance applications for those turning 18 by 1 Apr/1 Jul/1 Oct 2027. Six more states/UTs (Arunachal, Chandigarh, DNH & DD, Mizoram, Odisha, Sikkim): draft by 30 Nov, final 21 Jan 2027. Publication on 12 Nov not independently confirmed at post time: copy says 'due'.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "News on AIR (Prasar Bharati)",
+   "date": "17 Oct 2026",
+   "url": "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/"
+  },
+  {
+   "outlet": "Asianet Newsable / ANI",
+   "date": "22 Oct 2026",
+   "url": "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab"
+  },
+  {
+   "outlet": "OneIndia",
+   "date": "15 Oct 2026",
+   "url": "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html"
+  },
+  {
+   "outlet": "Law Street",
+   "date": "16 Oct 2026",
+   "url": "https://lawstreet.co/executive/eci-orders-special-summary-revision-of-electoral-rolls-in-17-states-and-uts-ahead-of-2027-polls"
+  },
+  {
+   "outlet": "DT Next",
+   "date": "16 Oct 2026",
+   "url": "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2"
+  },
+  {
+   "outlet": "The South First",
+   "date": "Oct 2026",
+   "url": "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/"
+  },
+  {
+   "outlet": "Onmanorama",
+   "date": "15 Oct 2026",
+   "url": "https://www.onmanorama.com/news/india/2026/10/15/voter-list-revision-in-17-states-kerala-begins-drive-to-enrol-eligible-electors.html"
+  },
+  {
+   "outlet": "IANS (via Social News XYZ)",
+   "date": "10 Nov 2026",
+   "url": "https://www.socialnews.xyz/2026/11/10/ssr-schedule-revised-in-up-draft-electoral-roll-to-be-published-on-nov-17/"
+  },
+  {
+   "outlet": "The Wire",
+   "date": "10-11 Nov 2026",
+   "url": "https://m.thewire.in/article/government/election-commission-defers-uttar-pradesh-draft-electoral-roll-to-november-17"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "8 Nov 2026",
+   "url": "https://www.freepressjournal.in/india/up-voter-list-revision-ec-delays-draft-roll-to-nov-17-final-list-on-jan-4"
+  },
+  {
+   "outlet": "ThePrint (PTI)",
+   "date": "5 Nov 2026",
+   "url": "https://theprint.in/india/ec-announces-special-summary-revision-of-electoral-rolls-in-six-states-uts-final-rolls-on-jan-21/3091327/"
+  },
+  {
+   "outlet": "News on AIR (Prasar Bharati)",
+   "date": "5 Nov 2026",
+   "url": "https://newsonair.gov.in/ec-announces-special-summary-revision-of-electoral-rolls-in-four-states-and-two-uts/"
+  },
+  {
+   "outlet": "ECI Voters' Service Portal",
+   "date": "accessed 12 Nov 2026",
+   "url": "https://voters.eci.gov.in/"
+  }
+ ],
+ "fact_sources": {
+  "ECI SSR 2027 order (15 Oct) covers 17 states/UTs; qualifying date 1 Jan 2027": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/",
+   "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab",
+   "https://lawstreet.co/executive/eci-orders-special-summary-revision-of-electoral-rolls-in-17-states-and-uts-ahead-of-2027-polls"
+  ],
+  "Draft rolls due 12 Nov; claims and objections 12 Nov-11 Dec": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/",
+   "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab",
+   "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/"
+  ],
+  "Claims and objections disposed of by 28 Dec": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/",
+   "https://lawstreet.co/executive/eci-orders-special-summary-revision-of-electoral-rolls-in-17-states-and-uts-ahead-of-2027-polls",
+   "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab"
+  ],
+  "Final rolls 4 Jan 2027": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/",
+   "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/",
+   "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab"
+  ],
+  "UP draft moved to 17 Nov; claims 17 Nov-16 Dec; disposal 28 Dec and final 4 Jan unchanged; confirmed by UP CEO Navdeep Rinwa on 10 Nov": [
+   "https://www.socialnews.xyz/2026/11/10/ssr-schedule-revised-in-up-draft-electoral-roll-to-be-published-on-nov-17/",
+   "https://m.thewire.in/article/government/election-commission-defers-uttar-pradesh-draft-electoral-roll-to-november-17",
+   "https://www.freepressjournal.in/india/up-voter-list-revision-ec-delays-draft-roll-to-nov-17-final-list-on-jan-4"
+  ],
+  "16 due on 12 Nov = 17-state list minus UP (13 states + 3 UTs); no other deferment reported": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/",
+   "https://newsable.asianetnews.com/india/ssr-2027-eci-bans-transfer-of-poll-officials-till-final-publication-articleshow-gqe29ab",
+   "https://www.socialnews.xyz/2026/11/10/ssr-schedule-revised-in-up-draft-electoral-roll-to-be-published-on-nov-17/",
+   "https://m.thewire.in/article/government/election-commission-defers-uttar-pradesh-draft-electoral-roll-to-november-17"
+  ],
+  "Draft roll = voter list before claims and objections are settled": [
+   "https://www.oneindia.com/india/eci-orders-special-summary-revision-of-voter-lists-in-17-states-check-full-schedule-8236467.html",
+   "https://lawstreet.co/executive/eci-orders-special-summary-revision-of-electoral-rolls-in-17-states-and-uts-ahead-of-2027-polls"
+  ],
+  "Form 6 inclusion; Form 7 objection/deletion (dead, duplicate); Form 8 correction/shift of residence": [
+   "https://www.onmanorama.com/news/india/2026/10/15/voter-list-revision-in-17-states-kerala-begins-drive-to-enrol-eligible-electors.html",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/",
+   "https://m.thewire.in/article/government/election-commission-defers-uttar-pradesh-draft-electoral-roll-to-november-17"
+  ],
+  "People deleted in the SIR can apply again (attributed to DT Next and The South First)": [
+   "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/"
+  ],
+  "Those turning 18 on 1 Apr / 1 Jul / 1 Oct 2027 can apply in advance": [
+   "https://newsonair.gov.in/eci-orders-special-summary-revision-of-electoral-rolls-in-14-states-and-three-uts/",
+   "https://theprint.in/india/ec-announces-special-summary-revision-of-electoral-rolls-in-six-states-uts-final-rolls-on-jan-21/3091327/"
+  ],
+  "Applications online at voters.eci.gov.in": [
+   "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2",
+   "https://voters.eci.gov.in/"
+  ],
+  "SSR uses the existing roll; SIR is door-to-door fresh enumeration": [
+   "https://lawstreet.co/executive/eci-orders-special-summary-revision-of-electoral-rolls-in-17-states-and-uts-ahead-of-2027-polls",
+   "https://thesouthfirst.com/keralam/keralam-eci-begins-special-summary-revision-to-enrol-those-left-off-electoral-rolls-after-sir/"
+  ],
+  "Six more states/UTs: draft by 30 Nov, final 21 Jan 2027": [
+   "https://newsonair.gov.in/ec-announces-special-summary-revision-of-electoral-rolls-in-four-states-and-two-uts/",
+   "https://theprint.in/india/ec-announces-special-summary-revision-of-electoral-rolls-in-six-states-uts-final-rolls-on-jan-21/3091327/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Nation_Voter_Day_Posters_outside_Election_Commission.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Nation_Voter_Day_Posters_outside_Election_Commission.jpg/3840px-Nation_Voter_Day_Posters_outside_Election_Commission.jpg",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ramesh Lalwani (Flickr ramesh_lalwani/26941038810; FlickreviewR 5 Sep 2021)",
+  "width": 3456,
+  "height": 2304,
+  "local": "_work/2026-11-12-hourly-0227/news/photos_big/eci.jpg",
+  "local_size": [
+   3840,
+   2560
+  ],
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Ramesh Lalwani / Wikimedia Commons, CC BY 2.0 (cropped)",
+  "card_credit": "Photo: Ramesh Lalwani / Wikimedia Commons, CC BY 2.0 (cropped). Nirvachan Sadan, New Delhi",
+  "subject": "Nirvachan Sadan, the Election Commission of India headquarters, New Delhi (red-brick facade); crop excludes the 2016 National Voters' Day posters and mural",
+  "taken": "2016-02-26"
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: Commons/Flickr photo by an individual photographer; the ECI is not the image owner",
+ "cover": {
+  "focal": [
+   0.3,
+   0.3
+  ],
+  "zoom": 1.66,
+  "upscale": 0.875,
+  "note": "Framing planner said focal [0.5,0.513] zoom 1.04 (keeps the 'POWER 2016' mural); overridden to a top-weighted crop, source box x 535-1769, y 0-1542 of 3840x2560 (Wikimedia's 1.11x rendition of the 3456 original, so ~0.97x of the original); no blur or compositing; facecheck on crop CLEAN (raw 0)"
+ },
+ "gates": {
+  "gate1": "BUILD with fixes 1-7 (_work/2026-11-12-hourly-0227/reviews/news-g1.md); Hosur Tata deaths DROP (no lawful image), Stand-Up India DROP",
+  "gate23": "PASS; 1.66 crop accepted over 1.38; optional polish 'incl.' -> 'including' applied (_work/2026-11-12-hourly-0227/reviews/news-g23.md)"
+ }
+}
