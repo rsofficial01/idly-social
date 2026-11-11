@@ -1,0 +1,104 @@
+{
+ "account": "idlynerd",
+ "title": "Square Enix unveils Dragon Quest RPG: The Cursed Tree and the Chosen Isle (iOS/Android, 2027; dev WFS, general director Yuji Horii); closed beta 8-15 Dec 2026 for 25,000 testers by lottery, applications until 23 Nov 2:59 PM UTC (8:29 PM IST), results by email 4 Dec; min Android 9 / iOS 15; beta progress not carried over; beta page lists no country limit",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the 24 h feed",
+ "format": "news",
+ "sources": [
+  {
+   "name": "Square Enix (official site)",
+   "url": "https://dqrpg.dragonquest.com/en/",
+   "date": "fetched 11 Nov 2026"
+  },
+  {
+   "name": "Square Enix (closed beta page)",
+   "url": "https://dqrpg.dragonquest.com/en/cbt/",
+   "date": "fetched 11 Nov 2026"
+  },
+  {
+   "name": "Square Enix (beta tester terms)",
+   "url": "https://dqrpg.dragonquest.com/en/cbt/terms-of-service.php",
+   "date": "fetched 11 Nov 2026"
+  },
+  {
+   "name": "Gematsu",
+   "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled",
+   "date": "10 Nov 2026 06:00 EST"
+  },
+  {
+   "name": "Siliconera",
+   "url": "https://www.siliconera.com/dragon-quest-rpg-closed-beta-test-will-be-held-in-december/",
+   "date": "10 Nov 2026 17:00 UTC"
+  },
+  {
+   "name": "Pocket Gamer",
+   "url": "https://www.pocketgamer.com/dragon-quest-rpg-the-cursed-tree-and-the-chosen-is/coming-to-mobile/",
+   "date": "10 Nov 2026 12:15 UTC"
+  }
+ ],
+ "fact_sources": {
+  "new turn-based Dragon Quest for iOS/Android, launches 2027": [
+   "Square Enix",
+   "Gematsu",
+   "Siliconera",
+   "Pocket Gamer"
+  ],
+  "Yuji Horii general director; WFS develops": [
+   "Square Enix (official site credits, quoted by Gematsu)",
+   "Gematsu",
+   "Pocket Gamer (Horii)"
+  ],
+  "closed beta 8-15 Dec 2026": [
+   "Square Enix CBT page",
+   "Gematsu",
+   "Siliconera"
+  ],
+  "25,000 testers by lottery": [
+   "Square Enix CBT page",
+   "Siliconera"
+  ],
+  "applications until 23 Nov, 2:59 PM UTC (8:29 PM IST)": [
+   "Square Enix CBT page (time)",
+   "Gematsu (date)",
+   "Siliconera (date)"
+  ],
+  "results by email 4 Dec": [
+   "Square Enix CBT page",
+   "Siliconera"
+  ],
+  "minimum Android 9 / iOS 15": [
+   "Square Enix CBT page",
+   "Siliconera"
+  ],
+  "beta progress not carried over": [
+   "Square Enix CBT page",
+   "Siliconera"
+  ],
+  "beta page lists no country limit": [
+   "Square Enix CBT page and tester terms (attributed)"
+  ]
+ },
+ "image": {
+  "page": "https://dqrpg.dragonquest.com/en/ (Square Enix's official game site, story section art; also on the Japanese site https://dqrpg.dragonquest.jp/, footer '© SQUARE ENIX')",
+  "file": "https://cache-www.dragonquest.jp/dqrpg/root/20261111b/common/images/global/top/story_background.jpg (saved as _work/2026-11-11-hourly-1628/nerd/photos/dqrpg-story-background.jpg, sha1 85185feaa8f9d528c9e6b79a71dd00d15c497ac8)",
+  "licence": "Official promotional art from the publisher's own game site, used credited for news of the game's announcement and beta",
+  "author": "Square Enix",
+  "credit": "Image: Square Enix (official art)",
+  "size": "1920x1990",
+  "subject": "Illustrated story art: the cursed tree (Grimvein) glowing purple on its floating island inside a blue sphere, night clouds around it; no characters, no real person, no watermark, no lettering",
+  "viewed": true,
+  "processing": "pipeline.framing ok: 0 faces, focal (0.5,0.5), zoom 1.0, scale 0.68 (downscale, no enlargement) -> _work/2026-11-11-hourly-1628/nerd/framing/dqrpg-story-background/cover_source.png; cardkit hype scale 0.678; no fill/blur/letterbox. Sphere and tree whole at about y 155-765, logo y ~50-110 over dark sky, headline top y 968.",
+  "replaced": "keyvisual.jpg (1920x1076) held at G4: logo on tree crown, hero and Slime inside the headline block"
+ },
+ "tags": [
+  "squareenix"
+ ],
+ "tag_evidence": "instagram.com/squareenix is linked from Square Enix's own sites square-enix-games.com and dragonquest.com (fetched 11 Nov 2026)",
+ "gates": {
+  "g1": "BUILD #2 (ceiling 13) with conditions a-e; #1 Fairgame$ DROP (11), #3 Ebenezer DROP (8)",
+  "g2": "FIX: cover 'Apply by 23 Nov' -> 'Sign-Ups Close 23 Nov'; slide 3 bullet 1 -> 'Series creator Yuji Horii is the general director' (alt updated). v2 re-sent. G2 v2: PASS.",
+  "g3": "v1 PASS later withdrawn; v2 (story_background.jpg) PASS",
+  "g4": "v1 PASS revised to HOLD (keyvisual framing). v2 PASS (blind reviewer) 13/14: hook 1, read 2, send 2, keep 2, reply 2, original 2, alone 2. Self 12/14; final (lower) 12/14."
+ }
+}

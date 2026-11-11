@@ -1,0 +1,45 @@
+{
+  "acct": "idlynerd",
+  "slug": "idlynerd-1628-dragon-quest-beta",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Square Enix",
+    "Gematsu",
+    "Siliconera"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Dragon Quest Phone Beta: 25,000 Spots, Sign-Ups Close 23 Nov",
+      "photo": "_work/2026-11-11-hourly-1628/nerd/framing/dqrpg-story-background/cover_source.png",
+      "photo_credit": "Image: Square Enix (official art)",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "23 NOV",
+      "stat_label": "Dragon Quest RPG's Beta Sign-Ups Close",
+      "bullets": [
+        "Deadline: 8:29 PM IST on the official site",
+        "Testers picked by lottery, told by email 4 Dec",
+        "Needs Android 9 or iOS 15 and later"
+      ],
+      "credit_line": "Sources: Square Enix, Gematsu, Siliconera"
+    },
+    {
+      "type": "detail",
+      "stat": "8–15 DEC",
+      "stat_label": "Dragon Quest RPG's Closed Beta Test Week",
+      "bullets": [
+        "Series creator Yuji Horii is the general director",
+        "Beta progress won't carry over to the 2027 launch",
+        "Square Enix's beta page lists no country limit"
+      ],
+      "credit_line": "Sources: Square Enix, Gematsu, Siliconera"
+    }
+  ]
+}
