@@ -1,0 +1,45 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-2327-bmw-i3-europe-charging",
+  "date": "12 Nov 2026",
+  "sources": [
+    "BMW Group",
+    "BMWBlog",
+    "InsideEVs"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "BMW's i3 Drove 5,887 km on 2h 46m of Charging",
+      "photo": "_work/2026-11-11-hourly-2327/auto/framing-bmw/cover_source.png",
+      "photo_credit": "Image: BMW Group",
+      "focal": [
+        0.49,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "75 HRS",
+      "stat_label": "Driving Time, North Cape to Tarifa",
+      "bullets": [
+        "New Neue Klasse i3 50 xDrive sedan, not the old hatch",
+        "Charging took under 4% of that time",
+        "Public chargers only, showroom-spec car, BMW says"
+      ],
+      "credit_line": "Source: BMW Group (10 Nov 2026), via BMWBlog and InsideEVs"
+    },
+    {
+      "type": "detail",
+      "stat": "275 kW",
+      "stat_label": "Average Charging Speed on the Trip, BMW Says",
+      "bullets": [
+        "Why stops were short: the i3 peaks at 400 kW",
+        "BMW says it beat the 2017 record by 7+ hours",
+        "Not confirmed for India; the iX3 LWB arrives in 2027"
+      ],
+      "credit_line": "Sources: BMW Group, BMWBlog, InsideEVs; Autocar India (iX3)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Post score = per-check minimum of desk self-score (13/14) and blind reviewer (12/14) = 12/14. WEAK: send, keep. Self notes: Both numbers on cover; keep 1 (no India price/date for the i3); BMW's own run, attributed. Reviewer notes: hook 2: two specific, surprising numbers on the cover (5,887 km, 2h 46m of charging) over BMW's own photo of the car on the run. read 2: cover > 75 hrs of driving and under 4% spent charging > 275 kW average, the record claim and the India status; each bullet adds something new and says why. send 1: there's an EV-sceptic friend to send it to, but it's BMW's own unverified run of a car not confirmed for India. keep 1: impressive but not actionable for Indian readers; no price, date or eligibility, only the iX3 LWB 2027 note. reply 2: one genuine question from readers' own driving (charging stops they'd accept); no bait. original 2: idly's own synthesis of BMW plus 3 outlets and its own design; official BMW Group photo, credited. alone 2: the cover and both slides make sense with no caption.",
+ "self_total": 13,
+ "reviewer_total": 12
+}

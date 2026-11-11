@@ -1,0 +1,123 @@
+{
+ "account": "idlyautomotive",
+ "title": "BMW's new i3 50 xDrive (Neue Klasse electric 3 Series sedan) drove 5,886.7 km from North Cape, Norway, to Tarifa, Spain, across eight countries with 2 h 45 min 54 s of total charging on public chargers (BMW Group, 10 Nov 2026): 275 kW average charging, 400 kW peak, 12.5 kWh/100 km, 3 d 2 h 41 min driving, one engineer; BMW says it beat the 2017 record by 7+ hours (not independently timed); i3 not confirmed for India, iX3 LWB due in India in 2027",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "BMW Group",
+   "date": "2026-11-10",
+   "url": "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/"
+  },
+  {
+   "outlet": "BMWBlog",
+   "date": "2026-11-10",
+   "url": "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/"
+  },
+  {
+   "outlet": "InsideEVs",
+   "date": "2026-11-11",
+   "url": "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  },
+  {
+   "outlet": "Autocar India",
+   "date": "2026-04-08",
+   "url": "https://www.autocarindia.com/car-news/bmw-to-bring-ix3-in-long-wheelbase-guise-to-india-439412"
+  },
+  {
+   "outlet": "Indian Autos Blog",
+   "date": "",
+   "url": "https://indianautosblog.com/bmw-ix3-lwb-india-launch-confirmed-for-2027-p328395"
+  }
+ ],
+ "fact_sources": {
+  "5,886.7 km North Cape to Tarifa, eight countries": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "2 h 45 min 54 s total charging": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "3 d 2 h 41 min driving (74 h 41 min, card '75 HRS')": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "charging under 4% of driving time (165.9/4,481 min = 3.7%, idly arithmetic)": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/"
+  ],
+  "production-spec cars, public chargers only, one engineer driving": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/"
+  ],
+  "275 kW average charging power": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "400 kW peak DC charging": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/",
+   "https://theevreport.com/bmw-i3-50-xdrive-paneuropeana-charging-record"
+  ],
+  "beat the 2017 record by more than seven hours (BMW's claim)": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "12.5 kWh/100 km vs WLTP 13.4-18 kWh/100 km": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/"
+  ],
+  "new i3 = Neue Klasse electric 3 Series sedan (i3 50 xDrive)": [
+   "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+   "https://insideevs.com/news/815161/bmw-i3-norway-to-spain/",
+   "https://www.bmwblog.com/2026/11/10/bmw-i3-almost-6000-kilometers-less-than-3-hours-charging/"
+  ],
+  "i3 sedan not confirmed for India": [
+   "https://indianautosblog.com/bmw-ix3-lwb-india-launch-confirmed-for-2027-p328395",
+   "https://www.evfy.in/news/bmw-i3-electric-sedan-unveiled-globally-with-900-km-range--will-it-come-to-india",
+   "https://idly.news (story 2018: 'Pricing and availability of the new i3 in India have not been stated')"
+  ],
+  "iX3 LWB confirmed for India in 2027": [
+   "https://www.autocarindia.com/car-news/bmw-to-bring-ix3-in-long-wheelbase-guise-to-india-439412",
+   "https://indianautosblog.com/bmw-ix3-lwb-india-launch-confirmed-for-2027-p328395"
+  ]
+ },
+ "photo_source": {
+  "page": "https://newsroom.bmwgroup.com/global/2-hours-46-minutes-of-charging-for-58867-km-from-the-north-cape-to-tarifa-in-the-new-bmw-i3-50-xdrive/",
+  "file_url": "https://content.presspage.com/uploads/3228/e437358d-29ed-4527-8815-c2628160981b/DI26_000482919.jpg",
+  "licence": "BMW Group newsroom press image (gallery 'Pictures from the Roadtrip Nordkap-Tarifa'), used credited for editorial news",
+  "author": "BMW Group",
+  "width": 7008,
+  "height": 4672,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: BMW Group",
+  "subject": "Two blue BMW i3 50 xDrive sedans (plates M EB 4916E, M CI 941E) on a mountain road during BMW's North Cape-Tarifa run; drivers only as small unidentifiable figures behind windscreen glare (reviewer ruled acceptable at zoom 1.0); no watermark",
+  "local": "_work/2026-11-11-hourly-2327/auto/photos/press/DI26_000482919.jpg",
+  "sha1": "b2afa347f8328a165a9e53fe4ecc77b0912bfc3f",
+  "screening": "All 29 gallery originals downloaded from the release; facecheck.py --delete run on every file before viewing: 6 deleted unviewed (faces detected: DI26_000482895, 482901, 482921, 482923, 486496, 486500). One viewed frame (DI26_000482920, five people seen from behind at a viewpoint) deleted by the desk, unused. Remaining frames viewed only as a contact sheet to choose the cover.",
+  "processing": "pipeline.framing ok (0 faces, focal 0.5/0.5, zoom 1.0, upscale 0.29) -> _work/2026-11-11-hourly-2327/auto/framing-bmw/cover_source.png (7008x4672). cardkit cover focal (0.49, 0.5), zoom 1.0 (reviewer condition: never tighter), scale 0.289 (downscale). No fill, blur, letterbox or recolour. Cars at about y 520-860; headline top 950."
+ },
+ "tags": [],
+ "tags_confirmed": false,
+ "cover": {
+  "focal": [
+   0.49,
+   0.5
+  ],
+  "zoom": 1.0
+ },
+ "gates": {
+  "gate1": "PASS for #3 (BMW i3 run); GV90 DROP; EV staff cars only with a proper image (none found). Fixes applied: 10-word headline with both numbers, Neue Klasse sedan on slide 2, 'BMW says' attribution, plain India line, each fact once with reasons, no idly article.",
+  "gate23": "PASS (blind reviewer): facts checked against BMW Group and BMWBlog; BMW Group run photo approved; driver behind glare ruled not identifiable on conditions zoom 1.0 and no people in alt text.",
+  "gate4": "pending"
+ }
+}
