@@ -1,0 +1,54 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1927-ola-ccpa-fine",
+  "date": "11 Nov 2026",
+  "sources": [
+    "CCPA order",
+    "Bar & Bench"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Consumer Regulator Fines Ola ₹10 Lakh for 'Quicker Ride' Prompts",
+      "photo": "_work/2026-11-11-hourly-1927/news/frame/cover_source.png",
+      "photo_credit": "Photo: Biswarup Ganguly / Wikimedia Commons, CC BY 3.0, cropped",
+      "focal": [
+        0.49,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "₹10–₹40",
+      "stat_label": "Add-Ons Ola First Suggested, Before Drivers Accepted",
+      "bullets": [
+        "Amounts were later raised, the regulator's order says",
+        "Ola's own data: add-on requests accepted less often",
+        "Regulator held the prompts misleading and a dark pattern"
+      ],
+      "credit_line": "Sources: CCPA order (10 Nov 2026), Bar & Bench"
+    },
+    {
+      "type": "detail",
+      "stat": "15 DAYS",
+      "stat_label": "Ola's Deadline to File a Compliance Report",
+      "bullets": [
+        "Prompts must stop at once, on every Ola platform",
+        "Ola argued add-ons are optional and go to drivers",
+        "Rapido got the same fine in September 2026"
+      ],
+      "credit_line": "Sources: CCPA order, Bar & Bench, Free Press Journal, ThePrint"
+    },
+    {
+      "type": "detail",
+      "stat": "1915",
+      "stat_label": "Toll-Free National Consumer Helpline Number",
+      "bullets": [
+        "Second toll-free line: 1800-11-4000",
+        "Or file on the NCH app or consumerhelpline.gov.in"
+      ],
+      "credit_line": "Sources: National Consumer Helpline, ThePrint"
+    }
+  ]
+}

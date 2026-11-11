@@ -1,0 +1,46 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1927-wales-bonner-croc-gazelle",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Wales Bonner",
+  "Captain Creps"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Wales Bonner's Croc Gazelle Is ₹21,999 in India",
+   "photo": "_work/2026-11-11-hourly-1927/hype/frame/cover_source.png",
+   "photo_credit": "Image: Wales Bonner",
+   "focal": [
+    0.5,
+    0.53
+   ],
+   "zoom": 1.12
+  },
+  {
+   "type": "detail",
+   "stat": "5",
+   "stat_label": "Wales Bonner x adidas Pairs at Superkicks",
+   "bullets": [
+    "Karintha Croc is ₹21,999 too, at Superkicks and VegNonVeg",
+    "Both croc pairs are embossed leather, not real croc",
+    "Superkicks had UK 7–11 in stock on 11 Nov"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Wales Bonner"
+  },
+  {
+   "type": "detail",
+   "stat": "₹19,999",
+   "stat_label": "Wales Bonner's BW Army Pony and Adios Suede",
+   "bullets": [
+    "Black or khaki ponyhair BW Army at Superkicks, VegNonVeg",
+    "Superkicks also lists the white Adizero Adios Suede",
+    "Wales Bonner's UK store: £180 croc, £170 the rest"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Wales Bonner, Captain Creps"
+  }
+ ]
+}

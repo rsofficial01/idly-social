@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/01.jpg",
+  "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/02.jpg",
+  "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/03.jpg",
+  "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/alt.txt",
+ "score_file": "posts/2026-11-11/idlynews-1927-ola-ccpa-fine/score.json",
+ "title": "CCPA order dated 10 Nov 2026 (Chief Commissioner Nidhi Khare, Commissioner Anupam Mishra; case CCPA-2/55/2025-CCPA) fines ANI Technologies (Ola) ₹10 lakh over pre-acceptance add-on/tip prompts such as 'Improve your chances of quicker ride confirmation!'; held a misleading advertisement and a dark pattern; prompts to stop forthwith on every Ola platform, compliance report within 15 days; Ola's own data showed add-on requests were accepted less often (no figures used: order and Bar & Bench disagree); suggested amounts started at ₹10–₹40 and were later raised; Ola argued add-on optional, all to driver, used for less viable rides; Rapido fined ₹10 lakh in Sept 2026; National Consumer Helpline 1915 / 1800-11-4000",
+ "tags": []
+}

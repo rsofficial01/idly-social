@@ -1,0 +1,110 @@
+{
+ "account": "idlynews",
+ "title": "CCPA order dated 10 Nov 2026 (Chief Commissioner Nidhi Khare, Commissioner Anupam Mishra; case CCPA-2/55/2025-CCPA) fines ANI Technologies (Ola) ₹10 lakh over pre-acceptance add-on/tip prompts such as 'Improve your chances of quicker ride confirmation!'; held a misleading advertisement and a dark pattern; prompts to stop forthwith on every Ola platform, compliance report within 15 days; Ola's own data showed add-on requests were accepted less often (no figures used: order and Bar & Bench disagree); suggested amounts started at ₹10–₹40 and were later raised; Ola argued add-on optional, all to driver, used for less viable rides; Rapido fined ₹10 lakh in Sept 2026; National Consumer Helpline 1915 / 1800-11-4000",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Central Consumer Protection Authority (order, published by Bar & Bench)",
+   "date": "10 Nov 2026",
+   "url": "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "11 Nov 2026 (1:49 pm)",
+   "url": "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty"
+  },
+  {
+   "outlet": "The Free Press Journal",
+   "date": "Sept 2026",
+   "url": "https://www.freepressjournal.in/business/ccpa-fines-rapido-10-lakh-for-alleged-dark-patterns-misleading-fare-prompts-in-ride-bookings"
+  },
+  {
+   "outlet": "ThePrint (PTI)",
+   "date": "15 Sep 2026",
+   "url": "https://theprint.in/economy/consumer-watchdog-ccpa-slaps-rs-10-lakh-fine-on-rapido/3043486/"
+  },
+  {
+   "outlet": "Inc42",
+   "date": "15 Sep 2026",
+   "url": "https://inc42.com/buzz/ccpa-penalises-rapido-over-advanced-tipping-prompts/"
+  },
+  {
+   "outlet": "National Consumer Helpline (Department of Consumer Affairs)",
+   "date": "checked 11 Nov 2026",
+   "url": "https://consumerhelpline.gov.in/public/about"
+  },
+  {
+   "outlet": "ThePrint (ANI)",
+   "date": "25 Jul 2024",
+   "url": "https://theprint.in/economy/national-consumer-helpline-upgraded-to-simplify-filing-complaints-before-litigation/2190240/"
+  }
+ ],
+ "fact_sources": {
+  "CCPA fined ANI Technologies (Ola) ₹10 lakh; order dated 10 Nov 2026": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (p.1 'Date: 10.11.2026'; para 89(iii) 'directed to pay a penalty of ₹10,00,000/- (Rupees Ten Lakh only)')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('fined ANI Technologies Private Limited, which operates Ola, ₹10 lakh … order dated November 10')"
+  ],
+  "Prompts asked riders to pay an add-on over the upfront fare before any driver accepted": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 45 'displayed after the consumer has booked the ride at the upfront fare … before any driver has accepted the ride')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('prompting customers to pay extra before a driver accepted their booking')"
+  ],
+  "Prompt wording 'Improve your chances of quicker ride confirmation!' (headline's 'quicker ride')": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (paras 38(iii), 44(vi), 49, 88, 89(i): the app's displayed text as recorded by the CCPA)",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty (reports the prompts as promising a faster ride: 'Adding a tip might help increase the chances of getting a ride faster')"
+  ],
+  "CCPA held the prompts a misleading advertisement and a dark pattern": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 54 'constitute a misleading advertisement under Section 2(28)'; para 80 'constitutes a dark pattern within the meaning of Clause 2(e)')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('a misleading advertisement, an unfair trade practice, and an unfair contract'; 'confirm shaming … prohibited under the Guidelines for Prevention and Regulation of Dark Patterns, 2023')"
+  ],
+  "Stop the prompts at once on every Ola platform; compliance report within 15 days": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 89(i) 'shall forthwith discontinue … on any platform, application, website or digital interface'; 89(iv) 'compliance report … within 15 days')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('must discontinue the prompts …'; 'submit a compliance report within 15 days')"
+  ],
+  "Ola's own data showed add-on requests were accepted less often (no figures used)": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 50 'The opposite party's own data does not substantiate the representation. It contradicts it.')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('Ola's own figures undercut that defence')"
+  ],
+  "Suggested amounts started at ₹10–₹40 and were later raised": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 45 'progressively escalated … from ₹10-₹40 in May, 2025')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('pre-set amounts ranging from ₹10 to ₹40, which subsequently increased')"
+  ],
+  "Ola argued the add-on is optional, goes entirely to the driver, used for rides drivers find less viable; CCPA rejected it": [
+   "https://images.assettype.com/barandbench/2026-11-11/t4ajnxqx/Ola_CCPA_order.pdf (para 13(iii) 'the entire amount goes to the driver'; para 30(i)(a) 'the add-on feature is optional'; para 51 'commercially less viable' rides, 'does not discharge the burden of substantiation')",
+   "https://www.barandbench.com/news/litigation/olas-extra-pay-for-faster-rides-feature-doesnt-work-ccpa-asks-it-to-scrap-practice-slaps-10-lakh-penalty ('voluntary and transferred directly to drivers'; 'commercially unattractive' rides)"
+  ],
+  "Rapido fined ₹10 lakh by the CCPA in September 2026 over similar pre-ride payment prompts": [
+   "https://www.freepressjournal.in/business/ccpa-fines-rapido-10-lakh-for-alleged-dark-patterns-misleading-fare-prompts-in-ride-bookings ('CCPA Fines Rapido ₹10 Lakh Over Misleading Ads, Dark Patterns And Pre-Ride Payment Prompts')",
+   "https://theprint.in/economy/consumer-watchdog-ccpa-slaps-rs-10-lakh-fine-on-rapido/3043486/ ('Rs 10 lakh … Roppen Transportation Services Pvt Ltd … misleading advertisements, unfair trade practices, unfair contract and dark patterns')",
+   "https://inc42.com/buzz/ccpa-penalises-rapido-over-advanced-tipping-prompts/"
+  ],
+  "National Consumer Helpline: toll-free 1915 and 1800-11-4000; NCH app and consumerhelpline.gov.in": [
+   "https://consumerhelpline.gov.in/public/about ('calling the toll free number 1800-11-4000 or 1915'; 'Register your grievance through NCH APP'; 'web portal http://consumerhelpline.gov.in')",
+   "https://theprint.in/economy/national-consumer-helpline-upgraded-to-simplify-filing-complaints-before-litigation/2190240/ ('call the toll-free number 1915 or use … the NCH app, the web portal'; 'toll-free number 1800-11-4000 / 14404')"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Ola_-_Kolkata_2016-06-23_5030.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Ola_-_Kolkata_2016-06-23_5030.jpg/3840px-Ola_-_Kolkata_2016-06-23_5030.jpg (standard 3840px thumb of the 4288x2848 original; saved unaltered as _work/2026-11-11-hourly-1927/news/img/ola_kol_3840.jpg)",
+  "sha256": "a89c8264c1322e99e39b1080fc751e13374187239248d243ffc9a4846d3ba907",
+  "bytes": 871299,
+  "owner": "Biswarup Ganguly (Wikimedia Commons user Gangulybiswarup, own work)",
+  "author": "Biswarup Ganguly",
+  "licence": "CC BY 3.0 Unported (file is dual-licensed GFDL 1.2+ / CC BY 3.0; CC BY 3.0 chosen)",
+  "credit": "Photo: Biswarup Ganguly / Wikimedia Commons, CC BY 3.0, cropped",
+  "size": "3840x2550 (original 4288x2848)",
+  "description": "Rear door of a white Ola cab in Kolkata, 23 June 2016, with a large Ola sticker (black ring with lime-green centre and the 'OLA' wordmark); no people",
+  "focal": [
+   0.49,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.53,
+  "faces": 0,
+  "viewed": true,
+  "framing": "pipeline.framing ok (focal 0.5,0.5 zoom 1.0 upscale 0.53 faces 0); focal set to [0.49,0.5] so the sticker's right end sits ~70 px clear of the vertical credit and the whole ring stays in frame (Gate 3 note)"
+ },
+ "tags": [],
+ "tags_confirmed": "none: image owner is an individual Commons author, not Ola; never tag the subject of a penalty story"
+}
