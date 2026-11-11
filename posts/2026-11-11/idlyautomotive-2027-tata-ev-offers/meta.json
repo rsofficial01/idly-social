@@ -1,0 +1,128 @@
+{
+ "account": "idlyautomotive",
+ "title": "Tata's November EV offers: older (pre-facelift / pre-Series X) Curvv EV stock up to ₹3.35 lakh (green bonus up to ₹3 lakh + up to ₹35,000 exchange/scrappage), Creative trim up to ₹2.85 lakh, Series X up to ₹65,000; Harrier EV up to ₹2.75 lakh (select variants); Punch EV and Tiago EV up to ₹1.45 lakh (pre-facelift); Nexon EV up to ₹45,000; Sierra EV excluded; Autocar India says till 15 Nov, CarWale listings show 30 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-06",
+   "url": "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2026-11-02",
+   "url": "https://www.businesstoday.in/auto/photo/diwali-ev-offers-reach-a-reported-rs3-35-lakh-the-stock-and-eligibility-details-buyers-need-to-know-565191-2026-11-02"
+  },
+  {
+   "outlet": "Autopunditz",
+   "date": "2026-11-03",
+   "url": "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts"
+  },
+  {
+   "outlet": "Auto India Daily",
+   "date": "2026-11-07",
+   "url": "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/"
+  },
+  {
+   "outlet": "Spinny",
+   "date": "2026-11 (updated about a week before 11 Nov)",
+   "url": "https://www.spinny.com/blog/tata-motors-discounts-and-offers/"
+  },
+  {
+   "outlet": "CarWale",
+   "date": "2026-11-11 (offer pages checked)",
+   "url": "https://www.carwale.com/tata-cars/harrier-ev/offers/"
+  }
+ ],
+ "fact_sources": {
+  "Older (pre-facelift / pre-Series X) Curvv EV stock: up to ₹3.35 lakh": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.businesstoday.in/auto/photo/diwali-ev-offers-reach-a-reported-rs3-35-lakh-the-stock-and-eligibility-details-buyers-need-to-know-565191-2026-11-02",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts"
+  ],
+  "Curvv EV older stock: Tata green bonus up to ₹3 lakh + exchange/scrappage up to ₹35,000": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts"
+  ],
+  "Curvv EV Creative trim (pre-Series X): up to ₹2.85 lakh": [
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.spinny.com/blog/tata-motors-discounts-and-offers/"
+  ],
+  "Curvv EV Series X: up to ₹65,000 (₹35,000 exchange/scrappage + ₹30,000 loyalty)": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.spinny.com/blog/tata-motors-discounts-and-offers/",
+   "https://www.carwale.com/tata-cars/curvv-ev/offers/"
+  ],
+  "Harrier EV: up to ₹2.75 lakh on select variants": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.businesstoday.in/auto/photo/diwali-ev-offers-reach-a-reported-rs3-35-lakh-the-stock-and-eligibility-details-buyers-need-to-know-565191-2026-11-02"
+  ],
+  "Punch EV: up to ₹1.45 lakh on pre-facelift stock": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.spinny.com/blog/tata-motors-discounts-and-offers/"
+  ],
+  "Tiago EV: up to ₹1.45 lakh on pre-facelift versions": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.businesstoday.in/auto/photo/diwali-ev-offers-reach-a-reported-rs3-35-lakh-the-stock-and-eligibility-details-buyers-need-to-know-565191-2026-11-02",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts"
+  ],
+  "Nexon EV: up to ₹45,000 on all variants": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.spinny.com/blog/tata-motors-discounts-and-offers/"
+  ],
+  "New Sierra EV excluded from the offers": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/"
+  ],
+  "Autocar India reports the offers end 15 Nov 2026": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/"
+  ],
+  "CarWale offer listings show 30 Nov 2026": [
+   "https://www.carwale.com/tata-cars/harrier-ev/offers/",
+   "https://www.carwale.com/tata-cars/punch-ev/offers/",
+   "https://www.carwale.com/tata-cars/curvv-ev/offers/"
+  ],
+  "Benefits vary by city, variant and stock": [
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/",
+   "https://www.spinny.com/blog/tata-motors-discounts-and-offers/"
+  ],
+  "Exchange or scrappage, not cumulative": [
+   "https://www.autopunditz.com/post/tata-ev-november-2026-offers-discounts",
+   "https://www.autocarindia.com/car-news/tata-curvv-ev-gets-benefits-of-up-to-rs-335-lakh-in-november-2026-441269",
+   "https://autoindiadaily.in/car-news/tata-ev-offers-november-2026/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.tatamotors.com/electric-vehicles/curvv-ev/ (redirects to https://www.tatamotors.com/press-releases/curvv-ev-makes-history/, 'Curvv.ev Makes History', 28 Feb 2025)",
+  "file_url": "https://www.tatamotors.com/wp-content/uploads/2025/02/PR-kit–Curvv.ev-Makes-History.zip (file Curvv.ev-Makes-History-3-high.jpg, saved unaltered as _work/2026-11-11-hourly-2027/automotive/photos/curvv-kit25-history-3.jpg, sha1 04a895283d10e5ee6da0d037ad7a5e7b193ee1be)",
+  "licence": "Tata Motors press-kit image from its own press release (manufacturer media), used credited for editorial news",
+  "author": "Tata Motors",
+  "credit": "Image: Tata Motors",
+  "subject": "Tata Curvv.ev (pre-Series X model), whole, front three-quarter, driving on a divided highway under a cloudy blue sky; Tata's Kashmir–Kanyakumari record-drive door decal (real livery) and plate MH01ER7873 as published; driver an unreadable silhouette; no watermark, no text overlay",
+  "width": 1221,
+  "height": 1622,
+  "faces": 0,
+  "viewed": true,
+  "processing": "YuNet 0 faces before viewing (facecheck.py --delete). pipeline.framing ok, 0 faces, upscale 0.88 (downscale, no enlargement). cardkit hype cover focal (0.5, 1.0), zoom 1.0: full 1221 px width, rows ~96-1622, scale 0.88; no fill, blur, letterbox or recolour. Rendered: car whole at about y 535-920, logo over sky, 3-line 100px headline from about y 960."
+ },
+ "tags": [
+  "tatamotorsgroup"
+ ],
+ "cover": {
+  "focal": [
+   0.5,
+   1.0
+  ],
+  "zoom": 1.0,
+  "upscale": 0.88
+ }
+}

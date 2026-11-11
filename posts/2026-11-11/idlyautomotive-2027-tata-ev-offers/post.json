@@ -1,0 +1,59 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2027-tata-ev-offers",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Business Today",
+  "Autopunditz",
+  "Auto India Daily",
+  "Spinny",
+  "CarWale"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Older Curvv EV Stock Gets Up To ₹3.35 Lakh Off",
+   "photo": "_work/2026-11-11-hourly-2027/automotive/frame/cover_source.png",
+   "photo_credit": "Image: Tata Motors",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹65,000",
+   "stat_label": "Most on a Current Curvv EV Series X",
+   "bullets": [
+    "Big discount: older, pre-Series X stock only",
+    "Up to ₹3 lakh green bonus, ₹35,000 exchange/scrappage",
+    "Creative trim on older stock: up to ₹2.85 lakh"
+   ],
+   "credit_line": "Sources: Autocar India, Autopunditz, Spinny"
+  },
+  {
+   "type": "detail",
+   "stat": "₹2.75 LAKH",
+   "stat_label": "Top Harrier EV Benefit, on Select Variants",
+   "bullets": [
+    "Punch EV, Tiago EV (pre-facelift): up to ₹1.45 lakh",
+    "Nexon EV, all variants: up to ₹45,000",
+    "New Sierra EV is left out of the offers"
+   ],
+   "credit_line": "Sources: Autocar India, Autopunditz, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "15 NOV",
+   "stat_label": "Tata EV Offer End Date, per Autocar India",
+   "bullets": [
+    "CarWale's offer pages show 30 Nov; ask the dealer",
+    "Maximum dealer benefits; vary by city, variant, stock",
+    "Need exchange or scrappage eligibility; the two don't stack"
+   ],
+   "credit_line": "Sources: Autocar India, Auto India Daily, CarWale, Autopunditz"
+  }
+ ]
+}
