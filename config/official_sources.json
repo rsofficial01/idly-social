@@ -370,6 +370,14 @@
       "domain": "playstation.com",
       "organisation": "PlayStation (Sony Interactive Entertainment)",
       "verified": "2026-11-10 hourly 2327: Sony Interactive Entertainment's corporate site sonyinteractive.com links in its footer to blog.playstation.com and www.playstation.com/en-us; the blog footer reads (c) Sony Interactive Entertainment. Covers blog.playstation.com and the PS Store pages. Not a news outlet; not denied. Passed by the blind reviewer at Gate 1."
+    },
+    {
+      "domain": "netflix.com",
+      "organisation": "Netflix",
+      "path_prefixes": [
+        "/tudum"
+      ],
+      "verified": "2026-11-11 hourly 2027: Netflix Tudum article page returns 200 on www.netflix.com with og:site_name 'Netflix Tudum' and twitter:site '@netflix'; og:image on dnm.nflximg.net (Netflix's image server); about.netflix.com already allowlisted as Netflix; /tudum prefix keeps the rest of netflix.com out. Desk evidence checked by the blind reviewer (nerd Gate 1)."
     }
   ],
   "denied_domains": [
