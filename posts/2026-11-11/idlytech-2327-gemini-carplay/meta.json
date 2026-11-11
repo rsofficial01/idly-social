@@ -98,6 +98,6 @@
  "gates": {
   "gate1": "PASS (build #1; drop #2 laptop cap, #3 ChatGPT Go) _work/2026-11-11-hourly-2327/reviews/tech-g1.md",
   "gate23": "PASS _work/2026-11-11-hourly-2327/reviews/tech-g23.md",
-  "gate4": "pending"
+  "gate4": "PASS (blind reviewer 12/14: hook 1, send 1); self 12; post 12/14. Published 00:01 IST 12 Nov, https://www.instagram.com/p/DfnIZo-D_Bh/, tagged @google."
  }
 }

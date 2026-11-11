@@ -118,6 +118,6 @@
  "gates": {
   "gate1": "PASS for #3 (BMW i3 run); GV90 DROP; EV staff cars only with a proper image (none found). Fixes applied: 10-word headline with both numbers, Neue Klasse sedan on slide 2, 'BMW says' attribution, plain India line, each fact once with reasons, no idly article.",
   "gate23": "PASS (blind reviewer): facts checked against BMW Group and BMWBlog; BMW Group run photo approved; driver behind glare ruled not identifiable on conditions zoom 1.0 and no people in alt text.",
-  "gate4": "pending"
+  "gate4": "PASS (blind reviewer 12/14: send 1, keep 1); self 13 (keep 1); post 12/14. Gate 2+3 conditions kept (zoom 1.0; no people in alt text). Published 00:22 IST 12 Nov, https://www.instagram.com/p/DfnKt9VjTzE/."
  }
 }
