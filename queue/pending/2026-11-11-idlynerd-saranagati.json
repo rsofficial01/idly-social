@@ -1,0 +1,63 @@
+{
+  "slug": "2026-11-11-idlynerd-saranagati",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Saranagati: Hombale presents AI-motion-capture animated biopic of ISKCON founder Prabhupada, in theatres Aug 2027",
+  "headline": "After ₹300 Cr Narsimha, Hombale Backs AI ISKCON Founder Biopic",
+  "caption": "Hombale Films, the studio behind KGF, Kantara and Salaar, will present and distribute Saranagati – The Life of a Surrendered Soul, an animated biopic of A.C. Bhaktivedanta Swami Prabhupada, the founder of ISKCON. Its title teaser came out on 10 November.\n\nThe film follows Prabhupada's 1965 journey from India to the US, at 69, carrying the teachings of the Bhagavad Gita. Gaura Shakti Dasa writes and directs, and Transcendental Films produces it with Dive Deep AI Studio.\n\nThe makers call it a \"hybrid AI\" film. They say its characters are made with AI motion capture, which turns human movements and expressions into digital characters, and that its music and sound were made traditionally.\n\nSaranagati is set to open in theatres worldwide in August 2027, timed to Prabhupada's Vyasa Puja, the makers say. Hombale also presented the animated Mahavatar Narsimha (2025), which grossed over ₹300 crore worldwide, according to trade trackers.\n\nWould you buy a cinema ticket for a film animated with AI motion capture?\n\nSources: DNA India, ANI, The Hans India, Hombale Films, Sacnilk, Koimoi, Pinkvilla\n\n#Saranagati #HombaleFilms #ISKCON #IndianCinema #idlynerd",
+  "alt_text": "Slide 1: an official image from the Saranagati title teaser by Hombale Films, under the headline \"After ₹300 Cr Narsimha, Hombale Backs AI ISKCON Founder Biopic\" (₹300 crore is the worldwide gross of the Hombale-presented animated film Mahavatar Narsimha, 2025). Slide 2: \"AUG 2027\", when Saranagati opens in theatres worldwide; it follows Prabhupada's 1965 journey to the US at 69, its release is timed to his Vyasa Puja, and Gaura Shakti Dasa wrote and directed it. Slide 3: how Saranagati's makers say AI is used: AI motion capture turns human movements into digital characters, music and sound were made traditionally, and Hombale presents it while Transcendental Films and Dive Deep AI Studio produce it.",
+  "sources": [
+    "DNA India",
+    "ANI",
+    "The Hans India",
+    "Hombale Films",
+    "Sacnilk",
+    "Koimoi",
+    "Pinkvilla"
+  ],
+  "detail_slides": [
+    {
+      "stat": "AUG 2027",
+      "stat_label": "Saranagati Opens in Theatres Worldwide",
+      "bullets": [
+        "Follows Prabhupada's 1965 journey to the US, aged 69",
+        "Release timed to his Vyasa Puja, the makers say",
+        "Written and directed by Gaura Shakti Dasa"
+      ],
+      "credit_line": "Sources: DNA India, ANI, The Hans India"
+    },
+    {
+      "stat_label": "How Saranagati's Makers Say AI Is Used",
+      "bullets": [
+        "AI motion capture turns human movements into digital characters",
+        "Music and sound made traditionally, the makers say",
+        "Hombale presents; Transcendental Films, Dive Deep AI Studio produce"
+      ],
+      "credit_line": "Sources: Hombale Films, DNA India, The Hans India"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=aHyEqQkF4Po"
+  },
+  "tags": [
+    "hombalefilms"
+  ],
+  "story": false,
+  "notes": "format: news. idly_article false (no idly.news article on Saranagati; API search 11 Nov returned none). Gate 1+3 BUILD #1 (blind reviewer). Image: the only official Saranagati upload is Hombale Films' title teaser aHyEqQkF4Po (oEmbed 11 Nov: author_name 'Hombale Films', author_url https://www.youtube.com/@HombaleFilms, allowlisted). No fallback exists: hombalefilms.com has no Saranagati page and Hombale's channel has no other Saranagati video; the producer Transcendental Films' channel is not allowlisted. Desk did not download or view the thumbnail. Reviewer HOLD risks at Gate 4: burned-in SARANAGATI title lettering, a title card that doesn't show the film's subject, a soft ~1.875x upscale; if the frame fails, SKIP (no v2). Gate 2 FIX: ₹300 Cr now in the cover headline; the ₹300 CR+ detail card was deleted so the number isn't repeated. Tag hombalefilms: linked from hombalefilms.com (instagram.com/hombalefilms).",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 2: the ₹300 Cr number and the AI stake are both on the cover (Gate 2 fix). keep 1: a month (Aug 2027), not a date; no price. original 2 assumes a clean official still; drops to 1 if the lane lands on lettered title-card art (Gate 4 decides, and that would mean SKIP)."
+    }
+  },
+  "created_at": "2026-11-11T14:50:00+05:30"
+}
