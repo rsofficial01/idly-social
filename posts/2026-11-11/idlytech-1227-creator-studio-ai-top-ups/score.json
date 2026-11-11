@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Final = lower of self 13 and blind reviewer 13 (taken: reviewer). Self: Send 1: a narrow audience of Mac creators, and only Logic Pro sells the packs so far. Hook 2: both numbers (₹399 plan, $49.99 top-up) are on the cover, but $49.99 is a US price with no rupee price, which may cut it to 1. Keep 2: India prices for every plan, the 12-month expiry, the account rule. Reply 2: an own-life question about AI usage limits. Reviewer: Send 1 (the weak check): the audience is narrow. The packs matter to Mac creators on Creator Studio, and today only Logic Pro sells them, so most @idlytech readers have no one specific to forward it to. Hook 2: the cover carries both numbers and the stake (a $49.99 AI top-up on the ₹399 plan). It takes a beat to parse two currencies, but it is specific and surprising. Read 2: each slide adds new facts and nothing is repeated beyond the requested 'US price' qualifier. Keep 2: India prices (₹3,999/yr; ₹199/mo and ₹1,999/yr for students and educators), the 12-month expiry, the only-after-monthly-limit rule, no Family Sharing, the 8 countries. Reply 2: 'Have you ever hit a usage limit on an AI tool you pay for?' is an own-life question, not bait. Original 2: idly's own synthesis; Apple Newsroom image (27 Oct 2026) credited 'Image: Apple'. Alone 2: after the fix, every slide names the product. Verified: Engadget 9 Nov and 9to5Mac 9 Nov ($49.99 one-time; used only after the monthly limit; rolls over and expires 12 months after purchase; Apple Account only, no Family Sharing; Logic Pro the only app selling packs); Engadget and iClarified (8 countries incl. India); Digit, Telecomtalk, Free Press Journal and Smartprix (₹399/mo, ₹3,999/yr; ₹199/mo, ₹1,999/yr students and educators). No rupee price for the pack is reported anywhere, and the card says so. Layout: all 3 slides at full size; no overlap or cut-off; shared left edge; white Title Case labels; cover subject (the Assistant panel) clear of the logo and of the headline block starting at y ~960; 1.03x upscale, sharp. Caption: one '?', Sources line, 'Image: Apple' last, 5 hashtags, no idly.news mention (idly_article false); post_problems ([], [])."
+}
