@@ -1,0 +1,128 @@
+{
+  "account": "idlyautomotive",
+  "title": "Royal Enfield Himalayan 750 first-ride reviews published 11 Nov 2026 (BikeWale, ZigWheels): 743cc air/oil-cooled twin, 55 PS @ 7,000 rpm, 63 Nm @ 5,000 rpm, six-speed; about 15 PS and 23 Nm more than the Himalayan 450 (40.02 PS, 40 Nm); 224 kg India spec (450: 196 kg), 17.8 L tank, 815 mm seat; cruise control, cornering ABS, lean-sensitive traction control, five riding modes; UK from £6,999; Royal Enfield hasn't announced an India price or launch date; Motoverse runs 27-29 Nov, Vagator, Goa",
+  "story_id": null,
+  "idly_article": false,
+  "format": "news",
+  "sources": [
+    {
+      "outlet": "Royal Enfield (official Himalayan 750 India page)",
+      "date": "2026-11-11",
+      "url": "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/"
+    },
+    {
+      "outlet": "Autocar India",
+      "date": "2026-11-03",
+      "url": "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207"
+    },
+    {
+      "outlet": "BikeWale",
+      "date": "2026-11-11",
+      "url": "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    },
+    {
+      "outlet": "ZigWheels",
+      "date": "2026-11-11",
+      "url": "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    },
+    {
+      "outlet": "Visordown",
+      "date": "2026-11-03",
+      "url": "https://www.visordown.com/news/royal-enfield-officially-enters-750cc-era-all-new-himalayan-750"
+    },
+    {
+      "outlet": "91Wheels (Himalayan 450 specifications)",
+      "date": "2026-11-11",
+      "url": "https://www.91wheels.com/bikes/royalenfield/himalayan-450/specifications"
+    },
+    {
+      "outlet": "Autocar India (Motoverse 2026 dates)",
+      "date": "2026-09-01",
+      "url": "https://www.autocarindia.com/bike-news/royal-enfield-motoverse-2026-dates-announced-440617"
+    }
+  ],
+  "fact_sources": {
+    "First-ride reviews published on 11 Nov 2026 (BikeWale 4:30 PM IST; ZigWheels)": [
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/",
+      "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    ],
+    "743cc air/oil-cooled twin (parallel/inline twin)": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    ],
+    "55 PS at 7,000 rpm (BikeWale/Visordown: 54 bhp at 7,000 rpm, the same figure in bhp)": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    ],
+    "63 Nm at 5,000 rpm": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    ],
+    "Six-speed gearbox": [
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    ],
+    "Himalayan 450: 40.02 PS @ 8,000 rpm, 40 Nm @ 5,500 rpm, 196 kg kerb, single cylinder (so the 750 has about 15 PS, 23 Nm and 28 kg more)": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.91wheels.com/bikes/royalenfield/himalayan-450/specifications"
+    ],
+    "224 kg kerb weight, India spec": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    ],
+    "17.8-litre tank; 815 mm seat": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207"
+    ],
+    "Cruise control, cornering ABS, lean-sensitive traction control, five riding modes": [
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/",
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/"
+    ],
+    "UK price from £6,999 (cast wheels); £8,699 Antarctic Silver with GIVI luggage (the cover bike)": [
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.visordown.com/news/royal-enfield-officially-enters-750cc-era-all-new-himalayan-750"
+    ],
+    "Royal Enfield hasn't announced an India price or launch date": [
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/",
+      "https://www.royalenfield.com/in/en/motorcycles/himalayan-750/"
+    ],
+    "Motoverse 2026 runs 27-29 Nov in Vagator, Goa": [
+      "https://www.autocarindia.com/bike-news/royal-enfield-motoverse-2026-dates-announced-440617",
+      "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    ],
+    "Autocar India expects India-specific details around Motoverse 2026 (Autocar's own expectation, 3 Nov); ZigWheels also points to Motoverse": [
+      "https://www.autocarindia.com/bike-news/royal-enfield-himalayan-750-specs-and-uk-price-revealed-441207",
+      "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    ],
+    "Both reviews: strong pull from low revs; agile on the move (BikeWale: stronger low down than the 650s, feels lighter than its kerb weight; ZigWheels: strong low-end pull, turns easily despite its bulk); ZigWheels: feels heavy when parking/at low speed": [
+      "https://www.bikewale.com/expert-reviews/royal-enfield-himalayan-750-first-ride-review/",
+      "https://www.zigwheels.com/news-features/general-news/royal-enfield-himalayan-750-reviewed-top-5-things-you-need-to-know/58445/"
+    ]
+  },
+  "image": {
+    "page": "https://www.royalenfield.com/content/dam/open-pdf/himalayan-750-brochure-emea.pdf",
+    "linked_from": "royalenfield.com (Royal Enfield's own Himalayan 750 EMEA brochure, page 15, 'Antarctic Silver'; PDF created 28 Oct 2026)",
+    "owner": "Royal Enfield",
+    "licence": "Official manufacturer image, used with credit",
+    "author": "Royal Enfield",
+    "credit": "Image: Royal Enfield",
+    "size": "1928x2838 original (embedded image object 78, page 15); used at 0.684 output px per source px, no enlargement",
+    "focal": [
+      0.5,
+      1.0
+    ],
+    "zoom": 1.22,
+    "faces": 0,
+    "viewed": true
+  },
+  "tags": [
+    "royalenfield"
+  ],
+  "tags_confirmed": "https://www.instagram.com/royalenfield is the only Instagram link on Royal Enfield's own Himalayan 750 India page (https://www.royalenfield.com/in/en/motorcycles/himalayan-750/), checked 11 Nov 2026"
+}

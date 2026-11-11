@@ -1,0 +1,45 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-1727-himalayan-750-first-rides",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Royal Enfield",
+    "Autocar India",
+    "BikeWale",
+    "ZigWheels"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Royal Enfield's 743cc Himalayan 750: First Rides Are In",
+      "photo": "_work/2026-11-11-hourly-1727/auto/framing/cover_source.png",
+      "photo_credit": "Image: Royal Enfield",
+      "focal": [
+        0.5,
+        1.0
+      ],
+      "zoom": 1.22
+    },
+    {
+      "type": "detail",
+      "stat": "55 PS",
+      "stat_label": "Himalayan 750 Power: 15 PS Over the 450",
+      "bullets": [
+        "63 Nm, against the Himalayan 450's 40 Nm",
+        "224 kg India spec, 28 kg over the 450",
+        "BikeWale, ZigWheels: strong low-rev pull, agile on the move"
+      ],
+      "credit_line": "Sources: Royal Enfield, Autocar India, BikeWale, ZigWheels, 91Wheels"
+    },
+    {
+      "type": "detail",
+      "stat": "£6,999",
+      "stat_label": "Himalayan 750 UK Starting Price; India Price Unannounced",
+      "bullets": [
+        "Royal Enfield hasn't announced an India launch date",
+        "Autocar India expects India details at Motoverse, 27–29 Nov"
+      ],
+      "credit_line": "Sources: Autocar India, Visordown, Royal Enfield"
+    }
+  ]
+}

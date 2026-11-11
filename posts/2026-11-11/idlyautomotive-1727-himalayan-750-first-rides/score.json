@@ -1,0 +1,13 @@
+{
+  "hook": 1,
+  "read": 2,
+  "send": 2,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "hook 1 (both): the cover number is a spec (743cc) and the stake is 'First Rides Are In'; there's no India price or launch date to put on the cover, and the bike was first shown at EICMA on 3 Nov. Every other check is 2 from both: send (Royal Enfield and Himalayan 450 owners' groups), keep (power, torque and weight against the 450, UK price, Motoverse dates), reply (a price question readers answer from their own budget), original (our own spec synthesis; review verdicts paraphrased and attributed), alone (after the Gate 4 v2 fix, slide 2 says what the first rides found).",
+  "self_total": 13,
+  "reviewer_total": 13
+}
