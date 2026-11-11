@@ -1,0 +1,70 @@
+# Citizen voices (see RUNBOOK.md, "Citizen voices"): reads public YouTube comments and Reddit posts about a topic
+# through the platforms' official APIs and commits a digest to research/voices/<topic>/. The digest holds counts and
+# short linked excerpts, never usernames; raw posts are not kept. Platforms without a key are skipped.
+name: voices-pull
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Topic file name in config/voices/ (without .json)"
+        required: true
+        default: tvk-six-months
+  push:
+    branches: [main]
+    paths: ["config/voices/*.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: idly-voices-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+      REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+      X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      VOICES_X_ENABLED: ${{ vars.VOICES_X_ENABLED }}
+      TOPIC_INPUT: ${{ inputs.topic }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: python -m pip install "requests>=2.31"
+
+      - name: Which platforms have keys
+        run: python3 -m pipeline.voices check | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Pull
+        run: |
+          if [ -n "$TOPIC_INPUT" ]; then
+            topics="$TOPIC_INPUT"
+          else
+            topics=$(git diff --name-only HEAD~1 HEAD -- 'config/voices/*.json' | xargs -r -n1 basename | sed 's/\.json$//')
+          fi
+          for t in $topics; do
+            case "$t" in *[!a-z0-9-]*) echo "skipping bad topic name"; continue;; esac
+            python3 -m pipeline.voices pull "$t" | tee -a "$GITHUB_STEP_SUMMARY"
+          done
+
+      - name: Commit the digest
+        run: |
+          git add research/voices 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No digest to commit."; exit 0; fi
+          git config user.name "idly-voices"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Citizen voices digest"
+          for i in 1 2 3; do git pull --rebase && git push && break || sleep 5; done

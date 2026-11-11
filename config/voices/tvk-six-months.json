@@ -1,0 +1,33 @@
+{
+  "title": "Six months of the TVK government in Tamil Nadu",
+  "since": "2026-05-10",
+  "until": "2026-11-10",
+  "must_match": ["tvk", "vijay", "த.வெ.க", "தவெக", "விஜய்", "government", "govt", "அரசு", "ஆட்சி", "dmk", "திமுக", "stalin", "ஸ்டாலின்", "aiadmk", "அதிமுக", "cm ", "முதல்வர்", "minister", "அமைச்சர்", "tamil nadu", "tamilnadu", "தமிழ்நாடு", "தமிழக"],
+  "youtube": {
+    "max_units": 2600,
+    "videos_per_query": 15,
+    "max_videos": 90,
+    "comments_per_video": 100,
+    "order": "viewCount",
+    "queries": [
+      "தவெக அரசு 6 மாதம்", "விஜய் ஆட்சி ஆறு மாதம்", "முதல்வர் விஜய் அரசு மக்கள் கருத்து", "TVK government six months",
+      "மின்வெட்டு தமிழ்நாடு மக்கள்", "மகளிர் உரிமைத் தொகை 2500 எப்போது", "விலைவாசி உயர்வு மக்கள் கருத்து தமிழ்நாடு",
+      "சென்னை மழைநீர் தேங்கியது மக்கள்", "டாஸ்மாக் விலை உயர்வு மக்கள்", "சட்டம் ஒழுங்கு தமிழ்நாடு தவெக அரசு",
+      "தவெக அமைச்சர் சர்ச்சை", "திமுக ஆட்சி vs தவெக ஆட்சி", "public opinion Vijay government Tamil Nadu",
+      "தவெக அரசு வெள்ளை அறிக்கை கடன்", "பரந்தூர் விமான நிலையம் ரத்து மக்கள்", "தவெக அரசு பட்ஜெட் மக்கள் கருத்து",
+      "விஜய் அரசு வேலைவாய்ப்பு இளைஞர்கள்", "தவெக அரசு விவசாயிகள் நெல் கொள்முதல்"
+    ]
+  },
+  "reddit": {
+    "max_calls": 150,
+    "posts_per_query": 50,
+    "max_threads": 45,
+    "comments_per_thread": 60,
+    "subreddits": ["TamilNadu", "tamil_nadu", "Chennai", "Coimbatore", "madurai", "kollywood", "tamil", "india", "IndiaSpeaks", "SouthernIndia"],
+    "queries": ["TVK government", "Vijay CM", "TVK six months", "power cut", "TVK promises", "TVK vs DMK"]
+  },
+  "x": {
+    "max_posts": 0,
+    "queries": ["தவெக அரசு", "TVK government", "CM Vijay"]
+  }
+}

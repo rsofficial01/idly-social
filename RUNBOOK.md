@@ -757,3 +757,27 @@ id with `GET /{id}?fields=id,username` before it posts.
 **Outside the Claude cloud** (your own computer or a server) **[plain terminal]**:
 `export IG_TOKEN_IDLYTECH=…` (and the others), and/or `export IG_SYSTEM_TOKEN=…`, in that shell only. The
 code sends them only as the `Authorization: Bearer` header and never prints them.
+
+
+## Citizen voices
+
+What ordinary people are posting about a story, read through each platform's official API
+(`pipeline/voices/`, workflow `voices-pull`). It exists because outlets take sides: a scorecard needs the
+public's own words next to the media's.
+
+- **Topic file:** `config/voices/<topic>.json` gives the dates, the YouTube searches, the subreddits, and
+  `must_match` words. Pushing a change to a topic file runs the pull; so does Actions → voices-pull → Run workflow.
+- **Output:** `research/voices/<topic>/latest.md` (and a dated `.md` and `.json`): themes ranked by how many
+  different people raised them, the most-liked excerpts with links, copy-paste text reported separately.
+- **Keys (GitHub → Settings → Secrets and variables → Actions; Rahul types them):**
+  `YOUTUBE_API_KEY` (free Google Cloud key, YouTube Data API v3; about 2,600 of the 10,000 free daily units per pull),
+  `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`, `REDDIT_USERNAME` (a Reddit "script" app; Reddit's free tier is for
+  non-commercial use, so apply for commercial access if idly publishes from it regularly).
+  `X_BEARER_TOKEN` is optional and paid per post: it stays off unless the repository variable
+  `VOICES_X_ENABLED` is `true` and the topic sets `x.max_posts` above 0. X search only reaches back 7 days.
+- **Rules:** this repository is public, so no username is ever written and raw posts are never saved. The digest
+  is a reading of public posts, not a poll: say "N posts from M accounts", never "X% of Tamil Nadu". Comment
+  sections skew angry and organised. Themes are keyword matches; no stance or sentiment is inferred, so a human
+  (or the desk) reads the excerpts before anything is quoted. Quote a post only as "a commenter on YouTube/Reddit",
+  with the link kept in the sources, and never a private person's name.
+- **Discord** is not covered: it has no public search, and a bot can read only servers whose admins invite it.
