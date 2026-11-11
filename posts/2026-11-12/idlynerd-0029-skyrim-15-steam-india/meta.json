@@ -118,6 +118,6 @@
  "gates": {
   "gate1": "_work/2026-11-12-hourly-0029/reviews/nerd-gate1.md (BUILD C with 6 fixes, applied)",
   "gate23": "_work/2026-11-12-hourly-0029/reviews/nerd-gate23.md (picture PASS; caption FIX 'This week it said' -> 'Ahead of the anniversary, it said', applied)",
-  "gate4": "PASS (blind reviewer 13/14: read 1, slide 3 bullet 3 optional polish); self 13 (original 1); post 12/14 (per-check minimum). Sharpness checked at 1:1 (Laplacian ~1,486). Facecheck faces=0 on all slides. Main re-checked Steam appdetails cc=in before publishing: ₹1,799 -> ₹359 (-80%)."
+  "gate4": "PASS (blind reviewer 13/14: read 1, slide 3 bullet 3 optional polish); self 13 (original 1); post 12/14 (per-check minimum). Sharpness checked at 1:1 (Laplacian ~1,486). Facecheck faces=0 on all slides. Main re-checked Steam appdetails cc=in before publishing: ₹1,799 -> ₹359 (-80%). Published 01:04 IST 12 Nov, https://www.instagram.com/p/DfnPmlQj6OS/ (tagged @bethesda)."
  }
 }
