@@ -1,0 +1,104 @@
+{
+ "account": "idlynerd",
+ "title": "GTA VI targets 30 FPS on PS5 and Xbox Series X|S, PS5 Pro included, with no 60 FPS mode announced (Rockstar, 10 Nov 2026); PS5 Pro only: PSSR upscaling and ray-traced shadows; no native Xbox One version, Xbox One can stream it via Xbox Cloud Gaming at Series S settings; Xbox Cloud Gaming in India since Nov 2025",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "idly #1865 covers this story but wrongly says Rockstar has not announced a release date or price (19 Nov; Rs 5,999 / Rs 7,499); Gate 1 reviewer: do not link it, flag #1865 for correction in Main's report. If #1865 is corrected before publishing, switch to the idly.news line and story_id 1865.",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Rockstar Games Newswire",
+   "date": "2026-11-10",
+   "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+  },
+  {
+   "outlet": "PlayStation Blog",
+   "date": "2026-11-10",
+   "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+  },
+  {
+   "outlet": "Gematsu",
+   "date": "2026-11-10",
+   "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed"
+  },
+  {
+   "outlet": "Inven Global",
+   "date": "2026-11-10",
+   "url": "https://www.invenglobal.com/articles/28416/rockstar-confirms-gta-6-targets-30fps-on-all-consoles-with-ray-traced-shadows-exclusive-to-ps5-pro"
+  },
+  {
+   "outlet": "Tech Times",
+   "date": "2026-11-10",
+   "url": "https://www.techtimes.com/articles/330395/20261110/gta-6-technical-specs-are-final-30-fps-across-board-212-gb-your-drive-pc-release-still-mia.htm"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2025-11-12",
+   "url": "https://www.businesstoday.in/technology/news/story/xbox-cloud-gaming-launches-in-india-stream-hundreds-of-games-across-devices-with-xbox-game-pass-501910-2025-11-12"
+  },
+  {
+   "outlet": "Neowin",
+   "date": "2025-11",
+   "url": "https://www.neowin.net/news/microsoft-rolls-out-xbox-cloud-gaming-to-india"
+  }
+ ],
+ "fact_sources": {
+  "Rockstar: GTA VI targets 30 frames per second on PS5 and Xbox Series X|S": [
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+   "https://www.invenglobal.com/articles/28416/rockstar-confirms-gta-6-targets-30fps-on-all-consoles-with-ray-traced-shadows-exclusive-to-ps5-pro"
+  ],
+  "The 30 FPS target includes the PS5 Pro; no 60 FPS mode announced": [
+   "https://www.invenglobal.com/articles/28416/rockstar-confirms-gta-6-targets-30fps-on-all-consoles-with-ray-traced-shadows-exclusive-to-ps5-pro",
+   "https://www.techtimes.com/articles/330395/20261110/gta-6-technical-specs-are-final-30-fps-across-board-212-gb-your-drive-pc-release-still-mia.htm"
+  ],
+  "Statement released with the pre-load on 10 Nov": [
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+   "https://www.techtimes.com/articles/330395/20261110/gta-6-technical-specs-are-final-30-fps-across-board-212-gb-your-drive-pc-release-still-mia.htm"
+  ],
+  "PS5 Pro only: sharper picture via PSSR upscaling and ray-traced shadows": [
+   "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed"
+  ],
+  "No native Xbox One version; Xbox One can stream via Xbox Cloud Gaming": [
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+   "https://www.techtimes.com/articles/330395/20261110/gta-6-technical-specs-are-final-30-fps-across-board-212-gb-your-drive-pc-release-still-mia.htm"
+  ],
+  "Cloud version uses Xbox Series S graphics settings; connection speed can affect performance": [
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+   "https://www.techtimes.com/articles/330395/20261110/gta-6-technical-specs-are-final-30-fps-across-board-212-gb-your-drive-pc-release-still-mia.htm"
+  ],
+  "Xbox Cloud Gaming available in India since November 2025": [
+   "https://www.businesstoday.in/technology/news/story/xbox-cloud-gaming-launches-in-india-stream-hundreds-of-games-across-devices-with-xbox-game-pass-501910-2025-11-12",
+   "https://www.neowin.net/news/microsoft-rolls-out-xbox-cloud-gaming-to-india"
+  ],
+  "GTA VI launches 19 November": [
+   "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+   "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed"
+  ]
+ },
+ "image": {
+  "page": "https://www.rockstargames.com/VI/launch-gallery",
+  "file": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg (saved unaltered as _work/2026-11-11-hourly-1327/idlynerd/img/rs_Vice_City_27.jpg, sha1 d436398ae960a9b55e31b01ff31042f4ca08ec7b, 1,132,950 bytes)",
+  "licence": "Official Rockstar Games promotional screenshot from the publisher's own GTA VI site (rockstargames.com/VI, on the allowlist), used credited for editorial news",
+  "author": "Rockstar Games",
+  "credit": "Image: Rockstar Games",
+  "size": "3840x2160",
+  "subject": "In-game Vice City skyline at night: lit towers, elevated roads, a river and a raised bascule bridge; no people, no watermark, no overlay lettering (in-game signage only)",
+  "viewed": true,
+  "faces": 0,
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "processing": "YuNet 0 faces before viewing. pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 0.62 (downscaled, no enlargement) -> _work/2026-11-11-hourly-1327/idlynerd/framing/Vice_City_27/cover_source.png; cardkit hype cover photo scale 0.62, scrim 0.54, headline 100px x 3 lines; no fill, blur or letterbox."
+ },
+ "tags": [
+  "rockstargames"
+ ],
+ "tag_evidence": "rockstargames.com (Rockstar's own site, fetched 11 Nov 2026) links to instagram.com/rockstargames; the Gate 1 reviewer confirmed it as the verified official account. The cover image is Rockstar's.",
+ "gates": {
+  "g1": "BUILD #1 only (blind reviewer, ceiling 13). Fixes applied: cover 'GTA VI Targets 30 FPS, Even on a PS5 Pro'; slide 2 '2' / 'Upgrades Only PS5 Pro Gets in GTA VI' with the three reviewer bullets; slide 3 '0' / 'Native GTA VI Versions for Xbox One', no 19 NOV, no Remote Play; every claim attributed to Rockstar/Sony, no Game Pass tier or price claims; no_idly_article true + Sources line; launch date once in the caption as context; picture PASS.",
+  "g4": "sent to reviewer: _work/2026-11-11-hourly-1327/idlynerd/gate4.md"
+ }
+}

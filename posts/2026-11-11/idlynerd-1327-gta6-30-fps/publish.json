@@ -1,0 +1,15 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlynerd-1327-gta6-30-fps/01.jpg",
+  "posts/2026-11-11/idlynerd-1327-gta6-30-fps/02.jpg",
+  "posts/2026-11-11/idlynerd-1327-gta6-30-fps/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlynerd-1327-gta6-30-fps/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlynerd-1327-gta6-30-fps/alt.txt",
+ "score_file": "posts/2026-11-11/idlynerd-1327-gta6-30-fps/score.json",
+ "title": "GTA VI targets 30 FPS on PS5 and Xbox Series X|S, PS5 Pro included, with no 60 FPS mode announced (Rockstar, 10 Nov 2026); PS5 Pro only: PSSR upscaling and ray-traced shadows; Xbox One via Xbox Cloud Gaming at Series S settings",
+ "tags": ["rockstargames"]
+}

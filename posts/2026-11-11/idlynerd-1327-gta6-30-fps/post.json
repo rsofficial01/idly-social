@@ -1,0 +1,42 @@
+{
+  "acct": "idlynerd",
+  "slug": "idlynerd-1327-gta6-30-fps",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Rockstar Games",
+    "PlayStation Blog",
+    "Gematsu"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GTA VI Targets 30 FPS, Even on a PS5 Pro",
+      "photo": "_work/2026-11-11-hourly-1327/idlynerd/framing/Vice_City_27/cover_source.png",
+      "photo_credit": "Image: Rockstar Games",
+      "focal": [0.5, 0.5],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "2",
+      "stat_label": "Upgrades Only PS5 Pro Gets in GTA VI",
+      "bullets": [
+        "Sharper picture through Sony's PSSR upscaling",
+        "Ray-traced shadows no other console gets",
+        "Rockstar has named no 60 FPS mode"
+      ],
+      "credit_line": "Sources: Rockstar Games, PlayStation Blog, Gematsu"
+    },
+    {
+      "type": "detail",
+      "stat": "0",
+      "stat_label": "Native GTA VI Versions for Xbox One",
+      "bullets": [
+        "Streams through Xbox Cloud Gaming instead",
+        "Series S graphics; your internet sets smoothness",
+        "Xbox Cloud Gaming has run in India since 2025"
+      ],
+      "credit_line": "Sources: Rockstar Games, Gematsu, Business Today"
+    }
+  ]
+}
