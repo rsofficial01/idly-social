@@ -1,0 +1,13 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 1,
+ "total": 13,
+ "notes": "Post score = LOWER of desk self-score (13/14) and blind reviewer (14/14) per check = 13/14. Only difference: alone (self 1, reviewer 2) -> 1, because slide 2 names the 'New Vande Bharat' and Bengaluru but not the Goa route in words. Reviewer (Gates 1, 2+3, 4): facts verified against Daijiworld and Metro Rail News (11 Nov) for the 13 Nov flag-off and 15 Nov start, Oneindia and Metro Rail News for timings, halts and no-run days, and Coastal Digest and Pune Pulse for Mangaluru Jn times, the extra hour on the Mangaluru–Madgaon stretch and the Karnataka Railway Vedike quote. Picture: Commons CC BY 4.0 (Arhan Jain), the actual Mangaluru–Madgaon service being extended, at Madgaon; no identifiable people; 1.25x upscale; the 2-line headline keeps the cab clear. Caption: post_problems errors [] (TN-baseline keyword warning only, not applicable); exactly one '?'; Sources line; credit last; no idly.news article (no_idly_article). Time-sensitive: flag-off 13 Nov and regular runs from 15 Nov.",
+ "self_total": 13,
+ "reviewer_total": 14
+}

@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 14,
+ "notes": "Reviewer: blind, Gate 4, idlynews Bengaluru-Goa Vande Bharat via Mangaluru, 11 Nov 2026 16:01 IST. WEAK: none below 2. Closest to 1 is hook: the cover number is the duration ('About 13 Hours'), not the start date. It scores 2 because 'New Bengaluru–Goa Train' is a clear stake for a large audience, with a specific number over the actual train. FACTS VERIFIED: PM flag-off 2 pm Fri 13 Nov in Bengaluru, regular runs both ways from 15 Nov (Daijiworld, Udupi 11 Nov; Metro Rail News 11 Nov); 26655 7:35 AM->8:55 PM, 26656 8:20 AM->9:15 PM (Metro Rail News, Coastal Digest, Oneindia); no Wed run from Yesvantpur / no Thu run from Madgaon (Metro Rail News, Oneindia); 12 halts (Metro Rail News, Oneindia); 20645/20646 discontinued from 15 Nov (Metro Rail News, Coastal Digest); Mangaluru Jn 3:05 PM / 1:50 PM and the stretch about an hour slower than the existing VB (Coastal Digest, Pune Pulse); K N Krishna Prasad, Karnataka Railway Vedike: 'taking it to Goa makes the journey too long', and the Mangaluru Central bypass criticism (Coastal Digest, Pune Pulse). Caption: caption_problems errors [] (TN-baseline keyword warning only; not a TN story), exactly one '?' (own-life travel choice), neutral flag-off line, criticism attributed, Sources line, no idly mention, 5 hashtags, credit last. meta.json: format news, 11 fact_sources, photo_source viewed. LAYOUT: 01 full-bleed Commons photo (Arhan Jain, CC BY 4.0, the actual Mangaluru-Madgaon service at Madgaon, 1.25x, acceptably sharp), no letterbox or blur; logo over sky; white 2-line left-aligned headline from y~1065, with the train's cab, windscreen and emblem fully above it and only the bottom skirt behind line 1; vertical credit about 70 px clear and readable. 02-04: orange stat, white Title Case labels, 3 bullets each on one left edge, sources lines above the footer rule, no collisions, nothing cut off."
+}

@@ -1,0 +1,58 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-1528-bengaluru-goa-vande-bharat",
+  "date": "11 Nov 2026",
+  "sources": [
+    "Metro Rail News",
+    "Daijiworld",
+    "Oneindia",
+    "Coastal Digest",
+    "Pune Pulse"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "New Bengaluru–Goa Train: About 13 Hours",
+      "photo": "_work/2026-11-11-hourly-1528/idlynews/framing/vb/cover_source.png",
+      "photo_credit": "Photo: Arhan Jain / Wikimedia Commons, CC BY 4.0",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "15 NOV",
+      "stat_label": "New Vande Bharat's Regular Runs Begin",
+      "bullets": [
+        "PM Modi flags it off in Bengaluru on 13 Nov",
+        "Six days a week: no Wednesday run from Yesvantpur",
+        "No Thursday run from Madgaon"
+      ],
+      "credit_line": "Sources: Daijiworld, Metro Rail News, Oneindia"
+    },
+    {
+      "type": "detail",
+      "stat": "7:35 AM",
+      "stat_label": "Leaves Yesvantpur, Reaches Madgaon at 8:55 PM",
+      "bullets": [
+        "Return: leaves Madgaon 8:20 AM, Yesvantpur 9:15 PM",
+        "Mangaluru Jn: 3:05 PM outbound, 1:50 PM on return",
+        "Rail users' group: Goa extension makes trip too long"
+      ],
+      "credit_line": "Sources: Metro Rail News, Oneindia, Coastal Digest, Pune Pulse"
+    },
+    {
+      "type": "detail",
+      "stat": "12",
+      "stat_label": "Stops Between Bengaluru and Goa",
+      "bullets": [
+        "Inland: Shravanabelagola, Hassan, Sakleshpur, Subrahmanya Road, Puttur",
+        "Coast: Mangaluru, Udupi, Kundapura, Byndoor, Murdeshwar, Gokarna Road, Karwar",
+        "Mangaluru–Goa riders: about an hour slower than today's train"
+      ],
+      "credit_line": "Sources: Metro Rail News, Oneindia, Coastal Digest, Pune Pulse"
+    }
+  ]
+}

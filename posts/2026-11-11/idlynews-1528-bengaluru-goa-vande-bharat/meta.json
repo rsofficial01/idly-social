@@ -1,0 +1,95 @@
+{
+ "account": "idlynews",
+ "title": "Bengaluru (Yesvantpur)–Madgaon Vande Bharat via Mangaluru (26655/26656): about 13 hours; PM flag-off 13 Nov 2026, regular runs from 15 Nov; 07:35→20:55, return 08:20→21:15; Mangaluru Jn 15:05 / 13:50; 12 stops; six days a week; replaces the Mangaluru–Madgaon Vande Bharat (about an hour longer on that stretch); Karnataka Railway Vedike says the Goa extension makes the trip too long",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Metro Rail News",
+   "date": "11 Nov 2026",
+   "url": "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/"
+  },
+  {
+   "outlet": "Daijiworld",
+   "date": "11 Nov 2026 (08:45)",
+   "url": "https://daijiworld.com/news/newsDisplay?newsID=1334945"
+  },
+  {
+   "outlet": "Oneindia",
+   "date": "2 Nov 2026",
+   "url": "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html"
+  },
+  {
+   "outlet": "Coastal Digest",
+   "date": "10 Nov 2026",
+   "url": "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey"
+  },
+  {
+   "outlet": "Pune Pulse",
+   "date": "10 Nov 2026",
+   "url": "https://mypunepulse.com/new-vande-bharat-express-bengaluru-to-goa-route-faces-criticism-over-13-hour-journey"
+  }
+ ],
+ "fact_sources": {
+  "PM Modi flags it off in Bengaluru on Fri 13 Nov (about 2 pm); symbolic flag-off at Mangaluru Jn by Railway Minister Vaishnaw": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (13 Nov, ~2 pm Bengaluru; Vaishnaw at Mangaluru Jn ~2:30 pm)",
+   "https://daijiworld.com/news/newsDisplay?newsID=1334945 (Friday 13 Nov, 2 pm, Bengaluru; Vaishnaw and MPs at Mangaluru Junction)"
+  ],
+  "Regular runs in both directions from 15 Nov": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (15 November 2026, both directions)",
+   "https://daijiworld.com/news/newsDisplay?newsID=1334945 (regular service from November 15)"
+  ],
+  "26655 leaves Yesvantpur 7:35 AM, reaches Madgaon 8:55 PM (about 13 h 20 min)": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (7:35 am / 8:55 pm, ~13 hr 20 min)",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html (7:35 am / 8:55 pm)",
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (7:35 am, Madgaon 8:55 pm)"
+  ],
+  "26656 leaves Madgaon 8:20 AM, reaches Yesvantpur 9:15 PM": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html",
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey"
+  ],
+  "Six days a week: no run from Yesvantpur on Wednesdays, none from Madgaon on Thursdays": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (no service Wednesdays from Yesvantpur, Thursdays from Madgaon)",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html (26655 not Wednesdays, 26656 not Thursdays)"
+  ],
+  "12 stops: Shravanabelagola, Hassan, Sakleshpur, Subrahmanya Road, Kabaka Puttur, Mangaluru Jn, Udupi, Kundapura, Mookambika Road Byndoor, Murdeshwar, Gokarna Road, Karwar": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (12 listed)",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html (12 intermediate stops listed)"
+  ],
+  "It extends the Mangaluru Central–Madgaon Vande Bharat (20645/20646), which stops from 15 Nov": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (extends 20645/20646; discontinued from 15 November)",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html (Railway Board approved discontinuing 20645/20646)",
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (extends 20645/20646, which will be discontinued)"
+  ],
+  "Karnataka Railway Vedike says it suits Bengaluru–Mangaluru trips but the Goa extension makes the journey too long; commuters object to it skipping Mangaluru Central": [
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (K N Krishna Prasad, Karnataka Railway Vedike: 'taking it to Goa makes the journey too long'; bypassing Mangaluru Central)",
+   "https://mypunepulse.com/new-vande-bharat-express-bengaluru-to-goa-route-faces-criticism-over-13-hour-journey (same quote; commuters object to bypassing Mangaluru Central)"
+  ],
+  "Calls at Mangaluru Jn at 3:05 PM outbound and 1:50 PM on the return": [
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (Mangaluru Junction 3:05 pm / 1:50 pm)",
+   "https://mypunepulse.com/new-vande-bharat-express-bengaluru-to-goa-route-faces-criticism-over-13-hour-journey (Mangaluru Junction 3:05 pm / 1:50 pm)"
+  ],
+  "On the Mangaluru–Madgaon stretch it takes about an hour longer than the existing Vande Bharat": [
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (Mangaluru–Madgaon stretch an hour longer than the existing Vande Bharat)",
+   "https://mypunepulse.com/new-vande-bharat-express-bengaluru-to-goa-route-faces-criticism-over-13-hour-journey (Mangaluru–Madgaon takes an hour longer than the existing Vande Bharat)"
+  ],
+  "Journey takes about 13 hours (13 h 20 min outbound, 12 h 55 min return)": [
+   "https://metrorailnews.in/yesvantpur-mangaluru-madgaon-vande-bharat-flag-off-timings-stops/ (about 13 hr 20 min / 12 hr 55 min)",
+   "https://www.oneindia.com/bengaluru/bengaluru-madgaon-vande-bharat-express-full-timetable-12-stoppages-travel-time-and-weekly-schedul-8248579.html (about 13 hours)",
+   "https://coastaldigest.com/mangaluru-vande-bharat-route-faces-heat-over-13-hour-bengaluru-goa-journey (about 13 hours)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Mangaluru_Central_-_Madgaon_Vande_Bharat_Express.jpg",
+  "file": "Commons API thumb https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mangaluru_Central_-_Madgaon_Vande_Bharat_Express.jpg/1920px-Mangaluru_Central_-_Madgaon_Vande_Bharat_Express.jpg (1920x1079 of a 2074x1166 original; sha256 727efb7a2fe6d8b9809b6f8c1a945f046309a5c60a92ea107602ffccf1a86b8f; saved unaltered as _work/2026-11-11-hourly-1528/idlynews/dl/vb/thumb.jpg)",
+  "licence": "CC BY 4.0 (own work)",
+  "author": "Arhan Jain",
+  "description": "Vande Bharat (Mangaluru Central–Madgaon service, 20645/20646, the train being extended to Bengaluru) at Madgaon station, taken 28 Jun 2025",
+  "crop": "pipeline.framing: full-bleed 4:5 from the 1920x1079 thumb, focal [0.5,0.5], zoom 1.0, upscale 1.25x with sharpening, faces 0 -> _work/2026-11-11-hourly-1528/idlynews/framing/vb/cover_source.png. Two-line cover headline ('New Bengaluru–Goa Train: About 13 Hours', 100 px x 2) so the train's cab and nose sit above the text (headline top about y 1060; nose y about 760-1110). Commons has no other photo of this service (MediaSearch and Special:Search checked 11 Nov).",
+  "viewed": true
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is a Commons photo by an individual, not a brand/maker account."
+}
