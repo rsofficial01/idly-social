@@ -111,6 +111,6 @@
  "gates": {
   "gate1": "_work/2026-11-12-hourly-0029/reviews/news-gate1.md (C reserve) and reviews/news-gate1b.md (BUILD)",
   "gate23": "_work/2026-11-12-hourly-0029/reviews/news-gate1b.md (picture PASS; FIX 3 exact edits, applied verbatim)",
-  "gate4": "Gate 4 (visa cover) HOLD -> visa dropped; reserve C built. Gate 4b PASS reviewer 12/14 (read 1: '2 IDs' filler stat; keep 1) -> per-check min 11, so slide 2 stat changed to '5 NOV' (gate4c): reviewer re-scored 13/14 (keep 1) but HOLD: italic V clipped at x=1008. Main re-rendered slide 2 with a trailing no-break space so the stat fits at 280 px (ink ends x=965, tapered); gate4d. Gate 4d PASS (blind reviewer 13/14, keep 1); self 12 (keep 1, original 1); post 12/14 (per-check minimum)."
+  "gate4": "Gate 4 (visa cover) HOLD -> visa dropped; reserve C built. Gate 4b PASS reviewer 12/14 (read 1: '2 IDs' filler stat; keep 1) -> per-check min 11, so slide 2 stat changed to '5 NOV' (gate4c): reviewer re-scored 13/14 (keep 1) but HOLD: italic V clipped at x=1008. Main re-rendered slide 2 with a trailing no-break space so the stat fits at 280 px (ink ends x=965, tapered); gate4d. Gate 4d PASS (blind reviewer 13/14, keep 1); self 12 (keep 1, original 1); post 12/14 (per-check minimum). Published 01:27 IST 12 Nov, https://www.instagram.com/p/DfnSPRMj2DX/."
  }
 }
