@@ -1,0 +1,45 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-2327-fertiliser-subsidy",
+  "date": "12 Nov 2026",
+  "sources": [
+    "PTI",
+    "IANS",
+    "ANI",
+    "Deccan Chronicle",
+    "Pragativadi"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Centre Raises Rabi Fertiliser Subsidy 64% to ₹62,370 Crore",
+      "photo": "_work/2026-11-11-hourly-2327/news/framing/cover_source.png",
+      "photo_credit": "Photo: Suyash Dwivedi / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "focal": [
+        0.565,
+        0.51
+      ],
+      "zoom": 2.2
+    },
+    {
+      "type": "detail",
+      "stat": "₹1,350",
+      "stat_label": "DAP Price per 50 kg Bag, Unchanged",
+      "bullets": [
+        "Rates apply 1 Oct 2026 to 31 Mar 2027",
+        "Covers P&K fertilisers such as DAP and NPKS grades"
+      ],
+      "credit_line": "Sources: PTI, Pragativadi, IANS"
+    },
+    {
+      "type": "detail",
+      "stat": "₹37,952 CR",
+      "stat_label": "P&K Subsidy Approved for Rabi 2025-26",
+      "bullets": [
+        "Vaishnaw: West Asia crisis, Russia-Ukraine war pushed prices up",
+        "Centre pays it to makers and importers, not farmers"
+      ],
+      "credit_line": "Sources: IANS, ANI, PTI, Pragativadi"
+    }
+  ]
+}

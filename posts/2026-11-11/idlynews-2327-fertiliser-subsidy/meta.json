@@ -1,0 +1,130 @@
+{
+ "account": "idlynews",
+ "title": "Union Cabinet (chaired by PM Narendra Modi, Wed 11 Nov 2026) approves about ₹62,370 crore (₹62,370.02 crore, IANS) of nutrient-based subsidy on phosphatic and potassic (P&K) fertilisers, including DAP and NPKS grades, for Rabi 2026-27 (1 Oct 2026 to 31 Mar 2027) (PTI, IANS, Deccan Chronicle, Pragativadi); about 64% (₹24,417.73 crore) more than the ₹37,952.29 crore approved for Rabi 2025-26 on 28 Oct 2025 (IANS, ANI; 64.3% is idly's arithmetic). I&B Minister Ashwini Vaishnaw says fertiliser prices 'shot up immensely' because of the West Asia crisis and the Russia-Ukraine war, DAP stays at ₹1,350 per 50 kg bag, and calls the subsidy a 'shield to farmers from geopolitical turmoil' (PTI; Pragativadi). The subsidy is paid to fertiliser makers and importers at notified rates (IANS, Pragativadi).",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Greater Kashmir (PTI)",
+   "date": "11 Nov 2026 (17:10 IST)",
+   "url": "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225"
+  },
+  {
+   "outlet": "Morung Express (IANS)",
+   "date": "11 Nov 2026",
+   "url": "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "11 Nov 2026",
+   "url": "https://www.deccanchronicle.com/nation/centre-unveils-62370-cr-fertiliser-subsidy-2003592"
+  },
+  {
+   "outlet": "Outlook Business (PTI)",
+   "date": "11 Nov 2026",
+   "url": "https://www.outlookbusiness.com/news/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season"
+  },
+  {
+   "outlet": "OrissaPOST (PTI)",
+   "date": "11 Nov 2026 (updated 20:10 IST)",
+   "url": "https://www.orissapost.com/centre-approves-rs-62370-crore-fertiliser-subsidy-for-rabi-2026-27/"
+  },
+  {
+   "outlet": "Pragativadi",
+   "date": "11 Nov 2026",
+   "url": "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  },
+  {
+   "outlet": "The Tribune (ANI)",
+   "date": "28 Oct 2025 (16:15 IST)",
+   "url": "https://www.tribuneindia.com/news/business/cabinet-approves-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-and-potassic-fertilizers"
+  },
+  {
+   "outlet": "Morung Express (IANS)",
+   "date": "28 Oct 2025",
+   "url": "https://morungexpress.com/cabinet-nod-to-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-potassic-fertilisers"
+  }
+ ],
+ "fact_sources": {
+  "Cabinet approved about ₹62,370 crore of P&K subsidy for Rabi 2026-27 on Wed 11 Nov 2026": [
+   "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225",
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1",
+   "https://www.deccanchronicle.com/nation/centre-unveils-62370-cr-fertiliser-subsidy-2003592",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/",
+   "https://www.outlookbusiness.com/news/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season"
+  ],
+  "Covers P&K fertilisers including DAP and NPKS grades": [
+   "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225",
+   "https://www.outlookbusiness.com/news/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season",
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  ],
+  "Rates apply 1 Oct 2026 to 31 Mar 2027": [
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1",
+   "https://www.deccanchronicle.com/nation/centre-unveils-62370-cr-fertiliser-subsidy-2003592",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/",
+   "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225"
+  ],
+  "Rabi 2025-26 P&K subsidy ₹37,952.29 crore, approved 28 Oct 2025": [
+   "https://www.tribuneindia.com/news/business/cabinet-approves-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-and-potassic-fertilizers",
+   "https://morungexpress.com/cabinet-nod-to-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-potassic-fertilisers",
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1"
+  ],
+  "About 64% more (₹24,417.73 crore; 64.3% idly's arithmetic)": [
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1",
+   "https://www.tribuneindia.com/news/business/cabinet-approves-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-and-potassic-fertilizers",
+   "https://morungexpress.com/cabinet-nod-to-nutrient-based-subsidy-rates-for-rabi-2025-26-on-phosphatic-potassic-fertilisers"
+  ],
+  "Subsidy paid to fertiliser makers and importers at notified rates": [
+   "https://www.morungexpress.com/cabinet-hikes-fertiliser-subsidy-for-farmers-to-rs-62370-crore-as-global-prices-rise-1",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  ],
+  "Vaishnaw: prices 'shot up immensely' due to West Asia crisis and Russia-Ukraine war": [
+   "https://www.orissapost.com/centre-approves-rs-62370-crore-fertiliser-subsidy-for-rabi-2026-27/",
+   "https://www.outlookbusiness.com/news/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season",
+   "https://www.deccanchronicle.com/nation/centre-unveils-62370-cr-fertiliser-subsidy-2003592",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  ],
+  "DAP stays at ₹1,350 per 50 kg bag (Vaishnaw)": [
+   "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225",
+   "https://www.outlookbusiness.com/news/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season",
+   "https://www.orissapost.com/centre-approves-rs-62370-crore-fertiliser-subsidy-for-rabi-2026-27/",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  ],
+  "Vaishnaw: 'shield to farmers from geopolitical turmoil' (caption only)": [
+   "https://www.greaterkashmir.com/national/cabinet-approves-rs-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season-12801225",
+   "https://www.orissapost.com/centre-approves-rs-62370-crore-fertiliser-subsidy-for-rabi-2026-27/",
+   "https://pragativadi.com/cabinet-approves-rs-62370-cr-pk-fertiliser-subsidy-for-rabi-2026-27/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:DAP_(Diammonium_Phosphate)_Granules_(1).jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/DAP_%28Diammonium_Phosphate%29_Granules_%281%29.jpg/3840px-DAP_%28Diammonium_Phosphate%29_Granules_%281%29.jpg (3840x3072 rendition of the 5000x4000 original https://upload.wikimedia.org/wikipedia/commons/1/1b/DAP_%28Diammonium_Phosphate%29_Granules_%281%29.jpg)",
+  "licence": "CC BY-SA 4.0",
+  "author": "Suyash Dwivedi (Commons user Suyash.dwivedi; own work, Wiki Science Competition 2025 India; taken 3 Dec 2025)",
+  "width": 3840,
+  "height": 3072,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Suyash Dwivedi / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "subject": "DAP (di-ammonium phosphate) fertiliser granules in a black dish on a white table; the product whose ₹1,350 bag price the decision holds; no people, no watermark, no text; not another outlet's photo",
+  "local": "_work/2026-11-11-hourly-2327/news/photos/dap1-3840.jpg",
+  "sha256": "8467561bac3fec124e0cb9fe2b21d61087050d5c673d49cb6ed328dc4805ff41",
+  "processing": "facecheck --delete before viewing: 3840x3072 faces=0. pipeline.framing: ok, 0 faces, focal 0.5/0.5, zoom 1.0 (white table under the logo; rejected at Gate 1). Gate 1 fix: zoom 2.2 centred on the pile (focal [0.505,0.46]), passed at Gate 2+3. For Gate 4, on Main's request to improve the vertical credit's contrast, focal moved to [0.565,0.51] (same zoom 2.2; crop 1611,869 1117x1396 source px; render scale 0.967, a downscale) so the credit sits on the dark dish; no white table in any corner (0 px above 225 brightness in the corner boxes). Download: upload.wikimedia.org answered 429 to every original-size request for about 15 min with the repo UA 'idly-social/1.0 (+https://idly.news)'; thumb.wikimedia.org served the 3840 px rendition with the same UA (200). Rendered 01-03.jpg facecheck: faces=0."
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: a Commons photographer, not a brand; never tag people.",
+ "cover": {
+  "focal": [
+   0.565,
+   0.51
+  ],
+  "zoom": 2.2
+ },
+ "gates": {
+  "gate1": "PASS for B (Rabi fertiliser subsidy); A (visa overhaul: no image of the subject) and C (SAFF: sports has no account) dropped. Binding fixes applied: ₹37,952.29 crore two-sourced (ANI/Tribune and IANS/Morung Express, 28 Oct 2025) so 64% kept; DAP ₹1,350 two outlets (PTI and Pragativadi); single-source lines (per-kg rates, 28 grades, sowing under way, NBS since 2010) left out; reason attributed to Vaishnaw; P&K wording, no urea; no idly.news line, Sources line, one reader-life question; tight DAP framing, credit as given, no tag.",
+  "gate23": "FIX applied: slide 2 'shield' quote bullet deleted (kept in the caption); slide 3 two Vaishnaw bullets merged into 'Vaishnaw: West Asia crisis, Russia-Ukraine war pushed prices up'; alt text updated. Cover, caption and picture passed.",
+  "gate4": "pending"
+ }
+}
