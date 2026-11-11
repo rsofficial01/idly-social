@@ -1,0 +1,35 @@
+{
+ "account": "idlynerd",
+ "title": "PlayStation 5 passes 100 million consoles shipped (sell-in) worldwide as of 10 Nov 2026, per Sony Interactive Entertainment's Business Data & Sales page (Gematsu, 11 Nov); 97.9 million at 30 Sep 2026; PS4 reached 100 million by 30 Jun 2019 (about 5 yrs 7 mo after its 15 Nov 2013 launch), PS5 launched 12 Nov 2020 (India 2 Feb 2021) and was still short at 30 Sep 2026; PS5 now 4th on Sony's all-time PlayStation hardware list",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://sonyinteractive.com/en/our-company/business-data-sales/ (fetched 11 Nov 2026 ~09:30 IST: PS5 'More than 100 million (As of November 10, 2026)'; PS5 and PS4 quarterly sell-in tables; all-time hardware list)",
+  "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million",
+  "https://www.pushsquare.com/news/2019/07/ps4_has_officially_sold_100_million_units_and_its_done_so_faster_than_any_other_console",
+  "https://sonyinteractive.com/en/press-releases/2020/playstation-5-launches-this-november-at-399-for-ps5-digital-edition-and-499-for-ps5-with-ultra-hd-blu-ray-disc-drive/ (PS5 launch 12 Nov 2020)",
+  "https://www.androidcentral.com/its-2021-and-ps5-finally-has-launch-date-india (PS5 India 2 Feb 2021; global launch 12 Nov)",
+  "https://www.gsmarena.com/sony_playstation_5_launch_date-news-46984.php (PS5 India 2 Feb 2021)",
+  "https://sonyinteractive.com/en/?p=3005743 and https://www.engadget.com/2013/08/20/ps4-launch-date-november-15/ (PS4 launch 15 Nov 2013)"
+ ],
+ "photo_source": {
+  "page": "https://www.playstation.com/en-in/ps5/",
+  "file": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$native$ (the page's og:image; WEBP 1920x1080; saved unaltered as _work/2026-11-11-hourly-0927/idlynerd/photos/ps5-product-thumbnail-01-en-14sep21.img, sha1 7ab0cf17f1b13e4d5980c2a43132875798f8aa68; converted losslessly to .png)",
+  "licence": "Official Sony Interactive Entertainment product image from its own PS5 India page (playstation.com, on the lane allowlist), used credited for editorial news",
+  "author": "Sony Interactive Entertainment",
+  "credit": "Image: Sony Interactive Entertainment",
+  "subject": "The launch PS5 Digital Edition console standing upright with a DualSense controller, studio shot on a plain white/grey background; no people, no watermark, no lettering except the moulded 'SONY' on the side panel",
+  "viewed": true,
+  "processing": "YuNet 0 faces before viewing. pipeline.framing: ok, 0 faces, focal (0.5, 0.5), zoom 1.0, upscale 1.25 (enlarged and sharpened) -> _work/2026-11-11-hourly-0927/idlynerd/framing/ps5-product-thumbnail-01-en-14sep21/cover_source.png (1080x1350, sha1 d8523a075d54aea6c8a04d34e7492cfe393e09e0); cardkit hype cover at scale 1.00; no fill, blur, letterbox or recolour. Console whole from about y 65 to y 1200; headline box top y 950 (3 lines, 100px), over the console's plain lower panel and the controller, which is cut at the left edge; idly logo on plain background."
+ },
+ "tags": [
+  "playstationin"
+ ],
+ "tag_evidence": "Sony's own PS5 India page https://www.playstation.com/en-in/ps5/ (the cover image's source page) links to https://www.instagram.com/playstationin (checked 11 Nov 2026 by the desk and the Gate 1 reviewer); the image is Sony's.",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (blind reviewer); C2 Maatrubhumi and C3 near-misses DROP. Fixes applied: cover headline 'PS5 Hits 100 Million Shipped, Months Slower Than PS4' (fits 3 lines); slide 2 stat 4TH with the two reviewer bullets, the 'under 2.4 million short' line cut; slide 3 stat '5 YRS 7 MO' with launch dates and the shipped-not-sold caveat (two bullets trimmed to the code's 9-word limit, see g234.md); no '2.1 million in 40 days'; caption attributes the figure to Sony's business data page, says sell-in, one question, Sources line, no idly.news line, credit last; launch-PS5 image; tag playstationin.",
+  "g234": "pending"
+ }
+}
