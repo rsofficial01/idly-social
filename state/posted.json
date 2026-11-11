@@ -2039,5 +2039,20 @@
       "re_games",
       "capcomusa"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "18121433986991743",
+    "permalink": "https://www.instagram.com/p/DfnXhXPD3bX/",
+    "posted_at": "2026-11-11T20:44:04+00:00",
+    "date": "2026-11-12",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyautomotive-0127-ev-staff-cars/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyautomotive-0127-ev-staff-cars/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyautomotive-0127-ev-staff-cars/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
