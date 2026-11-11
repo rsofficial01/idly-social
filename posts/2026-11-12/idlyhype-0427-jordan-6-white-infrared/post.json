@@ -1,0 +1,46 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0427-jordan-6-white-infrared",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Nike",
+  "Superkicks",
+  "VegNonVeg",
+  "Sole Retriever",
+  "Athlon Sports"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "First Jordan 6 'White Infrared' Since 2014: ₹18,395 in India",
+   "photo": "_work/2026-11-12-hourly-0427/hype/framing_aj6-side/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "1991",
+   "stat_label": "'White Infrared' Is an Original Jordan 6 Colourway",
+   "bullets": [
+    "Nike calls it Michael Jordan's 'championship game shoe'",
+    "Nike Air heel logo back; 2010, 2014 pairs had Jumpman"
+   ],
+   "credit_line": "Sources: Nike, Sole Retriever, Athlon Sports"
+  },
+  {
+   "type": "detail",
+   "stat": "CT8529-105",
+   "stat_label": "The Style Code for the 2026 Pair",
+   "bullets": [
+    "Same MRP at Superkicks and VegNonVeg",
+    "Superkicks: UK 7–12 in stock; VegNonVeg lists UK 7–11",
+    "2014 pairs on resale carry code 384664-123"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike, Laced"
+  }
+ ]
+}
