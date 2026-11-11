@@ -1,0 +1,46 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0029-skyrim-15-steam-india",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Steam",
+  "Bethesda",
+  "IGN",
+  "GamesRadar"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Skyrim at 15: Special Edition Is ₹359 on Steam India",
+   "photo": "_work/2026-11-12-hourly-0029/nerd/framing_bleak/cover_source.png",
+   "photo_credit": "Image: Bethesda Softworks (official screenshot)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "18 NOV",
+   "stat_label": "Last Day of Steam's 80% Skyrim Discount",
+   "bullets": [
+    "Usual Steam India price for Special Edition: ₹1,799",
+    "A Steam (PC) offer; Steam gives no end time",
+    "Anniversary Upgrade, for extra content, stays at ₹899"
+   ],
+   "credit_line": "Source: Steam India store, checked 12 Nov 2026"
+  },
+  {
+   "type": "detail",
+   "stat": "2018",
+   "stat_label": "The Elder Scrolls VI Announced; Still No Date",
+   "bullets": [
+    "Its title, Sentinel, and logo came on 3 Nov",
+    "Bethesda: nothing new on Sentinel “for some time”",
+    "Skyrim, The Elder Scrolls V, launched 11 Nov 2011"
+   ],
+   "credit_line": "Sources: IGN, GamesRadar, Bethesda"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "account": "idlynerd",
+ "title": "The Elder Scrolls V: Skyrim turned 15 on Wed 11 Nov 2026 (released 11 Nov 2011; IGN, GamesRadar, Bethesda). Skyrim Special Edition (PC) is 80% off on Steam India: ₹359 instead of ₹1,799, offer ends 18 November with no time given (Steam store page and appdetails cc=in, checked 00:42 and 00:53 IST 12 Nov 2026; GamesRadar: up to 80% off across platforms); the Anniversary Upgrade is ₹899, not discounted (Steam), and adds Creation Club content (Steam, Bethesda AE FAQ). Bethesda announced The Elder Scrolls VI in 2018, revealed its title Sentinel and logo on 3 Nov 2026 (Inven Global, GamesRadar, IGN) and said before the anniversary it 'will not be sharing anything new on Sentinel for some time' (IGN, GamesRadar); no release date or platforms announced (Inven Global, IGN).",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the API feed (checked 12 Nov 2026, 00:50 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Steam (Skyrim Special Edition store page, India)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/489830/"
+  },
+  {
+   "outlet": "Steam (Skyrim Anniversary Upgrade store page, India)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://store.steampowered.com/app/1746860/"
+  },
+  {
+   "outlet": "Bethesda Softworks (Elder Scrolls news)",
+   "date": "11 Nov 2026",
+   "url": "https://elderscrolls.bethesda.net/en-US/news/skyrim-15-anniversary-creation-bundle"
+  },
+  {
+   "outlet": "Bethesda (Skyrim Anniversary Edition FAQ)",
+   "date": "2021",
+   "url": "https://elderscrolls.bethesda.net/en-US/news/skyrim-anniversary-edition-faq"
+  },
+  {
+   "outlet": "IGN",
+   "date": "11 Nov 2026",
+   "url": "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today"
+  },
+  {
+   "outlet": "GamesRadar+",
+   "date": "11 Nov 2026",
+   "url": "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-says-sorry-therell-be-no-elder-scrolls-6-sentinel-news-for-skyrims-anniversary-and-none-for-some-time-for-that-matter/"
+  },
+  {
+   "outlet": "GamesRadar+",
+   "date": "11 Nov 2026",
+   "url": "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-celebrates-skyrims-15th-anniversary-with-new-artwork-from-a-legendary-artist-and-oh-my-god-skyrim-is-15-years-old/"
+  },
+  {
+   "outlet": "GamesRadar+",
+   "date": "3 Nov 2026",
+   "url": "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-confirmed-by-bethesda-as-todd-howard-dubs-its-40th-anniversary-the-perfect-time-to-reveal-the-rpgs-title/"
+  },
+  {
+   "outlet": "Inven Global",
+   "date": "3 Nov 2026",
+   "url": "https://www.invenglobal.com/articles/28087/the-elder-scrolls-vi-subtitle-revealed-after-8-years-official-title-is-sentinel"
+  }
+ ],
+ "fact_sources": {
+  "Skyrim released 11 Nov 2011; 15th anniversary 11 Nov 2026": [
+   "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today",
+   "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-celebrates-skyrims-15th-anniversary-with-new-artwork-from-a-legendary-artist-and-oh-my-god-skyrim-is-15-years-old/",
+   "https://elderscrolls.bethesda.net/en-US/news/skyrim-15-anniversary-creation-bundle"
+  ],
+  "Skyrim Special Edition ₹359 on Steam India, 80% off ₹1,799, offer ends 18 November (no time given)": [
+   "https://store.steampowered.com/app/489830/ (SPECIAL PROMOTION! Offer ends 18 November -80% ₹ 1,799 ₹ 359)",
+   "https://store.steampowered.com/api/appdetails?appids=489830&cc=in (initial 179900, final 35900, discount_percent 80)",
+   "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-celebrates-skyrims-15th-anniversary-with-new-artwork-from-a-legendary-artist-and-oh-my-god-skyrim-is-15-years-old/ (up to 80% off across all platforms)"
+  ],
+  "Steam price is for the PC game": [
+   "https://store.steampowered.com/app/489830/ (system requirements: Windows 7/8.1/10 64-bit)"
+  ],
+  "Anniversary Upgrade ₹899 on Steam India, not discounted; adds Creation Club content": [
+   "https://store.steampowered.com/app/1746860/ (₹ 899, no discount)",
+   "https://store.steampowered.com/api/appdetails?appids=1746860&cc=in (final 89900; pre-existing and new Creation Club content like quests, dungeons, bosses, weapons, spells)",
+   "https://elderscrolls.bethesda.net/en-US/news/skyrim-anniversary-edition-faq (Anniversary Upgrade includes all the Creation Club content)"
+  ],
+  "The Elder Scrolls VI first announced in 2018": [
+   "https://www.invenglobal.com/articles/28087/the-elder-scrolls-vi-subtitle-revealed-after-8-years-official-title-is-sentinel",
+   "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today (announced eight years ago)",
+   "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-says-sorry-therell-be-no-elder-scrolls-6-sentinel-news-for-skyrims-anniversary-and-none-for-some-time-for-that-matter/ (eight years from reveal to title and logo)"
+  ],
+  "Title Sentinel and logo revealed 3 Nov 2026": [
+   "https://www.invenglobal.com/articles/28087/the-elder-scrolls-vi-subtitle-revealed-after-8-years-official-title-is-sentinel",
+   "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-confirmed-by-bethesda-as-todd-howard-dubs-its-40th-anniversary-the-perfect-time-to-reveal-the-rpgs-title/ (datePublished 2026-11-03)",
+   "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today (subtitle and logo reveal just last week)"
+  ],
+  "Bethesda (official Reddit, before the anniversary): 'we will not be sharing anything new on Sentinel for some time'": [
+   "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today",
+   "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-says-sorry-therell-be-no-elder-scrolls-6-sentinel-news-for-skyrims-anniversary-and-none-for-some-time-for-that-matter/"
+  ],
+  "No release date or platforms announced for Sentinel": [
+   "https://www.invenglobal.com/articles/28087/the-elder-scrolls-vi-subtitle-revealed-after-8-years-official-title-is-sentinel",
+   "https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today"
+  ]
+ },
+ "photo_source": {
+  "page": "https://store.steampowered.com/app/489830/",
+  "file_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg",
+  "licence": "official publisher store screenshot (Bethesda Softworks), used for news about the game, credited",
+  "author": "Bethesda Softworks",
+  "width": 1920,
+  "height": 1080,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Bethesda Softworks (official screenshot)",
+  "subject": "The Elder Scrolls V: Skyrim Special Edition: snowbound Nordic ruin (Bleak Falls Barrow exterior); no UI, logo or lettering; two tiny in-game NPC figures, no identifiable person",
+  "local": "_work/2026-11-12-hourly-0029/nerd/photos/skyrim/sky_01.jpg",
+  "processing": "pipeline.framing: 4:5 crop 864x1080 centred, enlarged 1.25x (Lanczos + light unsharp mask) to _work/2026-11-12-hourly-0029/nerd/framing_bleak/cover_source.png; cardkit focal [0.5,0.5], zoom 1.0. Larger official frames checked first (Bethesda sites max 2412x900/2362x1094; 2560 px art had a face, deleted unviewed; Microsoft Store max 1920x1080)."
+ },
+ "tags": [
+  "bethesda"
+ ],
+ "tags_confirmed": "instagram.com/bethesda linked from bethesda.net (home and /en/news) and from elderscrolls.bethesda.net (Skyrim page and the 11 Nov 2026 anniversary news post global nav), fetched 12 Nov 2026 00:4x IST; image is Bethesda's",
+ "cover": {
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0
+ },
+ "gates": {
+  "gate1": "_work/2026-11-12-hourly-0029/reviews/nerd-gate1.md (BUILD C with 6 fixes, applied)",
+  "gate23": "_work/2026-11-12-hourly-0029/reviews/nerd-gate23.md (picture PASS; caption FIX 'This week it said' -> 'Ahead of the anniversary, it said', applied)",
+  "gate4": "PASS (blind reviewer 13/14: read 1, slide 3 bullet 3 optional polish); self 13 (original 1); post 12/14 (per-check minimum). Sharpness checked at 1:1 (Laplacian ~1,486). Facecheck faces=0 on all slides. Main re-checked Steam appdetails cc=in before publishing: ₹1,799 -> ₹359 (-80%)."
+ }
+}
