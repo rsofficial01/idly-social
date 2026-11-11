@@ -1,0 +1,44 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-0927-dzire-next-seven-sedans",
+  "date": "11 Nov 2026",
+  "sources": [
+    "GaadiWaadi",
+    "Autopunditz"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "20,649 Dzires: More Than India's Next 7 Sedans Combined",
+      "photo": "_work/2026-11-11-hourly-0927/idlyautomotive/photos/dzire-Dzire_TVC_Mobile_Dummy.png",
+      "photo_credit": "Image: Maruti Suzuki",
+      "focal": [
+        0.5,
+        0.44
+      ],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "20,588",
+      "stat_label": "October's No. 2 to No. 8 Sedans, Combined",
+      "bullets": [
+        "Aura 7,349, Aeris 4,005, Amaze 3,337, Slavia 2,638",
+        "Virtus 1,888, Verna 775, City 596",
+        "Dispatches to dealers, not sales to buyers"
+      ],
+      "credit_line": "Sources: GaadiWaadi, Autopunditz"
+    },
+    {
+      "type": "detail",
+      "stat": "49.4%",
+      "stat_label": "Dzire's Share of October's Top-10 Sedans",
+      "bullets": [
+        "Top-10 sedan dispatches rose 12.3% to 41,773",
+        "Slavia up 60.1%, now ahead of sibling Virtus",
+        "Aeris, Tata's renamed Tigor facelift, launched in September"
+      ],
+      "credit_line": "Sources: GaadiWaadi, Autopunditz, Autocar India"
+    }
+  ]
+}

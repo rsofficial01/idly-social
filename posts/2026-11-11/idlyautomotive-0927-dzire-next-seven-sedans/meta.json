@@ -1,0 +1,28 @@
+{
+ "account": "idlyautomotive",
+ "title": "Maruti Suzuki Dzire: 20,649 dispatches in October 2026, more than the next seven sedans on the top-10 sedan dispatch table combined (Aura 7,349, Aeris 4,005, Amaze 3,337, Slavia 2,638, Virtus 1,888, Verna 775, City 596 = 20,588); Dzire 49.4% of the top-10 total of 41,773 (+12.3% from 37,211); Slavia +60.1%, ahead of Virtus; Aeris is Tata's renamed Tigor facelift, launched September 2026 (GaadiWaadi and Autopunditz, 10 Nov; Autocar India, 25 Sep)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  "https://gaadiwaadi.com/top-10-most-sold-sedans-oct-2026-dzire-aeris-aura-city-verna-slavia/",
+  "https://www.autopunditz.com/post/best-selling-sedans-october-2026-india",
+  "https://www.autocarindia.com/car-news/tata-aeris-launched-at-rs-529-lakh-440848"
+ ],
+ "photo_source": {
+  "page": "https://www.marutisuzuki.com/arena/dzire",
+  "file": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:6b497c87-a6ac-4d98-8e56-40ad5416aa9e/as/Dzire_TVC_Mobile_Dummy.png (1080x1920; saved unaltered as _work/2026-11-11-hourly-0927/idlyautomotive/photos/dzire-Dzire_TVC_Mobile_Dummy.png, sha1 3d9080f3aef25265b97cbd63ae9b813cec5836af)",
+  "licence": "Official Maruti Suzuki product image from its own India Dzire model page (manufacturer media; marutisuzuki.com is on config/official_sources.json), used credited for editorial news",
+  "author": "Maruti Suzuki",
+  "credit": "Image: Maruti Suzuki",
+  "subject": "Maruti Suzuki Dzire (current generation, red), whole, seen from above at a front three-quarter angle, driving on an empty road with grass verges; no people (windscreen shows only tree reflections), no watermark; trade plate; a small disclaimer line at the bottom of the source is outside the crop",
+  "viewed": true,
+  "processing": "YuNet 0 faces. pipeline.framing: ok, 0 faces, upscale 1.0 (no enlargement), focal (0.5, 0.5), zoom 1.0. Used focal (0.5, 0.44), zoom 1.0 (reviewer-approved at Gate 1) so the crop (source rows ~169-1519) drops the disclaimer line and keeps the roof below the logo. cardkit hype cover: photo scale 1.00, no upscale, fill, blur, letterbox or recolour; car whole at about y 170-845, x 125-940; 3-line headline from y 950; scrim 0.64."
+ },
+ "tags": [],
+ "tag_evidence": "None: Maruti Suzuki's site HTML carries no Instagram link (JS-rendered footer), so the handle could not be confirmed on its own site.",
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD A (blind reviewer); B Vida NEX 3 patent and C Ntorq 150 colour DROP. Fixes applied: cover headline kept; slide 2 is the proof (20,588; all seven models with numbers; dispatches not sales); slide 3 49.4% with +12.3% total, Slavia ahead of Virtus, Aeris = Tata's renamed Tigor facelift launched in September (Autocar India 25 Sep + GaadiWaadi 10 Nov); cut Tigor -72.1%, 'City managed 596', 'Tata's new Aeris third' and repeated Slavia/Virtus units; caption attributes the ranking to the GaadiWaadi and Autopunditz tables, says dispatches to dealers (wholesale), one question, Sources line with Autocar India for the Aeris line, no idly.news line, last line 'Image: Maruti Suzuki'. Slide 2 label uses non-breaking spaces in 'No. 2' and 'No. 8' so the number never wraps away from 'No.'. Reviewer note: last October-table post on this page until the 2W model tables are out."
+ }
+}
