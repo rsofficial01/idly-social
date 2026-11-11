@@ -1,0 +1,18 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-11/idlytech-1727-pixel-tag-india/01.jpg",
+  "posts/2026-11-11/idlytech-1727-pixel-tag-india/02.jpg",
+  "posts/2026-11-11/idlytech-1727-pixel-tag-india/03.jpg",
+  "posts/2026-11-11/idlytech-1727-pixel-tag-india/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-11/idlytech-1727-pixel-tag-india/caption.txt",
+ "alt_text_file": "posts/2026-11-11/idlytech-1727-pixel-tag-india/alt.txt",
+ "score_file": "posts/2026-11-11/idlytech-1727-pixel-tag-india/score.json",
+ "title": "Google Pixel Tag is on sale in the US (The Verge, TechCrunch, 10 Nov 2026), while Google Store India still lists it as 'Coming November 2026' (checked 11 Nov, 'Not available - get notified', no exact date) at ₹3,799 for one and ₹12,900 for a four-pack; Apple India store: AirTag (2nd gen) ₹3,790, four-pack ₹12,900, so Pixel Tag is ₹9 more for one and the same for four (₹3,225 a tag in the four-pack); Android 9 or later, user-replaceable CR2032 lasting about a year, IP67, Find Hub network of 1 billion+ Android devices, one colour (Fog)",
+ "tags": [
+  "madebygoogle"
+ ]
+}

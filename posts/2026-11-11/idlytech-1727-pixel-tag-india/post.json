@@ -1,0 +1,58 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-1727-pixel-tag-india",
+  "date": "11 Nov 2026",
+  "sources": [
+    "The Verge",
+    "TechCrunch",
+    "Google Store India",
+    "Apple India",
+    "FoneArena"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Pixel Tag Coming to India at ₹3,799, ₹9 Over AirTag",
+      "photo": "_work/2026-11-11-hourly-1727/tech/photos/pixel-tag-hero.jpg",
+      "photo_credit": "Image: Google",
+      "focal": [
+        0.488,
+        0.75
+      ],
+      "zoom": 1.75
+    },
+    {
+      "type": "detail",
+      "stat": "Nov 2026",
+      "stat_label": "When Google Store India Says Pixel Tag Arrives",
+      "bullets": [
+        "Pixel Tag is already on sale in the US",
+        "Indian buyers can only sign up for alerts",
+        "Google's India store gives no exact sale date"
+      ],
+      "credit_line": "Sources: Google Store India (checked 11 Nov), The Verge, TechCrunch"
+    },
+    {
+      "type": "detail",
+      "stat": "₹12,900",
+      "stat_label": "Pixel Tag Four-Pack, Same Price as AirTag's",
+      "bullets": [
+        "That's ₹3,225 a tag, ₹574 less than buying one",
+        "AirTag (2nd gen): ₹3,790 for one, Apple India store",
+        "Located through Find Hub's 1 billion+ Android devices"
+      ],
+      "credit_line": "Sources: Google Store India, Apple India store (11 Nov), FoneArena"
+    },
+    {
+      "type": "detail",
+      "stat": "1 Year",
+      "stat_label": "Pixel Tag Battery Life on One CR2032 Cell",
+      "bullets": [
+        "No charging: you swap the coin cell yourself",
+        "Needs an Android phone on Android 9 or later",
+        "IP67: up to 1 metre underwater for 30 minutes"
+      ],
+      "credit_line": "Sources: Google Store India, Google Keyword blog, FoneArena"
+    }
+  ]
+}

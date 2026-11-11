@@ -1,0 +1,116 @@
+{
+ "account": "idlytech",
+ "title": "Google Pixel Tag is on sale in the US (The Verge, TechCrunch, 10 Nov 2026), while Google Store India still lists it as 'Coming November 2026' (checked 11 Nov, 'Not available - get notified', no exact date) at ₹3,799 for one and ₹12,900 for a four-pack; Apple India store: AirTag (2nd gen) ₹3,790, four-pack ₹12,900, so Pixel Tag is ₹9 more for one and the same for four (₹3,225 a tag in the four-pack); Android 9 or later, user-replaceable CR2032 lasting about a year, IP67, Find Hub network of 1 billion+ Android devices, one colour (Fog)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Google Store India (Pixel Tag page)",
+   "date": "checked 11 Nov 2026, 17:42-17:45 IST",
+   "url": "https://store.google.com/in/product/pixel_tag"
+  },
+  {
+   "outlet": "Apple India store (AirTag)",
+   "date": "checked 11 Nov 2026",
+   "url": "https://www.apple.com/in/shop/buy-airtag/airtag"
+  },
+  {
+   "outlet": "TechCrunch",
+   "date": "10 Nov 2026",
+   "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+  },
+  {
+   "outlet": "The Verge (headline via RSS; page blocked to fetch tool)",
+   "date": "10 Nov 2026",
+   "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"
+  },
+  {
+   "outlet": "FoneArena",
+   "date": "12 Aug 2026",
+   "url": "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html"
+  },
+  {
+   "outlet": "T2 Online",
+   "date": "12 Aug 2026",
+   "url": "https://t2online.in/tech/tech-news/google-pixel-tag-launched-in-india-at--3-799--features-and-availability/2007208"
+  },
+  {
+   "outlet": "Google, The Keyword blog",
+   "date": "12 Aug 2026",
+   "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/"
+  },
+  {
+   "outlet": "Smartprix",
+   "date": "2026",
+   "url": "https://www.smartprix.com/bytes/googles-pixel-tag-offers-smart-tracking-deep-find-hub-integration-but-arrives-november-2026/"
+  }
+ ],
+ "fact_sources": {
+  "Pixel Tag is now on sale in the US": [
+   "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/ ('now available', 'goes on sale starting Tuesday', $29.99)",
+   "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding (headline 'Google's Pixel Tag tracker is now available', 10 Nov)"
+  ],
+  "Google Store India lists it as 'Coming November 2026', with only a 'get notified' option and no exact date": [
+   "https://store.google.com/in/product/pixel_tag ('Coming November 2026.'; 'Not available—get notified')",
+   "https://www.smartprix.com/bytes/googles-pixel-tag-offers-smart-tracking-deep-find-hub-integration-but-arrives-november-2026/ (arrives November 2026; Google Store India listing reads November 2026)"
+  ],
+  "India price ₹3,799 for one, ₹12,900 for a four-pack": [
+   "https://store.google.com/in/product/pixel_tag (price data INR 3799, 'From ₹3,799'; 1-Pack/4-Pack)",
+   "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html ('Rs. 3,799 in India, while the four-pack costs Rs. 12,900')",
+   "https://t2online.in/tech/tech-news/google-pixel-tag-launched-in-india-at--3-799--features-and-availability/2007208 (₹3,799; four-pack ₹12,900)"
+  ],
+  "AirTag (2nd generation) costs ₹3,790 for one and ₹12,900 for a four-pack on Apple's India store": [
+   "https://www.apple.com/in/shop/buy-airtag/airtag (₹3790.00 1 pack; ₹12900.00 AirTag 4 pack; page refers to AirTag (2nd generation))",
+   "Reviewer verified Apple India independently at Gate 1 (reviews/idlytech-g1-v1.md)"
+  ],
+  "Pixel Tag is ₹9 more than AirTag for one; four-packs cost the same; ₹3,225 a tag in the four-pack (₹574 less than a single)": [
+   "Arithmetic on the two store prices above: 3,799-3,790=9; 12,900/4=3,225; 3,799-3,225=574"
+  ],
+  "Needs an Android phone on Android 9 or later": [
+   "https://store.google.com/in/product/pixel_tag ('Android phones running on Android 9 and later')",
+   "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html ('Setup requires an Android phone running Android 9 or later')",
+   "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/ ('Android 9.0+')"
+  ],
+  "User-replaceable CR2032 coin cell, battery lasts about a year": [
+   "https://store.google.com/in/product/pixel_tag ('User-replaceable CR2032 coin cell battery', 'Lasts for over one year')",
+   "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html (CR2032, 'lasts for over a year')",
+   "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/ ('up to one year', 'replace the battery yourself')"
+  ],
+  "Rated IP67 (up to 1 metre of water for 30 minutes)": [
+   "https://store.google.com/in/product/pixel_tag ('Rated IP67 (maximum depth of 1 metre up to 30 minutes)')",
+   "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html (IP67, 1 metre for 30 minutes)",
+   "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/ (IP67)"
+  ],
+  "Find Hub network of more than a billion Android devices": [
+   "https://store.google.com/in/product/pixel_tag ('global network of over 1 billion Android devices') (also on card slide 3)",
+   "https://t2online.in/tech/tech-news/google-pixel-tag-launched-in-india-at--3-799--features-and-availability/2007208 (more than one billion Android devices)"
+  ],
+  "One colour, Fog": [
+   "https://store.google.com/in/product/pixel_tag ('Colours Fog')",
+   "https://www.fonearena.com/blog/489475/google-pixel-tag-price-india-features.html (colour Fog)"
+  ]
+ },
+ "image": {
+  "page": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+  "file_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/MBG2026_PixelTagHero.png",
+  "also_on": "https://store.google.com/in/product/pixel_tag",
+  "owner": "Google",
+  "licence": "Official newsroom/press image (Google, The Keyword)",
+  "author": "Google",
+  "credit": "Image: Google",
+  "size": "2784x1566",
+  "focal": [
+   0.488,
+   0.75
+  ],
+  "zoom": 1.75,
+  "upscale": 1.51,
+  "faces": 0,
+  "viewed": true
+ },
+ "tags": [
+  "madebygoogle"
+ ],
+ "tags_confirmed": "store.google.com/in/product/pixel_tag structured data sameAs lists https://www.instagram.com/madebygoogle/ (Google's own site); blog.google footer links https://www.instagram.com/google/"
+}
