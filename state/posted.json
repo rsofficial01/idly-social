@@ -1565,5 +1565,20 @@
     "tagged": [
       "metanewsroom"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18505232944096274",
+    "permalink": "https://www.instagram.com/p/DfmQHs9F-_0/",
+    "posted_at": "2026-11-11T10:20:03+00:00",
+    "date": "2026-11-11",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-1528-qualcomm-india-layoffs/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-1528-qualcomm-india-layoffs/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-11/idlytech-1528-qualcomm-india-layoffs/03.jpg"
+    ],
+    "score_total": 13
   }
 ]
