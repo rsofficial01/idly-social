@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-11-idlynerd-o-saathi-re",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "O Saathi Re: Imtiaz Ali's Netflix series (Aditi Rao Hydari, Avinash Tiwary, Arjun Rampal) premieres 4 Dec 2026; revealed undated 27 Feb 2025",
+  "headline": "Imtiaz Ali's O Saathi Re Hits Netflix on 4 December",
+  "caption": "Imtiaz Ali's new series O Saathi Re premieres on Netflix on Friday, 4 December. Netflix announced the date on 10 November; it first revealed the show, without a date, in February 2025.\n\nImtiaz Ali created the show, co-wrote it and is its showrunner. Arif Ali, who directed the Netflix series She, directs it. Aditi Rao Hydari, Avinash Tiwary and Arjun Rampal star.\n\nNetflix describes it as the story of a separating couple working through love, identity, power and letting go. Imtiaz Ali calls it \"a modern romantic show with a vintage heart\".\n\nWhich Imtiaz Ali film do you go back to most?\n\nSources: Netflix, Variety India, The Telegraph (t2), The Tribune\n\n#OSaathiRe #ImtiazAli #NetflixIndia #WebSeries #idlynerd",
+  "alt_text": "Netflix's official key art for the series O Saathi Re, under the headline \"Imtiaz Ali's O Saathi Re Hits Netflix on 4 December\". Slide 2: 21 months from Netflix's undated reveal in February 2025 to the premiere; it names the three leads and Netflix's premise of a separating couple.",
+  "sources": [
+    "Netflix",
+    "Variety India",
+    "The Telegraph (t2)",
+    "The Tribune"
+  ],
+  "detail_slides": [
+    {
+      "stat": "21 MONTHS",
+      "stat_label": "O Saathi Re's Wait From Reveal to Premiere",
+      "bullets": [
+        "Netflix revealed the series, undated, in February 2025",
+        "Aditi Rao Hydari, Avinash Tiwary and Arjun Rampal star",
+        "Netflix's premise: a separating couple learning to let go"
+      ]
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://about.netflix.com/en/news/imtiaz-alis-o-saathi-re-starring-aditi-rao-hydari-avinash-tiwary-and-arjun-rampal-premieres-december-4-on-netflix"
+  },
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: a premiere date three weeks out with no trailer; Imtiaz Ali's name carries it but it's not a surprising number. send 2: Imtiaz Ali film fans forward a new romance series from him with its date. keep 2: date, platform, cast, creator, director. reply 2: personal-habit question about his films. original 2: own synthesis, official Netflix key art via the lane, credited. alone 2: cover names series, maker, platform and date; slide 2 names the series."
+    }
+  },
+  "notes": "format: news. Gates 1-2 PASS (reviewer, run 1727). No fallback image by reviewer condition; no tag (handle not confirmable on Netflix's own site).",
+  "created_at": "2026-11-11T17:48:47+05:30"
+}
