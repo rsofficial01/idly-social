@@ -1,0 +1,38 @@
+{
+  "acct": "idlytech",
+  "slug": "idlytech-1528-qualcomm-india-layoffs",
+  "date": "11 Nov 2026",
+  "sources": ["Business Today", "Digit", "Jagran English", "Reuters"],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Qualcomm Starts India Layoffs, About 1,000 Jobs at Risk: Reports",
+      "photo": "_work/2026-11-11-hourly-1528/idlytech/framing/qualcomm-hyd/cover_source.png",
+      "photo_credit": "Photo: iMahesh / Wikimedia Commons, CC BY-SA 4.0",
+      "focal": [0.62, 0.4],
+      "zoom": 1.0
+    },
+    {
+      "type": "detail",
+      "stat": "3 Months+",
+      "stat_label": "Qualcomm's Reported Severance, Plus Tenure Pay",
+      "bullets": [
+        "Extra month's pay for signing within 3 days",
+        "That 3-day window cuts time to negotiate",
+        "Qualcomm hasn't confirmed numbers or terms"
+      ],
+      "credit_line": "Sources: Business Today, Digit, Jagran English (Moneycontrol report)"
+    },
+    {
+      "type": "detail",
+      "stat": "20,000",
+      "stat_label": "Qualcomm's Estimated Staff in India",
+      "bullets": [
+        "Exits began 9 Nov in Bengaluru, reports say",
+        "Hyderabad, Chennai, Delhi-NCR expected next",
+        "Reports name Wi-Fi, Bluetooth, RF and GNSS teams"
+      ],
+      "credit_line": "Sources: Business Today, Digit, Jagran English"
+    }
+  ]
+}

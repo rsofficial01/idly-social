@@ -1,0 +1,97 @@
+{
+ "account": "idlytech",
+ "title": "Qualcomm starts India layoffs (Moneycontrol's sources via Business Today, Digit, Jagran English, 11 Nov 2026): about 1,000 of an estimated 20,000 India staff at risk, other reports lower; first exits 9 Nov in Bengaluru; Hyderabad, Chennai, Delhi-NCR expected next; reported severance at least 3 months' salary plus tenure pay, one more month for signing within 3 days; Qualcomm hasn't confirmed numbers or terms",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Business Today (citing Moneycontrol)",
+   "date": "11 Nov 2026 (12:02 IST, updated 12:21 IST)",
+   "url": "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11"
+  },
+  {
+   "outlet": "Digit (citing Moneycontrol)",
+   "date": "11 Nov 2026",
+   "url": "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html"
+  },
+  {
+   "outlet": "Jagran English (The Daily Jagran)",
+   "date": "11 Nov 2026 (12:17 IST, updated 15:40 IST)",
+   "url": "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891"
+  },
+  {
+   "outlet": "Gadgets 360 (headline seen in its RSS feed; page 403 to this session)",
+   "date": "11 Nov 2026 (13:30 IST)",
+   "url": "https://www.gadgets360.com/internet/news/qualcomm-layoffs-in-india-affected-employees-severance-package-benefits-explained-12311707"
+  },
+  {
+   "outlet": "Reuters (via The Star): Qualcomm memo on performance-focused global cuts",
+   "date": "20 Oct 2026",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows"
+  },
+  {
+   "outlet": "Business Today: Qualcomm to cut jobs globally from November",
+   "date": "20 Oct 2026",
+   "url": "https://businesstoday.in/technology/story/qualcomm-to-cut-jobs-globally-from-november-performance-focused-reduction-562649-2026-10-20"
+  }
+ ],
+ "fact_sources": {
+  "Qualcomm has started layoffs in India; first exits began 9 Nov in Bengaluru (reported)": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 ('first reported exits began on November 9 at the Bengaluru facility')",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html (began on November 9 in Bengaluru and Hyderabad)",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 ('Job cuts began on November 9, starting with Bengaluru operations')"
+  ],
+  "About 1,000 jobs at risk (reported; Qualcomm has not disclosed a number)": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 ('about 1,000'; Qualcomm 'has not publicly disclosed how many positions')",
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 ('other reports suggest the actual figure could be lower')",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html ('more than 1,000 employees could be affected', Moneycontrol's sources)",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 ('As many as 1,000 Indian techies may reportedly lose their jobs')"
+  ],
+  "Qualcomm has an estimated 20,000 employees in India": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 ('an estimated 20,000 Qualcomm employees')",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html ('roughly 20,000-strong workforce')",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 ('total India workforce of 20,000')"
+  ],
+  "Cuts expected to extend to Hyderabad, Chennai and Delhi-NCR": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 (expected to extend to Hyderabad, Delhi-NCR and Chennai)",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html (expected to extend to Chennai and Delhi-NCR offices)",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 (may extend to Hyderabad, Delhi NCR and Chennai)"
+  ],
+  "Wi-Fi, Bluetooth, RF and GNSS teams named in reports": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 (RF, Bluetooth, Wi-Fi and GNSS teams could face reductions)",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html (cuts hit the Wi-Fi, Bluetooth, RF and GNSS divisions)"
+  ],
+  "Qualcomm has not confirmed job numbers or severance terms": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 ('Qualcomm has not officially confirmed the reported severance arrangements')",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html (no public comment or official statement)",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 (number not disclosed; severance not publicly confirmed)"
+  ],
+  "Part of a performance-focused global reduction CEO Cristiano Amon announced to staff in October, notices from November": [
+   "https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows (Reuters, 20 Oct: Amon memo, 'performance-focused reduction', notifications to begin in November)",
+   "https://businesstoday.in/technology/story/qualcomm-to-cut-jobs-globally-from-november-performance-focused-reduction-562649-2026-10-20 (Business Today, 20 Oct: 'Qualcomm to cut jobs globally from November')",
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 (October communication from CEO Cristiano Amon)"
+  ],
+  "Reported severance: at least 3 months' salary plus tenure-linked pay (BT: 3 months + tenure; Digit: 3 to 5 months); one more month's salary for signing exit documents within 3 days": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 (three months' salary plus tenure-linked compensation; one more month if signed within three days)",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html (3 to 5 months; tenure-based extra; extra month within three days)",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 (base 3 months; tenure-linked; 1 additional month within 3 days)"
+  ],
+  "Senior engineers among those affected": [
+   "https://www.businesstoday.in/technology/news/story/1000-qualcomm-jobs-at-risk-in-india-as-chipmaker-begins-layoffs-severance-details-emerge-566795-2026-11-11 (exits affecting senior engineers and other employees)",
+   "https://www.digit.in/news/general/qualcomm-layoffs-in-india-over-1000-jobs-reportedly-at-risk-check-severance-package-details.html ('Highly experienced senior engineers are among those affected')",
+   "https://www.thedailyjagran.com/business/news/qualcomm-layoffs-2026-1000-indian-techies-impacted-as-chipmaker-restructures-workforce-10335891 (first round hit senior engineers, per Moneycontrol)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Qualcomm_technologies_building_in_Mindspace,_Hyderabad.jpg",
+  "file": "Commons API thumb 1920x1536 of the 4822x3858 original (https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg/1920px-Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg), saved unaltered as _work/2026-11-11-hourly-1528/idlytech/dl/commons/qualcomm_hyd_2019.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "iMahesh (Wikimedia Commons user IM3847)",
+  "taken": "8 Sep 2019",
+  "crop": "pipeline.framing: ok, faces 0, zoom 1.0, upscale 0.88 (no enlargement); cardkit focal [0.62, 0.40], full 4:5 crop x 576-1805 of 1920; lit Qualcomm sign right of the top-centre logo, lower building and walkway behind the headline",
+  "viewed": true
+ },
+ "tags": [],
+ "tag_evidence": "none: the cover is a Wikimedia Commons photo, not a brand image"
+}

@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Reviewer: blind, Gate 4, idlytech Qualcomm India layoffs, 11 Nov 2026 15:49 IST. WEAK: keep 1 (the severance terms, cities and teams are reported, not confirmed by Qualcomm, and give most readers no date or action; useful mainly to affected staff). Hook 2: '1,000 Jobs at Risk' plus 'Starts India Layoffs' is a specific number and a clear stake on the cover, attributed ('Reports'), over the lit Qualcomm sign. FACTS VERIFIED: about 1,000 (Moneycontrol's sources) via Business Today 11 Nov 12:02 IST, Digit, Jagran English; BT 'other reports suggest the figure may be lower' carried; about 20,000 India staff (BT, Digit, Jagran); first exits 9 Nov Bengaluru (BT, Jagran; Digit adds Hyderabad); Hyderabad/Chennai/Delhi-NCR expected (BT, Digit, Jagran); Wi-Fi/Bluetooth/RF/GNSS teams (BT, Digit); severance at least 3 months + tenure pay, +1 month if signed within 3 days (BT, Jagran 3; Digit 3-5); Amon's Oct 'performance-focused' memo, notices from November (Reuters via The Star 20 Oct; BT 20 Oct); no Qualcomm India statement exists (none found; Digit asked). Caption: post_problems ([], []), exactly one '?' (own-life choice), Sources line, no idly mention (no idly article), 5 hashtags, credit last. meta.json: format news, photo_source viewed, fact_sources 9. LAYOUT: 01 full-bleed Commons photo (iMahesh, CC BY-SA 4.0, downscaled 0.88, sharp), no letterbox or blur; lit Qualcomm sign right of the logo, nothing busy under the logo; white 3-line left-aligned headline y~968-1235 legible over the darkened skywalk; vertical credit about 20 px clear of the headline's right end and readable; date and idly.news clear. 02 and 03: orange stat, white Title Case label, 3 bullets on one left edge, sources line above the footer rule, no collisions, nothing cut off; empty top band is the template's normal centring."
+}
