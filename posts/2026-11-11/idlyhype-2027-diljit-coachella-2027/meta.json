@@ -1,0 +1,109 @@
+{
+ "account": "idlyhype",
+ "title": "Diljit Dosanjh is on the Coachella 2027 Friday bill on both weekends (9 and 16 April 2027; Dua Lipa headlines Fridays, Tame Impala Saturday, SZA Sunday); passes on sale Fri 13 Nov 12 pm PT = 1:30 am IST Sat 14 Nov (coachella.com); Tier 2 GA $779 with shuttle, VIP $1,399 (W1) / $1,349 (W2); Empire Polo Club, Indio; his 2023 debut made him the first Punjabi artist to play Coachella",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Coachella",
+   "date": "2026-11-11 (checked)",
+   "url": "https://www.coachella.com/"
+  },
+  {
+   "outlet": "KESQ",
+   "date": "2026-11-10",
+   "url": "https://kesq.com/news/2026/11/10/2027-coachella-lineup-released-dua-lipa-tame-impala-sza-and-daddy-yankee-to-headline/"
+  },
+  {
+   "outlet": "Consequence",
+   "date": "2026-11-11",
+   "url": "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/"
+  },
+  {
+   "outlet": "Sunday Guardian",
+   "date": "2026-11-11",
+   "url": "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/"
+  },
+  {
+   "outlet": "MissMalini",
+   "date": "2026-11-11",
+   "url": "https://www.missmalini.com/2026/11/11/diljit-dosanjh-to-perform-at-coachella-2027-alongside-dua-lipa-jisoo-and-more-details-inside"
+  },
+  {
+   "outlet": "Gulf News",
+   "date": "2023-04-16",
+   "url": "https://gulfnews.com/entertainment/music/diljit-dosanjh-creates-history-at-coachella-1.1681651005354"
+  }
+ ],
+ "fact_sources": {
+  "Coachella's 2027 lineup is out (10 Nov PT / 11 Nov IST)": [
+   "https://kesq.com/news/2026/11/10/2027-coachella-lineup-released-dua-lipa-tame-impala-sza-and-daddy-yankee-to-headline/",
+   "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/"
+  ],
+  "Diljit Dosanjh is on the Coachella 2027 lineup": [
+   "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/ (notable acts: '... JISOO, Diljit Dosanjh ...')",
+   "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/"
+  ],
+  "Diljit plays Friday, 9 and 16 April 2027 (on the Friday bill, not a headliner)": [
+   "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/ ('will perform on April 9 and April 16')",
+   "https://www.missmalini.com/2026/11/11/diljit-dosanjh-to-perform-at-coachella-2027-alongside-dua-lipa-jisoo-and-more-details-inside ('announced for Friday, April 9 and April 16')"
+  ],
+  "Dua Lipa headlines Friday, Tame Impala Saturday, SZA closes Sunday": [
+   "https://kesq.com/news/2026/11/10/2027-coachella-lineup-released-dua-lipa-tame-impala-sza-and-daddy-yankee-to-headline/ ('Dua Lipa will headline on Friday'; 'Tame Impala ... Saturday'; 'Sunday will conclude with SZA')",
+   "https://www.missmalini.com/2026/11/11/diljit-dosanjh-to-perform-at-coachella-2027-alongside-dua-lipa-jisoo-and-more-details-inside ('Both dates will be headlined by Dua Lipa'; Saturday Tame Impala; 'SZA will close the festival on Sunday')"
+  ],
+  "Two weekends, 9-11 and 16-18 April 2027, Empire Polo Club, Indio, California": [
+   "https://www.coachella.com/ ('APR 9-11 & 16-18, 2027')",
+   "https://kesq.com/news/2026/11/10/2027-coachella-lineup-released-dua-lipa-tame-impala-sza-and-daddy-yankee-to-headline/ ('April 9-11 and April 16-18 at the Empire Polo Club in Indio')"
+  ],
+  "Passes on sale Fri 13 Nov 2026, 12 pm PT (= 1:30 am IST Sat 14 Nov; PST UTC-8 after US DST ended 1 Nov)": [
+   "https://www.coachella.com/ ('Passes On Sale Friday, November 13 at 12pm PT')",
+   "https://kesq.com/news/2026/11/10/2027-coachella-lineup-released-dua-lipa-tame-impala-sza-and-daddy-yankee-to-headline/ ('Passes go on sale Friday, Nov. 13 at 12 pm PT')"
+  ],
+  "Tier 2: GA $779 for either weekend, 3-day shuttle pass included": [
+   "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/ ('GA passes for both weekends are on Tier 2 pricing at $779, including a 3-day shuttle pass')",
+   "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/ ('General Admission, three-day shuttle pass: $779 for either weekend')"
+  ],
+  "Tier 2 VIP $1,399 (Weekend 1), $1,349 (Weekend 2)": [
+   "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/ ('VIP Tier 2, Weekend One: from $1,399'; 'Weekend Two: from $1,349')",
+   "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/ ('$1,399 for Weekend 1, $1,349 for Weekend 2')"
+  ],
+  "Diljit's Coachella debut was 2023, as the first Punjabi artist to play the festival": [
+   "https://gulfnews.com/entertainment/music/diljit-dosanjh-creates-history-at-coachella-1.1681651005354 ('The first ever Punjabi singer to perform at Coachella')",
+   "https://sundayguardianlive.com/trending/coachella-2027-lineup-announced-dua-lipa-sza-tame-impala-and-madonna-to-headline-diljit-dosanjh-returns-after-2023-debut-check-dates-and-details-320693/ ('first Punjabi singer ... to perform at Coachella')"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Coachella_2014_sunset.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Coachella_2014_sunset.jpg/3840px-Coachella_2014_sunset.jpg",
+  "flickr": "https://www.flickr.com/photos/97668927@N06/14223779872/",
+  "licence": "CC BY 2.0 (FlickreviewR-confirmed 3 Apr 2015)",
+  "author": "Alan Paone",
+  "credit": "Photo: Alan Paone / Wikimedia Commons, CC BY 2.0, cropped",
+  "description": "Sunset during Coachella 2014 (past edition; not Diljit's set)",
+  "width": 3840,
+  "height": 2560,
+  "original_size": "4896x3264",
+  "sha256": "1a6142d7c16716a819852a0052637221f4d24ac083ae28ce73df9b27170e1448",
+  "faces": 0,
+  "viewed": true,
+  "facecheck": "source 0, frame/cover_source.png 0, rendered 01.jpg 0 (YuNet)"
+ },
+ "tags": [],
+ "cover": {
+  "focal": [
+   0.41,
+   0.0
+  ],
+  "zoom": 1.14,
+  "upscale": 0.6,
+  "render_line": "cover head 100px x3 lines, photo scale 0.60, scrim 0.56"
+ },
+ "story": "none (Stories paused)",
+ "gates": {
+  "g1": "BUILD C1 (Diljit on the Coachella 2027 Friday bill) with conditions: try David Jones Ferris wheel first (failed face screen, deleted unviewed), 'on the Friday bill' never headliner, 'first Punjabi artist' never 'first Indian', alt/caption say photo is from a past edition; C2 BADBO DROP (no brand image), C3 Uniqlo Jaipur DROP.",
+  "g2": "FIX applied verbatim: Tier 2 price wording on slide 2 bullet, caption and alt text.",
+  "g3": "Photo PASS; FIX framing applied: focal [0.41, 0.0], zoom 1.14 (both seated people out of frame)."
+ }
+}

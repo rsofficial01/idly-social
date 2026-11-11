@@ -1,0 +1,47 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2027-diljit-coachella-2027",
+ "date": "11 Nov 2026",
+ "sources": [
+  "Coachella",
+  "KESQ",
+  "Consequence",
+  "Sunday Guardian",
+  "MissMalini",
+  "Gulf News"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Diljit Dosanjh Plays Coachella 2027 on 9 and 16 April",
+   "photo": "_work/2026-11-11-hourly-2027/hype/frame/cover_source.png",
+   "photo_credit": "Photo: Alan Paone / Wikimedia Commons, CC BY 2.0, cropped",
+   "focal": [
+    0.41,
+    0.0
+   ],
+   "zoom": 1.14
+  },
+  {
+   "type": "detail",
+   "stat": "1:30 AM",
+   "stat_label": "Coachella Passes On Sale, Sat 14 Nov IST",
+   "bullets": [
+    "Friday 13 Nov, 12 pm Pacific Time, per Coachella",
+    "Tier 2: GA $779 with shuttle; VIP from $1,349",
+    "Both weekends at Empire Polo Club, Indio, California"
+   ],
+   "credit_line": "Sources: Coachella, KESQ, Consequence, Sunday Guardian"
+  },
+  {
+   "type": "detail",
+   "stat": "2023",
+   "stat_label": "Diljit Dosanjh's First Coachella Set",
+   "bullets": [
+    "Diljit was the first Punjabi artist to play Coachella",
+    "Dua Lipa headlines both of Diljit's 2027 Fridays"
+   ],
+   "credit_line": "Sources: Gulf News, Sunday Guardian, MissMalini, KESQ"
+  }
+ ]
+}
