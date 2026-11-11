@@ -1,0 +1,44 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-1628-creta-midsize-october",
+  "date": "11 Nov 2026",
+  "sources": [
+    "CarWale",
+    "Auto Punditz"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Creta Still Leads, but Victoris Is Just 1,163 Behind",
+      "photo": "_work/2026-11-11-hourly-1628/auto/photos/creta-hyundai-brochure-house.jpg",
+      "photo_credit": "Image: Hyundai Motor India",
+      "focal": [
+        0.455,
+        0.62
+      ],
+      "zoom": 1.3
+    },
+    {
+      "type": "detail",
+      "stat": "17,955",
+      "stat_label": "Creta Stays No. 1 Mid-Size SUV in October",
+      "bullets": [
+        "Down 2.3% from 18,381 in October 2025",
+        "Victoris closing in: 16,792, up 24.4%",
+        "Counts dispatches to dealers, not sales to buyers"
+      ],
+      "credit_line": "Sources: CarWale, Auto Punditz"
+    },
+    {
+      "type": "detail",
+      "stat": "+88.3%",
+      "stat_label": "Kia Seltos Grew Fastest of Top Mid-Size SUVs",
+      "bullets": [
+        "13,423 dispatches, up from 7,130 a year ago",
+        "Toyota Hyryder: 7,797, down 32.5%, worst of top seven",
+        "Newcomer Tata Sierra already at 7,205 dispatches"
+      ],
+      "credit_line": "Sources: CarWale, Auto Punditz"
+    }
+  ]
+}

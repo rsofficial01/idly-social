@@ -1,0 +1,13 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Lower of self and blind reviewer per check. self: Hook 1: 1,163 is on the cover but a narrowing gap in a dispatch table is not a shock. Read 2: cover gap, slide 2 the leader and challenger, slide 3 the movers; nothing repeated. Send 2: a specific reader, someone choosing between Creta, Victoris, Seltos and Sierra (India's busiest premium segment), would forward it to the family member buying. Keep 1: a month's ranking with no price, date or spec to act on. Reply 2: a question about the family's own car. Original 2: our synthesis of two tables, Hyundai's own image credited. Alone 2: every slide names the model and says 'dispatches'. | reviewer: hook 1: a narrowing gap (1,163) between the two leaders is a story, not a shock. Other checks strong: the full segment table is keepable, sendable to anyone choosing between Creta/Victoris/Seltos/Sierra, the family-car question is from readers' lives, the maker's own image is credited, and the slides name the segment. v2: the slide 3 Hyryder bullet is now correctly scoped to the top seven (VW Taigun -39.8% in the full table).",
+ "self_total": 12,
+ "reviewer_total": 13
+}

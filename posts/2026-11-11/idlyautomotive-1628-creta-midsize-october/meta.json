@@ -1,0 +1,79 @@
+{
+ "account": "idlyautomotive",
+ "title": "Mid-size SUV dispatches, October 2026: Hyundai Creta stays No. 1 with 17,955 (Oct 2025: 18,381, -2.3%); Maruti Suzuki Victoris 1,163 behind at 16,792 (+24.4% from 13,496); Kia Seltos fastest-growing of the top models, 13,423 (+88.3% from 7,130); Grand Vitara 11,200 (+7.6%); Toyota Hyryder 7,797 (-32.5%); newcomer Tata Sierra 7,205; Honda Elevate 3,673 (+68%) (CarWale 11 Nov; Auto Punditz). Dispatches to dealers, not retail",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "CarWale",
+   "date": "2026-11-11",
+   "url": "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "note": "Haji Chakralwale, 14:30 IST"
+  },
+  {
+   "outlet": "Auto Punditz",
+   "date": "2026-11-09",
+   "url": "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india",
+   "note": "page shows '2 days ago' on 11 Nov; calls the figures manufacturer dispatches"
+  },
+  {
+   "outlet": "Cartoq (corroboration only, page returned HTTP 402)",
+   "date": "2026-11-11",
+   "url": "https://www.cartoq.com/car-news/hyundai-creta-mid-size-suv-sales-october-2026/"
+  }
+ ],
+ "fact_sources": {
+  "Creta 17,955 Oct 2026 vs 18,381 Oct 2025 (-2.3%), No. 1 mid-size SUV": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Victoris 16,792 vs 13,496 (+24.4%); gap 1,163": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Seltos 13,423 vs 7,130 (+88.3%), fastest growth among the top mid-size SUVs (Elevate +68%, Curvv +66%)": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Grand Vitara 11,200 vs 10,409 (+7.6%)": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Tata Sierra 7,205, new entrant (no Oct 2025 figure)": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Honda Elevate 3,673 vs 2,186 (+68%)": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Figures are manufacturer dispatches (wholesale), not retail": [
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ],
+  "Hyryder 7,797 vs 11,555 (-32.5%), largest fall among the top seven (Taigun -39.8% sits outside the top seven)": [
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  ]
+ },
+ "image": {
+  "page": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta.pdf",
+  "linked_from": "https://www.hyundai.com/in/en/find-a-car/creta/highlights",
+  "owner": "Hyundai Motor India (official Creta digital brochure, 'Lounge edition', created 21 Sep 2026; embedded full-page photo, object 137, pages 6-8, 10, 11)",
+  "licence": "Official manufacturer image, used with credit",
+  "author": "Hyundai Motor India",
+  "credit": "Image: Hyundai Motor India",
+  "size": "2902x2074 original, used at render scale 0.85 (no enlargement)",
+  "focal": [
+   0.455,
+   0.62
+  ],
+  "zoom": 1.3,
+  "faces": 0,
+  "viewed": true
+ },
+ "tags": [
+  "hyundaiindia"
+ ],
+ "tags_confirmed": "instagram.com/hyundaiindia linked from Hyundai's own site (hyundai.com/in Creta highlights and exterior pages and a media-centre press release page), checked 11 Nov 2026"
+}
