@@ -1,0 +1,46 @@
+{
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-0127-ev-staff-cars",
+  "date": "12 Nov 2026",
+  "sources": [
+    "ANI",
+    "The Federal",
+    "The Pioneer",
+    "Upstox"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "EVs Become Default for Centre's Staff Cars, ₹20 Lakh Cap",
+      "photo": "_work/2026-11-12-hourly-0127/auto/framing_tvm3/cover_source.png",
+      "photo_credit": "Photo: Shagil Kannur / Wikimedia Commons, CC BY-SA 4.0",
+      "focal": [
+        0.3763,
+        0.6153
+      ],
+      "zoom": 1.3
+    },
+    {
+      "type": "detail",
+      "stat": "₹10 LAKH",
+      "stat_label": "Unchanged Cap for Petrol, Diesel, Hybrid Staff Cars",
+      "bullets": [
+        "Electric staff cars may cost up to twice this",
+        "EV default applies when old cars are replaced",
+        "In force immediately under the 10 Nov memo"
+      ],
+      "credit_line": "Sources: ANI, The Federal, The Pioneer, Upstox"
+    },
+    {
+      "type": "detail",
+      "stat": "3",
+      "stat_label": "Approvals to Buy Petrol, Diesel or Hybrid Cars",
+      "bullets": [
+        "Ministry's Secretary approves a justified proposal",
+        "Its Financial Adviser must concur",
+        "Department of Expenditure then decides case by case"
+      ],
+      "credit_line": "Sources: ANI, The Federal, The Pioneer, Upstox"
+    }
+  ]
+}
