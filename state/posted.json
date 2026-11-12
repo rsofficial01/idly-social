@@ -2810,5 +2810,23 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/idlytech-nvidia-huang-resigns/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "17916147342283224",
+    "permalink": "https://www.instagram.com/p/DfpZy9alBVH/",
+    "posted_at": "2026-11-12T15:42:24+00:00",
+    "date": "2026-11-12",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-2029-iitkgp-md-seats/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-2029-iitkgp-md-seats/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-2029-iitkgp-md-seats/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "iit.kgp"
+    ]
   }
 ]
