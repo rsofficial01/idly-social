@@ -1,0 +1,60 @@
+[
+ {
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-1427-jlr-byd-ruling",
+  "date": "12 Nov 2026",
+  "sources": [
+   "ANP",
+   "CarNewsChina",
+   "Autocar India",
+   "Electrek",
+   "Top Gear"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "BYD's £47,995 Defender Rival Wins Court Round Against Tata's JLR",
+    "photo": "_work/2026-11-12-hourly-1427/idlyautomotive/framing_ti7_d1/cover_source.png",
+    "photo_credit": "Image: BYD",
+    "focal": [
+     0.5,
+     0.6
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "11 NOV",
+    "stat_label": "Hague Court Lifts JLR's Seizure Of BYD Files",
+    "bullets": [
+     "Seized in August; JLR must now destroy them",
+     "Judge: JLR doesn't need them to argue copying",
+     "Court: Ti7 never sold in EU, files not needed"
+    ],
+    "credit_line": "Sources: ANP, CarNewsChina"
+   },
+   {
+    "type": "detail",
+    "stat": "2",
+    "stat_label": "Dutch Courts Still To Rule On JLR's Claims",
+    "bullets": [
+     "Interim design and copyright cases: The Hague, Rotterdam",
+     "Until then, the Ti7 is not ruled a copy",
+     "JLR beat a Chinese Evoque lookalike in 2019"
+    ],
+    "credit_line": "Sources: ANP, CarNewsChina, Autocar India"
+   },
+   {
+    "type": "detail",
+    "stat": "£71,840",
+    "stat_label": "The Plug-In Defender 110 the Ti7 Undercuts",
+    "bullets": [
+     "Ti7 is over £20,000 cheaper in the UK",
+     "UK deliveries from January 2027, one spec",
+     "In India, the Defender 110 is now Pune-assembled"
+    ],
+    "credit_line": "Sources: Electrek, Top Gear, Autocar India"
+   }
+  ]
+ }
+]

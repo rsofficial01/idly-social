@@ -1,0 +1,149 @@
+{
+ "account": "idlyautomotive",
+ "title": "Hague court (Rechtbank Den Haag, kort geding, 11 Nov 2026, ECLI:NL:RBDHA:2026:33114) lifts the evidence seizure Tata-owned JLR obtained in August at BYD's Schiedam and Hoofddorp offices over JLR's claim that the BYD Ti7 copies the Land Rover Defender; JLR must have the seized files destroyed; court: JLR doesn't need them to argue copying or damages since BYD has never sold the Ti7 in the EU; ruling doesn't decide infringement; JLR's design/copyright summary cases in The Hague and Rotterdam pending; Ti7 UK £47,995 (one spec), deliveries Jan 2027, over £20,000 below the £71,840 plug-in Defender 110; Defender 110 now assembled in Pune; Denza India debut 13 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the JLR v BYD ruling (API checked 14:35 IST); post with --no-idly-article.",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ANP (via nieuws.nl)",
+   "date": "2026-11-11",
+   "url": "https://nieuws.nl/economie/jaguar-mag-geen-beslag-leggen-op-documenten-byd-in-na-aapzaak"
+  },
+  {
+   "outlet": "ANP (via Transport Online)",
+   "date": "2026-11-11",
+   "url": "https://www.transport-online.nl/144628/jaguar-mag-geen-beslag-leggen-op-documenten-byd-in-na-aapzaak/"
+  },
+  {
+   "outlet": "Automotive-online.nl (ANP)",
+   "date": "2026-11-11",
+   "url": "https://www.automotive-online.nl/management/2026/11/11/jaguar-mag-geen-beslag-meer-leggen-op-byd-documenten-in-kopieerzaak/"
+  },
+  {
+   "outlet": "CarNewsChina",
+   "date": "2026-11-12",
+   "url": "https://carnewschina.com/2026/11/12/dutch-court-orders-jaguar-land-rover-to-destroy-seized-byd-ti-7-files-or-face-553850-usd-penalty/"
+  },
+  {
+   "outlet": "Rechtspraak open data (register entry)",
+   "date": "2026-11-11",
+   "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2026:33114"
+  },
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-11",
+   "url": "https://www.autocarindia.com/car-news/jlr-takes-byd-to-court-over-ti7-copying-defender-441296"
+  },
+  {
+   "outlet": "Autocar Professional",
+   "date": "2026-11",
+   "url": "https://www.autocarpro.in/news/jlr-takes-byd-to-court-over-alleged-defender-technology-theft-135844"
+  },
+  {
+   "outlet": "Electrek",
+   "date": "2026-07-31",
+   "url": "https://electrek.co/2026/07/31/byds-first-7-seat-suv-cheaper-than-defender-uk/"
+  },
+  {
+   "outlet": "Electrek",
+   "date": "2026-11-10",
+   "url": "https://electrek.co/2026/11/10/byd-offices-raided-jlr-legal-battle-heats-up-over-defender-lookalike/"
+  },
+  {
+   "outlet": "Top Gear",
+   "date": "2026",
+   "url": "https://www.topgear.com/car-news/suvs/chinese-defender-clone-undercuts-land-rovers-seven-seat-110-more-ps20k"
+  },
+  {
+   "outlet": "AM Online",
+   "date": "2026",
+   "url": "https://www.am-online.com/news/byd-opens-uk-orders-for-47-995-seven-seat-ti-7"
+  },
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-12",
+   "url": "https://autocarindia.com/car-news/denza-d9-teased-ahead-of-launch-tomorrow-441312"
+  },
+  {
+   "outlet": "CarWale",
+   "date": "2026-11-12",
+   "url": "https://www.carwale.com/news/byd-denza-d9-and-z9-gt-to-be-launched-in-india-tomorrow/"
+  }
+ ],
+ "fact_sources": {
+  "Ruling 11 Nov 2026, Rechtbank Den Haag, kort geding, case 713312": [
+   "Rechtspraak register",
+   "ANP (nieuws.nl)",
+   "CarNewsChina"
+  ],
+  "Seizure lifted after BYD objected; JLR must destroy the seized files": [
+   "ANP (Transport Online)",
+   "ANP (nieuws.nl)",
+   "CarNewsChina"
+  ],
+  "JLR doesn't need files to argue copy or damages; BYD never sold Ti7 in EU": [
+   "ANP (nieuws.nl, Transport Online)",
+   "CarNewsChina"
+  ],
+  "Seizure in August at Schiedam and Hoofddorp offices": [
+   "Autocar India",
+   "CarNewsChina",
+   "Electrek"
+  ],
+  "Ruling doesn't decide copying; summary cases pending in The Hague and Rotterdam": [
+   "ANP (Transport Online)",
+   "CarNewsChina"
+  ],
+  "JLR says the Ti7 copies the Defender (EU design right)": [
+   "ANP (nieuws.nl)",
+   "Autocar India",
+   "Autocar Pro"
+  ],
+  "2019: JLR beat Jiangling's Landwind X7 (Evoque lookalike)": [
+   "Autocar India",
+   "CarNewsChina"
+  ],
+  "Ti7 UK £47,995, one spec, deliveries Jan 2027": [
+   "Automotive-online.nl (ANP)",
+   "AM Online",
+   "Autocar India",
+   "Top Gear"
+  ],
+  "Plug-in Defender 110 £71,840; Ti7 over £20,000 cheaper": [
+   "Electrek",
+   "CarNewsChina",
+   "Top Gear",
+   "Autocar India"
+  ],
+  "Defender 110 now assembled in Pune": [
+   "Autocar India",
+   "Times Drive",
+   "DriveSpark"
+  ],
+  "Denza India debut Fri 13 Nov": [
+   "Autocar India",
+   "CarWale"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.byd.com/uk/hybrid-cars/ti-7",
+  "file_url": "https://www.byd.com/material/byd-site/eu-v3/model/ti7/pc/exterior-detail/1.webp",
+  "licence": "Manufacturer publicity image (BYD UK official model page), credited Image: BYD",
+  "author": "BYD",
+  "viewed": true,
+  "size": "972x1346",
+  "faces": 0
+ },
+ "tags": [
+  "byd.uk"
+ ],
+ "tags_evidence": "byd.com/uk/hybrid-cars/ti-7 (the image's source page) links https://www.instagram.com/byd.uk; reviewer accepted at Gate 3.",
+ "gates": {
+  "g1": "BUILD 1 (ceiling 12)",
+  "g2": "FIX x4 (applied; checked at G4)",
+  "g3": "PASS",
+  "g4": "PASS 12/14 (v1)"
+ }
+}
