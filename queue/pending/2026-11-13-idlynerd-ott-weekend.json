@@ -1,0 +1,81 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "New on OTT, Fri 13-Sun 15 Nov 2026: Ranabaali, Daayra, Heartland (Netflix), SOTY: After Dark, Parivarik ManuRanjan, Bandra (13 Nov); Cunk on Cinema, The Chosen S6 (15 Nov)",
+  "headline": "Ranabaali Leads 8 New OTT Releases This Weekend",
+  "caption": "Here are eight of the new films and series arriving on India's streaming platforms from Friday, 13 November to Sunday, 15 November.\n\nNetflix adds three on Friday: the Telugu period drama Ranabaali, streaming in Telugu, Hindi, Tamil, Kannada and Malayalam; Daayra, a crime thriller directed by Meghna Gulzar; and the English mystery thriller Heartland.\n\nAlso on Friday: the Hindi thriller series Student of the Year: After Dark on JioHotstar, the Hindi family comedy Parivarik ManuRanjan on Sony LIV and the Malayalam gangster drama Bandra on ZEE5.\n\nOn Sunday, Netflix adds the English comedy series Cunk on Cinema, and Prime Video adds The Chosen Season 6.\n\nWhich film did you skip in cinemas to wait for its OTT release?\n\nSources: Netflix India, JioHotstar, Sony LIV, Esquire India, Flickonclick, IWMBuzz, The Daily Jagran\n\n#OTTReleases #Ranabaali #NewOnOTT #WeekendWatch #idlynerd",
+  "alt_text": "Slide 1: a still from an official Ranabaali video, under the headline \"Ranabaali Leads 8 New OTT Releases This Weekend\". Slide 2, 13 Nov, Friday on Netflix: Ranabaali, a Telugu period drama in five languages; Daayra, a crime thriller from director Meghna Gulzar; Heartland, an English mystery thriller. Slide 3, 13 Nov, Friday on JioHotstar, Sony LIV and ZEE5: Student of the Year: After Dark on JioHotstar, a Hindi thriller; Parivarik ManuRanjan on Sony LIV, a Hindi family comedy; Bandra on ZEE5, a Malayalam gangster drama. Slide 4, 15 Nov, Sunday: Cunk on Cinema on Netflix, an English comedy series; The Chosen Season 6 on Prime Video, an English drama series.",
+  "sources": [
+    "Netflix India",
+    "JioHotstar",
+    "Sony LIV",
+    "Esquire India",
+    "Flickonclick",
+    "IWMBuzz",
+    "The Daily Jagran"
+  ],
+  "detail_slides": [
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on Netflix: Three New Titles",
+      "bullets": [
+        "Ranabaali · Telugu period drama, in five languages",
+        "Daayra · crime thriller from director Meghna Gulzar",
+        "Heartland · English mystery thriller"
+      ],
+      "credit_line": "Sources: Netflix India, Esquire India, Flickonclick"
+    },
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on JioHotstar, Sony LIV and ZEE5",
+      "bullets": [
+        "Student of the Year: After Dark · JioHotstar · Hindi thriller",
+        "Parivarik ManuRanjan · Sony LIV · Hindi family comedy",
+        "Bandra · ZEE5 · Malayalam gangster drama"
+      ],
+      "credit_line": "Sources: JioHotstar, Sony LIV, Flickonclick, Esquire India"
+    },
+    {
+      "stat": "15 NOV",
+      "stat_label": "Sunday: Two English Series Arrive",
+      "bullets": [
+        "Cunk on Cinema · Netflix · English comedy series",
+        "The Chosen Season 6 · Prime Video · English drama series"
+      ],
+      "credit_line": "Sources: Esquire India, Flickonclick"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=IZcGeJwGuec",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=1Dw04VaTZDg"
+      }
+    ]
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: list. Special 'New on OTT This Weekend', Fri 13-Sun 15 Nov 2026 (Gate 1 conditional PASS, Gate 2 FIX applied). The spec schema has no top-level 'format' key (additionalProperties: false), so format is recorded here. Image order: Netflix India Ranabaali Hindi trailer IZcGeJwGuec; Mythri Movie Makers teaser L7qEKA-e2qI; T-Series 'Aa Ja' 1Dw04VaTZDg. Not retried: g34gJUGC2Mg (lettering), A36nagDzugo, tpPerNddzTQ, D2fq7kqBkys, bvMUEgqix9o (framing, 12 Nov). Daayra added at G2: Netflix India trailer nb4Qb89zgmU confirms 13 Nov. Cut: Jailer 2, Rings of Power S3, Bal Barbarik, Khushi, Vibe, Murder in Galicia, 12 12 12, Being Heumann, The Third Murder, Mrigaya 1.5. Tags empty: tag only the uploader of the image used. Stories paused: story false. No gossip.",
+  "created_at": "2026-11-13T03:57:00+05:30",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "Re-scored after Gate 2 fixes (8 titles, Daayra added, slides regrouped by platform, caption replaced). hook 2: Ranabaali plus the count on the cover on release day, Daayra adds a big Hindi title. original 1: weekly OTT lists are common and the cover is a trailer frame; our angle is per-title platform/language/genre for Indian readers, each from 2+ sources. Cover risk (lettering, framing) is checked by the lane and at Gate 4."
+    }
+  }
+}
