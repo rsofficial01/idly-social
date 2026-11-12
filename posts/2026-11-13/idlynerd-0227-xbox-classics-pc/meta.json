@@ -4,7 +4,7 @@
  "idly_article": false,
  "no_idly_article_reason": "No idly.news article on Xbox Backward Compatibility on PC; built from Xbox Wire (12 Nov and 22 Jul 2026), Windows Central and the Microsoft Store India listings.",
  "format": "news",
- "title": "Xbox (12 Nov 2026): 21 more original Xbox games join Xbox Backward Compatibility on PC (library now 25), incl. KOTOR I and II, Battlefront I and II, TimeSplitters 2, Morrowind; Windows 11; Microsoft Store India prices on 13 Nov: KOTOR ₹499, TimeSplitters 2 ₹549, Morrowind ₹699; console digital licences carry over (Xbox).",
+ "title": "Xbox (12 Nov 2026): 21 more original Xbox games join Xbox Backward Compatibility on PC (library now 25), incl. KOTOR I and II, TimeSplitters 2, Morrowind; Windows 11; Microsoft Store India prices on 13 Nov: KOTOR ₹499, TimeSplitters 2 ₹549, Morrowind ₹699; console digital licences carry over (Xbox).",
  "sources": [
   {
    "outlet": "Xbox Wire (Jason Ronald)",
@@ -48,10 +48,6 @@
    "https://www.windowscentral.com/gaming/xbox/xbox-adds-more-og-console-games-to-pc-including-knights-of-the-old-republic-now-with-achievements",
    "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
   ],
-  "Titles include KOTOR I and II, Star Wars Battlefront and Battlefront II, Jedi Academy, Republic Commando, TimeSplitters 2, Morrowind, Grabbed by the Ghoulies": [
-   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
-   "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
-  ],
   "KOTOR is among them and gains achievements": [
    "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
    "https://www.windowscentral.com/gaming/xbox/xbox-adds-more-og-console-games-to-pc-including-knights-of-the-old-republic-now-with-achievements"
@@ -81,6 +77,10 @@
   ],
   "Morrowind ₹699 (Microsoft Store India price, 13 Nov; PC listed; Game Pass Premium, PC and Ultimate)": [
    "https://www.xbox.com/en-IN/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17"
+  ],
+  "Titles include KOTOR I and II, Jedi Academy, Republic Commando, TimeSplitters 2, Morrowind, Grabbed by the Ghoulies": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
   ]
  },
  "price_check": "Each ₹ figure re-checked live on its own en-IN store page at build, 13 Nov ~03:2x IST. Battlefront II (₹499) was cut: its en-IN page lists only Xbox One and Series X|S, not PC.",
