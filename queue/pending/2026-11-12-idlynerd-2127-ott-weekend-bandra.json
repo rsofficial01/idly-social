@@ -1,0 +1,69 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "New on OTT in India, 12-13 Nov 2026: Jailer 2 (Prime Video), Heartland (Netflix), Student of the Year: After Dark (JioHotstar), Parivarik ManuRanjan (Sony LIV), Bandra (ZEE5)",
+  "headline": "Bandra, Jailer 2 and 3 More on OTT This Weekend",
+  "caption": "Five of the new titles on OTT in India this weekend, from Thursday 12 to Friday 13 November.\n\nRajinikanth's Jailer 2 has been streaming on Prime Video since Thursday, four weeks after it opened in cinemas on 15 October. You can watch it in Tamil, Telugu, Hindi, Malayalam or Kannada.\n\nOn Friday, ZEE5 starts Bandra, the 2023 Malayalam film with Dileep and Tamannaah Bhatia, in its first streaming release. Netflix has Heartland, a thriller in which Jessica Chastain plays a former country music star searching for her missing niece. JioHotstar begins Student of the Year: After Dark, a Hindi thriller series directed by Reema Maya, and Sony LIV premieres Parivarik ManuRanjan, its original Hindi family comedy with Pankaj Tripathi and Aditi Rao Hydari.\n\nHow many of these five streaming services does your home pay for right now?\n\nSources: Prime Video India, ZEE5, Sony LIV, JioHotstar, Netflix Tudum, The Week, The Hollywood Reporter India, Esquire India, Medianews4u, Sacnilk, NewsBytes\n\n#NewOnOTT #OTTReleases #Jailer2 #Bandra #idlynerd",
+  "alt_text": "Slide 1: a still from ZEE5's official Bandra trailer, under the headline \"Bandra, Jailer 2 and 3 More on OTT This Weekend\". Slide 2: \"12 NOV\", Jailer 2 streams on Prime Video: watch in Tamil, Telugu, Hindi, Malayalam or Kannada; opened in cinemas 15 Oct, streaming 28 days later. Slide 3: \"13 NOV\", Friday on Netflix and JioHotstar: Heartland, a Netflix film, a Jessica Chastain thriller; Student of the Year: After Dark, a Hindi series on JioHotstar. Slide 4: \"13 NOV\", Friday on Sony LIV and ZEE5: Parivarik ManuRanjan, a Sony LIV original Hindi family comedy; Bandra on ZEE5, a 2023 Malayalam film streaming for the first time.",
+  "sources": [
+    "Prime Video India",
+    "ZEE5",
+    "Sony LIV",
+    "Netflix Tudum",
+    "The Week",
+    "The Hollywood Reporter India",
+    "Esquire India",
+    "Medianews4u"
+  ],
+  "detail_slides": [
+    {
+      "stat": "12 NOV",
+      "stat_label": "Jailer 2 Streams on Prime Video",
+      "bullets": [
+        "Watch in Tamil, Telugu, Hindi, Malayalam or Kannada",
+        "Opened in cinemas 15 Oct; streaming 28 days later"
+      ],
+      "credit_line": "Sources: Prime Video India, The Week, The Hollywood Reporter India"
+    },
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on Netflix and JioHotstar",
+      "bullets": [
+        "Heartland · Netflix film · Jessica Chastain thriller",
+        "Student of the Year: After Dark · JioHotstar · Hindi series"
+      ],
+      "credit_line": "Sources: Netflix Tudum, The Week, The Hollywood Reporter India, Sacnilk"
+    },
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on Sony LIV and ZEE5",
+      "bullets": [
+        "Parivarik ManuRanjan · Sony LIV original · Hindi family comedy",
+        "Bandra · ZEE5 · 2023 Malayalam film, first time streaming"
+      ],
+      "credit_line": "Sources: ZEE5, Sony LIV, Medianews4u, The Week, Esquire India"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=rLy_RPXXLyo"
+  },
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: a service list with a date, no surprising number (reviewer G1 cap). send 2 only because Jailer 2 is in the list. keep 2: platform, day, date, language per title. reply 2: household subscriptions, from readers' own lives. alone 2: cover names two titles and the weekend; slides carry dates and platforms."
+    }
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: special (New on OTT This Weekend, Thu). idlynerd desk, hourly run 2127. G1 BUILD C1 (ceiling 13) on six conditions. Cover leads with Bandra because the other titles' only full trailers on the allowed channels already failed lane framing today (deterministic): SOTY After Dark _T4DA1H9U_w (@JioHotstar, 09:12 'a face is cut off by the edge') and Parivarik ManuRanjan ZeiOzgE2bBg (@SonyLIV, 09:12 'no crop keeps every face'). Image = @ZEE5 'Bandra | Official Trailer | Malayalam ZEE5 ... Premieres on Nov 13th' (oEmbed text only). No other Bandra upload or zee5.com title page found, so no same-title fallback. 'format' kept in notes: spec.schema.json rejects a top-level 'format' key. Jailer 2 '30 min extra footage' claim left out (unconfirmed).",
+  "created_at": "2026-11-12T21:47:59+05:30"
+}
