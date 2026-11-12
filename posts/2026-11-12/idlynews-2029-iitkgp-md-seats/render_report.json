@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Biswarup Ganguly / Wikimedia Commons, CC BY 3.0, cropped",
+  "slug": "idlynews-2029-iitkgp-md-seats",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-12-hourly-2029/idlynews/render/idlynews-2029-iitkgp-md-seats/01.jpg",
+  "scale": 0.74
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, ThePrint",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2029-iitkgp-md-seats",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2029/idlynews/render/idlynews-2029-iitkgp-md-seats/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, Careers360, MedAdmit (MCC schedule)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2029-iitkgp-md-seats",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2029/idlynews/render/idlynews-2029-iitkgp-md-seats/03.jpg",
+  "scale": null
+ }
+]

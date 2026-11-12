@@ -1,0 +1,93 @@
+{
+ "account": "idlynews",
+ "title": "IIT Kharagpur will offer MD degrees from 2026-27 after National Medical Commission approval (applied in March, per ThePrint); officials told PTI it is the first IIT to do so. 12 seats, two each in General Medicine, Radiology, Physiology, Pathology, Community Medicine and Biochemistry, based at its Dr B.C. Roy Multi-Speciality Medical Research Centre; admission through NEET-PG 2026 online counselling, with officials telling PTI the seats are on offer in Round 2. MCC's revised Round 2 schedule: registration closes 3 pm Sat 14 Nov; choice filling and locking close 11:55 pm Sun 15 Nov; final result 17 Nov. Director Suman Chakraborty: 'clinical excellence meets engineering ingenuity'. ThePrint: IIT Madras, Jodhpur and Delhi run medical-technology programmes, none a clinical MD.",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on IIT Kharagpur's MD programmes in the @idlynews candidates feed (candidates.json, last 30 h, generated 15:01 UTC 12 Nov 2026)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "PTI (via ETV Bharat)",
+   "date": "12 Nov 2026 17:20 IST",
+   "url": "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893"
+  },
+  {
+   "outlet": "PTI (via The Federal)",
+   "date": "12 Nov 2026 17:09 IST",
+   "url": "https://thefederal.com/category/education/iit-kharagpur-becomes-first-iit-to-launch-pg-medical-courses-262693"
+  },
+  {
+   "outlet": "ThePrint",
+   "date": "12 Nov 2026 19:11 IST",
+   "url": "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  },
+  {
+   "outlet": "Careers360",
+   "date": "7 Nov 2026 16:49 IST",
+   "url": "https://news.careers360.com/neet-pg-2026-counselling-round-2-registration-begins-choice-filling-mcc-seat-allotment-schedule"
+  },
+  {
+   "outlet": "MedAdmit",
+   "date": "7 Nov 2026",
+   "url": "https://medadmit.in/updates/neet-pg-round-2-counselling-2026-registration-choice-filling-schedule"
+  }
+ ],
+ "fact_sources": {
+  "IIT Kharagpur MD programmes from the 2026-27 session": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "NMC approval (PTI: 'accredited by the NMC'; ThePrint: 'received approval from the NMC')": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "first IIT to offer MD / PG medical degrees (PTI: 'according to officials'; ThePrint states it)": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "12 seats, two each in six specialities (General Medicine, Radiology, Physiology, Pathology, Community Medicine, Biochemistry)": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "based at the Dr B.C. Roy Multi-Speciality Medical Research Centre": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "admission through NEET-PG 2026 online counselling": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://theprint.in/india/education/iit-kharagpur-becomes-first-iit-to-offer-medical-postgraduate-courses-launches-six-md-programmes/3097162/"
+  ],
+  "seats on offer in Round 2 (attributed: officials told PTI; PTI copy only)": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://thefederal.com/category/education/iit-kharagpur-becomes-first-iit-to-launch-pg-medical-courses-262693"
+  ],
+  "Round 2 registration closes 3 pm 14 Nov": [
+   "https://news.careers360.com/neet-pg-2026-counselling-round-2-registration-begins-choice-filling-mcc-seat-allotment-schedule",
+   "https://medadmit.in/updates/neet-pg-round-2-counselling-2026-registration-choice-filling-schedule"
+  ],
+  "choice filling and locking close 11:55 pm 15 Nov": [
+   "https://news.careers360.com/neet-pg-2026-counselling-round-2-registration-begins-choice-filling-mcc-seat-allotment-schedule",
+   "https://medadmit.in/updates/neet-pg-round-2-counselling-2026-registration-choice-filling-schedule"
+  ],
+  "final Round 2 result 17 Nov": [
+   "https://news.careers360.com/neet-pg-2026-counselling-round-2-registration-begins-choice-filling-mcc-seat-allotment-schedule",
+   "https://medadmit.in/updates/neet-pg-round-2-counselling-2026-registration-choice-filling-schedule"
+  ],
+  "Director Suman Chakraborty quote 'clinical excellence meets engineering ingenuity'": [
+   "https://www.etvbharat.com/en/bharat/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod-enn26111204893",
+   "https://thefederal.com/category/education/iit-kharagpur-becomes-first-iit-to-launch-pg-medical-courses-262693"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Main_Building_-_Indian_Institute_of_Technology_-_Kharagpur_-_West_Midnapore_2013-01-26_3687.JPG",
+  "licence": "CC BY 3.0",
+  "author": "Biswarup Ganguly",
+  "viewed": true,
+  "size": "6016x4000 original; 3840x2553 Commons thumbnail used",
+  "processing": "cropped to 4:5 by cardkit (focal 0.655, 0.5; zoom 1.0); downscaled, no upscale or edits"
+ },
+ "tags": [
+  "iit.kgp"
+ ],
+ "tag_evidence": "IIT Kharagpur's own homepage https://www.iitkgp.ac.in/ links https://www.instagram.com/iit.kgp (fetched by the desk 12 Nov 2026, ~20:57 IST)"
+}
