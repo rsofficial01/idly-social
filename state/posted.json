@@ -2198,5 +2198,23 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-0628-blue-flag-beaches/03.jpg"
     ],
     "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18177771997454097",
+    "permalink": "https://www.instagram.com/p/Dfn3tgCF4Om/",
+    "posted_at": "2026-11-12T01:25:17+00:00",
+    "date": "2026-11-12",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynerd-0628-tomb-raider-atlantis/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynerd-0628-tomb-raider-atlantis/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynerd-0628-tomb-raider-atlantis/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "tombraider"
+    ]
   }
 ]
