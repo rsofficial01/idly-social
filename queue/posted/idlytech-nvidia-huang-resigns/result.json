@@ -1,0 +1,32 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "idlytech-nvidia-huang-resigns",
+  "image_credit": "Photo: NVIDIA",
+  "image_source": null,
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/idlytech-nvidia-huang-resigns/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/idlytech-nvidia-huang-resigns/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/idlytech-nvidia-huang-resigns/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/idlytech-nvidia-huang-resigns/04.jpg"
+  ],
+  "score_self": 12,
+  "score_reviewer": 13,
+  "story_id": null,
+  "account": "idlytech",
+  "media_id": "18101208245668331",
+  "permalink": "https://www.instagram.com/p/DfpZtOaF61d/",
+  "posted_at": "2026-11-12T15:41:37+00:00",
+  "date": "2026-11-12",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/idlytech-nvidia-huang-resigns/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/idlytech-nvidia-huang-resigns/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/idlytech-nvidia-huang-resigns/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/idlytech-nvidia-huang-resigns/04.jpg"
+  ],
+  "score_total": 12,
+  "story": {
+    "status": "none"
+  }
+}
