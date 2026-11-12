@@ -1,0 +1,46 @@
+{
+ "acct": "idlyhype",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "Nike SNKRS",
+  "Sneaker Files",
+  "Just Fresh Kicks"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "₹10,295 Nike SB AF1 Undercuts US Price",
+   "photo": "_work/2026-11-13-hourly-0127/idlyhype/frame-sbnavy1/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.06
+  },
+  {
+   "type": "detail",
+   "stat": "$120",
+   "stat_label": "Nike SB Air Force 1's US Price",
+   "bullets": [
+    "About ₹11,280 at 12 Nov rates, before sales tax",
+    "Superkicks' India price already includes GST",
+    "So India pays about ₹1,000 less"
+   ],
+   "credit_line": "Sources: Nike SNKRS, Superkicks, ECB, ExchangeRate-API"
+  },
+  {
+   "type": "detail",
+   "stat": "17 NOV",
+   "stat_label": "Nike SB Air Force 1 on Superkicks",
+   "bullets": [
+    "Same date as Nike's US launch",
+    "Only UK sizes 7 to 11 listed",
+    "Check style code HM8517-400 before paying"
+   ],
+   "credit_line": "Sources: Superkicks, Nike SNKRS, Sneaker Files"
+  }
+ ],
+ "slug": "idlyhype-0127-nike-sb-af1-india"
+}

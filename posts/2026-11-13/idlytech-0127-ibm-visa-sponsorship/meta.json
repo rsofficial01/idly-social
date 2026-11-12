@@ -1,0 +1,111 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "Reference-led story (Reuters/Bloomberg, 10-11 Nov 2026); idly.news has no article on it (checked the API's latest 150 articles).",
+ "format": "news",
+ "title": "IBM ends US visa and green card sponsorship for most IBM Consulting roles (Reuters, Bloomberg, Al Jazeera, 10-11 Nov 2026); affected staff can work for IBM outside the US or leave by end-2026 per an internal document seen by Bloomberg; IBM hasn't said how many are affected; India angle: 72% of approved H-1B petitions in FY2023 were for India-born workers (USCIS)",
+ "sources": [
+  {
+   "outlet": "Reuters (via ThePrint)",
+   "date": "2026-11-11",
+   "url": "https://theprint.in/world/ibm-ends-us-visa-green-card-sponsorship-for-most-consulting-roles/3095770/"
+  },
+  {
+   "outlet": "Reuters (via The Daily Guardian)",
+   "date": "2026-11-10",
+   "url": "https://thedailyguardian.com/news/science-tech/ibm-to-end-visa-green-card-sponsorship-for-most-roles-in-its-consulting-arm-773550/"
+  },
+  {
+   "outlet": "Bloomberg (via The Edge Malaysia)",
+   "date": "2026-11-11",
+   "url": "https://theedgemalaysia.com/node/825225"
+  },
+  {
+   "outlet": "Al Jazeera",
+   "date": "2026-11-10",
+   "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships"
+  },
+  {
+   "outlet": "The Week",
+   "date": "2026-11-11",
+   "url": "https://www.theweek.in/news/biz-tech/2026/11/11/relocate-or-leave-ibm-tells-workers-as-it-halts-us-green-card-sponsorship.html"
+  },
+  {
+   "outlet": "Deccan Herald",
+   "date": "2026-11-11",
+   "url": "https://www.deccanherald.com/business/jobs-and-careers/ibm-to-end-h-1b-green-card-sponsorship-for-most-consulting-roles-who-will-be-affected-and-how-4214532"
+  },
+  {
+   "outlet": "USCIS, Characteristics of H-1B Specialty Occupation Workers FY2023 (govinfo.gov copy; uscis.gov copy returned 403)",
+   "date": "2024-03-06",
+   "url": "https://www.govinfo.gov/content/pkg/CMR-HS8-00193273/pdf/CMR-HS8-00193273.pdf"
+  },
+  {
+   "outlet": "Congressional Research Service IF12912",
+   "date": "2025-02-18",
+   "url": "https://www.everycrsreport.com/reports/IF12912.html"
+  }
+ ],
+ "fact_sources": {
+  "IBM is ending US visa and green card sponsorship for most (the majority of) roles in IBM Consulting, its largest division": [
+   "https://theprint.in/world/ibm-ends-us-visa-green-card-sponsorship-for-most-consulting-roles/3095770/",
+   "https://theedgemalaysia.com/node/825225",
+   "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships"
+  ],
+  "IBM Consulting employs more than 150,000 people": [
+   "https://theprint.in/world/ibm-ends-us-visa-green-card-sponsorship-for-most-consulting-roles/3095770/",
+   "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/relocate-or-leave-ibm-tells-workers-as-it-halts-us-green-card-sponsorship.html"
+  ],
+  "A spokesperson told Reuters IBM's use of high-skilled visa programmes had been declining for years; decision came as skill availability and client needs changed": [
+   "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/relocate-or-leave-ibm-tells-workers-as-it-halts-us-green-card-sponsorship.html",
+   "https://theedgemalaysia.com/node/825225"
+  ],
+  "Affected employees can keep working for IBM outside the US or leave by the end of 2026, per an internal IBM document seen by Bloomberg": [
+   "https://theedgemalaysia.com/node/825225",
+   "https://theprint.in/world/ibm-ends-us-visa-green-card-sponsorship-for-most-consulting-roles/3095770/",
+   "https://www.deccanherald.com/business/jobs-and-careers/ibm-to-end-h-1b-green-card-sponsorship-for-most-consulting-roles-who-will-be-affected-and-how-4214532"
+  ],
+  "IBM hasn't said how many people are affected": [
+   "https://www.deccanherald.com/business/jobs-and-careers/ibm-to-end-h-1b-green-card-sponsorship-for-most-consulting-roles-who-will-be-affected-and-how-4214532",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/relocate-or-leave-ibm-tells-workers-as-it-halts-us-green-card-sponsorship.html"
+  ],
+  "72% of H-1B petitions approved in FY2023 were for workers born in India (USCIS)": [
+   "https://www.govinfo.gov/content/pkg/CMR-HS8-00193273/pdf/CMR-HS8-00193273.pdf",
+   "https://www.everycrsreport.com/reports/IF12912.html"
+  ],
+  "IBM had 1,611 H-1B petitions approved in fiscal 2026 (USCIS data)": [
+   "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships",
+   "https://www.theweek.in/news/biz-tech/2026/11/11/relocate-or-leave-ibm-tells-workers-as-it-halts-us-green-card-sponsorship.html"
+  ],
+  "In October 2026 the US suspended TCS, Infosys, Cognizant, Microsoft and Adobe from the Permanent Labor Certification (employer green card) process": [
+   "https://theprint.in/world/ibm-ends-us-visa-green-card-sponsorship-for-most-consulting-roles/3095770/",
+   "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships"
+  ]
+ },
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ibmcorporateheadquartersentrance.jpg/1920px-Ibmcorporateheadquartersentrance.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ibmcorporateheadquartersentrance.jpg",
+  "licence": "CC BY-SA 3.0 (also GFDL 1.2+)",
+  "author": "Coolcaesar (English Wikipedia user), uploaded to Commons 3 Nov 2007 by Hnc197",
+  "credit": "Photo: Coolcaesar / Wikimedia Commons, CC BY-SA 3.0",
+  "subject": "IBM Corporate Headquarters employee-entrance sign, Armonk, New York (photo undated, uploaded 2007)",
+  "size": "original 3072x2304; used the Commons 1920x1440 rendition (_work/2026-11-13-hourly-0127/idlytech/img/ibm_21.jpg)",
+  "faces": 0,
+  "framing": {
+   "ok": true,
+   "photo": "_work/2026-11-13-hourly-0127/idlytech/frame/ibm_21/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.94,
+   "faces": 0
+  },
+  "viewed": true
+ },
+ "tags": []
+}

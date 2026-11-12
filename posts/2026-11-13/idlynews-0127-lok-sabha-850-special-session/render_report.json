@@ -1,0 +1,80 @@
+[
+ {
+  "size": 92,
+  "lines": 3,
+  "overflow": false,
+  "top": 974,
+  "credit_line": "Photo: Ministry of Parliamentary Affairs / PIB, GODL-India",
+  "slug": "idlynews-0127-lok-sabha-850-special-session",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/01.jpg",
+  "scale": 1.127
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, The Hindu, The South First, Outlook",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0127-lok-sabha-850-special-session",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0127-lok-sabha-850-special-session",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle, Outlook",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0127-lok-sabha-850-special-session",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/04.jpg",
+  "scale": null
+ }
+]

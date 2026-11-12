@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "date": "13 Nov 2026",
+ "sources": [
+  "PTI",
+  "The Hindu",
+  "Deccan Chronicle",
+  "Outlook"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Centre Eyes Special Session: Lok Sabha Could Reach 850 Seats",
+   "photo": "_work/2026-11-13-hourly-0127/idlynews/frame2/cover_source.png",
+   "photo_credit": "Photo: Ministry of Parliamentary Affairs / PIB, GODL-India",
+   "focal": [
+    0.56,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "15+",
+   "stat_label": "Lok Sabha Bill: Extra Votes Government Sources Claim",
+   "bullets": [
+    "Bill needs two-thirds of MPs present and voting",
+    "17 April attempt failed 298-230",
+    "Congress says the bill will fail again"
+   ],
+   "credit_line": "Sources: PTI, The Hindu, The South First, Outlook"
+  },
+  {
+   "type": "detail",
+   "stat": "+50%",
+   "stat_label": "Lok Sabha Seats Per State in Draft Formula",
+   "bullets": [
+    "Keeps each state's 1971 Census share of seats",
+    "Aimed at southern states' concerns, sources say",
+    "Not final yet, government sources say"
+   ],
+   "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle"
+  },
+  {
+   "type": "detail",
+   "stat": "2 DAYS",
+   "stat_label": "Notice Needed to Recall Parliament for the Bill",
+   "bullets": [
+    "Monsoon Session never closed, so recall can be quick",
+    "Fresh session needs 14 days; no date set",
+    "Goal: 33% women's quota before the 2029 polls"
+   ],
+   "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle, Outlook"
+  }
+ ],
+ "slug": "idlynews-0127-lok-sabha-850-special-session"
+}

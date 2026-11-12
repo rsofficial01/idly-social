@@ -1,0 +1,58 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Photo: Coolcaesar / Wikimedia Commons, CC BY-SA 3.0",
+  "slug": "idlytech-0127-ibm-visa-sponsorship",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/01.jpg",
+  "scale": 0.938
+ },
+ {
+  "stat": 164,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bloomberg (internal IBM document), Reuters, The Week",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0127-ibm-visa-sponsorship",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: USCIS, CRS, Al Jazeera, Reuters, The Week",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0127-ibm-visa-sponsorship",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/03.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,46 @@
+{
+ "acct": "idlytech",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Reuters",
+  "Bloomberg",
+  "Al Jazeera",
+  "The Week",
+  "USCIS"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IBM Consulting Ends Most US Visa and Green Card Sponsorship",
+   "photo": "_work/2026-11-13-hourly-0127/idlytech/frame/ibm_21/cover_source.png",
+   "photo_credit": "Photo: Coolcaesar / Wikimedia Commons, CC BY-SA 3.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "2 OPTIONS",
+   "stat_label": "For IBM Consulting Visa Staff, Bloomberg Reports",
+   "bullets": [
+    "Keep working for IBM, but outside the US",
+    "Or leave IBM by the end of 2026",
+    "IBM hasn't said how many people this hits"
+   ],
+   "credit_line": "Sources: Bloomberg (internal IBM document), Reuters, The Week"
+  },
+  {
+   "type": "detail",
+   "stat": "72%",
+   "stat_label": "India-Born Share of US H-1B Approvals, FY2023",
+   "bullets": [
+    "IBM got 1,611 H-1B approvals in fiscal 2026",
+    "October: US suspended TCS, Infosys from green card process"
+   ],
+   "credit_line": "Sources: USCIS, CRS, Al Jazeera, Reuters, The Week"
+  }
+ ],
+ "slug": "idlytech-0127-ibm-visa-sponsorship"
+}
