@@ -1,0 +1,31 @@
+{
+  "slug": "2026-11-12-tvk-promises",
+  "account": "idlynews",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "headline": "TVK Has Kept 2 of 16 Promises. The Costliest, ₹2,500 for Women, Has No Date.",
+  "title": "Seven-slide data carousel: TVK's 16-promise scorecard at six months, its first big spend against earlier governments, the DMK's 2021 record, where its promises came from, what is still owed, and idly's verdict.",
+  "caption": "Six months in, TVK has kept 2 of its 16 headline promises, and one of those is disputed in scope.\n\nOur reading: relief you can see came first, and the promise that needs new money has not. TVK committed first to a ₹9,063 crore crop loan waiver, of which ₹6,220 crore is released, free power raised to 200 units a bill, and wider free buses for women. Every new government since 2011 made one costly early move. Nine of TVK's promises reuse or enlarge older schemes, five from Tamil Nadu's own parties and four from other states. The four it has not started are monthly cash and jobs, led by ₹2,500 for women.\n\nSlide 6 lists the five promises still owed and what is known about each. The DMK counted about 389 of its own 505 promises done; a rival counted 66.\n\nIf ₹2,500 arrived next month, which bill would it pay first in your home?\n\nSources: budget speeches, PRS, South First, TNM, DT Next, Deccan Herald, The Hindu, IANS.\n\n#TamilNadu #TVK #DMK #AIADMK #TNPolitics\n\nPhoto: L.vivian.richard / Wikimedia Commons, public domain",
+  "caption_final": "Six months in, TVK has kept 2 of its 16 headline promises, and one of those is disputed in scope.\n\nOur reading: relief you can see came first, and the promise that needs new money has not. TVK committed first to a ₹9,063 crore crop loan waiver, of which ₹6,220 crore is released, free power raised to 200 units a bill, and wider free buses for women. Every new government since 2011 made one costly early move. Nine of TVK's promises reuse or enlarge older schemes, five from Tamil Nadu's own parties and four from other states. The four it has not started are monthly cash and jobs, led by ₹2,500 for women.\n\nSlide 6 lists the five promises still owed and what is known about each. The DMK counted about 389 of its own 505 promises done; a rival counted 66.\n\nIf ₹2,500 arrived next month, which bill would it pay first in your home?\n\nSources: budget speeches, PRS, South First, TNM, DT Next, Deccan Herald, The Hindu, IANS.\n\n#TamilNadu #TVK #DMK #AIADMK #TNPolitics\n\nPhoto: L.vivian.richard / Wikimedia Commons, public domain",
+  "alt_text": "Seven-slide data carousel: TVK's 16-promise scorecard at six months, its first big spend against earlier governments, the DMK's 2021 record, where its promises came from, what is still owed, and idly's verdict.",
+  "image_credit": "Photo: L.vivian.richard / Wikimedia Commons, public domain",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 1,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 1,
+      "total": 12,
+      "notes": "Maker: read 1 because the waiver and Rs 2,500 figures recur across slides; alone 1 because slide 6's five owed items use different labels from slide 2's scorecard."
+    }
+  },
+  "created_at": "2026-11-12T02:52:53+00:00",
+  "lane": {
+    "source": "prebuilt",
+    "folder": "posts/2026-11-12/tvk-promises"
+  }
+}

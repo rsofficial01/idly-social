@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-12-tvk-promises",
+  "reviewer": {
+    "hook": 2,
+    "read": 1,
+    "send": 2,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 1,
+    "total": 12,
+    "notes": "Reviewer (blind): read 1: same figures repeat (Rs 9,063/6,220 crore on 3, 6, 7; Rs 2,500 on five slides). alone 1: slide 6's 'five owed' doesn't match slide 2's categories. Stance judged fair."
+  },
+  "reviewed_at": "2026-11-12T02:52:54+00:00",
+  "reviewed_by": "claude reviewer (blind, fresh agent)",
+  "notes": "",
+  "story": false
+}
