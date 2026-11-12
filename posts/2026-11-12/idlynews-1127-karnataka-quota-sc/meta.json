@@ -1,0 +1,114 @@
+{
+ "account": "idlynews",
+ "title": "Karnataka files a Special Leave Petition in the Supreme Court (CMO statement Wed 11 Nov 2026) against the Karnataka High Court's 12 Oct 2026 verdict (CJ Vibhu Bakhru, Justice K.S. Hemalekha) striking down the 2022 Act's SC 15%->17% and ST 3%->7% quota hike (total 50%->56%; OBC 32%): 50% ceiling breached; no prior consultation with National Commissions for SC/ST; 56,432 posts cleared Feb 2026 with an extra 6% of SC/ST posts held in backlog; Assembly Ninth Schedule resolution 18 Dec 2025; Centre deferred 25 Jul 2026; no SC hearing date reported",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on Karnataka's Supreme Court appeal over the SC/ST quota in the API feed (latest articles checked 12 Nov 2026, ~11:35 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ThePrint (PTI)",
+   "date": "11 Nov 2026 21:45 IST",
+   "url": "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/"
+  },
+  {
+   "outlet": "The Morung Express (IANS)",
+   "date": "11 Nov 2026",
+   "url": "https://www.morungexpress.com/karnataka-govt-moves-sc-against-hc-verdict-quashing-scst-reservation-hike-lead"
+  },
+  {
+   "outlet": "The News Minute",
+   "date": "12 Nov 2026 05:13 IST",
+   "url": "https://www.thenewsminute.com/karnataka/karnataka-moves-supreme-court-to-restore-enhanced-scst-quota-struck-down-by-hc"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "12 Oct 2026 20:34 IST",
+   "url": "https://www.barandbench.com/amp/story/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap"
+  },
+  {
+   "outlet": "The News Minute (HC verdict)",
+   "date": "13 Oct 2026 07:05 IST",
+   "url": "https://www.thenewsminute.com/karnataka/karnataka-hc-strikes-down-56-reservation-says-scst-quota-hike-breaches-50-cap"
+  },
+  {
+   "outlet": "NewsKarnataka (HC verdict)",
+   "date": "13 Oct 2026",
+   "url": "https://newskarnataka.com/india/karnataka-high-court-strikes-down-sc-st-quota-hike/13102026/"
+  },
+  {
+   "outlet": "The News Minute (TN 69% explainer)",
+   "date": "n/a",
+   "url": "https://www.thenewsminute.com/tamil-nadu/how-tamil-nadu-s-reservation-stands-69-despite-50-quota-cap-146116"
+  },
+  {
+   "outlet": "Constitution (Seventy-sixth Amendment) Act, 1994 (text)",
+   "date": "1994",
+   "url": "https://constitutionofindia.yolasite.com/76th-amendment.php"
+  }
+ ],
+ "fact_sources": {
+  "SLP filed in SC against Karnataka HC verdict; SC 15->17%, ST 3->7%; CMO statement Wed 11 Nov": [
+   "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/",
+   "https://www.morungexpress.com/karnataka-govt-moves-sc-against-hc-verdict-quashing-scst-reservation-hike-lead",
+   "https://www.thenewsminute.com/karnataka/karnataka-moves-supreme-court-to-restore-enhanced-scst-quota-struck-down-by-hc"
+  ],
+  "OBC 32% unchanged; total 50%->56%; 2022 Act": [
+   "https://www.thenewsminute.com/karnataka/karnataka-moves-supreme-court-to-restore-enhanced-scst-quota-struck-down-by-hc",
+   "https://www.barandbench.com/amp/story/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap"
+  ],
+  "Verdict Mon 12 Oct 2026, bench CJ Vibhu Bakhru + Justice K.S. Hemalekha; breached 50% ceiling; under-representation does not allow crossing it": [
+   "https://www.barandbench.com/amp/story/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap",
+   "https://www.thenewsminute.com/karnataka/karnataka-hc-strikes-down-56-reservation-says-scst-quota-hike-breaches-50-cap",
+   "https://newskarnataka.com/india/karnataka-high-court-strikes-down-sc-st-quota-hike/13102026/"
+  ],
+  "Consultation with National Commissions for SC/ST mandatory; letters ~3 years after enactment did not satisfy it": [
+   "https://www.barandbench.com/amp/story/news/litigation/karnataka-high-court-strikes-down-law-enhancing-scst-reservation-as-total-quota-exceeds-50-cap",
+   "https://www.thenewsminute.com/karnataka/karnataka-hc-strikes-down-56-reservation-says-scst-quota-hike-breaches-50-cap",
+   "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/",
+   "https://www.morungexpress.com/karnataka-govt-moves-sc-against-hc-verdict-quashing-scst-reservation-hike-lead"
+  ],
+  "Feb 2026: 56,432 posts approved; additional 6% of SC/ST posts kept in backlog pending the court's verdict": [
+   "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/",
+   "https://www.morungexpress.com/karnataka-govt-moves-sc-against-hc-verdict-quashing-scst-reservation-hike-lead",
+   "https://www.thenewsminute.com/karnataka/karnataka-moves-supreme-court-to-restore-enhanced-scst-quota-struck-down-by-hc"
+  ],
+  "Assembly Ninth Schedule resolution 18 Dec 2025; Centre told Parliament 25 Jul 2026 it would defer; state calls Ninth Schedule the only permanent safeguard": [
+   "https://theprint.in/india/karnataka-moves-supreme-court-against-hc-verdict-quashing-sc-st-quota-hike/3096426/",
+   "https://www.morungexpress.com/karnataka-govt-moves-sc-against-hc-verdict-quashing-scst-reservation-hike-lead",
+   "https://www.thenewsminute.com/karnataka/karnataka-moves-supreme-court-to-restore-enhanced-scst-quota-struck-down-by-hc"
+  ],
+  "Tamil Nadu's 69% reservation law placed in the Ninth Schedule by the 76th Amendment, 1994 (item 257A; TN Act 45 of 1994)": [
+   "https://www.thenewsminute.com/tamil-nadu/how-tamil-nadu-s-reservation-stands-69-despite-50-quota-cap-146116",
+   "https://constitutionofindia.yolasite.com/76th-amendment.php"
+  ]
+ },
+ "photo_source": {
+  "page": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-qI97C620KMg",
+  "file_url": "https://images.unsplash.com/photo-1588416936097-41850ab3d86d",
+  "licence": "Unsplash License (free; not Unsplash+)",
+  "author": "Arif Khan (https://unsplash.com/@passiondroid)",
+  "location": "Vidhana Soudha Layout, Bengaluru (per the Unsplash page; tags vidhana soudha, cubbon park, bengaluru)",
+  "orig_size": "4032x3024",
+  "width": 4032,
+  "height": 3024,
+  "viewed": true,
+  "faces": 0,
+  "credit": "Photo: Arif Khan / Unsplash, Unsplash License"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.45,
+  "note": "centre 4:5 crop of full height, downscaled; no enlargement"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is from an individual Unsplash photographer (people are never tagged); no brand or official owner.",
+ "baseline": "Not a Tamil Nadu story; check_caption flagged TN items because of the 69% precedent line; baseline check run, exit 0, no STOP; the TN line is sourced from TNM and the 76th Amendment text.",
+ "commons_attempt": "Commons API returned 429 (retry-after 15); honoured once, the retry returned an empty body; not retried further; used Unsplash instead."
+}

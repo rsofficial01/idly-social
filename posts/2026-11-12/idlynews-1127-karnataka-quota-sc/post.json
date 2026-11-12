@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1127-karnataka-quota-sc",
+ "date": "12 Nov 2026",
+ "sources": [
+  "PTI",
+  "IANS",
+  "The News Minute",
+  "Bar & Bench"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Karnataka Asks Supreme Court to Revive Its Struck-Down 56% Quota",
+   "photo": "_work/2026-11-12-hourly-1127/idlynews/framing/cover_source.png",
+   "photo_credit": "Photo: Arif Khan / Unsplash",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "12 OCT",
+   "stat_label": "Why Karnataka High Court Struck Down the Quota",
+   "bullets": [
+    "SC quota 15% to 17%, ST quota 3% to 7%",
+    "Court said the rise breached the 50% ceiling",
+    "No prior consultation with national SC, ST commissions"
+   ],
+   "credit_line": "Sources: Bar & Bench, The News Minute, PTI, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "56,432",
+   "stat_label": "Govt Posts Karnataka Cleared for Hiring in February",
+   "bullets": [
+    "An extra 6% of SC/ST posts held back",
+    "They wait on the court's verdict, state says"
+   ],
+   "credit_line": "Sources: PTI, IANS, The News Minute"
+  },
+  {
+   "type": "detail",
+   "stat": "25 JUL 2026",
+   "stat_label": "Centre Deferred Karnataka's Ninth Schedule Request",
+   "bullets": [
+    "Assembly sought Ninth Schedule cover on 18 Dec 2025",
+    "State calls it the only lasting legal safeguard",
+    "No Supreme Court hearing date reported yet"
+   ],
+   "credit_line": "Sources: PTI, IANS, The News Minute"
+  }
+ ]
+}
