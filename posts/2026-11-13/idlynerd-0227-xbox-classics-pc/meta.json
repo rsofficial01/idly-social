@@ -1,0 +1,112 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Xbox Backward Compatibility on PC; built from Xbox Wire (12 Nov and 22 Jul 2026), Windows Central and the Microsoft Store India listings.",
+ "format": "news",
+ "title": "Xbox (12 Nov 2026): 21 more original Xbox games join Xbox Backward Compatibility on PC (library now 25), incl. KOTOR I and II, Battlefront I and II, TimeSplitters 2, Morrowind; Windows 11; Microsoft Store India prices on 13 Nov: KOTOR ₹499, TimeSplitters 2 ₹549, Morrowind ₹699; console digital licences carry over (Xbox).",
+ "sources": [
+  {
+   "outlet": "Xbox Wire (Jason Ronald)",
+   "date": "2026-11-12",
+   "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/"
+  },
+  {
+   "outlet": "Xbox Wire (launch post)",
+   "date": "2026-07-22",
+   "url": "https://news.xbox.com/en-us/2026/07/22/xbox-backward-compatibility-on-pc/"
+  },
+  {
+   "outlet": "Windows Central",
+   "date": "2026-11-12",
+   "url": "https://www.windowscentral.com/gaming/xbox/xbox-adds-more-og-console-games-to-pc-including-knights-of-the-old-republic-now-with-achievements"
+  },
+  {
+   "outlet": "Playday",
+   "date": "2026-11-12",
+   "url": "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
+  },
+  {
+   "outlet": "Microsoft Store India: Star Wars: Knights of the Old Republic (Microsoft Store India price, 13 Nov)",
+   "date": "2026-11-13",
+   "url": "https://www.xbox.com/en-IN/games/store/STAR-WARS-Knights-of-the-Old-Republic/BS8LFD7729CL"
+  },
+  {
+   "outlet": "Microsoft Store India: TimeSplitters 2 (Microsoft Store India price, 13 Nov)",
+   "date": "2026-11-13",
+   "url": "https://www.xbox.com/en-IN/games/store/timesplitters-2/9njbx726m8j9"
+  },
+  {
+   "outlet": "Microsoft Store India: The Elder Scrolls III: Morrowind (Microsoft Store India price, 13 Nov)",
+   "date": "2026-11-13",
+   "url": "https://www.xbox.com/en-IN/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17"
+  }
+ ],
+ "fact_sources": {
+  "21 more original Xbox games added to Xbox Backward Compatibility on PC on 12 Nov; library now 25 games; tied to Xbox's 25th anniversary": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://www.windowscentral.com/gaming/xbox/xbox-adds-more-og-console-games-to-pc-including-knights-of-the-old-republic-now-with-achievements",
+   "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
+  ],
+  "Titles include KOTOR I and II, Star Wars Battlefront and Battlefront II, Jedi Academy, Republic Commando, TimeSplitters 2, Morrowind, Grabbed by the Ghoulies": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
+  ],
+  "KOTOR is among them and gains achievements": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://www.windowscentral.com/gaming/xbox/xbox-adds-more-og-console-games-to-pc-including-knights-of-the-old-republic-now-with-achievements"
+  ],
+  "Achievements for KOTOR, KOTOR II, BLiNX and Conker, which also work on Xbox One and Series consoles": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://playday.one/2026/11/12/xbox-brings-25-original-xbox-games-to-pc-achievements-added-to-classic-titles/"
+  ],
+  "Requires Windows 11; select markets only": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/"
+  ],
+  "Minimum GTX 950-class GPU (or RX 550 / Arc A310) and 8 GB RAM": [
+   "https://news.xbox.com/en-us/2026/07/22/xbox-backward-compatibility-on-pc/"
+  ],
+  "A digital licence you already own on console carries over to PC (Xbox's claim)": [
+   "https://news.xbox.com/en-us/2026/07/22/xbox-backward-compatibility-on-pc/"
+  ],
+  "Morrowind and Grabbed by the Ghoulies are in Game Pass": [
+   "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+   "https://www.xbox.com/en-IN/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17"
+  ],
+  "KOTOR ₹499 (Microsoft Store India price, 13 Nov; PC listed)": [
+   "https://www.xbox.com/en-IN/games/store/STAR-WARS-Knights-of-the-Old-Republic/BS8LFD7729CL"
+  ],
+  "TimeSplitters 2 ₹549 (Microsoft Store India price, 13 Nov; PC listed)": [
+   "https://www.xbox.com/en-IN/games/store/timesplitters-2/9njbx726m8j9"
+  ],
+  "Morrowind ₹699 (Microsoft Store India price, 13 Nov; PC listed; Game Pass Premium, PC and Ultimate)": [
+   "https://www.xbox.com/en-IN/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17"
+  ]
+ },
+ "price_check": "Each ₹ figure re-checked live on its own en-IN store page at build, 13 Nov ~03:2x IST. Battlefront II (₹499) was cut: its en-IN page lists only Xbox One and Series X|S, not PC.",
+ "image": {
+  "url": "https://store-images.s-microsoft.com/image/apps.44690.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.eea1eec7-7361-48c9-bbce-ac54d9d26b50",
+  "page": "https://www.xbox.com/en-IN/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17",
+  "licence": "Official publisher promotional art (Bethesda Softworks' Microsoft Store hero art), credited; not a news outlet, no watermark",
+  "author": "Bethesda Softworks",
+  "credit": "Image: Bethesda Softworks",
+  "size": "1920x1080 (framed to 1080x1350, upscale 1.25x)",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0227/idlynerd/img/morrowind-hero.jpg",
+  "subject": "The Elder Scrolls III: Morrowind official key art: fog-wrapped stone towers, no characters; the burned-in Morrowind logo (bottom right of the source) is outside the 4:5 crop",
+  "framing": {
+   "photo": "_work/2026-11-13-hourly-0227/idlynerd/frame-2/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.25,
+   "faces": 0,
+   "note": "enlarged and sharpened"
+  }
+ },
+ "tags": [],
+ "tags_evidence": "No tag: bethesda.net (home page, checked 13 Nov) links no Instagram account, so @bethesda could not be confirmed on Bethesda's own site (G1 condition 9)."
+}
