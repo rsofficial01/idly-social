@@ -1,0 +1,161 @@
+{
+ "account": "idlytech",
+ "title": "vivo launches the X500, X500 Pro and X500 Pro Max in India on Thu 26 Nov 2026 at 12 PM IST (confirmed by vivo India, 12 Nov); Pro Max: 7,800mAh typical (7,605mAh rated) battery, 200MP ZEISS APO telephoto (85 mm, 15 cm macro), 6.85-inch; Pro: 6,510mAh typical, 64MP telephoto, 6.36-inch; Dimensity 9600 Pro; 90W wired, 40W wireless with a vivo/iQOO wireless charger; 400 mm ZEISS extender for the Pro Max sold separately; India prices not announced; last year's X300 Pro launched in India on 2 Dec 2025 at ₹1,09,999 (X300 from ₹75,999)",
+ "story_id": 2089,
+ "idly_article": true,
+ "no_idly_article_reason": null,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "vivo India (official X500 launch page)",
+   "date": "12 Nov 2026",
+   "url": "https://www.vivo.com/in/activity/x500-series-launch"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "12 Nov 2026",
+   "url": "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12"
+  },
+  {
+   "outlet": "FoneArena",
+   "date": "12 Nov 2026",
+   "url": "https://www.fonearena.com/blog/496915/vivo-x500-series-india-launch-date.html"
+  },
+  {
+   "outlet": "My Mobile India",
+   "date": "12 Nov 2026",
+   "url": "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
+  },
+  {
+   "outlet": "Business Today (X300 sale)",
+   "date": "10 Dec 2025",
+   "url": "https://www.businesstoday.in/technology/news/story/vivo-x300-and-x300-pro-sale-begins-in-india-check-prices-and-offers-506069-2025-12-10"
+  },
+  {
+   "outlet": "Business Today (X300 launch)",
+   "date": "2 Dec 2025",
+   "url": "https://www.businesstoday.in/technology/news/story/vivo-x300-series-launched-in-india-with-zeiss-imaging-and-originos-6-504659-2025-12-02"
+  },
+  {
+   "outlet": "TelecomTalk",
+   "date": "Dec 2025",
+   "url": "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/"
+  },
+  {
+   "outlet": "91mobiles",
+   "date": "Dec 2025",
+   "url": "https://www.91mobiles.com/hub/vivo-x300-pro-launched-india-originos-6-upgraded-cameras-price-specifications/"
+  },
+  {
+   "outlet": "GSMArena (X500 Pro Max specs)",
+   "date": "Nov 2026",
+   "url": "https://m.gsmarena.com/_x500_pro_max_5g-14782.php"
+  }
+ ],
+ "fact_sources": {
+  "India launch 26 Nov 2026, 12 PM IST; X500, X500 Pro, X500 Pro Max": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/",
+   "https://www.fonearena.com/blog/496915/vivo-x500-series-india-launch-date.html"
+  ],
+  "Pro Max 7,800mAh typical, 7,605mAh rated": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://m.gsmarena.com/_x500_pro_max_5g-14782.php"
+  ],
+  "X500 Pro 6,510mAh typical, 6.36-inch; Pro Max 6.85-inch": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
+  ],
+  "90W wired; 40W wireless needs a vivo/iQOO wireless charger": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12"
+  ],
+  "Dimensity 9600 Pro": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
+  ],
+  "Pro Max 200MP ZEISS APO telephoto, 85 mm, 15 cm macro": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.photoworkout.com/vivo-x500-pro-max-zeiss-zoom/",
+   "https://www.digitalcameraworld.com/tech/android-phones/vivo-x500-pro-max-review"
+  ],
+  "X500 Pro 64MP telephoto": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12"
+  ],
+  "400 mm ZEISS Telephoto Extender Gen 2 Ultra sold separately": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
+  ],
+  "India prices not announced": [
+   "https://www.vivo.com/in/activity/x500-series-launch",
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://www.fonearena.com/blog/496915/vivo-x500-series-india-launch-date.html"
+  ],
+  "X300 Pro India launch 2 Dec 2025 at ₹1,09,999; X300 from ₹75,999": [
+   "https://www.businesstoday.in/technology/news/story/vivo-x300-and-x300-pro-sale-begins-in-india-check-prices-and-offers-506069-2025-12-10",
+   "https://www.businesstoday.in/technology/news/story/vivo-x300-series-launched-in-india-with-zeiss-imaging-and-originos-6-504659-2025-12-02",
+   "https://telecomtalk.info/vivo-x300-series-launched-in-india-price/1002168/",
+   "https://www.91mobiles.com/hub/vivo-x300-pro-launched-india-originos-6-upgraded-cameras-price-specifications/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.vivo.com/in/activity/x500-series-launch",
+  "file_url": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/activity/1794460172346/zip/img/x500-design-img1_2-mb-x2.jpg",
+  "licence": "vivo India official product image from the brand's own X500 launch page, credited (editorial use)",
+  "author": "vivo India",
+  "width": 1308,
+  "height": 1840,
+  "local": "_work/2026-11-12-hourly-1527/idlytech/dl/vivo/x500-design-img1_2-mb-x2.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: vivo India",
+  "subject": "Back of the Apex Orange vivo X500 Pro Max with its round ZEISS camera module, dark gradient background; no people, no overlaid text"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-12-hourly-1527/idlytech/frame-design-img1_2-mb/cover_source.png",
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "zoom_tool": 1.0,
+  "upscale": 0.83,
+  "faces": 0,
+  "focal_used": [
+   0.5,
+   0.0
+  ],
+  "zoom_used": 1.0,
+  "note": "cropped from the top so the logo sits on the dark background above the phone"
+ },
+ "tags": [
+  "vivo_india"
+ ],
+ "tags_evidence": "instagram.com/vivo_india: 'vivo India (@vivo_india)', 3M followers, 11K posts (fetched 12 Nov 2026); Qoruz https://qoruz.com/Vivo_India; HypeAuditor https://hypeauditor.com/instagram/vivo_india/; vivo.com/in footer links twitter.com/Vivo_India, facebook.com/vivoIndia (its Instagram icon links only to instagram.com/accounts/login/)",
+ "gates": {
+  "g1": {
+   "ruling": "_work/2026-11-12-hourly-1527/reviews/idlytech-g1-v1.md",
+   "outcome": "BUILD (vivo X500; Anthropic IPO and black mass DROP)"
+  },
+  "g2": {
+   "ruling": "_work/2026-11-12-hourly-1527/reviews/idlytech-g23-v1.md",
+   "outcome": "PASS"
+  },
+  "g3": {
+   "ruling": "_work/2026-11-12-hourly-1527/reviews/idlytech-g23-v1.md",
+   "outcome": "PASS (image and @vivo_india tag)"
+  },
+  "g4": {
+   "ruling": "_work/2026-11-12-hourly-1527/reviews/idlytech-g4-v1.md",
+   "outcome": "PASS 12/14"
+  }
+ }
+}

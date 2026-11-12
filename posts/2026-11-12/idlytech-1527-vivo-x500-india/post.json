@@ -1,0 +1,57 @@
+[
+ {
+  "acct": "idlytech",
+  "slug": "idlytech-1527-vivo-x500-india",
+  "date": "12 Nov 2026",
+  "sources": [
+   "vivo India",
+   "Business Today",
+   "FoneArena"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Vivo's 7,800mAh X500 Pro Max Comes To India 26 Nov",
+    "photo": "_work/2026-11-12-hourly-1527/idlytech/frame-design-img1_2-mb/cover_source.png",
+    "photo_credit": "Image: vivo India",
+    "focal": [
+     0.5,
+     0.0
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "6,510mAh",
+    "stat_label": "Typical Battery In The Smaller X500 Pro",
+    "bullets": [
+     "6.36-inch screen, against the Pro Max's 6.85-inch",
+     "vivo quotes typical figures; Pro Max is 7,605mAh rated",
+     "90W wired; 40W wireless needs a vivo/iQOO charger"
+    ],
+    "credit_line": "Sources: vivo India, Business Today"
+   },
+   {
+    "type": "detail",
+    "stat": "200MP",
+    "stat_label": "ZEISS Telephoto Camera On The Pro Max",
+    "bullets": [
+     "Shoots portraits at 85 mm, close-ups from 15 cm",
+     "The X500 Pro gets a 64MP telephoto instead",
+     "400 mm ZEISS extender kit sold separately"
+    ],
+    "credit_line": "Sources: vivo India, Business Today"
+   },
+   {
+    "type": "detail",
+    "stat": "₹1,09,999",
+    "stat_label": "Last Year's X300 Pro India Launch Price",
+    "bullets": [
+     "vivo hasn't announced X500 prices for India yet",
+     "X300 Pro launched 2 Dec 2025; X300 from ₹75,999"
+    ],
+    "credit_line": "Sources: Business Today, TelecomTalk, 91mobiles"
+   }
+  ]
+ }
+]
