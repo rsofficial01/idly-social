@@ -2216,5 +2216,20 @@
     "tagged": [
       "tombraider"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18655283458061534",
+    "permalink": "https://www.instagram.com/p/Dfn_PNZlEbx/",
+    "posted_at": "2026-11-12T02:31:03+00:00",
+    "date": "2026-11-12",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlytech-0727-nvidia-ouster-report/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlytech-0727-nvidia-ouster-report/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlytech-0727-nvidia-ouster-report/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
