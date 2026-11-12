@@ -1,0 +1,57 @@
+[
+ {
+  "acct": "idlytech",
+  "slug": "idlytech-1427-homeview-india",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Apple Newsroom India",
+   "Digit"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Apple HomeView Reaches India 13 Nov at ₹39,900",
+    "photo": "_work/2026-11-12-hourly-1427/idlytech/framing_living_full/cover_source.png",
+    "photo_credit": "Image: Apple",
+    "focal": [
+     0.49,
+     1.0
+    ],
+    "zoom": 1.38
+   },
+   {
+    "type": "detail",
+    "stat": "₹46,800",
+    "stat_label": "Wall-Mounted HomeView Plus Its Cheapest Mount",
+    "bullets": [
+     "idly's sum with the ₹6,900 USB-C wall mount",
+     "AC wired mount ₹8,900; PoE ₹14,900 in early 2027",
+     "Tabletop model needs no mount at the same price"
+    ],
+    "credit_line": "Sources: Apple Newsroom India, Digit"
+   },
+   {
+    "type": "detail",
+    "stat": "6",
+    "stat_label": "People One HomeView Recognises by Face",
+    "bullets": [
+     "Each person gets their own home screen",
+     "Needs a compatible iPhone or iPad to set up",
+     "Siri AI on it works in English in India"
+    ],
+    "credit_line": "Sources: Apple Newsroom India, Digit, News24"
+   },
+   {
+    "type": "detail",
+    "stat": "9",
+    "stat_label": "Camera Feeds HomeView Can Show at Once",
+    "bullets": [
+     "Controls Apple Home and Matter lights, locks, thermostats",
+     "7-inch screen on a speaker base, A18 chip",
+     "The same HomeView costs $299 in the US"
+    ],
+    "credit_line": "Sources: Apple Newsroom, MacRumors"
+   }
+  ]
+ }
+]

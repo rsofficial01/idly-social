@@ -1,0 +1,18 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlytech-1427-homeview-india/01.jpg",
+  "posts/2026-11-12/idlytech-1427-homeview-india/02.jpg",
+  "posts/2026-11-12/idlytech-1427-homeview-india/03.jpg",
+  "posts/2026-11-12/idlytech-1427-homeview-india/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlytech-1427-homeview-india/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlytech-1427-homeview-india/alt.txt",
+ "score_file": "posts/2026-11-12/idlytech-1427-homeview-india/score.json",
+ "title": "Apple HomeView (7-inch smart home display on a speaker base) goes on sale in India on Fri 13 Nov 2026 at ₹39,900 for both the tabletop and the wall-mounted model (pre-orders since 13 Oct); the wall model needs a Schneider Home mount sold separately: USB-C ₹6,900, AC wired ₹8,900, PoE ₹14,900 (early 2027), so at least ₹46,800 wall-mounted (idly's sum); recognises up to six people by face with their own home screen; up to nine camera feeds; controls Apple Home/Matter accessories; setup needs a compatible iPhone or iPad; Siri AI in English in India; A18 chip; $299 in the US",
+ "tags": [
+  "apple"
+ ]
+}

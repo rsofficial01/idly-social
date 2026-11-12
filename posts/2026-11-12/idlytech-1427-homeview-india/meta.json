@@ -1,0 +1,133 @@
+{
+ "account": "idlytech",
+ "title": "Apple HomeView (7-inch smart home display on a speaker base) goes on sale in India on Fri 13 Nov 2026 at ₹39,900 for both the tabletop and the wall-mounted model (pre-orders since 13 Oct); the wall model needs a Schneider Home mount sold separately: USB-C ₹6,900, AC wired ₹8,900, PoE ₹14,900 (early 2027), so at least ₹46,800 wall-mounted (idly's sum); recognises up to six people by face with their own home screen; up to nine camera feeds; controls Apple Home/Matter accessories; setup needs a compatible iPhone or iPad; Siri AI in English in India; A18 chip; $299 in the US",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Apple HomeView's India sale (checked the articles API, pages 1-5, 12 Nov 14:30 IST).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Apple Newsroom India (press release)",
+   "date": "13 Oct 2026",
+   "url": "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+  },
+  {
+   "outlet": "Apple Newsroom (US press release)",
+   "date": "13 Oct 2026",
+   "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+  },
+  {
+   "outlet": "Digit",
+   "date": "13 Oct 2026",
+   "url": "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html"
+  },
+  {
+   "outlet": "News24",
+   "date": "14 Oct 2026",
+   "url": "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/"
+  },
+  {
+   "outlet": "MacRumors (HomeView guide)",
+   "date": "updated Nov 2026",
+   "url": "https://www.macrumors.com/guide/apple-smart-home-display/"
+  }
+ ],
+ "fact_sources": {
+  "On sale in India from Fri 13 Nov 2026; pre-orders from 13 Oct": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ],
+  "₹39,900 for HomeView and HomeView (Wall Mounted)": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/"
+  ],
+  "Wall model mounts sold separately: USB-C ₹6,900, AC wired ₹8,900, PoE ₹14,900 early 2027": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html"
+  ],
+  "₹46,800 = ₹39,900 + ₹6,900 (idly's sum, labelled)": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html"
+  ],
+  "Tabletop model needs no mount": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html"
+  ],
+  "Recognises up to six people, each with their own home screen": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ],
+  "Setup needs a compatible iPhone or iPad": [
+   "https://www.digit.in/news/general/apple-announced-homeview-and-homepod-mini-2-check-india-price-availability-and-more.html",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ],
+  "Siri AI on HomeView in English in India": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/"
+  ],
+  "Up to nine camera feeds at once": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ],
+  "Controls Apple Home / HomeKit and Matter lights, locks, thermostats": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/"
+  ],
+  "7-inch screen on a speaker base; A18 chip": [
+   "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://news24online.com/tech/apple-homeview-launched-in-india-at-rs-39900-check-features-specifications-and-sale-date/942552/",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ],
+  "US price $299 for either model": [
+   "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "https://www.macrumors.com/guide/apple-smart-home-display/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.apple.com/in/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+  "file_url": "https://www.apple.com/newsroom/images/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/article/Media-of-Apple-HomeView-261013.zip (Apple-HomeView-lifestyle-living-room-261013.jpg)",
+  "licence": "Apple press image from Apple Newsroom (zip LEGAL_NOTICE: personal or editorial, non-commercial use), credited",
+  "author": "Apple",
+  "width": 3840,
+  "height": 2560,
+  "local": "_work/2026-11-12-hourly-1427/idlytech/zip_all/x/Apple-HomeView-lifestyle-living-room-261013.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Apple",
+  "subject": "Apple HomeView (tabletop) on a wooden sideboard in warm evening light, screen showing home controls; plant and dark glass jar; no people"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-12-hourly-1427/idlytech/framing_living_full/cover_source.png",
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "zoom_tool": 1.0,
+  "upscale": 0.53,
+  "faces": 0,
+  "focal_used": [
+   0.49,
+   1.0
+  ],
+  "zoom_used": 1.38,
+  "render_scale": 0.73,
+  "note": "crop flush with the photo's bottom edge and zoom 1.38 so the device sits higher and larger; G3 PASS on this"
+ },
+ "tags": [
+  "apple"
+ ],
+ "tags_evidence": "@apple is Apple's verified Instagram account: TechCrunch 7 Aug 2017 (https://techcrunch.com/2017/08/07/apple-has-an-official-instagram-account-showcasing-photos-shot-on-iphone/) and MacStories (https://www.macstories.net/news/apple-joins-instagram-highlights-photos-shot-on-iphone/); reviewer accepted at G3.",
+ "gates": {
+  "g1": "BUILD 1, ceiling 13 (idlytech-g1-v1)",
+  "g2": "FIX applied: slide 4 bullet 'Runs HomeKit…' → 'Controls Apple Home and Matter lights, locks, thermostats' (idlytech-g2-v1)",
+  "g3": "PASS Path A, focal [0.49,1.0], zoom 1.38; tag @apple OK (idlytech-g3-v1)",
+  "g4": "PASS 13/14 (idlytech-g4-v1; score file reviews/idlytech-g4-v1.score.json)"
+ }
+}
