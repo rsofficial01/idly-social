@@ -1,0 +1,129 @@
+{
+ "account": "idlytech",
+ "title": "Diwali 2026 phone sales in shops (AIMRA, reported 11-12 Nov 2026): offline smartphone unit sales down 18-20% YoY over Dhanteras (6 Nov) to 9 Nov; value roughly flat as average prices rose; week before Dhanteras down ~40%; most buying at ₹30,000-60,000; Realme offline volumes down 50%+; phones under ₹20,000 shipments down 47% in Jul-Sep (Counterpoint); makers preparing hikes of up to 15%; AIMRA expects offline volumes down as much as 50% over the next three months",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on AIMRA's Diwali phone-sales data (not in candidates.json at 18:30; idly API search 'smartphone' has nothing on it).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Inc42",
+   "date": "11 Nov 2026",
+   "url": "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/"
+  },
+  {
+   "outlet": "The Week",
+   "date": "12 Nov 2026",
+   "url": "https://www.theweek.in/news/biz-tech/2026/11/12/everyones-crazy-over-smartphones-so-why-are-sales-falling-in-india.html"
+  },
+  {
+   "outlet": "My Mobile India",
+   "date": "12 Nov 2026",
+   "url": "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  },
+  {
+   "outlet": "Lapaas Voice",
+   "date": "11 Nov 2026",
+   "url": "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  }
+ ],
+ "fact_sources": {
+  "Offline smartphone unit sales down 18-20% YoY over Diwali (AIMRA)": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/",
+   "https://www.theweek.in/news/biz-tech/2026/11/12/everyones-crazy-over-smartphones-so-why-are-sales-falling-in-india.html"
+  ],
+  "Four days, Dhanteras 6 Nov to 9 Nov": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "Spending/value roughly flat because the average phone cost more": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "Week before Dhanteras: shop sales down nearly 40%, buyers waiting for offers": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  ],
+  "Most purchases ₹30,000-60,000 after offers": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "Realme offline volumes down more than 50% (AIMRA)": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "Phones under ₹20,000: shipments down 47% in July-Sept (Counterpoint)": [
+   "https://www.theweek.in/news/biz-tech/2026/11/12/everyones-crazy-over-smartphones-so-why-are-sales-falling-in-india.html",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  ],
+  "Under-₹15,000 shoppers often left without buying or went pre-owned": [
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/",
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/"
+  ],
+  "AI data centres absorbing memory chips, pushing memory costs up": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.theweek.in/news/biz-tech/2026/11/12/everyones-crazy-over-smartphones-so-why-are-sales-falling-in-india.html",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  ],
+  "Phone makers preparing hikes of up to 15% / prices may rise a further 15%": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "AIMRA expects offline volumes down as much as 50% over the next three months": [
+   "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/"
+  ],
+  "Big chains that stocked up before price rises offered 12-15% off": [
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  ],
+  "About 60% of festive phone purchases financed": [
+   "https://www.mymobileindia.com/diwali-smartphone-sales-fall-20-as-rising-prices-hurt-demand/",
+   "https://lapaasvoice.com/smartphone-sales-volumes-slump-18-20-during-diwali-2026-amid-rising-prices/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://unsplash.com/photos/white-colonial-building-with-auto-rickshaw-passing-by-L9p84nEGuoU",
+  "file_url": "https://images.unsplash.com/photo-1778927910012-43904aded88a",
+  "licence": "Unsplash License (free; not Unsplash+)",
+  "author": "Soham Banerjee (https://unsplash.com/@soham1991)",
+  "width": 4000,
+  "height": 2667,
+  "local": "_work/2026-11-12-hourly-1828/idlytech/dl/unsplash_soham_samsung_cp.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Soham Banerjee / Unsplash",
+  "subject": "A Samsung store (an Indian phone shop) on the ground floor of a white colonnaded building in Delhi (Oxford Bookstore / Cha Bar / Apeejay Surrendra signs match Connaught Place N-block); no people; published on Unsplash 16 May 2026. Location not named on the card or in alt text (Unsplash page gives none)."
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-12-hourly-1828/idlytech/frame-samsung/cover_source.png",
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "zoom_tool": 1.0,
+  "upscale": 0.51,
+  "faces": 0,
+  "focal_used": [
+   0.4,
+   0.5
+  ],
+  "zoom_used": 1.0,
+  "render_scale": 0.51,
+  "note": "focal x 0.4 keeps the whole SAMSUNG fascia and colonnade in frame; logo on blue sky above the roofline; headline on the empty road; reviewer confirmed storefront between y~430 and ~790 at G23"
+ },
+ "tags": [],
+ "tags_evidence": "No tag: the cover is an individual photographer's Unsplash image, not a brand-owned image (reviewer agreed at G23 v1).",
+ "gates": {
+  "g1": "v1: #1 AIMRA Diwali phone sales conditional BUILD (ceiling 13, new image required); OpenAI India inference DROP; black-mass export ban DROP (_work/2026-11-12-hourly-1828/reviews/idlytech-g1-v1.md)",
+  "g2": "v1 FIX (headline 18-20% + shops, 15% bullet removed, UP TO 50%, pre-hike stock, financed, average phone) (_work/2026-11-12-hourly-1828/reviews/idlytech-g23-v1.md); v2 PASS (_work/2026-11-12-hourly-1828/reviews/idlytech-g23-v2.md)",
+  "g3": "PASS at g23 v1: Unsplash licence, faces 0, storefront clear of logo and headline, no tag (_work/2026-11-12-hourly-1828/reviews/idlytech-g23-v1.md)",
+  "g4": "v1 PASS 12/14 (read 1, slide 4) (_work/2026-11-12-hourly-1828/reviews/idlytech-g4-v1.md); v2 FIX slide 4 bullet (_work/2026-11-12-hourly-1828/reviews/idlytech-g4-v2.md); v3 PASS 13/14 (_work/2026-11-12-hourly-1828/reviews/idlytech-g4-v3.md; score _work/2026-11-12-hourly-1828/reviews/idlytech-g4-v3.score.json)"
+ }
+}

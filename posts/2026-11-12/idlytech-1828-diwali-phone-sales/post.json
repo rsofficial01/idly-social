@@ -1,0 +1,57 @@
+[
+ {
+  "acct": "idlytech",
+  "slug": "idlytech-1828-diwali-phone-sales",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Inc42",
+   "The Week",
+   "My Mobile India",
+   "Lapaas Voice"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Phone Shops' Diwali Sales Fell 18–20%. Prices May Rise 15%",
+    "photo": "_work/2026-11-12-hourly-1828/idlytech/frame-samsung/cover_source.png",
+    "photo_credit": "Photo: Soham Banerjee / Unsplash",
+    "focal": [
+     0.4,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "40%",
+    "stat_label": "Shop Sales Drop in the Week Before Dhanteras",
+    "bullets": [
+     "Buyers waited for offers, says retailers' body AIMRA",
+     "Spending held flat: the average phone cost more",
+     "Most buyers spent ₹30,000–60,000 after offers"
+    ],
+    "credit_line": "Sources: Inc42, My Mobile India, Lapaas Voice"
+   },
+   {
+    "type": "detail",
+    "stat": "47%",
+    "stat_label": "Fewer Phones Under ₹20,000 Shipped in July–Sept",
+    "bullets": [
+     "Under-₹15,000 shoppers often left or went pre-owned",
+     "Why: AI data centres are buying up memory chips"
+    ],
+    "credit_line": "Data: Counterpoint. Sources: The Week, Lapaas Voice, Inc42, My Mobile India"
+   },
+   {
+    "type": "detail",
+    "stat": "UP TO 50%",
+    "stat_label": "Further Shop-Sales Fall AIMRA Expects in 3 Months",
+    "bullets": [
+     "Why: festive footfall is cooling off, AIMRA says",
+     "Big chains offered 12–15% off pre-hike stock"
+    ],
+    "credit_line": "Sources: Inc42, My Mobile India, Lapaas Voice"
+   }
+  ]
+ }
+]
