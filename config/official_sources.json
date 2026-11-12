@@ -240,6 +240,14 @@
       ]
     },
     {
+      "domain": "blogs.nvidia.com",
+      "organisation": "NVIDIA"
+    },
+    {
+      "domain": "nvidianews.nvidia.com",
+      "organisation": "NVIDIA"
+    },
+    {
       "domain": "blog.google",
       "organisation": "Google"
     },
