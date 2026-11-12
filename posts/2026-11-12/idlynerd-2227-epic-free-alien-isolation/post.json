@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2227-epic-free-alien-isolation",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Epic Games Store",
+  "VGTimes",
+  "Vandal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "₹3,325 Alien: Isolation Goes Free On Epic From 19 Nov",
+   "photo": "_work/2026-11-12-hourly-2227/idlynerd/alien-ss7.jpg",
+   "photo_credit": "Image: SEGA (official screenshot)",
+   "focal": [
+    0.7,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "19–26 NOV",
+   "stat_label": "Two Free Epic Games Next Week",
+   "bullets": [
+    "Mark of the Deep, usually ₹880, joins Alien: Isolation",
+    "Both unlock at 21:30 IST next Thursday",
+    "Claim by 21:30 IST, 26 Nov, to keep them"
+   ],
+   "credit_line": "Sources: Epic Games Store, VGTimes, Vandal"
+  },
+  {
+   "type": "detail",
+   "stat": "TILL 19 NOV",
+   "stat_label": "Knightica Is Free Right Now",
+   "bullets": [
+    "Usually ₹539 on Epic in India",
+    "A roguelike auto-battler: build a warband, find synergies",
+    "Claim by 21:30 IST, 19 Nov, to keep it"
+   ],
+   "credit_line": "Sources: Epic Games Store, VGTimes, GameGrin"
+  }
+ ]
+}

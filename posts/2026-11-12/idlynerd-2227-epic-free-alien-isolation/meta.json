@@ -1,0 +1,100 @@
+{
+ "account": "idlynerd",
+ "title": "The Epic Games Store's weekly free games for India: Knightica (usually ₹539) is free to claim and keep from 21:30 IST Thu 12 Nov to 21:30 IST Thu 19 Nov 2026; Alien: Isolation (SEGA / Creative Assembly, usually ₹3,325) and Mark of the Deep (Light Up Games, usually ₹880) are free from 21:30 IST Thu 19 Nov to 21:30 IST Thu 26 Nov 2026, per Epic's own store listing for India (16:00 UTC switch), reported by VGTimes, Vandal and GameGrin.",
+ "story_id": null,
+ "idly_article": false,
+ "format": "list",
+ "sources": [
+  {
+   "outlet": "Epic Games Store (free-games promotion feed, India)",
+   "date": "2026-11-12",
+   "url": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN"
+  },
+  {
+   "outlet": "Epic Games Store (free games page)",
+   "date": "2026-11-12",
+   "url": "https://store.epicgames.com/en-US/free-games"
+  },
+  {
+   "outlet": "Epic Games Store (Alien: Isolation)",
+   "date": "2026-11-12",
+   "url": "https://store.epicgames.com/en-US/p/alien-isolation"
+  },
+  {
+   "outlet": "VGTimes",
+   "date": "2026-11-12",
+   "url": "https://vgtimes.com/gaming-news/174397-free-games-alien-isolation-and-another-title-coming-to-egs-knightica-is-free-now.html"
+  },
+  {
+   "outlet": "Vandal",
+   "date": "2026-11-12",
+   "url": "https://vandal.elespanol.com/noticia/2026316039/epic-games-store-regala-esta-semana-un-juego-de-estrategia-roguelike-y-la-que-viene-un-juegazo-de-alien/"
+  },
+  {
+   "outlet": "GameGrin",
+   "date": "2026-11-12",
+   "url": "https://www.gamegrin.com/news/epic-games-store-pc-weekly-free-games-12112026"
+  },
+  {
+   "outlet": "Worthplaying",
+   "date": "2026-11-05",
+   "url": "https://worthplaying.com/article/2026/11/5/news/151366-flotsam-and-idle-champions-of-the-forgotten-realms-free-on-epic-games-store-knightica-next-week/"
+  },
+  {
+   "outlet": "Steam (Alien: Isolation store page, India)",
+   "date": "2026-11-12",
+   "url": "https://store.steampowered.com/app/214490/"
+  }
+ ],
+ "fact_sources": {
+  "Alien: Isolation and Mark of the Deep are free on Epic from 19 Nov to 26 Nov 2026": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN",
+   "https://vgtimes.com/gaming-news/174397-free-games-alien-isolation-and-another-title-coming-to-egs-knightica-is-free-now.html",
+   "https://vandal.elespanol.com/noticia/2026316039/epic-games-store-regala-esta-semana-un-juego-de-estrategia-roguelike-y-la-que-viene-un-juegazo-de-alien/"
+  ],
+  "The window opens and closes at 16:00 UTC (21:30 IST): 19 Nov 16:00Z to 26 Nov 16:00Z": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN",
+   "https://www.gamegrin.com/news/epic-games-store-pc-weekly-free-games-12112026"
+  ],
+  "Alien: Isolation usually costs ₹3,325 on Epic in India": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN",
+   "https://store.steampowered.com/app/214490/"
+  ],
+  "Mark of the Deep usually costs ₹880 on Epic in India; a pirate-themed adventure (Metroidvania / Souls-like)": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN"
+  ],
+  "Knightica is free from 12 Nov 16:00 UTC (21:30 IST) to 19 Nov 16:00 UTC (21:30 IST)": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN",
+   "https://www.gamegrin.com/news/epic-games-store-pc-weekly-free-games-12112026",
+   "https://vgtimes.com/gaming-news/174397-free-games-alien-isolation-and-another-title-coming-to-egs-knightica-is-free-now.html",
+   "https://worthplaying.com/article/2026/11/5/news/151366-flotsam-and-idle-champions-of-the-forgotten-realms-free-on-epic-games-store-knightica-next-week/"
+  ],
+  "Knightica usually costs ₹539 on Epic in India; a roguelike auto-battler (recruit units, guide a warband, find synergies)": [
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN",
+   "https://www.gamegrin.com/news/epic-games-store-pc-weekly-free-games-12112026"
+  ],
+  "Claimed games stay in the player's library after the offer ends": [
+   "https://vgtimes.com/gaming-news/174397-free-games-alien-isolation-and-another-title-coming-to-egs-knightica-is-free-now.html",
+   "https://vandal.elespanol.com/noticia/2026316039/epic-games-store-regala-esta-semana-un-juego-de-estrategia-roguelike-y-la-que-viene-un-juegazo-de-alien/"
+  ],
+  "Alien: Isolation is published by SEGA and developed by Creative Assembly": [
+   "https://store.steampowered.com/app/214490/",
+   "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=IN&allowCountries=IN"
+  ]
+ },
+ "photo_source": {
+  "page": "https://store.steampowered.com/app/214490/",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_b1e245fecbcb2b93f48d76f4031f303076b4a6bc.1920x1080.jpg",
+  "licence": "official publisher store screenshot (SEGA / Creative Assembly), used for news about the game, credited",
+  "author": "SEGA / Creative Assembly",
+  "width": 1912,
+  "height": 1080,
+  "faces": 0,
+  "viewed": true,
+  "subject": "Alien: Isolation: the Xenomorph in close-up (domed head, bared teeth) in a dark station interior; no people, logo or lettering",
+  "local": "_work/2026-11-12-hourly-2227/idlynerd/alien-ss7.jpg (sha1 b1e245fecbcb2b93f48d76f4031f303076b4a6bc)",
+  "processing": "none: cardkit 4:5 crop at focal [0.70, 0.5], zoom 1.0 (1.25x upscale, light sharpening by cardkit)"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: SEGA's own sites (sega.com, sega.co.uk) returned HTTP 429 to our fetcher, so the handle could not be confirmed on SEGA's site (G1 v2 fix 6)."
+}

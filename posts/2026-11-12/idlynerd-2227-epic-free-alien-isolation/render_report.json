@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: SEGA (official screenshot)",
+  "slug": "idlynerd-2227-epic-free-alien-isolation",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-12-hourly-2227/idlynerd/render/idlynerd-2227-epic-free-alien-isolation/01.jpg",
+  "scale": 1.25
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Epic Games Store, VGTimes, Vandal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2227-epic-free-alien-isolation",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2227/idlynerd/render/idlynerd-2227-epic-free-alien-isolation/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 152,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Epic Games Store, VGTimes, GameGrin",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2227-epic-free-alien-isolation",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2227/idlynerd/render/idlynerd-2227-epic-free-alien-isolation/03.jpg",
+  "scale": null
+ }
+]
