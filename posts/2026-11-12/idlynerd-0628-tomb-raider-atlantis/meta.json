@@ -1,0 +1,40 @@
+{
+ "account": "idlynerd",
+ "title": "Tomb Raider: Legacy of Atlantis (remake of the 1996 original; Crystal Dynamics and Flying Wild Hog, published by Amazon Game Studios) is beating its pre-order targets, owner Embracer Group says (Q2 report, 11 Nov 2026: 'Wishlists and pre-orders continue to exceed our targets', no numbers; WN Hub 11 Nov); launches 12 Feb 2027 on PS5, Xbox Series X|S, Switch 2 and PC; Steam India lists Standard ₹3,799 and Deluxe ₹5,499 (appdetails cc=in, read 06:50 IST 12 Nov). Next game Tomb Raider: Catalyst crosses Northern India, 'largest Tomb Raider game ever made' (Amazon); Amazon's 9 Nov update lists it for 2028 and adds Switch 2 (My Nintendo News, Nintendo Everything 11 Nov); 2028 first signalled by Amazon's games head in July (VGC, Gematsu, PC Gamer).",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the API feed (candidates checked 12 Nov 2026, 06:30 IST)",
+ "format": "news",
+ "sources": [
+  {"outlet": "Embracer Group (Interim Report Q2 2026/27 press release)", "date": "11 Nov 2026", "url": "https://embracer.com/releases/embracer-group-publishes-interim-report-q2-july-september-2026-cash-ebit-increased-to-sek-203-million/"},
+  {"outlet": "WN Hub", "date": "11 Nov 2026", "url": "https://wnhub.io/news/finance/item-52661"},
+  {"outlet": "Reuters (via The Star)", "date": "11 Nov 2026", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/11/tomb-raider-owner-embracer-reports-q2-core-earnings-above-estimates"},
+  {"outlet": "Amazon (About Amazon newsroom)", "date": "updated 9 Nov 2026", "url": "https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games"},
+  {"outlet": "Steam (Tomb Raider: Legacy of Atlantis store page, India)", "date": "checked 12 Nov 2026", "url": "https://store.steampowered.com/app/3558670/"},
+  {"outlet": "Embracer Group (The Game Awards press release)", "date": "12 Dec 2025", "url": "https://embracer.com/releases/crystal-dynamics-and-amazon-game-studios-reveal-two-new-tomb-raider-titles-and-other-highlights-from-the-game-awards/"},
+  {"outlet": "My Nintendo News", "date": "11 Nov 2026", "url": "https://mynintendonews.com/2026/11/11/tomb-raider-catalyst-releases-in-2028-and-is-coming-to-nintendo-switch-2/"},
+  {"outlet": "Nintendo Everything", "date": "11 Nov 2026", "url": "https://nintendoeverything.com/tomb-raider-catalyst-seemingly-coming-to-nintendo-switch-2/"},
+  {"outlet": "VGC", "date": "Jul 2026", "url": "https://videogameschronicle.com/news/tomb-raider-catalyst-has-seemingly-been-delayed-to-2028-according-to-amazons-gaming-lead"},
+  {"outlet": "Gematsu", "date": "Jul 2026", "url": "https://www.gematsu.com/2026/07/tomb-raider-catalyst-amazon-games-boss-suggests-2028-delay-but-publisher-says-no-updates"},
+  {"outlet": "PC Gamer", "date": "Jul 2026", "url": "https://www.pcgamer.com/games/action/tomb-raider-catalyst-delayed-to-2028/"}
+ ],
+ "fact_sources": {
+  "Embracer: Atlantis wishlists and pre-orders 'continue to exceed our targets' (no numbers)": ["https://embracer.com/releases/embracer-group-publishes-interim-report-q2-july-september-2026-cash-ebit-increased-to-sek-203-million/", "https://wnhub.io/news/finance/item-52661"],
+  "Atlantis is a remake of the 1996 original": ["https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games", "https://embracer.com/releases/crystal-dynamics-and-amazon-game-studios-reveal-two-new-tomb-raider-titles-and-other-highlights-from-the-game-awards/"],
+  "Atlantis launches 12 Feb 2027 on PS5, Xbox Series X|S, Switch 2, Steam; published by Amazon Game Studios": ["https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games", "https://embracer.com/releases/embracer-group-publishes-interim-report-q2-july-september-2026-cash-ebit-increased-to-sek-203-million/", "https://store.steampowered.com/app/3558670/", "https://mynintendonews.com/2026/11/11/tomb-raider-catalyst-releases-in-2028-and-is-coming-to-nintendo-switch-2/"],
+  "Steam India lists Standard ₹3,799, Deluxe ₹5,499 (attributed to the store)": ["https://store.steampowered.com/app/3558670/"],
+  "Catalyst crosses Northern India; largest Tomb Raider ever made": ["https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games", "https://embracer.com/releases/crystal-dynamics-and-amazon-game-studios-reveal-two-new-tomb-raider-titles-and-other-highlights-from-the-game-awards/"],
+  "Amazon's 9 Nov update lists Catalyst for 2028 and adds Switch 2": ["https://www.aboutamazon.com/news/entertainment/amazon-game-studios-lara-croft-tomb-raider-new-games", "https://mynintendonews.com/2026/11/11/tomb-raider-catalyst-releases-in-2028-and-is-coming-to-nintendo-switch-2/", "https://nintendoeverything.com/tomb-raider-catalyst-seemingly-coming-to-nintendo-switch-2/"],
+  "2028 first signalled by Amazon's games head in a July interview": ["https://videogameschronicle.com/news/tomb-raider-catalyst-has-seemingly-been-delayed-to-2028-according-to-amazons-gaming-lead", "https://www.gematsu.com/2026/07/tomb-raider-catalyst-amazon-games-boss-suggests-2028-delay-but-publisher-says-no-updates", "https://www.pcgamer.com/games/action/tomb-raider-catalyst-delayed-to-2028/"]
+ },
+ "photo_source": {
+  "page": "https://store.steampowered.com/app/3558670/",
+  "file_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/d1f378b21c18d93cd08a4ab396c10fae7841a0fd/ss_d1f378b21c18d93cd08a4ab396c10fae7841a0fd.jpg",
+  "licence": "official publisher store screenshot (Amazon Game Studios / Crystal Dynamics), used for news about the game",
+  "author": "Amazon Game Studios / Crystal Dynamics",
+  "size": "3840x2160",
+  "faces": 0,
+  "viewed": true
+ },
+ "tags": ["tombraider"]
+}

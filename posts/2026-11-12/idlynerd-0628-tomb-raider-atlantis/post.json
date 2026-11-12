@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0628-tomb-raider-atlantis",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Embracer Group",
+  "Amazon",
+  "Steam India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tomb Raider Remake Tops Pre-Order Goals, Embracer Says; ₹3,799 on Steam",
+   "photo": "_work/2026-11-12-hourly-0628/nerd/framing_tomb/cover_source.png",
+   "photo_credit": "Image: Amazon Game Studios / Crystal Dynamics (official screenshot)",
+   "focal": [
+    0.33,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "12 FEB",
+   "stat_label": "Legacy of Atlantis Launches in 2027",
+   "bullets": [
+    "Remakes the 1996 game that made Lara famous",
+    "Deluxe Edition: ₹5,499 on Steam India",
+    "On PS5, Xbox Series X|S, Switch 2 and PC"
+   ],
+   "credit_line": "Sources: Embracer Group, Amazon, Steam India"
+  },
+  {
+   "type": "detail",
+   "stat": "2028",
+   "stat_label": "Amazon Now Lists Catalyst, Set in Northern India",
+   "bullets": [
+    "Billed by Amazon as the largest Tomb Raider yet",
+    "Newly listed for Switch 2, so playable on the go",
+    "Amazon's games head first signalled the slip in July"
+   ],
+   "credit_line": "Sources: Amazon, My Nintendo News, VGC, Gematsu"
+  }
+ ]
+}
