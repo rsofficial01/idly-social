@@ -1,0 +1,126 @@
+{
+ "account": "idlyhype",
+ "title": "Pokémon collab sneakers on sale in India (checked 09:00 IST Thu 12 Nov 2026; on sale since April/September, not new): PUMA x Pokémon Inverse Mimikyu 406046_01 MRP ₹11,999 (₹10,199 Superkicks, ₹10,800 VegNonVeg; UK 7 only at both); PUMA x Pokémon Pikachu All-Pro Nitro 2 312843_01 MRP ₹12,999 (₹12,349 Superkicks UK 11 left; ₹11,700 VegNonVeg UK 7 left); adidas x Pokémon Adistar Control 5 'Haunter' KJ5611 ₹15,999 at both, UK 7-11 in stock. Peg: Crocs' Pokémon Gengar Classic Clog (30th-anniversary line) listed 'Coming Soon Nov 16', $79.99 on crocs.com (Hypebeast drops page 11 Nov); no Gengar on Crocs India (09:01 IST).",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on Pokémon sneakers in the API feed (latest 50 checked 12 Nov 2026, ~08:35 IST)",
+ "format": "list",
+ "sources": [
+  {
+   "outlet": "Superkicks (Inverse Mimikyu, product JSON: price 10199, compare-at 11999, published 2026-04-02)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.superkicks.in/products/puma-inverse-mimikyu-pokemon-alpine-snow-puma-black"
+  },
+  {
+   "outlet": "VegNonVeg (Inverse Mimikyu, 406046_01)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.vegnonveg.com/products/puma-x-pokemon-inverse-mimikyu-alpine-snowpuma-black"
+  },
+  {
+   "outlet": "Superkicks (Pikachu All-Pro Nitro 2, price 12349, compare-at 12999, published 2026-04-07)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.superkicks.in/products/puma-x-pokemon-all-pro-nitro%E2%84%A2-2-pikachu-sun-ray-yellow-red-glamour"
+  },
+  {
+   "outlet": "VegNonVeg (Pikachu All-Pro Nitro 2, 312843_01)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.vegnonveg.com/products/puma-x-pokemon-pikachu-all-pro-nitro-2-sun-ray-yellowred-glamour"
+  },
+  {
+   "outlet": "Superkicks (Adistar Control 5 'Haunter', KJ5611, published 2026-09-02)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.superkicks.in/products/adidas-pokemon-x-adidas-adistar-control-5-haunter-purple-purple-yellow"
+  },
+  {
+   "outlet": "VegNonVeg (Adistar Control 5 'Haunter', KJ5611)",
+   "date": "checked 12 Nov 2026 09:00 IST",
+   "url": "https://www.vegnonveg.com/products/adidas-originals-adistar-control-5-haunter-purpleenergy-ink-magic-lilac"
+  },
+  {
+   "outlet": "Crocs (Pokémon Gengar Classic Clog, 'Coming Soon Nov 16', $79.99)",
+   "date": "checked 12 Nov 2026 ~08:55 IST",
+   "url": "https://www.crocs.com/p/pokmon-gengar-classic-clog/213600.html"
+  },
+  {
+   "outlet": "Sole Retriever",
+   "date": "2026",
+   "url": "https://www.soleretriever.com/news/articles/pokemon-crocs-30th-anniversary-collection-pikachu-gengar-jigglypuff-clogs"
+  },
+  {
+   "outlet": "House of Heat",
+   "date": "2026",
+   "url": "https://houseofheat.co/crocs/pokemon-crocs-30th-anniversary-pikachu-gengar-jigglypuff-release-details"
+  },
+  {
+   "outlet": "Hypebeast ('Crocs Classic Clog Pokémon Gengar' drops page, via Google News)",
+   "date": "11 Nov 2026, 11:10 GMT",
+   "url": "https://news.google.com/rss/search?q=site:hypebeast.com+when:2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "outlet": "Crocs India catalogue search 'gengar' (0 results; Pokémon Poké Ball/Pikachu clogs listed)",
+   "date": "checked 12 Nov 2026 09:01 IST",
+   "url": "https://www.crocs.in/"
+  }
+ ],
+ "fact_sources": {
+  "Inverse Mimikyu (406046_01) MRP ₹11,999": [
+   "https://www.superkicks.in/products/puma-inverse-mimikyu-pokemon-alpine-snow-puma-black (compare-at 11999)",
+   "https://www.vegnonveg.com/products/puma-x-pokemon-inverse-mimikyu-alpine-snowpuma-black (₹11,999 struck, ₹10,800)"
+  ],
+  "Inverse Mimikyu sale prices ₹10,199 (Superkicks) / ₹10,800 (VegNonVeg), UK 7 only at both, 09:00 IST": [
+   "https://www.superkicks.in/products/puma-inverse-mimikyu-pokemon-alpine-snow-puma-black",
+   "https://www.vegnonveg.com/products/puma-x-pokemon-inverse-mimikyu-alpine-snowpuma-black"
+  ],
+  "Pikachu All-Pro Nitro 2 (312843_01) MRP ₹12,999; ₹12,349 Superkicks (UK 11 left), ₹11,700 VegNonVeg (UK 7 left)": [
+   "https://www.superkicks.in/products/puma-x-pokemon-all-pro-nitro%E2%84%A2-2-pikachu-sun-ray-yellow-red-glamour",
+   "https://www.vegnonveg.com/products/puma-x-pokemon-pikachu-all-pro-nitro-2-sun-ray-yellowred-glamour"
+  ],
+  "Adistar Control 5 'Haunter' (KJ5611) ₹15,999 at both, UK 7-11 in stock": [
+   "https://www.superkicks.in/products/adidas-pokemon-x-adidas-adistar-control-5-haunter-purple-purple-yellow",
+   "https://www.vegnonveg.com/products/adidas-originals-adistar-control-5-haunter-purpleenergy-ink-magic-lilac"
+  ],
+  "Crocs Pokémon Gengar Classic Clog: 16 Nov, $79.99 on crocs.com": [
+   "https://www.crocs.com/p/pokmon-gengar-classic-clog/213600.html",
+   "https://www.soleretriever.com/news/articles/pokemon-crocs-30th-anniversary-collection-pikachu-gengar-jigglypuff-clogs",
+   "https://houseofheat.co/crocs/pokemon-crocs-30th-anniversary-pikachu-gengar-jigglypuff-release-details"
+  ],
+  "Gengar clog is part of Crocs' Pokémon 30th-anniversary line": [
+   "https://www.soleretriever.com/news/articles/pokemon-crocs-30th-anniversary-collection-pikachu-gengar-jigglypuff-clogs",
+   "https://houseofheat.co/crocs/pokemon-crocs-30th-anniversary-pikachu-gengar-jigglypuff-release-details"
+  ],
+  "Not on Crocs India's site yet (09:01 IST)": [
+   "crocs.in catalogue search for 'gengar' returned 0 products at 09:01 IST 12 Nov (site's own search API)"
+  ]
+ },
+ "dropped": "adidas Pokémon x Megaride F50 'Pikachu' ₹19,999: Superkicks only (not at VegNonVeg) -> single source, left out. 'Pokémon at 30' not used on the cover (not two-sourced in time).",
+ "photo_source": {
+  "page": "https://in.puma.com/in/en (PUMA's official store; image from PUMA's own image server images.puma.com, product 312843_01, view sv01)",
+  "file_url": "https://images.puma.com/image/upload/f_png,q_auto,b_rgb:fafafa,w_1600,h_2000,c_pad/global/312843/01/sv01/fnd/IND/fmt/png/PUMA-x-POKEMON-Pikachu-All-Pro-NITRO-2",
+  "local_file": "_work/2026-11-12-hourly-0827/idlyhype/img/puma_312843_sv01_4x5.png",
+  "licence": "PUMA's own studio product image (cut-out on PUMA's flat studio colour #FAFAFA), as served by PUMA's image server for its store pages; editorial use, credited",
+  "author": "PUMA",
+  "credit": "Image: PUMA",
+  "size": "1600x2000 4:5 rendition requested from PUMA's server (its 2000x2000 square of the same view has the shoe 80% wide, which a 4:5 crop would clip); output scaled 0.68x, no enlargement",
+  "facecheck": "faces=0 (YuNet, before viewing)",
+  "viewed": true
+ },
+ "framing": {
+  "tool": "pipeline.framing (planned focal 0.5/0.5, zoom 1.0); cover set per Gate 4 fix r1",
+  "photo": "_work/2026-11-12-hourly-0827/idlyhype/framing_puma45/cover_source.png",
+  "focal": [
+   0.5,
+   0.6
+  ],
+  "zoom": 1.12,
+  "scale": "about 0.76 (no enlargement)",
+  "shoe_bbox_px_in_1350_frame": "x 57-1022, y 348-838 (measured on rendered 01.jpg); headline top y 950"
+ },
+ "tags": [
+  "puma"
+ ],
+ "tag_evidence": "PUMA India's own site in.puma.com links https://www.instagram.com/puma (checked 09:02 IST 12 Nov); the cover image is PUMA's.",
+ "revisions": [
+  "r1 (Gate 4): cover zoom 1.12 focal [0.5,0.6]; slide 4 label 'Crocs' Gengar Clog Is Listed in the US'; caption cut 'The next Pokémon shoe is a clog: '"
+ ],
+ "recheck_before_publish": "Prices/sizes stamped 09:00 IST 12 Nov: if publishing after ~11:00 IST, re-check the three Superkicks/VegNonVeg product pages; change slides 2/3 and caption if a pair sells out or a price moves."
+}

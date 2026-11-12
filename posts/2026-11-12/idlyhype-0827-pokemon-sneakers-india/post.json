@@ -1,0 +1,59 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0827-pokemon-sneakers-india",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Crocs",
+  "Sole Retriever",
+  "House of Heat",
+  "Hypebeast"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Pokémon Sneakers You Can Buy in India, From ₹11,999",
+   "photo": "_work/2026-11-12-hourly-0827/idlyhype/framing_puma45/cover_source.png",
+   "photo_credit": "Image: PUMA",
+   "focal": [
+    0.5,
+    0.6
+   ],
+   "zoom": 1.12
+  },
+  {
+   "type": "detail",
+   "stat": "3 PAIRS",
+   "stat_label": "Pokémon Pairs on Sale in India Now",
+   "bullets": [
+    "PUMA Inverse Mimikyu: MRP ₹11,999, on sale ₹10,199–₹10,800",
+    "PUMA Pikachu Nitro 2 (pictured): MRP ₹12,999, sale ₹11,700–₹12,349",
+    "adidas 'Haunter' Adistar Control 5: ₹15,999, full price"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg · prices checked 09:00 IST, 12 Nov"
+  },
+  {
+   "type": "detail",
+   "stat": "UK 7",
+   "stat_label": "Sizes Left at 09:00 IST, 12 Nov",
+   "bullets": [
+    "Mimikyu: UK 7 only, at Superkicks and VegNonVeg",
+    "Pikachu Nitro 2: UK 11 Superkicks, UK 7 VegNonVeg",
+    "Haunter: UK 7 to 11 at both stores"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg"
+  },
+  {
+   "type": "detail",
+   "stat": "16 NOV",
+   "stat_label": "Crocs' Gengar Clog Is Listed in the US",
+   "bullets": [
+    "$79.99 on crocs.com, listed 'Coming Soon'",
+    "Part of Crocs' Pokémon 30th-anniversary clogs",
+    "Not on Crocs India's site yet (09:01 IST)"
+   ],
+   "credit_line": "Sources: Crocs, Sole Retriever, House of Heat, Hypebeast"
+  }
+ ]
+}
