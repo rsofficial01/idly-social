@@ -1,0 +1,66 @@
+{
+ "hype_fit": {
+  "max": 100,
+  "min": 72,
+  "step": 2,
+  "lines": 3
+ },
+ "slides": [
+  {
+   "size": 100,
+   "lines": 3,
+   "overflow": false,
+   "top": 950,
+   "credit_line": "Image: Paradox Interactive (official screenshot)",
+   "slug": "idlynerd-0427-cities-skylines-2-play-free",
+   "slide": 1,
+   "type": "cover",
+   "jpg": "posts/2026-11-13/idlynerd-0427-cities-skylines-2-play-free/01.jpg",
+   "scale": 1.031
+  },
+  {
+   "stat": 312,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Steam, Paradox Interactive",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlynerd-0427-cities-skylines-2-play-free",
+   "slide": 2,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlynerd-0427-cities-skylines-2-play-free/02.jpg",
+   "scale": null
+  },
+  {
+   "stat": 316,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Steam, Paradox Interactive, Gaming Trend, Worthplaying",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlynerd-0427-cities-skylines-2-play-free",
+   "slide": 3,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlynerd-0427-cities-skylines-2-play-free/03.jpg",
+   "scale": null
+  }
+ ]
+}

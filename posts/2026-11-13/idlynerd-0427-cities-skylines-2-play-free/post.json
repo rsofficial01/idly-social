@@ -1,0 +1,46 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0427-cities-skylines-2-play-free",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Steam",
+  "Paradox Interactive",
+  "Gaming Trend",
+  "Worthplaying"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Play Cities: Skylines\u00a0II Free on Steam Until 16 November",
+   "photo": "_work/2026-11-13-hourly-0427/idlynerd/frame/cover_source.png",
+   "photo_credit": "Image: Paradox Interactive (official screenshot)",
+   "focal": [
+    0.5,
+    0.9
+   ],
+   "zoom": 1.03
+  },
+  {
+   "type": "detail",
+   "stat": "60 GB",
+   "stat_label": "Disk Space Needed Before You Play Free",
+   "bullets": [
+    "Check your PC first: 8 GB RAM minimum",
+    "Graphics card: GTX 970 or RX 480 at least",
+    "Windows PC only, via Steam; no Mac version"
+   ],
+   "credit_line": "Sources: Steam, Paradox Interactive"
+  },
+  {
+   "type": "detail",
+   "stat": "2 DEC",
+   "stat_label": "Park Adventures Expansion, Pictured on the Cover",
+   "bullets": [
+    "Build zoos, nature reserves, amusement parks",
+    "You set ticket prices, staff and upkeep budgets",
+    "Paid add-on, not part of the free weekend"
+   ],
+   "credit_line": "Sources: Steam, Paradox Interactive, Gaming Trend, Worthplaying"
+  }
+ ]
+}

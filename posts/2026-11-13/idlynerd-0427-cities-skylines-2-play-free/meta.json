@@ -1,0 +1,131 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Cities: Skylines II (Paradox Interactive; Colossal Order / Iceflake Studios; Windows PC, out since 24 Oct 2023) is free to play on Steam from Thu 12 Nov to Mon 16 Nov 2026, also on Steam's India store; minimum PC: 8 GB RAM, GTX 970 (4 GB) or RX 480 (8 GB), 60 GB disk; the paid Park Adventures expansion (city parks, zoos, nature reserves, amusement park rides, 100+ assets, new maps, park finances) launches on PC (Steam, Microsoft Store) on 2 Dec 2026 and is included in Expansion Pass II.",
+ "sources": [
+  {
+   "outlet": "Steam (Cities: Skylines II store page, India store, cc=in)",
+   "date": "2026-11-13",
+   "url": "https://store.steampowered.com/app/949230/"
+  },
+  {
+   "outlet": "Steam (Park Adventures DLC store page)",
+   "date": "2026-11-13",
+   "url": "https://store.steampowered.com/app/4544310/"
+  },
+  {
+   "outlet": "Paradox Interactive (Cities: Skylines II official page, system requirements)",
+   "date": "2026-11-13",
+   "url": "https://www.paradoxinteractive.com/games/cities-skylines-ii/about"
+  },
+  {
+   "outlet": "Paradox Interactive (Steam community announcement: 'Park Adventures is coming Dec 2, 2026!')",
+   "date": "2026-11-10",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359583"
+  },
+  {
+   "outlet": "Gaming Trend",
+   "date": "2026-11-10",
+   "url": "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/"
+  },
+  {
+   "outlet": "Worthplaying",
+   "date": "2026-11-10",
+   "url": "https://worthplaying.com/article/2026/11/10/news/151395-cities-skylines-ii-rolls-out-seasonal-shift-update-free-this-weekend-to-get-park-adventures-expansion-in-december-trailer/"
+  },
+  {
+   "outlet": "Final Weapon",
+   "date": "2026-11-10",
+   "url": "https://finalweapon.net/2026/11/10/cities-skylines-ii-launches-park-adventures-expansion-on-december-2/"
+  }
+ ],
+ "fact_sources": {
+  "Cities: Skylines II is free to play on Steam from 12 Nov to 16 Nov 2026 (Steam India store page reads 'Play for free until 16 Nov @ 10:00am', checked 04:53 IST 13 Nov; end time not given in IST, so the card says 'until 16 November')": [
+   "https://store.steampowered.com/app/949230/",
+   "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/",
+   "https://worthplaying.com/article/2026/11/10/news/151395-cities-skylines-ii-rolls-out-seasonal-shift-update-free-this-weekend-to-get-park-adventures-expansion-in-december-trailer/",
+   "https://finalweapon.net/2026/11/10/cities-skylines-ii-launches-park-adventures-expansion-on-december-2/"
+  ],
+  "Steam's India store lists the free-play offer": [
+   "https://store.steampowered.com/app/949230/ (fetched with cc=in, 04:53 IST 13 Nov: 'Play for free until 16 Nov @ 10:00am'; prices on the page in INR)"
+  ],
+  "Minimum PC: Windows 10 64-bit, 8 GB RAM, Nvidia GeForce GTX 970 (4 GB) or AMD Radeon RX 480 (8 GB), 60 GB available space": [
+   "https://store.steampowered.com/app/949230/ (pc_requirements, minimum)",
+   "https://www.paradoxinteractive.com/games/cities-skylines-ii/about (requirementsWindowsMin)"
+  ],
+  "Windows PC only on Steam; no Mac version": [
+   "https://store.steampowered.com/app/949230/ (platforms: windows true, mac false, linux false)",
+   "https://www.paradoxinteractive.com/games/cities-skylines-ii/about (osSupport: Windows)"
+  ],
+  "Park Adventures expansion launches 2 Dec 2026 on PC via Steam and the Microsoft Store": [
+   "https://store.steampowered.com/app/4544310/ (release_date 2 Dec, 2026)",
+   "https://store.steampowered.com/news/app/949230 (Paradox announcement, 10 Nov)",
+   "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/",
+   "https://worthplaying.com/article/2026/11/10/news/151395-cities-skylines-ii-rolls-out-seasonal-shift-update-free-this-weekend-to-get-park-adventures-expansion-in-december-trailer/"
+  ],
+  "Park Adventures adds city parks, zoos, nature reserves and amusement park rides, 100+ new assets and new maps": [
+   "https://store.steampowered.com/app/4544310/",
+   "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359583",
+   "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/"
+  ],
+  "Players manage ticket prices, staff budgets and maintenance/upkeep in Park Adventures": [
+   "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359583",
+   "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/"
+  ],
+  "Park Adventures is a paid expansion, included in Expansion Pass II": [
+   "https://gamingtrend.com/news/cities-skylines-ii-park-adventures-expansion-lands-december-2/",
+   "https://worthplaying.com/article/2026/11/10/news/151395-cities-skylines-ii-rolls-out-seasonal-shift-update-free-this-weekend-to-get-park-adventures-expansion-in-december-trailer/",
+   "https://finalweapon.net/2026/11/10/cities-skylines-ii-launches-park-adventures-expansion-on-december-2/"
+  ],
+  "Paradox Interactive publishes Cities: Skylines II": [
+   "https://store.steampowered.com/app/949230/",
+   "https://www.paradoxinteractive.com/games/cities-skylines-ii/about"
+  ]
+ },
+ "left_out": "Rupee price (Rs 3,139, 30% off to Rs 2,197, 'Offer ends 19 November') is on Steam's India store at 04:50-04:53 IST 13 Nov, but no second source could be reached (SteamDB and IsThereAnyDeal return 403; no outlet prints the INR price), so per G1 condition 3 no price, discount or sale date appears. The DLC's price is not listed on Steam India yet, and no $ price is used. Seasonal Shift patch and console versions (single source) cut. No claim about progress carrying over.",
+ "photo_source": {
+  "page": "https://store.steampowered.com/app/4544310/",
+  "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/406a2f7c0afbce6448547d95a8ac94e19f03c935/ss_406a2f7c0afbce6448547d95a8ac94e19f03c935.1920x1080.jpg",
+  "licence": "official publisher store screenshot (Paradox Interactive), used for news about the game, credited",
+  "author": "Paradox Interactive",
+  "credit": "Image: Paradox Interactive (official screenshot)",
+  "orig_size": [
+   1920,
+   1080
+  ],
+  "faces": 0,
+  "viewed": true,
+  "subject": "Cities: Skylines II, Park Adventures expansion (out 2 Dec): lakeside city skyline with an amusement park (Ferris wheel, roller coasters, drop tower) under mountains, framed by trees; no UI, logo, lettering or people. Not part of the free weekend: the alt text, slide 3 label and caption say so.",
+  "local": "_work/2026-11-13-hourly-0427/idlynerd/photos/cs2-park-adventures-ss.jpg (sha1 58c19f0a4ad3148deef751866e713bef628c275e)",
+  "base_game_tried": "All 7 base-game Steam screenshots (app 949230) and both Paradox clean key-art files screened face-positive (false positives on city texture) and were deleted unviewed; the Paradox news-page image is a text graphic. So the expansion shot is used and labelled (G1 condition 5b)."
+ },
+ "framing": {
+  "tool_output": {
+   "ok": true,
+   "photo": "_work/2026-11-13-hourly-0427/idlynerd/frame/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.42,
+   "faces": 0,
+   "note": "enlarged and sharpened"
+  },
+  "used": {
+   "photo": "_work/2026-11-13-hourly-0427/idlynerd/frame/cover_source.png",
+   "focal": [
+    0.5,
+    0.9
+   ],
+   "zoom": 1.03
+  },
+  "note": "Tool's photo used. At its focal/zoom the rendered cover screened faces=1 (a 9x10 px texture blip at x461 y686, score 0.40) and two leaf tips were cut at the top edge; zoom 1.03 with focal y 0.9 shifts the crop ~20 px down: faces=0 on every slide, clean top edge. Total enlargement about 1.46x (limit 2x)."
+ },
+ "tags": [
+  "citiesskylines"
+ ],
+ "tag_evidence": "Paradox Interactive's own Cities: Skylines II pages (https://www.paradoxinteractive.com/games/cities-skylines-ii/about and /press; citiesskylines.com redirects there) link to https://www.instagram.com/citiesskylines/ as the game's Instagram. Cover image is Paradox's own official screenshot. Verified-badge status not checked from this session (instagram.com not fetched); drop the tag if the reviewer wants the badge confirmed."
+}
