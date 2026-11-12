@@ -1,0 +1,39 @@
+[
+ {
+  "acct": "idlynerd",
+  "slug": "idlynerd-1627-bgmi-air-launch",
+  "date": "12 Nov 2026",
+  "sources": ["FoneArena", "Beebom", "TalkEsport"],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "14 Million Signed Up: BGMI Air Launches 10 December",
+    "photo": "_work/2026-11-12-hourly-1627/idlynerd/frame-bridge/cover_source.png",
+    "photo_credit": "Image: KRAFTON India (App Store screenshot)",
+    "focal": [0.5, 0.5],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "11 NOV",
+    "stat_label": "iPhone Players Can Pre-Register Now",
+    "bullets": [
+     "Pre-register on Google Play or Apple's App Store",
+     "Installs alongside full BGMI as a separate app",
+     "Existing players keep their accounts; no transfer needed"
+    ],
+    "credit_line": "Sources: FoneArena, TalkEsport, Beebom"
+   },
+   {
+    "type": "detail",
+    "stat": "~1 GB",
+    "stat_label": "Initial Download, Made for Low-Storage Phones",
+    "bullets": [
+     "Same core battle royale gameplay as full BGMI",
+     "Supported phones and specs not announced yet"
+    ],
+    "credit_line": "Sources: Beebom, FoneArena, TalkEsport"
+   }
+  ]
+ }
+]

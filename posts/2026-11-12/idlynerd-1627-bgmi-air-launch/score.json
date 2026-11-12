@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "per-check minimum of desk (14) and reviewer (13). Reviewer cut hook to 1: the bridge render doesn't read as BGMI to a stranger and 14 million is a marketing count. All other checks 2 from both."
+}

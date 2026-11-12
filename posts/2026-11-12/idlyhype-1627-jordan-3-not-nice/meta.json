@@ -1,0 +1,144 @@
+{
+ "account": "idlyhype",
+ "title": "Air Jordan 3 'Not Nice' (IF4396-001) coming to India: Superkicks lists it at ₹19,295, UK 7-11, 'Coming Soon' with a 21 Nov 2026 start date, same day as the US release ($215) and Nike SNKRS Japan (¥31,900)",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this release (not in the idly.news API candidates); caption carries a Sources line.",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Superkicks",
+   "date": "12 Nov 2026",
+   "url": "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir"
+  },
+  {
+   "outlet": "Nike SNKRS Japan",
+   "date": "12 Nov 2026 (checked)",
+   "url": "https://www.nike.com/jp/launch/t/air-jordan-3-not-nice-black-and-challenge-red"
+  },
+  {
+   "outlet": "Sneaker Files",
+   "date": "11 Nov 2026",
+   "url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/"
+  },
+  {
+   "outlet": "Hot New Hip Hop",
+   "date": "Nov 2026",
+   "url": "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news"
+  },
+  {
+   "outlet": "Sneaker Freaker",
+   "date": "Nov 2026",
+   "url": "https://www.sneakerfreaker.com/releases/air-jordan-3-not-nice-IF4396-001-price-buy-release-date"
+  }
+ ],
+ "fact_sources": {
+  "Superkicks lists ₹19,295, UK 7-11, Coming Soon, start date 21 Nov 2026 00:01": [
+   "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir",
+   "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir.js"
+  ],
+  "Release 21 Nov 2026": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+   "https://www.sneakerfreaker.com/releases/air-jordan-3-not-nice-IF4396-001-price-buy-release-date",
+   "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news"
+  ],
+  "US price $215": [
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+   "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news"
+  ],
+  "Japan price ¥31,900": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.nike.com/jp/launch/t/air-jordan-3-not-nice-black-and-challenge-red"
+  ],
+  "Style code IF4396-001": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+   "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir.js"
+  ],
+  "Air Jordan 3 debuted 1988": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://en.wikipedia.org/wiki/Air_Jordan"
+  ],
+  "'Not Nice' under the Nike Air heel tab": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/"
+  ],
+  "Insoles 'Checked It Twice' (Santa's list)": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+   "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news"
+  ],
+  "Cracked/burnt leather, red-and-black elephant print": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+   "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news"
+  ],
+  "Holiday/naughty-list theme": [
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(JP)&filter=language(ja)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+   "https://www.hotnewhiphop.com/1011474-air-jordan-3-not-nice-sneaker-news",
+   "https://www.sneakerfreaker.com/releases/air-jordan-3-not-nice-IF4396-001-price-buy-release-date"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.nike.com/jp/launch/t/air-jordan-3-not-nice-black-and-challenge-red",
+  "file_url": "https://static.nike.com/a/images/w_2000,c_limit/e4283f28-d9a1-4408-af64-9e0b6029a159/x.jpg",
+  "licence": "Nike's own studio product image on its official SNKRS launch page (same image id in Nike's product feed for IF4396-001); official brand image, editorial use, credited",
+  "author": "Nike",
+  "width": 2000,
+  "height": 2500,
+  "local": "_work/2026-11-12-hourly-1627/idlyhype/dl/nike_1.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Nike",
+  "subject": "Air Jordan 3 'Not Nice' (IF4396-001), side profile, product only"
+ },
+ "framing": {
+  "tool_output": {
+   "ok": true,
+   "photo": "_work/2026-11-12-hourly-1627/idlyhype/frame-nike1/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.54,
+   "faces": 0
+  },
+  "used": {
+   "photo": "_work/2026-11-12-hourly-1627/idlyhype/frame-nike1/cover_source.png",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.1
+  },
+  "note": "focal/zoom adjusted (as on the 05:00 AJ6 post) to lift the shoe clear of the headline; cardkit photo scale 0.59, no upscale; shoe whole"
+ },
+ "tags": [
+  "jumpman23"
+ ],
+ "tags_evidence": "nike.com home page Organization schema: \"name\":\"Jordan Brand\",\"sameAs\":[... \"https://www.instagram.com/jumpman23/\"] (checked 16:38 IST 12 Nov 2026); reviewer accepted at G3.",
+ "gates": {
+  "g1": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyhype-g1-v1.md",
+   "outcome": "BUILD with FIX (India date = US date, not earlier) - applied"
+  },
+  "g2": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyhype-g23-v1.md",
+   "outcome": "PASS"
+  },
+  "g3": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyhype-g23-v1.md",
+   "outcome": "PASS"
+  },
+  "g4": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyhype-g4-v2.md",
+   "outcome": "PASS 13 (v1 PASS 12; v2 replaced slide-3 '1988' stat with style code, removed 'Coming Soon' echo on slide 2)"
+  },
+  "g4_v1": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyhype-g4-v1.md",
+   "outcome": "PASS 12"
+  }
+ }
+}

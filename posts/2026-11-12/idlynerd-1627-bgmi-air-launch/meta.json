@@ -1,0 +1,133 @@
+{
+ "account": "idlynerd",
+ "title": "BGMI Air (KRAFTON India's lighter Battlegrounds Mobile India) launches in India Thu 10 Dec 2026 after 14 million+ Google Play pre-registrations; App Store pre-registration opened 11 Nov 2026; ~1 GB initial download for entry-level/low-storage phones; separate app, no account transfer; supported phones not yet announced",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on BGMI Air in the API feed (checked 12 Nov 2026 ~16:35 IST, page_size 100)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "FoneArena",
+   "date": "11 Nov 2026",
+   "url": "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html"
+  },
+  {
+   "outlet": "Beebom",
+   "date": "4 Nov 2026",
+   "url": "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations"
+  },
+  {
+   "outlet": "TalkEsport",
+   "date": "11 Nov 2026",
+   "url": "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/"
+  },
+  {
+   "outlet": "NewsBytes",
+   "date": "11 Nov 2026",
+   "url": "https://www.newsbytesapp.com/news/science/how-to-register-for-bgmi-air-on-ios/story"
+  },
+  {
+   "outlet": "IGN India",
+   "date": "11 Nov 2026",
+   "url": "https://in.ign.com (headline 'BGMI Air Opens Pre-Registrations for iOS Ahead of December Launch', 11 Nov 14:01 IST, via Google News)"
+  },
+  {
+   "outlet": "App Store (KRAFTON Inc)",
+   "date": "live, checked 12 Nov 2026 ~16:37 IST",
+   "url": "https://apps.apple.com/in/app/bgmi-air/id6762590312"
+  },
+  {
+   "outlet": "Google Play (KRAFTON, Inc.)",
+   "date": "live, checked 12 Nov 2026 ~16:37 IST",
+   "url": "https://play.google.com/store/apps/details?id=com.krafton.bgmilite"
+  }
+ ],
+ "fact_sources": {
+  "KRAFTON India set the India launch for Thu 10 Dec 2026": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/",
+   "https://apps.apple.com/in/app/bgmi-air/id6762590312"
+  ],
+  "Passed 14 million pre-registrations on Google Play": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html"
+  ],
+  "App Store pre-registration opened 11 Nov 2026": [
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/",
+   "https://www.newsbytesapp.com/news/science/how-to-register-for-bgmi-air-on-ios/story",
+   "https://apps.apple.com/in/app/bgmi-air/id6762590312"
+  ],
+  "Lighter version of BGMI keeping the core gameplay": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html"
+  ],
+  "Initial download about 1 GB": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/"
+  ],
+  "Aimed at entry-level phones / limited storage": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html"
+  ],
+  "Installs as a separate app alongside BGMI": [
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/"
+  ],
+  "Existing BGMI players don't need to transfer accounts": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.fonearena.com/blog/496865/bgmi-air-pre-registration-ios.html",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/"
+  ],
+  "Supported phones / system requirements not yet announced": [
+   "https://gadgets.beebom.com/news/bgmi-air-india-launch-date-announced-crossed-14-million-pre-registrations",
+   "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://apps.apple.com/in/app/bgmi-air/id6762590312",
+  "file_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/42/40/27424079-8d63-f65f-7983-3ab66c1f44d4/SS6_BGMI_Air_launch_iPad.png/3000x0w.jpg",
+  "licence": "official publisher promotional asset (KRAFTON App Store screenshot)",
+  "author": "KRAFTON",
+  "width": 2732,
+  "height": 2048,
+  "local": "_work/2026-11-12-hourly-1627/idlynerd/bgmi-air-bridge.jpg (crop x683-1871,y0-1485 of _work/2026-11-12-hourly-1627/idlynerd/dl/SS6_BGMI_Air_launch_iPad_2.jpg; KRAFTON marketing lettering, logo and chevrons cropped out)",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: KRAFTON India (App Store screenshot)",
+  "subject": "BGMI Air in-game render: Erangel's steel truss bridge"
+ },
+ "framing": {
+  "photo": "_work/2026-11-12-hourly-1627/idlynerd/frame-bridge/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.91,
+  "faces": 0,
+  "ok": true
+ },
+ "tags": [],
+ "tags_evidence": "none: no verified KRAFTON/BGMI handle checked this run",
+ "gates": {
+  "g1": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlynerd-g1-v1.md",
+   "outcome": "BUILD (C1, ceiling 12-13)"
+  },
+  "g2": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlynerd-g23-v1.md",
+   "outcome": "PASS"
+  },
+  "g3": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlynerd-g23-v1.md",
+   "outcome": "PASS"
+  },
+  "g4": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlynerd-g4-v1.md",
+   "outcome": "PASS 13 (score file _work/2026-11-12-hourly-1627/reviews/idlynerd-g4-score.json)"
+  }
+ }
+}

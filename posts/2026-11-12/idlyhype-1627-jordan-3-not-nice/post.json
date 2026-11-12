@@ -1,0 +1,48 @@
+[
+ {
+  "acct": "idlyhype",
+  "slug": "idlyhype-1627-jordan-3-not-nice",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Superkicks",
+   "Nike SNKRS",
+   "Sneaker Files",
+   "Hot New Hip Hop",
+   "Sneaker Freaker"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Air Jordan 3 'Not Nice' Is Coming to India at ₹19,295",
+    "photo": "_work/2026-11-12-hourly-1627/idlyhype/frame-nike1/cover_source.png",
+    "photo_credit": "Image: Nike",
+    "focal": [
+     0.5,
+     1.0
+    ],
+    "zoom": 1.1
+   },
+   {
+    "type": "detail",
+    "stat": "21 NOV",
+    "stat_label": "Superkicks' Start Date, Same Day as the US",
+    "bullets": [
+     "Listed in UK 7 to 11 only",
+     "US pays $215; Nike Japan lists ¥31,900"
+    ],
+    "credit_line": "Sources: Superkicks, Nike SNKRS, Sneaker Files"
+   },
+   {
+    "type": "detail",
+    "stat": "IF4396-001",
+    "stat_label": "The Style Code to Check Before You Pay",
+    "bullets": [
+     "Look for 'Not Nice' stitched under the heel tab",
+     "Insoles read 'Checked It Twice', Santa's list line",
+     "Cracked brown leather, red-and-black elephant print"
+    ],
+    "credit_line": "Sources: Nike SNKRS, Sneaker Files, Hot New Hip Hop"
+   }
+  ]
+ }
+]
