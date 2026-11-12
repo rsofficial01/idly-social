@@ -1,0 +1,113 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this release; reference-led story, caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Air Jordan 4 Retro OG 'Bred' (IX8180-001) returns in its 1989 colourway: US launch 27 Nov 2026 (Black Friday) on Nike SNKRS at $230; nubuck upper (the 2024 'Reimagined' pair was leather), shape and fit 'remastered to the original specs' per Nike; no India date or price announced",
+ "sources": [
+  {
+   "outlet": "Nike (SNKRS launch page + US launch feed)",
+   "date": "13 Nov 2026 (checked ~02:45 and ~03:20 IST)",
+   "url": "https://www.nike.com/launch/t/air-jordan-4-bred"
+  },
+  {
+   "outlet": "Sneaker Freaker",
+   "date": "9 Nov 2026 (updated; first published 4 Dec 2025)",
+   "url": "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date"
+  },
+  {
+   "outlet": "Complex",
+   "date": "Nov 2026 (November Air Jordan release dates, led by the 'Bred' 4)",
+   "url": "https://www.complex.com/sneakers/a/victor-deng/air-jordan-release-dates-november-2026-air-jordan-4-bred"
+  },
+  {
+   "outlet": "Sneaker News",
+   "date": "9 Nov 2026 (search snippet only; page returned 403, not routed around)",
+   "url": "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/"
+  }
+ ],
+ "fact_sources": {
+  "Air Jordan 4 Retro OG 'Bred' launches in the US on 27 Nov 2026 (Nike feed startEntryDate 2026-11-27T15:00Z; page 'Available 11/27')": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date",
+   "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/"
+  ],
+  "27 Nov 2026 is Black Friday": [
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date",
+   "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/"
+  ],
+  "US price $230": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
+   "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/",
+   "https://www.complex.com/sneakers/a/victor-deng/air-jordan-release-dates-november-2026-air-jordan-4-bred"
+  ],
+  "Style code IX8180-001": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date"
+  ],
+  "Full name 'Air Jordan 4 Retro OG \"Bred\"'": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
+   "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/"
+  ],
+  "Original 1989 'Bred' colourway: Black, Fire Red, Cement Grey": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date"
+  ],
+  "Nubuck upper": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred",
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date"
+  ],
+  "Shape, fit and feel 'remastered to the original specs' (Nike's claim, attributed)": [
+   "https://www.nike.com/launch/t/air-jordan-4-bred"
+  ],
+  "The 2024 'Reimagined' pair was leather (tumbled leather; Valentine's release 'just last year' in an article first published Dec 2025)": [
+   "https://www.sneakerfreaker.com/releases/air-jordan-4-bred-IX8180-001-price-buy-release-date",
+   "https://www.crepdogcrew.com/products/jordan-4-retro-bred-reimagined"
+  ],
+  "Nike hasn't announced an India date or price (Superkicks full feed, nike.in, VegNonVeg: no listing; reviewer's wording)": [
+   "https://www.superkicks.in/products.json",
+   "https://www.nike.in/"
+  ]
+ },
+ "image": {
+  "url": "https://static.nike.com/a/images/w_2000,q_auto:best,f_jpg/2e3a5019-b514-49df-8d79-a467acc70193/air-jordan-4-bred-ix8180-001-release-date.jpg",
+  "page": "https://www.nike.com/launch/t/air-jordan-4-bred",
+  "licence": "Nike's own studio product image from its SNKRS launch page for IX8180-001; official brand image, editorial use, credited",
+  "author": "Nike",
+  "credit": "Image: Nike",
+  "size": "2000x2500",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0227/idlyhype/img/aj4bred-2e3a5019.jpg",
+  "subject": "Air Jordan 4 Retro OG 'Bred' (IX8180-001), adult pair seen from behind showing the Nike Air heel logos, product only, white studio background",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-13-hourly-0227/idlyhype/frame-3/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.54,
+    "faces": 0
+   },
+   "used": {
+    "photo": "_work/2026-11-13-hourly-0227/idlyhype/frame-3/cover_source.png",
+    "focal": [
+     0.5,
+     0.65
+    ],
+    "zoom": 1.25
+   },
+   "note": "Per G1 condition 5: zoom 1.25 (slightly above 1.15-1.2 to lift the soles clear of the 3-line headline), focal y 0.65 (crop clamped to the image bottom). Rendered: pair y ~220-885, x ~115-960; logo y ~50-105; headline 3 lines at 100px, box top y 950; cardkit photo scale 0.675, no upscale."
+  }
+ },
+ "tags": [],
+ "tags_evidence": "@jumpman23 not confirmed: jordan.com redirects to nike.com/jordan, and neither it nor Nike's AJ4 'Bred' launch page links an Instagram account (checked 13 Nov ~03:15 IST). Per G1 condition 6, no tag."
+}
