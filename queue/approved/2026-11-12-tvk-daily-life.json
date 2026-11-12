@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-12-tvk-daily-life",
+  "reviewer": {
+    "hook": 2,
+    "read": 1,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "Reviewer (blind): read 1: 6.8% appears three times and slide 7 mostly repeats slides 2-4. send 1: a family budget angle, but no single figure jumps out to forward."
+  },
+  "reviewed_at": "2026-11-12T02:45:46+00:00",
+  "reviewed_by": "claude reviewer (blind, fresh agent)",
+  "notes": "",
+  "story": false
+}

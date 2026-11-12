@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-12-tvk-money",
+  "reviewer": {
+    "hook": 2,
+    "read": 1,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 12,
+    "notes": "Reviewer (blind): read 1: the cover, slide 2 and slide 7 repeat the same headline idea. keep 1: gives the Feb-Mar 2027 budget to watch but not eligibility or how to check payment. Stance judged fair, mostly."
+  },
+  "reviewed_at": "2026-11-12T02:45:46+00:00",
+  "reviewed_by": "claude reviewer (blind, fresh agent)",
+  "notes": "",
+  "story": false
+}

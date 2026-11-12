@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 1,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Maker: read 1 because 6.8% appears on three slides; send 1 because no single figure is aimed at one person."
+}
