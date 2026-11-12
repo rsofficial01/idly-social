@@ -1,0 +1,38 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "2026-11-12-tvk-money",
+  "image_credit": "Photo: L.vivian.richard / Wikimedia Commons, public domain",
+  "image_source": null,
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/06.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-12-tvk-money/07.jpg"
+  ],
+  "score_self": 12,
+  "score_reviewer": 12,
+  "story_id": null,
+  "account": "idlynews",
+  "media_id": "17956638291299185",
+  "permalink": "https://www.instagram.com/p/DfoG4jwl_Mj/",
+  "posted_at": "2026-11-12T03:37:53+00:00",
+  "date": "2026-11-12",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/06.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-12-tvk-money/07.jpg"
+  ],
+  "score_total": 12,
+  "story": {
+    "status": "none"
+  }
+}
