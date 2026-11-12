@@ -1,0 +1,18 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/01.jpg",
+  "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/02.jpg",
+  "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/03.jpg",
+  "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-0827-mumbai-intl-flights-shift/score.json",
+ "title": "Maharashtra opposes shifting a third of Mumbai's international flights to Navi Mumbai (Fadnavis letter, 11 Nov 2026)",
+ "tags": [
+  "csmia_official"
+ ]
+}

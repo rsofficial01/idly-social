@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0827-mumbai-intl-flights-shift",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Free Press Journal",
+  "IANS",
+  "Business Today",
+  "Adani Airport Holdings"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Maharashtra Opposes Shifting a Third of Mumbai's International Flights",
+   "photo": "_work/2026-11-12-hourly-0827/idlynews/framing/cover_source.png",
+   "photo_credit": "Image: Mumbai International Airport Ltd",
+   "focal": [
+    0.5,
+    0.583
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "14",
+   "stat_label": "Destinations in Mumbai Airport Operator's Plan",
+   "bullets": [
+    "Includes Doha, Jeddah, Muscat and Riyadh routes",
+    "From the summer 2027 schedule, starting end-March",
+    "Reason: rebuild 15-million-passenger Terminal 1"
+   ],
+   "credit_line": "Sources: MIAL's proposal as reported by Free Press Journal, IANS, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "3",
+   "stat_label": "Steps in Fadnavis's Build-T1B-First Plan",
+   "bullets": [
+    "Finish new Terminal 1B, then move T1A flights in",
+    "Demolish and rebuild Terminal 1A only after that",
+    "International flights stay at Mumbai airport during the rebuild"
+   ],
+   "credit_line": "Sources: Fadnavis's letter of 11 Nov, via Free Press Journal and IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "91%",
+   "stat_label": "Of Mumbai Traffic Unaffected by Rebuild, Operator Says",
+   "bullets": [
+    "IndiGo, Air India, Akasa agreed to shift some flights",
+    "Foreign airlines still object to leaving Mumbai airport"
+   ],
+   "credit_line": "Sources: Adani Airport Holdings, Business Today, IANS, Free Press Journal"
+  }
+ ]
+}

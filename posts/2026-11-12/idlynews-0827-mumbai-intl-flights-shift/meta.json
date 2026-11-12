@@ -1,0 +1,125 @@
+{
+ "account": "idlynews",
+ "title": "Maharashtra CM Devendra Fadnavis writes to the Union Civil Aviation Ministry (letter of Wed 11 Nov 2026) opposing Mumbai airport operator MIAL's proposal to shift about a third of CSMIA's international operations to Navi Mumbai International Airport from the summer 2027 schedule (end of March 2027): 14 international destinations incl. Doha, Jeddah, Muscat and Riyadh, to make room to rebuild Terminal 1 (15 million passengers a year; Fadnavis's letter says the current plan replaces it with a new terminal by Dec 2030). He asks that no international flight be discontinued or diverted, says both airports should run independently, and proposes building the new T1B first, moving T1A operations into it, then rebuilding T1A. IndiGo, Air India and Akasa agreed to move some services; foreign airlines object; the operator says about 91% of traffic is unaffected.",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the Mumbai/Navi Mumbai international flight shift in the API feed (latest 50 checked 12 Nov 2026, ~08:35 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Free Press Journal",
+   "date": "11 Nov 2026, 20:49 IST",
+   "url": "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment"
+  },
+  {
+   "outlet": "IANS via Telangana Today",
+   "date": "11 Nov 2026, 20:48 IST",
+   "url": "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport"
+  },
+  {
+   "outlet": "IANS via The Hawk",
+   "date": "11 Nov 2026",
+   "url": "https://www.thehawk.in/news/states-and-uts/maharashtra/maha-cm-urges-centre-not-to-shift-international-flight-from-mumbai-to-navi-mumbai-airport"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "6 Nov 2026, 14:47 IST",
+   "url": "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06"
+  },
+  {
+   "outlet": "Gulf News",
+   "date": "5 Oct 2026",
+   "url": "https://gulfnews.com/business/aviation/mumbai-airport-revamp-will-uae-india-passengers-pay-more-to-fly-1.500698589"
+  },
+  {
+   "outlet": "Adani Airport Holdings / MIAL media release",
+   "date": "3 Oct 2026",
+   "url": "https://www.adani.com/newsroom/media-releases/adani-airports-to-begin-partial-redevelopment-of-the-north-section-of-terminal-1b-at-mumbai-airport"
+  },
+  {
+   "outlet": "Outlook Business",
+   "date": "3 Oct 2026",
+   "url": "https://www.outlookbusiness.com/corporate/adani-airports-to-redevelop-mumbai-t1-north-section-from-jan-9-traffic-to-be-shifted"
+  }
+ ],
+ "fact_sources": {
+  "Fadnavis wrote to the Union Civil Aviation Ministry on 11 Nov asking that no international flight operating from Mumbai be discontinued or diverted to Navi Mumbai; both airports should run independently at their own capacity": [
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.thehawk.in/news/states-and-uts/maharashtra/maha-cm-urges-centre-not-to-shift-international-flight-from-mumbai-to-navi-mumbai-airport"
+  ],
+  "Operator MIAL's proposal would shift about a third of Mumbai's international operations (IANS 33%; FPJ 'nearly one-third'; Gulf News 'about one-third')": [
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://gulfnews.com/business/aviation/mumbai-airport-revamp-will-uae-india-passengers-pay-more-to-fly-1.500698589"
+  ],
+  "14 international destinations, including Doha, Jeddah, Muscat and Riyadh (the four names common to the FPJ and IANS lists)": [
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06"
+  ],
+  "From the summer 2027 schedule, starting end of March 2027": [
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06"
+  ],
+  "Fadnavis's alternative: finish new T1B, move T1A operations into it, then demolish and rebuild T1A": [
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport"
+  ],
+  "IndiGo, Air India and Akasa Air agreed to move some services to Navi Mumbai": [
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06"
+  ],
+  "Foreign airlines continue to object (IANS); several airlines and their global representative bodies opposed (FPJ)": [
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment"
+  ],
+  "Reason: rebuild Terminal 1, 15 million passengers a year": [
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport",
+   "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06"
+  ],
+  "Caption only, attributed to the letter: Fadnavis's letter says the current plan would replace T1 with a new terminal by December 2030 (Business Today 6 Nov gives March 2029 for the expanded T1, so the date is attributed and kept off the card)": [
+   "https://www.freepressjournal.in/mumbai/cm-devendra-fadnavis-opposes-shifting-international-flights-to-navi-mumbai-airport-proposes-phased-terminal-1-redevelopment",
+   "https://telanganatoday.com/fadnavis-opposes-shifting-international-flights-from-mumbai-to-navi-mumbai-airport"
+  ],
+  "Operator says about 91% of Mumbai's traffic/capacity is unaffected by the rebuild (attributed)": [
+   "https://www.adani.com/newsroom/media-releases/adani-airports-to-begin-partial-redevelopment-of-the-north-section-of-terminal-1b-at-mumbai-airport",
+   "https://www.businesstoday.in/latest/corporate/story/12-intl-airlines-may-shift-flights-to-navi-mumbai-airport-t1-capacity-to-go-up-566183-2026-11-06",
+   "https://www.outlookbusiness.com/corporate/adani-airports-to-redevelop-mumbai-t1-north-section-from-jan-9-traffic-to-be-shifted"
+  ]
+ },
+ "left_out": "265 flights (only one current source for 'weekly'; BT gives ~16 daily departures by 12 airlines); 5 million passengers (sources disagree on what it measures); Dubai, Bahrain, Jakarta, Kuwait, Sharjah (only in one list each); old 25 Oct 2026 date; UDF vouchers (October plan only).",
+ "photo_source": {
+  "page": "https://csmia-mumbai.adaniairports.com/en",
+  "file_url": "https://csmia-mumbai.adaniairports.com/-/media/Images/AdaniAirMumbai/Latest-Images/Homepage/Background-banner.jpg",
+  "local_file": "_work/2026-11-12-hourly-0827/idlynews/img/csmia/Background-banner.jpg",
+  "licence": "Official image from the airport operator's own website (Mumbai International Airport Ltd, an Adani Airport Holdings company); used as an official press/publicity image with credit, per BRIEF 'official press/newsroom images ... credit Image: <Company>'",
+  "author": "Mumbai International Airport Ltd (CSMIA official website)",
+  "credit": "Image: Mumbai International Airport Ltd",
+  "subject": "CSMIA Terminal 2 canopy and forecourt flag mast at dusk, Mumbai",
+  "size": "2880x1560 original",
+  "why_not_commons": "Commons file page fetched (Av9, CC BY-SA 4.0, 3056x4592 verified) but the image download returned HTTP 429 twice (one attempt + one wait); moved on per BRIEF. Adani newsroom release pages only carry 620x320 thumbnails (too small).",
+  "facecheck": "faces=0 (YuNet, before viewing); tiny distant figures under the canopy are not identifiable",
+  "viewed": true
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing (faces 0, suggested focal [0.5,0.5] zoom 1.0)",
+  "used": {
+   "photo": "_work/2026-11-12-hourly-0827/idlynews/framing/cover_source.png",
+   "focal": [
+    0.5,
+    0.583
+   ],
+   "zoom": 1.2
+  },
+  "why": "zoom 1.2 / focal y 0.583 puts the canopy and flag between y ~230 and ~1000, clear of the logo and above the headline block (top 1022); cardkit scale 1.04x"
+ },
+ "tags": [
+  "csmia_official"
+ ],
+ "tag_evidence": "csmia-mumbai.adaniairports.com (the operator's own site, image source) links to https://www.instagram.com/csmia_official/",
+ "baseline": "Not a Tamil Nadu story; baseline check (tn) matched airport keywords only (Parandur etc.), no STOP. No Maharashtra baseline exists.",
+ "revision": "r1 (12 Nov 2026): Gate 2-4 word fixes applied: slide 4 label and bullet 1, slide 3 bullet 3, slide 2 bullet 3, caption Dec 2030 attribution, alt text 'by the rebuild'"
+}
