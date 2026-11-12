@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Toho (official still)",
+  "slug": "idlynerd-2327-godzilla-minus-zero-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynerd-2327-godzilla-minus-zero-india/01.jpg",
+  "scale": 0.846
+ },
+ {
+  "stat": 192,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Sacnilk, Republic World",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2327-godzilla-minus-zero-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynerd-2327-godzilla-minus-zero-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 204,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bollywood Hungama, Sacnilk, The Week",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2327-godzilla-minus-zero-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynerd-2327-godzilla-minus-zero-india/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 276,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: IMAX, AP, Toho, The Week",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2327-godzilla-minus-zero-india",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynerd-2327-godzilla-minus-zero-india/04.jpg",
+  "scale": null
+ }
+]

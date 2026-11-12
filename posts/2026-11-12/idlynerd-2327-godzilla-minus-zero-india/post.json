@@ -1,0 +1,56 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2327-godzilla-minus-zero-india",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Bollywood Hungama",
+  "The Week",
+  "AP",
+  "IMAX"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Godzilla Minus Zero Stomps Into Indian Cinemas On 20 Nov",
+   "photo": "_work/2026-11-12-hourly-2327/idlynerd/gmz-c/gmz-sensen.jpg",
+   "photo_credit": "Image: Toho (official still)",
+   "focal": [
+    0.55,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "JUN 2024",
+   "stat_label": "Godzilla Minus One Skipped Indian Cinemas",
+   "bullets": [
+    "The Oscar winner went straight to Netflix here",
+    "Minus Zero gets the cinema release Minus One missed"
+   ],
+   "credit_line": "Sources: Sacnilk, Republic World"
+  },
+  {
+   "type": "detail",
+   "stat": "2 WEEKS",
+   "stat_label": "Why Godzilla Minus Zero Reaches India Late",
+   "bullets": [
+    "Ramayana: Part One gets India's IMAX screens first",
+    "PVR INOX Pictures confirms an IMAX release",
+    "Hunger Games prequel competes with it for IMAX screens"
+   ],
+   "credit_line": "Sources: Bollywood Hungama, Sacnilk, The Week"
+  },
+  {
+   "type": "detail",
+   "stat": "$21.3M",
+   "stat_label": "Godzilla Minus Zero's Worldwide IMAX Opening",
+   "bullets": [
+    "Japan: ¥910 million on day one, a live-action record",
+    "North America: $31.6 million, No. 1 on opening weekend",
+    "First Japanese production Filmed for IMAX"
+   ],
+   "credit_line": "Sources: IMAX, AP, Toho, The Week"
+  }
+ ]
+}
