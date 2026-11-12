@@ -1,0 +1,208 @@
+{
+  "slug": "2026-11-12-idlynerd-ramayana-7-day-streak",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-12T12:20:30+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-epic-arrives-ramayana-is-now-in-cinemas",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=4mzh5X7HHw0",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=4mzh5X7HHw0",
+    "source_url": "https://www.youtube.com/watch?v=4mzh5X7HHw0",
+    "image_url": "https://i.ytimg.com/vi/4mzh5X7HHw0/maxresdefault.jpg",
+    "credit": "Image: World Of Ramayana (official video)",
+    "organisation": "World Of Ramayana",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=4mzh5X7HHw0: author 'World Of Ramayana' https://www.youtube.com/@WorldOfRamayana, title \"Namit Malhotra's Ramayana | Vision of Ramayana\"",
+      "thumbnail https://i.ytimg.com/vi/4mzh5X7HHw0/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@WorldOfRamayana",
+    "video_title": "Namit Malhotra's Ramayana | Vision of Ramayana"
+  },
+  "faces": [
+    [
+      763.2,
+      196.2,
+      34.5,
+      42.0,
+      0.912
+    ],
+    [
+      491.7,
+      199.2,
+      32.0,
+      38.7,
+      0.907
+    ],
+    [
+      617.2,
+      156.1,
+      34.7,
+      44.9,
+      0.9
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5038,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      357.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        754,
+        358,
+        834,
+        456
+      ],
+      [
+        245,
+        365,
+        320,
+        455
+      ],
+      [
+        480,
+        283,
+        561,
+        387
+      ]
+    ],
+    "logo_saliency": 0.55,
+    "notes": [
+      "3 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        763.2,
+        196.2,
+        34.5,
+        42.0,
+        0.912
+      ],
+      [
+        491.7,
+        199.2,
+        32.0,
+        38.7,
+        0.907
+      ],
+      [
+        617.2,
+        156.1,
+        34.7,
+        44.9,
+        0.9
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 4 known items, 3 needing care (aiadmk-2011-sun-pictures-executive-arrest: alleged, da-case-2014: single_source, minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: World Of Ramayana (official video)",
+      "Source: Bollywood Hungama",
+      "Sources: Sacnilk, Koimoi"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 92,
+      "lines": 3,
+      "overflow": false,
+      "top": 974,
+      "credit_line": "Image: World Of Ramayana (official video)",
+      "slug": "2026-11-12-idlynerd-ramayana-7-day-streak",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 180,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Bollywood Hungama",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ramayana-7-day-streak",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 180,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Koimoi",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ramayana-7-day-streak",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana: Part 1 grossed more than ₹100 crore worldwide on every one of its first seven days in cinemas, from Thursday 5 November to Wednesday 11 November, according to trade figures reported by Bollywood Hungama and Variety India. Bollywood Hungama calls it the first Bollywood film to do that.\n\nBy Bollywood Hungama's daily figures, its best day was Monday 9 November, the day after Diwali, at ₹158.38 crore, and its closest call was day 7, Wednesday, at ₹100.10 crore. Trackers' daily numbers differ.\n\nSacnilk puts the first-week worldwide gross at ₹934.55 crore: ₹611.05 crore gross from India (₹511.10 crore net) and ₹323.50 crore from overseas. Sacnilk and Koimoi say that already takes it past Animal's lifetime worldwide gross, making it Ranbir Kapoor's highest-grossing film. Gross is ticket money before cinemas and distributors take their share, not profit.\n\nHave you watched Ramayana in a cinema yet, and in which language?\n\nFull story on idly.news (link in bio).\n\nSources: Bollywood Hungama, Variety India, Sacnilk, Koimoi\n\n#Ramayana #RamayanaPart1 #RanbirKapoor #BoxOffice #idlynerd\n\nImage: World Of Ramayana (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
