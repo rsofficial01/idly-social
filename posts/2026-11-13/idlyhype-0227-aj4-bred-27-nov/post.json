@@ -1,0 +1,44 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0227-aj4-bred-27-nov",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Nike",
+  "Sneaker Freaker",
+  "Complex"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Air Jordan 4 'Bred' Returns 27 Nov in US, $230",
+   "photo": "_work/2026-11-13-hourly-0227/idlyhype/frame-3/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    0.65
+   ],
+   "zoom": 1.25
+  },
+  {
+   "type": "detail",
+   "stat": "1989",
+   "stat_label": "How the 2026 'Bred' 4 Differs",
+   "bullets": [
+    "Nubuck upper; the 2024 'Reimagined' pair was leather",
+    "Shape and fit remastered to original specs, Nike says",
+    "Same Black, Fire Red and Cement Grey as 1989"
+   ],
+   "credit_line": "Sources: Nike, Sneaker Freaker"
+  },
+  {
+   "type": "detail",
+   "stat": "IX8180-001",
+   "stat_label": "Style Code to Match Before You Pay",
+   "bullets": [
+    "Search it to skip older 'Bred' 4 retros",
+    "Nike hasn't announced an India date or price yet."
+   ],
+   "credit_line": "Sources: Nike, Sneaker Freaker"
+  }
+ ]
+}
