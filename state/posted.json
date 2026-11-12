@@ -2950,5 +2950,36 @@
     "tagged": [
       "nikesb"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18080261120430572",
+    "permalink": "https://www.instagram.com/p/Dfp77QtGNkL/",
+    "posted_at": "2026-11-12T20:40:33+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0127-ibm-visa-sponsorship/03.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18037287344666044",
+    "permalink": "https://www.instagram.com/p/Dfp7-m-l7JQ/",
+    "posted_at": "2026-11-12T20:41:00+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
