@@ -4,7 +4,7 @@
  "idly_article": false,
  "no_idly_article_reason": "No idly.news article on this release (not in the idly.news API candidates); reference-led story, caption carries a Sources line; post with --no-idly-article.",
  "format": "news",
- "title": "Nike SB Air Force 1 'Navy' (HM8517-400) coming to India: Superkicks lists ₹10,295 incl. taxes, UK 7-11, start date 17 Nov 2026, same date as Nike's US launch at $120 (about ₹11,280 at 12 Nov rates, before US sales tax), so about ₹1,000 lower in India",
+ "title": "Nike SB Air Force 1 'Navy' (HM8517-400) coming to India: Superkicks lists ₹10,295 incl. taxes, UK 7-11, start date 17 Nov 2026, same date as Nike's US launch at $120 (about ₹11,280 at 12 Nov rates, before US sales tax), so Superkicks' price is about ₹1,000 lower",
  "sources": [
   {
    "outlet": "Superkicks",
@@ -71,12 +71,6 @@
    "https://api.frankfurter.app/latest?from=USD&to=INR",
    "https://open.er-api.com/v6/latest/USD"
   ],
-  "India price about ₹1,000 below the US price before US sales tax (₹967-990 gap)": [
-   "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy.js",
-   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
-   "https://api.frankfurter.app/latest?from=USD&to=INR",
-   "https://open.er-api.com/v6/latest/USD"
-  ],
   "Nike SB skate shoe ('Nike SB Air Force 1 Skate Shoes'; 'Nike's skate-ready Air Force 1')": [
    "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
    "https://www.sneakerfiles.com/nike-sb-air-force-1-navy-black/"
@@ -89,6 +83,12 @@
    "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
    "https://www.sneakerfiles.com/nike-sb-air-force-1-navy-black/",
    "https://justfreshkicks.com/nike-sb-air-force-1-navy/"
+  ],
+  "Superkicks' price is about ₹1,000 lower than the US price before US sales tax (₹967-990 gap)": [
+   "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy.js",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=upcoming(true)",
+   "https://api.frankfurter.app/latest?from=USD&to=INR",
+   "https://open.er-api.com/v6/latest/USD"
   ]
  },
  "image": {

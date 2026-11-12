@@ -126,7 +126,5 @@
    "note": "pipeline.framing ok at focal 0.5 (faces 0, upscale 1.13, no sharpening); rendered 01.jpg at 0.5 screened faces=1 (false positive), so focal moved to 0.62 where the rendered 01.jpg screens faces=0"
   }
  },
- "tags": [
-  "pibindia"
- ]
+ "tags": []
 }
