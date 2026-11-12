@@ -1,0 +1,79 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "New on OTT in India, 12-13 Nov 2026: Jailer 2 (Prime Video), Heartland (Netflix), Student of the Year: After Dark (JioHotstar), Parivarik ManuRanjan (Sony LIV), Bandra (ZEE5)",
+  "headline": "SOTY: After Dark and 4 More on OTT This Weekend",
+  "caption": "Five of the new titles on OTT in India this weekend, from Thursday 12 to Friday 13 November.\n\nRajinikanth's Jailer 2 has been streaming on Prime Video since Thursday, four weeks after it opened in cinemas on 15 October. You can watch it in Tamil, Telugu, Hindi, Malayalam or Kannada.\n\nOn Friday, ZEE5 starts Bandra, the 2023 Malayalam film with Dileep and Tamannaah Bhatia, in its first streaming release. Netflix has Heartland, a thriller in which Jessica Chastain plays a former country music star searching for her missing niece. JioHotstar begins Student of the Year: After Dark, a Hindi thriller series directed by Reema Maya, and Sony LIV premieres Parivarik ManuRanjan, its original Hindi family comedy with Pankaj Tripathi and Aditi Rao Hydari.\n\nHow many of these five streaming services does your home pay for right now?\n\nSources: Prime Video India, ZEE5, Sony LIV, JioHotstar, Netflix Tudum, The Week, The Hollywood Reporter India, Esquire India, Medianews4u, Sacnilk, NewsBytes\n\n#NewOnOTT #OTTReleases #Jailer2 #SOTYAfterDark #idlynerd",
+  "alt_text": "Slide 1: a still from a JioHotstar promo for Student of the Year: After Dark, under the headline \"SOTY: After Dark and 4 More on OTT This Weekend\". Slide 2: \"12 NOV\", Jailer 2 streams on Prime Video: watch in Tamil, Telugu, Hindi, Malayalam or Kannada; opened in cinemas 15 Oct, streaming 28 days later. Slide 3: \"13 NOV\", Friday on Netflix and JioHotstar: Heartland, a Netflix film, a Jessica Chastain thriller; Student of the Year: After Dark, a Hindi series on JioHotstar. Slide 4: \"13 NOV\", Friday on Sony LIV and ZEE5: Parivarik ManuRanjan, a Sony LIV original Hindi family comedy; Bandra on ZEE5, a 2023 Malayalam film streaming for the first time.",
+  "sources": [
+    "Prime Video India",
+    "ZEE5",
+    "Sony LIV",
+    "Netflix Tudum",
+    "The Week",
+    "The Hollywood Reporter India",
+    "Esquire India",
+    "Medianews4u"
+  ],
+  "detail_slides": [
+    {
+      "stat": "12 NOV",
+      "stat_label": "Jailer 2 Streams on Prime Video",
+      "bullets": [
+        "Watch in Tamil, Telugu, Hindi, Malayalam or Kannada",
+        "Opened in cinemas 15 Oct; streaming 28 days later"
+      ],
+      "credit_line": "Sources: Prime Video India, The Week, The Hollywood Reporter India"
+    },
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on Netflix and JioHotstar",
+      "bullets": [
+        "Heartland · Netflix film · Jessica Chastain thriller",
+        "Student of the Year: After Dark · JioHotstar · Hindi series"
+      ],
+      "credit_line": "Sources: Netflix Tudum, The Week, The Hollywood Reporter India, Sacnilk"
+    },
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday on Sony LIV and ZEE5",
+      "bullets": [
+        "Parivarik ManuRanjan · Sony LIV original · Hindi family comedy",
+        "Bandra · ZEE5 · 2023 Malayalam film, first time streaming"
+      ],
+      "credit_line": "Sources: ZEE5, Sony LIV, Medianews4u, The Week, Esquire India"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=Mb9HJo2avtE",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=BVSiHdl7ViA"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=A1xxE1zHePI"
+      }
+    ]
+  },
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: a service list with a date, no surprising number (reviewer G1 cap). send 2 only because Jailer 2 is in the list. keep 2: platform, day, date, language per title. reply 2: household subscriptions, from readers' own lives. alone 2: cover names two titles and the weekend; slides carry dates and platforms."
+    }
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: special (New on OTT This Weekend, Thu). idlynerd desk, hourly run 2127, v2 after the Bandra spec failed framing (rLy_RPXXLyo, 21:51). Cover leads with SOTY: After Dark; every attempt is a @JioHotstar SOTY upload not tried today (oEmbed text only): Mb9HJo2avtE, A1xxE1zHePI, BVSiHdl7ViA. These are promos, not the full trailer (_T4DA1H9U_w failed framing at 09:12). BTS upload ABJrcym0eRY left out. Slides and caption as the G2+3-passed v1 (slide 3 fix applied); only the headline, the alt text's first sentence, one hashtag and the image changed. 'format' kept in notes: spec.schema.json rejects a top-level key.",
+  "created_at": "2026-11-12T21:54:02+05:30"
+}
