@@ -1,0 +1,159 @@
+{
+ "account": "idlynews",
+ "title": "Morning Brief, Thu 12 Nov 2026: two express trains derail about 10 hours apart on Wed 11 Nov (lead): Kolkata-Sairang Express, locomotive and five coaches at Digaru, Assam, ~06:54 (NFR; NFR said no injuries, Assam CM said four minor injuries) and Chauri Chaura Express, four coaches at Kanpur Central ~17:05 (about 300 passengers in them safe, railway officials); Delhi AQI 313 'Very Poor' on Wed under GRAP Stage III (since 6 Nov: BS-III petrol/BS-IV diesel four-wheelers restricted in Delhi and four NCR districts, non-essential construction and demolition banned, classes up to Class 5 hybrid with an online option; Noida and Ghaziabad orders 11 Nov); two SPOs missing in Kishtwar, police and Army searching; Iran awaits US reply to its seven conditions, Ghalibaf says Hormuz will 'never return' to pre-war status; Russia-Ukraine Abu Dhabi talks end without breakthrough, large prisoner exchange confirmed",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "sources": [
+  {
+   "outlet": "Indian Express",
+   "date": "2026-11-11",
+   "url": "https://indianexpress.com/article/india/kolkata-sairang-express-train-derail-in-assam-casualty-update-10958352/"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-11",
+   "url": "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-11",
+   "url": "https://www.hindustantimes.com/india-news/gorakhpur-bound-train-derails-at-kanpur-central-four-coaches-go-off-tracks-uttar-pradesh-rail-accident-chauri-chaura-express-101794401599220.html"
+  },
+  {
+   "outlet": "Indian Express",
+   "date": "2026-11-11",
+   "url": "https://indianexpress.com/article/india/chauri-chaura-express-derail-uttar-pradesh-kanpur-central-railway-station-helpline-10959354/"
+  },
+  {
+   "outlet": "Indian Express",
+   "date": "2026-11-12",
+   "url": "https://indianexpress.com/article/cities/delhi/diwali-firecrackers-prominent-pm2-5-pollution-sources-10959467/"
+  },
+  {
+   "outlet": "NDTV",
+   "date": "2026-11-11",
+   "url": "https://www.ndtv.com/india-news/delhi-air-quality-drops-back-to-very-poor-category-aqi-at-313-12314025"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-11",
+   "url": "https://www.hindustantimes.com/india-news/ghaziabad-orders-hybrid-classes-for-students-up-to-class-5-amid-poor-air-quality-grap-3-curbs-ncr-pollution-101794402011922.html"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2026-11-07",
+   "url": "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-12",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-11",
+   "url": "https://www.hindustantimes.com/india-news/two-special-police-officers-go-missing-in-jammu-and-kashmirs-kishtwar-search-operation-underway-101794419071516.html"
+  },
+  {
+   "outlet": "Al Jazeera",
+   "date": "2026-11-11",
+   "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-12",
+   "url": "https://www.hindustantimes.com/world-news/us-news/iran-sets-7-conditions-for-reopening-strait-of-hormuz-resuming-talks-with-us-101794424536128.html"
+  },
+  {
+   "outlet": "The Hindu / Reuters",
+   "date": "2026-11-11",
+   "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece"
+  },
+  {
+   "outlet": "BBC",
+   "date": "2026-11-11",
+   "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+  },
+  {
+   "outlet": "Outlook",
+   "date": "2026-11-07",
+   "url": "https://www.outlookindia.com/international/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"
+  }
+ ],
+ "fact_sources": {
+  "Kolkata-Sairang Express: locomotive and five coaches derailed at Digaru, Assam, ~06:54 Wed 11 Nov (NFR); NFR quote 'could not control the speed'": [
+   "https://indianexpress.com/article/india/kolkata-sairang-express-train-derail-in-assam-casualty-update-10958352/",
+   "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html"
+  ],
+  "NFR said no injuries; Assam CM Himanta Biswa Sarma said four had minor injuries": [
+   "https://indianexpress.com/article/india/kolkata-sairang-express-train-derail-in-assam-casualty-update-10958352/",
+   "https://www.hindustantimes.com/india-news/passenger-train-coaches-derailed-at-digaru-railway-station-in-assams-kamrup-injured-death-toll-compensation-101794365637385.html"
+  ],
+  "about 10 hours apart (06:54 and ~17:05 IST)": [
+   "https://indianexpress.com/article/india/kolkata-sairang-express-train-derail-in-assam-casualty-update-10958352/",
+   "https://www.hindustantimes.com/india-news/gorakhpur-bound-train-derails-at-kanpur-central-four-coaches-go-off-tracks-uttar-pradesh-rail-accident-chauri-chaura-express-101794401599220.html"
+  ],
+  "Delhi 24-hour AQI 313 'Very Poor' on Wed 11 Nov, 299 on Tue (CPCB)": [
+   "https://indianexpress.com/article/cities/delhi/diwali-firecrackers-prominent-pm2-5-pollution-sources-10959467/",
+   "https://www.ndtv.com/india-news/delhi-air-quality-drops-back-to-very-poor-category-aqi-at-313-12314025"
+  ],
+  "GRAP Stage III in force in NCR; Noida and Ghaziabad order hybrid classes up to Class 5": [
+   "https://www.hindustantimes.com/india-news/ghaziabad-orders-hybrid-classes-for-students-up-to-class-5-amid-poor-air-quality-grap-3-curbs-ncr-pollution-101794402011922.html",
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07"
+  ],
+  "two SPOs missing in Kishtwar district; police and Army searching": [
+   "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
+   "https://www.hindustantimes.com/india-news/two-special-police-officers-go-missing-in-jammu-and-kashmirs-kishtwar-search-operation-underway-101794419071516.html"
+  ],
+  "Iran awaits official US reply to seven conditions incl. lifting naval blockade and sanctions, releasing frozen funds (Ghalibaf to Al Jazeera)": [
+   "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+   "https://www.hindustantimes.com/world-news/us-news/iran-sets-7-conditions-for-reopening-strait-of-hormuz-resuming-talks-with-us-101794424536128.html"
+  ],
+  "Ghalibaf: Hormuz will 'never return' to pre-war status": [
+   "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+   "https://www.hindustantimes.com/world-news/us-news/iran-sets-7-conditions-for-reopening-strait-of-hormuz-resuming-talks-with-us-101794424536128.html"
+  ],
+  "Abu Dhabi Russia-Ukraine talks ended Wed without breakthrough; large prisoner exchange confirmed; Witkoff and Kushner to Moscow Thu": [
+   "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+   "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece"
+  ],
+  "Chauri Chaura Express: four coaches (B4-B7) derailed leaving Kanpur Central ~17:05 Wed; about 300 passengers in them safe; rest of the train to continue its journey": [
+   "https://www.hindustantimes.com/india-news/gorakhpur-bound-train-derails-at-kanpur-central-four-coaches-go-off-tracks-uttar-pradesh-rail-accident-chauri-chaura-express-101794401599220.html",
+   "https://indianexpress.com/article/india/chauri-chaura-express-derail-uttar-pradesh-kanpur-central-railway-station-helpline-10959354/"
+  ],
+  "GRAP Stage III invoked by CAQM on 6 Nov (order of 6 Nov) and in force on 11 Nov": [
+   "https://www.outlookindia.com/international/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026",
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
+   "https://www.hindustantimes.com/india-news/ghaziabad-orders-hybrid-classes-for-students-up-to-class-5-amid-poor-air-quality-grap-3-curbs-ncr-pollution-101794402011922.html"
+  ],
+  "Stage III restricts BS-III petrol and BS-IV diesel four-wheelers in Delhi, Gurugram, Faridabad, Ghaziabad, Gautam Buddh Nagar": [
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
+   "https://www.outlookindia.com/international/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"
+  ],
+  "Stage III bans non-essential construction and demolition across NCR": [
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
+   "https://www.outlookindia.com/international/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"
+  ],
+  "Classes up to Class 5 hybrid; students/guardians may opt for online where available": [
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
+   "https://www.outlookindia.com/international/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026",
+   "https://www.hindustantimes.com/india-news/ghaziabad-orders-hybrid-classes-for-students-up-to-class-5-amid-poor-air-quality-grap-3-curbs-ncr-pollution-101794402011922.html"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Kanpur_Central_Railway_Station_at_Night.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kanpur_Central_Railway_Station_at_Night.jpg/3840px-Kanpur_Central_Railway_Station_at_Night.jpg (3840px rendition of the 4253x3187 original); saved as _work/2026-11-12-hourly-0727/idlynews/photos/kanpur_night.jpg, sha256 858c7337758cfc99453aa54496f5be0ccea64014a6be8a1049ddf17d0d4c8d3e",
+  "licence": "CC0 1.0 Universal (public domain dedication)",
+  "author": "Apurv013 (own work, 20/21 Jul 2020)",
+  "credit": "Photo: Apurv013 / Wikimedia Commons, CC0",
+  "subject": "Kanpur Central railway station building at night, where the Chauri Chaura Express derailed on 11 Nov 2026",
+  "size": "3840x2878",
+  "facecheck": "source faces=0; rendered cover faces=0",
+  "viewed": true,
+  "processing": "cardkit hype cover, focal (0.55, 0.7), zoom 1.2, photo scale 0.56 (downscale, no enlargement); 4:5 full-bleed crop, no fill. Domes and the KANPUR CENTRAL sign sit above the headline (sign at y ~615, headline top ~965); logo on dark sky."
+ },
+ "tags": [],
+ "tag_evidence": "none: individual photographer, CC0 Commons photo",
+ "story": "none (Stories paused)"
+}

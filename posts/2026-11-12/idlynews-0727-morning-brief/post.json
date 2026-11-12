@@ -1,0 +1,50 @@
+{
+  "acct": "idlynews",
+  "slug": "idlynews-0727-morning-brief",
+  "date": "12 Nov 2026",
+  "sources": [
+    "Indian Express",
+    "Hindustan Times",
+    "NDTV",
+    "The Hindu",
+    "Business Today",
+    "Outlook",
+    "Al Jazeera",
+    "Reuters",
+    "BBC"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Two Express Trains Derail 10 Hours Apart in Assam, Kanpur",
+      "photo": "_work/2026-11-12-hourly-0727/idlynews/photos/kanpur_night.jpg",
+      "photo_credit": "Photo: Apurv013 / Wikimedia Commons, CC0",
+      "focal": [
+        0.55,
+        0.7
+      ],
+      "zoom": 1.2
+    },
+    {
+      "type": "detail",
+      "stat": "300",
+      "stat_label": "Passengers in Kanpur's Derailed Coaches, All Safe",
+      "bullets": [
+        "Assam: locomotive and five coaches derailed, railway says",
+        "Kishtwar, J&K: two Special Police Officers missing; search on"
+      ],
+      "credit_line": "Sources: Indian Express, Hindustan Times, The Hindu"
+    },
+    {
+      "type": "detail",
+      "stat": "313",
+      "stat_label": "Delhi's AQI on Wednesday, Under Stage III Curbs",
+      "bullets": [
+        "Older cars restricted: BS-III petrol, BS-IV diesel",
+        "Non-essential construction and demolition banned across NCR",
+        "Class 5 and below: families may choose online classes"
+      ],
+      "credit_line": "Sources: Indian Express, NDTV, Business Today, Outlook, Hindustan Times"
+    }
+  ]
+}

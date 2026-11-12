@@ -1,0 +1,70 @@
+{
+ "account": "idlyhype",
+ "title": "Decathlon Sports India's FY25 revenue (year to March 2025) was ₹4,133 crore (PTI, FPJ), about 3x Nike India's ~₹1,380 crore for the same year (Financial Express, 16 Feb 2026; Open, 10 Nov 2026: ₹1,381 crore); adidas India and Puma India each just over ₹3,000 crore (FE: adidas ₹3,114 cr, Puma ₹3,274 cr; Open: adidas ~₹3,259 cr FY25, Puma ~₹3,200 cr; years differ, so no exact figures on the card). Decathlon FY26: revenue from operations ₹4,478 crore (+8.35%), total income ₹4,517 crore, EBITDA ₹424 crore, net profit ₹63 crore after a ₹65 crore FY25 loss (Entrackr 5 Nov, Apparel Resources 5 Nov, Lapaas Voice, Open 10 Nov); Nike India has not reported FY26. 132 stores, about 200 planned by 2030 (Outlook Business, Open); about half the footwear sold in its Indian stores is made in India (Apparel Resources, Outlook Business, Open).",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {"outlet": "Open Magazine", "date": "2026-11-10", "url": "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"},
+  {"outlet": "Financial Express ('Finding the right fit', via Third Eyesight republication)", "date": "2026-02-16", "url": "https://www.thirdeyesight.in/nike-nykaa-arrangement/"},
+  {"outlet": "Financial Express (print, Magzter)", "date": "2026-02-16", "url": "https://www.magzter.com/en/stories/newspaper/Financial-Express-Pune/FINDING-THE-RIGHT-FIT-727345"},
+  {"outlet": "PTI via The Week", "date": "2025-12-19", "url": "https://www.theweek.in/wire-updates/business/2025/12/19/dcm75-biz-decathlon-revenue.html"},
+  {"outlet": "Free Press Journal", "date": "2025-12", "url": "https://www.freepressjournal.in/business/decathlon-sports-india-slips-into-65-crore-loss-in-fy25-despite-modest-revenue-growth"},
+  {"outlet": "Entrackr (FY25)", "date": "2025-12", "url": "https://entrackr.com/fintrackr/decathlon-india-reports-rs-65-cr-loss-in-fy25-as-compared-to-rs-197-cr-pat-in-fy24-10924195"},
+  {"outlet": "Entrackr (FY26: 'Decathlon India's total income crosses Rs 4,500 Cr in FY26; EBITDA stands at Rs 424 Cr', via Google News)", "date": "2026-11-05", "url": "https://news.google.com/rss/search?q=Decathlon+India+FY26"},
+  {"outlet": "Apparel Resources ('Decathlon India Revenue Grows 8.35% to Rs 4,478 Crore in FY26', via Google News)", "date": "2026-11-05", "url": "https://news.google.com/rss/search?q=Decathlon+India+FY26"},
+  {"outlet": "Lapaas Voice", "date": "2026-11", "url": "https://lapaasvoice.com/decathlon-india-crosses-%E2%82%B94500-crore-total-income-in-fy26-reports-%E2%82%B9424-crore-ebitda/"},
+  {"outlet": "Outlook Business", "date": "2026-09", "url": "https://www.outlookbusiness.com/corporate/decathlon-targets-1000-cr-running-sports-biz-in-4-years"},
+  {"outlet": "Apparel Resources (running, footwear made in India)", "date": "2026-09-30", "url": "https://apparelresources.com/business-news/retail/decathlon-india-targets-rs-1000-cr-running-business-four-years/"}
+ ],
+ "fact_sources": {
+  "Decathlon India FY25 revenue ₹4,133 crore; ₹65 crore net loss": [
+   "https://www.theweek.in/wire-updates/business/2025/12/19/dcm75-biz-decathlon-revenue.html",
+   "https://www.freepressjournal.in/business/decathlon-sports-india-slips-into-65-crore-loss-in-fy25-despite-modest-revenue-growth",
+   "https://entrackr.com/fintrackr/decathlon-india-reports-rs-65-cr-loss-in-fy25-as-compared-to-rs-197-cr-pat-in-fy24-10924195",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ],
+  "Nike India FY25 (year to March 2025) revenue about ₹1,380 crore": [
+   "https://www.thirdeyesight.in/nike-nykaa-arrangement/",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ],
+  "adidas India and Puma India just over ₹3,000 crore each (FE ₹3,114 cr / ₹3,274 cr; Open ~₹3,259 cr / ~₹3,200 cr)": [
+   "https://www.thirdeyesight.in/nike-nykaa-arrangement/",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ],
+  "Decathlon India FY26 revenue from operations ₹4,478 crore, up 8.35%": [
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes",
+   "Apparel Resources 5 Nov 2026 headline (Google News): https://news.google.com/rss/search?q=Decathlon+India+FY26",
+   "https://lapaasvoice.com/decathlon-india-crosses-%E2%82%B94500-crore-total-income-in-fy26-reports-%E2%82%B9424-crore-ebitda/"
+  ],
+  "Decathlon India FY26 EBITDA ₹424 crore; net profit ₹63 crore": [
+   "https://lapaasvoice.com/decathlon-india-crosses-%E2%82%B94500-crore-total-income-in-fy26-reports-%E2%82%B9424-crore-ebitda/",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes",
+   "Entrackr 5 Nov 2026 headline, EBITDA Rs 424 Cr (Google News)"
+  ],
+  "132 stores now, about 200 planned by 2030": [
+   "https://www.outlookbusiness.com/corporate/decathlon-targets-1000-cr-running-sports-biz-in-4-years",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ],
+  "About half the footwear sold in its Indian stores is made in India (company)": [
+   "https://apparelresources.com/business-news/retail/decathlon-india-targets-rs-1000-cr-running-business-four-years/",
+   "https://www.outlookbusiness.com/corporate/decathlon-targets-1000-cr-running-sports-biz-in-4-years",
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ],
+  "Nike India has not reported FY26": [
+   "https://openthemagazine.com/business/decathlon-has-outrun-nike-adidas-and-puma-in-india-can-it-win-serious-athletes"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Decathlon_Guwahati.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "নিৰঞ্জন বড়া (own work)",
+  "credit": "Photo: নিৰঞ্জন বড়া / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "original 3264x2448; used Commons 1920x1440 render (original URL returns HTTP 429 to this host)",
+  "file": "_work/2026-11-12-hourly-0727/hype/dl_decathlon/decathlon_guwahati.jpg",
+  "facecheck": "faces=0 (source and rendered cover)",
+  "viewed": true
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the photo is by an individual Commons photographer, not a brand."
+}

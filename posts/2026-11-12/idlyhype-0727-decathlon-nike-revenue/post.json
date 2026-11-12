@@ -1,0 +1,47 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0727-decathlon-nike-revenue",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Financial Express",
+  "Open",
+  "PTI",
+  "Entrackr",
+  "Apparel Resources",
+  "Outlook Business"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Decathlon's India Revenue Was 3x Nike's in FY25",
+   "photo": "_work/2026-11-12-hourly-0727/hype/framing_decathlon/cover_source.png",
+   "photo_credit": "Photo: নিৰঞ্জন বড়া / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.0,
+    0.6
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,133 Cr",
+   "stat_label": "Decathlon India's FY25 Revenue, About 3x Nike India's",
+   "bullets": [
+    "Nike India: about ₹1,380 crore, year to March 2025",
+    "adidas and Puma India: just over ₹3,000 crore each"
+   ],
+   "credit_line": "Sources: PTI, Financial Express, Open"
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,478 Cr",
+   "stat_label": "Decathlon India's FY26 Revenue, Up 8.35%",
+   "bullets": [
+    "EBITDA ₹424 crore; profit ₹63 crore after FY25 loss",
+    "132 stores now; about 200 planned by 2030",
+    "About half its footwear here is made in India"
+   ],
+   "credit_line": "Sources: Entrackr, Apparel Resources, Outlook Business, Open"
+  }
+ ]
+}
