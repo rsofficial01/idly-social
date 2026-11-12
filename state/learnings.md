@@ -16,6 +16,7 @@ cuts; **[schedule]** = how posts went out. Follow it unless it clashes with a RU
 - [reviewer] All desks: every bullet says why it matters to the reader, or it goes (RBI KYC line).
 - [data] All desks: reply scored 2 on 33 of 38 posts, yet no post has a comment; ask questions people answer from their own lives.
 - [schedule] All desks: write `"format"` (news, list, special or review) into meta.json or the lane spec for every post.
+- [schedule] All desks (12 Nov, 0827 run): an hourly post and a lane post landed on @idlynews 25 s apart. Before publishing, check `queue/approved/` for that account; if a lane item is approved, wait until the lane has posted it and 30 min have passed.
 - [schedule] Same page, same topic: at least 2 hours apart; never lead two posts with the same film, product or story in a day.
 - [schedule] @idlynerd: on 10 Nov four Diwali reviews went out in 92 min, two led by Ramayana; spread review drops across the day.
 - [reviewer] @idlynerd: no trailer thumbnails with burned-in "TRAILER" or title lettering on review covers; pick a clean still.
