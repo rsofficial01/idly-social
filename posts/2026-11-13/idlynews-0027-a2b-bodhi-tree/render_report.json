@@ -1,0 +1,58 @@
+[
+ {
+  "size": 80,
+  "lines": 3,
+  "overflow": false,
+  "top": 1010,
+  "credit_line": "Photo: SnapMeUp / Wikimedia Commons, CC BY-SA 4.0, cropped",
+  "slug": "idlynews-0027-a2b-bodhi-tree",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynews-0027-a2b-bodhi-tree/01.jpg",
+  "scale": 0.906
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Reuters, Entrackr, Indiantelevision.com",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0027-a2b-bodhi-tree",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0027-a2b-bodhi-tree/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Reuters, Entrackr, Indiantelevision.com",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0027-a2b-bodhi-tree",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0027-a2b-bodhi-tree/03.jpg",
+  "scale": null
+ }
+]

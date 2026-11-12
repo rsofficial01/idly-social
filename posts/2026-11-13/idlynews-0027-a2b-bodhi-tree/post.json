@@ -1,0 +1,36 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0027-a2b-bodhi-tree",
+ "date": "13 Nov 2026",
+ "sources": ["Reuters", "Entrackr", "Indiantelevision.com"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "A2B Sells Majority Stake to James Murdoch-Backed Bodhi Tree for $180 Million",
+   "photo": "_work/2026-11-13-hourly-0027/idlynews/frame/cover_source.png",
+   "photo_credit": "Photo: SnapMeUp / Wikimedia Commons, CC BY-SA 4.0, cropped",
+   "focal": [0.5, 0.5],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "160",
+   "stat_label": "A2B Outlets in India, Over 30 More Abroad",
+   "bullets": [
+    "Strongest in Tamil Nadu and Karnataka",
+    "Abroad: Singapore, US, Australia, Malaysia and the UK",
+    "New owners plan more outlets in India and overseas"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Deal Announced: Who Now Runs A2B",
+   "bullets": [
+    "Bodhi Tree's co-founders: James Murdoch and Uday Shankar",
+    "Shankar will chair A2B's newly formed board",
+    "A stock market listing is the aim; no date yet"
+   ]
+  }
+ ]
+}
