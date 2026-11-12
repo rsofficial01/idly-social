@@ -1,0 +1,122 @@
+{
+ "account": "idlynews",
+ "title": "Madras High Court (First Bench: CJ Sushrut Arvind Dharmadhikari, Justice G. Arul Murugan) reserved orders on Wed 11 Nov 2026, no date given, on CREDAI-Chennai and others' petitions against the NGT Southern Zone's Sept 2025 ban on new construction approvals within 1 km of the Pallikaranai marsh (Ramsar site, 1,247.54 ha); TN State Wetlands Authority proposes a 128.19 ha interim Zone of Influence in 36 survey numbers with site-specific regulation, not a blanket ban (The Hindu 12 Nov, Dinamani 12 Nov)",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "The Hindu",
+   "date": "12 Nov 2026, 01:41 IST",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-in-cases-challenging-ngts-construction-ban-on-1-km-radius-around-pallikaranai-marshland/article71690916.ece"
+  },
+  {
+   "outlet": "Dinamani",
+   "date": "12 Nov 2026, 04:26 IST",
+   "url": "https://www.dinamani.com/tamilnadu/2026/Nov/11/ban-on-construction-in-pallikaranai-marshland-case-filed-by-credai-adjourned-for-judgment"
+  },
+  {
+   "outlet": "DT Next",
+   "date": "14 Oct 2026",
+   "url": "https://www.dtnext.in/news/chennai/pallikaranai-wetland-interim-buffer-zone-cut-to-31676-acres-hectares"
+  },
+  {
+   "outlet": "DT Next",
+   "date": "16 Jul 2026",
+   "url": "https://www.dtnext.in/news/chennai/credai-chennai-challenges-ngts-1-km-construction-restriction-around-pallikaranai-ramsar-site"
+  },
+  {
+   "outlet": "The New Indian Express",
+   "date": "13 Oct 2026",
+   "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Oct/13/tamil-nadus-wetlands-authority-proposes-regulated-construction-in-pallikaranai-marsh-buffer-zone"
+  },
+  {
+   "outlet": "Ramsar Sites Information Service (site 2481)",
+   "date": "read 12 Nov 2026",
+   "url": "https://rsis.ramsar.org/ris/2481"
+  },
+  {
+   "outlet": "Ramsar Information Sheet 2481",
+   "date": "read 12 Nov 2026",
+   "url": "https://rsis.ramsar.org/RISapp/files/RISrep/IN2481RIS_2207_en.pdf"
+  },
+  {
+   "outlet": "Citizen Matters",
+   "date": "2 Feb 2026",
+   "url": "https://citizenmatters.in/pallikaranai-marshland-1-km-buffer-zone-residents-housing-encroachment-ecology/"
+  }
+ ],
+ "fact_sources": {
+  "HC reserved orders 11 Nov, no date; bench": [
+   "The Hindu 12 Nov",
+   "Dinamani 12 Nov"
+  ],
+  "NGT Southern Zone 1-km order, Sept 2025": [
+   "DT Next 16 Jul (24 Sept)",
+   "Dinamani (25 Sept)",
+   "The Hindu 12 Nov"
+  ],
+  "128.19 ha (316.76 acres) interim ZoI, 36 survey numbers": [
+   "The Hindu",
+   "Dinamani",
+   "DT Next 14 Oct",
+   "TNIE 13 Oct"
+  ],
+  "areas Pallikaranai, Sholinganallur, Karapakkam, Perungudi, Okkiyam Thoraipakkam, Perumbakkam": [
+   "DT Next 14 Oct",
+   "TNIE 13 Oct"
+  ],
+  "site-specific regulation, not a blanket ban; drains and inlet/outlet channels protected": [
+   "The Hindu",
+   "DT Next 14 Oct",
+   "TNIE 13 Oct",
+   "Dinamani"
+  ],
+  "CREDAI asks to set aside and remand": [
+   "The Hindu",
+   "Dinamani"
+  ],
+  "SC already hearing wider wetlands question": [
+   "The Hindu",
+   "Dinamani"
+  ],
+  "Ramsar 1,247.54 ha": [
+   "Ramsar RIS 2481",
+   "The Hindu"
+  ],
+  "flood buffer for Chennai, soaks up runoff": [
+   "Ramsar RIS 2481",
+   "Citizen Matters 2 Feb 2026"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Pallikaranai_Marsh_Cityscape_Reflections_Sholinganallur_Apr22_R16_05915.jpg",
+  "author": "Timothy A. Gonsalves (User:Tagooty)",
+  "licence": "CC BY-SA 4.0",
+  "taken": "11 Apr 2022",
+  "size": "original 5283x3522; used the 3840x2560 standard thumbnail (original rate-limited)",
+  "local": "_work/2026-11-12-hourly-0530/news/img_palli/palli_big.jpg",
+  "faces": 0,
+  "viewed": true,
+  "subject": "Pallikaranai Marsh from the south bank, flamingos, ELCOT IT Park (Sholinganallur) on the far bank",
+  "credit": "Photo: Timothy A. Gonsalves / Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "cover": {
+  "photo": "_work/2026-11-12-hourly-0530/news/framing_palli_big/cover_source.png",
+  "focal": [
+   0.52,
+   0.7
+  ],
+  "zoom": 1.45,
+  "upscale": null,
+  "note": "pipeline.framing ok (faces 0, scale 0.53 at zoom 1); desk focal [0.52,0.70] zoom 1.45 per reviewer Gate 1 fix 6: sky under logo, buildings ~32-47%, flamingos ~50%, headline below ~73%. Headline uses a non-breaking hyphen (U+2011) in '1-Km' so it does not split across lines."
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: individual Commons photographer, not an organisation.",
+ "baseline": "TN baseline check run (headline and caption): exit 0, no STOP, no Pallikaranai/wetland items; nothing to log beyond the post.",
+ "gates": {
+  "gate1": "conditional BUILD A (reviews/idlynews-g1.md); condition met with Dinamani",
+  "gate2_3": "FIX x3 applied, picture PASS (reviews/idlynews-g2.md)",
+  "gate4": "FIX at 11 (caption only): flood line + new question (reviews/idlynews-g4.md); resent as packets/idlynews-g4b.md"
+ }
+}

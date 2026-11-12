@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0530-pallikaranai-ban",
+ "date": "12 Nov 2026",
+ "sources": [
+  "The Hindu",
+  "Dinamani",
+  "DT Next",
+  "The New Indian Express"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Madras HC to Rule on 1‑Km Building Ban Around Pallikaranai Marsh",
+   "photo": "_work/2026-11-12-hourly-0530/news/framing_palli_big/cover_source.png",
+   "photo_credit": "Photo: Timothy A. Gonsalves / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.52,
+    0.7
+   ],
+   "zoom": 1.45
+  },
+  {
+   "type": "detail",
+   "stat": "128.19 HA",
+   "stat_label": "TN Wetlands Authority's Proposed Interim Zone",
+   "bullets": [
+    "36 survey numbers, Pallikaranai to Perumbakkam",
+    "Building there would be regulated, not banned",
+    "Drains and inlet channels could not be blocked"
+   ],
+   "credit_line": "Sources: The Hindu, Dinamani, DT Next, The New Indian Express"
+  },
+  {
+   "type": "detail",
+   "stat": "1,247.54 HA",
+   "stat_label": "Pallikaranai's Ramsar-Listed Wetland",
+   "bullets": [
+    "NGT's 1-km ban dates from September 2025",
+    "CREDAI-Chennai wants it set aside and reheard",
+    "HC reserved orders on 11 Nov; no verdict date"
+   ],
+   "credit_line": "Sources: The Hindu, Dinamani, DT Next, Ramsar Sites Information Service"
+  }
+ ]
+}
