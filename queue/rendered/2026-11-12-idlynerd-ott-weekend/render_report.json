@@ -1,0 +1,207 @@
+{
+  "slug": "2026-11-12-idlynerd-ott-weekend",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-12T03:35:48+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=g34gJUGC2Mg",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=g34gJUGC2Mg",
+    "source_url": "https://www.youtube.com/watch?v=g34gJUGC2Mg",
+    "image_url": "https://i.ytimg.com/vi/g34gJUGC2Mg/maxresdefault.jpg",
+    "credit": "Image: Netflix India (official trailer)",
+    "organisation": "Netflix India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=g34gJUGC2Mg: author 'Netflix India' https://www.youtube.com/@NetflixIndiaOfficial, title 'Ranabaali | Official Trailer | Vijay Deverakonda | Rashmika | Rahul Sankrityan | Netflix India'",
+      "thumbnail https://i.ytimg.com/vi/g34gJUGC2Mg/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@NetflixIndiaOfficial",
+    "video_title": "Ranabaali | Official Trailer | Vijay Deverakonda | Rashmika | Rahul Sankrityan | Netflix India"
+  },
+  "faces": [
+    [
+      757.8,
+      226.2,
+      79.9,
+      98.8,
+      0.93
+    ],
+    [
+      452.4,
+      142.9,
+      88.8,
+      110.3,
+      0.928
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5035,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      356.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        735,
+        402,
+        921,
+        632
+      ],
+      [
+        161,
+        243,
+        367,
+        500
+      ]
+    ],
+    "logo_saliency": 0.11,
+    "notes": [
+      "2 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        757.8,
+        226.2,
+        79.9,
+        98.8,
+        0.93
+      ],
+      [
+        452.4,
+        142.9,
+        88.8,
+        110.3,
+        0.928
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 4 known items, 1 needing care (minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>",
+      "mentions a charge/crime without 'alleged': check unproven claims are marked"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Netflix India (official trailer)",
+      "Sources: Prime Video India, Khaleej Times, Flickonclick",
+      "Sources: Netflix India via Outlook India, tbreak, JioHotstar, Sony LIV, Flickonclick",
+      "Sources: NewsBytes, The Economic Times, Outlook India, Flickonclick"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: Netflix India (official trailer)",
+      "slug": "2026-11-12-idlynerd-ott-weekend",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Prime Video India, Khaleej Times, Flickonclick",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix India via Outlook India, tbreak, JioHotstar, Sony LIV, Flickonclick",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 184,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: NewsBytes, The Economic Times, Outlook India, Flickonclick",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Six new titles reach OTT between Thursday, 12 November and Sunday, 15 November.\n\nJailer 2, Rajinikanth's Tamil action film, streams on Prime Video from today, Thursday 12 November, four weeks after its 15 October cinema release. It is available in Tamil, Telugu, Hindi, Malayalam and Kannada.\n\nOn Friday, 13 November, Ranabaali (Vijay Deverakonda, Rashmika Mandanna) arrives on Netflix in Telugu, Hindi, Tamil, Kannada and Malayalam. Student of the Year: After Dark, a Hindi murder-mystery series, starts on JioHotstar the same day. Sony LIV adds the Hindi film Parivarik ManuRanjan and the Tamil romantic thriller Anbil Avan.\n\nOn Sunday, 15 November, Netflix releases Cunk on Cinema, an English mockumentary series.\n\nDo you wait for big films like Jailer 2 to reach OTT, or catch them in cinemas?\n\nSources: Prime Video India, Netflix India, JioHotstar, Sony LIV, Khaleej Times, Outlook India, tbreak, Flickonclick, NewsBytes, The Economic Times\n\n#OTTReleases #Jailer2 #Ranabaali #NewOnOTT #idlynerd\n\nImage: Netflix India (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
