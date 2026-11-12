@@ -1,0 +1,45 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1227-kia-andhra-2bn",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Business Standard",
+  "The Economic Times",
+  "PTI",
+  "Fortune India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Kia's $2 Billion Andhra Bet: 6.3 Lakh Cars a Year",
+   "photo": "_work/2026-11-12-hourly-1227/idlyautomotive/framing_kia_plant/cover_source.png",
+   "photo_credit": "Image: Kia India",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "4.3 LAKH",
+   "stat_label": "Cars a Year Kia India Can Build Today",
+   "bullets": [
+    "The $2 billion adds 2 lakh cars a year",
+    "Anantapur already exports to about 100 countries",
+    "Kia gave no timeline or start date"
+   ],
+   "credit_line": "Sources: Business Standard, The Economic Times, PTI, Fortune India"
+  },
+  {
+   "type": "detail",
+   "stat": "33,462",
+   "stat_label": "Kia India's Best Month Yet: October 2026",
+   "bullets": [
+    "Up 13.2% from 29,556 in October 2025",
+    "Jan–Oct's 2,86,470 already beats all of 2025 (2,80,286)"
+   ],
+   "credit_line": "Sources: Autocar Professional, Times Drive, Fortune India"
+  }
+ ]
+}

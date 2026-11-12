@@ -1,0 +1,109 @@
+{
+ "account": "idlyautomotive",
+ "title": "Kia India will invest about $2 billion to expand manufacturing in Andhra Pradesh, lifting annual capacity from 4.3 lakh to 6.3 lakh vehicles (MD & CEO Gwanggu Lee, 31st CII Partnership Summit, Visakhapatnam, 12 Nov 2026; no timeline or start date disclosed); follows Kia India's record October 2026 dispatches of 33,462 (+13.2% from 29,556) and Jan-Oct 2026 dispatches of 2,86,470, past all of 2025 (2,80,286)",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Kia announcement in the latest 50 (checked 12 Nov ~12:30 IST).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Business Standard",
+   "date": "12 Nov 2026, 11:43 IST",
+   "url": "https://www.business-standard.com/industry/agriculture/kia-india-andhra-pradesh-expansion-2-billion-capacity-630000-units-126111200365_1.html"
+  },
+  {
+   "outlet": "The Economic Times (ET Online)",
+   "date": "12 Nov 2026, 12:23 IST",
+   "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-to-invest-2-billion-in-andhra-pradesh-plant-target-6-3-lakh-unit-capacity/articleshow/135758732.cms"
+  },
+  {
+   "outlet": "BusinessLine",
+   "date": "12 Nov 2026, 11:32 IST",
+   "url": "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece"
+  },
+  {
+   "outlet": "PTI via Autocar Professional",
+   "date": "12 Nov 2026, 12:11 IST",
+   "url": "https://www.autocarpro.in/news/kia-india-to-invest-usd-2-billion-in-andhra-pradesh-plant-pti-135870"
+  },
+  {
+   "outlet": "Fortune India",
+   "date": "12 Nov 2026, 11:42 IST",
+   "url": "https://www.fortuneindia.com/business-news/kia-india-to-invest-2-billion-on-capacity-expansion-in-andhra-pradesh/169851"
+  },
+  {
+   "outlet": "Autocar Professional (October dispatches)",
+   "date": "1 Nov 2026",
+   "url": "https://www.autocarpro.in/news/kia-india-reports-record-monthly-dispatches-of-33462-units-in-october-135626"
+  },
+  {
+   "outlet": "Times Drive (October sales)",
+   "date": "7 Nov 2026 (updated)",
+   "url": "https://www.timesdrive.in/news/kia-india-registers-over-13-percent-growth-in-car-sales-for-october-2026-article-156478989"
+  }
+ ],
+ "fact_sources": {
+  "~$2 billion, AP, Gwanggu Lee, CII Partnership Summit Visakhapatnam, 12 Nov": [
+   "Business Standard",
+   "ET",
+   "BusinessLine",
+   "PTI/Autocar Pro",
+   "Fortune India"
+  ],
+  "capacity 4.3 lakh -> 6.3 lakh (Fortune/Moneycontrol say 6.2 lakh; not printed)": [
+   "Business Standard (Lee quote)",
+   "ET",
+   "PTI/Autocar Pro"
+  ],
+  "no timeline or start date": [
+   "ET",
+   "PTI/Autocar Pro"
+  ],
+  "Anantapur building cars since 2019, Seltos first": [
+   "Business Standard",
+   "Fortune India",
+   "kia.com/in About Us"
+  ],
+  "exports to about 100 countries": [
+   "Business Standard",
+   "Fortune India"
+  ],
+  "October 2026 33,462, +13.2% from 29,556": [
+   "Autocar Pro",
+   "Times Drive",
+   "Business Standard"
+  ],
+  "Jan-Oct 2026 2,86,470 past CY2025 2,80,286": [
+   "Autocar Pro",
+   "Fortune India",
+   "Times Drive (2,86,470)"
+  ]
+ },
+ "left_out": "Jobs (12,000 per PTI/BS/ET vs 3,000 per Fortune quoting Lee: conflict); ₹17,700 crore (PTI-only conversion); new plant vs new line at Anantapur (sources differ).",
+ "photo_source": {
+  "page": "https://www.kia.com/in/discover-kia/news/news-pr.html",
+  "press_release": "Kia India press release id 125, 'Kia India ramps up its production capacity; starts third shift at its Anantapur plant' (listed Mar 25, 2022; meta 28 Feb 2022), per Kia India's own news-list API https://www.kia.com/api/kia2_in/news.getNewsList.do?pageNo=4&pageSize=50",
+  "file_url": "https://www.kia.com/content/dam/kia2/in/en/data/discover/new-and-pr/2022/Kia-india-Anatapur-plant.jpg",
+  "licence": "Official maker press image (Kia India newsroom on kia.com), editorial use with credit",
+  "author": "Kia India",
+  "orig_size": "4000x3000",
+  "viewed": true,
+  "faces": 0,
+  "credit": "Image: Kia India",
+  "framing": "pipeline.framing ok:true (upscale 0.45, faces 0); cover slide focal [0.5, 1.0], zoom 1.2 -> 2000x2500 crop downscaled 0.54x, no enlargement",
+  "replaced": "v1 cover (kia.com/in About Us drone-video frame, 1440x2560) held by main for softness; swapped at main's request"
+ },
+ "tags": [
+  {
+   "handle": "kiaind",
+   "evidence_url": "https://www.kia.com/in/home.html"
+  }
+ ],
+ "tags_confirmed": "kia.com/in (Kia India's own site) footer Instagram button links to https://www.instagram.com/kiaind/ and its Organization JSON-LD sameAs lists it (checked 12 Nov 2026 12:50 IST); reviewer confirmed at Gate 3.",
+ "gates": {
+  "g1": "BUILD A (reviews/idlyautomotive-G1-v1.md)",
+  "g2": "FIX (slide 2 bullets) -> PASS v2 (reviews/idlyautomotive-G2-v2.md)",
+  "g3": "PASS v1; cover swapped after main's softness HOLD -> PASS v2 (reviews/idlyautomotive-G3-v2.md)",
+  "g4": "PASS 12/14 v1; PASS 12/14 v2 with the new cover (reviews/idlyautomotive-G4-v2.md)"
+ }
+}
