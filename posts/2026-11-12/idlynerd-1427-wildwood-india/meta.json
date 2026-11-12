@@ -1,0 +1,121 @@
+{
+ "account": "idlynerd",
+ "title": "Wildwood, LAIKA's stop-motion fantasy (dir. Travis Knight, from Colin Meloy and Carson Ellis's 2011 novel), opens in Indian cinemas Fri 13 Nov 2026 in English, UA13+ (Variety India, District); at 2h 12m / 132 min it is the longest stop-motion animated film ever made (Smithsonian Magazine, Creative Boom); LAIKA's first film since Missing Link (2019); all five earlier LAIKA features were Oscar-nominated; 97% of 180 critics' reviews positive on Rotten Tomatoes (checked 12 Nov ~14:40 IST); US release 23 Oct 2026; District lists Friday shows in Delhi NCR, Mumbai, Bengaluru, Pune, Hyderabad, Chennai, Kolkata",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on Wildwood in the API feed (checked 12 Nov 2026, ~14:35 IST; latest nerd items: Ramayana, Scene, Anirudh wedding)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Variety India",
+   "date": "12 Nov 2026",
+   "url": "https://varietyindia.com/wildwood-to-i-play-rocky-movies-releasing-in-theatres-this-week/"
+  },
+  {
+   "outlet": "District (Zomato)",
+   "date": "live, checked 12 Nov 2026 ~14:45 IST",
+   "url": "https://www.district.in/movies/wildwood-movie-tickets-MV225188"
+  },
+  {
+   "outlet": "Smithsonian Magazine",
+   "date": "23 Oct 2026",
+   "url": "https://www.smithsonianmag.com/arts-culture/wildwood-is-the-longest-stop-motion-animated-film-ever-each-frame-of-the-movie-is-a-marvel-of-handcrafted-world-building-180989742/"
+  },
+  {
+   "outlet": "Creative Boom",
+   "date": "28 Sep 2026",
+   "url": "https://www.creativeboom.com/insight/wildwood-art-director-matthew-maldonado-on-why-laika-still-builds-everything-by-hand-and-why-theyre-coming-to-londons-design-musuem/"
+  },
+  {
+   "outlet": "Rotten Tomatoes",
+   "date": "live, checked 12 Nov 2026 ~14:40 IST",
+   "url": "https://www.rottentomatoes.com/m/wildwood"
+  },
+  {
+   "outlet": "The Hollywood Reporter India",
+   "date": "10 Nov 2026",
+   "url": "https://www.hollywoodreporterindia.com/features/insight/what-to-watch-in-theatres-this-week-dnk-john-doe-bouma-and-more"
+  },
+  {
+   "outlet": "AP (via ABC News)",
+   "date": "3 Sep 2026",
+   "url": "https://abcnews.com/Technology/wireStory/fall-movie-preview-ai-world-laika-makes-handmade-136166261"
+  },
+  {
+   "outlet": "Wikipedia",
+   "date": "checked 12 Nov 2026",
+   "url": "https://en.wikipedia.org/wiki/Wildwood_(film)"
+  }
+ ],
+ "fact_sources": {
+  "Opens in Indian cinemas Fri 13 Nov 2026, English": [
+   "Variety India",
+   "District"
+  ],
+  "UA13+ in India": [
+   "District"
+  ],
+  "Friday shows open in Delhi NCR, Mumbai, Bengaluru, Pune, Hyderabad, Chennai, Kolkata": [
+   "District city pages"
+  ],
+  "2h 12m / 132 min, longest stop-motion animated film ever made": [
+   "Smithsonian Magazine",
+   "Creative Boom",
+   "Rotten Tomatoes (runtime)"
+  ],
+  "LAIKA's first film since Missing Link (2019)": [
+   "AP via ABC News",
+   "Wikipedia"
+  ],
+  "Studio behind Coraline and Kubo and the Two Strings": [
+   "Smithsonian Magazine",
+   "Creative Boom"
+  ],
+  "All five earlier LAIKA features Oscar-nominated": [
+   "Creative Boom",
+   "Academy record / Wikipedia"
+  ],
+  "Directed by Travis Knight (Kubo)": [
+   "Variety India",
+   "The Hollywood Reporter India"
+  ],
+  "From Colin Meloy and Carson Ellis's 2011 novel": [
+   "Wikipedia",
+   "LAIKA"
+  ],
+  "Plot: crows carry off Prue McKeel's baby brother": [
+   "Variety India",
+   "District"
+  ],
+  "Voices: Carey Mulligan, Mahershala Ali, Angela Bassett, Jacob Tremblay": [
+   "Variety India",
+   "The Hollywood Reporter India"
+  ],
+  "97% of 180 critics' reviews positive": [
+   "Rotten Tomatoes",
+   "Wikipedia"
+  ],
+  "US release 23 Oct 2026": [
+   "Rotten Tomatoes",
+   "Smithsonian Magazine"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.laika.com/our-films/wildwood",
+  "file_url": "https://www.datocms-assets.com/153672/1750431082-ww_c12banner_leftside_desktop.jpg",
+  "licence": "official LAIKA promotional artwork for the film, credited",
+  "author": "LAIKA",
+  "viewed": true,
+  "notes": "illustrated characters only; face-screened 0 faces; cropped x 387-1196 of 1800x1012 (reviewer's focal 0.44), framed 1.33x"
+ },
+ "tags": [
+  "@laikastudios"
+ ],
+ "tags_evidence": "laika.com footer and wildwoodmovie.com (LAIKA Studios' film site) footer both link https://www.instagram.com/laikastudios; reviewer OK at Gate 3",
+ "gates": {
+  "g1": "v1 DROP all (Ramayana 11, Jailer 2 / OTT special: no clean image); v2 BUILD Wildwood, ceiling 13",
+  "g2": "FIX applied (slide 3 stat 13 NOV -> UA13+; bullet 1 -> 'In English; under-13s need a parent's guidance')",
+  "g3": "PASS with focal 0.44 (applied); backup set still rejected",
+  "g4": "PASS 13/14 (v1; reviewer score file reviews/idlynerd-g4-v1.score.json)"
+ }
+}

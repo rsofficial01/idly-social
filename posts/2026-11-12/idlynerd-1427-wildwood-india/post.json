@@ -1,0 +1,49 @@
+[
+ {
+  "acct": "idlynerd",
+  "slug": "idlynerd-1427-wildwood-india",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Variety India",
+   "District",
+   "Smithsonian Magazine",
+   "Creative Boom",
+   "Rotten Tomatoes"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "LAIKA's Wildwood, 97% With Critics, Opens in India 13 Nov",
+    "photo": "_work/2026-11-12-hourly-1427/idlynerd/framing_c12b/cover_source.png",
+    "photo_credit": "Image: LAIKA",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "132 MIN",
+    "stat_label": "The Longest Stop-Motion Film Ever Made",
+    "bullets": [
+     "LAIKA's first new film in seven years",
+     "All five earlier LAIKA films got Oscar nominations",
+     "Directed by Travis Knight, who made Kubo"
+    ],
+    "credit_line": "Sources: Smithsonian Magazine, Creative Boom"
+   },
+   {
+    "type": "detail",
+    "stat": "UA13+",
+    "stat_label": "Before You Book Wildwood in India",
+    "bullets": [
+     "In English; under-13s need a parent's guidance",
+     "Friday shows open in Delhi, Mumbai, Bengaluru, Chennai, Kolkata",
+     "Arrives three weeks after its 23 October US release"
+    ],
+    "credit_line": "Sources: Variety India, District, Rotten Tomatoes"
+   }
+  ]
+ }
+]
