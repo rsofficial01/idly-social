@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-1227-telangana-10plus2/01.jpg",
+  "posts/2026-11-12/idlynews-1227-telangana-10plus2/02.jpg",
+  "posts/2026-11-12/idlynews-1227-telangana-10plus2/03.jpg",
+  "posts/2026-11-12/idlynews-1227-telangana-10plus2/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-1227-telangana-10plus2/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-1227-telangana-10plus2/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-1227-telangana-10plus2/score.json",
+ "title": "Telangana plans to move Classes 11-12 from its Intermediate system into state-run schools from 2027-28 (CM review, 11 Nov 2026); CM cites about 40% dropouts after Class 10",
+ "tags": []
+}

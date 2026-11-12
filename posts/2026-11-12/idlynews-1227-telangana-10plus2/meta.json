@@ -1,0 +1,85 @@
+{
+ "account": "idlynews",
+ "title": "Telangana plans to move Classes 11-12 out of its separate Intermediate system into state-run schools from 2027-28: CM A. Revanth Reddy directed officials at an education review on Wed 11 Nov 2026 (three stages: nursery-Class 4, 5-8, 9-12, CBSE lines); the CM says about 40% of students drop out after Class 10 and 18 states already run 10+2; junior college staff keep service and retirement benefits; no government order reported; board runs under the 1971 Intermediate Education Act; the same merger was deferred in May 2026; lecturers' groups warned of statewide protests",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on Telangana's 10+2 / Intermediate plan in the API feed (latest 50 articles checked 12 Nov 2026, ~12:35 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Hindustan Times",
+   "date": "12 Nov 2026 08:09 IST",
+   "url": "https://www.hindustantimes.com/india-news/telangana-to-introduce-10-2-system-in-all-state-run-schools-from-2027-28-to-prevent-dropouts-says-cm-revanth-reddy-101794449716444.html"
+  },
+  {
+   "outlet": "Telangana Today",
+   "date": "11 Nov 2026 20:10 IST",
+   "url": "https://telanganatoday.com/telangana-to-introduce-102-education-system-from-next-academic-year"
+  },
+  {
+   "outlet": "The Hans India",
+   "date": "12 Nov 2026 02:00 IST",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/telangana-to-replace-intermediate-system-with-102-structure-1141205"
+  },
+  {
+   "outlet": "Daijiworld",
+   "date": "11 Nov 2026",
+   "url": "https://daijiworld.com/news/newsDisplay?newsID=1335023"
+  },
+  {
+   "outlet": "Deccan Chronicle (May 2026 deferral)",
+   "date": "10 May 2026",
+   "url": "https://deccanchronicle.com/southern-states/telangana/telangana-to-continue-intermediate-admissions-for-202627-merger-with-school-education-deferred-1955777"
+  },
+  {
+   "outlet": "Deccan Chronicle (lecturers)",
+   "date": "4 Sep 2026",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/retain-intermediate-under-higher-education-lecturers-warn-of-agitation-against-merger-with-school-dept-1984899"
+  },
+  {
+   "outlet": "Telangana Today (1971 Act; lecturers)",
+   "date": "7 May 2026",
+   "url": "https://telanganatoday.com/telangana-inter-board-to-soon-become-history"
+  },
+  {
+   "outlet": "Siasat (May 2026 deferral)",
+   "date": "May 2026",
+   "url": "https://www.siasat.com/inter-admissions-to-continue-as-usual-for-2026-27-academic-year-telangana-cm-3468508/"
+  },
+  {
+   "outlet": "India Code (A.P./Telangana Intermediate Education Act, 1971)",
+   "date": "15 Jan 1971",
+   "url": "https://www.indiacode.nic.in/handle/123456789/8659"
+  }
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Govt.Mehbobia_junior_college_for_girls,Hyderabad.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Govt.Mehbobia_junior_college_for_girls%2CHyderabad.jpg/3840px-Govt.Mehbobia_junior_college_for_girls%2CHyderabad.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "RANJINI",
+  "subject": "Government Mahbubia Junior College for Girls, Gunfoundry, Hyderabad (photo taken 12 May 2017)",
+  "orig_size": "5344x4008 (fetched as Wikimedia's standard 3840x2880 thumbnail)",
+  "viewed": true,
+  "faces": 0,
+  "credit": "Photo: RANJINI / Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "focal_used": [
+   0.38,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.47,
+  "note": "downscale only; focal moved left to keep all three domes; logo over sky"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is by an individual Commons photographer (people are never tagged); no brand or official owner.",
+ "baseline": "Not a Tamil Nadu story; no Telangana baseline exists (gap). TN baseline check on the caption: exit 0, no STOP; matches were keyword-only and irrelevant.",
+ "commons_attempt": "upload.wikimedia.org 429 (retry-after 600) at 12:40, 12:50, 13:00, 13:10, 13:20, 13:30, 13:40 IST; one early retry at 12:45 (about 5 min before the 12:40 back-off expired) returned the blurred Hanamkonda photo (rejected); after main's go-ahead, one request each at 13:50:38 and 13:51:18 IST to the API's standard thumburl (thumb.wikimedia.org), both 200. Sriharsha photo rejected (photographer's watermark); RANJINI photo used."
+}

@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Per-check minimum of the desk self-score (self-score.json, 13) and the blind reviewer's Gate 4 score (reviewer-score.json, 13); they agree on every check. Weak check: keep 1 (both): a CM direction with no government order, exam plan or dates yet. Reviewer's read nit: slide 4's label ('The Law Behind…') is slightly off its bullets (deferral and lecturer history); not scored down."
+}

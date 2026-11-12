@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1227-telangana-10plus2",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Hindustan Times",
+  "Telangana Today",
+  "The Hans India",
+  "Daijiworld"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Telangana to Fold Classes 11-12 Into Schools, Citing 40% Dropouts",
+   "photo": "_work/2026-11-12-hourly-1227/idlynews/framing_ranjini/cover_source.png",
+   "photo_credit": "Photo: RANJINI / Wikimedia Commons",
+   "focal": [
+    0.38,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "2027-28",
+   "stat_label": "When Telangana Plans to Start 10+2 in Schools",
+   "bullets": [
+    "Classes 11-12 now sit under a separate Intermediate board",
+    "New stages: nursery-Class 4, Classes 5-8, Classes 9-12",
+    "A CM direction; no government order reported yet"
+   ],
+   "credit_line": "Sources: Hindustan Times, Telangana Today, The Hans India"
+  },
+  {
+   "type": "detail",
+   "stat": "CLASS 10",
+   "stat_label": "Where Telangana's CM Says Students Drop Out",
+   "bullets": [
+    "A large share: girls, SC, ST and minority students",
+    "KVs and Navodayas (to Class 12) see fewer dropouts",
+    "18 states already run 10+2 in schools"
+   ],
+   "credit_line": "Sources: Telangana Today, The Hans India, Daijiworld, Hindustan Times"
+  },
+  {
+   "type": "detail",
+   "stat": "1971",
+   "stat_label": "The Law Behind Telangana's Intermediate Board",
+   "bullets": [
+    "May 2026: CM deferred this merger, kept admissions",
+    "Lecturers' groups had warned of statewide protests",
+    "CM says their service, retirement benefits are safe"
+   ],
+   "credit_line": "Sources: India Code, Deccan Chronicle, Telangana Today, The Hans India"
+  }
+ ]
+}
