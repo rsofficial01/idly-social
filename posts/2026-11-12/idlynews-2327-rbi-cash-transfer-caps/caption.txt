@@ -1,0 +1,17 @@
+The Reserve Bank of India has kept its limits on sending money in cash and brought every rule for these transfers into one rulebook: the Reserve Bank of India (Domestic Money Transfer) Directions, 2026, dated Wednesday 11 November and in force since that day.
+
+According to the RBI notification, a walk-in customer can pay cash at a bank branch and send up to ₹50,000 to a bank account by NEFT. Cash sent through business correspondent (BC) agents, ATMs and similar channels is limited to ₹5,000 a transaction and ₹25,000 a month per sender. Cash paid out to someone without a bank account is limited to ₹10,000 a transaction and ₹25,000 a month per receiver. Free Press Journal and All India Radio, which reported the directions on Thursday 12 November, say these limits are unchanged. The BC and pay-out limits, including both ₹25,000 monthly caps, are the same as in an RBI circular of 5 October 2011.
+
+Every sender must be registered with a verified mobile number and a self-certified officially valid document (OVD) under the RBI's KYC Directions, 2025, and every transfer needs an additional factor of authentication. Banks must carry the sender's details in the IMPS or NEFT message and mark the transfer as cash-based. These checks carry over from the RBI's July 2024 framework; the 2026 directions replace that circular and the one from October 2011.
+
+The directions cover commercial banks, regional rural banks, co-operative banks and authorised payment operators that offer these services. Card-to-card transfers are outside them, and the RBI expects transfers to go through in real time or near real time.
+
+The cover shows the RBI's Central Office tower in Mumbai.
+
+When you or your family send money home, how does it travel: a bank transfer, a BC counter, or cash carried by hand?
+
+Sources: RBI, All India Radio, Free Press Journal
+
+#RBI #MoneyTransfer #Banking #PersonalFinance #idlynews
+
+Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0, cropped

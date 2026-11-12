@@ -1,0 +1,45 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2327-rbi-cash-transfer-caps",
+ "date": "13 Nov 2026",
+ "sources": [
+  "RBI",
+  "All India Radio",
+  "Free Press Journal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Unchanged Since 2011: RBI's ₹25,000-a-Month Cap on BC, ATM Cash",
+   "photo": "_work/2026-11-12-hourly-2327/idlynews/dl-rbi2/img_1920.jpg",
+   "photo_credit": "Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0, cropped",
+   "focal": [
+    0.5,
+    0.0
+   ],
+   "zoom": 1.05
+  },
+  {
+   "type": "detail",
+   "stat": "3",
+   "stat_label": "Cash Limits Per Transfer, and Where Each Applies",
+   "bullets": [
+    "Bank branch cash, sent by NEFT: up to ₹50,000",
+    "BC or ATM: ₹5,000 each; monthly cap per sender",
+    "Cash pay-out: ₹10,000 each; ₹25,000 a month per receiver"
+   ],
+   "credit_line": "Sources: RBI, All India Radio, Free Press Journal"
+  },
+  {
+   "type": "detail",
+   "stat": "11 NOV",
+   "stat_label": "In Force: What RBI Requires of Cash Senders",
+   "bullets": [
+    "A verified mobile number and a self-certified ID",
+    "An extra authentication step on every transfer",
+    "Your details travel with the money, flagged as cash"
+   ],
+   "credit_line": "Sources: RBI, All India Radio, Free Press Journal"
+  }
+ ]
+}

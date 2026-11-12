@@ -1,0 +1,134 @@
+{
+ "account": "idlynews",
+ "title": "The Reserve Bank of India's Domestic Money Transfer Directions, 2026 (RBI/DPSS/2026-27/476, dated and in force from 11 Nov 2026) keep the cash-transfer limits unchanged since the RBI's 5 Oct 2011 circular (₹5,000 a transaction and ₹25,000 a month per sender through BC agents and ATMs; ₹10,000 a pay-out and ₹25,000 a month per receiver) plus up to ₹50,000 of branch cash by NEFT, and carry over the July 2024 checks (verified mobile number and self-certified OVD, an additional factor of authentication on every transfer, sender details and a cash identifier in the IMPS/NEFT message), replacing the 2011 and 2024 circulars.",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the RBI Domestic Money Transfer Directions in candidates.json (run 2327, checked 12 Nov 2026 ~23:45 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Reserve Bank of India (notification RBI/DPSS/2026-27/476)",
+   "date": "11 Nov 2026",
+   "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752"
+  },
+  {
+   "outlet": "All India Radio (News On AIR)",
+   "date": "12 Nov 2026 21:33 IST",
+   "url": "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "12 Nov 2026 17:14 IST (updated)",
+   "url": "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer"
+  },
+  {
+   "outlet": "TaxGuru (text of the 2026 directions)",
+   "date": "11-12 Nov 2026",
+   "url": "https://taxguru.in/rbi/rbi-domestic-money-transfer-directions-2026-set-cash-remittance-limits.html"
+  },
+  {
+   "outlet": "Reserve Bank of India (circular of 24 Jul 2024)",
+   "date": "24 Jul 2024",
+   "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12707"
+  },
+  {
+   "outlet": "Reserve Bank of India (circular of 5 Oct 2011, RBI/2011-12/213)",
+   "date": "5 Oct 2011",
+   "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Id=6750&Mode=0"
+  },
+  {
+   "outlet": "TaxGuru (2011 circular)",
+   "date": "Oct 2011",
+   "url": "https://taxguru.in/rbi/rbi-relaxes-domestic-money-transfer-norms-access-formal-banking-channels-proof-identityaddress.html"
+  }
+ ],
+ "fact_sources": {
+  "Reserve Bank of India (Domestic Money Transfer) Directions, 2026, dated 11 Nov 2026, effective immediately": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://taxguru.in/rbi/rbi-domestic-money-transfer-directions-2026-set-cash-remittance-limits.html"
+  ],
+  "walk-in cash at a bank branch to a bank account by NEFT: up to ₹50,000": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "BC agents / ATMs: ₹5,000 a transaction, ₹25,000 a month per sender (remitter)": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "cash pay-out: ₹10,000 a transaction, ₹25,000 a month per receiver (beneficiary)": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "the limits are unchanged": [
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "BC/walk-in and pay-out limits, including both ₹25,000 monthly caps, are the same as in the RBI circular of 5 Oct 2011 (unchanged since 2011)": [
+   "https://rbi.org.in/scripts/NotificationUser.aspx?Id=6750&Mode=0",
+   "https://taxguru.in/rbi/rbi-relaxes-domestic-money-transfer-norms-access-formal-banking-channels-proof-identityaddress.html",
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12707"
+  ],
+  "registration with a verified mobile number and a self-certified OVD under the KYC Directions, 2025": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://taxguru.in/rbi/rbi-domestic-money-transfer-directions-2026-set-cash-remittance-limits.html"
+  ],
+  "additional factor of authentication on every transaction": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://taxguru.in/rbi/rbi-domestic-money-transfer-directions-2026-set-cash-remittance-limits.html"
+  ],
+  "sender details in the IMPS/NEFT message and an identifier marking the transfer as cash-based": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "these checks carry over from the July 2024 framework (in force from 1 Nov 2024)": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12707",
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752"
+  ],
+  "the 2026 directions replace the 5 Oct 2011 and 24 Jul 2024 circulars": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer"
+  ],
+  "covers commercial banks incl. RRBs, co-operative banks and authorised payment system operators/participants offering these services": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer",
+   "https://taxguru.in/rbi/rbi-domestic-money-transfer-directions-2026-set-cash-remittance-limits.html"
+  ],
+  "card-to-card transfers excluded": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer"
+  ],
+  "transfers expected in real time or near real time": [
+   "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752",
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/"
+  ],
+  "AIR and FPJ reported the directions on Thu 12 Nov 2026": [
+   "https://newsonair.gov.in/rbi-issues-new-domestic-transfer-guidelines/",
+   "https://www.freepressjournal.in/business/rbi-issues-stricter-security-checks-for-domestic-money-transfer"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg/1920px-Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_02.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Pinakpani",
+  "credit": "Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0, cropped",
+  "width": 1920,
+  "height": 2560,
+  "original_size": "3096x4128 (Commons original; the 1920 px thumbnail was used because upload.wikimedia.org returned HTTP 429 for the original)",
+  "date_taken": "12 Jun 2018",
+  "faces": 0,
+  "viewed": true,
+  "subject": "The Reserve Bank of India's Central Office tower, Shahid Bhagat Singh Road, Fort, Mumbai, from street level against an overcast sky, with trees and an Indian flag at the base (the building's own carved sign reads 'भारतीय रिज़र्व बैंक केंद्रीय कार्यालय मुंबई'; cropped out of the cover); no people, no watermark, no added lettering",
+  "local": "_work/2026-11-12-hourly-2327/idlynews/dl-rbi2/img_1920.jpg",
+  "processing": "pipeline.framing ok (faces 0, focal 0.5/0.5, zoom 1.0, 0.56x); cardkit hype cover from the original file at focal (0.5, 0.0), zoom 1.05 (Gate 3 passed 1.0; the 1.0 render screened faces=1, a 10-13 px and a ~50 px false positive in the foliage/headline zone, and was deleted unviewed along with its PNG master; zoom 1.05 render screened faces=0): crop ~1829x2286 from the top, 0.59x downscale, top fade 0.40, scrim 0.6; no other edits"
+ },
+ "tags": [],
+ "tag_evidence": "none: the image is an individual Commons photographer's work (no brand/maker handle to tag); tags never name people"
+}

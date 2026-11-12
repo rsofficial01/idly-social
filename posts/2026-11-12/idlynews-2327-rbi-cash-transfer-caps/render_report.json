@@ -1,0 +1,58 @@
+[
+ {
+  "size": 92,
+  "lines": 3,
+  "overflow": false,
+  "top": 974,
+  "credit_line": "Photo: Pinakpani / Wikimedia Commons, CC BY-SA 4.0, cropped",
+  "slug": "idlynews-2327-rbi-cash-transfer-caps",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/01.jpg",
+  "scale": 0.591
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: RBI, All India Radio, Free Press Journal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2327-rbi-cash-transfer-caps",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 276,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: RBI, All India Radio, Free Press Journal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2327-rbi-cash-transfer-caps",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/03.jpg",
+  "scale": null
+ }
+]
