@@ -1,0 +1,122 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the A2B/Bodhi Tree deal (checked candidates.json and the latest 100 API articles, 13 Nov 2026 ~01:00 IST)",
+ "format": "news",
+ "title": "Adyar Ananda Bhavan (A2B) sells a majority stake (undisclosed %) to Bodhi Tree Systems (co-founded by James Murdoch and Uday Shankar) for $180 million, announced Thu 12 Nov 2026; Shankar to chair A2B's newly formed board; ~160 outlets in India (strongest in Tamil Nadu and Karnataka) and 30+ abroad (Singapore, US, Australia, Malaysia, UK); plans: expansion in India and abroad, technology and management, a potential stock market listing with no timeline.",
+ "sources": [
+  {
+   "outlet": "Reuters (via The South First)",
+   "date": "12 Nov 2026 22:49 IST",
+   "url": "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/"
+  },
+  {
+   "outlet": "Entrackr",
+   "date": "12 Nov 2026 23:22 IST",
+   "url": "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+  },
+  {
+   "outlet": "Indiantelevision.com",
+   "date": "12 Nov 2026",
+   "url": "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  },
+  {
+   "outlet": "MediaNews4u",
+   "date": "12 Nov 2026",
+   "url": "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  },
+  {
+   "outlet": "Business Standard (headline only; 403 here)",
+   "date": "12 Nov 2026",
+   "url": "https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html"
+  },
+  {
+   "outlet": "Deccan Herald (headline only; 403 here)",
+   "date": "12 Nov 2026",
+   "url": "https://www.deccanherald.com/business/companies/adyar-ananda-bhavan-sells-majority-stake-to-investment-firm-bodhi-tree-for-180-million-4216434"
+  }
+ ],
+ "fact_sources": {
+  "$180 million, majority stake, A2B selling to Bodhi Tree": [
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/",
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/",
+   "https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html",
+   "https://www.deccanherald.com/business/companies/adyar-ananda-bhavan-sells-majority-stake-to-investment-firm-bodhi-tree-for-180-million-4216434"
+  ],
+  "stake percentage not disclosed": [
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  ],
+  "announced Thursday 12 Nov 2026": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  ],
+  "Bodhi Tree co-founded by James Murdoch and Uday Shankar (Lupa Systems + Shankar)": [
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/",
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  ],
+  "Uday Shankar to chair A2B's newly constituted board": [
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/",
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  ],
+  "about 160 outlets in India, 30+ abroad": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  ],
+  "abroad: Singapore, US, Australia, Malaysia, UK": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  ],
+  "strongest presence in Tamil Nadu and Karnataka": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  ],
+  "plans: expand across India and international markets, technology, management": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  ],
+  "potential stock market listing, no timeline": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/",
+   "https://www.medianews4u.com/bodhi-tree-acquires-majority-stake-in-a2b-for-180-million-uday-shankar-to-chair-board/"
+  ],
+  "co-founder K T Srinivasa Raja: sweet shop started with his brother 50 years ago": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://indiantelevision.com/mam/james-murdoch-and-uday-shankars-bodhi-tree-buys-majority-stake-in-a2b-for-180-million/"
+  ],
+  "Chennai-born sweets and vegetarian restaurant chain": [
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/",
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:A2B_Adayar_Anand_Bhavan_Restaurant_Chain.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/A2B_Adayar_Anand_Bhavan_Restaurant_Chain.jpg/1920px-A2B_Adayar_Anand_Bhavan_Restaurant_Chain.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "SnapMeUp",
+  "width": 1920,
+  "height": 1491,
+  "original_size": "2418x1878",
+  "faces": 0,
+  "description": "Neon sign of an A2B Adyar Ananda Bhavan restaurant at night (Commons, taken 25 Jul 2017)",
+  "framing": {
+   "focal": [
+    0.536,
+    1.0
+   ],
+   "zoom": 1.27,
+   "crop_px_wide": 939,
+   "upscale": 1.15
+  }
+ },
+ "tags": []
+}
