@@ -1,0 +1,59 @@
+{
+ "account": "idlytech",
+ "title": "From Mon 16 Nov 2026 realme's after-sales network in India grows to 670+ service centres across 550+ cities, built on OPPO's existing service facilities, with realme branding kept at the centres; realme owners can also use OPPO's upgraded repair network in select locations (Beebom). 1,500+ certified engineers, genuine spare parts. A joint monthly Service Day for realme and OPPO owners: labour charges waived, discounts on screen, battery and back-panel repairs, free cleaning, screen protector and software update. No discount amounts, Service Day date, OPPO-vs-realme site split or warranty change given.",
+ "story_id": 2146,
+ "idly_article": true,
+ "format": "news",
+ "sources": [
+  {"outlet": "FoneArena", "date": "12 Nov 2026", "url": "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html"},
+  {"outlet": "Beebom", "date": "12 Nov 2026 15:12 IST", "url": "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"},
+  {"outlet": "Gadgets 360", "date": "12 Nov 2026", "url": "https://www.gadgets360.com/mobiles/news/realme-after-sales-service-network-expansion-india-announced-oppo-infrastructure-12317095"},
+  {"outlet": "idly.news #2146", "date": "12 Nov 2026 18:36 IST", "url": "https://api.idly.news/api/v1/articles/2146/"}
+ ],
+ "fact_sources": {
+  "670+ service centres from 16 Nov 2026": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ],
+  "550+ cities": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ],
+  "built on OPPO's existing service facilities, realme branding kept": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ],
+  "realme owners can also use OPPO's upgraded repair centres in select locations (Beebom wording; idly #2146 says OPPO's Indian service locations)": [
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india",
+   "https://api.idly.news/api/v1/articles/2146/"
+  ],
+  "1,500+ certified engineers": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ],
+  "genuine spare parts only": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ],
+  "aim: shorter travel and faster turnaround (realme's stated aim)": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://api.idly.news/api/v1/articles/2146/"
+  ],
+  "monthly Service Day for realme and OPPO owners: labour waived; discounts on screen, battery, back-panel repairs; free cleaning, screen protector, software update": [
+   "https://www.fonearena.com/blog/496895/realme-after-sales-service-network-670-centres.html",
+   "https://gadgets.beebom.com/news/realme-joins-hands-with-oppo-for-service-centre-expansion-in-india"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.oppo.com/in/newsroom/press/oppo-india-elevated-after-sales-experience-with-service-center-3-0-pro/",
+  "licence": "Company press image (OPPO India newsroom), credited",
+  "author": "OPPO India",
+  "url": "https://www.oppo.com/content/dam/oppo_com/in/mkt/news/press/2026/02/oppo-india-elevated-after-sales-experience-with-service-center-3-0-pro/Header-Kolkata-Service-Center.webp",
+  "width": 2400,
+  "height": 1600,
+  "viewed": true,
+  "processing": "plain white bands of the video frame trimmed (rows 0-131 and 1468-1599 removed) to 2400x1336; framed by pipeline.framing (ok, faces 0, upscale 1.01); cover crop focal [0.4, 0.5], zoom 1.0; no fill, blur or other edits"
+ },
+ "tags": ["oppoindia"],
+ "tag_evidence": "oppo.com/in footer social icons link https://www.instagram.com/oppoindia/ (fetched by the desk 12 Nov 2026 ~22:10 IST); the page's schema.org sameAs still lists instagram.com/oppomobileindia (older handle), so tag only the footer handle"
+}

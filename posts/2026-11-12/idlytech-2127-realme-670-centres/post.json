@@ -1,0 +1,45 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2127-realme-670-centres",
+ "date": "12 Nov 2026",
+ "sources": [
+  "FoneArena",
+  "Beebom",
+  "Gadgets 360"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Realme's Repair Network Grows to 670+ Centres From 16 Nov",
+   "photo": "_work/2026-11-12-hourly-2127/idlytech/frame-realme-oppo/cover_source.png",
+   "photo_credit": "Image: OPPO India (press)",
+   "focal": [
+    0.4,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "550+",
+   "stat_label": "Cities Covered, Built on OPPO's Service Facilities",
+   "bullets": [
+    "Select OPPO centres also repair realme phones",
+    "1,500+ certified engineers, genuine spare parts only",
+    "Aim: shorter trips and faster repairs, realme says"
+   ],
+   "credit_line": "Sources: FoneArena, Beebom, Gadgets 360"
+  },
+  {
+   "type": "detail",
+   "stat": "₹0",
+   "stat_label": "Labour Charge on Monthly Service Day",
+   "bullets": [
+    "Open to both realme and OPPO owners",
+    "Discounts on screen, battery and back-panel repairs",
+    "Free cleaning, screen protector and software update"
+   ],
+   "credit_line": "Sources: FoneArena, Beebom"
+  }
+ ]
+}

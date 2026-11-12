@@ -1,0 +1,58 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Image: OPPO India (press)",
+  "slug": "idlytech-2127-realme-670-centres",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-12-hourly-2127/idlytech/render/idlytech-2127-realme-670-centres/01.jpg",
+  "scale": 1.011
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FoneArena, Beebom, Gadgets 360",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2127-realme-670-centres",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2127/idlytech/render/idlytech-2127-realme-670-centres/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FoneArena, Beebom",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2127-realme-670-centres",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-12-hourly-2127/idlytech/render/idlytech-2127-realme-670-centres/03.jpg",
+  "scale": null
+ }
+]
