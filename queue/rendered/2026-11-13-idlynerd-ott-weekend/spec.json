@@ -77,5 +77,15 @@
       "total": 13,
       "notes": "Re-scored after Gate 2 fixes (8 titles, Daayra added, slides regrouped by platform, caption replaced). hook 2: Ranabaali plus the count on the cover on release day, Daayra adds a big Hindi title. original 1: weekly OTT lists are common and the cover is a trailer frame; our angle is per-title platform/language/genre for Indian readers, each from 2+ sources. Cover risk (lettering, framing) is checked by the lane and at Gate 4."
     }
+  },
+  "slug": "2026-11-13-idlynerd-ott-weekend",
+  "caption_final": "Here are eight of the new films and series arriving on India's streaming platforms from Friday, 13 November to Sunday, 15 November.\n\nNetflix adds three on Friday: the Telugu period drama Ranabaali, streaming in Telugu, Hindi, Tamil, Kannada and Malayalam; Daayra, a crime thriller directed by Meghna Gulzar; and the English mystery thriller Heartland.\n\nAlso on Friday: the Hindi thriller series Student of the Year: After Dark on JioHotstar, the Hindi family comedy Parivarik ManuRanjan on Sony LIV and the Malayalam gangster drama Bandra on ZEE5.\n\nOn Sunday, Netflix adds the English comedy series Cunk on Cinema, and Prime Video adds The Chosen Season 6.\n\nWhich film did you skip in cinemas to wait for its OTT release?\n\nSources: Netflix India, JioHotstar, Sony LIV, Esquire India, Flickonclick, IWMBuzz, The Daily Jagran\n\n#OTTReleases #Ranabaali #NewOnOTT #WeekendWatch #idlynerd\n\nImage: Netflix India (official trailer)",
+  "image_credit": "Image: Netflix India (official trailer)",
+  "lane": {
+    "spec_sha256": "882a06dd070603fb747d4add5a45e3d29f5a278ee4e1f769bdeefedea3387342",
+    "rendered_at": "2026-11-12T22:38:24+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=IZcGeJwGuec",
+    "image_url": "https://i.ytimg.com/vi/IZcGeJwGuec/maxresdefault.jpg"
   }
 }
