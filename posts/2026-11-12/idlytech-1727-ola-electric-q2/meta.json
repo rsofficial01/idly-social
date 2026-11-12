@@ -1,0 +1,146 @@
+{
+ "account": "idlytech",
+ "title": "Ola Electric Q2 FY27 (Jul-Sep 2026, results reported 12 Nov 2026): revenue from operations ₹421 crore, down 39% from ₹690 crore and 7% from ₹455 crore in Q1; loss ₹362 crore, 13% narrower than ₹418 crore a year earlier but 8% wider than ₹336 crore in Q1 (about ₹86 lost per ₹100 of revenue, idly's sum); rival Ather's Q2 FY27 revenue ₹1,464 crore (+63%), profit ₹1.26 crore after a ₹154 crore loss (Ola is 29% of Ather, idly's sum); October 2026 Vahan: Ola fifth with 12,096 e-2W registrations (5.4%) behind TVS 60,429, Bajaj 49,067, Ather 31,796, Hero Vida 29,901; ~₹1,000 crore rights issue allotted after the quarter",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Ola Electric's Q2 FY27 results (not in candidates.json at 17:35; idlytech candidates checked).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Inc42",
+   "date": "12 Nov 2026",
+   "url": "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/"
+  },
+  {
+   "outlet": "Entrackr",
+   "date": "12 Nov 2026",
+   "url": "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857"
+  },
+  {
+   "outlet": "Autocar Pro",
+   "date": "12 Nov 2026",
+   "url": "https://www.autocarpro.in/news/ola-electric-q2-loss-widens-to-rs-362-crore-as-revenue-falls-39-percent-135880"
+  },
+  {
+   "outlet": "Storyboard18",
+   "date": "12 Nov 2026",
+   "url": "https://www.storyboard18.com/brand-marketing/ola-electric-q2-revenue-drops-39-percent-to-rs-421-crore-ws-l-114612.htm"
+  },
+  {
+   "outlet": "Autocar Pro (Ather Q2 FY27)",
+   "date": "26 Oct 2026",
+   "url": "https://www.autocarpro.in/news/ather-energy-turns-profitable-in-q2-fy27-as-revenue-jumps-63-percent-135469"
+  },
+  {
+   "outlet": "YourStory (Ather Q2 FY27)",
+   "date": "Oct 2026",
+   "url": "https://yourstory.com/2026/10/ather-energy-swings-to-rs-126-cr-profit-in-q2-fy27"
+  },
+  {
+   "outlet": "YourStory (Ather after ₹154 crore loss)",
+   "date": "Oct 2026",
+   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion"
+  },
+  {
+   "outlet": "Inc42 (Ather Q2 FY27)",
+   "date": "Oct 2026",
+   "url": "https://inc42.com/buzz/ather-turns-profitable-in-q2-posts-%E2%82%B91-3-cr-pat/"
+  },
+  {
+   "outlet": "EVFY (October 2026 e-2W table)",
+   "date": "2 Nov 2026",
+   "url": "https://www.evfy.in/blogs/electric-scooter-sales-in-india-in-october-2026-tvs-leads-with-record-60429-units-vida-closes-on-ather"
+  },
+  {
+   "outlet": "Autocar India (October 2026 e-2W)",
+   "date": "1 Nov 2026",
+   "url": "https://www.autocarindia.com/industry/indian-e-two-wheeler-sales-crosses-a-record-223-lakh-units-in-october-441190"
+  }
+ ],
+ "fact_sources": {
+  "Ola op revenue ₹421 crore in Q2 FY27, -39% from ₹690 crore": [
+   "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
+   "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857",
+   "https://www.autocarpro.in/news/ola-electric-q2-loss-widens-to-rs-362-crore-as-revenue-falls-39-percent-135880",
+   "https://www.storyboard18.com/brand-marketing/ola-electric-q2-revenue-drops-39-percent-to-rs-421-crore-ws-l-114612.htm"
+  ],
+  "Ola revenue -7% from ₹455 crore in Q1 FY27": [
+   "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
+   "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857"
+  ],
+  "Ola loss ₹362 crore; -13% from ₹418 crore YoY; +8% from ₹336 crore QoQ": [
+   "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
+   "https://www.autocarpro.in/news/ola-electric-q2-loss-widens-to-rs-362-crore-as-revenue-falls-39-percent-135880",
+   "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857"
+  ],
+  "₹86 lost per ₹100 of revenue = 362/421 (idly's sum, labelled)": [
+   "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
+   "https://www.autocarpro.in/news/ola-electric-q2-loss-widens-to-rs-362-crore-as-revenue-falls-39-percent-135880"
+  ],
+  "Ather Q2 FY27 op revenue ₹1,464 crore, +63%; profit ₹1.26 crore after ₹154 crore loss a year earlier": [
+   "https://www.autocarpro.in/news/ather-energy-turns-profitable-in-q2-fy27-as-revenue-jumps-63-percent-135469",
+   "https://yourstory.com/2026/10/ather-energy-swings-to-rs-126-cr-profit-in-q2-fy27",
+   "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+   "https://inc42.com/buzz/ather-turns-profitable-in-q2-posts-%E2%82%B91-3-cr-pat/"
+  ],
+  "Ola revenue 29% of Ather's = 421/1,464 (idly's sum, labelled)": [
+   "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
+   "https://www.autocarpro.in/news/ather-energy-turns-profitable-in-q2-fy27-as-revenue-jumps-63-percent-135469"
+  ],
+  "October 2026: Ola fifth, 12,096 registrations, 5.4% share": [
+   "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857",
+   "https://www.evfy.in/blogs/electric-scooter-sales-in-india-in-october-2026-tvs-leads-with-record-60429-units-vida-closes-on-ather",
+   "https://www.autocarindia.com/industry/indian-e-two-wheeler-sales-crosses-a-record-223-lakh-units-in-october-441190"
+  ],
+  "October 2026: TVS 60,429; Bajaj 49,067; Ather 31,796; Hero Vida 29,901": [
+   "https://www.evfy.in/blogs/electric-scooter-sales-in-india-in-october-2026-tvs-leads-with-record-60429-units-vida-closes-on-ather",
+   "https://www.autocarindia.com/industry/indian-e-two-wheeler-sales-crosses-a-record-223-lakh-units-in-october-441190"
+  ],
+  "Rights issue ~₹1,000 crore, shares allotted after the quarter": [
+   "https://www.autocarpro.in/news/ola-electric-q2-loss-widens-to-rs-362-crore-as-revenue-falls-39-percent-135880",
+   "https://entrackr.com/fintrackr/ola-electrics-q2-fy27-revenue-dips-39-to-rs-421-cr-cuts-losses-by-13-12803857"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.olaelectric.com/",
+  "file_url": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/hp_gen3_banner_web_image_03.webp",
+  "licence": "Ola Electric's own published product image (the homepage og:image), brand-owned official image used editorially with credit",
+  "author": "Ola Electric",
+  "width": 4098,
+  "height": 2460,
+  "local": "_work/2026-11-12-hourly-1727/idlytech/dl/ola_hp_gen3_banner_web_image_03.webp",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Ola Electric",
+  "subject": "A red Ola Electric S1-family scooter in a lit studio set (model not named on the card)"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-12-hourly-1727/idlytech/frame-ola/cover_source.png",
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "zoom_tool": 1.0,
+  "upscale": 0.55,
+  "faces": 0,
+  "focal_used": [
+   0.475,
+   0.5
+  ],
+  "zoom_used": 1.0,
+  "render_scale": 0.55,
+  "note": "full image height used; front tyre contact patch sits behind headline line 1, accepted by the reviewer at G3 and G4"
+ },
+ "tags": [
+  "olaelectric"
+ ],
+ "tags_evidence": "olaelectric.com links https://www.instagram.com/olaelectric (twice, site social links), fetched 12 Nov 2026 17:50 IST; reviewer confirmed at G2+G3.",
+ "gates": {
+  "g1": "v1: Sony MDR-3R DROP (ceiling 11), ACT Fibernet DROP (no image), Apple forum DROP (ceiling 11) (_work/2026-11-12-hourly-1727/reviews/idlytech-g1-v1.md); v2: Ola Electric Q2 BUILD, ceiling 13 (_work/2026-11-12-hourly-1727/reviews/idlytech-g1-v2.md)",
+  "g2": "v1 FIX slide 3 (no cover-number repeat; keep slide on Ather) (_work/2026-11-12-hourly-1727/reviews/idlytech-g23-v1.md); v2 PASS (_work/2026-11-12-hourly-1727/reviews/idlytech-g23-v2.md)",
+  "g3": "PASS at G23 v1/v2: Ola Electric's own image, faces 0, tyre overlap accepted, tag @olaelectric (_work/2026-11-12-hourly-1727/reviews/idlytech-g23-v1.md)",
+  "g4": "PASS 13/14 (_work/2026-11-12-hourly-1727/reviews/idlytech-g4-v1.md; score _work/2026-11-12-hourly-1727/reviews/idlytech-g4-v1.score.json)"
+ }
+}

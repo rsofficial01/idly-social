@@ -1,0 +1,59 @@
+[
+ {
+  "acct": "idlytech",
+  "slug": "idlytech-1727-ola-electric-q2",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Inc42",
+   "Entrackr",
+   "Autocar Pro",
+   "EVFY",
+   "Autocar India"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Ola Electric's Revenue Falls 39% to ₹421 Crore",
+    "photo": "_work/2026-11-12-hourly-1727/idlytech/frame-ola/cover_source.png",
+    "photo_credit": "Image: Ola Electric",
+    "focal": [
+     0.475,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "₹362 CR",
+    "stat_label": "Ola Electric's Loss in July–September 2026",
+    "bullets": [
+     "Down 13% from ₹418 crore a year earlier",
+     "Up 8% from ₹336 crore in April–June",
+     "About ₹86 lost per ₹100 of revenue (idly's sum)"
+    ],
+    "credit_line": "Sources: Inc42, Entrackr, Autocar Pro"
+   },
+   {
+    "type": "detail",
+    "stat": "₹1,464 CR",
+    "stat_label": "Rival Ather's Revenue in the Same Quarter",
+    "bullets": [
+     "Up 63%; profit ₹1.26 crore after ₹154 crore loss",
+     "Ola's revenue is 29% of that (idly's sum)"
+    ],
+    "credit_line": "Sources: Autocar Pro, YourStory, Inc42"
+   },
+   {
+    "type": "detail",
+    "stat": "5TH",
+    "stat_label": "Ola's Rank in October Electric Two-Wheeler Sales",
+    "bullets": [
+     "12,096 registrations, a 5.4% share (Vahan data)",
+     "TVS led with 60,429; Bajaj sold 49,067",
+     "Ather (31,796) and Hero's Vida (29,901) also outsold Ola"
+    ],
+    "credit_line": "Sources: Entrackr, EVFY, Autocar India"
+   }
+  ]
+ }
+]
