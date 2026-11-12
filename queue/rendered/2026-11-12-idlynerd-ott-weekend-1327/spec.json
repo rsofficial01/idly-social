@@ -77,5 +77,14 @@
       "notes": "Self (desk only, never in packets). hook 2: Jailer 2 (the year's biggest Tamil film) streaming today plus Ranabaali Friday, '4 New OTT Releases' number on the cover; only if the lane still is clean. read 2: cover, Thursday slide, Friday slide, no filler. send 2: family/friends planning the weekend watch, in their language. keep 2: day, date, platform, language per title. reply 2: cinema vs wait-for-OTT, from readers' own habits. original 2: own synthesis across the platforms' own posts/uploads and four outlets; language per title is our angle. alone 1: cover says 'Today' without a date; detail slides carry 12 NOV / 13 NOV."
     }
   },
-  "created_at": "2026-11-12T13:45:39+05:30"
+  "created_at": "2026-11-12T13:45:39+05:30",
+  "caption_final": "Jailer 2, Nelson Dilipkumar's Tamil action film with Rajinikanth, streams on Prime Video from Thursday, 12 November, four weeks after it opened in cinemas on 15 October. You can watch it in Tamil, Telugu, Hindi, Malayalam or Kannada.\n\nOn Friday, 13 November, Ranabaali, the Telugu period drama that opened in cinemas on 16 October, arrives on Netflix in Telugu, Hindi, Tamil, Kannada and Malayalam. JioHotstar starts Student of the Year: After Dark, a Hindi series, and Sony LIV adds the Hindi film Parivarik ManuRanjan.\n\nDid you see Jailer 2 in a cinema, or are you watching it at home this weekend?\n\nSources: Prime Video India, Netflix India, JioHotstar, Sony LIV, Khaleej Times, The Hollywood Reporter India, Outlook India, tbreak, Flickonclick\n\n#Jailer2 #Ranabaali #OTTReleases #NewOnOTT #idlynerd\n\nImage: Prime Video India (official video)",
+  "image_credit": "Image: Prime Video India (official video)",
+  "lane": {
+    "spec_sha256": "8799f5bca4005210edaf0876b4d5fbf549e59f95aa8cea638f9976c0af49e102",
+    "rendered_at": "2026-11-12T08:20:43+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+    "image_url": "https://i.ytimg.com/vi/vHV6R0F1vAk/maxresdefault.jpg"
+  }
 }

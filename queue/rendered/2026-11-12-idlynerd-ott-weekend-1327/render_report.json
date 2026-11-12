@@ -1,0 +1,163 @@
+{
+  "slug": "2026-11-12-idlynerd-ott-weekend-1327",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-12T08:20:43+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+    "source_url": "https://www.youtube.com/watch?v=vHV6R0F1vAk",
+    "image_url": "https://i.ytimg.com/vi/vHV6R0F1vAk/maxresdefault.jpg",
+    "credit": "Image: Prime Video India (official video)",
+    "organisation": "Prime Video India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=vHV6R0F1vAk: author 'Prime Video India' https://www.youtube.com/@PrimeVideoIN, title 'Jailer 2 Ultimate SHOWDOWN 🔥 | Rajinikanth | Prime Video India | November 12'",
+      "thumbnail https://i.ytimg.com/vi/vHV6R0F1vAk/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PrimeVideoIN",
+    "video_title": "Jailer 2 Ultimate SHOWDOWN 🔥 | Rajinikanth | Prime Video India | November 12"
+  },
+  "faces": [
+    [
+      542.3,
+      125.2,
+      151.5,
+      206.8,
+      0.925
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.4828,
+      0.4902
+    ],
+    "zoom": 1.02,
+    "upscale": 1.915,
+    "crop": [
+      336.0,
+      0.0,
+      564.0,
+      706.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        360,
+        192,
+        720,
+        682
+      ]
+    ],
+    "logo_saliency": 0.62,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        542.3,
+        125.2,
+        151.5,
+        206.8,
+        0.925
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.915,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 5 known items, 1 needing care (minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Prime Video India (official video)",
+      "Sources: Prime Video India, Khaleej Times, The Hollywood Reporter India",
+      "Sources: Netflix India, JioHotstar, Sony LIV, Outlook India, tbreak"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: Prime Video India (official video)",
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Prime Video India, Khaleej Times, The Hollywood Reporter India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix India, JioHotstar, Sony LIV, Outlook India, tbreak",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Jailer 2, Nelson Dilipkumar's Tamil action film with Rajinikanth, streams on Prime Video from Thursday, 12 November, four weeks after it opened in cinemas on 15 October. You can watch it in Tamil, Telugu, Hindi, Malayalam or Kannada.\n\nOn Friday, 13 November, Ranabaali, the Telugu period drama that opened in cinemas on 16 October, arrives on Netflix in Telugu, Hindi, Tamil, Kannada and Malayalam. JioHotstar starts Student of the Year: After Dark, a Hindi series, and Sony LIV adds the Hindi film Parivarik ManuRanjan.\n\nDid you see Jailer 2 in a cinema, or are you watching it at home this weekend?\n\nSources: Prime Video India, Netflix India, JioHotstar, Sony LIV, Khaleej Times, The Hollywood Reporter India, Outlook India, tbreak, Flickonclick\n\n#Jailer2 #Ranabaali #OTTReleases #NewOnOTT #idlynerd\n\nImage: Prime Video India (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
