@@ -1,0 +1,143 @@
+{
+ "account": "idlyautomotive",
+ "title": "List: India car/bike arrivals 13-30 Nov 2026, led by the Pune-assembled Land Rover Defender 110 (deliveries from 15 Nov; 2.0 petrol P300 X-Dynamic HSE ₹99 lakh ex-showroom; 3.0 petrol/diesel ₹1.18 crore vs ₹1.52 crore imported); Denza D9 + Z9 GT India debut 13 Nov (no prices); Toyota Innova Hycross facelift reported for 25 Nov (Autocar India, Acko Drive; Toyota unconfirmed); new-generation Mini Cooper SE + Paul Smith Edition 27 Nov (no prices); Royal Enfield Motoverse 27-29 Nov, Vagator, Goa",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article covers a November arrivals calendar; the Defender local-assembly story has no idly article (idly 2075 covers only the Denza D9 teaser).",
+ "format": "list",
+ "sources": [
+  {
+   "outlet": "Times Drive",
+   "date": "27 Oct 2026 (updated)",
+   "url": "https://www.timesdrive.in/news/land-rover-defender-110-local-production-begins-in-india-prices-start-at-rs-99-lakh-article-156414374"
+  },
+  {
+   "outlet": "DriveSpark",
+   "date": "27 Oct 2026",
+   "url": "https://www.drivespark.com/four-wheelers/2026/locally-assembled-land-rover-defender-110-launched-at-rs-99-lakh-088429.html"
+  },
+  {
+   "outlet": "evo India",
+   "date": "Oct 2026",
+   "url": "https://www.evoindia.com/article/defender-110-to-be-locally-manufactured-587847"
+  },
+  {
+   "outlet": "91wheels",
+   "date": "27 Oct 2026",
+   "url": "https://www.91wheels.com/news/land-rover-defender-110-india-price-cut"
+  },
+  {
+   "outlet": "Onmanorama",
+   "date": "30 Oct 2026",
+   "url": "https://www.onmanorama.com/news/business/2026/10/30/land-rover-defender-price-drop-india.html"
+  },
+  {
+   "outlet": "Autox",
+   "date": "12 Nov 2026",
+   "url": "https://www.autox.com/news/car-news/byd-denza-d9-teased-india-debut-set-for-november-13-125063/"
+  },
+  {
+   "outlet": "CarWale",
+   "date": "11-12 Nov 2026",
+   "url": "https://www.carwale.com/news/denza-d9-teased-ahead-of-india-debut/"
+  },
+  {
+   "outlet": "Rushlane",
+   "date": "Nov 2026",
+   "url": "https://www.rushlane.com/byd-denza-d9-mpv-spied-in-india-for-first-time-launch-13th-nov-12560720.html"
+  },
+  {
+   "outlet": "Autocar India (November launches)",
+   "date": "1 Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/upcoming-car-launches-in-november-2026-441173"
+  },
+  {
+   "outlet": "Autocar India (Hycross facelift)",
+   "date": "3 Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/toyota-innova-hycross-facelift-to-launch-on-november-25-441225"
+  },
+  {
+   "outlet": "Acko Drive",
+   "date": "Nov 2026",
+   "url": "https://ackodrive.com/news/toyota-innova-hycross-facelift-india-launch-on-november-25-e100-variant-could-tag-along/"
+  },
+  {
+   "outlet": "Autocar India (Mini Cooper SE)",
+   "date": "Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/second-gen-mini-cooper-electric-to-launch-on-november-27-441233"
+  },
+  {
+   "outlet": "Times Drive (Mini Cooper SE)",
+   "date": "Nov 2026",
+   "url": "https://www.timesdrive.in/news/new-mini-cooper-se-india-launch-on-november-27-expected-price-range-battery-features-and-more-article-156449342"
+  },
+  {
+   "outlet": "Autocar India (Motoverse dates)",
+   "date": "2026",
+   "url": "https://www.autocarindia.com/bike-news/royal-enfield-motoverse-2026-dates-announced-440617"
+  },
+  {
+   "outlet": "DriveSpark (Motoverse dates)",
+   "date": "2026",
+   "url": "https://www.drivespark.com/two-wheelers/2026/royal-enfield-motoverse-2026-dates-announced-088103.html"
+  }
+ ],
+ "fact_sources": {
+  "Defender 110 assembled from CKD kits at JLR Pune; deliveries from 15 Nov": [
+   "Times Drive",
+   "DriveSpark",
+   "evo India"
+  ],
+  "₹99 lakh ex-showroom = 2.0 petrol P300 X-Dynamic HSE": [
+   "Times Drive",
+   "DriveSpark",
+   "evo India"
+  ],
+  "3.0 petrol/diesel ₹1.18 crore local vs ₹1.52 crore imported (₹34 lakh)": [
+   "DriveSpark",
+   "Times Drive (₹1.18 crore)",
+   "91wheels (up to ₹34 lakh)",
+   "Onmanorama (₹34 lakh)"
+  ],
+  "Denza D9 + Z9 GT India debut 13 Nov; prices not announced": [
+   "Autox",
+   "CarWale",
+   "Rushlane",
+   "Autocar India"
+  ],
+  "Innova Hycross facelift reported for 25 Nov; Toyota unconfirmed (CarHP says 26 Nov)": [
+   "Autocar India",
+   "Acko Drive"
+  ],
+  "New-generation Mini Cooper SE + Paul Smith Edition 27 Nov; prices not announced": [
+   "Autocar India",
+   "Times Drive"
+  ],
+  "Motoverse 27-29 Nov, Vagator, Goa": [
+   "Autocar India",
+   "DriveSpark",
+   "royalenfield.com/motoverse"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.landrover.in/defender/index.html",
+  "file_url": "https://www.landrover.in/content/dam/lrdx/local/in/J200537_JLR_Defender_F34_Desktop_16x9.jpg",
+  "licence": "Official maker image (Land Rover India website), editorial use with credit",
+  "author": "Land Rover (JLR India)",
+  "orig_size": "1920x1080",
+  "viewed": true,
+  "faces": 0,
+  "credit": "Image: Land Rover",
+  "framing": "lossless pre-crop x 780-1920, then pipeline.framing: focal [0.5,0.5], zoom 1.0, upscale 1.25, faces 0"
+ },
+ "tags": [
+  "defender"
+ ],
+ "tags_confirmed": "landrover.in (Land Rover India's own site) links its Instagram button to https://www.instagram.com/defender/ (index.html and /defender/index.html, checked 12 Nov 2026)",
+ "gates": {
+  "g1": "BUILD (reviews/idlyautomotive-g1-v2.md)",
+  "g2": "FIX applied (reviews/idlyautomotive-g2.md)",
+  "g3": "PASS (reviews/idlyautomotive-g3.md)",
+  "g4": "PASS 13/14 (reviews/idlyautomotive-g4.md)"
+ }
+}

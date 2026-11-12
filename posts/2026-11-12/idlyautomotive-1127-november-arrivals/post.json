@@ -1,0 +1,38 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1127-november-arrivals",
+ "date": "12 Nov 2026",
+ "sources": ["Times Drive", "DriveSpark", "Autocar India", "Autox", "CarWale", "Acko Drive"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Pune-Built Defender at ₹99 Lakh Leads November's New Arrivals",
+   "photo": "_work/2026-11-12-hourly-1127/idlyautomotive/framing_def/cover_source.png",
+   "photo_credit": "Image: Land Rover",
+   "focal": [0.5, 0.5],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "13–15 NOV",
+   "stat_label": "Denza Debuts, Then Local Defenders Arrive",
+   "bullets": [
+    "13 Nov: BYD's luxury Denza D9, Z9 GT debut",
+    "15 Nov: Pune-built Defender 110 deliveries begin",
+    "Local 3.0 Defender ₹1.18 crore; imported was ₹1.52 crore"
+   ],
+   "credit_line": "Sources: Autox, CarWale, Times Drive, DriveSpark"
+  },
+  {
+   "type": "detail",
+   "stat": "25–29 NOV",
+   "stat_label": "A Family MPV, an Electric Mini, Motoverse",
+   "bullets": [
+    "Hycross facelift reported for 25 Nov; Toyota hasn't confirmed",
+    "27 Nov: new-generation electric Mini Cooper SE launches",
+    "27–29 Nov: Royal Enfield's Motoverse festival, Vagator, Goa"
+   ],
+   "credit_line": "Sources: Autocar India, Acko Drive, Times Drive, DriveSpark"
+  }
+ ]
+}
