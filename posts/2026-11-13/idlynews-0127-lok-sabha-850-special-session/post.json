@@ -14,7 +14,7 @@
    "photo": "_work/2026-11-13-hourly-0127/idlynews/frame2/cover_source.png",
    "photo_credit": "Photo: Ministry of Parliamentary Affairs / PIB, GODL-India",
    "focal": [
-    0.56,
+    0.62,
     0.5
    ],
    "zoom": 1.0
@@ -35,8 +35,8 @@
    "stat": "+50%",
    "stat_label": "Lok Sabha Seats Per State in Draft Formula",
    "bullets": [
-    "Keeps each state's 1971 Census share of seats",
-    "Aimed at southern states' concerns, sources say",
+    "Keeps each state's 1971 Census share, sources say",
+    "Pitched as easing southern states' concerns",
     "Not final yet, government sources say"
    ],
    "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle"
@@ -48,7 +48,7 @@
    "bullets": [
     "Monsoon Session never closed, so recall can be quick",
     "Fresh session needs 14 days; no date set",
-    "Goal: 33% women's quota before the 2029 polls"
+    "Government's aim: 33% women's quota before 2029 polls"
    ],
    "credit_line": "Sources: PTI, The Hindu, Deccan Chronicle, Outlook"
   }

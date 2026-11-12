@@ -1,0 +1,132 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "Reference-led story (PTI, The Hindu, Deccan Chronicle, Outlook, 12 Nov 2026); no idly.news article on it.",
+ "format": "news",
+ "title": "Centre plans special session for a second try at the Lok Sabha expansion bill (543 to up to 850 seats)",
+ "sources": [
+  {
+   "outlet": "Hindustan Times (PTI)",
+   "date": "2026-11-12",
+   "url": "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-12",
+   "url": "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "2026-11-12",
+   "url": "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863"
+  },
+  {
+   "outlet": "Outlook (PTI)",
+   "date": "2026-11-12",
+   "url": "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  },
+  {
+   "outlet": "The South First",
+   "date": "2026-04-17",
+   "url": "https://thesouthfirst.com/topstory/lok-sabha-defeats-constitution-131st-amendment-bill/"
+  },
+  {
+   "outlet": "Outlook",
+   "date": "2026-04-17",
+   "url": "https://www.outlookindia.com/national/131st-amendment-bill-on-womens-reservation-defeated-in-lok-sabha"
+  },
+  {
+   "outlet": "Constitution of India, Article 368 (constitutionofindia.net)",
+   "date": "",
+   "url": "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution-and-procedure-therefor/"
+  }
+ ],
+ "fact_sources": {
+  "Government plans a special session of Parliament for the amendment; no dates or duration disclosed (government sources)": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  ],
+  "Amendment would raise Lok Sabha from 543 to a maximum of 850 seats": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  ],
+  "Linked to 33% reservation for women in Parliament and state Assemblies (2023 law)": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  ],
+  "Government aims to operationalise women's reservation before the 2029 general election": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863"
+  ],
+  "Constitution amendment needs two-thirds of MPs present and voting": [
+   "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution-and-procedure-therefor/",
+   "https://www.outlookindia.com/national/131st-amendment-bill-on-womens-reservation-defeated-in-lok-sabha"
+  ],
+  "17 April 2026 bill failed: 298 for, 230 against": [
+   "https://thesouthfirst.com/topstory/lok-sabha-defeats-constitution-131st-amendment-bill/",
+   "https://www.outlookindia.com/national/131st-amendment-bill-on-womens-reservation-defeated-in-lok-sabha"
+  ],
+  "Government sources claim 15 to 18 votes more than needed (The Hindu: at least 15-16)": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece"
+  ],
+  "Formula under study: every state's seats +50%, inter-state shares fixed on 1971 Census, to ease southern states' concerns": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863"
+  ],
+  "No final decision on the formula (government sources)": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863"
+  ],
+  "Jairam Ramesh called Amit Shah 'the master of bluff and bluster' and said the bill would fail again": [
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863"
+  ],
+  "Monsoon Session adjourned sine die 13 August, not prorogued, record 91 days (previous 87 in 2008)": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  ],
+  "Extended sitting needs 2 days' notice; fresh session 14 days": [
+   "https://www.hindustantimes.com/india-news/govt-plans-special-session-of-parliament-to-pass-women-s-quota-amendment-bill-confident-of-15-18-vote-margin-101794476601383.html",
+   "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "https://www.deccanchronicle.com/nation/govt-eyes-special-session-for-delimitation-quota-bills-2003863",
+   "https://www.outlookindia.com/national/centre-special-session-of-parliament-womens-reservation-bill-delimitation-constitutional-amendment"
+  ]
+ },
+ "image": {
+  "url": "https://static.pib.gov.in/WriteReadData/Gallery/PhotoGallery/2023/May/H20230527132694.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Lok_Sabha_chamber_in_New_Parliament_building_(2).jpg",
+  "pib_page": "https://pib.gov.in/photshare/132694_3_1_photoshare.aspx",
+  "licence": "GODL-India",
+  "author": "Ministry of Parliamentary Affairs (published by PIB, ID 132694, 27 May 2023)",
+  "credit": "Photo: Ministry of Parliamentary Affairs / PIB, GODL-India",
+  "size": "1600x1198",
+  "faces": 0,
+  "framing": {
+   "photo": "_work/2026-11-13-hourly-0127/idlynews/frame2/cover_source.png",
+   "focal": [
+    0.62,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.13,
+   "note": "pipeline.framing ok at focal 0.5 (faces 0, upscale 1.13, no sharpening); rendered 01.jpg at 0.5 screened faces=1 (false positive), so focal moved to 0.62 where the rendered 01.jpg screens faces=0"
+  }
+ },
+ "tags": [
+  "pibindia"
+ ]
+}
