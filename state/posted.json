@@ -2231,5 +2231,35 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlytech-0727-nvidia-ouster-report/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18127135003926532",
+    "permalink": "https://www.instagram.com/p/Dfn_X0-kR4J/",
+    "posted_at": "2026-11-12T02:32:12+00:00",
+    "date": "2026-11-12",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-0727-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-0727-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlynews-0727-morning-brief/03.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18356946592168856",
+    "permalink": "https://www.instagram.com/p/Dfn_cObDtH9/",
+    "posted_at": "2026-11-12T02:32:49+00:00",
+    "date": "2026-11-12",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyhype-0727-decathlon-nike-revenue/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyhype-0727-decathlon-nike-revenue/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-12/idlyhype-0727-decathlon-nike-revenue/03.jpg"
+    ],
+    "score_total": 12
   }
 ]

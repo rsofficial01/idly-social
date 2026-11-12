@@ -1,0 +1,15 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/01.jpg",
+  "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/02.jpg",
+  "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/alt.txt",
+ "score_file": "posts/2026-11-12/idlytech-0727-nvidia-ouster-report/score.json",
+ "title": "Nvidia shares fall about 8% after hours on Wed 11 Nov 2026 (US time; CBS: more than 8%, to $159.51; TechCrunch: about 8%) after The Wall Street Journal reports the board is preparing to oust co-founder and CEO Jensen Huang and could meet as soon as Wednesday to decide; Reuters (source) says the board is meeting on his future; the board's independent investigation, announced 8 Nov, concerns reports that Huang was the target of a foreign intelligence effort (board: no reason to believe national security or Nvidia secrets were compromised); no successor named, analysts see no obvious successor (CBS, TechCrunch); no board decision announced as of ~08:00 IST 12 Nov; Huang co-founded Nvidia in 1993 and has led it 33 years; Q3 FY27 results 17 Nov, call 2 pm PT (03:30 IST 18 Nov). Follows @idlynews' 10 Nov post on the probe.",
+ "tags": []
+}

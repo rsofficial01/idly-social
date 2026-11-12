@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-0727-morning-brief/01.jpg",
+  "posts/2026-11-12/idlynews-0727-morning-brief/02.jpg",
+  "posts/2026-11-12/idlynews-0727-morning-brief/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-0727-morning-brief/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-0727-morning-brief/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-0727-morning-brief/score.json",
+ "title": "Morning Brief, Thu 12 Nov 2026: two express trains derail about 10 hours apart on Wed 11 Nov (lead): Kolkata-Sairang Express, locomotive and five coaches at Digaru, Assam, ~06:54 (NFR; NFR said no injuries, Assam CM said four minor injuries) and Chauri Chaura Express, four coaches at Kanpur Central ~17:05 (about 300 passengers in them safe, railway officials); Delhi AQI 313 'Very Poor' on Wed under GRAP Stage III (since 6 Nov: BS-III petrol/BS-IV diesel four-wheelers restricted in Delhi and four NCR districts, non-essential construction and demolition banned, classes up to Class 5 hybrid with an online option; Noida and Ghaziabad orders 11 Nov); two SPOs missing in Kishtwar, police and Army searching; Iran awaits US reply to its seven conditions, Ghalibaf says Hormuz will 'never return' to pre-war status; Russia-Ukraine Abu Dhabi talks end without breakthrough, large prisoner exchange confirmed",
+ "tags": []
+}
