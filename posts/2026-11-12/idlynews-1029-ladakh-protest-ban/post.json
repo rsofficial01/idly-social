@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1029-ladakh-protest-ban",
+ "date": "12 Nov 2026",
+ "sources": [
+  "PTI",
+  "ETV Bharat",
+  "The Tribune",
+  "The Indian Express"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Ladakh Bans Poll Protests in Leh, Kargil Before 21 Nov",
+   "photo": "_work/2026-11-12-hourly-1029/idlynews/framing_leh/cover_source.png",
+   "photo_credit": "Photo: Vivek / Unsplash",
+   "focal": [
+    0.7,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "6",
+   "stat_label": "Kinds of Political Protest Barred in Leh, Kargil",
+   "bullets": [
+    "Protests, dharnas, demonstrations, sit-ins, hunger strikes, rallies",
+    "Election officer's order covers parties, candidates and workers",
+    "It says they could intimidate or unduly influence voters"
+   ],
+   "credit_line": "Sources: Chief Electoral Officer's order via ETV Bharat (PTI), The Tribune"
+  },
+  {
+   "type": "detail",
+   "stat": "11 NOV",
+   "stat_label": "Police Escort Sonam Wangchuk Home From Leh Protest",
+   "bullets": [
+    "Police say he was advised to stay home",
+    "Police cite orders on protests in Leh municipal limits",
+    "He was protesting to defer the 4 December polls"
+   ],
+   "credit_line": "Sources: Ladakh Police via The Tribune, ETV Bharat (PTI)"
+  },
+  {
+   "type": "detail",
+   "stat": "−30°C",
+   "stat_label": "Winter Low Wangchuk Cites for Delaying the Polls",
+   "bullets": [
+    "A week of December snow is forecast, he says",
+    "Many residents winter in warmer places, Ladakh's MP says",
+    "Leh Apex Body, Kargil Democratic Alliance back a delay"
+   ],
+   "credit_line": "Sources: The Tribune, ETV Bharat (PTI), The Indian Express"
+  }
+ ]
+}

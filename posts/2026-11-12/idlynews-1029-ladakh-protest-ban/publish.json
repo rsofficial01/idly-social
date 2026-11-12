@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/01.jpg",
+  "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/02.jpg",
+  "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/03.jpg",
+  "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-1029-ladakh-protest-ban/score.json",
+ "title": "Ladakh bars parties, candidates and workers from protests in Leh and Kargil during polls; police escort Sonam Wangchuk home (11 Nov 2026)",
+ "tags": []
+}

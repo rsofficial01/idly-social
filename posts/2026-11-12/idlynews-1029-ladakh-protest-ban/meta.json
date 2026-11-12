@@ -1,0 +1,119 @@
+{
+ "account": "idlynews",
+ "title": "Ladakh's Chief Electoral Officer Rahul Sharma bars parties, candidates and workers from protests, dharnas, demonstrations, sit-ins, hunger strikes and rallies in Leh and Kargil municipal limits while the model code is in force (J&K Municipal Committee (Election) Rules 2003; says such activity could intimidate or unduly influence voters); police escort Sonam Wangchuk home from a Leh protest on Wed 11 Nov 2026 citing orders on protests in Leh Municipality; Wangchuk, LAB and KDA seek deferral of the 4 Dec hill council polls (Wangchuk cites minus 30°C; MP Haneefa Jan cites winter migration); municipal and panchayat polls 21 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the Ladakh protest ban or Wangchuk's removal in the API feed (latest 50+ checked 12 Nov 2026, ~10:30 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ETV Bharat (with PTI inputs)",
+   "date": "11 Nov 2026 22:43 IST, updated 12 Nov 00:48",
+   "url": "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947"
+  },
+  {
+   "outlet": "The Tribune",
+   "date": "11 Nov 2026 23:39 IST",
+   "url": "https://www.tribuneindia.com/news/j-k/sonam-wangchuk-removed-from-leh-protest-site-escorted-home-ladakh-police/"
+  },
+  {
+   "outlet": "The Tribune (SOS appeal)",
+   "date": "Nov 2026",
+   "url": "https://www.tribuneindia.com/news/j-k/wangchuk-issues-sos-questions-state-election-commissions-rocket-speed-rush-for-ladakh-polls/"
+  },
+  {
+   "outlet": "Business Standard (PTI)",
+   "date": "11 Nov 2026",
+   "url": "https://www.business-standard.com/india-news/sonam-wangchuk-removed-from-protest-site-amid-row-over-hill-council-polls-126111101644_1.html"
+  },
+  {
+   "outlet": "Deccan Herald",
+   "date": "11 Nov 2026",
+   "url": "https://www.deccanherald.com/india/ladakh/hill-council-elections-in-ladakh-sonam-wangchuk-removed-from-protest-site-amid-curbs-4215331"
+  },
+  {
+   "outlet": "The Indian Express",
+   "date": "12 Nov 2026 00:14 IST",
+   "url": "https://indianexpress.com/article/india/ladakh-hill-council-elections-sonam-wangchuk-protest-10959455/"
+  },
+  {
+   "outlet": "The Indian Express (MP on winter migration)",
+   "date": "9 Nov 2026",
+   "url": "Indian Express India feed, 9 Nov 2026: 'Ladakh MP questions logic of polls in winters: Many migrate to warmer regions'"
+  },
+  {
+   "outlet": "Greater Kashmir",
+   "date": "Nov 2026",
+   "url": "https://www.greaterkashmir.com/ladakh/postpone-lahdc-polls-to-spring-lab-kda-12802268"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "Oct 2026",
+   "url": "https://deccanchronicle.com/nation/ladakh-municipal-polls-on-nov-21-model-code-of-conduct-comes-into-force-1998222"
+  },
+  {
+   "outlet": "All India Radio",
+   "date": "22 Oct 2026",
+   "url": "https://newsonair.gov.in/ladakh-state-election-commission-announces-panchayat-elections-polling-scheduled-for-november-21/"
+  }
+ ],
+ "fact_sources": {
+  "CEO Rahul Sharma's order: parties, candidates, workers barred from protests, dharnas, sit-ins, hunger strikes, rallies within Leh and Kargil municipal limits while the MCC is in force; J&K Municipal Committee (Election) Rules 2003; could intimidate or unduly influence voters": [
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947",
+   "https://www.tribuneindia.com/news/j-k/sonam-wangchuk-removed-from-leh-protest-site-escorted-home-ladakh-police/ (police: orders by CEO UT Ladakh and DM Leh)"
+  ],
+  "11 Nov: police removed Wangchuk from Leh protest site, escorted him home, advised him to stay at his residence; cited orders regulating rallies/protests in Leh Municipality during elections": [
+   "https://www.tribuneindia.com/news/j-k/sonam-wangchuk-removed-from-leh-protest-site-escorted-home-ladakh-police/",
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947",
+   "https://www.business-standard.com/india-news/sonam-wangchuk-removed-from-protest-site-amid-row-over-hill-council-polls-126111101644_1.html",
+   "https://www.deccanherald.com/india/ladakh/hill-council-elections-in-ladakh-sonam-wangchuk-removed-from-protest-site-amid-curbs-4215331"
+  ],
+  "Wangchuk, LAB and KDA seek deferral of the 4 Dec hill council polls": [
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947",
+   "https://www.tribuneindia.com/news/j-k/wangchuk-issues-sos-questions-state-election-commissions-rocket-speed-rush-for-ladakh-polls/",
+   "https://www.greaterkashmir.com/ladakh/postpone-lahdc-polls-to-spring-lab-kda-12802268"
+  ],
+  "Wangchuk: winter lows below minus 30°C; a week of December snow forecast": [
+   "https://www.tribuneindia.com/news/j-k/wangchuk-issues-sos-questions-state-election-commissions-rocket-speed-rush-for-ladakh-polls/",
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947"
+  ],
+  "MP Haneefa Jan: many residents migrate to warmer places in winter; sought postponement": [
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947",
+   "https://www.tribuneindia.com/news/j-k/wangchuk-issues-sos-questions-state-election-commissions-rocket-speed-rush-for-ladakh-polls/",
+   "Indian Express 9 Nov 2026 'Ladakh MP questions logic of polls in winters: Many migrate to warmer regions'"
+  ],
+  "Municipal and panchayat polls 21 Nov; eight hill councils 4 Dec": [
+   "https://www.etvbharat.com/en/state/ladakh-heats-up-over-harsh-winter-polls-as-wangchuk-warns-of-agitation-amid-protest-ban-enn26111106947",
+   "https://deccanchronicle.com/nation/ladakh-municipal-polls-on-nov-21-model-code-of-conduct-comes-into-force-1998222",
+   "https://newsonair.gov.in/ladakh-state-election-commission-announces-panchayat-elections-polling-scheduled-for-november-21/",
+   "Indian Express 10 Nov 2026 'In first polls since creation of 6 new districts, Ladakh to elect hill councils on December 4'"
+  ]
+ },
+ "photo_source": {
+  "page": "https://unsplash.com/photos/a-large-group-of-buildings-in-a-city-YGWvnh3Gu48",
+  "file_url": "https://images.unsplash.com/photo-1636803422885-c307b57b6a9f",
+  "licence": "Unsplash License (free; not Unsplash+)",
+  "author": "Vivek (https://unsplash.com/@viveksxr)",
+  "location": "Leh (per the Unsplash page; tags Leh Ladakh)",
+  "width": 5813,
+  "height": 3270,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Vivek / Unsplash, Unsplash License"
+ },
+ "framing": {
+  "tool": "pipeline.framing then cardkit focal",
+  "ok": true,
+  "focal": [
+   0.7,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.41,
+  "note": "pipeline.framing planned focal 0.5/0.5; moved to 0.7/0.5 (same photo, same scale) so the headline's first line sits over darker poplars and buildings instead of the bright grandstand; 2616x3270 crop downscaled, no enlargement"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is from an individual Unsplash photographer (people are never tagged); no brand or official owner.",
+ "commons_attempt": "Held direct-tax lead: one polite fetch of the Commons original at 05:03:23 UTC returned HTTP 429 (retry-after 600); not retried; story dropped this run.",
+ "baseline": "Not a Tamil Nadu story; no baseline check needed (reviewer G1 note)."
+}
