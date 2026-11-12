@@ -1,0 +1,161 @@
+{
+  "slug": "2026-11-12-idlynerd-1527-scene-200-crore",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-12T10:17:55+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=92HSSqE2VBU",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=92HSSqE2VBU",
+    "source_url": "https://www.youtube.com/watch?v=92HSSqE2VBU",
+    "image_url": "https://i.ytimg.com/vi/92HSSqE2VBU/maxresdefault.jpg",
+    "credit": "Image: Sony Music South (official trailer)",
+    "organisation": "Sony Music South",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=92HSSqE2VBU: author 'Sony Music South' https://www.youtube.com/@SonyMusicSouthOfficial, title 'Raasaadhi Raasan - Promo Video | Scene | Suriya | Nazriya Nazim | Naslen | Sushin Shyam'",
+      "thumbnail https://i.ytimg.com/vi/92HSSqE2VBU/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@SonyMusicSouthOfficial",
+    "video_title": "Raasaadhi Raasan - Promo Video | Scene | Suriya | Nazriya Nazim | Naslen | Sushin Shyam"
+  },
+  "faces": [
+    [
+      621.5,
+      126.9,
+      80.1,
+      102.5,
+      0.939
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5168,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      374.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        446,
+        215,
+        632,
+        453
+      ]
+    ],
+    "logo_saliency": 1.95,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        621.5,
+        126.9,
+        80.1,
+        102.5,
+        0.939
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sony Music South (official trailer)",
+      "Sources: The Hollywood Reporter India, Only Kollywood, Sacnilk, The Week",
+      "Sources: Variety India, The Hollywood Reporter India, Only Kollywood"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Sony Music South (official trailer)",
+      "slug": "2026-11-12-idlynerd-1527-scene-200-crore",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 236,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Hollywood Reporter India, Only Kollywood, Sacnilk, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-1527-scene-200-crore",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Variety India, The Hollywood Reporter India, Only Kollywood",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-1527-scene-200-crore",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Suriya's Scene has crossed ₹200 crore worldwide in six days, its makers say. Zhagaram Studios, Suriya's own production banner, put the total at ₹205 crore on Wednesday, 11 November; box office tracker Sacnilk counted ₹188.5 crore the same day.\n\nIf the makers' figure holds, Scene is Suriya's third ₹200 crore film of 2026, after Karuppu (₹310 crore) and Vishwanath & Sons (₹209.5 crore). Trade reports say no Tamil actor has had three in one year before. Jithu Madhavan's film opened in cinemas on 6 November.\n\nWhich of Suriya's three films this year did you watch in a theatre?\n\nFull story on idly.news (link in bio).\n\n#Suriya #SceneMovie #TamilCinema #BoxOffice #idlynerd\n\nImage: Sony Music South (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
