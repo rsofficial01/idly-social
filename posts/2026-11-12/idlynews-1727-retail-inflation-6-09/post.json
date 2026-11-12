@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1727-retail-inflation-6-09",
+ "date": "12 Nov 2026",
+ "sources": [
+  "MoSPI",
+  "RBI",
+  "ANI",
+  "Upstox",
+  "Free Press Journal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Retail Inflation Hits 6.09% as Onion Prices More Than Double",
+   "photo": "_work/2026-11-12-hourly-1727/idlynews/frame-onion/cover_source.png",
+   "photo_credit": "Photo: Dhivyaa Naraayani / Unsplash",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "8.94%",
+   "stat_label": "Food Inflation in October, Up From 7.74%",
+   "bullets": [
+    "Garlic up 61%, ginger up 48% in a year",
+    "Overall inflation: villages 6.63%, cities 5.41%"
+   ],
+   "credit_line": "Sources: MoSPI, ANI, Upstox, Free Press Journal"
+  },
+  {
+   "type": "detail",
+   "stat": "2-4 DEC",
+   "stat_label": "When RBI's Rate Panel Meets Next",
+   "bullets": [
+    "Repo rate 5.50% after October's 25 bps hike",
+    "Repo-linked home loan rates track the repo",
+    "RBI's target is 4%, tolerance band 2-6%"
+   ],
+   "credit_line": "Sources: RBI, ANI, Free Press Journal"
+  }
+ ]
+}

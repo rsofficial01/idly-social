@@ -1,0 +1,153 @@
+{
+ "title": "India's October 2026 retail (CPI) inflation 6.09% (5.54% Sept), above the RBI's 6% upper tolerance limit (MoSPI release Thu 12 Nov 2026); food (CFPI) 8.94% from 7.74%; onion +116.22% on year (108.13% Sept), garlic +60.74%, ginger +48.32%; rural 6.63% v urban 5.41%; RBI target 4%, band 2-6%; repo 5.50% after the 25 bps hike at the 5-7 Oct MPC (stance 'calibrated tightening'); next MPC 2-4 Dec 2026",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on October CPI inflation in the API feed (searched 'inflation', 12 Nov 2026 ~17:40 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "ANI (via The Tribune)",
+   "date": "12 Nov 2026 16:32 IST",
+   "url": "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet"
+  },
+  {
+   "outlet": "Upstox News",
+   "date": "12 Nov 2026 16:37 IST",
+   "url": "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "12 Nov 2026 17:05 IST",
+   "url": "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  },
+  {
+   "outlet": "RBI, Monetary Policy Statement 2026-27, MPC resolution 5-7 Oct 2026",
+   "date": "7 Oct 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "outlet": "SCC Online",
+   "date": "9 Oct 2026",
+   "url": "https://www.scconline.com/blog/post/2026/10/09/rbi-hikes-repo-rate-to-5-50-percent-october-2026/"
+  },
+  {
+   "outlet": "RBI press release, external benchmark based lending",
+   "date": "4 Sep 2019",
+   "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=48070"
+  },
+  {
+   "outlet": "RBI circular, external benchmark based lending",
+   "date": "4 Sep 2019",
+   "url": "https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx?Id=11677"
+  },
+  {
+   "outlet": "RBI Bulletin (external benchmark transmission)",
+   "date": "Jul 2021",
+   "url": "https://rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=20378"
+  }
+ ],
+ "fact_sources": {
+  "CPI 6.09% Oct 2026, 5.54% Sept; MoSPI release Thu 12 Nov": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Above RBI's 6% upper tolerance limit": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Food (CFPI) 8.94% from 7.74%": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Onion 116.22% on year (108.13% Sept) -> more than double": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Garlic 60.74%, ginger 48.32%": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Rural 6.63%, urban 5.41%": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "RBI target 4%, band 2-6%": [
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://upstox.com/news/business-news/economy/retail-inflation-rises-to-6-09-in-october-food-inflation-accelerates-to-8-94/article-203376/",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling"
+  ],
+  "Repo +25 bps to 5.50% in October; stance calibrated tightening": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling",
+   "https://www.scconline.com/blog/post/2026/10/09/rbi-hikes-repo-rate-to-5-50-percent-october-2026/"
+  ],
+  "Next MPC 2-4 Dec 2026": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "https://www.tribuneindia.com/news/business/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet",
+   "https://www.freepressjournal.in/business/retail-inflation-hits-24-month-high-of-609-food-prices-push-it-past-rbis-6-ceiling",
+   "https://www.scconline.com/blog/post/2026/10/09/rbi-hikes-repo-rate-to-5-50-percent-october-2026/"
+  ],
+  "Floating-rate retail loans linked to an external benchmark (repo one option) since 1 Oct 2019; repo-linked rates track the repo": [
+   "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=48070",
+   "https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx?Id=11677",
+   "https://rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=20378"
+  ]
+ },
+ "photo_source": {
+  "page": "https://unsplash.com/photos/TrpbyLfOG14",
+  "file_url": "https://images.unsplash.com/photo-1565685225009-fc85d9109c80",
+  "licence": "Unsplash License",
+  "author": "Dhivyaa Naraayani (@kanmani)",
+  "width": 4000,
+  "height": 5333,
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: Dhivyaa Naraayani / Unsplash",
+  "subject": "A heap of small red onions at a market in Hosur, Tamil Nadu (Unsplash, published 13 Aug 2019); onion is the biggest mover in the October CPI and is named in the cover headline (accepted by reviewer at G1/G3 with the onion headline only)"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "photo": "_work/2026-11-12-hourly-1727/idlynews/frame-onion/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.27,
+  "faces": 0,
+  "note": ""
+ },
+ "tags": [],
+ "tags_evidence": "none: the image owner is an individual photographer on Unsplash; no brand/studio owner to tag",
+ "gates": {
+  "g1": {
+   "packet": "_work/2026-11-12-hourly-1727/packets/idlynews-g1-v1.md",
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlynews-g1-v1.md",
+   "outcome": "BUILD (with fixes: headline adds 'Retail', MoSPI sourcing, drop cross-series 24-month comparison, RBI-sourced slide 3, photo context)"
+  },
+  "g2": {
+   "packet": "_work/2026-11-12-hourly-1727/packets/idlynews-g23-v2.md",
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlynews-g23-v2.md",
+   "outcome": "PASS on v2 (v1 FIX: slide-2 bullets reworded)",
+   "v1": "_work/2026-11-12-hourly-1727/reviews/idlynews-g23-v1.md"
+  },
+  "g3": {
+   "packet": "_work/2026-11-12-hourly-1727/packets/idlynews-g23-v2.md",
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlynews-g23-v2.md",
+   "outcome": "PASS (picture passed at v1 and v2)"
+  },
+  "g4": {
+   "packet": "_work/2026-11-12-hourly-1727/packets/idlynews-g4-v1.md",
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlynews-g4-v1.md",
+   "score": "_work/2026-11-12-hourly-1727/reviews/idlynews-g4-v1.score.json",
+   "outcome": "PASS, reviewer 13/14"
+  }
+ }
+}

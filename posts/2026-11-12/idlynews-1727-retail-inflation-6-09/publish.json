@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/01.jpg",
+  "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/02.jpg",
+  "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-1727-retail-inflation-6-09/score.json",
+ "title": "India's October retail inflation 6.09%, above RBI's 6% limit; onion +116% on year; next MPC 2-4 Dec (MoSPI, 12 Nov 2026)",
+ "tags": []
+}
