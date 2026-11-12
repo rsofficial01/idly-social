@@ -1,0 +1,43 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0327-ioniq5-one-dispatch",
+ "date": "13 Nov 2026",
+ "sources": [
+  "GaadiWaadi",
+  "Rushlane"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Hyundai Dispatched Just 1 Ioniq 5 in October",
+   "photo": "_work/2026-11-13-hourly-0327/idlyautomotive/frame/cover_source.png",
+   "photo_credit": "Image: Hyundai",
+   "focal": [
+    0.5,
+    0.9
+   ],
+   "zoom": 1.08
+  },
+  {
+   "type": "detail",
+   "stat": "1",
+   "stat_label": "Ioniq 5 Dispatches in October 2026",
+   "bullets": [
+    "Down from 6 a year earlier",
+    "₹55.7 lakh, 84kWh, 690km claimed (updated 28 Apr 2026)",
+    "Counts dispatches to dealers, not buyers"
+   ],
+   "credit_line": "Sources: GaadiWaadi, Rushlane, Hyundai"
+  },
+  {
+   "type": "detail",
+   "stat": "62,799",
+   "stat_label": "Hyundai's October Total, Up 17%",
+   "bullets": [
+    "Venue: 13,017, up 11% on October 2025",
+    "Exter: 8,509, up 35% on October 2025"
+   ],
+   "credit_line": "Sources: GaadiWaadi, Rushlane"
+  }
+ ]
+}

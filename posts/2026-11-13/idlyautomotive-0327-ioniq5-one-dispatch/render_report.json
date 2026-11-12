@@ -1,0 +1,58 @@
+[
+ {
+  "size": 92,
+  "lines": 2,
+  "overflow": false,
+  "top": 1066,
+  "credit_line": "Image: Hyundai",
+  "slug": "idlyautomotive-0327-ioniq5-one-dispatch",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlyautomotive-0327-ioniq5-one-dispatch/01.jpg",
+  "scale": 0.675
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: GaadiWaadi, Rushlane, Hyundai",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0327-ioniq5-one-dispatch",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-0327-ioniq5-one-dispatch/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 300,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: GaadiWaadi, Rushlane",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0327-ioniq5-one-dispatch",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-0327-ioniq5-one-dispatch/03.jpg",
+  "scale": null
+ }
+]

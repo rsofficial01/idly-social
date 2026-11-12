@@ -1,0 +1,114 @@
+{
+ "account": "idlyautomotive",
+ "story_id": 2106,
+ "idly_article": true,
+ "format": "news",
+ "title": "Hyundai India October 2026 dispatches: 62,799 (+17% from 53,792); Ioniq 5 just 1 unit (6 in Oct 2025) despite its 28 Apr 2026 update at ₹55.7 lakh ex-showroom (84 kWh, 690 km ARAI claimed); Venue 13,017 (+11%), Exter 8,509 (+35%); figures are factory dispatches to dealers",
+ "sources": [
+  {
+   "outlet": "idly.news (story 2106)",
+   "date": "12 Nov 2026 08:37 UTC",
+   "url": "https://api.idly.news/api/v1/articles/2106/"
+  },
+  {
+   "outlet": "GaadiWaadi",
+   "date": "12 Nov 2026 13:41 IST",
+   "url": "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/"
+  },
+  {
+   "outlet": "Rushlane",
+   "date": "12 Nov 2026",
+   "url": "https://www.rushlane.com/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-12560967.html"
+  },
+  {
+   "outlet": "Hyundai Motor India (press release)",
+   "date": "28 Apr 2026",
+   "url": "https://www.hyundai.com/in/en/hyundai-story/media-center/press-release/new-ioniq5-with-enhanced-range-advanced-technology-and-refined-design"
+  },
+  {
+   "outlet": "Rushlane (Ioniq 5 launch)",
+   "date": "28 Apr 2026",
+   "url": "https://www.rushlane.com/2026-hyundai-ioniq-5-launch-price-rs-55-7-lakh-84-kwh-battery-690km-range-12545331.html"
+  },
+  {
+   "outlet": "Autocar India (Ioniq 5 launch)",
+   "date": "29 Apr 2026",
+   "url": "https://www.autocarindia.com/stories/2026-hyundai-ioniq-5-launched-1908"
+  }
+ ],
+ "fact_sources": {
+  "Hyundai dispatched 62,799 cars in India in Oct 2026 vs 53,792 in Oct 2025 (+17%)": [
+   "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/",
+   "https://www.rushlane.com/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-12560967.html",
+   "https://api.idly.news/api/v1/articles/2106/"
+  ],
+  "Ioniq 5: 1 unit in Oct 2026 vs 6 in Oct 2025": [
+   "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/",
+   "https://www.rushlane.com/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-12560967.html",
+   "https://api.idly.news/api/v1/articles/2106/"
+  ],
+  "Updated Ioniq 5 launched 28 Apr 2026 at Rs 55,70,000 ex-showroom": [
+   "https://www.hyundai.com/in/en/hyundai-story/media-center/press-release/new-ioniq5-with-enhanced-range-advanced-technology-and-refined-design",
+   "https://www.rushlane.com/2026-hyundai-ioniq-5-launch-price-rs-55-7-lakh-84-kwh-battery-690km-range-12545331.html",
+   "https://www.autocarindia.com/stories/2026-hyundai-ioniq-5-launched-1908",
+   "https://www.zeebiz.com/automobile/news-hyundai-ioniq-5-ev-india-launch-check-price-key-specs-range-features-394481"
+  ],
+  "84 kWh battery, 690 km claimed (ARAI) range": [
+   "https://www.hyundai.com/in/en/hyundai-story/media-center/press-release/new-ioniq5-with-enhanced-range-advanced-technology-and-refined-design",
+   "https://www.rushlane.com/2026-hyundai-ioniq-5-launch-price-rs-55-7-lakh-84-kwh-battery-690km-range-12545331.html",
+   "https://www.autocarindia.com/stories/2026-hyundai-ioniq-5-launched-1908"
+  ],
+  "Venue 13,017 vs 11,738 (+11%)": [
+   "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/",
+   "https://www.rushlane.com/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-12560967.html",
+   "https://api.idly.news/api/v1/articles/2106/"
+  ],
+  "Exter 8,509 vs 6,294 (+35%)": [
+   "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/",
+   "https://www.rushlane.com/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-12560967.html",
+   "https://api.idly.news/api/v1/articles/2106/"
+  ],
+  "Figures are factory dispatches (wholesales) to dealers, not retail deliveries": [
+   "https://gaadiwaadi.com/hyundai-sales-analysis-october-2026-creta-venue-exter-i20-bayon-grand-i10/",
+   "https://api.idly.news/api/v1/articles/2106/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.hyundai.news/eu/models/electrified/ioniq-5/press-kit.html",
+  "image_url": "https://www.hyundai.news/newsroom/dam/eu/models/20240611_ioniq_5_ioniq_5_n_line/hyundai-ioniq-5-exterior-gravity-gold-matte-0624-05.jpg",
+  "licence": "Hyundai Motor Europe newsroom press-kit image (official maker press image, editorial use, credited)",
+  "author": "Hyundai",
+  "credit": "Image: Hyundai",
+  "orig_size": "3840x2160",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0327/idlyautomotive/ioniq5/gg05.jpg",
+  "subject": "Updated (facelift) Hyundai IONIQ 5 in Gravity Gold Matte, rear view, IONIQ 5 lettering in the tail-light bar; European-spec car (German plate, small HTRAC badge). India's new IONIQ 5 (28 Apr 2026) has the same facelift design and offers Gravity Gold Matte. No people, no watermark."
+ },
+ "framing": {
+  "tool_output": {
+   "ok": true,
+   "photo": "_work/2026-11-13-hourly-0327/idlyautomotive/frame/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.62,
+   "faces": 0
+  },
+  "used": {
+   "photo": "_work/2026-11-13-hourly-0327/idlyautomotive/frame/cover_source.png",
+   "focal": [
+    0.5,
+    0.9
+   ],
+   "zoom": 1.08
+  },
+  "note": "G1 condition 5: headline must clear the tyres in <=2 lines. Zoom 1.08 with the crop held at the image bottom lifts the car so the tyres end at y~1045; headline 2 lines at 92px, box top y 1066. Car whole, x ~45-1035; logo over sky. Rendered with cardkit HYPE_FIT lines=2 via a wrapper (see g23 packet): the stock fit allows 3 lines at 100px, which put the headline over the wheels."
+ },
+ "tags": [
+  "hyundaiindia"
+ ],
+ "tag_evidence": "Hyundai Motor India's own site links https://www.instagram.com/hyundaiindia/ (footer of the 28 Apr 2026 IONIQ 5 press release page and the IONIQ 5 highlights page on hyundai.com/in, checked 13 Nov ~03:50 IST)."
+}
