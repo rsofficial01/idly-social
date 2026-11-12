@@ -1,0 +1,16 @@
+{
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "prebuilt": true,
+  "caption_final": "Jensen Huang has resigned as Nvidia's president, CEO and board member, effective immediately, the company announced on Thursday, 12 November. He co-founded Nvidia in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock opened 13% lower in New York and fell as much as 14%, to $148.80, taking Nvidia's market value below $4 trillion in early trade. By 10:28 AM New York time the loss had narrowed to about 5%. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track. Quarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, Yahoo Finance, The Hill, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech\n\nPhoto: NVIDIA",
+  "source": {
+    "resolver": "prebuilt (recorded by the maker)",
+    "source_url": "https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters",
+    "image_url": null,
+    "organisation": "NVIDIA"
+  }
+}

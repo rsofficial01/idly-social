@@ -1,0 +1,31 @@
+{
+  "slug": "idlytech-nvidia-huang-resigns",
+  "account": "idlytech",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "headline": "Jensen Huang Resigns as Nvidia CEO After 33 Years",
+  "title": "Nvidia announces Jensen Huang has resigned as CEO; CFO Colette Kress interim CEO; stock falls as much as 14%",
+  "caption": "Jensen Huang has resigned as Nvidia's president, CEO and board member, effective immediately, the company announced on Thursday, 12 November. He co-founded Nvidia in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock opened 13% lower in New York and fell as much as 14%, to $148.80, taking Nvidia's market value below $4 trillion in early trade. By 10:28 AM New York time the loss had narrowed to about 5%. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track. Quarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, Yahoo Finance, The Hill, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech\n\nPhoto: NVIDIA",
+  "caption_final": "Jensen Huang has resigned as Nvidia's president, CEO and board member, effective immediately, the company announced on Thursday, 12 November. He co-founded Nvidia in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock opened 13% lower in New York and fell as much as 14%, to $148.80, taking Nvidia's market value below $4 trillion in early trade. By 10:28 AM New York time the loss had narrowed to about 5%. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track. Quarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, Yahoo Finance, The Hill, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech\n\nPhoto: NVIDIA",
+  "alt_text": "Slide 1: Aerial photo of Nvidia's Santa Clara headquarters with the headline \"Jensen Huang Resigns as Nvidia CEO After 33 Years\". Slide 2: Colette Kress steps in as interim CEO and keeps her CFO role; Harvey C. Jones is the first board chair. Slide 3: Nvidia hit a low of $148.80 on 12 November, 14% below the previous close. Slide 4: Results are due on 18 November at about 2:50 AM IST; Nvidia gave no reason for the exit.",
+  "image_credit": "Photo: NVIDIA",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "Maker's score. Hook: the resignation itself on the cover. Send 2: the biggest tech story of the day with exact numbers and IST times. Keep 1: only the results time is keepable. Original 1: a tight synthesis of the company filing and market data, no fresh idly reporting. No personal detail: reason kept to the board's own 8 Nov wording. Photo: Nvidia newsroom HQ aerial, no people."
+    }
+  },
+  "created_at": "2026-11-12T15:40:32+00:00",
+  "lane": {
+    "source": "prebuilt",
+    "folder": "posts/2026-11-12/idlytech-nvidia-huang-resigns"
+  }
+}

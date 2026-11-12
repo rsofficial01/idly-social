@@ -1,0 +1,61 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-nvidia-huang-resigns",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Nvidia",
+  "CNBC",
+  "Yahoo Finance",
+  "The Hill",
+  "CNN"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Jensen Huang Resigns as Nvidia CEO After 33 Years",
+   "photo": "_work/nv-resign/cover_source.jpg",
+   "photo_credit": "Photo: NVIDIA",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "INTERIM CEO",
+   "stat_label": "Colette Kress Steps In After Jensen Huang's Exit",
+   "bullets": [
+    "She keeps her CFO role until a permanent CEO is named",
+    "Kress has been Nvidia's CFO since September 2013",
+    "Harvey C. Jones becomes Nvidia's first-ever board chair",
+    "Board will weigh internal and external candidates for CEO"
+   ],
+   "credit_line": "Source: Nvidia announcement, 12 Nov"
+  },
+  {
+   "type": "detail",
+   "stat": "$148.80",
+   "stat_label": "Nvidia's Early Low After Huang Resigned, 12 Nov (US)",
+   "bullets": [
+    "That is 14% below Wednesday's close of $173.73",
+    "The stock opened 13% lower, at $150.99",
+    "Market value fell below $4 trillion in early trade",
+    "Recovered to about 5% down by 10:28 AM New York time",
+    "Nvidia is just over 6% of the S&P 500, which some Indian funds track"
+   ],
+   "credit_line": "Sources: Yahoo Finance, The Hill, CNBC, CNN"
+  },
+  {
+   "type": "detail",
+   "stat": "18 NOV",
+   "stat_label": "Nvidia's Results Are Next. What It Has Not Said",
+   "bullets": [
+    "Results at about 2:50 AM IST; investor call at 3:30 AM IST",
+    "Nvidia's release gives no reason for Huang's exit and no statement from him",
+    "On 8 Nov, the board said it was probing reports that he was a foreign-intelligence target"
+   ],
+   "credit_line": "Sources: Nvidia announcement (12 Nov), Nvidia board statement (8 Nov)"
+  }
+ ]
+}
