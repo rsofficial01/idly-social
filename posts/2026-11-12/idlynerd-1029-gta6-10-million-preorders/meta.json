@@ -1,0 +1,133 @@
+{
+ "account": "idlynerd",
+ "title": "Sensor Tower estimates GTA VI pre-orders at about 10.31 million copies and more than $1 billion a week before its 19 Nov 2026 launch (Insider Gaming, GamesBeat, Destructoid, 11 Nov), up from 7.71 million / $750M+ on 3 Nov; third-party estimate, Take-Two gives no count; tops Cyberpunk 2077's 8 million pre-orders (CD Projekt, Dec 2020, 59% PC); India: PS Store India lists 12:00 am IST Thu 19 Nov, PS Store India Rs 5,999 Standard / Rs 7,499 Ultimate (Business Today, Digit); PS5 and Xbox Series X|S, no PC date announced",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on this story in the API feed (latest 20 checked 12 Nov 2026, ~10:35 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Sensor Tower (GTA VI Sales Tracker)",
+   "date": "live, cited 11 Nov 2026",
+   "url": "https://sensortower.com/grand-theft-auto-VI/sales-tracker"
+  },
+  {
+   "outlet": "Insider Gaming",
+   "date": "11 Nov 2026",
+   "url": "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/"
+  },
+  {
+   "outlet": "GamesBeat",
+   "date": "11 Nov 2026",
+   "url": "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/"
+  },
+  {
+   "outlet": "Destructoid",
+   "date": "11 Nov 2026",
+   "url": "https://www.destructoid.com/gta-6-preorder-record/"
+  },
+  {
+   "outlet": "GameSpot",
+   "date": "11 Nov 2026",
+   "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+  },
+  {
+   "outlet": "Stevivor",
+   "date": "Nov 2026",
+   "url": "https://stevivor.com/news/sensor-tower-estimates-5-74-million-ps5-pre-orders-for-gta-6-against-1-97/"
+  },
+  {
+   "outlet": "GameSpot",
+   "date": "10 Dec 2020",
+   "url": "https://www.gamespot.com/articles/cyberpunk-2077-attracted-over-8-million-preorders/1100-6485333/"
+  },
+  {
+   "outlet": "GamesRadar",
+   "date": "10 Dec 2020",
+   "url": "https://www.gamesradar.com/cyberpunk-2077-pre-orders-went-over-8-million-worldwide-cd-projekt-reveals/"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "4 Nov 2026",
+   "url": "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"
+  },
+  {
+   "outlet": "Digit",
+   "date": "updated 25 Jun 2026",
+   "url": "https://www.digit.in/news/gaming/gta-6-pre-orders-now-live-india-price-benefits-and-other-details.html"
+  },
+  {
+   "outlet": "Gizbot",
+   "date": "Nov 2026",
+   "url": "https://www.gizbot.com/gaming/news/gta-6-could-launch-midnight-india-november-19-playstation-store-listings-reveal-release-time-128391.html"
+  }
+ ],
+ "fact_sources": {
+  "Sensor Tower estimates about 10.31 million GTA VI copies pre-sold and more than $1 billion in pre-order sales, about a week before launch": [
+   "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/",
+   "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/",
+   "https://www.destructoid.com/gta-6-preorder-record/"
+  ],
+  "Sensor Tower's 3 Nov estimate: 7.71 million copies, more than $750 million": [
+   "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/",
+   "https://stevivor.com/news/sensor-tower-estimates-5-74-million-ps5-pre-orders-for-gta-6-against-1-97/"
+  ],
+  "Third-party estimates; Take-Two has not given a pre-order count": [
+   "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/",
+   "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/"
+  ],
+  "GTA VI passes Cyberpunk 2077's pre-order record": [
+   "https://www.destructoid.com/gta-6-preorder-record/",
+   "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+  ],
+  "Cyberpunk 2077: 8 million pre-orders (CD Projekt, Dec 2020), 59% PC": [
+   "https://www.gamespot.com/articles/cyberpunk-2077-attracted-over-8-million-preorders/1100-6485333/",
+   "https://www.gamesradar.com/cyberpunk-2077-pre-orders-went-over-8-million-worldwide-cd-projekt-reveals/"
+  ],
+  "Estimate covers PlayStation and Xbox consoles; GTA VI is on PS5 and Xbox Series X|S": [
+   "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/",
+   "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/"
+  ],
+  "PS Store India: Rs 5,999 Standard, Rs 7,499 Ultimate": [
+   "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04",
+   "https://www.digit.in/news/gaming/gta-6-pre-orders-now-live-india-price-benefits-and-other-details.html"
+  ],
+  "No PC version / date announced": [
+   "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04",
+   "https://www.digit.in/news/gaming/gta-6-pre-orders-now-live-india-price-benefits-and-other-details.html"
+  ],
+  "India: PlayStation Store lists 12:00 am IST Thursday 19 November": [
+   "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04",
+   "https://www.gizbot.com/gaming/news/gta-6-could-launch-midnight-india-november-19-playstation-store-listings-reveal-release-time-128391.html"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.rockstargames.com/VI/launch-gallery",
+  "file_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+  "licence": "Official Rockstar Games promotional screenshot from the publisher's own GTA VI site (rockstargames.com/VI, on the allowlist), used credited for editorial news",
+  "author": "Rockstar Games",
+  "credit": "Image: Rockstar Games",
+  "size": "3840x2160",
+  "subject": "In-game Vice City at dusk: a roadside gas station with a red neon canopy, a lit 'GAS' sign under a giant 'Ricardo Tires' tyre sign (in-game signage only), an SUV with green underglow, a few small in-game NPCs, and the lit downtown skyline behind; no real people, no watermark, no overlay lettering",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-12-hourly-1029/idlynerd/photos/rs_Vice_City_22.jpg"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "faces": 0,
+  "focal": [
+   0.6,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.62,
+  "photo": "_work/2026-11-12-hourly-1029/idlynerd/framing/Vice_City_22/cover_source.png",
+  "notes": "pipeline.framing ok (0 faces, centre focal); focal moved to x 0.6 so the GAS/tyre signs sit whole on the right; full-bleed 4:5 crop at full 2160 height, downscaled only; no fill, blur or letterbox. Fallback cover (Gate 3-passed): Vice_City_15, focal 0.5."
+ },
+ "tags": [
+  "rockstargames"
+ ],
+ "tag_evidence": "rockstargames.com/VI/launch-gallery (Rockstar's own site, fetched 12 Nov 2026) links to instagram.com/rockstargames; accepted as Rockstar's verified official account at Gate 1 of the 11 Nov GTA VI post. The cover image is Rockstar's."
+}

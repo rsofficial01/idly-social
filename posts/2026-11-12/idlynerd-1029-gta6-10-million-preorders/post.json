@@ -1,0 +1,53 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1029-gta6-10-million-preorders",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Insider Gaming",
+  "GamesBeat",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "GTA VI Tops 10 Million Pre-Orders, Sensor Tower Estimates",
+   "photo": "_work/2026-11-12-hourly-1029/idlynerd/framing/Vice_City_22/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.6,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "$1 BN",
+   "stat_label": "GTA VI's Estimated Pre-Order Sales, a Week Out",
+   "bullets": [
+    "10.31M copies, up from 7.71M on 3 November",
+    "Estimates only: Take-Two hasn't shared a pre-order count"
+   ],
+   "credit_line": "Sources: Sensor Tower via Insider Gaming, GamesBeat"
+  },
+  {
+   "type": "detail",
+   "stat": "8M",
+   "stat_label": "Cyberpunk 2077's Pre-Orders, Topped by GTA VI's Estimate",
+   "bullets": [
+    "CD Projekt's 2020 count; 59% were PC copies",
+    "GTA VI's figure covers PS5 and Xbox only"
+   ],
+   "credit_line": "Sources: GameSpot, GamesRadar, Destructoid"
+  },
+  {
+   "type": "detail",
+   "stat": "19 NOV",
+   "stat_label": "GTA VI Unlocks on PS5 at Midnight IST",
+   "bullets": [
+    "PS Store: ₹5,999 Standard, ₹7,499 Ultimate",
+    "Time per PlayStation Store India; Rockstar hasn't confirmed"
+   ],
+   "credit_line": "Sources: Business Today, Digit, Gizbot"
+  }
+ ]
+}
