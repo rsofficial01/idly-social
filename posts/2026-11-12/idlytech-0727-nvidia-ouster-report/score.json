@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Post score = per-check minimum of desk self score (12/14) and blind reviewer (12/14) = 12/14. WEAK: send, keep. Reviewer notes: hook 2: 'Nvidia Falls 8% on Report Board May Oust Jensen Huang' puts a specific number and a clear stake on the cover over Nvidia's own HQ sign. read 2: every line adds a fact (price, probe in the board's words, no successor, tenure, meeting, status, results date); nothing repeated. send 1: big global tech news, but the card carries no India-specific stake (fund weights rightly left out), so the forward is generic. keep 1: only the results date (18 Nov, 3:30 AM IST) is keepable. reply 2: 'Do you hold US tech stocks, directly or through an Indian Nasdaq fund?' is answered from readers' own lives. original 2: idly's own synthesis of WSJ (via TechCrunch), Reuters, CBS and the board statement; CC BY-SA Commons photo of the actual HQ, credited. alone 2: each slide names Nvidia and Huang and explains the probe and status. Zero personal detail anywhere (checked). Layout: cover full-bleed and sharp, sign above the headline gradient, white headline on one left edge, credit clear; slides 2-3 clean. CONDITION: re-check for a board decision immediately before publishing; any announcement makes the cover and slide 3 wrong. Self notes: Hook: 8% + oust on the cover, attributed. Send 1: no fresh India-investor fact (fund weights not re-used without October factsheets). Keep 1: only the 18 Nov results time. Developing story: must be re-checked right before publishing."
+}

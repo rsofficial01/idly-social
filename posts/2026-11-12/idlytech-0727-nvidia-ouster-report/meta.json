@@ -1,0 +1,79 @@
+{
+ "account": "idlytech",
+ "title": "Nvidia shares fall about 8% after hours on Wed 11 Nov 2026 (US time; CBS: more than 8%, to $159.51; TechCrunch: about 8%) after The Wall Street Journal reports the board is preparing to oust co-founder and CEO Jensen Huang and could meet as soon as Wednesday to decide; Reuters (source) says the board is meeting on his future; the board's independent investigation, announced 8 Nov, concerns reports that Huang was the target of a foreign intelligence effort (board: no reason to believe national security or Nvidia secrets were compromised); no successor named, analysts see no obvious successor (CBS, TechCrunch); no board decision announced as of ~08:00 IST 12 Nov; Huang co-founded Nvidia in 1993 and has led it 33 years; Q3 FY27 results 17 Nov, call 2 pm PT (03:30 IST 18 Nov). Follows @idlynews' 10 Nov post on the probe.",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the WSJ ouster report in the API feed (latest list checked 12 Nov 2026, ~07:35 IST)",
+ "format": "news",
+ "developing": "Re-check WSJ, Reuters, investor.nvidia.com and nvidianews.nvidia.com immediately before publishing; if the board has announced a decision (removal, resignation, interim CEO or backing Huang), do not publish this card.",
+ "sources": [
+  {"outlet": "The Wall Street Journal (exclusive, via Google News)", "date": "11 Nov 2026 (US)", "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"},
+  {"outlet": "TechCrunch", "date": "11 Nov 2026, 15:28 PT", "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"},
+  {"outlet": "CBS News", "date": "11 Nov 2026, updated 19:18 ET", "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"},
+  {"outlet": "CNBC", "date": "11 Nov 2026, 17:06 ET", "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"},
+  {"outlet": "Reuters ('Nvidia board meets to decide CEO Huang's future, source says', via Google News)", "date": "11 Nov 2026, 22:34 GMT", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5"},
+  {"outlet": "The Globe and Mail (Reuters: board meets to decide Huang's future)", "date": "11 Nov 2026, 23:41 GMT", "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1o4WGR5bVZKTGo1dUhkQmFfWTNhU05PaGdvQjBnMjlwUkw4RXg2QlJwMUJ1SEJFWWd6NDlpVzhTd2lBM1RucTBpWElLQmFRa1NQRTFWOWZFNnBYZGlPTG1faGd0MXF4N204djdFbWNBYlZGZ3NqWm42ejVaVVcwMEZBY2lKXzg?oc=5"},
+  {"outlet": "Benzinga", "date": "11 Nov 2026", "url": "https://www.benzinga.com/markets/tech/26/11/63171278/nvidia-stock-sinks-jensen-huang-ouster-report-amd-broadcom"},
+  {"outlet": "The Hindu", "date": "12 Nov 2026, 06:56 IST", "url": "https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece"},
+  {"outlet": "Nvidia (Statement from NVIDIA Board of Directors)", "date": "8 Nov 2026", "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"},
+  {"outlet": "Nvidia Investor Relations (board statement)", "date": "8 Nov 2026", "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"},
+  {"outlet": "Nvidia Investor Relations (Q3 conference call notice)", "date": "28 Oct 2026", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"},
+  {"outlet": "Nvidia newsroom (Q3 conference call notice)", "date": "28 Oct 2026", "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"}
+ ],
+ "fact_sources": {
+  "WSJ reports Nvidia's board is preparing to oust co-founder and CEO Jensen Huang (attributed: 'on report', 'WSJ reports')": [
+   "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
+   "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece"
+  ],
+  "Shares fell about 8% after hours on 11 Nov (US), to $159.51 (CBS; Benzinga 8.08% to $159.68)": [
+   "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
+   "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "https://www.benzinga.com/markets/tech/26/11/63171278/nvidia-stock-sinks-jensen-huang-ouster-report-amd-broadcom"
+  ],
+  "Board could meet as soon as Wednesday to decide (WSJ); board meeting on his future (Reuters, citing a source)": [
+   "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1o4WGR5bVZKTGo1dUhkQmFfWTNhU05PaGdvQjBnMjlwUkw4RXg2QlJwMUJ1SEJFWWd6NDlpVzhTd2lBM1RucTBpWElLQmFRa1NQRTFWOWZFNnBYZGlPTG1faGd0MXF4N204djdFbWNBYlZGZ3NqWm42ejVaVVcwMEZBY2lKXzg?oc=5"
+  ],
+  "Since 8 Nov a committee of independent directors has investigated reports Huang was the target of a foreign intelligence effort; board has no reason to believe national security or Nvidia secrets were compromised (board's own words)": [
+   "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx",
+   "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+  ],
+  "No successor named; analysts see no obvious successor": [
+   "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
+   "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+  ],
+  "Huang co-founded Nvidia in 1993 and has led it 33 years": [
+   "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+  ],
+  "Q3 FY27 results 17 Nov 2026, call 2 pm PT = 03:30 IST 18 Nov": [
+   "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx",
+   "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+  ],
+  "No board decision announced as of ~08:00 IST 12 Nov (Huang remains CEO)": [
+   "https://nvidianews.nvidia.com/news/latest (checked 07:52 IST: newest items are the 8 Nov board statement and 10 Nov independent-members statement)",
+   "https://news.google.com/rss/search?q=Nvidia+Huang+when:2h (checked 07:52 IST: reports still say 'preparing'/'meets to decide')"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/3840px-NVIDIA_Headquarters.jpg",
+  "local_file": "_work/2026-11-12-hourly-0727/tech/photos/nvhq/NVIDIA_Headquarters_3840.jpg",
+  "licence": "CC BY-SA 4.0 (Commons page: 'Own work', Creative Commons Attribution-Share Alike 4.0 International)",
+  "licence_review": "Uploader's own work on Commons, licensed CC BY-SA 4.0 on the file page; no EXIF copyright field in the downloaded rendition.",
+  "author": "Coolcaesar",
+  "credit": "Photo: Coolcaesar / Wikimedia Commons, CC BY-SA 4.0",
+  "subject": "Nvidia's Endeavor headquarters building, 2788 San Tomas Expressway, Santa Clara, with the NVIDIA logo sign (taken 4 Aug 2018)",
+  "size": "original 4662x2852; used the Commons 3840x2349 rendition (originals return HTTP 429 to this host)",
+  "crop": "focal [0.70, 0.69], zoom 1.6: crop 1174x1468 source px scaled 0.92x (no enlargement)",
+  "facecheck": "faces=0 (YuNet, before viewing)",
+  "viewed": true
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the cover photo is by an individual Commons photographer, not a brand-owned image."
+}

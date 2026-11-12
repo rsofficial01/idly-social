@@ -1,0 +1,47 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0727-nvidia-ouster-report",
+ "date": "12 Nov 2026",
+ "sources": [
+  "The Wall Street Journal",
+  "Reuters",
+  "CBS News",
+  "TechCrunch",
+  "Nvidia"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Nvidia Falls 8% on Report Board May Oust Jensen Huang",
+   "photo": "_work/2026-11-12-hourly-0727/tech/framing/nvhq3840/cover_source.png",
+   "photo_credit": "Photo: Coolcaesar / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.7,
+    0.69
+   ],
+   "zoom": 1.6
+  },
+  {
+   "type": "detail",
+   "stat": "8%",
+   "stat_label": "Nvidia's Fall After Hours, 11 Nov (US)",
+   "bullets": [
+    "To $159.51 after the WSJ report, per CBS News",
+    "Board probing reports Huang was a foreign-intelligence target",
+    "No successor named; analysts see no obvious heir"
+   ],
+   "credit_line": "Sources: WSJ via TechCrunch, CBS News, Nvidia board statement (8 Nov)"
+  },
+  {
+   "type": "detail",
+   "stat": "33 YEARS",
+   "stat_label": "Huang Has Led Nvidia Since 1993",
+   "bullets": [
+    "Board meeting on Huang's future, WSJ and Reuters report",
+    "Huang remains CEO; no decision announced",
+    "Quarterly results: 18 Nov, 3:30 AM IST"
+   ],
+   "credit_line": "Sources: WSJ via TechCrunch, Reuters, CBS News, Nvidia"
+  }
+ ]
+}
