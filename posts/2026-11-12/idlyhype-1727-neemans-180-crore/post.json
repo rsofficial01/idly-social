@@ -1,0 +1,37 @@
+[
+ {
+  "acct": "idlyhype",
+  "slug": "idlyhype-1727-neemans-180-crore",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Entrackr",
+   "IMAGES BoF",
+   "D2C Insider",
+   "Campus earnings call (NSE)",
+   "ThePrint (ANI)"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "Neeman's Grew Over 70% in FY26 While Campus Grew 11%",
+    "photo": "_work/2026-11-12-hourly-1727/idlyhype/dl/nm_1.jpg",
+    "photo_credit": "Image: Neeman's",
+    "focal": [
+     0.532,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "₹1,774 CR",
+    "stat_label": "Campus Activewear's FY26 Sales, Up 11.4%",
+    "bullets": [
+     "Still about 10 times Neeman's size",
+     "Campus's own sneaker range more than doubled"
+    ],
+    "credit_line": "Sources: D2C Insider, Campus earnings call (NSE)"
+   }
+  ]
+ }
+]

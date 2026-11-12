@@ -1,0 +1,158 @@
+{
+ "account": "idlyhype",
+ "title": "Neeman's grew over 70% in FY26 (₹180 crore revenue from operations in its filings, up 73% from ₹104 crore, Entrackr 12 Nov 2026; company figure ₹185 crore) while Campus Activewear grew 11.4% to ₹1,774 crore (about 10x bigger; its sneaker range more than doubled)",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this story (not in the idly.news API candidates); caption carries a Sources line.",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Entrackr",
+   "date": "12 Nov 2026",
+   "url": "https://entrackr.com/fintrackr/neemans-revenue-jumps-73-to-rs-180-cr-in-fy26-losses-narrow-30-12803572"
+  },
+  {
+   "outlet": "IMAGES BoF",
+   "date": "27 Oct 2026",
+   "url": "https://www.imagesbof.in/neemans-reaches-50-stores-turns-comfort-into-a-rs-1000-crore-brand-ambition/"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "19 Sep 2026",
+   "url": "https://www.deccanchronicle.com/southern-states/telangana/neemans-plans-500-store-expansion-1988644"
+  },
+  {
+   "outlet": "ThePrint (ANI release)",
+   "date": "27 Oct 2026",
+   "url": "https://theprint.in/ani-press-releases/neemans-opens-50th-store-in-hyderabad-targets-500-stores-across-india-in-three-years/3082847/"
+  },
+  {
+   "outlet": "D2C Insider",
+   "date": "30 Oct 2026",
+   "url": "https://pulse.d2cinsider.com/neemans-targets-₹1000-crore-revenue-and-500-stores-by-fy30/"
+  },
+  {
+   "outlet": "Devdiscourse (ANI release)",
+   "date": "27 Oct 2026",
+   "url": "https://www.devdiscourse.com/article/business/3997920-neemans-opens-50th-store-in-hyderabad-targets-500-stores-across-india-in-three-years"
+  },
+  {
+   "outlet": "Startuppedia",
+   "date": "23 Feb 2026",
+   "url": "https://startuppedia.in/trending/startup-news/founded-by-two-brothers-in-2018-neemans-revenue-jumps-38-to-rs-108-crore-in-fy25-loss-narrows-21-to-rs-23-crore-11147244"
+  },
+  {
+   "outlet": "Neeman's (neemans.com)",
+   "date": "12 Nov 2026 (checked)",
+   "url": "https://neemans.com/products/adaptis-sneakers-for-men-ivory"
+  },
+  {
+   "outlet": "D2C Insider (Campus FY26)",
+   "date": "27 May 2026",
+   "url": "https://pulse.d2cinsider.com/campus-activewear-crosses-%e2%82%b91770-crore-revenue-as-premiumisation-and-sneaker-growth-drive-strong-fy26-performance/"
+  },
+  {
+   "outlet": "Campus Activewear earnings call transcript (NSE)",
+   "date": "25 May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_29052026180552_Transcript25052026signed.pdf"
+  }
+ ],
+ "fact_sources": {
+  "FY26 revenue from operations ₹180 crore (filings), total income ₹183 crore": [
+   "https://entrackr.com/fintrackr/neemans-revenue-jumps-73-to-rs-180-cr-in-fy26-losses-narrow-30-12803572"
+  ],
+  "Company's own FY26 figure ₹185 crore": [
+   "https://www.imagesbof.in/neemans-reaches-50-stores-turns-comfort-into-a-rs-1000-crore-brand-ambition/",
+   "https://pulse.d2cinsider.com/neemans-targets-₹1000-crore-revenue-and-500-stores-by-fy30/",
+   "https://www.deccanchronicle.com/southern-states/telangana/neemans-plans-500-store-expansion-1988644"
+  ],
+  "Growth over 70% (₹104/105/107.98 crore FY25 base)": [
+   "https://entrackr.com/fintrackr/neemans-revenue-jumps-73-to-rs-180-cr-in-fy26-losses-narrow-30-12803572",
+   "https://startuppedia.in/trending/startup-news/founded-by-two-brothers-in-2018-neemans-revenue-jumps-38-to-rs-108-crore-in-fy25-loss-narrows-21-to-rs-23-crore-11147244",
+   "https://www.imagesbof.in/neemans-reaches-50-stores-turns-comfort-into-a-rs-1000-crore-brand-ambition/"
+  ],
+  "50th store, Panjagutta, Hyderabad (Oct 2026); 500 stores in three years": [
+   "https://theprint.in/ani-press-releases/neemans-opens-50th-store-in-hyderabad-targets-500-stores-across-india-in-three-years/3082847/",
+   "https://www.devdiscourse.com/article/business/3997920-neemans-opens-50th-store-in-hyderabad-targets-500-stores-across-india-in-three-years",
+   "https://www.imagesbof.in/neemans-reaches-50-stores-turns-comfort-into-a-rs-1000-crore-brand-ambition/",
+   "https://pulse.d2cinsider.com/neemans-targets-₹1000-crore-revenue-and-500-stores-by-fy30/"
+  ],
+  "Campus Activewear FY26 revenue from operations ₹1,774 crore, up 11.4%": [
+   "https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_29052026180552_Transcript25052026signed.pdf",
+   "https://pulse.d2cinsider.com/campus-activewear-crosses-%e2%82%b91770-crore-revenue-as-premiumisation-and-sneaker-growth-drive-strong-fy26-performance/"
+  ],
+  "Campus sneaker range more than doubled in FY26 (100%+ / 109%)": [
+   "https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_29052026180552_Transcript25052026signed.pdf",
+   "https://pulse.d2cinsider.com/campus-activewear-crosses-%e2%82%b91770-crore-revenue-as-premiumisation-and-sneaker-growth-drive-strong-fy26-performance/"
+  ],
+  "Campus about 10 times Neeman's size (₹1,774 cr / ₹180-185 cr = 9.6-9.9x)": [
+   "derived from the two revenue facts above"
+  ]
+ },
+ "photo_source": {
+  "page": "https://neemans.com/products/adaptis-sneakers-for-men-ivory",
+  "file_url": "https://cdn.shopify.com/s/files/1/2428/5565/files/Adaptis_Sneakers_Ivory-Brown_01.jpg?v=1790853256",
+  "licence": "Neeman's own studio product image on its official store (product page of the Adaptis Ivory, listed 12 Nov 2026); official brand image, editorial use, credited",
+  "author": "Neeman's",
+  "width": 1600,
+  "height": 1000,
+  "local": "_work/2026-11-12-hourly-1727/idlyhype/dl/nm_1.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Neeman's",
+  "subject": "Neeman's Adaptis sneaker (Ivory/Brown), angled single shoe, product only"
+ },
+ "framing": {
+  "tool_output": {
+   "ok": true,
+   "photo": "_work/2026-11-12-hourly-1727/idlyhype/frame-nm1/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.48,
+   "faces": 0,
+   "note": "enlarged and sharpened"
+  },
+  "used": {
+   "photo": "_work/2026-11-12-hourly-1727/idlyhype/dl/nm_1.jpg",
+   "focal": [
+    0.532,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  "note": "framing's 1.48x crop cut the toe/heel (reviewer G23 v1 FIX 1); used the original 1600x1000 with focal x 0.532 so cardkit's 800x1000 crop keeps the whole shoe (bbox x 525-1178, y 48-953); cardkit 'photo scale 1.35, UPSCALED 1.35x (crop 800px wide)'"
+ },
+ "tags": [
+  "neemansofficial"
+ ],
+ "tags_evidence": "neemans.com home page footer social list (nms-social__item) links https://www.instagram.com/neemansofficial/?hl=en (checked 17:43 IST 12 Nov 2026); reviewer G1 FIX 5: brand's own site counts.",
+ "gates": {
+  "g1": {
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlyhype-g1-v1.md",
+   "outcome": "BUILD (Neeman's), conditional on a second source; Damienciaga and Spotify DJ DROP"
+  },
+  "g2": {
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlyhype-g23-v4.md",
+   "outcome": "PASS (v1 FIX: cover framing + 'made'->'had sales'; v2 PASS; v3 rework after G4 v1 10/14, FIX: drop slide 3; v4 PASS)"
+  },
+  "g3": {
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlyhype-g23-v2.md",
+   "outcome": "PASS (original nm_1.jpg, focal [0.532,0.5], zoom 1.0)"
+  },
+  "g4": {
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlyhype-g4-v2.md",
+   "outcome": "PASS 12/14 (v2: Campus comparison cover, 2 slides)"
+  },
+  "g4_v1": {
+   "ruling": "_work/2026-11-12-hourly-1727/reviews/idlyhype-g4-v1.md",
+   "outcome": "layout PASS but score 10/14 (hook 1, read 1): reworked"
+  }
+ },
+ "other_rulings": [
+  "_work/2026-11-12-hourly-1727/reviews/idlyhype-g23-v1.md",
+  "_work/2026-11-12-hourly-1727/reviews/idlyhype-g23-v3.md"
+ ]
+}
