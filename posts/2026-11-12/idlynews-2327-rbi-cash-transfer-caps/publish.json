@@ -1,0 +1,20 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/01.jpg",
+  "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/02.jpg",
+  "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-2327-rbi-cash-transfer-caps/score.json",
+ "title": "The Reserve Bank of India's Domestic Money Transfer Directions, 2026 (RBI/DPSS/2026-27/476, dated and in force from 11 Nov 2026) keep the cash-transfer limits unchanged since the RBI's 5 Oct 2011 circular (₹5,000 a transaction and ₹25,000 a month per sender through BC agents and ATMs; ₹10,000 a pay-out and ₹25,000 a month per receiver) plus up to ₹50,000 of branch cash by NEFT, and carry over the July 2024 checks (verified mobile number and self-certified OVD, an additional factor of authentication on every transfer, sender details and a cash identifier in the IMPS/NEFT message), replacing the 2011 and 2024 circulars.",
+ "tags": [],
+ "result": {
+  "media_id": "18420309928087083",
+  "permalink": "https://www.instagram.com/p/DfptofDlIjg/",
+  "posted_at": "2026-11-12T18:35:39+00:00"
+ }
+}
