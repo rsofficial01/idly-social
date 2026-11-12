@@ -1,0 +1,102 @@
+{
+ "account": "idlytech",
+ "title": "Vu Televisions prices its Masterpiece AEye RGB MiniLED Google TVs in India (store listing published 12 Nov 2026): 55-inch ₹75,000, 65-inch ₹95,000, 75-inch ₹1,30,000, 85-inch ₹1,75,000, 98-inch ₹2,95,000, 115-inch ₹13,00,000; in retail stores across India from 12 Nov per FoneArena (Vu's online store showed all sizes unavailable at 10:40 IST); up to 2,500 nits and up to 2,000 dimming zones (115-inch: 3,000 nits, 2,696 zones, 240W 10-driver Dolby Atmos); ambient light sensor warms the picture at night; Google TV with Gemini",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Vu Masterpiece AEye launch (checked the articles API, tech category, 12 Nov 10:35 IST).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Vu Televisions (official product listing and store data)",
+   "date": "12 Nov 2026",
+   "url": "https://vutvs.com/products/vu-masterpiece-aeye-tv"
+  },
+  {
+   "outlet": "Vu Televisions (store JSON, published 12 Nov 2026 02:19 IST)",
+   "date": "12 Nov 2026",
+   "url": "https://vutvs.com/products/vu-masterpiece-aeye-tv.js"
+  },
+  {
+   "outlet": "FoneArena",
+   "date": "12 Nov 2026",
+   "url": "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  }
+ ],
+ "fact_sources": {
+  "Six India prices (₹75,000 / ₹95,000 / ₹1,30,000 / ₹1,75,000 / ₹2,95,000 / ₹13,00,000)": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv.js",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "In retail stores across India from 12 Nov 2026 (attributed to FoneArena)": [
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "Vu online store showed all sizes unavailable at 10:40 IST (our check)": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv.js"
+  ],
+  "RGB MiniLED: pure RGB backlighting, 100% BT.2020 colour; richer colours": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "Up to 2,500 nits (55-98 inch), 3,000 nits (115 inch)": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "Up to 2,000 dimming zones (55-98 inch), 2,696 (115 inch)": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "110W Dolby Atmos (55-98 inch); 240W 10-driver (115 inch)": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "Ambient light sensor adjusts brightness; warmer tones as the evening goes on": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ],
+  "Google TV with Gemini on every size": [
+   "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+   "https://www.fonearena.com/blog/496874/vu-masterpiece-aeye-miniled-tv-price-features.html"
+  ]
+ },
+ "photo_source": {
+  "page": "https://vutvs.com/products/vu-masterpiece-aeye-tv",
+  "file_url": "https://vutvs.com/cdn/shop/files/Vu_Masterpiece_AEye_TV.jpg",
+  "licence": "Official brand product/press image (Vu Televisions' own product page og:image), credited",
+  "author": "Vu Televisions",
+  "width": 4796,
+  "height": 2698,
+  "local": "_work/2026-11-12-hourly-1029/idlytech/photos/vu-aeye-series.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Vu Televisions",
+  "subject": "Vu Masterpiece AEye TV on a ribbed console in a living room; screen shows the Vu logo and 'MASTERPIECE AEye TV'; no people"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-12-hourly-1029/idlytech/framing/cover_source.png",
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "focal_used": [
+   0.485,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.5,
+  "note": "Focal x moved to 0.485 to centre the TV (source x 1253-3399); TV whole with 0-3 px to each side edge; headline text below the TV."
+ },
+ "tags": [
+  "vutelevisions"
+ ],
+ "tag_evidence": {
+  "vutelevisions": "Instagram link instagram.com/vutelevisions in the footer of Vu's own site (https://vutvs.com/ and https://vutvs.com/products/vu-masterpiece-aeye-tv); Vu Televisions is the cover image owner."
+ },
+ "rgb_caveat": "Vu markets the range as RGB MiniLED (product page, FoneArena), but its legal-metrology labels name the 55-98 inch sets '4K QD MINILED TV'; the post attributes the RGB claim to Vu.",
+ "gates": {
+  "gate1": "BUILD Vu (conditions 1-7), DROP MakeMyTrip IPO nod, DROP Samsung Gallery sync (_work/2026-11-12-hourly-1029/reviews/idlytech-g1.md)",
+  "gate23": "G2 FIX x6 applied (RGB attributed to Vu, labels, alt); G3 picture PASS (_work/2026-11-12-hourly-1029/reviews/idlytech-g23.md)",
+  "gate4": "PASS 12/14 (reviewer: send 1, original 1) (_work/2026-11-12-hourly-1029/reviews/idlytech-g4.md)"
+ }
+}

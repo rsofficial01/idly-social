@@ -1,0 +1,55 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1029-vu-aeye-rgb-miniled",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Vu Televisions",
+  "FoneArena"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Vu's 115-Inch RGB MiniLED TV Costs ₹13 Lakh",
+   "photo": "_work/2026-11-12-hourly-1029/idlytech/framing/cover_source.png",
+   "photo_credit": "Image: Vu Televisions",
+   "focal": [
+    0.485,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹75,000",
+   "stat_label": "Vu Masterpiece AEye 55-Inch, the Cheapest Size",
+   "bullets": [
+    "65-inch ₹95,000 · 75-inch ₹1,30,000",
+    "85-inch ₹1,75,000 · 98-inch ₹2,95,000",
+    "In retail stores from 12 Nov, FoneArena reports"
+   ],
+   "credit_line": "Sources: Vu Televisions, FoneArena"
+  },
+  {
+   "type": "detail",
+   "stat": "2,500",
+   "stat_label": "Vu AEye Peak Nits, 55 to 98 Inches",
+   "bullets": [
+    "Vu says the backlight uses red, green, blue LEDs",
+    "Up to 2,000 dimming zones for deeper blacks",
+    "Light sensor warms the picture at night"
+   ],
+   "credit_line": "Sources: Vu Televisions, FoneArena"
+  },
+  {
+   "type": "detail",
+   "stat": "2,696",
+   "stat_label": "Dimming Zones on Vu's 115-Inch AEye",
+   "bullets": [
+    "3,000 nits peak, brighter than smaller sizes",
+    "240W, 10-driver Dolby Atmos sound",
+    "Every size runs Google TV with Gemini"
+   ],
+   "credit_line": "Sources: Vu Televisions, FoneArena"
+  }
+ ]
+}
