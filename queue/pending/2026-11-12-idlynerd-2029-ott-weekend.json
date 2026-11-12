@@ -1,0 +1,60 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "title": "New on OTT in India, Fri 13 Nov 2026: Heartland (Netflix), Student of the Year: After Dark (JioHotstar), Parivarik ManuRanjan (Sony LIV), Bandra (ZEE5)",
+ "headline": "Heartland, Bandra and 2 More: New on OTT This Friday",
+ "caption": "Four of the new titles arriving on OTT in India on Friday, 13 November.\n\nNetflix has Heartland, a Netflix original thriller in which Jessica Chastain plays a former country music star searching for her missing niece. JioHotstar starts Student of the Year: After Dark, a Hindi thriller series from Dharmatic Entertainment, directed by Reema Maya.\n\nSony LIV premieres Parivarik ManuRanjan, its original Hindi family comedy with Pankaj Tripathi and Aditi Rao Hydari, directed by Varun V. Sharma. ZEE5 adds Bandra, the Malayalam film starring Dileep and Tamannaah Bhatia.\n\nHow many of these four streaming services does your home pay for right now?\n\nSources: Netflix, Netflix Tudum, The Week, The Hollywood Reporter India, Sacnilk, Medianews4u, Esquire India, Daily Jagran\n\n#OTTReleases #NewOnOTT #Heartland #Bandra #idlynerd",
+ "alt_text": "Slide 1: a Netflix still from Heartland, a woman in sunglasses and a white shirt holding a gun as she walks down a sunlit forest path, under the headline \"Heartland, Bandra and 2 More: New on OTT This Friday\". Slide 2: \"13 NOV\", Friday on Netflix and JioHotstar: Heartland on Netflix, a Netflix original thriller in English with Jessica Chastain; Student of the Year: After Dark on JioHotstar, a Hindi thriller series. Slide 3: \"13 NOV\", Friday on Sony LIV and ZEE5: Parivarik ManuRanjan, a Sony LIV original Hindi family comedy with Pankaj Tripathi and Aditi Rao Hydari; Bandra on ZEE5, a Malayalam film starring Dileep and Tamannaah Bhatia.",
+ "sources": [
+  "Netflix",
+  "Netflix Tudum",
+  "The Week",
+  "The Hollywood Reporter India",
+  "Sacnilk",
+  "Medianews4u",
+  "Esquire India",
+  "Daily Jagran"
+ ],
+ "detail_slides": [
+  {
+   "stat": "13 NOV",
+   "stat_label": "Friday on Netflix and JioHotstar",
+   "bullets": [
+    "Heartland · Netflix original · Jessica Chastain thriller, English",
+    "Student of the Year: After Dark · JioHotstar · Hindi series"
+   ],
+   "credit_line": "Sources: Netflix, Netflix Tudum, The Week, The Hollywood Reporter India, Sacnilk"
+  },
+  {
+   "stat": "13 NOV",
+   "stat_label": "Friday on Sony LIV and ZEE5",
+   "bullets": [
+    "Parivarik ManuRanjan · Sony LIV original · Hindi family comedy",
+    "Bandra · ZEE5 · Malayalam film with Dileep, Tamannaah Bhatia"
+   ],
+   "credit_line": "Sources: Medianews4u, The Week, Esquire India, Daily Jagran"
+  }
+ ],
+ "image": {
+  "resolver": "og_image_official",
+  "ref": "https://www.netflix.com/tudum/articles/heartland-release-date-photos-news"
+ },
+ "scores": {
+  "self": {
+   "hook": 1,
+   "read": 2,
+   "send": 1,
+   "keep": 2,
+   "reply": 2,
+   "original": 2,
+   "alone": 2,
+   "total": 12,
+   "notes": "hook capped at 1 (a count, Hollywood still on cover); send 1 after Ranabaali dropped (no Netflix-own confirmation)."
+  }
+ },
+ "tags": [],
+ "story": false,
+ "notes": "format: special (New on OTT This Weekend, Thu). Hourly run 2029, idlynerd desk. G1 BUILD; G2+3 fixes applied (headline, first line, question). Ranabaali and Cunk on Cinema dropped (no Netflix India confirmation).",
+ "created_at": "2026-11-12T20:54:56+05:30"
+}
