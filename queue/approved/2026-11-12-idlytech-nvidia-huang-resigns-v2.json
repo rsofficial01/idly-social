@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-12-idlytech-nvidia-huang-resigns-v2",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 1,
+    "alone": 2,
+    "total": 12,
+    "notes": "Blind lane reviewer. Strong breaking cover: keynote-stage photo from the NVIDIA blog, sharp after upscale, face clear of logo and headline. Clean slides, no factual errors. Keep limited to the results time."
+  },
+  "reviewed_at": "2026-11-12T15:52:23+00:00",
+  "reviewed_by": "claude reviewer (blind, fresh agent)",
+  "notes": "",
+  "story": false
+}
