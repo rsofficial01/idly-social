@@ -1,0 +1,145 @@
+{
+ "account": "idlyautomotive",
+ "title": "Global NCAP (Safer Cars for Africa, 10 Nov 2026): the India-made Renault Kiger, tested as sold in South Africa, scored 2 stars adult with two airbags and no ESC or ISOFIX; after Renault made six airbags, ESC and ISOFIX standard and volunteered the upgraded car it scored 4 stars adult (25.20/34) and 3 stars child (30.21/49). Bodyshell and footwell unstable; one door opened in the side impact; front chests marginal; 3-year-old dummy zero side points; 18-month-old full protection; no passenger-airbag cut-off switch. Not an India rating. In India the Kiger starts at Rs 5.81 lakh ex-showroom with six airbags and ESP standard.",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the Kiger Global NCAP result in the @idlyautomotive candidates feed (candidates.json, generated 16:00 UTC 12 Nov 2026)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Global NCAP (release)",
+   "date": "10 Nov 2026",
+   "url": "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result"
+  },
+  {
+   "outlet": "Global NCAP (six-airbag factsheet)",
+   "date": "10 Nov 2026",
+   "url": "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf"
+  },
+  {
+   "outlet": "Autocar India",
+   "date": "11 Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300"
+  },
+  {
+   "outlet": "CarWale",
+   "date": "11 Nov 2026 13:01 IST",
+   "url": "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/"
+  },
+  {
+   "outlet": "MotorBeam",
+   "date": "11 Nov 2026",
+   "url": "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  },
+  {
+   "outlet": "Renault India (Kiger page)",
+   "date": "checked 12 Nov 2026",
+   "url": "https://www.renault.co.in/cars/renault-kiger.html"
+  },
+  {
+   "outlet": "Autocar India (Kiger facelift launch)",
+   "date": "25 Aug 2025",
+   "url": "https://www.autocarindia.com/car-news/renault-kiger-facelift-launched-at-rs-629-lakh-436830"
+  },
+  {
+   "outlet": "CarWale (Kiger facelift launch)",
+   "date": "24 Aug 2025",
+   "url": "https://www.carwale.com/news/2025-renault-kiger-facelift-launched-in-india-at-rs-629-lakh/"
+  }
+ ],
+ "fact_sources": {
+  "India-made Kiger tested as sold in South Africa (factsheet: made in India, test valid for South Africa)": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "Renault made six airbags, ESC and ISOFIX standard and volunteered the upgraded car": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300"
+  ],
+  "upgraded Kiger: 4 stars adult, 25.20/34": [
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "upgraded Kiger: 3 stars child, 30.21/49": [
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "bodyshell and footwell rated unstable, not capable of withstanding further loading": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "one door opened in the side impact (Global NCAP: one door; factsheet: door opening)": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "front occupants' chest protection marginal": [
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300"
+  ],
+  "3-year-old dummy: zero side points": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/"
+  ],
+  "18-month-old dummy: full protection in both tests": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "no front passenger airbag cut-off switch for a rear-facing child seat": [
+   "https://www.globalncap.org/s/RenaultKiger-6airbags-factsheet-2026.pdf",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "Nissan Magnite, same platform, 5 stars in 2025": [
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300",
+   "https://www.motorbeam.com/renault-kiger-4-star-global-ncap-crash-test-rating/"
+  ],
+  "published 10 Nov 2026": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300"
+  ],
+  "India: Kiger from Rs 5.81 lakh ex-showroom": [
+   "https://www.renault.co.in/cars/renault-kiger.html",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/",
+   "https://www.autocarindia.com/car-news/made-in-india-renault-kiger-scores-4-star-global-ncap-rating-441300"
+  ],
+  "India: six airbags and ESP standard": [
+   "https://www.renault.co.in/cars/renault-kiger.html",
+   "https://www.autocarindia.com/car-news/renault-kiger-facelift-launched-at-rs-629-lakh-436830",
+   "https://www.carwale.com/news/2025-renault-kiger-facelift-launched-in-india-at-rs-629-lakh/"
+  ],
+  "two-airbag Kiger (no ESC, no ISOFIX standard): 2 stars adult": [
+   "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+   "https://www.carwale.com/news/india-made-renault-kiger-improves-to-4-stars-in-global-ncap/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.globalncap.org/africaresults",
+  "release": "https://www.globalncap.org/news/renault-kiger-improves-from-two-to-four-stars-in-latest-safer-cars-for-africa-result",
+  "licence": "Official press image: Global NCAP media download supplied with the 10 Nov 2026 release (no stated terms); credited",
+  "author": "Global NCAP",
+  "url": "https://www.globalncap.org/s/RenaultKiger-6airbags-poleimpact.jpg",
+  "width": 5184,
+  "height": 3456,
+  "viewed": true,
+  "faces": 0,
+  "processing": "converted to PNG by pipeline.framing (no upscale); cardkit 4:5 crop at full height, focal (0.64, 0.5), zoom 1.0, downscaled 0.39x; no edits"
+ },
+ "tags": [
+  "globalncap"
+ ],
+ "tag_evidence": "globalncap.org's own homepage footer links https://www.instagram.com/globalncap/ (fetched by the desk 12 Nov 2026, ~21:40 IST)"
+}

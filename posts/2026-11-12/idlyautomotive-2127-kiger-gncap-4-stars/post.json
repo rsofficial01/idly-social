@@ -1,0 +1,56 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2127-kiger-gncap-4-stars",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Global NCAP",
+  "Autocar India",
+  "CarWale"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Upgraded India‑Made Kiger Jumps From 2 to 4 Stars",
+   "photo": "_work/2026-11-12-hourly-2127/idlyautomotive/frame-kiger-pole/cover_source.png",
+   "photo_credit": "Image: Global NCAP",
+   "focal": [
+    0.64,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "6 AIRBAGS",
+   "stat_label": "Made Standard, Plus ESC and ISOFIX Mounts",
+   "bullets": [
+    "South Africa-spec car tested; not an India rating",
+    "In India, six airbags and ESC are standard too",
+    "Kiger starts at ₹5.81 lakh ex-showroom in India"
+   ],
+   "credit_line": "Sources: Global NCAP, Autocar India, CarWale, Renault India"
+  },
+  {
+   "type": "detail",
+   "stat": "25.20/34",
+   "stat_label": "Adult Protection Score: Four Stars",
+   "bullets": [
+    "Bodyshell unstable: no reserve strength for a harder crash",
+    "One door opened in the side-impact crash test",
+    "Front occupants' chests got only marginal protection"
+   ],
+   "credit_line": "Sources: Global NCAP, Autocar India, CarWale"
+  },
+  {
+   "type": "detail",
+   "stat": "30.21/49",
+   "stat_label": "Child Protection Score: Three Stars",
+   "bullets": [
+    "18-month-old dummy: full protection in both crash tests",
+    "3-year-old dummy scored zero in the side test",
+    "No passenger-airbag off switch for rear-facing baby seats"
+   ],
+   "credit_line": "Sources: Global NCAP, Autocar India, CarWale, MotorBeam"
+  }
+ ]
+}
