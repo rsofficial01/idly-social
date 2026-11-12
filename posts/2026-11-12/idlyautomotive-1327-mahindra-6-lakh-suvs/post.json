@@ -1,0 +1,47 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1327-mahindra-6-lakh-suvs",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Autocar Professional",
+  "Mahindra & Mahindra",
+  "AutoPunditz",
+  "Times Drive",
+  "Rushlane"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Mahindra Tops 6 Lakh SUVs Again, Tata Still 34,197 Ahead",
+   "photo": "_work/2026-11-12-hourly-1327/idlyautomotive/framing_yash/cover_source.png",
+   "photo_credit": "Photo: Yash Parashar / Unsplash",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "73,338",
+   "stat_label": "Mahindra's Best SUV Month Ever: October 2026",
+   "bullets": [
+    "Jan–Oct sales up 19% on last year's 5,18,321",
+    "Scorpio N and Classic: 19,353, India's No. 9 car",
+    "XUV 3XO CNG joined in October, ₹9.99 lakh ex-showroom"
+   ],
+   "credit_line": "Sources: Autocar India, Mahindra, Rushlane, MotorBeam"
+  },
+  {
+   "type": "detail",
+   "stat": "6,49,477",
+   "stat_label": "Tata's 2026 Sales So Far, Second To Maruti",
+   "bullets": [
+    "Mahindra beat Tata in 2025 with a record 6,25,603",
+    "Tata won October too, by just 556 cars"
+   ],
+   "credit_line": "Sources: Autocar Professional, Autocar India, Times Drive"
+  }
+ ]
+}

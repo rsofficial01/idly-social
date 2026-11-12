@@ -1,0 +1,128 @@
+{
+ "account": "idlyautomotive",
+ "title": "Mahindra sold 6,15,280 SUVs in India in Jan-Oct 2026 (domestic wholesales), +19% from 5,18,321, its second calendar year in a row past 6 lakh (CY2025 record 6,25,603); October 2026's 73,338 is its highest-ever month; Tata Motors is No. 2 behind Maruti in 2026 with 6,49,477 by October, 34,197 ahead, and beat Mahindra in October by 556 (73,894 vs 73,338)",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Mahindra/Tata sales in the latest 50 (checked 12 Nov ~13:40 IST).",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Autocar India (Ajit Dalvi)",
+   "date": "12 Nov 2026",
+   "url": "https://www.autocarindia.com/car-news/mahindra-crosses-6-lakh-suv-sales-for-second-year-in-a-row-441311"
+  },
+  {
+   "outlet": "Autocar Professional (Ajit Dalvi)",
+   "date": "2 Nov 2026",
+   "url": "https://www.autocarpro.in/analysis-sales/tata-motors-registers-highest-monthly-sales-in-october-73894-units-135638"
+  },
+  {
+   "outlet": "Autocar Professional (Jan-Sep 2026)",
+   "date": "5 Oct 2026",
+   "url": "https://www.autocarpro.in/analysis-sales/mahindra-suv-sales-rise-21-percent-in-cy2026-to-541942-units-intense-battle-with-tata-continues-135046"
+  },
+  {
+   "outlet": "Autocar Professional (Tata October)",
+   "date": "1 Nov 2026",
+   "url": "https://www.autocarpro.in/news/tata-motors-pv-reports-23-percent-rise-in-october-dispatches-to-75426-units-135617"
+  },
+  {
+   "outlet": "Mahindra & Mahindra press release",
+   "date": "1 Nov 2026",
+   "url": "https://www.mahindra.com/news-room/press-release/en/mahindra-auto-records-highest-ever-suv-domestic-sales-of-73338-vehicles-and-total-volumes-of-131109-in-october-2026"
+  },
+  {
+   "outlet": "Times Drive",
+   "date": "5 Nov 2026 (updated)",
+   "url": "https://www.timesdrive.in/features/5-highest-selling-car-brands-in-india-october-2026-article-156469358"
+  },
+  {
+   "outlet": "AutoPunditz (Tata 6 lakh)",
+   "date": "~5 Nov 2026 (page shows '7 days ago')",
+   "url": "https://www.autopunditz.com/post/tata-motors-crosses-6-lakh-car-sales-2026"
+  },
+  {
+   "outlet": "AutoPunditz (top 10, Oct 2026)",
+   "date": "~8 Nov 2026 (page shows '4 days ago')",
+   "url": "https://www.autopunditz.com/post/top-10-selling-cars-october-2026-india"
+  },
+  {
+   "outlet": "Rushlane (top 10, Oct 2026)",
+   "date": "11 Nov 2026",
+   "url": "https://www.rushlane.com/top-10-cars-oct-2026-wagonr-brezza-nexon-baleno-12560844.html"
+  },
+  {
+   "outlet": "MotorBeam (XUV 3XO CNG)",
+   "date": "6 Nov 2026 (launch article 15 Oct 2026)",
+   "url": "https://www.motorbeam.com/mahindra-xuv-3xo-cng-5-star-bharat-ncap-safety-rating/"
+  }
+ ],
+ "fact_sources": {
+  "Mahindra Jan-Oct 2026 6,15,280, +19% vs 5,18,321": [
+   "Autocar India 12 Nov",
+   "Autocar Pro 2 Nov (615,280)",
+   "Autocar Pro 5 Oct Jan-Sep 541,942 + Mahindra Oct 73,338"
+  ],
+  "second calendar year past 6 lakh; CY2025 record 6,25,603": [
+   "Autocar India 12 Nov",
+   "Autocar Pro 5 Oct"
+  ],
+  "Oct 2026 73,338, highest-ever monthly domestic SUV sales": [
+   "Mahindra press release 1 Nov",
+   "Autocar India 12 Nov",
+   "Times Drive"
+  ],
+  "Mahindra outsold Tata in 2025": [
+   "Autocar India (6,25,603 vs 5,78,881)",
+   "Autocar Pro 5 Oct (625,603 vs 578,771)",
+   "AutoPunditz (Tata 5,73,007)"
+  ],
+  "Tata Jan-Oct 2026 6,49,477, No. 2 behind Maruti, 34,197 ahead": [
+   "Autocar Pro 2 Nov",
+   "Autocar India 12 Nov",
+   "AutoPunditz"
+  ],
+  "Tata beat Mahindra in October by 556 (73,894 vs 73,338)": [
+   "Autocar Pro 2 Nov",
+   "Times Drive",
+   "Autocar Pro 1 Nov (73,894)"
+  ],
+  "Scorpio (N + Classic) 19,353 in Oct, India's No. 9": [
+   "Rushlane 11 Nov",
+   "AutoPunditz"
+  ],
+  "XUV 3XO CNG launched Oct 2026, from Rs 9.99 lakh ex-showroom": [
+   "MotorBeam (15 Oct launch, 'Priced From Rs. 9.99 Lakhs')",
+   "Autocar India 12 Nov ('launched last month')",
+   "auto.mahindra.com banner 'Price starts at Rs 9.99 Lakh*'"
+  ],
+  "Autocar India expects Mahindra to pass 7 lakh in 2026 (attributed projection, caption only)": [
+   "Autocar India 12 Nov"
+  ]
+ },
+ "left_out": "Tata CY2025 exact total (5,73,007 / 5,78,771 / 5,78,881 differ by source); Maruti 17.9 lakh YTD and Mahindra's 22 lakh since 2023 (Autocar India only); Mahindra's launch plan to June 2027 (four vs five products differ by source); Nexon/Punch October line (cut at Gate 2).",
+ "photo_source": {
+  "page": "https://unsplash.com/photos/red-suv-on-brown-field-under-white-clouds-during-daytime-8TJAbV4_UPs",
+  "file_url": "https://images.unsplash.com/photo-1624190094006-510057da58df",
+  "licence": "Unsplash License ('Free to use under the Unsplash License'; not Unsplash+)",
+  "author": "Yash Parashar (@lookforyash)",
+  "published": "20 Jun 2021",
+  "location": "Sambhar Salt Lake, Rajasthan",
+  "subject": "Red Mahindra Scorpio (older second-generation body, the line now sold as the Scorpio Classic), rear view",
+  "orig_size": "4096x2731",
+  "viewed": true,
+  "faces": 0,
+  "credit": "Photo: Yash Parashar / Unsplash (caption: 'Photo: Yash Parashar / Unsplash, Unsplash License')",
+  "framing": "pipeline.framing ok:true (upscale 0.49, faces 0); cover focal [0.5, 0.5], zoom 1.0 -> 2185x2731 crop downscaled, no enlargement",
+  "notes": "Two/three occupants visible only as dark rear silhouettes (not identifiable); a small 'www.zoomcar.com' rental sticker and a yellow commercial plate are legible: reviewer ruled both incidental and acceptable at Gate 3.",
+  "why_not_official": "auto.mahindra.com and the mahindra.com newsroom offer only transparent cut-outs or ad banners with burned-in text; XUV 7XO / 3XO EV / BE 6 newsroom images had people (face screen deleted them); Commons upload.wikimedia.org was 429 (retry-after 600)."
+ },
+ "tags": [],
+ "tags_confirmed": "No tag: the cover is an Unsplash photographer's image, not Mahindra's (reviewer agreed at Gate 3). For the record, auto.mahindra.com links instagram.com/mahindra_auto.",
+ "gates": {
+  "g1": "BUILD candidate 1, ceiling 12 (reviews/idlyautomotive-g1-v1.md); C2 FADA 2W retail DROP (10), C3 Hyundai Bayon DROP (9)",
+  "g2": "FIX: 4 verbatim edits (cut Nexon/Punch bullet; 3XO CNG bullet with ex-showroom; shorter Sources lines; caption 'biggest seller'), applied and checked at G4 (reviews/idlyautomotive-g23-v1.md)",
+  "g3": "PASS v1 (reviews/idlyautomotive-g23-v1.md)",
+  "g4": "PASS 12/14 v1 (reviews/idlyautomotive-g4-v1.md, score reviews/idlyautomotive-g4-v1.score.json)"
+ }
+}
