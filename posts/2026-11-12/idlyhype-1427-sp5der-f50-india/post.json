@@ -1,0 +1,58 @@
+[
+ {
+  "acct": "idlyhype",
+  "slug": "idlyhype-1427-sp5der-f50-india",
+  "date": "12 Nov 2026",
+  "sources": [
+   "adidas",
+   "Superkicks",
+   "House of Heat"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "SP5DER x adidas F50 Formotion Hits India 14 Nov, ₹19,999",
+    "photo": "_work/2026-11-12-hourly-1427/idlyhype/framing_738034/cover_source.png",
+    "photo_credit": "Image: adidas",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "€200",
+    "stat_label": "The SP5DER Pair's Worldwide Price at adidas",
+    "bullets": [
+     "Worldwide launch: adidas CONFIRMED app, select stores",
+     "SP5DER's site sells it a day early, 13 Nov",
+     "About ₹20,850 at ECB rates: India's MRP is lower"
+    ],
+    "credit_line": "Sources: adidas, ECB (11 Nov rate), Superkicks"
+   },
+   {
+    "type": "detail",
+    "stat": "2 PAIRS",
+    "stat_label": "The Article Codes to Look For",
+    "bullets": [
+     "Solar Green, black stripes: article code KZ6581",
+     "Glossy red with pink accents: KZ6578",
+     "Superkicks lists UK 7 to 11, marked 'Coming Soon'"
+    ],
+    "credit_line": "Sources: adidas, Superkicks"
+   },
+   {
+    "type": "detail",
+    "stat": "F50 III",
+    "stat_label": "A Football Boot Rebuilt as a Runner",
+    "bullets": [
+     "Adizero F50 III boot lines, adidas running tooling",
+     "Running sole replaces the studs: wear it on streets",
+     "Round one's silver pair: ₹18,999 on VegNonVeg"
+    ],
+    "credit_line": "Sources: adidas, Highsnobiety, VegNonVeg"
+   }
+  ]
+ }
+]
