@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1927-sinhgad-hc-probe",
+ "date": "12 Nov 2026",
+ "sources": [
+  "Bar & Bench",
+  "Free Press Journal",
+  "LawChakra"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Sinhgad Staff Owed ₹400 Crore+: HC Orders CBI, ED Probe",
+   "photo": "_work/2026-11-12-hourly-1927/idlynews/frame-sinhgad/cover_source.png",
+   "photo_credit": "Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0, cropped",
+   "focal": [
+    0.4,
+    0.72
+   ],
+   "zoom": 1.4
+  },
+  {
+   "type": "detail",
+   "stat": "44",
+   "stat_label": "Institutions Run by Pune's Sinhgad Technical Education Society",
+   "bullets": [
+    "Staff say pay went unpaid for almost eight years",
+    "CBI, ED and Income Tax ordered to investigate",
+    "Bank accounts frozen; trustees to surrender passports"
+   ],
+   "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra"
+  },
+  {
+   "type": "detail",
+   "stat": "₹60.65 CR",
+   "stat_label": "Pre-Diwali Staff Pay the Court Says Wasn't Paid",
+   "bullets": [
+    "Sinhgad society undertook on 6 Nov to pay it",
+    "Court sees prima facie diversion while fees were collected",
+    "Trustees face contempt notices and can reply in court"
+   ],
+   "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra"
+  },
+  {
+   "type": "detail",
+   "stat": "19 NOV",
+   "stat_label": "When Investigators' First Reports Are Due in Court",
+   "bullets": [
+    "State to take over Sinhgad schools or move students",
+    "Administrators to take charge of the technical colleges",
+    "Pune police must also report progress on existing FIRs"
+   ],
+   "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra"
+  }
+ ]
+}

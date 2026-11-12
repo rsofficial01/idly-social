@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "keep 1: one date (19 Nov reports) and the schools/administrators arrangement are worth saving for Sinhgad students, staff and parents, but for most readers it is a news item with nothing to act on. Minor, not scored down: slide 2 bullet 'CBI, ED and Income Tax ordered to investigate' half-repeats the cover (it adds only Income Tax); no slide says 'Bombay' (the cover says 'HC' and the signboard says Pune), which still reads fine alone. Layout: PASS. Cover full-bleed, sharp (0.66 downscale), main STES/SIOM signboard whole at y~370-680, clear of the logo and of the 3-line white headline (y~975-1235). White logo on a local background of median luminance ~83 is about 7.7:1, legible. Vertical credit 'Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0, cropped' sits 59 px right of the headline and does not touch idly.news. Second sign face cut at the right edge (acceptable). Slides 2-4: white Title Case labels, text on one left edge (x=72), no overlap, no overflow, Sources line on each; top bands 229-334 px, within house norms (17:27 post 310-361 px). All seven G23 fixes landed word for word in post.json, caption.txt and alt.txt."
+}

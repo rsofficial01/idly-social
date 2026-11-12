@@ -1,0 +1,160 @@
+{
+ "account": "idlynews",
+ "title": "Bombay High Court (special bench, Justices G.S. Kulkarni and Advait M. Sethna, order of Tue 10 Nov 2026) orders CBI, ED (PMLA) and Income Tax probes into Pune's Sinhgad Technical Education Society, its 44 institutions and trustees after about 220 staff petitions over salary and terminal dues unpaid for almost eight years, stated to exceed ₹400 crore; accounts frozen, trustees' passports deposited, contempt show-cause notices after the ₹60.65 crore pre-Diwali undertaking of 6 Nov went unpaid; court sees a strong prima facie case of siphoning (allegations unproven); Education Dept to take over schools or move students; administrators for technical colleges; first reports due 19 Nov",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the Sinhgad / Bombay HC order in the @idlynews candidates feed (candidates.json, last 30 h, checked 12 Nov 2026 ~19:35 IST)",
+ "format": "news",
+ "sources": [
+  {
+   "outlet": "Bar & Bench",
+   "date": "12 Nov 2026 07:24",
+   "url": "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "12 Nov 2026 16:26 IST",
+   "url": "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues"
+  },
+  {
+   "outlet": "LawChakra",
+   "date": "12 Nov 2026 14:18",
+   "url": "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  }
+ ],
+ "fact_sources": {
+  "Bombay HC orders CBI, ED (PMLA) and Income Tax probe of STES, its institutions and trustees": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "44 institutions": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "about 220 petitions by teaching and non-teaching staff": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "salary and terminal dues unpaid for almost eight years": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "dues stated to exceed ₹400 crore": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "order of 10 Nov 2026; special bench of Justices G.S. Kulkarni and Advait M. Sethna": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "bank accounts of society and trustees frozen": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "trustees to deposit/surrender passports and not leave Pune": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "contempt show-cause notices to STES and trustees": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "₹60.65 crore undertaken on 6 Nov to pay staff before Diwali, not paid": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues"
+  ],
+  "strong prima facie case that money was being siphoned away from staff while admissions stayed full; trustees can answer": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "Education Department to take over schools or absorb students elsewhere": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "administrators to take charge of technical institutions": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "Pune police to report progress on existing FIRs": [
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "next hearing 19 Nov; first/preliminary reports due": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ],
+  "no STES response reported": [
+   "https://www.barandbench.com/news/bombay-high-court-orders-cbi-ed-probe-against-sinhgad-technical-education-society",
+   "https://www.freepressjournal.in/pune/bombay-hc-orders-cbi-ed-income-tax-probe-into-sinhgad-societys-44-institutions-freezes-bank-accounts-cites-over-400-crore-in-dues",
+   "https://lawchakra.in/high-court/bombay-high-court/sinhgad-society-cbi-probe/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Sinhgad_Institute_of_Management,_Pune.jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sinhgad_Institute_of_Management%2C_Pune.jpg/3840px-Sinhgad_Institute_of_Management%2C_Pune.jpg",
+  "licence": "CC BY 4.0",
+  "author": "DesiBoy101",
+  "width": 3840,
+  "height": 2880,
+  "orig_size": "4000x3000 (fetched as Wikimedia's standard 3840x2880 thumbnail)",
+  "local": "_work/2026-11-12-hourly-1927/idlynews/dl-sinhgad/sinhgad-sim.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0, cropped",
+  "subject": "Sinhgad Institute of Management building, Sinhgad Technical Education Society's Vadgaon campus, Pune (photo taken 28 Apr 2023); signboard names the society"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "focal_tool": [
+   0.5,
+   0.5
+  ],
+  "focal_used": [
+   0.4,
+   0.72
+  ],
+  "zoom_tool": 1.0,
+  "zoom": 1.4,
+  "upscale": 0.66,
+  "note": "downscale only; zoomed and moved down/left so the main signboard sits whole at y~370-680, clear of the logo and headline block; second sign face at right edge cut; logo over upper facade/windows"
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the image is by an individual Commons photographer (people are never tagged); no brand or official owner.",
+ "baseline": "Not a Tamil Nadu story (Maharashtra). TN baseline check on the caption: exit 0, no STOP; matches were keyword-only (CBI/ED) and irrelevant. No Maharashtra baseline exists (gap).",
+ "commons_attempt": "upload.wikimedia.org original: one try ~19:42 IST, HTTP 429; 3840px thumb on upload.wikimedia.org: one try, 429; Solapur fallback file: one try, 429; thumb.wikimedia.org standard 3840px thumbnail of the chosen file: one try ~19:50 IST, 200.",
+ "sensitive_omissions": "Reports of employee suicides (court/petition figure) deliberately left out of cards, caption and alt (Gate 1 condition); managing trustee's name left out (no charge).",
+ "gates": {
+  "g1": {
+   "outcome": "BUILD A (ceiling 14)",
+   "review": "_work/2026-11-12-hourly-1927/reviews/idlynews-g1.md"
+  },
+  "g23": {
+   "outcome": "FIX x7 applied (picture PASS)",
+   "review": "_work/2026-11-12-hourly-1927/reviews/idlynews-g23.md"
+  },
+  "g4": {
+   "outcome": "PASS 13/14 (hook 2, read 2, send 2, keep 1, reply 2, original 2, alone 2)",
+   "review": "_work/2026-11-12-hourly-1927/reviews/idlynews-g4.md",
+   "score": "_work/2026-11-12-hourly-1927/reviews/idlynews-g4.score.json"
+  }
+ },
+ "tags_evidence": "No tag: the cover is an individual contributor's Wikimedia Commons photo (CC BY 4.0), not an organisation's own image.",
+ "score": {
+  "self": 13,
+  "reviewer": 13,
+  "post": 13
+ }
+}

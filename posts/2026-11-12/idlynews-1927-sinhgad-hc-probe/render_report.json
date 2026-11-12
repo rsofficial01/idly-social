@@ -1,0 +1,95 @@
+[
+ {
+  "size": [
+   1080,
+   1350
+  ],
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: DesiBoy101 / Wikimedia Commons, CC BY 4.0, cropped",
+  "slug": "idlynews-1927-sinhgad-hc-probe",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-12/idlynews-1927-sinhgad-hc-probe/01.jpg",
+  "scale": 0.656
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1927-sinhgad-hc-probe",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-12/idlynews-1927-sinhgad-hc-probe/02.jpg",
+  "scale": null,
+  "size": [
+   1080,
+   1350
+  ]
+ },
+ {
+  "stat": 192,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1927-sinhgad-hc-probe",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-12/idlynews-1927-sinhgad-hc-probe/03.jpg",
+  "scale": null,
+  "size": [
+   1080,
+   1350
+  ]
+ },
+ {
+  "stat": 260,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, Free Press Journal, LawChakra",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1927-sinhgad-hc-probe",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-12/idlynews-1927-sinhgad-hc-probe/04.jpg",
+  "scale": null,
+  "size": [
+   1080,
+   1350
+  ]
+ }
+]
