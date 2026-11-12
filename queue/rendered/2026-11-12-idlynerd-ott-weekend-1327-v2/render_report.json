@@ -1,0 +1,163 @@
+{
+  "slug": "2026-11-12-idlynerd-ott-weekend-1327-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-12T08:26:08+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=TwYycH1J3Ek",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=TwYycH1J3Ek",
+    "source_url": "https://www.youtube.com/watch?v=TwYycH1J3Ek",
+    "image_url": "https://i.ytimg.com/vi/TwYycH1J3Ek/maxresdefault.jpg",
+    "credit": "Image: Sun TV (official video)",
+    "organisation": "Sun TV",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=TwYycH1J3Ek: author 'Sun TV' https://www.youtube.com/@suntv, title 'Roddy Theme | Jailer 2 | Superstar Rajinikanth | Hrithik Roshan | Sun Pictures | Nelson | Anirudh'",
+      "thumbnail https://i.ytimg.com/vi/TwYycH1J3Ek/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@suntv",
+    "video_title": "Roddy Theme | Jailer 2 | Superstar Rajinikanth | Hrithik Roshan | Sun Pictures | Nelson | Anirudh"
+  },
+  "faces": [
+    [
+      793.4,
+      128.0,
+      156.8,
+      215.4,
+      0.911
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.6811,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      584.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        357,
+        192,
+        722,
+        692
+      ]
+    ],
+    "logo_saliency": 0.53,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        793.4,
+        128.0,
+        156.8,
+        215.4,
+        0.911
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 6 known items, 1 needing care (minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Sun TV (official video)",
+      "Sources: Prime Video India, Khaleej Times, The Hollywood Reporter India",
+      "Sources: Netflix India, JioHotstar, Sony LIV, Outlook India, tbreak"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: Sun TV (official video)",
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Prime Video India, Khaleej Times, The Hollywood Reporter India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix India, JioHotstar, Sony LIV, Outlook India, tbreak",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-12-idlynerd-ott-weekend-1327-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Jailer 2, Nelson Dilipkumar's Tamil action film with Rajinikanth, streams on Prime Video from Thursday, 12 November, four weeks after it opened in cinemas on 15 October. You can watch it in Tamil, Telugu, Hindi, Malayalam or Kannada.\n\nOn Friday, 13 November, Ranabaali, the Telugu period drama that opened in cinemas on 16 October, arrives on Netflix in Telugu, Hindi, Tamil, Kannada and Malayalam. JioHotstar starts Student of the Year: After Dark, a Hindi series, and Sony LIV adds the Hindi film Parivarik ManuRanjan.\n\nDid you see Jailer 2 in a cinema, or are you watching it at home this weekend?\n\nSources: Prime Video India, Netflix India, JioHotstar, Sony LIV, Khaleej Times, The Hollywood Reporter India, Outlook India, tbreak, Flickonclick\n\n#Jailer2 #Ranabaali #OTTReleases #NewOnOTT #idlynerd\n\nImage: Sun TV (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
