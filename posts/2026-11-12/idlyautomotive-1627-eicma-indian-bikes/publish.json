@@ -1,0 +1,18 @@
+{
+ "account": "idlyautomotive",
+ "story_id": 2115,
+ "no_idly_article": false,
+ "images": [
+  "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/01.jpg",
+  "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/02.jpg",
+  "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/03.jpg",
+  "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/alt.txt",
+ "score_file": "posts/2026-11-12/idlyautomotive-1627-eicma-indian-bikes/score.json",
+ "title": "EICMA 2026 (Milan, Nov 2026): five new bikes from Royal Enfield, Hero MotoCorp and TVS and their India status: RE Continental GT 750 (743cc twin, twin exhausts; no power/price/India date), RE Himalayan 750 (55 hp, 63 Nm, UK £6,999; could debut in India at Motoverse late Nov per Autocar India), Hero Xpulse 450 (421cc liquid-cooled, 38 Nm, six-speed, 21-inch front; overseas first, India after per Hero), TVS Apache RTR 125 (14.7 hp, developed for Europe; India unconfirmed), Norton 450 Urban (TVS-owned; 454cc, 47 PS; no India date/price)",
+ "tags": [
+  "royalenfield"
+ ]
+}

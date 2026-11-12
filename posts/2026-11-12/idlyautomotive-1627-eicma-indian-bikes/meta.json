@@ -1,0 +1,175 @@
+{
+ "account": "idlyautomotive",
+ "title": "EICMA 2026 (Milan, Nov 2026): five new bikes from Royal Enfield, Hero MotoCorp and TVS and their India status: RE Continental GT 750 (743cc twin, twin exhausts; no power/price/India date), RE Himalayan 750 (55 hp, 63 Nm, UK £6,999; could debut in India at Motoverse late Nov per Autocar India), Hero Xpulse 450 (421cc liquid-cooled, 38 Nm, six-speed, 21-inch front; overseas first, India after per Hero), TVS Apache RTR 125 (14.7 hp, developed for Europe; India unconfirmed), Norton 450 Urban (TVS-owned; 454cc, 47 PS; no India date/price)",
+ "story_id": 2115,
+ "idly_article": true,
+ "no_idly_article_reason": null,
+ "format": "list",
+ "sources": [
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-05",
+   "url": "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268"
+  },
+  {
+   "outlet": "autoX",
+   "date": "2026-11-09",
+   "url": "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/"
+  },
+  {
+   "outlet": "Hero MotoCorp (EICMA 2026 page)",
+   "date": "2026-11",
+   "url": "https://www.heromotocorp.com/en-in/EICMA-2026.html"
+  },
+  {
+   "outlet": "Motorrad & Reisen",
+   "date": "2026-11-03",
+   "url": "https://www.motorradundreisen.de/motorraeder/royal-enfield-eicma-2026-himalayan-750-continental-gt-feiern-premiere/11841/"
+  },
+  {
+   "outlet": "CarToq",
+   "date": "2026-11",
+   "url": "https://www.cartoq.com/bike-news/royal-enfield-himalayan-750-hero-xpulse-421-eicma-2026/"
+  },
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11",
+   "url": "https://www.autocarindia.com/bike-news/norton-450-urban-revealed-441219"
+  },
+  {
+   "outlet": "Autocar Professional",
+   "date": "2026-11",
+   "url": "https://www.autocarpro.in/news/norton-unveils-450-urban-motorcycle-at-eicma-2026-135689"
+  },
+  {
+   "outlet": "Autocar Professional",
+   "date": "2026-11",
+   "url": "https://www.autocarpro.in/news/hero-motocorp-unveils-flagship-xpulse-450-and-harley-davidson-x350t-at-eicma-2026-135697"
+  },
+  {
+   "outlet": "GaadiWaadi",
+   "date": "2026-11",
+   "url": "https://gaadiwaadi.com/5-all-new-adventure-bikes-waiting-to-launch-from-indian-brands/"
+  },
+  {
+   "outlet": "idly.news 2115",
+   "date": "2026-11-12",
+   "url": "https://api.idly.news/api/v1/articles/2115/"
+  }
+ ],
+ "fact_sources": {
+  "RE, Hero, TVS (incl. TVS-owned Norton) showed these 5 at EICMA 2026": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://www.motorradundreisen.de/motorraeder/royal-enfield-eicma-2026-himalayan-750-continental-gt-feiern-premiere/11841/",
+   "https://www.autocarpro.in/news/norton-unveils-450-urban-motorcycle-at-eicma-2026-135689"
+  ],
+  "Continental GT 750: same 743cc twin as Himalayan 750": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://www.motorradundreisen.de/motorraeder/royal-enfield-eicma-2026-himalayan-750-continental-gt-feiern-premiere/11841/"
+  ],
+  "Continental GT 750 twin exhausts": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.royalenfield.com/content/dam/royal-enfield/banners-desktop/gt-750-desktop.jpg"
+  ],
+  "GT 750: no power figure, price or India date yet": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://www.motorradundreisen.de/motorraeder/royal-enfield-eicma-2026-himalayan-750-continental-gt-feiern-premiere/11841/"
+  ],
+  "Himalayan 750: 55 hp, 63 Nm": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/"
+  ],
+  "Himalayan 750 UK from £6,999": [
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://api.idly.news/api/v1/articles/2115/"
+  ],
+  "Himalayan 750 could debut in India at Motoverse, late Nov (Autocar India)": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.cartoq.com/bike-news/royal-enfield-himalayan-750-hero-xpulse-421-eicma-2026/"
+  ],
+  "Xpulse 450: 421cc liquid-cooled single, 38 Nm": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://www.heromotocorp.com/en-in/EICMA-2026.html"
+  ],
+  "Xpulse 450: six-speed gearbox, 21-inch front wheel": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.heromotocorp.com/en-in/EICMA-2026.html"
+  ],
+  "Xpulse 450 is Hero's flagship adventure bike": [
+   "https://www.autocarpro.in/news/hero-motocorp-unveils-flagship-xpulse-450-and-harley-davidson-x350t-at-eicma-2026-135697",
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268"
+  ],
+  "Xpulse 450 overseas first, India after (Hero)": [
+   "https://www.autocarindia.com/auto-features/india-bound-bikes-and-scooters-from-eicma-2026-441268",
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://api.idly.news/api/v1/articles/2115/"
+  ],
+  "Norton 450 Urban: 454cc, 47 PS; Norton is TVS-owned": [
+   "https://www.autocarindia.com/bike-news/norton-450-urban-revealed-441219",
+   "https://www.autocarpro.in/news/norton-unveils-450-urban-motorcycle-at-eicma-2026-135689"
+  ],
+  "Norton 450 Urban: no India date or price announced": [
+   "https://www.autocarindia.com/bike-news/norton-450-urban-revealed-441219",
+   "https://www.autocarpro.in/news/norton-unveils-450-urban-motorcycle-at-eicma-2026-135689"
+  ],
+  "Apache RTR 125: liquid-cooled 125cc, 14.7 hp, developed for Europe": [
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://api.idly.news/api/v1/articles/2115/"
+  ],
+  "TVS has not confirmed RTR 125 for India": [
+   "https://www.autox.com/news/bike-news/india-bound-bikes-and-scooters-showcased-at-eicma-2026-himalayan-750-xpulse-450-and-more-124991/",
+   "https://api.idly.news/api/v1/articles/2115/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.royalenfield.com/in/en/home/",
+  "file_url": "https://www.royalenfield.com/content/dam/royal-enfield/banners-desktop/gt-750-desktop.jpg",
+  "licence": "Royal Enfield official image (maker's website)",
+  "author": "Royal Enfield",
+  "width": 1470,
+  "height": 840,
+  "local": "_work/2026-11-12-hourly-1627/idlyautomotive/dl/re_gt-750-desktop.jpg",
+  "faces": 0,
+  "viewed": true,
+  "credit": "Image: Royal Enfield",
+  "subject": "Royal Enfield Continental GT 750 (homepage carousel slide titled CONTINENTAL GT 750; '750' on the fairing)"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "photo": "_work/2026-11-12-hourly-1627/idlyautomotive/frame-gt750/cover_source.png",
+  "focal": [
+   0.55,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 1.61,
+  "faces": 0,
+  "note": "enlarged and sharpened; zoom dropped 1.2 -> 1.0 at G3 FIX for sharpness"
+ },
+ "tags": [
+  "royalenfield"
+ ],
+ "tags_evidence": "royalenfield.com/in/en/home/ HTML links instagram.com/royalenfield (checked 12 Nov 16:37 IST); reviewer accepted at G3.",
+ "gates": {
+  "g1": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyautomotive-g1-v1.md",
+   "outcome": "BUILD (A)"
+  },
+  "g2": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyautomotive-g23-v1.md",
+   "outcome": "FIX applied (caption line 1, Motoverse attribution, slide 4 label/bullet)"
+  },
+  "g3": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyautomotive-g23-v1.md",
+   "outcome": "FIX applied (zoom 1.0, 1.61x total)"
+  },
+  "g4": {
+   "ruling": "_work/2026-11-12-hourly-1627/reviews/idlyautomotive-g4-v1.md",
+   "outcome": "PASS 12"
+  }
+ }
+}

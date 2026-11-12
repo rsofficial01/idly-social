@@ -1,0 +1,59 @@
+[
+ {
+  "acct": "idlyautomotive",
+  "slug": "idlyautomotive-1627-eicma-indian-bikes",
+  "date": "12 Nov 2026",
+  "sources": [
+   "Autocar India",
+   "autoX",
+   "GaadiWaadi",
+   "Hero MotoCorp"
+  ],
+  "slides": [
+   {
+    "type": "cover",
+    "headline": "5 EICMA 2026 Bikes From Indian Makers, And Their India Timing",
+    "photo": "_work/2026-11-12-hourly-1627/idlyautomotive/frame-gt750/cover_source.png",
+    "photo_credit": "Image: Royal Enfield",
+    "focal": [
+     0.55,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   {
+    "type": "detail",
+    "stat": "743cc",
+    "stat_label": "Royal Enfield's Two New 750 Twins",
+    "bullets": [
+     "Continental GT 750: café racer, twin exhausts",
+     "Himalayan 750: 55 hp, 63 Nm, UK £6,999",
+     "Himalayan could debut at Motoverse, says Autocar India"
+    ],
+    "credit_line": "Sources: Autocar India, autoX, CarToq"
+   },
+   {
+    "type": "detail",
+    "stat": "421cc",
+    "stat_label": "Hero Xpulse 450, Its Flagship Adventure Bike",
+    "bullets": [
+     "Liquid-cooled single, 38 Nm, six-speed gearbox",
+     "21-inch front wheel built for proper off-road",
+     "Overseas launch first; Hero says India follows"
+    ],
+    "credit_line": "Sources: Hero MotoCorp, Autocar India, autoX"
+   },
+   {
+    "type": "detail",
+    "stat": "454cc",
+    "stat_label": "TVS Group: Norton 450 Urban And Apache RTR 125",
+    "bullets": [
+     "Norton: 47 PS single; no India date or price yet",
+     "TVS Apache RTR 125: 14.7 hp, developed for Europe",
+     "TVS hasn't confirmed the RTR 125 for India"
+    ],
+    "credit_line": "Sources: Autocar India, Autocar Professional, autoX"
+   }
+  ]
+ }
+]

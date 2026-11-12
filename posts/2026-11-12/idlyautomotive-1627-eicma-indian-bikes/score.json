@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 1,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Per-check MIN of self and reviewer. Reviewer cut: read: self 2 / reviewer 1. Both scored hook 1 (a count on a dark cover). Gate 12/14 met exactly."
+}
