@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0027-shiny-xerneas-code",
+ "date": "13 Nov 2026",
+ "sources": [
+  "The Pokémon Company",
+  "VGC",
+  "Serebii",
+  "Dittobase"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Free Level 100 Shiny Xerneas in Pokémon Legends: Z-A Until 7 Jan",
+   "photo": "_work/2026-11-13-hourly-0027/idlynerd/frame3/cover_source.png",
+   "photo_credit": "Image: The Pokémon Company (press image)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "5 STEPS",
+   "stat_label": "How to Claim Shiny Xerneas in Z-A",
+   "bullets": [
+    "Main menu, Link Play, then Mystery Gift",
+    "Get with Code/Password, enter CELEBRATE30TH, save",
+    "Global code, so Indian players can claim it too"
+   ],
+   "credit_line": "Sources: The Pokémon Company, VGC, Serebii"
+  },
+  {
+   "type": "detail",
+   "stat": "10 DEC",
+   "stat_label": "Shiny Yveltal Is Next in Z-A",
+   "bullets": [
+    "Story Xerneas is shiny-locked, guides say",
+    "Yveltal gets its own code, not released yet"
+   ],
+   "credit_line": "Sources: The Pokémon Company, VGC, All Things How"
+  }
+ ]
+}

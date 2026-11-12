@@ -1,0 +1,127 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Shiny Xerneas code; built from The Pokémon Company's own announcement plus VGC, Serebii and Dittobase.",
+ "format": "news",
+ "title": "The Pokémon Company (12 Nov 2026): Pokémon Legends: Z-A players can claim a free Level 100 Shiny Xerneas with the password CELEBRATE30TH (Link Play > Mystery Gift > Get with Code/Password, then save) until Thu 7 Jan 2027; global code (Serebii); same password unlocks Pokémon Pokopia furniture; Shiny Yveltal follows from 10 Dec 2026, code not yet released.",
+ "sources": [
+  {
+   "outlet": "The Pokémon Company (pokemon.com news)",
+   "date": "2026-11-12",
+   "url": "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift"
+  },
+  {
+   "outlet": "The Pokémon Company (pokemon.com, French)",
+   "date": "2026-11-12",
+   "url": "https://www.pokemon.com/fr/actualites/obtenez-xerneas-chromatique-dans-legendes-pokemon-z-a-en-tant-que-cadeau-mystere"
+  },
+  {
+   "outlet": "VGC",
+   "date": "2026-11-12",
+   "url": "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/"
+  },
+  {
+   "outlet": "Serebii (Legends: Z-A serial codes)",
+   "date": "2026-11-12",
+   "url": "https://www.serebii.net/legendsz-a/serialcode.shtml"
+  },
+  {
+   "outlet": "Dittobase",
+   "date": "2026-11-12",
+   "url": "https://www.dittobase.com/legends-za/events/shiny-xerneas-mystery-gift"
+  },
+  {
+   "outlet": "Pokémon Blog",
+   "date": "2026-11-12",
+   "url": "https://pokemonblog.com/2026/11/12/pokemon-legends-z-a-mystery-gift-adds-shiny-xerneas-with-shiny-yveltal-coming-dec-10/"
+  },
+  {
+   "outlet": "PocketMonsters.net",
+   "date": "2026-11-12",
+   "url": "https://pocketmonsters.net/news/9716"
+  },
+  {
+   "outlet": "VGC (Xerneas guide)",
+   "date": "2025",
+   "url": "https://www.videogameschronicle.com/guide/pokemon-legends-z-a-xerneas-location/"
+  },
+  {
+   "outlet": "All Things How",
+   "date": "2025",
+   "url": "https://allthings.how/pokemon-legends-z-a-shiny-locks-starters-legendaries-and-gifts/"
+  },
+  {
+   "outlet": "Nintendo Everything (Xerneas guide)",
+   "date": "2025",
+   "url": "https://nintendoeverything.com/pokemon-legends-z-a-xerneas-location-guide/"
+  }
+ ],
+ "fact_sources": {
+  "Free Shiny Xerneas in Pokémon Legends: Z-A via Mystery Gift with password CELEBRATE30TH": [
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
+   "https://www.serebii.net/legendsz-a/serialcode.shtml",
+   "https://www.dittobase.com/legends-za/events/shiny-xerneas-mystery-gift"
+  ],
+  "Claim until Thursday 7 January 2027": [
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
+   "https://www.serebii.net/legendsz-a/serialcode.shtml",
+   "https://pokemonblog.com/2026/11/12/pokemon-legends-z-a-mystery-gift-adds-shiny-xerneas-with-shiny-yveltal-coming-dec-10/"
+  ],
+  "Steps: main menu > Link Play > Mystery Gift > Get with Code/Password > enter CELEBRATE30TH > save the game": [
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://pokemonblog.com/2026/11/12/pokemon-legends-z-a-mystery-gift-adds-shiny-xerneas-with-shiny-yveltal-coming-dec-10/",
+   "https://pocketmonsters.net/news/9716"
+  ],
+  "Code is global (Serebii: 'Global: November 12th 2026 - January 7th 2027'); same code on Pokémon's US and French pages": [
+   "https://www.serebii.net/legendsz-a/serialcode.shtml",
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://www.pokemon.com/fr/actualites/obtenez-xerneas-chromatique-dans-legendes-pokemon-z-a-en-tant-que-cadeau-mystere"
+  ],
+  "Same password unlocks furniture in Pokémon Pokopia": [
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
+   "https://pokemonblog.com/2026/11/12/pokemon-legends-z-a-mystery-gift-adds-shiny-xerneas-with-shiny-yveltal-coming-dec-10/"
+  ],
+  "Shiny Yveltal distribution starts 10 December 2026": [
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+   "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
+   "https://pokemonblog.com/2026/11/12/pokemon-legends-z-a-mystery-gift-adds-shiny-xerneas-with-shiny-yveltal-coming-dec-10/",
+   "https://pocketmonsters.net/news/9716"
+  ],
+  "Guides say the Xerneas met in Z-A's story can't be shiny (shiny-locked): VGC 'Unfortunately, Xerneas is Shiny Locked'; All Things How 'Locked ... Not obtainable as shiny through normal play at this time'; Nintendo Everything 'It's also Shiny locked'": [
+   "https://www.videogameschronicle.com/guide/pokemon-legends-z-a-xerneas-location/",
+   "https://allthings.how/pokemon-legends-z-a-shiny-locks-starters-legendaries-and-gifts/",
+   "https://nintendoeverything.com/pokemon-legends-z-a-xerneas-location-guide/"
+  ],
+  "Yveltal gets its own code, not released yet (VGC: 'will be shared closer to the time')": [
+   "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
+   "https://pocketmonsters.net/news/9716",
+   "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift"
+  ],
+  "Level 100; moves Geomancy, Moonblast, Focus Blast, Thunderbolt (Serebii, Dittobase; not on TPC's page)": [
+   "https://www.serebii.net/legendsz-a/serialcode.shtml",
+   "https://www.dittobase.com/legends-za/events/shiny-xerneas-mystery-gift"
+  ]
+ },
+ "image": {
+  "page": "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
+  "file_url": "https://mcdn.pokemon.com/image/upload/c_limit,w_3840/f_png/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/distributions/2026/xerneas/pokemon-legends-z-a-169-en.png",
+  "licence": "official press image: hero image of The Pokémon Company's own announcement, used for news about it, credited",
+  "author": "The Pokémon Company",
+  "width": 1920,
+  "height": 1080,
+  "faces": 0,
+  "viewed": true,
+  "subject": "Official art of Shiny Xerneas leaping through sparkles on a teal background (Z-A logo on the left half, outside the crop)",
+  "local": "_work/2026-11-13-hourly-0027/idlynerd/img/xerneas-169.png",
+  "processing": "crop x 973-1837 at full height (focal 0.7318, 0.5, zoom 1.0) via pipeline.framing cardkit_crop + render_input (1.25x Lanczos + light unsharp) -> _work/2026-11-13-hourly-0027/idlynerd/frame3/cover_source.png; logo-box saliency 0.27; both antler tips inside"
+ },
+ "tags": [
+  "pokemon"
+ ],
+ "tag_evidence": "@pokemon: instagram.com/pokemon linked from The Pokémon Company's own sites corporate.pokemon.com/en-us/ and legends.pokemon.com/en-us (checked 13 Nov 2026, 00:4x IST).",
+ "g2_note": "G2 FIX applied: Yveltal shiny-lock not confirmed by a 2nd fetched source (VGC Yveltal guide and Nintendo Everything don't say it; The Backdash 504; Game8 empty), so slide 3 bullet 1 is Xerneas only."
+}

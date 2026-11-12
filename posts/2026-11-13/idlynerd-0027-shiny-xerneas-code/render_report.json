@@ -1,0 +1,58 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Image: The Pok\u00e9mon Company (press image)",
+  "slug": "idlynerd-0027-shiny-xerneas-code",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynerd-0027-shiny-xerneas-code/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 236,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Pok\u00e9mon Company, VGC, Serebii",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0027-shiny-xerneas-code",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynerd-0027-shiny-xerneas-code/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Pok\u00e9mon Company, VGC, All Things How",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0027-shiny-xerneas-code",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynerd-0027-shiny-xerneas-code/03.jpg",
+  "scale": null
+ }
+]
