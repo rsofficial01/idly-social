@@ -1,0 +1,45 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0628-blue-flag-beaches",
+ "date": "12 Nov 2026",
+ "sources": [
+  "The Hindu",
+  "IANS",
+  "Foundation for Environmental Education"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "3 Konkan Beaches Win Blue Flag; Season Opens 15 Nov",
+   "photo": "_work/2026-11-12-hourly-0628/news/framing_shrivardhan/cover_source.png",
+   "photo_credit": "Photo: Saikrushna guntapelliwar / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "22",
+   "stat_label": "Indian Beaches Hold the Blue Flag This Season",
+   "bullets": [
+    "Ladghar, Guhagar (Ratnagiri) and Shrivardhan (Raigad) made the list",
+    "Among nine new beaches this year, the state says",
+    "13 renewed: a beach has to re-qualify every year"
+   ],
+   "credit_line": "Sources: The Hindu, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "2026-27",
+   "stat_label": "What Blue Flag Beaches Must Keep Up All Season",
+   "bullets": [
+    "Bathing water tested and the results displayed",
+    "Lifeguards or rescue equipment, plus first aid",
+    "Toilets, waste bins and recycling on the beach"
+   ],
+   "credit_line": "Sources: Foundation for Environmental Education, The Hindu, IANS"
+  }
+ ]
+}
