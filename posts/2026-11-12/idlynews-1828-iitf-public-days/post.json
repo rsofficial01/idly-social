@@ -1,0 +1,47 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1828-iitf-public-days",
+ "date": "12 Nov 2026",
+ "sources": [
+  "PIB",
+  "ITPO",
+  "Oneindia",
+  "Haribhoomi",
+  "Lalluram"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IITF Opens to Public 19 Nov: Adults ₹100, Seniors Free",
+   "photo": "_work/2026-11-12-hourly-1828/idlynews/frame-fountain/cover_source.png",
+   "photo_credit": "Photo: PIB, Government of India (GODL-India)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "27 NOV",
+   "stat_label": "Last Public Day at Bharat Mandapam, New Delhi",
+   "bullets": [
+    "Open 10 AM–7:30 PM; last entry 5:30 PM",
+    "Public entry via gates 3, 4, 6 and 10",
+    "14–18 Nov are business days, ₹500 for adults"
+   ],
+   "credit_line": "Sources: PIB, ITPO, Oneindia, Haribhoomi"
+  },
+  {
+   "type": "detail",
+   "stat": "₹200",
+   "stat_label": "Adult Weekend Ticket, Up From ₹150",
+   "bullets": [
+    "Children ₹50 on weekdays, ₹100 on weekends",
+    "Seniors, disabled visitors enter free with govt ID",
+    "Tickets online or at 55 Delhi Metro stations"
+   ],
+   "credit_line": "Sources: Oneindia, Haribhoomi, Lalluram, PIB"
+  }
+ ]
+}

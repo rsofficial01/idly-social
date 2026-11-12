@@ -1,0 +1,149 @@
+{
+ "account": "idlynews",
+ "title": "45th India International Trade Fair (ITPO), Bharat Mandapam, New Delhi: public days 19-27 Nov 2026 (business days 14-18 Nov, inauguration 13 Nov); adult ₹100 weekday / ₹200 weekend (from ₹80/₹150), child ₹50/₹100, business days ₹500; seniors and persons with disabilities free with govt ID; 10 AM-7:30 PM, last public entry 5:30 PM; gates 3, 4, 6, 10; tickets online and at 55 Delhi Metro stations",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on IITF 2026 in the API feed or candidates.json (checked 12 Nov 2026 ~18:45 IST)",
+ "format": "event",
+ "sources": [
+  {
+   "outlet": "PIB (Ministry of Commerce & Industry)",
+   "date": "12 Nov 2026 16:10 IST",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428"
+  },
+  {
+   "outlet": "ITPO IITF 2026 factsheet (Consulate General of India, Shanghai)",
+   "date": "2026",
+   "url": "https://www.cgishanghai.gov.in/pdf/IITF_2026_Factsheet_2.pdf"
+  },
+  {
+   "outlet": "Oneindia Hindi",
+   "date": "5 Nov 2026 14:25 IST",
+   "url": "https://hindi.oneindia.com/news/india/45th-india-international-trade-fair-bharat-mandapam-ticket-price-hike-entry-dates-1679009.html"
+  },
+  {
+   "outlet": "Haribhoomi",
+   "date": "5 Nov 2026 17:02 IST",
+   "url": "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841"
+  },
+  {
+   "outlet": "Lalluram",
+   "date": "6 Nov 2026 14:23 IST",
+   "url": "https://lalluram.com/a-blow-for-delhi-trade-fair-enthusiasts-ticket-prices-have-gone-up-which-will-hit-the-pockets-of-general-visitors/"
+  },
+  {
+   "outlet": "Oneindia",
+   "date": "29 Oct 2026 19:02 IST",
+   "url": "https://www.oneindia.com/india/iitf-2026-india-international-trade-fair-bharat-mandapam-012-8245263.html"
+  },
+  {
+   "outlet": "Angel One (2025 fair prices)",
+   "date": "Nov 2025",
+   "url": "https://www.angelone.in/news/personal-finance/delhi-trade-fair-2025-now-open-to-public-dates-tickets-timings-and-entry-guide"
+  },
+  {
+   "outlet": "DD India (headline via Google News: 'ticket price raised to Rs 100 for general public')",
+   "date": "12 Nov 2026",
+   "url": "https://ddindia.co.in"
+  },
+  {
+   "outlet": "Millennium Post (headline via Google News: 'Senior citizens, persons with disabilities get free IITF entry')",
+   "date": "11 Nov 2026",
+   "url": "https://www.millenniumpost.in"
+  }
+ ],
+ "fact_sources": {
+  "45th IITF by ITPO at Bharat Mandapam; public 19-27 Nov; business days 14-18 Nov": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.cgishanghai.gov.in/pdf/IITF_2026_Factsheet_2.pdf",
+   "https://www.oneindia.com/india/iitf-2026-india-international-trade-fair-bharat-mandapam-012-8245263.html",
+   "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841",
+   "https://lalluram.com/a-blow-for-delhi-trade-fair-enthusiasts-ticket-prices-have-gone-up-which-will-hit-the-pockets-of-general-visitors/"
+  ],
+  "Formal inauguration 13 Nov": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.oneindia.com/india/iitf-2026-india-international-trade-fair-bharat-mandapam-012-8245263.html",
+   "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841",
+   "https://lalluram.com/a-blow-for-delhi-trade-fair-enthusiasts-ticket-prices-have-gone-up-which-will-hit-the-pockets-of-general-visitors/"
+  ],
+  "Adult ₹100 weekday (₹80 before), ₹200 weekend (₹150 before); business days ₹500; ITPO committee 28 Oct; ED Premjit Lal: round figures, not revenue": [
+   "https://hindi.oneindia.com/news/india/45th-india-international-trade-fair-bharat-mandapam-ticket-price-hike-entry-dates-1679009.html",
+   "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841",
+   "https://lalluram.com/a-blow-for-delhi-trade-fair-enthusiasts-ticket-prices-have-gone-up-which-will-hit-the-pockets-of-general-visitors/"
+  ],
+  "Child ₹50 weekday, ₹100 weekend": [
+   "https://hindi.oneindia.com/news/india/45th-india-international-trade-fair-bharat-mandapam-ticket-price-hike-entry-dates-1679009.html",
+   "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841"
+  ],
+  "2025 prices ₹80/₹150": [
+   "https://www.angelone.in/news/personal-finance/delhi-trade-fair-2025-now-open-to-public-dates-tickets-timings-and-entry-guide",
+   "https://hindi.oneindia.com/news/india/45th-india-international-trade-fair-bharat-mandapam-ticket-price-hike-entry-dates-1679009.html",
+   "https://www.haribhoomi.com/state-local/delhi/news/delhi-bharat-mandapam-india-international-trade-fair-new-ticket-prices-announced-120841"
+  ],
+  "Timings 10 AM-7:30 PM, public entry till 5:30 PM": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.cgishanghai.gov.in/pdf/IITF_2026_Factsheet_2.pdf"
+  ],
+  "Public gates 3, 4 (Bhairon Road), 6, 10 (Mathura Road)": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.cgishanghai.gov.in/pdf/IITF_2026_Factsheet_2.pdf"
+  ],
+  "Seniors and persons with disabilities free on general days with govt ID": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.cgishanghai.gov.in/pdf/IITF_2026_Factsheet_2.pdf"
+  ],
+  "Tickets online and at 55 Delhi Metro stations": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://hindi.oneindia.com/news/india/45th-india-international-trade-fair-bharat-mandapam-ticket-price-hike-entry-dates-1679009.html"
+  ],
+  "3,500+ exhibitors": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.oneindia.com/india/iitf-2026-india-international-trade-fair-bharat-mandapam-012-8245263.html"
+  ],
+  "Partner states Bihar, Maharashtra, Rajasthan, UP; focus states Assam, Delhi, Jharkhand, West Bengal; theme Vikas aur Virasat": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335428",
+   "https://www.oneindia.com/india/iitf-2026-india-international-trade-fair-bharat-mandapam-012-8245263.html"
+  ]
+ },
+ "fact_notes": "The ITPO factsheet PDF still lists the pre-revision rates (₹80/₹150/₹40/₹60); Oneindia, Haribhoomi and Lalluram report ITPO's 28 Oct revision to ₹100/₹200/₹50/₹100, and DD India reported ₹100 on 12 Nov. Disclosed to the reviewer at Gate 2+3.",
+ "photo_source": {
+  "page": "https://x.com/PIB_India/status/1682981390030360576",
+  "file_url": "https://pbs.twimg.com/media/F1smNCFaEAEk0sc.jpg?name=orig",
+  "licence": "Government of India (Press Information Bureau) photo, GODL-India; PIB's official post of 23 Jul 2023 on the redeveloped ITPO complex. The same PIB post set is recorded on Commons as GODL-India (File:Bharat_Mandapam.jpg, sources PIB_India/status/1682980662087946241 and /1682981390030360576)",
+  "licence_record": "https://commons.wikimedia.org/wiki/File:Bharat_Mandapam.jpg",
+  "author": "Press Information Bureau, Government of India",
+  "width": 1280,
+  "height": 854,
+  "faces": 0,
+  "viewed": true,
+  "people_checked_at_2x": true,
+  "credit": "Photo: PIB, Government of India (GODL-India)",
+  "subject": "Bharat Mandapam convention centre (IITF venue), Pragati Maidan, New Delhi, at dusk with the fountain pool; released by PIB on 23 Jul 2023 before the complex opened; no people, no event branding"
+ },
+ "framing": {
+  "tool": "python3 -m pipeline.framing",
+  "photo": "_work/2026-11-12-hourly-1828/idlynews/frame-fountain/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 1.58,
+  "faces": 0,
+  "note": "enlarged and sharpened"
+ },
+ "tags": [],
+ "tags_evidence": "none: no official PIB / Ministry of Culture Instagram handle confirmed on their own sites in-session",
+ "gates": {
+  "g1": "_work/2026-11-12-hourly-1828/reviews/idlynews-g1-v1.md",
+  "g2": "_work/2026-11-12-hourly-1828/reviews/idlynews-g23-v2.md",
+  "g3": "_work/2026-11-12-hourly-1828/reviews/idlynews-g23-v2.md",
+  "g23_history": [
+   "_work/2026-11-12-hourly-1828/reviews/idlynews-g23-v1.md (FIX: photo had distant staff; 2 word fixes)",
+   "_work/2026-11-12-hourly-1828/reviews/idlynews-g23-v2.md (PASS)"
+  ],
+  "g4": "_work/2026-11-12-hourly-1828/reviews/idlynews-g4-v1.md",
+  "g4_score": "_work/2026-11-12-hourly-1828/reviews/idlynews-g4-v1.score.json"
+ },
+ "photo_rejected": "PIB 138100/138101 (G20 glimpse, Sep 2023): distant staff in frame; reviewer FIX at g23-v1"
+}

@@ -1,0 +1,15 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-12/idlynews-1828-iitf-public-days/01.jpg",
+  "posts/2026-11-12/idlynews-1828-iitf-public-days/02.jpg",
+  "posts/2026-11-12/idlynews-1828-iitf-public-days/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-12/idlynews-1828-iitf-public-days/caption.txt",
+ "alt_text_file": "posts/2026-11-12/idlynews-1828-iitf-public-days/alt.txt",
+ "score_file": "posts/2026-11-12/idlynews-1828-iitf-public-days/score.json",
+ "title": "IITF 2026 at Bharat Mandapam: public days 19-27 Nov, adult ₹100 weekday / ₹200 weekend, seniors and disabled visitors free (ITPO, PIB 12 Nov 2026)",
+ "tags": []
+}
