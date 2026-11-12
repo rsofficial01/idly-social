@@ -1,0 +1,16 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/01.jpg",
+  "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/02.jpg",
+  "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/03.jpg",
+  "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/04.jpg"
+ ],
+ "caption_file": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/caption.txt",
+ "alt_text_file": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/alt.txt",
+ "score_file": "posts/2026-11-13/idlynews-0127-lok-sabha-850-special-session/score.json",
+ "title": "Centre plans special session for a second try at the Lok Sabha expansion bill (543 to up to 850 seats)",
+ "tags": []
+}

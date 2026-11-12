@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Per-check MIN of self (13) and reviewer G4 (13). Weak: keep 1 | Reviewer: Reviewer G4 (blind). keep 1: the only date is 'end of 2026' and IBM gives no headcount, so there is little to save or act on. hook 2 is earned by a clear, plainly stated stake for Indian H-1B families, not by the picture: there is no number on the cover, and the 2007 photo of the HQ sign is stained and plain. Every other check is strong: tight, attributed copy (the options line credited to an internal document seen by Bloomberg; IBM's own reason quoted; no fee claims); a real forward reason for families with someone on a US work visa; a genuine own-life question; idly's own synthesis with the CC BY-SA photo credited; each slide stands alone. What I checked: 01-03 screened faces=0, then opened at full size. No overlap or touching; one left edge (hanging markers); white headline (3 lines, top y 980) and white labels; vertical credit readable, 21 px clear of headline line 2 (tight, not touching); logo legible over the trees; IBM lettering whole; no empty band; no box or blur; no enlargement (0.938); Sources lines clean. All three G2+3 FIXes landed word for word: the question 'Who in your family has worked in the US on a visa, and did they stay or come back?'; slide 2 'Sources: Bloomberg (internal IBM document), The Week, Deccan Herald'; caption Sources line now includes Deccan Herald. captioncheck: errors [], 1 '?'; the TN baseline warning is a false match on 'petitions'. Facts verified at G2: Al Jazeera, Bloomberg/The Edge, Deccan Herald, The Week (1,611 in its IBM section), USCIS FY2023 + CRS for 72%. | Self: Hook 2: the cover states a plain stake for Indian H-1B families, though there is no number and the photo is weak. Keep 1: the only date is end-2026. Reply 2: after FIX 1, the question is answered from readers' own family lives. All 3 Gate 2 FIXes were applied word for word; re-rendered; faces 0 on all slides; captioncheck errors []."
+}
