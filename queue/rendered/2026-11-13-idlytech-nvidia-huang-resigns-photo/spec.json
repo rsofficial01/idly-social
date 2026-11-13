@@ -1,0 +1,82 @@
+{
+  "account": "idlytech",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Jensen Huang resigns as Nvidia CEO; Kress interim CEO; stock closes 4.3% lower; results 18 Nov IST (photo cover)",
+  "headline": "Jensen Huang Resigns as Nvidia CEO After 33 Years. What Next? →",
+  "caption": "Nvidia is looking for a new CEO for the first time in its history. Jensen Huang resigned as president, CEO and board member on Thursday, 12 November, effective immediately. He co-founded the company in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock fell as much as 14% in early New York trade, to $148.80, and closed the day 4.3% lower, with Nvidia's market value ending just above $4 trillion. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track.\n\nQuarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, ABC News, Yahoo Finance, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech",
+  "alt_text": "Jensen Huang on stage at an Nvidia keynote, with the headline on the card. Following slides: Colette Kress is interim CEO; Nvidia closed 4.3% lower on 12 November; results due 18 November IST.",
+  "sources": [
+    "Nvidia",
+    "CNBC",
+    "ABC News",
+    "Yahoo Finance",
+    "CNN"
+  ],
+  "detail_slides": [
+    {
+      "stat": "INTERIM CEO",
+      "stat_label": "Colette Kress Steps In After Jensen Huang's Exit",
+      "bullets": [
+        "She keeps her CFO role until a permanent CEO is named",
+        "Kress has been Nvidia's CFO since September 2013",
+        "Harvey C. Jones becomes Nvidia's first-ever board chair",
+        "Board will weigh internal and external candidates for CEO"
+      ]
+    },
+    {
+      "stat": "4.3%",
+      "stat_label": "Nvidia's Fall on 12 Nov, the Day Huang Resigned",
+      "bullets": [
+        "It fell as much as 14% early, to a low of $148.80",
+        "Wednesday's close was $173.73",
+        "Market value ended the day just above $4 trillion",
+        "Nvidia is just over 6% of the S&P 500, which some Indian funds track"
+      ]
+    },
+    {
+      "stat": "18 NOV",
+      "stat_label": "Nvidia's Results Are Next. What It Has Not Said",
+      "bullets": [
+        "Results at about 2:50 AM IST; investor call at 3:30 AM IST",
+        "Nvidia's release gives no reason for Huang's exit and no statement from him",
+        "On 8 Nov, the board said it was probing reports that he was a foreign-intelligence target"
+      ]
+    }
+  ],
+  "story": false,
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://blogs.nvidia.com/blog/2026-ces-special-presentation"
+      }
+    ]
+  },
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "Re-issue with Huang's photo. The 12 Nov attempt never reached Instagram: the publisher's duplicate guard matched the HQ-cover post's caption and marked it posted. New caption opening, market figures updated to the close."
+    }
+  },
+  "created_at": "2026-11-13T09:41:05+05:30",
+  "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+  "caption_final": "Nvidia is looking for a new CEO for the first time in its history. Jensen Huang resigned as president, CEO and board member on Thursday, 12 November, effective immediately. He co-founded the company in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock fell as much as 14% in early New York trade, to $148.80, and closed the day 4.3% lower, with Nvidia's market value ending just above $4 trillion. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track.\n\nQuarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, ABC News, Yahoo Finance, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech\n\nImage: NVIDIA",
+  "image_credit": "Image: NVIDIA",
+  "lane": {
+    "spec_sha256": "f72d5467830bd219c958d076ac0b27e7a30034091099508e70fe0c2975920250",
+    "rendered_at": "2026-11-13T04:11:42+00:00",
+    "resolver": "og_image_official",
+    "source_url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-blog-1920x1080-DEB35146.jpeg"
+  }
+}

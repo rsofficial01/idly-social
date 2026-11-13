@@ -1,0 +1,185 @@
+{
+  "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+  "account": "idlytech",
+  "rendered_at": "2026-11-13T04:11:42+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "source_url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-blog-1920x1080-DEB35146.jpeg",
+    "credit": "Image: NVIDIA",
+    "organisation": "NVIDIA",
+    "image_size": [
+      1921,
+      1082
+    ],
+    "log": [
+      "page https://blogs.nvidia.com/blog/gtc-2026-news/ (NVIDIA): og:title 'NVIDIA GTC 2026: Live Updates on What’s Next in AI', 1 image(s)",
+      "image https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-blog-1920x1080-DEB35146.jpeg (1921x1082)"
+    ],
+    "og_title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI"
+  },
+  "faces": [
+    [
+      923.9,
+      133.7,
+      142.4,
+      176.6,
+      0.927
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.518,
+      0.3676
+    ],
+    "zoom": 1.36,
+    "upscale": 1.698,
+    "crop": [
+      677.0,
+      0.0,
+      636.0,
+      796.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        390,
+        191,
+        690,
+        562
+      ]
+    ],
+    "logo_saliency": 1.69,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        923.9,
+        133.7,
+        142.4,
+        176.6,
+        0.927
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.698,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 12 known items, 9 needing care (frbm-3pc: single_source, governor-assent-12-of-13-bills-2026: single_source, a-amalraj: single_source, a-arun: single_source, a-karthik: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: NVIDIA",
+      "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN",
+      "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN",
+      "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: NVIDIA",
+      "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 128,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 260,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Nvidia, CNBC, ABC News, Yahoo Finance, CNN",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlytech-nvidia-huang-resigns-photo",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Nvidia is looking for a new CEO for the first time in its history. Jensen Huang resigned as president, CEO and board member on Thursday, 12 November, effective immediately. He co-founded the company in 1993 and led it for 33 years.\n\nChief financial officer Colette Kress is now interim CEO and keeps the CFO job. Harvey C. Jones becomes the first board chair in Nvidia's history, and the board will consider internal and external candidates for a permanent CEO.\n\nNvidia's announcement gives no reason and carries no statement from Huang. Earlier, on 8 November, the board had said independent directors were investigating reports that he was the target of a foreign intelligence effort.\n\nThe stock fell as much as 14% in early New York trade, to $148.80, and closed the day 4.3% lower, with Nvidia's market value ending just above $4 trillion. Nvidia makes up just over 6% of the S&P 500, an index that some Indian funds track.\n\nQuarterly results are still due on 17 November US time: about 2:50 AM IST on 18 November, with the investor call at 3:30 AM IST.\n\nWho should run Nvidia next: an insider or an outsider?\n\nSources: Nvidia (announcement and SEC filing), CNBC, ABC News, Yahoo Finance, CNN\n\n#Nvidia #NVDA #JensenHuang #Semiconductors #idlytech\n\nImage: NVIDIA",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
