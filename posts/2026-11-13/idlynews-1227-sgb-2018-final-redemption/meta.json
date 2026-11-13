@@ -1,0 +1,127 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the SGB 2018-19 Series III final redemption in candidates.json (run 1227, checked 13 Nov 2026 ~12:40 IST)",
+ "format": "news",
+ "title": "Sovereign Gold Bond 2018-19 Series III (issued 13 Nov 2018 at ₹3,183 a gram, ₹3,133 online) is due for final redemption on 13 Nov 2026 at ₹14,024 a unit (RBI press release 2026-2027/1486 of 12 Nov 2026; IBJA 999 average of 10-12 Nov): a price gain of about 341% (348% at the online price) by idly's calculation, plus 2.5% a year interest (about ₹637 a gram); the 13 May 2026 early-exit price was ₹15,102 (RBI 2026-2027/246); since 1 Apr 2026 the maturity capital-gains exemption is limited to individuals who subscribed at issue and held to maturity (Business Today, Outlook Money).",
+ "sources": [
+  {
+   "outlet": "Reserve Bank of India (press release 2026-2027/1486, final redemption price)",
+   "date": "12 Nov 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964"
+  },
+  {
+   "outlet": "Reserve Bank of India (press release 2026-2027/246, premature redemption price for 13 May 2026)",
+   "date": "12 May 2026",
+   "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62724"
+  },
+  {
+   "outlet": "Reserve Bank of India (SGB 2018-19 Series III issue price)",
+   "date": "2 Nov 2018",
+   "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=45399"
+  },
+  {
+   "outlet": "Reserve Bank of India (SGB FAQs)",
+   "date": "current",
+   "url": "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=1658"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2 Feb 2026",
+   "url": "https://www.businesstoday.in/personal-finance/investment/story/up-to-39-tax-on-sgb-gains-investors-face-up-tough-tax-trap-after-budget-2026-clarifies-exemption-rules-514178-2026-02-02"
+  },
+  {
+   "outlet": "Outlook Money",
+   "date": "1 Feb 2026 (updated 2 Feb)",
+   "url": "https://www.outlookmoney.com/tax/budget-2026-tax-exemption-on-sovereign-gold-bonds-only-for-individual-investors"
+  },
+  {
+   "outlet": "Angel One",
+   "date": "13 May 2026",
+   "url": "https://www.angelone.in/news/market-updates/sgb-2018-19-series-iii-delivers-382-return-ahead-of-may-13-2026-redemption"
+  },
+  {
+   "outlet": "Upstox",
+   "date": "23 Oct 2026",
+   "url": "https://upstox.com/news/personal-finance/latest-updates/final-sgb-redemption-today-sgb-2018-19-series-2-delivers-358-per-cent-returns-new-income-tax-rules-may-affect-your-gains/article-202284/"
+  },
+  {
+   "outlet": "Livemint, Moneycontrol, The Economic Times (headlines seen via Google News RSS; direct URLs not openable by our tools)",
+   "date": "12-13 Nov 2026",
+   "url": "https://news.google.com/rss/search?q=SGB+2018-19+Series+III+14024+when:3d&hl=en-IN&gl=IN&ceid=IN:en"
+  }
+ ],
+ "fact_sources": {
+  "Final redemption price ₹14,024 a unit, due 13 Nov 2026; simple average of IBJA 999 closing prices of 10, 11, 12 Nov 2026": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+   "https://bestcurrentaffairs.com/final-redemption-under-sovereign-gold-bond-sgb-scheme-redemption-price-for-final-redemption-of-sgb-2018-19-series-iii-due-on-november-13-2026/",
+   "https://indianopinion.org/sgb-2018-19-series-iii-final-redemption-price-set-at-rs14-024/",
+   "https://econotimes.com/RBI-Sets-14-024-Final-Redemption-Price-for-2018-19-Series-III-Gold-Bonds-1776152"
+  ],
+  "Series issued 13 Nov 2018; 8-year tenor": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+   "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=1658",
+   "https://www.angelone.in/news/market-updates/sgb-2018-19-series-iii-delivers-382-return-ahead-of-may-13-2026-redemption"
+  ],
+  "Issue price ₹3,183 a gram; ₹3,133 for online applicants paying digitally": [
+   "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=45399",
+   "https://www.angelone.in/news/market-updates/sgb-2018-19-series-iii-delivers-382-return-ahead-of-may-13-2026-redemption"
+  ],
+  "One unit is one gram of gold": [
+   "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=1658",
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+   "https://econotimes.com/RBI-Sets-14-024-Final-Redemption-Price-for-2018-19-Series-III-Gold-Bonds-1776152"
+  ],
+  "Interest 2.5% a year on initial investment, paid half-yearly; last interest paid at maturity with the principal, into the investor's bank account": [
+   "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=1658",
+   "https://indianopinion.org/sgb-2018-19-series-iii-final-redemption-price-set-at-rs14-024/",
+   "https://econotimes.com/RBI-Sets-14-024-Final-Redemption-Price-for-2018-19-Series-III-Gold-Bonds-1776152"
+  ],
+  "Premature redemption price for 13 May 2026: ₹15,102 a unit": [
+   "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62724",
+   "https://m.rbi.org.in/scripts/BS_SwarnaBharat.aspx",
+   "https://www.angelone.in/news/market-updates/sgb-2018-19-series-iii-delivers-382-return-ahead-of-may-13-2026-redemption"
+  ],
+  "From 1 Apr 2026 the redemption capital-gains exemption applies only to individuals who subscribed at original issue and held to maturity; secondary-market buyers are taxed": [
+   "https://www.businesstoday.in/personal-finance/investment/story/up-to-39-tax-on-sgb-gains-investors-face-up-tough-tax-trap-after-budget-2026-clarifies-exemption-rules-514178-2026-02-02",
+   "https://www.outlookmoney.com/tax/budget-2026-tax-exemption-on-sovereign-gold-bonds-only-for-individual-investors",
+   "https://upstox.com/news/personal-finance/latest-updates/final-sgb-redemption-today-sgb-2018-19-series-2-delivers-358-per-cent-returns-new-income-tax-rules-may-affect-your-gains/article-202284/"
+  ],
+  "idly calculations: (14,024-3,183)/3,183 = 340.6% (about 341%); (14,024-3,133)/3,133 = 347.6% (about 348%); 3,183 x 2.5% x 8 = ₹636.60 (about ₹637); 15,102-14,024 = ₹1,078": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+   "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=45399",
+   "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62724",
+   "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=1658"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "none: Wikimedia Commons user photo, not an official brand/owner image; no owner handle to tag",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_Of_India_-_RBI_Mumbai.jpg",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Bank_Of_India_-_RBI_Mumbai.jpg/1920px-Reserve_Bank_Of_India_-_RBI_Mumbai.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Anurag Vijay 03",
+  "viewed": true,
+  "faces": 0,
+  "size": "1920x1440 (Commons 1920 px thumbnail; original 4608x3456)",
+  "credit": "Photo: Anurag Vijay 03 / Wikimedia Commons, CC BY-SA 4.0, cropped",
+  "date_taken": "26 Feb 2020",
+  "subject": "The Reserve Bank of India's stone building in Mumbai (Commons: 'Reserve Bank of India in Mumbai'), street view: two tall columns framing a dark glass portico with the RBI emblem and 'Reserve Bank of India' lettering, Devanagari sign 'भारतीय रिज़र्व बैंक मुंबई'; trees, fence, cars and small distant pedestrians (0 faces detected) at street level under the headline block; no watermark",
+  "local": "_work/2026-11-13-hourly-1227/idlynews/rbi_main/rbi_1.jpg",
+  "facecheck": "OK 0 faces 1920x1440 (run by main and again by the desk before viewing; render re-check OK 0 faces)"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "photo": "_work/2026-11-13-hourly-1227/idlynews/frame_sgb/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.94,
+  "faces": 0,
+  "render_scale": 0.938,
+  "headline": "100px x 3 lines, top 950"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1227-sgb-2018-final-redemption",
+ "date": "13 Nov 2026",
+ "sources": [
+  "RBI",
+  "Business Today",
+  "Outlook Money"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "2018 Gold Bond Bought at ₹3,183 Pays ₹14,024 Today",
+   "photo": "_work/2026-11-13-hourly-1227/idlynews/frame_sgb/cover_source.png",
+   "photo_credit": "Photo: Anurag Vijay 03 / Wikimedia Commons, CC BY-SA 4.0, cropped",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "341%",
+   "stat_label": "SGB 2018-19 Series III Price Gain, idly's Maths",
+   "bullets": [
+    "(14,024 − 3,183) ÷ 3,183, before any interest",
+    "Online buyers paid ₹3,133: a 348% gain for them",
+    "Plus 2.5% a year, half-yearly: about ₹637 a gram"
+   ],
+   "credit_line": "Source: RBI prices; percentages are idly's calculation"
+  },
+  {
+   "type": "detail",
+   "stat": "₹15,102",
+   "stat_label": "SGB 2018-19 Series III Early-Exit Price, May 2026",
+   "bullets": [
+    "RBI's 13 May 2026 premature-redemption price",
+    "Holding to maturity paid ₹1,078 a gram less",
+    "Today's price: IBJA 999 gold average, 10-12 Nov"
+   ],
+   "credit_line": "Source: RBI press releases of 12 May and 12 Nov 2026"
+  },
+  {
+   "type": "detail",
+   "stat": "1 APR 2026",
+   "stat_label": "SGB Maturity Tax Exemption Narrowed From This Date",
+   "bullets": [
+    "Tax-free: individuals who subscribed at issue, held to maturity",
+    "Bought on the stock exchange: capital-gains tax applies",
+    "Payout and final interest go to your registered bank"
+   ],
+   "credit_line": "Sources: Business Today, Outlook Money (Finance Act 2026); RBI"
+  }
+ ]
+}

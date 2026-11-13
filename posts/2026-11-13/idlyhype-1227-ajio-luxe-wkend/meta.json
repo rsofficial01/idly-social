@@ -1,0 +1,112 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "event",
+ "title": "Ajio Luxe Wkend's sixth edition (presented by Ajio Luxe, organised by The Magnanimous Group) runs Fri 13 to Sun 15 Nov 2026 at Jio World Garden, Bandra Kurla Complex, Mumbai: 250+ brands in 14 categories incl. a homegrown section, runway shows and live music; tickets from ₹1,000 (District), Friday gates around 5 pm per District, tickets needed for ages 6+",
+ "sources": [
+  {
+   "outlet": "District (event listing)",
+   "date": "2026-11-13",
+   "url": "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets"
+  },
+  {
+   "outlet": "Indian Television",
+   "date": "2026-11-12",
+   "url": "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/"
+  },
+  {
+   "outlet": "AltBollywood",
+   "date": "2026-10-30",
+   "url": "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  },
+  {
+   "outlet": "MyEventsNow (event listing)",
+   "date": "2026-11-13",
+   "url": "https://myeventsnow.in/events/ajio-luxe-wkend"
+  },
+  {
+   "outlet": "EventFAQs",
+   "date": "2025-01-13",
+   "url": "https://in.eventfaqs.com/2025/01/13/ajio-luxe-wkend-2025-elevates-indian-luxury-with-a-landmark-fifth-edition/"
+  }
+ ],
+ "fact_sources": {
+  "Fri 13 to Sun 15 Nov 2026 at Jio World Garden, Bandra Kurla Complex, Mumbai": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ],
+  "Sixth edition (Jan 2025 edition was the fifth)": [
+   "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/",
+   "https://in.eventfaqs.com/2025/01/13/ajio-luxe-wkend-2025-elevates-indian-luxury-with-a-landmark-fifth-edition/"
+  ],
+  "More than 250 brands": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup",
+   "https://myeventsnow.in/events/ajio-luxe-wkend"
+  ],
+  "14 categories": [
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup",
+   "https://myeventsnow.in/events/ajio-luxe-wkend"
+  ],
+  "Categories include fashion, beauty, watches, jewellery, art, home design and cars": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/"
+  ],
+  "Homegrown section for Indian labels": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ],
+  "Runway shows and live music across the weekend": [
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup",
+   "https://myeventsnow.in/events/ajio-luxe-wkend",
+   "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/"
+  ],
+  "Tickets start at ₹1,000": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ],
+  "Friday gates open around 5 pm (District: 4:59 PM; AltBollywood: around 5pm)": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ],
+  "Tickets required for everyone aged six and above": [
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ],
+  "Presented by Ajio Luxe, organised/produced by The Magnanimous Group": [
+   "https://indiantelevision.com/mam/ajio-luxe-wkend-returns-with-expanded-luxury-showcase-across-fashion-art-and-culture/",
+   "https://www.district.in/events/ajio-luxe-wkend-2026-buy-tickets",
+   "https://www.altbollywood.com/post/ajio-luxe-wkend-2026-jio-world-garden-tickets-lineup"
+  ]
+ },
+ "tags": [
+  "jioworldcentre"
+ ],
+ "tag_evidence": "Cover image is Jio World Centre's own official venue photo (hero banner of its /jwc/jio-world-garden page). Jio World Centre's own site links https://www.instagram.com/jioworldcentre/ as its Instagram: 'Instagram' header button in the site-header CMS data https://www.jioworldcentre.com/cms-api/site-headers?filters[sitename][$eq]=JWC and in the homepage HTML https://www.jioworldcentre.com/ (checked 13 Nov 2026). Reviewer confirmed at Gate 2+3.",
+ "photo_source": {
+  "page": "https://www.jioworldcentre.com/jio-world-garden/",
+  "image_url": "https://www.jioworldcentre.com/assets/jwc/JWGWebsiteImage_1920x857new.webp",
+  "licence": "Jio World Centre's own official venue image (venue owner's media, hero banner of its Jio World Garden page); editorial use, credited",
+  "author": "Jio World Centre",
+  "viewed": true,
+  "faces": 0,
+  "size": "4000x1831",
+  "credit": "Image: Jio World Centre",
+  "subject": "Jio World Garden venue, empty lawn and white canopy pavilion with BKC towers behind (the venue, not this weekend's set-up); no watermark; distant figures not identifiable",
+  "local": "_work/2026-11-13-hourly-1227/idlyhype/dl/JWGWebsiteImage_1920x857new.jpg",
+  "facecheck": "OK 0 faces 4000x1831 (source and framed cover_source.png)"
+ },
+ "framing": {
+  "photo": "_work/2026-11-13-hourly-1227/idlyhype/frame_jwg/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.74,
+  "faces": 0,
+  "ok": true
+ }
+}

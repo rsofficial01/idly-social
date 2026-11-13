@@ -1,0 +1,45 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1227-ajio-luxe-wkend",
+ "date": "13 Nov 2026",
+ "sources": [
+  "District",
+  "Indian Television",
+  "AltBollywood"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Ajio Luxe Wkend Opens in Mumbai Today, Tickets From ₹1,000",
+   "photo": "_work/2026-11-13-hourly-1227/idlyhype/frame_jwg/cover_source.png",
+   "photo_credit": "Image: Jio World Centre",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "13-15 NOV",
+   "stat_label": "Ajio Luxe Wkend's Sixth Edition Runs Three Days",
+   "bullets": [
+    "Venue: Jio World Garden, Bandra Kurla Complex",
+    "Friday's gates open around 5 pm, per District",
+    "Everyone aged six and above needs a ticket"
+   ],
+   "credit_line": "Sources: District, Indian Television, AltBollywood"
+  },
+  {
+   "type": "detail",
+   "stat": "250+",
+   "stat_label": "Brands in 14 Categories at Ajio Luxe Wkend",
+   "bullets": [
+    "Beauty, watches, jewellery, art, home design and cars",
+    "A homegrown section puts Indian labels beside global ones",
+    "Runway shows and live music sets across the weekend"
+   ],
+   "credit_line": "Sources: AltBollywood, MyEventsNow, District"
+  }
+ ]
+}

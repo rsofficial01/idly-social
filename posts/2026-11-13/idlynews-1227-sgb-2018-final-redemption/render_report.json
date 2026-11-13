@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Anurag Vijay 03 / Wikimedia Commons, CC BY-SA 4.0, cropped",
+  "slug": "idlynews-1227-sgb-2018-final-redemption",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/01.jpg",
+  "scale": 0.938
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Source: RBI prices; percentages are idly's calculation",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1227-sgb-2018-final-redemption",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 280,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Source: RBI press releases of 12 May and 12 Nov 2026",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1227-sgb-2018-final-redemption",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 176,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Business Today, Outlook Money (Finance Act 2026); RBI",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1227-sgb-2018-final-redemption",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/04.jpg",
+  "scale": null
+ }
+]

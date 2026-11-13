@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (12) and reviewer (13). Weak: hook, reply. Reviewer: PASS. hook 1: Rs 1,000 and 'Today' are on the cover, but a paid luxury shopping fair is a mild stake for a national page. The image is an empty lawn, the venue rather than the event, so it does little to stop a scroll. read: dates -> venue/gate/age -> brands/categories, no filler, each fact once. send: a Mumbai reader to a friend to plan the weekend. keep: dates, venue, ticket price, Friday gate time (attributed), age rule. reply: a question from readers' own lives. original: multi-source synthesis, credited, no promo language. alone: the cover now names Mumbai, Today and the price. Checked: all 3 slides at full size plus the cover at phone size (360 px). Sharpness: the 1920 round-trip PSNR of about 40 dB means the 4000 px source holds only moderate real detail. The distant towers look slightly soft or hazy at full size (sunset haze plus the banner's darkening), but there is no pixelation and it reads clean at phone size, so it is not a HOLD. The tiny figure cut by the bottom-left edge under the date is about 40 px, seen from behind and unidentifiable (facecheck 0). The credit 'Image: Jio World Centre' sits ~17 px from 'Opens' and does not touch. One left edge and source lines on 02 and 03. Condition: publish on 13 Nov only, because the cover says 'Opens Today'. Desk: Event news for Mumbai this weekend; hook capped at 1 (event name + 250+/₹1,000 not a surprise number); send 2 for Mumbai readers planning the weekend; keep 2 (dates, venue, gate time, age rule, price); reply 1 (open but generic question); cover is the venue owner's own photo of the empty Jio World Garden, not the event set-up."
+}
