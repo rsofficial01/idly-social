@@ -1,0 +1,55 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Onitsuka Tiger Fur Series India launch (not in the idly.news API candidates); India-retail story built from the brand's India press release (FashionUnited India) and the brand's own India and UK product pages; caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Onitsuka Tiger India launches a winter Fur Series (faux-fur Mexico 66 Paraty, Mexico 66 TGRS, HMR Peak); onitsukatiger.com/in lists the fur Paraty 1183B601 at ₹11,500 (Birch/Cream, Black/Cream only) and the HMR Peak 1183C750 at ₹22,000 (Cream, Ginger Peach), checked 16:58 IST 13 Nov 2026; Onitsuka UK lists the same Paraty at £120 (about ₹14,960 at ECB ₹124.66/£, 12 Nov), about ₹3,460 more",
+ "sources": [
+  {"outlet": "FashionUnited India (press release)", "date": "12 Nov 2026", "url": "https://fashionunited.in/press/fashion/onitsuka-tiger-india-launches-faux-fur-versions-of-three-signature-styles-for-winter/2026111256966"},
+  {"outlet": "Onitsuka Tiger India (Fur Series page)", "date": "13 Nov 2026 (checked 16:50 IST)", "url": "https://www.onitsukatiger.com/in/en-in/featured/fur-series.html"},
+  {"outlet": "Onitsuka Tiger India (Mexico 66 Paraty 1183B601.200 Birch/Cream)", "date": "13 Nov 2026 (checked 16:55 IST)", "url": "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.200.html"},
+  {"outlet": "Onitsuka Tiger India (Mexico 66 Paraty 1183B601.001 Black/Cream)", "date": "13 Nov 2026 (checked 16:58 IST)", "url": "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.001.html"},
+  {"outlet": "Onitsuka Tiger India (HMR Peak 1183C750.100 Cream)", "date": "13 Nov 2026 (checked 16:50 IST)", "url": "https://www.onitsukatiger.com/in/en-in/product/hmr-peak/1183c750.100.html"},
+  {"outlet": "Onitsuka Tiger India (HMR Peak 1183C750.700 Ginger Peach)", "date": "13 Nov 2026 (checked 16:50 IST)", "url": "https://www.onitsukatiger.com/in/en-in/product/hmr-peak/1183c750.700.html"},
+  {"outlet": "Onitsuka Tiger UK (Mexico 66 Paraty 1183B601-200)", "date": "13 Nov 2026 (checked 16:58 IST)", "url": "https://www.onitsukatiger.com/gb/en-gb/mexico-66-paraty/p/1183b601-200.html"},
+  {"outlet": "Onitsuka Tiger UK (HMR Peak 1183C750-100)", "date": "13 Nov 2026 (checked 16:55 IST)", "url": "https://www.onitsukatiger.com/gb/en-gb/hmr-peak/p/1183c750-100.html"},
+  {"outlet": "ECB via Frankfurter", "date": "12 Nov 2026", "url": "https://api.frankfurter.app/latest?from=GBP&to=INR"},
+  {"outlet": "ExchangeRate-API", "date": "13 Nov 2026 00:02 UTC", "url": "https://open.er-api.com/v6/latest/GBP"}
+ ],
+ "fact_sources": {
+  "Onitsuka Tiger India launched a Fur Series: faux fur on three signature styles (Mexico 66 Paraty laceless slip-on with faux fur on upper and interior; Mexico 66 TGRS slip-on with instep strap; HMR Peak high-cut, based on the 1966 'Himarayan Peak' trekking shoe)": [
+   "https://fashionunited.in/press/fashion/onitsuka-tiger-india-launches-faux-fur-versions-of-three-signature-styles-for-winter/2026111256966",
+   "https://www.onitsukatiger.com/in/en-in/featured/fur-series.html"
+  ],
+  "Fur Paraty listed at ₹11,500 on Onitsuka Tiger's India site, Birch/Cream (1183B601.200) and Black/Cream (1183B601.001); other colour codes 404 on the India site (attributed listing, checked 16:58 IST 13 Nov)": [
+   "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.200.html",
+   "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.001.html"
+  ],
+  "Same Paraty 1183B601-200 is £120 on Onitsuka's UK site; material 'fake fur/leather (non-pig)/synthetic suede', 'upper made from a soft, furry material'": [
+   "https://www.onitsukatiger.com/gb/en-gb/mexico-66-paraty/p/1183b601-200.html"
+  ],
+  "HMR Peak 1183C750 listed at ₹22,000 in Cream (.100) and Ginger Peach (.700) on the India site; £205 on the UK site with a 'faux fur upper'": [
+   "https://www.onitsukatiger.com/in/en-in/product/hmr-peak/1183c750.100.html",
+   "https://www.onitsukatiger.com/in/en-in/product/hmr-peak/1183c750.700.html",
+   "https://www.onitsukatiger.com/gb/en-gb/hmr-peak/p/1183c750-100.html"
+  ],
+  "GBP/INR 124.66 (ECB 12 Nov) / 124.55 (ExchangeRate-API 13 Nov): £120 ≈ ₹14,960 (₹14,946-14,959); gap to ₹11,500 ≈ ₹3,460 (₹3,446-3,459); £205 ≈ ₹25,550 (₹25,533-25,555); idly's own sums": [
+   "https://api.frankfurter.app/latest?from=GBP&to=INR",
+   "https://open.er-api.com/v6/latest/GBP"
+  ]
+ },
+ "image": {
+  "page": "https://www.onitsukatiger.com/in/en-in/ (homepage Fur Series banner; also on https://www.onitsukatiger.com/in/en-in/featured/fur-series.html menu)",
+  "url": "https://media-mc-india.onitsukatiger.com/media/wysiwyg/2_PARATY_1520_1536_0074.jpg",
+  "licence": "Onitsuka Tiger's own official product image (Onitsuka Tiger India site banner), editorial use, credited 'Image: Onitsuka Tiger' (FashionUnited's press release credits the same campaign's images to Onitsuka Tiger)",
+  "author": "Onitsuka Tiger",
+  "size": "1520x1536",
+  "viewed": true,
+  "faces": 0,
+  "subject": "Five pairs of faux-fur Mexico 66 Paraty (yellow, pink, cream/Birch, mint, brown) on a beige floor; no people, no text, no watermark",
+  "framing": {"tool_output": {"ok": true, "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 0.88, "faces": 0}, "used": {"focal": [0.5, 0.5], "zoom": 1.0}}
+ },
+ "tags": ["onitsukatigerindia"],
+ "tags_evidence": "onitsukatigerindia: linked (https://www.instagram.com/onitsukatigerindia) from the footer of Onitsuka Tiger India's own site https://www.onitsukatiger.com/in/en-in/ (checked 13 Nov 2026)."
+}

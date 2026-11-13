@@ -1,0 +1,56 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1627-onitsuka-fur-india",
+ "date": "13 Nov 2026",
+ "sources": [
+  "FashionUnited India",
+  "Onitsuka Tiger India",
+  "Onitsuka Tiger UK",
+  "ECB"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Onitsuka's ₹11,500 Furry Mexico 66 Lands In India",
+   "photo": "_work/2026-11-13-hourly-1627/idlyhype/frame_paraty/cover_source.png",
+   "photo_credit": "Image: Onitsuka Tiger",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "3",
+   "stat_label": "Onitsuka Styles Get Faux Fur This Winter",
+   "bullets": [
+    "Mexico 66 Paraty: laceless, fur inside and out",
+    "Mexico 66 TGRS: slip-on with an instep strap",
+    "HMR Peak: high-cut, based on a 1966 trekker"
+   ],
+   "credit_line": "Sources: FashionUnited India, Onitsuka Tiger India"
+  },
+  {
+   "type": "detail",
+   "stat": "£120",
+   "stat_label": "Same Paraty On Onitsuka's UK Site",
+   "bullets": [
+    "About ₹14,960 at 12 Nov's ECB rate",
+    "By idly's maths, India's price is ₹3,460 lower",
+    "India lists Birch/Cream and Black/Cream only"
+   ],
+   "credit_line": "Sources: Onitsuka Tiger India, Onitsuka Tiger UK, ECB"
+  },
+  {
+   "type": "detail",
+   "stat": "₹22,000",
+   "stat_label": "Furry HMR Peak Boot In India",
+   "bullets": [
+    "Cream and Ginger Peach on onitsukatiger.com/in",
+    "Same boot is £205 in the UK, about ₹25,550"
+   ],
+   "credit_line": "Sources: Onitsuka Tiger India, Onitsuka Tiger UK, ECB"
+  }
+ ]
+}
