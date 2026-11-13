@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2123-vehicle-seizure-goons",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Bar & Bench",
+  "LawChakra",
+  "NewsX"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "HC: No 'Goons' Seizing Vehicles; SC Made A Lender Pay ₹10 Lakh",
+   "photo": "_work/2026-11-13-hourly-2123/idlynews/frame_allahabad/cover_source.png",
+   "photo_credit": "Photo: Vroomtrapit / Wikimedia Commons, CC0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "26 OCT",
+   "stat_label": "Lenders Need A Court Or Arbitrator To Repossess",
+   "bullets": [
+    "'Cannot be done by force employing goons': Allahabad HC",
+    "Force would hand lenders the State's coercive power: HC",
+    "The ruling binds courts across Uttar Pradesh"
+   ],
+   "credit_line": "Sources: Bar & Bench, LawChakra, NewsX"
+  },
+  {
+   "type": "detail",
+   "stat": "₹10,000",
+   "stat_label": "Costs To The Owner; Vehicle Back Without Conditions",
+   "bullets": [
+    "Loan restructured at usual interest, no penal interest",
+    "Owner says 31 of 45 EMIs paid; lender disputes",
+    "Lender used arbitration against his brother, not him"
+   ],
+   "credit_line": "Sources: Bar & Bench, LawChakra, NewsX"
+  },
+  {
+   "type": "detail",
+   "stat": "1 AM",
+   "stat_label": "Supreme Court, 16 Sep: Truck Taken Without Notice",
+   "bullets": [
+    "No 7-day notice, so repossession right 'never accrued'",
+    "Lender also refunds ₹4.5 lakh sale price, 6% interest",
+    "RBI told to make banks, NBFCs follow its rules"
+   ],
+   "credit_line": "Sources: LiveLaw, ThePrint"
+  }
+ ]
+}
