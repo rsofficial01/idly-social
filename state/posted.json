@@ -3402,5 +3402,20 @@
     "tagged": [
       "apple"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "17981033121068736",
+    "permalink": "https://www.instagram.com/p/DfrU4zgFD2e/",
+    "posted_at": "2026-11-13T09:37:58+00:00",
+    "date": "2026-11-13",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
