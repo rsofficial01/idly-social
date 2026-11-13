@@ -1,0 +1,12 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 1,
+ "total": 12,
+ "verdict": "PASS",
+ "notes": "hook 1: routine launch news; Rs 649 and 8-player are on the cover but are a modest price, not a surprise. alone 1: the card never says where Rs 649 applies (verified for Steam India, and Microsoft Store India per the desk; the PS Store price is unconfirmed) while slide 2 lists PS5 and Switch; slides 2-3 don't name the game (fine in a carousel). reply 2 because the question doesn't ask for tags; it must stay that way. Checked: facecheck faces=0 on 01-03 (run by reviewer); all 3 slides opened at full size; G2+3 fixes applied exactly (crop x 822-1686, nearest-neighbour 1.25x, scale 1.00; slide 3 label 'Can Play Remotely on One Steam Copy'; alt.txt updated). Cover: actual game, full-bleed, no letterbox, blur or extension; all 8 characters whole (x 32-764, y 150-745), clear of the logo and of the headline block (top 950); launcher and platform gone; pixel edges clean at 2x zoom. Headline white, left-aligned, 3 lines at 100 px, shares a left edge with the date. Vertical credit 'Image: PICO PARK / SEGA' present and legible. The game's wavy water line (y ~1265-1292) runs just behind the top of the date, idly.news and the foot of the credit: dark on dark, all legible, not text-on-text; optional polish only (an 800x1000 crop from y 0 at 1.35x would drop it and enlarge the characters). Slides 2-3: one left edge, no overflow, no collision, credit lines inside and readable, no cut-off. render_report: no overflow; credit_collision [] on detail slides. Caption: exactly one '?', Sources line, 5 hashtags ending #idlynerd, credit last, no idly.news mention (publish with no_idly_article true), no bait or hype words; facts match Steam appdetails (2-8 locally or online, cross-play, up to 7 local players online from one PC, any number of players, Spin Dash, rings, loops, springs, 'hit indie game', SEGA, Rs 649, 12 Nov) and Valve's Remote Play page (host-only purchase, up to 4 players, more on fast connections). meta.json image record complete (faces 0, viewed true, licence, framing); tags [] (no Instagram handle linked on picoparkgame.com); queue/approved empty for @idlynerd."
+}
