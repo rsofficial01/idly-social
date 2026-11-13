@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-13-idlynerd-0727-ott-weekend-v2",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "New on OTT, 12-13 Nov 2026: Daayra, Heartland (Netflix); SOTY: After Dark (JioHotstar); Parivarik ManuRanjan (Sony LIV); Bandra (ZEE5); Jailer 2 (Prime Video)",
+  "headline": "Parivarik ManuRanjan and 5 More New on OTT This Weekend",
+  "caption": "Six films and series to stream this weekend, five of them new on Friday, 13 November.\n\nNetflix adds two films on Friday: Daayra, Meghna Gulzar's crime thriller, which reached cinemas on 18 September; and Heartland, a Netflix mystery thriller starring Jessica Chastain.\n\nAlso on Friday: the Hindi thriller series Student of the Year: After Dark on JioHotstar; the Hindi family comedy Parivarik ManuRanjan, which skipped cinemas, on Sony LIV; and the Malayalam action drama Bandra on ZEE5, three years after its November 2023 cinema run.\n\nJailer 2 has been on Prime Video since Thursday, 12 November, in Tamil, Telugu, Hindi, Malayalam and Kannada, in more than 240 countries and territories.\n\nWhich of these did you skip in cinemas to watch at home?\n\nSources: Netflix, Prime Video, JioHotstar, Sony LIV, ZEE5, Esquire India, The Daily Jagran, Gulf News\n\n#NewOnOTT #OTTReleases #Jailer2 #Daayra #idlynerd",
+  "alt_text": "An official Sony LIV image for the Hindi family comedy Parivarik ManuRanjan, with the headline \"Parivarik ManuRanjan and 5 More New on OTT This Weekend\". The next slides list Friday's two Netflix films (Daayra, Heartland), Friday's releases on JioHotstar, Sony LIV and ZEE5 (Student of the Year: After Dark, Parivarik ManuRanjan, Bandra), and Jailer 2 on Prime Video in five languages.",
+  "sources": [
+    "Netflix",
+    "Prime Video",
+    "JioHotstar",
+    "Sony LIV",
+    "ZEE5",
+    "Esquire India",
+    "The Daily Jagran",
+    "Gulf News"
+  ],
+  "detail_slides": [
+    {
+      "stat": "13 NOV",
+      "stat_label": "Two New Films on Netflix India Friday",
+      "bullets": [
+        "Daayra · Meghna Gulzar's crime thriller, in cinemas 18 Sep",
+        "Heartland · Netflix mystery thriller starring Jessica Chastain"
+      ],
+      "credit_line": "Sources: Netflix, Esquire India, The Daily Jagran"
+    },
+    {
+      "stat": "3",
+      "stat_label": "Friday Releases on JioHotstar, Sony LIV and ZEE5",
+      "bullets": [
+        "Student of the Year: After Dark · JioHotstar · Hindi thriller",
+        "Parivarik ManuRanjan · Sony LIV · Hindi comedy, skipped cinemas",
+        "Bandra · ZEE5 · Malayalam action drama, three years after cinemas"
+      ],
+      "credit_line": "Sources: JioHotstar, Sony LIV, ZEE5, Esquire India, The Week"
+    },
+    {
+      "stat": "5",
+      "stat_label": "Languages Jailer 2 Streams in on Prime Video",
+      "bullets": [
+        "Tamil, Telugu, Hindi, Malayalam, Kannada; streaming since 12 Nov",
+        "In 240+ countries, so family abroad can watch too",
+        "Four weeks after its 15 Oct cinema release"
+      ],
+      "credit_line": "Sources: Prime Video, Gulf News, The Week"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.sonyliv.com/movies/parivarik-manuranjan-1590016721"
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: list. Special 'New on OTT This Weekend' (Fri 13 Nov 2026), hourly run 0727, v2 of 2026-11-13-idlynerd-0727-ott-weekend-heartland (words passed G2+3; cover rejected at G4: Netflix og:image 1200x675 too soft). v2 cover: og:image of Sony LIV's Parivarik ManuRanjan page (Sony LIV's site shows a 3200x1800 masthead with the logo as a separate file; og:image itself unconfirmed from the desk session). Headline names the pictured title first (G2+3 v2 fix: no 'leads' claim). No fallback. Heartland unlocks ~1:30 pm IST, so no time is stated. Tags empty. Stories paused: story false. No gossip.",
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 1: a smaller title heads the cover and the number is a count; original 2: idly synthesis with an official Sony LIV image via the lane."
+    }
+  },
+  "created_at": "2026-11-13T08:05:31+05:30"
+}
