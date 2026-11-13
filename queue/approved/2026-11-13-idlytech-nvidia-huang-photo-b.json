@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-13-idlytech-nvidia-huang-photo-b",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 1,
+    "alone": 2,
+    "total": 12,
+    "notes": "Blind lane reviewer. Strong, clean news carousel; sharp keynote photo, face clear of logo and headline. No factual errors and no rule breaches."
+  },
+  "reviewed_at": "2026-11-13T04:14:34+00:00",
+  "reviewed_by": "claude reviewer (blind, fresh agent)",
+  "notes": "",
+  "story": false
+}
