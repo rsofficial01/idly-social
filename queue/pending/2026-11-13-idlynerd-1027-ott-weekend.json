@@ -1,0 +1,85 @@
+{
+  "slug": "2026-11-13-idlynerd-1027-ott-weekend",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "New on OTT by Sun 15 Nov 2026: Daayra, Heartland (Netflix), SOTY: After Dark (JioHotstar), Parivarik ManuRanjan (Sony LIV), Bandra, Mrigaya 1.5 (ZEE5) on 13 Nov; Jailer 2 (Prime Video) since 12 Nov",
+  "headline": "Daayra and SOTY: After Dark Lead 7 New OTT Releases",
+  "caption": "Seven new films and series reach Indian streaming platforms by this weekend, six of them on Friday, 13 November.\n\nNetflix adds Daayra, Meghna Gulzar's Hindi crime thriller, eight weeks after it opened in cinemas on 18 September, and Heartland, an English thriller set in Nashville.\n\nJioHotstar premieres Student of the Year: After Dark, a Hindi thriller series. Sony LIV releases Parivarik ManuRanjan, a Hindi family comedy made as a Sony LIV original.\n\nZEE5 adds two regional titles: Bandra, a Malayalam film from 2023, and the Bengali crime thriller Mrigaya 1.5.\n\nJailer 2 has been on Prime Video since Thursday, 12 November, in Tamil, Telugu, Hindi, Malayalam and Kannada, in more than 240 countries and territories.\n\nWhat are you watching first this weekend, and who's watching it with you?\n\nSources: Netflix, JioHotstar, Sony LIV, Prime Video India, The Hollywood Reporter India, Esquire India, The Daily Jagran, IWMBuzz, Flickonclick, T2, Khaleej Times, Gulf News\n\n#NewOnOTT #WeekendWatch #Daayra #Jailer2 #idlynerd",
+  "alt_text": "A still from an official Daayra or Student of the Year: After Dark video (Netflix India or JioHotstar), under the headline 'Daayra and SOTY: After Dark Lead 7 New OTT Releases'. The next slides list Friday's Hindi titles (Daayra on Netflix, Student of the Year: After Dark on JioHotstar, Parivarik ManuRanjan on Sony LIV), three more Friday picks in Malayalam, Bengali and English (Bandra and Mrigaya 1.5 on ZEE5, Heartland on Netflix), and Jailer 2 on Prime Video since Thursday in five languages.",
+  "sources": [
+    "Netflix India",
+    "JioHotstar",
+    "The Hollywood Reporter India",
+    "Esquire India",
+    "The Daily Jagran"
+  ],
+  "detail_slides": [
+    {
+      "stat": "13 NOV",
+      "stat_label": "Friday's Three New Hindi Titles",
+      "bullets": [
+        "Daayra · Netflix · crime thriller, eight weeks after cinemas",
+        "Student of the Year: After Dark · JioHotstar · thriller series",
+        "Parivarik ManuRanjan · Sony LIV · family comedy made for streaming"
+      ],
+      "credit_line": "Sources: Netflix India, JioHotstar, Sony LIV, The Daily Jagran, Flickonclick"
+    },
+    {
+      "stat": "3",
+      "stat_label": "More Friday Picks: Malayalam, Bengali, English",
+      "bullets": [
+        "Bandra · ZEE5 · Malayalam film from 2023, now streaming",
+        "Mrigaya 1.5 · ZEE5 · Bengali crime thriller",
+        "Heartland · Netflix · English thriller set in Nashville's music scene"
+      ],
+      "credit_line": "Sources: Esquire India, The Daily Jagran, T2, Netflix, The Hollywood Reporter India"
+    },
+    {
+      "stat": "12 NOV",
+      "stat_label": "Jailer 2 on Prime Video Since Thursday",
+      "bullets": [
+        "Watch in Tamil, Telugu, Hindi, Malayalam or Kannada",
+        "240+ countries and territories: family abroad can watch",
+        "Four weeks after its 15 Oct cinema release"
+      ],
+      "credit_line": "Sources: Prime Video India, Khaleej Times, Gulf News"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=nb4Qb89zgmU",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=bFxP8QvJaAI"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=mvA6a52-Vus"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=tt-8GZiKkLg"
+      }
+    ]
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: list. Special 'New on OTT This Weekend' (Fri 13 Nov 2026), hourly run 1027, @idlynerd desk. G1 BUILD (conditions applied), G2 FIX applied (6 fixes), G3 PASS. Ranabaali left out (never-post id 1631); 12 12 12 dropped; SOTY episode count dropped (one source). Image refs all untried, oEmbed-checked: Netflix India Daayra trailer nb4Qb89zgmU, then JioHotstar SOTY: After Dark promos bFxP8QvJaAI, mvA6a52-Vus, tt-8GZiKkLg ('Now Streaming' last: most likely lettered). Fact sources per title in _work/2026-11-13-hourly-1027/packets/idlynerd-g23.md; Bandra 2023: Esquire India + https://filmibeat.com/malayalam/news/2024/bandra-2023-ott-release-date-platform-time-when-where-to-watch-dileep-tamannaahs-action-427477.html. Tags empty (uploader unknown until render). Stories paused: story false. No gossip. If this spec fails, no re-spec of the special today.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 2 only if the cover clearly shows Daayra or SOTY: After Dark (decided at render); original 1: weekly OTT lists are a common format, our angle is platform/day/language for Indian readers with 2 sources per title."
+    }
+  },
+  "created_at": "2026-11-13T11:04:15+05:30"
+}
