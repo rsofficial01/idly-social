@@ -1,0 +1,128 @@
+{
+ "account": "idlytech",
+ "story_id": 2173,
+ "idly_article": true,
+ "format": "news",
+ "title": "Google and Samsung's Gemini glasses (Warby Parker from $395, Gentle Monster $449-$489) go on preorder 12 Nov 2026 and on sale 10 Dec in the US and South Korea only; Google says they work only with US or South Korean Google accounts (18+), so not with Indian accounts; Ray-Ban Meta Gen 3 sells in India from ₹44,300",
+ "sources": [
+  {
+   "outlet": "Google (The Keyword blog)",
+   "date": "2026-11-12",
+   "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
+  },
+  {
+   "outlet": "Google (glasses.google)",
+   "date": "2026-11-13 (checked)",
+   "url": "https://glasses.google/"
+  },
+  {
+   "outlet": "Samsung Global Newsroom",
+   "date": "2026-11-12",
+   "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+  },
+  {
+   "outlet": "The Next Web",
+   "date": "2026-11-12",
+   "url": "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster"
+  },
+  {
+   "outlet": "tbreak",
+   "date": "2026-11-12",
+   "url": "https://tbreak.com/google-intelligent-eyewear-pre-orders/"
+  },
+  {
+   "outlet": "Meta Newsroom",
+   "date": "2026-10-01",
+   "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/"
+  },
+  {
+   "outlet": "TelecomTalk",
+   "date": "2026-09-24",
+   "url": "https://telecomtalk.info/ray-ban-meta-gen-3-launches-india/1012148/"
+  }
+ ],
+ "fact_sources": {
+  "Preorders opened Thu 12 Nov 2026; on sale 10 Dec 2026": [
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster"
+  ],
+  "Sold in the US and South Korea only; Warby Parker US only, Gentle Monster US and Korea; no other market named": [
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://tbreak.com/google-intelligent-eyewear-pre-orders/"
+  ],
+  "Usable only with Google accounts from the US and South Korea; 18+ account required": [
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://glasses.google/",
+   "https://tbreak.com/google-intelligent-eyewear-pre-orders/"
+  ],
+  "Warby Parker from $395 (three frames); Gentle Monster $449-$489 (six designs)": [
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster",
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
+  ],
+  "About 41 g; up to 9 hours per charge": [
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster"
+  ],
+  "12 MP camera": [
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://thenextweb.com/news/google-samsung-smart-glasses-preorders-warby-parker-gentle-monster"
+  ],
+  "Bystanders' faces blurred/redacted before Gemini processes images": [
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+  ],
+  "Compatible with Pixel 7 and later, Galaxy S/Z on One UI 9, iPhone 13 Pro and above (Google's wording)": [
+   "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+   "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+   "https://glasses.google/"
+  ],
+  "Ray-Ban Meta Gen 3 on sale in India from ₹44,300 via meta.com, in.rayban.com and retailers": [
+   "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+   "https://telecomtalk.info/ray-ban-meta-gen-3-launches-india/1012148/"
+  ]
+ },
+ "image": {
+  "source_page": "https://www.gentlemonster.com/us/en/item/S11005572/ggs00101",
+  "file_url": "https://gm-prd-resource.gentlemonster.com/catalog/product/S11005572/fc34548e-4990-4894-881e-de4632684896/11005572_D_45.jpg",
+  "owner": "Gentle Monster (official product image of Intelligent Eyewear GGS001 01, made with Google and Samsung)",
+  "licence": "official brand product image, credited 'Image: Gentle Monster' (accepted at G2+3)",
+  "credit": "Image: Gentle Monster",
+  "orig_w": 3600,
+  "orig_h": 3600,
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0527/idlytech/frame/cover_source.png",
+  "framing": {
+   "focal": [
+    0.5,
+    0.6175
+   ],
+   "zoom": 1.6,
+   "crop_ltwh": [
+    900,
+    1098,
+    1800,
+    2250
+   ],
+   "scale": 0.6,
+   "subject_box_out": [
+    69,
+    360,
+    1007,
+    704
+   ]
+  }
+ },
+ "tags": [
+  "gentlemonster"
+ ],
+ "tag_confirmed": {
+  "gentlemonster": "Gentle Monster's official site (gentlemonster.com product page S11005572) links to https://www.instagram.com/gentlemonster"
+ },
+ "commons_429": true
+}

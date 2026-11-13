@@ -1,0 +1,82 @@
+{
+ "slides": [
+  {
+   "size": 92,
+   "lines": 3,
+   "overflow": false,
+   "top": 974,
+   "credit_line": "Image: Gentle Monster",
+   "slug": "idlytech-0527-gemini-glasses-india-accounts",
+   "slide": 1,
+   "type": "cover",
+   "jpg": "posts/2026-11-13/idlytech-0527-gemini-glasses-india-accounts/01.jpg",
+   "scale": 0.6
+  },
+  {
+   "stat": 272,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Google, Samsung, tbreak",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlytech-0527-gemini-glasses-india-accounts",
+   "slide": 2,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlytech-0527-gemini-glasses-india-accounts/02.jpg",
+   "scale": null
+  },
+  {
+   "stat": 320,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Google, Samsung, The Next Web",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlytech-0527-gemini-glasses-india-accounts",
+   "slide": 3,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlytech-0527-gemini-glasses-india-accounts/03.jpg",
+   "scale": null
+  },
+  {
+   "stat": 244,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Meta, TelecomTalk",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlytech-0527-gemini-glasses-india-accounts",
+   "slide": 4,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlytech-0527-gemini-glasses-india-accounts/04.jpg",
+   "scale": null
+  }
+ ]
+}

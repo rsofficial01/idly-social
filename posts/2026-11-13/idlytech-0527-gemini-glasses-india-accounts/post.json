@@ -1,0 +1,58 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0527-gemini-glasses-india-accounts",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Google",
+  "Samsung",
+  "The Next Web",
+  "tbreak",
+  "Meta",
+  "TelecomTalk"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Google: Gemini Glasses From $395 Won't Work on Indian Accounts",
+   "photo": "_work/2026-11-13-hourly-0527/idlytech/frame/cover_source.png",
+   "photo_credit": "Image: Gentle Monster",
+   "focal": [
+    0.5,
+    0.6175
+   ],
+   "zoom": 1.6
+  },
+  {
+   "type": "detail",
+   "stat": "10 DEC",
+   "stat_label": "On Sale in Just Two Countries",
+   "bullets": [
+    "Only the US and South Korea; no India date",
+    "Cheapest Warby Parker frames sell in the US only",
+    "Gentle Monster pairs cost more: $449 to $489"
+   ],
+   "credit_line": "Sources: Google, Samsung, tbreak"
+  },
+  {
+   "type": "detail",
+   "stat": "41 g",
+   "stat_label": "What You Get in Each Pair",
+   "bullets": [
+    "Up to 9 hours of use on one charge",
+    "12 MP camera; bystanders' faces blurred before Gemini processes",
+    "Works with iPhone 13 Pro and above, too"
+   ],
+   "credit_line": "Sources: Google, Samsung, The Next Web"
+  },
+  {
+   "type": "detail",
+   "stat": "₹44,300",
+   "stat_label": "Ray-Ban Meta Gen 3's Starting Price in India",
+   "bullets": [
+    "On sale in India now, unlike Google's pair",
+    "Sold on meta.com, Ray-Ban India and optical stores"
+   ],
+   "credit_line": "Sources: Meta, TelecomTalk"
+  }
+ ]
+}
