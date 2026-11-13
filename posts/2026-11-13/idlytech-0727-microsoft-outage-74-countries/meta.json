@@ -1,0 +1,134 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Microsoft 365 outage (Exchange Online incident from 9:47 pm IST Thu 12 Nov 2026, per Microsoft) knocks out Outlook, parts of Teams, Copilot and SharePoint; Downdetector: reports reached 74 countries and territories in about an hour, India's rose tenfold by 11:21 pm IST, peak 19,650 a minute across five services at 11:55 pm IST, Outlook alone 1 lakh+ at peak; Microsoft blames servers failing automated health checks, no indication of a cyberattack; not declared fixed as of 7:55 am IST Fri ('positive results' restarting servers, no ETA); admin incident EX1550543, backup status page status.cloud.microsoft",
+ "sources": [
+  {
+   "outlet": "Downdetector (on X)",
+   "date": "2026-11-12",
+   "url": "https://x.com/downdetector/status/2120981125145174504"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2026-11-13",
+   "url": "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13"
+  },
+  {
+   "outlet": "Black Engineer (USBE)",
+   "date": "2026-11-12",
+   "url": "https://www.blackengineer.com/technology/microsoft-outages-disrupt-outlook-teams-and-other-services-w/"
+  },
+  {
+   "outlet": "Reuters (via The Korea Times)",
+   "date": "2026-11-13",
+   "url": "https://www.koreatimes.co.kr/world/20261113/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands"
+  },
+  {
+   "outlet": "ABC News (Australia) live blog",
+   "date": "2026-11-13",
+   "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050"
+  },
+  {
+   "outlet": "TechCrunch",
+   "date": "2026-11-12",
+   "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+  },
+  {
+   "outlet": "Newsweek",
+   "date": "2026-11-12",
+   "url": "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459"
+  },
+  {
+   "outlet": "Global News",
+   "date": "2026-11-12",
+   "url": "https://globalnews.ca/news/12148204/microsoft-outage-2026/"
+  },
+  {
+   "outlet": "ABC7 New York live updates",
+   "date": "2026-11-13",
+   "url": "https://abc7ny.com/live-updates/microsoft-outage-live-updates-what-know-outlook-365-other-apps-remain-down/20036817/"
+  }
+ ],
+ "fact_sources": {
+  "Reports reached 74 countries and territories in about an hour (Downdetector)": [
+   "https://x.com/downdetector/status/2120981125145174504",
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.blackengineer.com/technology/microsoft-outages-disrupt-outlook-teams-and-other-services-w/"
+  ],
+  "Microsoft: Exchange Online incident began 16:17 UTC = 9:47 pm IST, Thu 12 Nov": [
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.blackengineer.com/technology/microsoft-outages-disrupt-outlook-teams-and-other-services-w/",
+   "https://x.com/downdetector/status/2120981125145174504"
+  ],
+  "India's reports rose tenfold at 11:21 pm IST (Downdetector)": [
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.blackengineer.com/technology/microsoft-outages-disrupt-outlook-teams-and-other-services-w/"
+  ],
+  "Peak 19,650 reports a minute across five Microsoft services at 18:25 UTC = 11:55 pm IST (Downdetector)": [
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.blackengineer.com/technology/microsoft-outages-disrupt-outlook-teams-and-other-services-w/",
+   "https://x.com/downdetector/status/2120981125145174504"
+  ],
+  "Outlook alone drew more than 1 lakh (100,000) reports at the peak": [
+   "https://www.koreatimes.co.kr/world/20261113/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands",
+   "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
+   "https://globalnews.ca/news/12148204/microsoft-outage-2026/"
+  ],
+  "Copilot and SharePoint also hit": [
+   "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+   "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13"
+  ],
+  "Cause per Microsoft: large number of servers failed automated health checks/unexpectedly unavailable, load on the rest": [
+   "https://globalnews.ca/news/12148204/microsoft-outage-2026/",
+   "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050"
+  ],
+  "No indication of a cyberattack (Microsoft)": [
+   "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13"
+  ],
+  "Incident EX1550543 in the Microsoft 365 admin centre": [
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
+   "https://globalnews.ca/news/12148204/microsoft-outage-2026/"
+  ],
+  "Backup status page status.cloud.microsoft (admin centre/status dashboard was unreachable)": [
+   "https://www.businesstoday.in/technology/story/microsoft-365-disruption-hits-74-countries-outlook-teams-and-copilot-knocked-offline-567213-2026-11-13",
+   "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+   "https://status.cloud.microsoft/"
+  ],
+  "Not declared fixed as of 7:55 am IST Fri (checked 07:55 IST: ABC AU latest 07:44 IST, ABC7 NY updated 07:32 IST, no all-clear); 'positive results' restarting affected infrastructure; no ETA": [
+   "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+   "https://abc7ny.com/live-updates/microsoft-outage-live-updates-what-know-outlook-365-other-apps-remain-down/20036817/",
+   "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
+   "https://www.koreatimes.co.kr/world/20261113/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands"
+  ]
+ },
+ "image": {
+  "source_page": "https://news.microsoft.com/datacenters/",
+  "file_url": "https://msftstories.thesourcemediaassets.com/sites/696/2024/12/DJI_20250912085829_0012_D-copy-scaled.jpg",
+  "owner": "Microsoft (datacenters press gallery, caption 'Aerial image of a Microsoft datacenter in Wisconsin', Web/Print download links)",
+  "licence": "official Microsoft press image from its newsroom datacenters gallery (page states no terms; press contact WE Communications); credited 'Image: Microsoft'",
+  "credit": "Image: Microsoft",
+  "width": 2560,
+  "height": 1440,
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0727/frame/idlytech-wi/cover_source.png",
+  "framing": {
+   "focal": [
+    0.635,
+    0.625
+   ],
+   "zoom": 1.2,
+   "scale": 1.125,
+   "note": "framing tool ok (faces 0); focal/zoom set so the datacenter sits at y ~300-740, clear of the logo band and the headline block"
+  }
+ },
+ "tags": [],
+ "tag_evidence": null
+}

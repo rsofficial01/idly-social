@@ -1,0 +1,15 @@
+Microsoft's Outlook and Teams outage spread to 74 countries and territories in about an hour, Downdetector says. The Microsoft 365 failure also hit Copilot and SharePoint.
+
+Microsoft says the Exchange Online incident began at 9:47 pm IST on Thursday, 12 November. Downdetector says reports from India jumped tenfold at 11:21 pm IST, and reports across five Microsoft services peaked at 19,650 a minute at 11:55 pm IST. Outlook alone drew more than 1 lakh reports at the peak (Reuters, Newsweek).
+
+Microsoft says a large number of its servers failed automated health checks and went offline, overloading the rest, and that there is no indication of a cyberattack.
+
+As of 7:55 am IST on Friday, Microsoft had not declared the outage fixed. It said it was seeing "positive results" from restarting affected servers and gave no time for full restoration (ABC News Australia, ABC7 New York). IT admins can follow incident EX1550543 in the Microsoft 365 admin centre, or status.cloud.microsoft if the admin centre won't load.
+
+When Outlook or Teams goes down, what does your office fall back on?
+
+Sources: Downdetector, Microsoft, Reuters, Business Today, ABC News (Australia), ABC7 New York, TechCrunch, Newsweek
+
+#Microsoft #Outlook #MicrosoftTeams #Microsoft365 #idlytech
+
+Image: Microsoft

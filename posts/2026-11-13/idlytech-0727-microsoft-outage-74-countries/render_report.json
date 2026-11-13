@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Microsoft",
+  "slug": "idlytech-0727-microsoft-outage-74-countries",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/01.jpg",
+  "scale": 1.125
+ },
+ {
+  "stat": 244,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Microsoft, Downdetector, Business Today, Reuters",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0727-microsoft-outage-74-countries",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Microsoft, ABC News (Australia), ABC7 New York, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0727-microsoft-outage-74-countries",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/03.jpg",
+  "scale": null
+ }
+]

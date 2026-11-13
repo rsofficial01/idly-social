@@ -1,0 +1,47 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0727-microsoft-outage-74-countries",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Downdetector",
+  "Microsoft",
+  "Reuters",
+  "Business Today",
+  "ABC News (Australia)"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Outlook and Teams Outage Hit 74 Countries in an Hour",
+   "photo": "_work/2026-11-13-hourly-0727/frame/idlytech-wi/cover_source.png",
+   "photo_credit": "Image: Microsoft",
+   "focal": [
+    0.635,
+    0.625
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "9:47 PM",
+   "stat_label": "Microsoft's Outage Began Thursday Night, India Time",
+   "bullets": [
+    "Downdetector: India's reports up tenfold at 11:21 pm",
+    "Peak: 19,650 outage reports a minute, 11:55 pm",
+    "Microsoft: failed server health checks; no sign of cyberattack"
+   ],
+   "credit_line": "Sources: Microsoft, Downdetector, Business Today, Reuters"
+  },
+  {
+   "type": "detail",
+   "stat": "7:55 AM",
+   "stat_label": "Microsoft 365 Still Recovering, Friday Morning IST",
+   "bullets": [
+    "Microsoft: 'positive results' restarting servers, no ETA yet",
+    "If the admin centre fails, check status.cloud.microsoft",
+    "IT admins can track incident EX1550543"
+   ],
+   "credit_line": "Sources: Microsoft, ABC News (Australia), ABC7 New York, Business Today"
+  }
+ ]
+}
