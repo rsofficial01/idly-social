@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "per-check min of desk (13) and reviewer (13). Weak: hook. Reviewer: Re-render at focal [0.44,0.35], zoom 1.25. Ran facecheck on 01-03.jpg (faces=0 on all). Opened 01.jpg at full size plus 2x crops of both bottom corners, 02-03.jpg (unchanged bytes, already checked), render_report.json (no overflow, credit_inside true, no collisions, cover scale 0.499), caption.txt (unchanged since Gate 2), alt.txt, meta.json (only framing changed). Cover clean: barricade gone, green and yellow pylons whole with tops below the logo, arches and ramps make the court recognisable, white 3-line headline on one left edge, date and vertical credit clear. Hook 1: '1997 Ice Crash' and ₹2.5 lakh intrigue, but the reader's stake (no-fault pay even for an Act of God, and it covers pre-2022 accidents) only shows on slide 2. Everything else is strong: practical Section 164 rule and amounts (send, keep), a genuine claim-delay question, our own synthesis. Desk: hook 1: 1997 + ₹2.5 lakh + 'ice crash' is specific and odd, but ₹2.5 lakh isn't a big number; the colourful High Court photo helps stop the scroll. Others 2: each slide tells the reader something usable (Section 164 covers even an Act of God, applies to pre-2022 accidents, ₹5 lakh for a death; ₹0 for the owner-driver under his 1997 policy); the question asks about readers' own claims; own photo choice and synthesis; the card stands alone."
+}
