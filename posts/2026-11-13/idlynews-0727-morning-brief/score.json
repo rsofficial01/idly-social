@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "per-check min of desk (13) and reviewer (13). Weak: keep. Reviewer: Blind G4, ~09:30 IST. facecheck: 02-05 faces=0, opened at full size. 01 screens faces=1 (desk: a 9x11 px hit at x 1027, y 917 on the vertical credit lettering), so I didn't open it whole. I cut face-free crops into _work/.../crops/ and screened them with --delete first: logo band y 0-170, photo y 170-880, headline block x 0-1000 y 880-1350, credit strip x 1000-1080 y 960-1350, all faces=0, all opened at full size. Not opened: x 1000-1080, y 880-960 (credit text). I read render_report.json (no overflow; credit lines inside, no collision or truncation; cover scale 0.562, a downsample, sharp), and re-read caption.txt (2,181 chars, one '?', post_problems no errors), alt.txt and the G2+3 fixes (UP 'open to SP and Congress joining' on slide and in caption; poll bullet first on the Wangchuk slide). HOLD list clear. Cover: full-bleed Commons photo, no box/letterbox/blur. IndianOil 'DIESEL' dispenser whole at y ~260-700, clear of the logo and the headline block. White 'Idly.' logo legible on grey cloud between a pillar and the sign pole. White 100 px headline in 3 lines from y 950, one left edge, on darkened paving, no touching. The vertical credit (x ~1022-1040, y ~710-1250) clears the headline (max x ~880) and the footer's 'idly.news'. Slides 2-5: white Title Case labels name their subject; stat, label, bullets and Sources share the x 72 edge; nothing cut off or overlapping; the top band is the template standard. Weak check: keep 1. A five-story brief has little to save: 4 Dec polls (already posted 10 Nov), the 2027 UP front, ₹14,000 crore a month as context. Hook 2: the ₹7/₹43 diesel split is on the cover with a stake for every fuel buyer, but 'the Other ₹43' leaves the ₹50 to the caption, so it's borderline. Send 2: the diesel line goes to family groups; UP/Ladakh lines to politics groups. Reply 2 (own fuel spend). Original 2 (idly's attributed synthesis, credited Commons photo). Alone 2 (every"
+}
