@@ -1,0 +1,101 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the OECD International Migration Outlook 2026 (none in the idly API candidates for the last 36 h); reference-led story (Scroll, Madhyamam on the OECD report; Free Press Journal and IANS on MEA's Rajya Sabha reply; Indian mission pages), caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "OECD International Migration Outlook 2026 (released 12 Nov 2026): more than 9.2 lakh Indians acquired citizenship of OECD countries in 2020-24, up 41% from 6.5 lakh in 2015-19; Canada about 2.6 lakh (+150%); nearly 2.3 lakh in 2024 from the top five (Canada, US, Australia, UK, New Zealand); migration from India to the OECD fell 19% in 2024 to under 5 lakh. Separately MEA told the Rajya Sabha (Dec 2025) 8,96,843 gave up Indian citizenship in 2020-24 (sum of its yearly figures).",
+ "sources": [
+  {
+   "outlet": "Scroll",
+   "date": "13 Nov 2026",
+   "url": "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024"
+  },
+  {
+   "outlet": "Madhyamam",
+   "date": "13 Nov 2026",
+   "url": "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  },
+  {
+   "outlet": "Free Press Journal",
+   "date": "11 Dec 2025",
+   "url": "https://www.freepressjournal.in/india/nearly-9-lakh-indians-gave-up-citizenship-in-last-5-years-kirti-vardhan-singh-in-rajya-sabha"
+  },
+  {
+   "outlet": "IANS",
+   "date": "11 Dec 2025",
+   "url": "https://ianslive.in/nearly-9-lakh-indians-renounced-citizenship-in-last-5-years-mea--20251211153055"
+  },
+  {
+   "outlet": "Embassy of India, The Hague",
+   "date": "checked 13 Nov 2026",
+   "url": "https://www.indianembassynetherlands.gov.in/page/surrender-of-indian-passport-and-renunciation-of-citizenship-of-india/"
+  },
+  {
+   "outlet": "Consulate General of India, San Francisco",
+   "date": "checked 13 Nov 2026",
+   "url": "https://www.cgisf.gov.in/page/general-information/"
+  }
+ ],
+ "fact_sources": {
+  "More than 9.2 lakh Indians acquired citizenship of OECD countries in 2020-24 (OECD International Migration Outlook 2026)": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  ],
+  "41% rise from 6.5 lakh in 2015-19": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  ],
+  "OECD has 38 member countries": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://www.bmluk.gv.at/en/topics/agriculture/eu-international-affairs/member-states-and-partner-countries-of-the-oecd.html",
+   "https://www.oecd.org/en/about/members-partners.html"
+  ],
+  "Report released 12 Nov 2026": [
+   "https://www.oecd.org/en/about/news/media-advisories/2026/11/oecd-international-migration-outlook-2026-to-be-published-thursday-12-november.html",
+   "https://www.indiablooms.com/news/from-india-to-oecd-nations-925-lakh-indians-acquired-foreign-citizenship-in-five-years/details"
+  ],
+  "Canada about 2.6 lakh in 2020-24, up 150% on 2015-19": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  ],
+  "Top five: Canada, US, Australia, UK, New Zealand; nearly 2.3 lakh got their passports in 2024": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  ],
+  "Migration from India to OECD fell 19% in 2024, under 5 lakh, India still top origin; UK halved to 66,000": [
+   "https://scroll.in/latest/1097052/9-2-lakh-indians-became-citizens-of-oecd-countries-during-2020-2024",
+   "https://madhyamamonline.com/india/over-92-lakh-indians-became-citizens-of-oecd-countries-between-2020-and-2024-1571970"
+  ],
+  "MEA (MoS Kirti Vardhan Singh, Rajya Sabha written reply, Dec 2025): 85,256 (2020), 1,63,370 (2021), 2,25,620 (2022), 2,16,219 (2023), 2,06,378 (2024); total 8,96,843 is idly's sum of these": [
+   "https://www.freepressjournal.in/india/nearly-9-lakh-indians-gave-up-citizenship-in-last-5-years-kirti-vardhan-singh-in-rajya-sabha",
+   "https://ianslive.in/nearly-9-lakh-indians-renounced-citizenship-in-last-5-years-mea--20251211153055"
+  ],
+  "Citizenship Act does not allow dual citizenship; those who take foreign nationality must surrender Indian passports": [
+   "https://www.indianembassynetherlands.gov.in/page/surrender-of-indian-passport-and-renunciation-of-citizenship-of-india/",
+   "https://www.cgisf.gov.in/page/general-information/"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_Biometric_Passport_(2026)_01.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Indian_Biometric_Passport_(2026)_01.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Gpkp",
+  "credit": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "4080x3072 original (3840x2891 downloaded via shared commons.py)",
+  "viewed": true,
+  "faces": 0,
+  "subject": "Indian biometric passport (2026), front cover only: emblem, 'Republic of India', 'Passport'; no data page, no personal details",
+  "framing": {
+   "photo": "_work/2026-11-13-hourly-1627/idlynews/frame_p01/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.47,
+   "faces": 0
+  }
+ },
+ "tags": []
+}

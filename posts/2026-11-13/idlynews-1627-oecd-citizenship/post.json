@@ -1,0 +1,55 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1627-oecd-citizenship",
+ "date": "13 Nov 2026",
+ "sources": [
+  "OECD via Scroll",
+  "Madhyamam"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "9.2 Lakh Indians Took Citizenship of OECD Countries, 2020-24",
+   "photo": "_work/2026-11-13-hourly-1627/idlynews/frame_p01/cover_source.png",
+   "photo_credit": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "41%",
+   "stat_label": "Rise From 6.5 Lakh in 2015-19",
+   "bullets": [
+    "OECD's 38 members include the US, UK, Canada",
+    "Yet migration from India fell 19% in 2024",
+    "UK migration from India halved, to 66,000"
+   ],
+   "credit_line": "Sources: OECD International Migration Outlook 2026 via Scroll, Madhyamam"
+  },
+  {
+   "type": "detail",
+   "stat": "2.6 LAKH",
+   "stat_label": "Indians Became Canadian Citizens, 2020-24",
+   "bullets": [
+    "Canada's figure is up 150% on 2015-19",
+    "Top five: Canada, US, Australia, UK, New Zealand",
+    "Nearly 2.3 lakh got those five passports in 2024"
+   ],
+   "credit_line": "Sources: OECD International Migration Outlook 2026 via Scroll, Madhyamam"
+  },
+  {
+   "type": "detail",
+   "stat": "8,96,843",
+   "stat_label": "Gave Up Indian Citizenship in 2020-24: MEA",
+   "bullets": [
+    "Total of MEA's yearly figures given to Parliament",
+    "Indian missions: Citizenship Act allows no dual citizenship",
+    "New foreign citizens must surrender their Indian passports"
+   ],
+   "credit_line": "Sources: MEA via Free Press Journal, IANS; Indian missions (The Hague, San Francisco)"
+  }
+ ]
+}

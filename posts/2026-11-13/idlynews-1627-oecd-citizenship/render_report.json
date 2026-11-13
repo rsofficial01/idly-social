@@ -1,0 +1,76 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1627-oecd-citizenship",
+  "slide": 1,
+  "type": "cover",
+  "scale": 0.467
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: OECD International Migration Outlook 2026 via Scroll, Madhyamam",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1627-oecd-citizenship",
+  "slide": 2,
+  "type": "detail",
+  "scale": null
+ },
+ {
+  "stat": 200,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: OECD International Migration Outlook 2026 via Scroll, Madhyamam",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1627-oecd-citizenship",
+  "slide": 3,
+  "type": "detail",
+  "scale": null
+ },
+ {
+  "stat": 232,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: MEA via Free Press Journal, IANS; Indian missions (The Hague, San Francisco)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1627-oecd-citizenship",
+  "slide": 4,
+  "type": "detail",
+  "scale": null
+ }
+]
