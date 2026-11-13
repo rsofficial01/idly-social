@@ -1,0 +1,30 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+  "image_credit": "Image: ReDefine (Prime Focus)",
+  "image_source": "https://www.redefine.co/news/the-journey-begins-with-rama",
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlynerd-ramayana-1000-crore/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlynerd-ramayana-1000-crore/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlynerd-ramayana-1000-crore/03.jpg"
+  ],
+  "score_self": 12,
+  "score_reviewer": 12,
+  "story_id": null,
+  "account": "idlynerd",
+  "media_id": "18138282856591684",
+  "permalink": "https://www.instagram.com/p/DfqcqSInD-g/",
+  "posted_at": "2026-11-13T01:26:38+00:00",
+  "date": "2026-11-13",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlynerd-ramayana-1000-crore/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlynerd-ramayana-1000-crore/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlynerd-ramayana-1000-crore/03.jpg"
+  ],
+  "score_total": 12,
+  "story": {
+    "status": "none"
+  }
+}
