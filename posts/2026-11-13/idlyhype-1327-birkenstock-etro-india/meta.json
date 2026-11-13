@@ -1,0 +1,126 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this collaboration (not in the idly.news API candidates); reference-led story (Hypebeast 13 Nov lead), caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Birkenstock x Etro second release (shearling-lined Boston $630, first Etro Arizona $590) went on sale globally 12 Nov 2026, not yet on birkenstock.in (checked 13:59 IST 13 Nov); birkenstock.in lists the first-release Etro Boston Embroidery at ₹50,990 incl. GST vs $690 in the US (about ₹64,900 at ₹94.04/$, before sales tax), about ₹13,900 lower",
+ "sources": [
+  {
+   "outlet": "Birkenstock Group (press release)",
+   "date": "12 Nov 2026",
+   "url": "https://www.birkenstock-group.com/de/en/detail-press/birkenstock-and-etro-unveil-the-second-release-of-birkenstock-by-etro/"
+  },
+  {
+   "outlet": "Birkenstock (1774 x ETRO page, US)",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.birkenstock.com/us/1774/etro/"
+  },
+  {
+   "outlet": "Birkenstock (US product page, Boston Embroidery)",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.birkenstock.com/us/etro-boston-embroidery-suede-leather/bostonembroidery-utilitysuede-suedeleather-S005757-eva-u_27.html"
+  },
+  {
+   "outlet": "Birkenstock India (birkenstock.in)",
+   "date": "13 Nov 2026 (checked 13:59 IST; listed 9 Sep 2026)",
+   "url": "https://birkenstock.in/products/bostonembroidery-utilitysuede-suedeleather-s005757-eva-u-03916-1033486"
+  },
+  {
+   "outlet": "Moda Operandi",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.modaoperandi.com/women/p/birkenstock/x-etro-boston-shearling-western-buckle-mule-1/764858"
+  },
+  {
+   "outlet": "Moda Operandi",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.modaoperandi.com/women/p/birkenstock/x-etro-western-arizona-sandal/742658"
+  },
+  {
+   "outlet": "Moda Operandi",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.modaoperandi.com/Women/p/birkenstock/x-etro-embroidered-boston-mule/742656"
+  },
+  {
+   "outlet": "ECB via Frankfurter",
+   "date": "12 Nov 2026",
+   "url": "https://api.frankfurter.app/latest?from=USD&to=INR"
+  },
+  {
+   "outlet": "ExchangeRate-API",
+   "date": "13 Nov 2026 00:02 UTC",
+   "url": "https://open.er-api.com/v6/latest/USD"
+  }
+ ],
+ "fact_sources": {
+  "Second release of BIRKENSTOCK by ETRO (shearling-lined Boston; Arizona for the first time) available globally from 12 Nov 2026 on etro.com, 1774.com and selected ETRO and BIRKENSTOCK boutiques and retail partners": [
+   "https://www.birkenstock-group.com/de/en/detail-press/birkenstock-and-etro-unveil-the-second-release-of-birkenstock-by-etro/",
+   "https://www.birkenstock.com/us/1774/etro/"
+  ],
+  "ETRO Boston Shearling $630 (US)": [
+   "https://www.birkenstock.com/us/1774/etro/",
+   "https://www.modaoperandi.com/women/p/birkenstock/x-etro-boston-shearling-western-buckle-mule-1/764858"
+  ],
+  "ETRO Arizona Western $590 (US)": [
+   "https://www.birkenstock.com/us/1774/etro/",
+   "https://www.modaoperandi.com/women/p/birkenstock/x-etro-western-arizona-sandal/742658"
+  ],
+  "ETRO Boston Embroidery $690 (US), before sales tax": [
+   "https://www.birkenstock.com/us/etro-boston-embroidery-suede-leather/bostonembroidery-utilitysuede-suedeleather-S005757-eva-u_27.html",
+   "https://www.modaoperandi.com/Women/p/birkenstock/x-etro-embroidered-boston-mule/742656"
+  ],
+  "birkenstock.in lists the Etro Boston Embroidery at ₹50,990 incl. GST (attributed to birkenstock.in; Taupe in stock only EU 36, Chocolate sold out, at 13:59 IST 13 Nov)": [
+   "https://birkenstock.in/products/bostonembroidery-utilitysuede-suedeleather-s005757-eva-u-03916-1033486",
+   "https://birkenstock.in/products/bostonembroidery-utilitysuede-suedeleather-s005757-eva-u-03916-1033486.js",
+   "https://birkenstock.in/products/bostonembroidery-utilitysuede-suedeleather-s005757-eva-u-03916-1033502.js"
+  ],
+  "birkenstock.in lists the Etro Gizeh Long Fringe at ₹54,490 (attributed)": [
+   "https://birkenstock.in/products/gizehlong-utilitysuede-suedeleather-s005756-eva-u-03915-1033521",
+   "https://birkenstock.in/products/gizehlong-utilitysuede-suedeleather-s005756-eva-u-03915-1033521.js"
+  ],
+  "Chapter two not listed on birkenstock.in (checked 13:59 IST 13 Nov)": [
+   "https://birkenstock.in/search/suggest.json?q=etro",
+   "https://birkenstock.in/products.json?limit=250"
+  ],
+  "USD/INR 94.04 (ECB 12 Nov) / 94.086 (ExchangeRate-API): $690 = about ₹64,900; gap to ₹50,990 about ₹13,900 (₹13,898-13,929), idly's own sum": [
+   "https://api.frankfurter.app/latest?from=USD&to=INR",
+   "https://open.er-api.com/v6/latest/USD"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.birkenstock.com/us/1774/etro/",
+  "url": "https://www.birkenstock.com/on/demandware.static/-/Library-Sites-birkenstock-amer/default/dwc9b9889f/1774/etro/bk-etro-gallery-7-l.jpg",
+  "licence": "Birkenstock's own official image (1774 x ETRO collaboration page gallery), editorial use, credited 'Image: Birkenstock'",
+  "author": "Birkenstock",
+  "credit": "Image: Birkenstock",
+  "size": "2080x2773",
+  "faces": 0,
+  "viewed": true,
+  "subject": "Etro x Birkenstock Boston Embroidery (Chocolate), pair from above on concrete; no people",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.52,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     1.0
+    ],
+    "zoom": 1.0
+   },
+   "note": "Bottom-aligned crop lifts the pair; pair about y 150-1065, headline (2 lines, 100px) top y 1050; logo clear."
+  }
+ },
+ "tags": [
+  "birkenstock1774",
+  "birkenstockin"
+ ],
+ "tags_evidence": "birkenstock1774: linked (instagram.com/birkenstock1774) from https://www.birkenstock.com/us/1774/etro/, the page hosting the cover image. birkenstockin: linked (instagram.com/birkenstockin) from Birkenstock India's own store https://www.birkenstock.in/ footer. Checked 13 Nov 2026."
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Birkenstock",
+  "slug": "idlyhype-1327-birkenstock-etro-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlyhype-1327-birkenstock-etro-india/01.jpg",
+  "scale": 0.519
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Birkenstock US, Moda Operandi, birkenstock.in, ECB",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1327-birkenstock-etro-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyhype-1327-birkenstock-etro-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Birkenstock, Moda Operandi, birkenstock.in",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1327-birkenstock-etro-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyhype-1327-birkenstock-etro-india/03.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,46 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1327-birkenstock-etro-india",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Birkenstock",
+  "Birkenstock India",
+  "Moda Operandi",
+  "ECB"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "₹50,990 Etro Boston Undercuts US Price",
+   "photo": "_work/2026-11-13-hourly-1327/hype/frame_boston_choc/cover_source.png",
+   "photo_credit": "Image: Birkenstock",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "$690",
+   "stat_label": "Etro x Birkenstock Boston's US Price",
+   "bullets": [
+    "About ₹64,900 at ₹94.04 a dollar, before sales tax",
+    "birkenstock.in's ₹50,990 already includes GST",
+    "So India's listed price is about ₹13,900 lower"
+   ],
+   "credit_line": "Sources: Birkenstock US, Moda Operandi, birkenstock.in, ECB"
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Etro x Birkenstock Part Two Went On Sale",
+   "bullets": [
+    "Shearling-lined Boston $630; first Etro Arizona $590",
+    "On etro.com, 1774.com and selected stores worldwide",
+    "Not on birkenstock.in yet (checked 1:59 pm IST)"
+   ],
+   "credit_line": "Sources: Birkenstock, Moda Operandi, birkenstock.in"
+  }
+ ]
+}
