@@ -1,0 +1,151 @@
+{
+ "account": "idlytech",
+ "story_id": 2282,
+ "idly_article": true,
+ "no_idly_article_reason": null,
+ "format": "news",
+ "title": "RBI gives Paytm Payments Services (One 97 subsidiary) in-principle authorisation on 13 Nov 2026 to issue prepaid payment instruments incl. wallets; system + cybersecurity audit report due within 6 months or the nod lapses; no wallets until a final Certificate of Authorisation; applied July 2026; old wallets ran via Paytm Payments Bank (top-ups barred 2024, licence cancelled 24 Apr 2026); One 97 shares touched a 52-week high of ₹1,960",
+ "sources": [
+  {
+   "outlet": "Entrackr",
+   "date": "13 Nov 2026",
+   "url": "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445"
+  },
+  {
+   "outlet": "India Today",
+   "date": "13 Nov 2026",
+   "url": "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13"
+  },
+  {
+   "outlet": "Times of India",
+   "date": "13 Nov 2026",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms"
+  },
+  {
+   "outlet": "Business Today (licence cancellation)",
+   "date": "24 Apr 2026",
+   "url": "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-cites-regulatory-violations-depositor-risks-527391-2026-04-24"
+  },
+  {
+   "outlet": "India TV News (licence cancellation)",
+   "date": "24 Apr 2026",
+   "url": "https://www.indiatvnews.com/business/news/rbi-cancels-paytm-payments-bank-licence-what-it-means-for-customers-and-their-deposits-check-details-here-2026-04-24-1038803"
+  },
+  {
+   "outlet": "idly.news article 2282",
+   "date": "13 Nov 2026",
+   "url": "https://api.idly.news/api/v1/articles/2282/"
+  },
+  {
+   "outlet": "RBI press release (winding up of PPBL)",
+   "date": "28 Jul 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249"
+  },
+  {
+   "outlet": "Business Today (Delhi HC winding-up order)",
+   "date": "28 Jul 2026",
+   "url": "https://www.businesstoday.in/latest/corporate/story/delhi-hc-orders-winding-up-of-paytm-payments-bank-former-sbi-cgm-appointed-official-liquidator-545798-2026-07-28"
+  },
+  {
+   "outlet": "Business Standard",
+   "date": "24 Apr 2026",
+   "url": "https://www.business-standard.com/finance/news/rbi-cancels-paytm-payments-bank-licence-cites-governance-lapses-126042401368_1.html"
+  },
+  {
+   "outlet": "Business Today (what it means for customers)",
+   "date": "24 Apr 2026",
+   "url": "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-what-it-means-for-operations-upi-wallet-payments-customers-527405-2026-04-24"
+  },
+  {
+   "outlet": "Free Press Journal (what happens to your money)",
+   "date": "24 Apr 2026",
+   "url": "https://www.freepressjournal.in/tech/rbi-cancels-paytm-payments-bank-licence-what-happens-to-your-money-wallet-fastag-and-upi"
+  }
+ ],
+ "fact_sources": {
+  "RBI granted PPSL (wholly owned One 97 subsidiary) in-principle authorisation on 13 Nov 2026 to issue/operate PPIs incl. wallets, under the PSS Act 2007": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13",
+   "https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms"
+  ],
+  "System audit incl. cybersecurity audit report due to RBI within six months, else the in-principle authorisation lapses automatically": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://api.idly.news/api/v1/articles/2282/"
+  ],
+  "No wallets/PPIs until RBI's final authorisation (Certificate of Authorisation)": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13"
+  ],
+  "Paytm applied for the PPI/wallet licence in July 2026 (disclosed with Q1 FY27 results/investor presentation)": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13"
+  ],
+  "Old Paytm wallets ran through Paytm Payments Bank; 2024 restrictions barred top-ups to wallets, balances withdrawable": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-cites-regulatory-violations-depositor-risks-527391-2026-04-24"
+  ],
+  "RBI cancelled Paytm Payments Bank's licence on 24 April 2026": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-cites-regulatory-violations-depositor-risks-527391-2026-04-24",
+   "https://www.indiatvnews.com/business/news/rbi-cancels-paytm-payments-bank-licence-what-it-means-for-customers-and-their-deposits-check-details-here-2026-04-24-1038803"
+  ],
+  "One 97 Communications shares touched a 52-week high of ₹1,960 on 13 Nov (TOI headline: 52-week high; India Today: Rs 1,960)": [
+   "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13",
+   "https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms"
+  ],
+  "Two RBI steps: in-principle authorisation now, final Certificate of Authorisation needed before wallets ('1 of 2')": [
+   "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+   "https://www.indiatoday.in/business/story/paytm-gets-crucial-rbi-nod-inches-closer-to-bringing-back-prepaid-wallet-services-3038155-2026-11-13"
+  ],
+  "Delhi High Court ordered PPBL wound up (orders of 8 and 22 July 2026); Official Liquidator Girikumar M. Nair, former SBI CGM, exercises the board's powers from 8 July 2026": [
+   "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249",
+   "https://www.businesstoday.in/latest/corporate/story/delhi-hc-orders-winding-up-of-paytm-payments-bank-former-sbi-cgm-appointed-official-liquidator-545798-2026-07-28"
+  ],
+  "RBI: PPBL has sufficient liquidity to repay its entire deposit liability on winding up": [
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-cites-regulatory-violations-depositor-risks-527391-2026-04-24",
+   "https://www.business-standard.com/finance/news/rbi-cancels-paytm-payments-bank-licence-cites-governance-lapses-126042401368_1.html",
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-what-it-means-for-operations-upi-wallet-payments-customers-527405-2026-04-24"
+  ],
+  "Old wallet balances were PPBL deposits (deposits held across wallets, current and savings accounts)": [
+   "https://www.business-standard.com/finance/news/rbi-cancels-paytm-payments-bank-licence-cites-governance-lapses-126042401368_1.html",
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-cites-regulatory-violations-depositor-risks-527391-2026-04-24"
+  ],
+  "Paytm UPI, QR (and other app) payments run through partner banks, unaffected by PPBL's closure": [
+   "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-payments-bank-licence-what-it-means-for-operations-upi-wallet-payments-customers-527405-2026-04-24",
+   "https://www.freepressjournal.in/tech/rbi-cancels-paytm-payments-bank-licence-what-happens-to-your-money-wallet-fastag-and-upi",
+   "https://www.business-standard.com/finance/news/rbi-cancels-paytm-payments-bank-licence-cites-governance-lapses-126042401368_1.html"
+  ]
+ },
+ "image": {
+  "page": "https://ir.paytm.com/press-kit",
+  "url": "https://pwebassets.paytm.com/ocl-documents/document/ir/press-kit/brandImages.zip (Image3.jpg)",
+  "licence": "Paytm official press kit (Brand Images), editorial use, credited 'Image: Paytm'",
+  "author": "Paytm",
+  "size": "4500x3000",
+  "viewed": true,
+  "faces": 0,
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.45,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.68,
+     0.5
+    ],
+    "zoom": 1.0
+   }
+  }
+ },
+ "tags": [
+  "paytm"
+ ],
+ "tags_evidence": "paytm: Paytm's own investor-relations site footer (https://ir.paytm.com/press-kit) links https://www.instagram.com/paytm/; Paytm is the owner of the cover image."
+}

@@ -1,0 +1,59 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1627-paytm-wallet-rbi-nod",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Entrackr",
+  "India Today",
+  "Times of India",
+  "Business Today",
+  "Business Standard",
+  "RBI"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Paytm Wallet Gets RBI's First Nod, 6-Month Audit Clock Starts",
+   "photo": "_work/2026-11-13-hourly-1627/idlytech/frame_paytm3/cover_source.png",
+   "photo_credit": "Image: Paytm",
+   "focal": [
+    0.68,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1 OF 2",
+   "stat_label": "RBI Approvals Done; No Paytm Wallet Yet",
+   "bullets": [
+    "Final step: RBI's Certificate of Authorisation",
+    "Miss the audit deadline and the nod lapses",
+    "New issuer: Paytm Payments Services, not the payments bank"
+   ],
+   "credit_line": "Sources: Entrackr, India Today, Times of India"
+  },
+  {
+   "type": "detail",
+   "stat": "24 APR",
+   "stat_label": "RBI Cancelled Paytm Payments Bank's Licence in 2026",
+   "bullets": [
+    "Old Paytm wallets ran through that bank",
+    "Top-ups to those wallets stopped in 2024",
+    "Paytm applied for a fresh wallet licence in July"
+   ],
+   "credit_line": "Sources: Entrackr, Business Today, India Today"
+  },
+  {
+   "type": "detail",
+   "stat": "8 JUL",
+   "stat_label": "Old Wallet Money Now Sits With a Liquidator",
+   "bullets": [
+    "Ordered by the Delhi High Court on RBI's plea",
+    "RBI says the bank can repay every depositor",
+    "Paytm UPI and QR payments run through partner banks"
+   ],
+   "credit_line": "Sources: RBI, Business Today, Business Standard"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Image: Paytm",
+  "slug": "idlytech-1627-paytm-wallet-rbi-nod",
+  "slide": 1,
+  "type": "cover",
+  "scale": 0.45
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Entrackr, India Today, Times of India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1627-paytm-wallet-rbi-nod",
+  "slide": 2,
+  "type": "detail",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Entrackr, Business Today, India Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1627-paytm-wallet-rbi-nod",
+  "slide": 3,
+  "type": "detail",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: RBI, Business Today, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1627-paytm-wallet-rbi-nod",
+  "slide": 4,
+  "type": "detail",
+  "scale": null
+ }
+]

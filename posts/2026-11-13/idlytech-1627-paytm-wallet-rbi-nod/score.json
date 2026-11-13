@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (13) and reviewer (12). Weak: hook, keep. Reviewer: Version seen: G4 r2 (4 slides). hook 1: no surprising number on the cover; '6-Month Audit Clock' is Paytm's compliance step, not a reader stake, and the payoff is hedged ('not yet'). send 2 (was 1): slide 4 now gives old wallet users a concrete reason to forward it to family: their old balance sits with a court-appointed liquidator since 8 Jul and the RBI says the bank can repay every depositor; Paytm UPI/QR unaffected. keep 1: still nothing to act on (no claim route, form or deadline in any source), so not worth saving beyond the stages. read 2, reply 2, original 2, alone 2. Facts checked: Entrackr (in-principle nod, 6-month audit, certificate), Business Today 28 Jul (Delhi HC winding-up orders 8 and 22 Jul 2026, liquidator Girikumar M. Nair from 8 Jul). Layout: all 4 slides at full size (01 and 03 unchanged from G4 r1): cover full-bleed, subject whole, headline white and clear of the credit; slide 4's 'J' swash clears the label by about 25 px; one left edge; no overlap, cut-off or collision. At the gate with no headroom. Desk: Hook 1: clear stake (Paytm wallet) and the 6-month clock on the cover, but no surprising number. Send 2: slide 4 tells ex-wallet users where their leftover money stands (liquidator since 8 Jul, RBI says all deposits repayable, UPI unaffected), a reason to forward to a parent/friend who had a balance. Keep 2: the two-step approval, 6-month audit, the 2024-2026 bank timeline and the liquidator date. Reply: which app replaced the wallet for small payments. Original: own synthesis from 9 sources + Paytm press image. Alone: each slide names Paytm and the RBI."
+}
