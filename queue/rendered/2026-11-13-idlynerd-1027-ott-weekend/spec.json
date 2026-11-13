@@ -81,5 +81,14 @@
       "notes": "hook 2 only if the cover clearly shows Daayra or SOTY: After Dark (decided at render); original 1: weekly OTT lists are a common format, our angle is platform/day/language for Indian readers with 2 sources per title."
     }
   },
-  "created_at": "2026-11-13T11:04:15+05:30"
+  "created_at": "2026-11-13T11:04:15+05:30",
+  "caption_final": "Seven new films and series reach Indian streaming platforms by this weekend, six of them on Friday, 13 November.\n\nNetflix adds Daayra, Meghna Gulzar's Hindi crime thriller, eight weeks after it opened in cinemas on 18 September, and Heartland, an English thriller set in Nashville.\n\nJioHotstar premieres Student of the Year: After Dark, a Hindi thriller series. Sony LIV releases Parivarik ManuRanjan, a Hindi family comedy made as a Sony LIV original.\n\nZEE5 adds two regional titles: Bandra, a Malayalam film from 2023, and the Bengali crime thriller Mrigaya 1.5.\n\nJailer 2 has been on Prime Video since Thursday, 12 November, in Tamil, Telugu, Hindi, Malayalam and Kannada, in more than 240 countries and territories.\n\nWhat are you watching first this weekend, and who's watching it with you?\n\nSources: Netflix, JioHotstar, Sony LIV, Prime Video India, The Hollywood Reporter India, Esquire India, The Daily Jagran, IWMBuzz, Flickonclick, T2, Khaleej Times, Gulf News\n\n#NewOnOTT #WeekendWatch #Daayra #Jailer2 #idlynerd\n\nImage: JioHotstar (official video)",
+  "image_credit": "Image: JioHotstar (official video)",
+  "lane": {
+    "spec_sha256": "309ffea27d5da32600fd27819efa8f3d40f5cfd68221711c92ea48d34e65971e",
+    "rendered_at": "2026-11-13T05:36:00+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=bFxP8QvJaAI",
+    "image_url": "https://i.ytimg.com/vi/bFxP8QvJaAI/maxresdefault.jpg"
+  }
 }
