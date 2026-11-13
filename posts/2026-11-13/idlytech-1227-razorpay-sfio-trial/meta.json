@@ -1,0 +1,120 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "Reference-led story (LiveLaw Biz 12 Nov, Bar & Bench and Inc42 13 Nov 2026); no idly.news article in the run's candidates (last 30 h).",
+ "format": "news",
+ "title": "Karnataka High Court (Justice M. Nagaprasanna, WP 16078/2026) refuses to quash the SFIO's criminal case against Razorpay directors Harshil Mathur and Shashank Kumar (accused Nos. 8 and 9); the SFIO says about ₹320 crore of MENTPL's payments passed through Razorpay and alleges KYC and transaction-monitoring lapses; trial pending in Bengaluru; Razorpay itself not a party; Razorpay's ₹5,000-6,000 crore IPO reportedly cleared by SEBI (~$5 billion valuation)",
+ "sources": [
+  {
+   "outlet": "LiveLaw Biz",
+   "date": "2026-11-12",
+   "url": "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "2026-11-13",
+   "url": "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors"
+  },
+  {
+   "outlet": "Inc42",
+   "date": "2026-11-13",
+   "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  },
+  {
+   "outlet": "Inc42",
+   "date": "2026-11-04",
+   "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-₹6000-cr-ipo/"
+  },
+  {
+   "outlet": "PTI (via HDFC Sky)",
+   "date": "2026-11-04",
+   "url": "https://hdfcsky.com/news/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-usd-5-billion-valuation"
+  }
+ ],
+ "fact_sources": {
+  "Karnataka High Court refused to quash the SFIO criminal case against Razorpay directors Harshil Mathur and Shashank Kumar": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Mathur is whole-time director and Kumar managing director": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Justice M. Nagaprasanna; facts disputed, to be tested at trial; no mini-trial": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Trial pending in Bengaluru": [
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors",
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210"
+  ],
+  "SFIO says about ₹320 crore of MENTPL transactions passed through Razorpay": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Directors accused of failing in duties over KYC verification and transaction monitoring": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Accused Nos. 8 and 9": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors"
+  ],
+  "Directors argued SFIO exceeded jurisdiction as Razorpay was not among the 33 companies in the Centre's 2022 probe order": [
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-refuses-to-quash-sfio-case-against-razorpay-directors",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210"
+  ],
+  "Razorpay IPO of ₹5,000-6,000 crore reportedly cleared by SEBI": [
+   "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-₹6000-cr-ipo/",
+   "https://hdfcsky.com/news/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-usd-5-billion-valuation",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Valuation about $5 billion": [
+   "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-₹6000-cr-ipo/",
+   "https://hdfcsky.com/news/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-usd-5-billion-valuation"
+  ],
+  "Payments of MENTPL, an alleged loan-app operator (ran lending through NBFC X10's apps)": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "MENTPL allegedly used coercive/predatory loan recovery": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ],
+  "Razorpay itself is not accused/not a party, though its role could emerge with further investigation": [
+   "https://www.livelawbiz.com/company-law/high-court/karnataka-high-court-refuses-quash-sfio-case-against-razorpay-directors-alleged-merchant-onboarding-lapses-558210",
+   "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo of a public building, not a brand's own image; no people tagged.",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:19-High_Court_Karnataka.JPG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/19-High_Court_Karnataka.JPG/1920px-19-High_Court_Karnataka.JPG",
+  "licence": "CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)",
+  "author": "Kalakki (Malayalam Wikipedia; transferred to Commons by Sreejithk2000)",
+  "viewed": true,
+  "faces": 0,
+  "size": "1920x1440 (original 3264x2448)",
+  "credit": "Photo: Kalakki / Wikimedia Commons, CC BY-SA 2.5",
+  "subject": "Karnataka High Court (Attara Kacheri), Bengaluru: the court that issued the ruling"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-13-hourly-1227/idlytech/frame_razorpay-sfio/cover_source.png",
+  "focal": [
+   0.5,
+   0.467
+  ],
+  "zoom": 1.07,
+  "upscale": 0.94,
+  "faces": 0,
+  "note": "4:5 crop, focal [0.5, 0.467], zoom 1.07 (G4 FIX: crops lawn litter); no upscale"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1227-razorpay-sfio-trial",
+ "date": "13 Nov 2026",
+ "sources": [
+  "LiveLaw",
+  "Bar & Bench",
+  "Inc42"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Razorpay Founders Must Face Trial Over ₹320 Crore Loan-App Payments",
+   "photo": "_work/2026-11-13-hourly-1227/idlytech/frame_razorpay-sfio/cover_source.png",
+   "photo_credit": "Photo: Kalakki / Wikimedia Commons, CC BY-SA 2.5",
+   "focal": [
+    0.5,
+    0.467
+   ],
+   "zoom": 1.07
+  },
+  {
+   "type": "detail",
+   "stat": "₹320 CR",
+   "stat_label": "What the SFIO Says Passed Through Razorpay",
+   "bullets": [
+    "Payments of MENTPL, an alleged loan-app operator",
+    "MENTPL allegedly used coercive recovery on borrowers",
+    "Directors accused of KYC and monitoring lapses"
+   ],
+   "credit_line": "Sources: LiveLaw, Bar & Bench, Inc42"
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,000-6,000 CR",
+   "stat_label": "Razorpay's Planned IPO, Reportedly Cleared by SEBI",
+   "bullets": [
+    "IPO would value Razorpay at about $5 billion",
+    "Razorpay itself isn't accused, though its role could emerge"
+   ],
+   "credit_line": "Sources: Inc42, PTI, LiveLaw"
+  }
+ ]
+}

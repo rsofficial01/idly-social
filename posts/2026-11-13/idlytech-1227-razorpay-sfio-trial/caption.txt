@@ -1,0 +1,13 @@
+The Karnataka High Court has refused to quash the Serious Fraud Investigation Office's (SFIO) criminal case against Razorpay co-founders Harshil Mathur and Shashank Kumar, the company's whole-time director and managing director. Justice M. Nagaprasanna said the case turns on disputed facts that can only be tested at trial, which is pending in Bengaluru.
+
+The SFIO says about ₹320 crore of payments for MENTPL (Mad Elephant Network Technology) passed through Razorpay. It alleges MENTPL ran a digital-lending business with coercive loan recovery, and it accuses the two directors, accused Nos. 8 and 9, of failing in their duties over KYC checks and transaction monitoring. The directors argued the SFIO had gone beyond its powers, as Razorpay was not among the 33 companies the Centre ordered it to probe in 2022. The court noted that Razorpay itself is not a party to the case, though its role could emerge with further investigation.
+
+The ruling comes as Razorpay prepares a ₹5,000-6,000 crore IPO, which SEBI has cleared according to PTI and Inc42, at a valuation of about $5 billion.
+
+Has a loan app ever called your contacts to recover money from you?
+
+Sources: LiveLaw, Bar & Bench, Inc42, PTI
+
+#Razorpay #Fintech #IndianStartups #LoanApps #idlytech
+
+Photo: Kalakki / Wikimedia Commons, CC BY-SA 2.5
