@@ -1,0 +1,49 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0827-notion-ai-chats-exposed",
+ "date": "13 Nov 2026",
+ "sources": ["Notion", "TechCrunch", "BleepingComputer", "SecurityWeek"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Notion AI Chats Exposed via Supplier Hack. Pasted a Password?",
+   "photo": "_work/2026-11-13-hourly-0827/frame/idlytech-notion/cover_source.png",
+   "photo_credit": "Image: Notion",
+   "focal": [0.276, 0.5],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "<1%",
+   "stat_label": "Notion Says Under 1% of Workspaces Were Hit",
+   "bullets": [
+    "Leaked: what people typed into Notion AI, plus replies",
+    "Most chats can't be traced to a user, Notion says",
+    "Supplier Fireworks AI says attackers came via a cloud host"
+   ],
+   "credit_line": "Sources: Notion, TechCrunch, BleepingComputer, SecurityWeek"
+  },
+  {
+   "type": "detail",
+   "stat": "3 NOV",
+   "stat_label": "Notion Cut Off Fireworks AI and Paused Insights",
+   "bullets": [
+    "Insights, the admin view of team AI use, is off",
+    "Notion says Fireworks kept data despite a no-retention deal",
+    "Fireworks' second breach in about two months, reports say"
+   ],
+   "credit_line": "Sources: Notion, TechCrunch, BleepingComputer, SecurityWeek"
+  },
+  {
+   "type": "detail",
+   "stat": "9 NOV",
+   "stat_label": "Notion's Advice to the Workspaces It Flagged",
+   "bullets": [
+    "Pasted passwords or API keys into Notion AI? Change them",
+    "Check on desktop: Help menu, then Security incident review",
+    "No word from Notion means no action for now"
+   ],
+   "credit_line": "Sources: Notion, BleepingComputer, SecurityWeek"
+  }
+ ]
+}
