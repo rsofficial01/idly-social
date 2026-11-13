@@ -1,0 +1,185 @@
+{
+  "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-13T02:29:50+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.netflix.com/tudum/heartland",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.netflix.com/tudum/heartland",
+    "source_url": "https://www.netflix.com/tudum/heartland",
+    "image_url": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQbl2tnhCZJ18zlavbnX_AZ6h9C1ZTq9PrSKmjun0wVFT8WVNIR-9UNg9XFHwNaLQScdiU82Ef7AOmpBoAsDMHqqaui75cmpLLScHZ8LLDhx7WghVEYXw6Lb_V06KhqKAHSaQQUPu-mP6nV2hT8gOCByaM8M.jpg?r=e21",
+    "credit": "Image: Netflix",
+    "organisation": "Netflix",
+    "image_size": [
+      1200,
+      675
+    ],
+    "log": [
+      "page https://www.netflix.com/tudum/heartland (Netflix): og:title 'Heartland Cast, News, Videos and more', 1 image(s)",
+      "image https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQbl2tnhCZJ18zlavbnX_AZ6h9C1ZTq9PrSKmjun0wVFT8WVNIR-9UNg9XFHwNaLQScdiU82Ef7AOmpBoAsDMHqqaui75cmpLLScHZ8LLDhx7WghVEYXw6Lb_V06KhqKAHSaQQUPu-mP6nV2hT8gOCByaM8M.jpg?r=e21 (1200x675)"
+    ],
+    "og_title": "Heartland Cast, News, Videos and more"
+  },
+  "faces": [
+    [
+      526.6,
+      183.7,
+      76.4,
+      106.1,
+      0.873
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.4707,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 2.0,
+    "crop": [
+      295.0,
+      0.0,
+      540.0,
+      675.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        445,
+        342,
+        635,
+        605
+      ]
+    ],
+    "logo_saliency": 2.0,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        526.6,
+        183.7,
+        76.4,
+        106.1,
+        0.873
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 2.0,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 5 known items, 1 needing care (minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Netflix",
+      "Sources: Netflix, Esquire India, The Daily Jagran",
+      "Sources: JioHotstar, Sony LIV, ZEE5, Esquire India, The Week",
+      "Sources: Prime Video, Gulf News, The Week"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Netflix",
+      "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 264,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Netflix, Esquire India, The Daily Jagran",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: JioHotstar, Sony LIV, ZEE5, Esquire India, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Prime Video, Gulf News, The Week",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Six films and series to stream this weekend, five of them new on Friday, 13 November.\n\nNetflix adds two films on Friday: Daayra, Meghna Gulzar's crime thriller, which reached cinemas on 18 September; and Heartland, a Netflix mystery thriller starring Jessica Chastain.\n\nAlso on Friday: the Hindi thriller series Student of the Year: After Dark on JioHotstar; the Hindi family comedy Parivarik ManuRanjan, which skipped cinemas, on Sony LIV; and the Malayalam action drama Bandra on ZEE5, three years after its November 2023 cinema run.\n\nJailer 2 has been on Prime Video since Thursday, 12 November, in Tamil, Telugu, Hindi, Malayalam and Kannada, in more than 240 countries and territories.\n\nWhich of these did you skip in cinemas to watch at home?\n\nSources: Netflix, Prime Video, JioHotstar, Sony LIV, ZEE5, Esquire India, The Daily Jagran, Gulf News\n\n#NewOnOTT #OTTReleases #Jailer2 #Daayra #idlynerd\n\nImage: Netflix",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
