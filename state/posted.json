@@ -3189,5 +3189,33 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0827-pink-line-opens-saturday/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-13-idlytech-nvidia-huang-photo-b",
+    "image_credit": "Image: NVIDIA",
+    "image_source": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlytech-nvidia-huang-photo-b/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlytech-nvidia-huang-photo-b/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlytech-nvidia-huang-photo-b/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-13-idlytech-nvidia-huang-photo-b/04.jpg"
+    ],
+    "score_self": 12,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18445364239178476",
+    "permalink": "https://www.instagram.com/p/Dfqv_s1kWib/",
+    "posted_at": "2026-11-13T04:15:33+00:00",
+    "date": "2026-11-13",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlytech-nvidia-huang-photo-b/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlytech-nvidia-huang-photo-b/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlytech-nvidia-huang-photo-b/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlytech-nvidia-huang-photo-b/04.jpg"
+    ],
+    "score_total": 12
   }
 ]
