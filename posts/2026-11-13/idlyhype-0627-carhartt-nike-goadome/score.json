@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (12) and reviewer (12). Weak: hook, send. Reviewer: Blind G4. Face screen gave faces=0 on 01-04.jpg, so I opened all four at full size. Read render_report.json, caption.txt, alt.txt, meta.json and publish.json. HOLD list clear. Cover: full-bleed Carhartt WIP product still, no letterbox, box or blur, sharp (photo scale 0.556, no upscale). The shoe is whole at x 46-1033, y 264-781 (measured), clear of the logo, which stays legible on the template's top grey gradient. Headline: 3 lines, 84 px, white, top 998, well below the sole; one left edge (x 50/52/52). The comma in '$190,' ends at x 995 and the vertical credit 'Image: Carhartt WIP' starts at x 1023, a 28 px gap, so they don't touch. The ~200 px gradient between sole and headline reads as product-shot breathing room, not an empty band. Slides 2-4: white Title Case labels; labels and bullets share the x 72 edge; no overlap or overflow; the 'f' in '0 of 4' stops about 23 px above the label; Sources lines readable; render report shows no credit_collision. Copy: all five G2+3 fixes are in ('select stores', both labels name the shoe, 'No listing found on nike.in'). Caption: one '?', Sources line, 4 hashtags with #idlyhype last, ends 'Image: Carhartt WIP', no idly.news line (story_id null), no bait or hype. Alt text is two sentences. Tag carharttwip has evidence in meta.json. Facts verified at G1/G2: Nike launch page IW6306-200 'Light British Tan and Twilight Marsh' $190 'Available 11/20'; Carhartt WIP 43J pa"
+}

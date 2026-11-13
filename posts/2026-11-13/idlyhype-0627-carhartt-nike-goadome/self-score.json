@@ -1,13 +1,11 @@
 {
- "checks": {
-  "hook": 1,
-  "read": 2,
-  "send": 1,
-  "keep": 2,
-  "reply": 2,
-  "original": 2,
-  "alone": 2
- },
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
  "total": 12,
  "notes": "Ceiling 12: foreign drop, no India route (hook/send capped). Cover shows SNKRS pair IW6306-200, headline renders 3 lines starting y=998 below the sole (~y 775); faces=0 on all slides."
 }
