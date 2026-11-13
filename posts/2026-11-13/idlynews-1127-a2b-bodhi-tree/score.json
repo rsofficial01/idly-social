@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 1,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (13) and reviewer (12). Weak: read, keep. Reviewer: Reviewer Gate 4, @idlynews A2B/Bodhi Tree (idlynews-1127-a2b-bodhi-tree). Final render checked after the Gate 4 fix: cover headline 'A2B to Sell Control for Over ₹1,600 Crore', 100px, 2 lines, top y 1050, clears the Tamil sign; PASS. read 1: slide 2's bullets are a fact list (roots, staff, countries) that never says why the sale matters to the reader, and slide 3 leads on a thin '3RD' stat. keep 1: nothing a reader can act on or needs to save; no closing date, listing date or customer-facing change, only deal size and outlet counts. Hook 2: the ₹1,600 crore is on the cover, over the actual A2B sign, and a household chain changing hands is a clear stake. Send 2: Chennai and Bengaluru families and the diaspora. Reply 2: the A2B order question comes from readers' own lives. Original 2: own synthesis; Commons CC BY-SA 4.0 photo, credited on the cover and as the caption's last line. Alone 2: slides 2 and 3 name A2B and Bodhi Tree. Facts verified against TNM, Entrackr, Adgully and Chennai Online. Self-score not seen. Desk: keep 1: a deal story; the keepable parts (outlet counts, where A2B is abroad, listing plan) are useful but not dates, prices or deadlines a reader acts on. hook 2: ₹1,600 crore and a household Chennai brand on the cover. send 2: Chennai/Bengaluru families and diaspora in Singapore/US. reply 2: everyone has an A2B order. Render: no overflow/collision; cover English sign whole; centre Tamil sign cut at left edge under the scrim (accepted per reviewer focal 0.70)."
+}
