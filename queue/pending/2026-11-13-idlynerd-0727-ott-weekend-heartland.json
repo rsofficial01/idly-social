@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-13-idlynerd-0727-ott-weekend-heartland",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "New on OTT, 12-13 Nov 2026: Daayra, Heartland (Netflix); SOTY: After Dark (JioHotstar); Parivarik ManuRanjan (Sony LIV); Bandra (ZEE5); Jailer 2 (Prime Video)",
+  "headline": "Heartland and Jailer 2 Lead 6 OTT Releases This Weekend",
+  "caption": "Six films and series to stream this weekend, five of them new on Friday, 13 November.\n\nNetflix adds two films on Friday: Daayra, Meghna Gulzar's crime thriller, which reached cinemas on 18 September; and Heartland, a Netflix mystery thriller starring Jessica Chastain.\n\nAlso on Friday: the Hindi thriller series Student of the Year: After Dark on JioHotstar; the Hindi family comedy Parivarik ManuRanjan, which skipped cinemas, on Sony LIV; and the Malayalam action drama Bandra on ZEE5, three years after its November 2023 cinema run.\n\nJailer 2 has been on Prime Video since Thursday, 12 November, in Tamil, Telugu, Hindi, Malayalam and Kannada, in more than 240 countries and territories.\n\nWhich of these did you skip in cinemas to watch at home?\n\nSources: Netflix, Prime Video, JioHotstar, Sony LIV, ZEE5, Esquire India, The Daily Jagran, Gulf News\n\n#NewOnOTT #OTTReleases #Jailer2 #Daayra #idlynerd",
+  "alt_text": "A still from Netflix's Heartland: a figure in a cowboy hat stands with arms crossed under neon bar signs on a city street at night, with the headline \"Heartland and Jailer 2 Lead 6 OTT Releases This Weekend\". The next slides list Friday's two Netflix films (Daayra, Heartland), Friday's releases on JioHotstar, Sony LIV and ZEE5 (Student of the Year: After Dark, Parivarik ManuRanjan, Bandra), and Jailer 2 on Prime Video in five languages.",
+  "sources": [
+    "Netflix",
+    "Prime Video",
+    "JioHotstar",
+    "Sony LIV",
+    "ZEE5",
+    "Esquire India",
+    "The Daily Jagran",
+    "Gulf News"
+  ],
+  "detail_slides": [
+    {
+      "stat": "13 NOV",
+      "stat_label": "Two New Films on Netflix India Friday",
+      "bullets": [
+        "Daayra · Meghna Gulzar's crime thriller, in cinemas 18 Sep",
+        "Heartland · Netflix mystery thriller starring Jessica Chastain"
+      ],
+      "credit_line": "Sources: Netflix, Esquire India, The Daily Jagran"
+    },
+    {
+      "stat": "3",
+      "stat_label": "Friday Releases on JioHotstar, Sony LIV and ZEE5",
+      "bullets": [
+        "Student of the Year: After Dark · JioHotstar · Hindi thriller",
+        "Parivarik ManuRanjan · Sony LIV · Hindi comedy, skipped cinemas",
+        "Bandra · ZEE5 · Malayalam action drama, three years after cinemas"
+      ],
+      "credit_line": "Sources: JioHotstar, Sony LIV, ZEE5, Esquire India, The Week"
+    },
+    {
+      "stat": "5",
+      "stat_label": "Languages Jailer 2 Streams in on Prime Video",
+      "bullets": [
+        "Tamil, Telugu, Hindi, Malayalam, Kannada; streaming since 12 Nov",
+        "In 240+ countries, so family abroad can watch too",
+        "Four weeks after its 15 Oct cinema release"
+      ],
+      "credit_line": "Sources: Prime Video, Gulf News, The Week"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.netflix.com/tudum/heartland"
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: list. Special 'New on OTT This Weekend' (Fri 13 Nov 2026), hourly run 0727; G1 PASS (7 fixes), G2+3 PASS (2 fixes: cover wording, caption clause). One title removed at main's HOLD (never-post story id). Cover route new this run: Netflix Tudum Heartland hub og:image (alt: figure in a cowboy hat under neon signs); the two Heartland article og:images and all YouTube thumbnails failed on 12-13 Nov. No fallback by design (other titles would mismatch the headline). Heartland unlocks ~1:30 pm IST, so no time is stated. Tags empty. Stories paused: story false. No gossip.",
+  "created_at": "2026-11-13T07:58:57+05:30",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "hook 2: Heartland and Jailer 2 plus the count 6 and 'this weekend' on the cover; original 1: weekly OTT lists are a common format; cover image risk is judged at G4."
+    }
+  }
+}
