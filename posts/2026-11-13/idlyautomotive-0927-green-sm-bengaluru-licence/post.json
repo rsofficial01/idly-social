@@ -1,0 +1,47 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0927-green-sm-bengaluru-licence",
+ "date": "13 Nov 2026",
+ "sources": [
+  "MotorBeam",
+  "Vijayavani",
+  "The Week",
+  "Business Today",
+  "Free Press Journal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Vietnam's Green SM Gets Bengaluru Cab Licence Till 2031",
+   "photo": "_work/2026-11-13-hourly-0927/idlyautomotive/frame/cover_source.png",
+   "photo_credit": "Photo: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "JUN 2026",
+   "stat_label": "Already Running Electric Cabs in Delhi-NCR",
+   "bullets": [
+    "Own cars, own drivers: the model BluSmart ran",
+    "Fleet: VinFast's seven-seat Limo Green electric MPV",
+    "Cabs carry cameras and emergency buttons for riders"
+   ],
+   "credit_line": "Sources: Business Today, The Week, Free Press Journal, MotorBeam"
+  },
+  {
+   "type": "detail",
+   "stat": "2",
+   "stat_label": "Bengaluru Driver Unions Oppose the Licence",
+   "bullets": [
+    "Karnataka Rajya Chalakara Parishath and Peace Auto Union",
+    "They fear cheaper fares will cut drivers' earnings",
+    "Unions question if cabs passed meter, GPS checks"
+   ],
+   "credit_line": "Sources: MotorBeam, Vijayavani"
+  }
+ ]
+}
