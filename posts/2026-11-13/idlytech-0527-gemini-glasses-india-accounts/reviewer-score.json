@@ -1,0 +1,12 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "verdict": "PASS",
+ "notes": "hook 1 and send 1: foreign product with no India release (learnings rule). The account restriction and $395 on the cover give a clear stake, but the rule caps both. Everything else 2: keep has prices, the 10 Dec date, phone compatibility, the account and age rule and the Rs 44,300 Indian alternative; reply is an own-life question with no bait; original is idly's India-account angle with the maker's credited product photo; alone, every slide reads without the caption. Checked: facecheck faces=0 on 01-04 (run by reviewer); all four slides opened at full size; all four G2+3 fixes present exactly ('10 DEC'; 'Cheapest Warby Parker frames sell in the US only'; 'Ray-Ban Meta Gen 3's Starting Price in India'; '...blurred before Gemini processes'). Cover: the actual GGS001 pair, full-bleed, scaled down (0.60), sharp, whole at x 69-1007, y 360-704, clear of the logo and the headline (top 974); headline pure white, 92 px x 3 lines, sharing a left edge with the date; vertical credit 'Image: Gentle Monster' legible, no collision. The logo is legible but low-contrast: white on mid-grey (about 176 luminance), helped by its shadow; acceptable, watch on future light product shots. The ~270 px soft-grey gap between the pair and the headline is the photo's plain backdrop shading into the scrim, not a layout band; the pair already spans 87% of the width. Slides 2-4: one left edge, no overflow or collision, source lines inside and readable; slide 3 '41 g' descender clears the label by 23 px (measured), not touching; slide 4 label wraps cleanly. render_report: no overflow, credit_collision [] on 02-04. Caption: exactly one '?', the idly.news line with story 2173 (exists; no_idly_article false), Sources line, 5 hashtags ending #idlytech, 'Image: Gentle Monster' last, no bait or hype words; facts match Google's blog (prices, 10 Dec, 41 g, 9 h, 12 MP, iPhone 13 Pro, US/South Korea accounts, 18+), tbreak and Meta's newsroom (Ray-Ban Meta Gen 3 from INR 44,300). Tag gentlemonster confirmed on gentlemonster.com. queue/approved empty."
+}
