@@ -3524,5 +3524,23 @@
     "tagged": [
       "doom"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18079789829727349",
+    "permalink": "https://www.instagram.com/p/DfsCt83j2Hc/",
+    "posted_at": "2026-11-13T16:18:28+00:00",
+    "date": "2026-11-13",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-2123-zetwerk-q2-results/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-2123-zetwerk-q2-results/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-2123-zetwerk-q2-results/03.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "zetwerk"
+    ]
   }
 ]
