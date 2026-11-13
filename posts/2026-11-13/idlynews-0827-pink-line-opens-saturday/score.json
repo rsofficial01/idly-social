@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (13) and reviewer (13). Weak: hook, keep. Reviewer: Blind reviewer G4, 13 Nov ~09:35 IST. hook 1: the stake is clear for Bengaluru riders (opens 6 AM Saturday on Bannerghatta Road), but '6 AM' is a time, not a surprising number; the stake is regional on a national page; and the cover photo (Jayadeva station block, Oct 2025) doesn't read as a metro line at a glance: no train, no viaduct. Every other check is at 2. Read: the G2+3 fixes made each bullet earn its place. Send: a commuter to family or flatmates. Keep: start time, six stations, interchange, peak gap, fares not out. Reply: a genuine own-trip question. Original: own synthesis, Commons photo credited. Alone: each slide names the Pink Line. Fixes verified: no SG Palya, Bilekahalli, GKToday or Hawk in post.json, caption, alt or meta; slide 3 bullet 3 now 'Gap may shorten as rider numbers grow, reports say' (MRN and Asianet). Opened at full size: 01 (as a copy with two small patches blurred: the forecourt where YuNet finds about 6 px figures at 1.5-2x, and a 0.3-score facade flicker; the copy and every slide re-screened faces=0), 02, 03 and 04. Also read render_report.json (cover scale 0.938, no overflow, no credit collisions), caption.txt (post_problems re-run: errors []), alt.txt, post.json and meta.json. HOLD list: none. No overlapping or touching text; one left edge at x=72; white headline; no big empty band; nothing cut off; the cover shows the station full-bleed; not letterboxed; sharp (downscaled). Publish before the inauguration, or change the caption to 'inaugurated'."
+}
