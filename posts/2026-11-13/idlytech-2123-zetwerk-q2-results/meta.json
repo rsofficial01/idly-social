@@ -1,0 +1,72 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Zetwerk's Q2 FY27 results (not in the idly.news API candidates); built from Zetwerk's own stock exchange press release and investor deck plus Entrackr, Inc42, Multibagg, Lapaas Voice and Free Press Journal; caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Zetwerk Q2 FY27 (Jul-Sep 2026; results filed 13 Nov 2026, its first since listing on 23 Oct 2026): revenue from operations ₹4,599 crore (+18% YoY, +12% QoQ); net loss ₹88 crore (+43% from ₹61.6 crore YoY; -88% from ₹733 crore in Q1 FY27); adjusted PBT (excl. share-based payments) ₹28 crore; manufacturing order book a record ₹14,595 crore (+67% YoY); Q2 new orders ₹4,613 crore (+44%); NSE listing ₹159.25 vs IPO price ₹151",
+ "sources": [
+  {"outlet": "Zetwerk (press release filed with NSE/BSE)", "date": "13 Nov 2026", "url": "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf"},
+  {"outlet": "Zetwerk (Q2 FY27 earnings call investor presentation)", "date": "Nov 2026", "url": "https://ir.zetwerk.com/wp-content/uploads/Investorpresentation.pdf"},
+  {"outlet": "Entrackr", "date": "13 Nov 2026, 17:17 IST", "url": "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"},
+  {"outlet": "Inc42", "date": "13 Nov 2026", "url": "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/"},
+  {"outlet": "Multibagg", "date": "13 Nov 2026", "url": "https://www.multibagg.ai/market-pulse/articles/zetwerk-h1-revenue-margin-growth-announcement-cmwev9b6k000r2cqxekv5o2g7"},
+  {"outlet": "Lapaas Voice", "date": "13 Nov 2026", "url": "https://lapaasvoice.com/zetwerk-q2-results-net-loss-widens-43-to-%E2%82%B988-crore-as-revenue-rises-18"},
+  {"outlet": "Free Press Journal", "date": "23 Oct 2026", "url": "https://www.freepressjournal.in/business/zetwerk-shares-list-at-55-premium-stock-makes-positive-market-debut-at-15925-on-nse"}
+ ],
+ "fact_sources": {
+  "Q2 FY27 revenue from operations ₹4,599 crore (₹4,599.4 cr), +18% YoY (from ₹3,889 cr), +12% QoQ (from ₹4,117.9 cr)": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/",
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
+  ],
+  "Net loss ₹88 crore (₹88.1 cr), +43% from ₹61.6 cr in Q2 FY26": [
+   "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/",
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
+  ],
+  "Net loss down about 88% from ₹733 crore in Q1 FY27 (April-June)": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/"
+  ],
+  "Adjusted PBT (adjusted for share-based payment expenses) ₹28 crore in Q2 FY27, vs loss of ₹12 crore in Q1": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://www.multibagg.ai/market-pulse/articles/zetwerk-h1-revenue-margin-growth-announcement-cmwev9b6k000r2cqxekv5o2g7"
+  ],
+  "Manufacturing order book ₹14,595 crore, all-time high, +67% YoY; converts to revenue over about two years": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://www.multibagg.ai/market-pulse/articles/zetwerk-h1-revenue-margin-growth-announcement-cmwev9b6k000r2cqxekv5o2g7",
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
+  ],
+  "Q2 FY27 new orders ₹4,613 crore, +44% YoY": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935",
+   "https://www.multibagg.ai/market-pulse/articles/zetwerk-h1-revenue-margin-growth-announcement-cmwev9b6k000r2cqxekv5o2g7"
+  ],
+  "Orders span transformers, wind components, avionics (defence PSUs), solar trackers": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://www.multibagg.ai/market-pulse/articles/zetwerk-h1-revenue-margin-growth-announcement-cmwev9b6k000r2cqxekv5o2g7"
+  ],
+  "Listed 23 Oct 2026; NSE debut ₹159.25 vs IPO price ₹151; these are its first results since listing": [
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935",
+   "https://www.freepressjournal.in/business/zetwerk-shares-list-at-55-premium-stock-makes-positive-market-debut-at-15925-on-nse",
+   "https://lapaasvoice.com/zetwerk-q2-results-net-loss-widens-43-to-%E2%82%B988-crore-as-revenue-rises-18"
+  ],
+  "Bengaluru-based (press release dateline Bengaluru)": [
+   "https://ir.zetwerk.com/wp-content/uploads/Pressreleasefinaltofile.pdf",
+   "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
+  ]
+ },
+ "image": {
+  "page": "https://ir.zetwerk.com/financials/ (Q2 FY27 Investor Presentation PDF, page 19: '... to very small, precision-engineered RF Connectors and Motherboards for Consumer, Industrial, Aerospace and Defense customers')",
+  "url": "https://ir.zetwerk.com/wp-content/uploads/Investorpresentation.pdf",
+  "licence": "Zetwerk's own product image from its investor presentation on its investor-relations site; editorial use, credited 'Image: Zetwerk'",
+  "author": "Zetwerk",
+  "size": "1153x1364 (embedded JPEG, extracted with pdfimages)",
+  "viewed": true,
+  "faces": 0,
+  "subject": "About twenty Zetwerk-made precision RF connectors (stainless steel and gold-plated) in rows on a plain grey studio background; no people, no text, no watermark",
+  "framing": {"tool_output": {"ok": true, "photo": "_work/2026-11-13-hourly-2123/idlytech/frame_zetwerk/cover_source.png", "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 0.99, "faces": 0}, "used": {"focal": [0.5, 0.5], "zoom": 1.05, "why": "trims the thin dark border line on the deck image's edges"}}
+ },
+ "tags": ["zetwerk"],
+ "tags_evidence": "zetwerk: https://www.instagram.com/zetwerk/ is linked from the footer of Zetwerk's own sites, https://www.zetwerk.com/en-us/ and https://ir.zetwerk.com/ (checked 13 Nov 2026)."
+}

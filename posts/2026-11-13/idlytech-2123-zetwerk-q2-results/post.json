@@ -1,0 +1,45 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2123-zetwerk-q2-results",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Zetwerk",
+  "Inc42",
+  "Entrackr"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Newly Listed Zetwerk: ₹88 Crore Loss On ₹4,599 Crore Revenue",
+   "photo": "_work/2026-11-13-hourly-2123/idlytech/frame_zetwerk/cover_source.png",
+   "photo_credit": "Image: Zetwerk",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.05
+  },
+  {
+   "type": "detail",
+   "stat": "43%",
+   "stat_label": "Zetwerk's Loss Rose From ₹61.6 Crore A Year Ago",
+   "bullets": [
+    "But it is 88% below April-June's ₹733 crore",
+    "Zetwerk's adjusted pre-tax profit, excluding share-based pay: ₹28 crore",
+    "First scorecard for IPO buyers since 23 Oct listing"
+   ],
+   "credit_line": "Sources: Zetwerk, Inc42, Entrackr"
+  },
+  {
+   "type": "detail",
+   "stat": "₹14,595 crore",
+   "stat_label": "Zetwerk's Record Order Book, Up 67% In A Year",
+   "bullets": [
+    "Zetwerk says orders become revenue over about two years",
+    "Q2 brought ₹4,613 crore of new orders, up 44%",
+    "Orders span transformers, wind parts, avionics, solar trackers"
+   ],
+   "credit_line": "Sources: Zetwerk, Entrackr"
+  }
+ ]
+}
