@@ -1,0 +1,45 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0827-uniqlo-bahnsen-india",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Uniqlo India",
+  "Fashion Value Chain",
+  "InFashionBusiness"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Cecilie Bahnsen's ₹3,990 Uniqlo Fleece Reaches India 27 Nov",
+   "photo": "_work/2026-11-13-hourly-0827/frame/idlyhype-1/cover_source.png",
+   "photo_credit": "Image: Uniqlo",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "4",
+   "stat_label": "Uniqlo Stores Stocking the Bahnsen Collab",
+   "bullets": [
+    "Delhi NCR: Ambience Vasant Kunj and Ambience Gurgaon",
+    "Mumbai: Phoenix Palladium. Bengaluru: Phoenix Marketcity",
+    "No store near you? It's online at uniqlo.com/in"
+   ],
+   "credit_line": "Sources: Uniqlo India, Fashion Value Chain"
+  },
+  {
+   "type": "detail",
+   "stat": "4 Colours",
+   "stat_label": "What's in Cecilie Bahnsen's Uniqlo Fleece Range",
+   "bullets": [
+    "Black, dark navy, heather grey and pale pink",
+    "Matching jackets, vests and skirts make easy co-ords",
+    "Kids' range too: peplum tops and A-line skorts"
+   ],
+   "credit_line": "Sources: Uniqlo India, Fashion Value Chain, InFashionBusiness"
+  }
+ ]
+}

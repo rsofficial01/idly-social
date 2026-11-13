@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (13) and reviewer (12). Weak: hook, send. Reviewer: Blind reviewer, G2+3 and G4 in one pass, 13 Nov ~09:20 IST. hook 1: the Rs 3,990 price and the India date are on the cover, but Rs 3,990 is an ordinary Uniqlo fleece price and the Cecilie Bahnsen name carries little weight for most Indian readers; a plain black fleece on grey doesn't stop a scroll in a second. send 1: there's no scarcity, comparison or deadline to forward; it's a mainstream retail launch, and the reason to send is only 'it's at your mall'. read 2 (the slide-3 'easy co-ords' bullet is the softest line). keep 2: date, four stores, online, price. reply 2: a genuine own-life question. original 2: idly's synthesis, Uniqlo's own product image credited. alone 2. Opened at full size: 01 (cover), 02, 03, after re-screening each myself: faces=0. Also read render_report.json (cover scale 0.734, no overflow, no credit collisions), caption.txt (post_problems re-run: errors [], warnings []), alt.txt, post.json and meta.json. Verified myself: Uniqlo India store page 'Available Online + In Select Stores November 27th 2026' and its four stores; collection page Fleece Jacket E489121 Rs 3,990.00. HOLD list: none. No overlapping or touching text; one left edge on every slide; white headline; no big empty band; nothing cut off; the cover shows the actual jacket whole and full-bleed (the drawcord tips just reach the headline top, which is not a HOLD); not letterboxed; sharp (downscaled)."
+}
