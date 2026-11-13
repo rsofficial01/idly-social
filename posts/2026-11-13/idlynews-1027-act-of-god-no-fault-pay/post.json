@@ -1,0 +1,43 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1027-act-of-god-no-fault-pay",
+ "date": "13 Nov 2026",
+ "sources": [
+  "LiveLaw",
+  "NewsX"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "1997 Ice Crash: HC Awards Four Victims ₹2.5 Lakh Each",
+   "photo": "_work/2026-11-13-hourly-1027/idlynews/frame_phhc/cover_source.png",
+   "photo_credit": "Photo: Ankit Pai N / Unsplash",
+   "focal": [
+    0.48,
+    0.4
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "SEC 164",
+   "stat_label": "No-Fault Payout Covers Even 'Act of God'",
+   "bullets": [
+    "Punjab and Haryana HC: vehicle use alone is enough",
+    "Applies to accidents from before April 2022 too",
+    "Law fixes ₹5 lakh when an accident victim dies"
+   ],
+   "credit_line": "Sources: LiveLaw, NewsX, Motor Vehicles Act"
+  },
+  {
+   "type": "detail",
+   "stat": "₹0",
+   "stat_label": "Paid for the Owner-Driver's Death",
+   "bullets": [
+    "Court: as owner-driver, he wasn't a 'third party'",
+    "His 1997 policy covered a paid driver, not him"
+   ],
+   "credit_line": "Sources: LiveLaw, NewsX"
+  }
+ ]
+}

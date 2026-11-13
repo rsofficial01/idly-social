@@ -1,0 +1,58 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Image: EKA Mobility",
+  "slug": "idlyautomotive-1027-best-1500-ebuses",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlyautomotive-1027-best-1500-ebuses/01.jpg",
+  "scale": 0.938
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar Professional, Free Press Journal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1027-best-1500-ebuses",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1027-best-1500-ebuses/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar Professional, Free Press Journal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1027-best-1500-ebuses",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1027-best-1500-ebuses/03.jpg",
+  "scale": null
+ }
+]
