@@ -1,0 +1,146 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Fri 13 Nov 2026: PM Modi says diesel rose only ₹7 a litre when at least ₹50 was needed and the Centre bore the other ₹43 (Kisan Tak Bharat Agriculture Conference, New Delhi, Thu 12 Nov; crude $70 to $122 within weeks, about ₹14,000 crore a month, per the PM) (lead); Sonam Wangchuk says he is under house arrest in Leh, police say he was advised to stay home under election-period prohibitory orders (LAHDC polls 4 Dec); Owaisi (AIMIM) and Chandra Shekhar Aazad (ASP-KR) announce the Samajik Parivartan Morcha in Lucknow, Aazad its CM candidate for UP 2027; two SPOs missing on patrol in Kishtwar found dead with bullet wounds, service weapons reportedly missing; Putin meets Witkoff and Kushner for 4+ hours, 'only one line of demarcation: the state border', foreign peacekeepers a 'legitimate target', Kostiantynivka humanitarian mission proposed; Kushner says no deal without Europeans at the table, Kremlin has not confirmed",
+ "sources": [
+  {
+   "outlet": "IANS (Bhaskar Live)",
+   "date": "2026-11-13",
+   "url": "https://bhaskarlive.in/others/pm-modi-showcases-indias-agricultural-growth-says-farmers-shielded-from-global-fuel-price-shock-lead-2164870"
+  },
+  {
+   "outlet": "IANS (The Hans India)",
+   "date": "2026-11-12",
+   "url": "https://www.thehansindia.com/news/cities/new-delhi/pm-modi-links-farm-growth-to-poverty-reduction-at-bharat-agriculture-conference-1141489"
+  },
+  {
+   "outlet": "ANI inputs (The News Mill)",
+   "date": "2026-11-12",
+   "url": "https://thenewsmill.com/2026/11/pm-modi-says-govt-absorbed-diesel-cost-rise-to-protect-farmers/"
+  },
+  {
+   "outlet": "The Tribune",
+   "date": "2026-11-13",
+   "url": "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/"
+  },
+  {
+   "outlet": "The Wire",
+   "date": "2026-11-13",
+   "url": "https://m.thewire.in/article/rights/sonam-wangchuk-alleges-house-arrest-challenges-winter-polls"
+  },
+  {
+   "outlet": "IANS (Punjab Kesari)",
+   "date": "2026-11-13",
+   "url": "https://english.punjabkesari.com/india/ladakhi-climate-activist-sonam-wangchuk-says-he-has-been-place-under-house-arrest"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "2026-11-12",
+   "url": "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls"
+  },
+  {
+   "outlet": "ThePrint",
+   "date": "2026-11-12",
+   "url": "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
+  },
+  {
+   "outlet": "Scroll (PTI, The Hindu, ANI)",
+   "date": "2026-11-12",
+   "url": "https://scroll.in/latest/1097042/j-k-two-police-officers-found-dead-in-kishtwar"
+  },
+  {
+   "outlet": "Daily Excelsior",
+   "date": "2026-11-12",
+   "url": "https://www.dailyexcelsior.com/bodies-of-spos-recovered-with-bullet-injuries-weapons-missing/"
+  },
+  {
+   "outlet": "AFP (NZ Herald)",
+   "date": "2026-11-13",
+   "url": "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/"
+  },
+  {
+   "outlet": "TRT World",
+   "date": "2026-11-12",
+   "url": "https://www.trtworld.com/article/304026445244"
+  },
+  {
+   "outlet": "TRT World",
+   "date": "2026-11-12",
+   "url": "https://www.trtworld.com/article/9696a5486ce2"
+  },
+  {
+   "outlet": "Al Jazeera",
+   "date": "2026-11-12",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+  }
+ ],
+ "fact_sources": {
+  "PM: diesel rose only ₹7/litre when at least ₹50 was needed; Centre bore ₹43 (Kisan Tak Bharat Agriculture Conference, New Delhi, Thu 12 Nov)": [
+   "https://bhaskarlive.in/others/pm-modi-showcases-indias-agricultural-growth-says-farmers-shielded-from-global-fuel-price-shock-lead-2164870",
+   "https://thenewsmill.com/2026/11/pm-modi-says-govt-absorbed-diesel-cost-rise-to-protect-farmers/",
+   "https://www.thehansindia.com/news/cities/new-delhi/pm-modi-links-farm-growth-to-poverty-reduction-at-bharat-agriculture-conference-1141489"
+  ],
+  "PM: crude $70 to $122 a barrel within weeks; about ₹14,000 crore a month": [
+   "https://bhaskarlive.in/others/pm-modi-showcases-indias-agricultural-growth-says-farmers-shielded-from-global-fuel-price-shock-lead-2164870",
+   "https://thenewsmill.com/2026/11/pm-modi-says-govt-absorbed-diesel-cost-rise-to-protect-farmers/"
+  ],
+  "Wangchuk says he is under house arrest with armed guards outside; police/administration say he was advised to stay home under election-period prohibitory orders": [
+   "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/",
+   "https://m.thewire.in/article/rights/sonam-wangchuk-alleges-house-arrest-challenges-winter-polls",
+   "https://english.punjabkesari.com/india/ladakhi-climate-activist-sonam-wangchuk-says-he-has-been-place-under-house-arrest"
+  ],
+  "Police removed him from a Leh protest site on Wed 11 Nov": [
+   "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/",
+   "https://m.thewire.in/article/rights/sonam-wangchuk-alleges-house-arrest-challenges-winter-polls"
+  ],
+  "LAHDC (hill council) polls 4 Dec; he opposes the midwinter timing": [
+   "https://m.thewire.in/article/rights/sonam-wangchuk-alleges-house-arrest-challenges-winter-polls",
+   "https://english.punjabkesari.com/india/ladakhi-climate-activist-sonam-wangchuk-says-he-has-been-place-under-house-arrest",
+   "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/"
+  ],
+  "Owaisi and Aazad announce Samajik Parivartan Morcha in Lucknow on Thu 12 Nov; Aazad CM candidate; UP polls 2027": [
+   "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls",
+   "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
+  ],
+  "Aazad invites SP and Congress to join": [
+   "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls",
+   "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
+  ],
+  "Two SPOs missing on patrol in Kishtwar (Wed) found dead Thursday with bullet wounds; weapons (reportedly) missing": [
+   "https://scroll.in/latest/1097042/j-k-two-police-officers-found-dead-in-kishtwar",
+   "https://www.dailyexcelsior.com/bodies-of-spos-recovered-with-bullet-injuries-weapons-missing/",
+   "https://www.dailyexcelsior.com/bullet-ridled-bodies-of-two-missing-spos-recovered-in-kishtwar/"
+  ],
+  "Putin met Witkoff and Kushner at the Kremlin for more than four hours on Thu 12 Nov": [
+   "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/",
+   "https://www.trtworld.com/article/9696a5486ce2"
+  ],
+  "Putin: 'only one line of demarcation: the state border'; foreign peacekeepers a 'legitimate target'; Kostiantynivka humanitarian mission proposed": [
+   "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/",
+   "https://www.trtworld.com/article/304026445244",
+   "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+  ],
+  "Kushner: 'We cannot conclude this deal without Europeans being at the table'; Kremlin has not confirmed Europe will join": [
+   "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/",
+   "https://www.trtworld.com/article/9696a5486ce2"
+  ]
+ },
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:Indian_Oil_Fuel_Filling_Station_SH-45_(Amandas_Fuels)_(34261).jpg",
+  "file_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Indian_Oil_Fuel_Filling_Station_SH-45_%28Amandas_Fuels%29_%2834261%29.jpg/1920px-Indian_Oil_Fuel_Filling_Station_SH-45_%28Amandas_Fuels%29_%2834261%29.jpg",
+  "licence": "CC BY-SA 4.0",
+  "credit": "Photo: Sujithshivam511 / Wikimedia Commons, CC BY-SA 4.0",
+  "width": 1920,
+  "height": 3413,
+  "faces": 0,
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Indian_Oil_Fuel_Filling_Station_SH-45_%28Amandas_Fuels%29_%2834261%29.jpg",
+  "original_size": [
+   2304,
+   4096
+  ]
+ },
+ "tags": [],
+ "tag_evidence": null
+}

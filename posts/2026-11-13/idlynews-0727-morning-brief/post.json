@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0727-morning-brief",
+ "date": "13 Nov 2026",
+ "sources": ["IANS", "ANI", "The Tribune", "The Wire", "Scroll", "ThePrint", "Daily Excelsior", "AFP", "TRT World", "Al Jazeera"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "PM Modi: Diesel Rose ₹7, Centre Bore the Other ₹43",
+   "photo": "_work/2026-11-13-hourly-0727/frame/idlynews/cover_source.png",
+   "photo_credit": "Photo: Sujithshivam511 / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [0.6, 0.66],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "4 DEC",
+   "stat_label": "Sonam Wangchuk Says He Is Under House Arrest",
+   "bullets": [
+    "Police say he was advised to stay home",
+    "Ladakh's hill-council polls that day; he opposes the timing"
+   ],
+   "credit_line": "Sources: The Tribune, The Wire, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "2027",
+   "stat_label": "Owaisi, Aazad Announce New Alliance for UP Polls",
+   "bullets": [
+    "Samajik Parivartan Morcha names Aazad its CM candidate",
+    "Aazad invites SP and Congress to join it"
+   ],
+   "credit_line": "Sources: Scroll, ThePrint"
+  },
+  {
+   "type": "detail",
+   "stat": "2",
+   "stat_label": "Missing Kishtwar SPOs Found Dead With Bullet Wounds",
+   "bullets": [
+    "Missing since Wednesday; bodies recovered Thursday",
+    "Their service weapons were reportedly missing"
+   ],
+   "credit_line": "Sources: Scroll (PTI), Daily Excelsior"
+  },
+  {
+   "type": "detail",
+   "stat": "4+ HRS",
+   "stat_label": "Putin Tells US Envoys: No Compromise on Ukraine",
+   "bullets": [
+    "Putin calls any foreign peacekeepers a 'legitimate target'",
+    "Kushner: no deal without Europeans at the table",
+    "The Kremlin has not confirmed Europe will join"
+   ],
+   "credit_line": "Sources: AFP, TRT World, Al Jazeera"
+  }
+ ]
+}
