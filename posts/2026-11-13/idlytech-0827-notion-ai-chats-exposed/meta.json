@@ -1,0 +1,134 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Notion says a breach at its AI supplier Fireworks AI exposed Notion AI chat transcripts (inputs and replies, from data used for the Insights admin feature) from fewer than 1% of Notion workspaces; most cannot be tied to a user or workspace; Notion cut Fireworks off and deleted the data there on 3 Nov 2026, disabled Insights, says Fireworks kept data despite a zero-retention commitment; Fireworks says attackers came in through a third-party cloud provider (its second breach in about two months per TechCrunch/BleepingComputer); Notion's 9 Nov advisory: affected workspaces should rotate any passwords/API keys pasted into Notion AI, check via desktop Help (?) > Security incident review; no notice means no action for now",
+ "sources": [
+  {
+   "outlet": "Notion (help centre)",
+   "date": "2026-11-09",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+  },
+  {
+   "outlet": "Notion (security advisory)",
+   "date": "2026-11-09",
+   "url": "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9"
+  },
+  {
+   "outlet": "TechCrunch",
+   "date": "2026-11-12",
+   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  },
+  {
+   "outlet": "BleepingComputer",
+   "date": "2026-11-11",
+   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  },
+  {
+   "outlet": "SecurityWeek",
+   "date": "2026-11-12",
+   "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  }
+ ],
+ "fact_sources": {
+  "Fewer than 1% of Notion workspaces affected (Notion's figure)": [
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ],
+  "Exposed: Notion AI chat transcripts (inputs and outputs) used for the Insights feature": [
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Most transcripts cannot be tied to a specific user/workspace (Notion)": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Fireworks AI ran some of the open-weight models behind Notion AI / Insights analysis": [
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Insights = admin view of how a team uses AI": [
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+   "https://www.notion.com/help/notion-ai-settings-overview"
+  ],
+  "Notion disconnected from Fireworks and deleted data there on 3 Nov": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  ],
+  "Insights disabled while Notion investigates": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ],
+  "Fireworks kept data despite contractual zero data retention commitment (Notion says)": [
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ],
+  "Fireworks says attackers came in through a third-party cloud provider": [
+   "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Fireworks' second breach in about two months": [
+   "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Notion advisory published 9 Nov": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ],
+  "Affected workspaces: rotate passwords/API keys/credentials pasted into Notion AI": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+  ],
+  "Check on desktop/web (not mobile): Help (?) icon in sidebar > Security incident review": [
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ],
+  "No contact from Notion = no action needed for now (Notion)": [
+   "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+   "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+  ]
+ },
+ "image": {
+  "source_page": "https://www.notion.com/help/notion-ai-settings-overview",
+  "file_url": "https://images.ctfassets.net/spoqsaf9291f/5vSoI5XWk8em4VyegvewC7/ea6e5af100da52f5777e5b1379755867/8d582bb1-0988-45b8-9b7a-1737c5c3d5c3.png",
+  "owner": "Notion (screenshot in its own help-centre article 'Notion AI settings overview': Notion AI settings, Insights tab, banner 'Insights is temporarily paused')",
+  "licence": "Notion's own help-centre image (company-owned; no press terms on the page); credited 'Image: Notion'",
+  "credit": "Image: Notion",
+  "width": 2178,
+  "height": 1330,
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0827/photos/idlytech-notion-insights-paused.png",
+  "framing": {
+   "focal": [
+    0.276,
+    0.5
+   ],
+   "zoom": 1.0,
+   "scale": 1.015,
+   "note": "pipeline.framing ok (faces 0, upscale 1.02); focal x 0.276 keeps the 'Notion AI' title, the tab row with Insights selected and the 'Insights is temporarily paused' banner in frame (y ~90-620); the greyed use-case chart sits under the headline"
+  }
+ },
+ "tags": [
+  "notionhq"
+ ],
+ "tag_evidence": "https://www.notion.com/ (site footer links to https://www.instagram.com/notionhq)"
+}
