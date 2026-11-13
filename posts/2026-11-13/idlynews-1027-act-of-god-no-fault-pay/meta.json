@@ -98,13 +98,13 @@
   "ok": true,
   "photo": "_work/2026-11-13-hourly-1027/idlynews/frame_phhc/cover_source.png",
   "focal": [
-   0.48,
-   0.4
+   0.44,
+   0.35
   ],
-  "zoom": 1.1,
-  "upscale": 0.44,
+  "zoom": 1.25,
+  "upscale": 0.499,
   "faces": 0,
-  "note": "Gate 4: zoom 1.1, focal [0.48,0.4] crops out the Chandigarh Police barricade lettering at the bottom edge; green pylon whole (left edge ~50 px in), yellow pylon centre-right; downscale only, no enlargement. Gate 1/3 plan was [0.5,0.5] zoom 1.0 (lettering showed beside the date)."
+  "note": "Gate 4 (reviewer fix): zoom 1.25, focal [0.44,0.35]: no barricade, green pylon ~85 px from the left edge, yellow pylon whole, pylon tops below the logo zone; downscale only. Earlier plans [0.5,0.5] z1.0 and [0.48,0.4] z1.1 showed barricade lettering/mesh at the bottom."
  },
  "baseline": "Not a Tamil Nadu story. post_problems flagged TN baseline items on generic 'High Court' wording; ran python3 -m pipeline.baseline check --region tn --file caption.txt: exit 0, no STOP, nothing relevant. No baseline exists for Punjab/Haryana/HP.",
  "commons_attempt": "Wikimedia upload host returned 429 (rate limit, then robot policy) to plain curl; per brief not retried; used Unsplash."
