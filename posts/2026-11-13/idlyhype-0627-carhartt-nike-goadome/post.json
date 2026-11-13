@@ -1,0 +1,57 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0627-carhartt-nike-goadome",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Nike SNKRS",
+  "Carhartt WIP",
+  "Complex",
+  "Sole Retriever"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Carhartt WIP x Nike Air Max Goadome Low: $190, Nike Release 20 Nov",
+   "photo": "_work/2026-11-13-hourly-0627/idlyhype/frame/cover_source.png",
+   "photo_credit": "Image: Carhartt WIP",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.03
+  },
+  {
+   "type": "detail",
+   "stat": "12 Nov",
+   "stat_label": "Carhartt WIP Got It First, Nike Follows",
+   "bullets": [
+    "Sold first on Carhartt WIP's site and select stores",
+    "Nike SNKRS adds Light British Tan and Black",
+    "A third colourway stays a Carhartt WIP exclusive"
+   ],
+   "credit_line": "Sources: Complex, Sole Retriever, Nike, Carhartt WIP"
+  },
+  {
+   "type": "detail",
+   "stat": "IW6306-200",
+   "stat_label": "Light British Tan Goadome Low Style Code",
+   "bullets": [
+    "Black pair to search for: IW6306-001",
+    "Upper inspired by Nike's Half Dome",
+    "Canvas with suede and leather overlays, Air Max heel"
+   ],
+   "credit_line": "Sources: Nike, Carhartt WIP, Sole Retriever"
+  },
+  {
+   "type": "detail",
+   "stat": "0 of 4",
+   "stat_label": "Goadome Low: No India Release Yet",
+   "bullets": [
+    "Not listed at Superkicks, VegNonVeg or Crepdog Crew",
+    "No listing found on nike.in, Nike's India store",
+    "Checked by idly at 06:54 IST, Fri 13 Nov"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Crepdog Crew, nike.in"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Carhartt WIP x Nike Air Max Goadome Low ($190): first sold on Carhartt WIP's website and in select Carhartt WIP stores on 12 Nov 2026; Nike SNKRS releases Light British Tan (IW6306-200) and Black (IW6306-001) on 20 Nov; a third colourway is Carhartt WIP-exclusive; no India listing at Superkicks, VegNonVeg, Crepdog Crew or nike.in as of 06:54 IST 13 Nov 2026",
+ "sources": [
+  {
+   "outlet": "Nike SNKRS",
+   "date": "2026-11-13 (accessed)",
+   "url": "https://www.nike.com/launch/r/IW6306-200"
+  },
+  {
+   "outlet": "Nike SNKRS",
+   "date": "2026-11-13 (accessed)",
+   "url": "https://www.nike.com/launch/r/IW6306-001"
+  },
+  {
+   "outlet": "Carhartt WIP",
+   "date": "2026-11-13 (accessed)",
+   "url": "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-wip-h-brown-cypress-31"
+  },
+  {
+   "outlet": "Carhartt WIP",
+   "date": "2026-11-13 (accessed)",
+   "url": "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-cypress-black-33"
+  },
+  {
+   "outlet": "Complex",
+   "date": "2026-11-12",
+   "url": "https://www.complex.com/sneakers/a/victor-deng/carhartt-wip-nike-air-max-goadome-low-release-date"
+  },
+  {
+   "outlet": "Sole Retriever",
+   "date": "2026-10-15",
+   "url": "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026"
+  }
+ ],
+ "fact_sources": {
+  "Carhartt WIP x Nike Air Max Goadome Low, $190": [
+   "https://www.nike.com/launch/r/IW6306-200",
+   "https://www.nike.com/launch/r/IW6306-001",
+   "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-wip-h-brown-cypress-31",
+   "https://www.complex.com/sneakers/a/victor-deng/carhartt-wip-nike-air-max-goadome-low-release-date",
+   "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026"
+  ],
+  "First on sale Thu 12 Nov 2026 on Carhartt WIP's website and in select Carhartt WIP stores": [
+   "https://www.complex.com/sneakers/a/victor-deng/carhartt-wip-nike-air-max-goadome-low-release-date",
+   "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026"
+  ],
+  "Nike SNKRS release Fri 20 Nov 2026": [
+   "https://www.nike.com/launch/r/IW6306-200",
+   "https://www.nike.com/launch/r/IW6306-001",
+   "https://www.complex.com/sneakers/a/victor-deng/carhartt-wip-nike-air-max-goadome-low-release-date",
+   "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026"
+  ],
+  "SNKRS colourways: Light British Tan IW6306-200 and Black IW6306-001": [
+   "https://www.nike.com/launch/r/IW6306-200",
+   "https://www.nike.com/launch/r/IW6306-001",
+   "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026"
+  ],
+  "A third colourway is a Carhartt WIP exclusive": [
+   "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-cypress-black-33",
+   "https://www.soleretriever.com/news/articles/carhartt-wip-x-nike-air-max-goadome-low-pack-release-date-holiday-2026",
+   "https://www.complex.com/sneakers/a/victor-deng/carhartt-wip-nike-air-max-goadome-low-release-date"
+  ],
+  "Inspired by Nike's Half Dome; canvas upper with suede and leather overlays; Air Max heel": [
+   "https://www.nike.com/launch/r/IW6306-001",
+   "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-wip-h-brown-cypress-31",
+   "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-black-cypress-32"
+  ],
+  "Pictured pair (Carhartt 43J WIP Hamilton Brown/Cypress) is Nike IW6306-200 Light British Tan": [
+   "https://www.nike.com/launch/r/IW6306-200",
+   "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-wip-h-brown-cypress-31"
+  ],
+  "No India listing as of 06:54 IST 13 Nov 2026 (idly check)": [
+   "https://www.superkicks.in/search/suggest.json?q=goadome&resources[type]=product",
+   "https://www.vegnonveg.com/search?q=carhartt",
+   "https://crepdogcrew.com/search/suggest.json?q=carhartt&resources[type]=product",
+   "https://www.nike.in/new-arrivals/c/94475",
+   "https://www.nike.in/air-max/c/94031"
+  ]
+ },
+ "image": {
+  "source_page": "https://us.carhartt-wip.com/en-us/products/air-max-goadome-low-wip-wip-h-brown-cypress-31",
+  "file_url": "https://cdn.shopify.com/s/files/1/2193/5809/files/I038449_43J_XX-ST-02.jpg",
+  "licence": "Brand product image (Carhartt WIP)",
+  "credit": "Image: Carhartt WIP",
+  "width": 2000,
+  "height": 3000,
+  "faces": 0
+ },
+ "tags": [
+  "carharttwip"
+ ],
+ "tag_evidence": "https://www.carhartt-wip.com/en/ footer links https://www.instagram.com/carharttwip"
+}

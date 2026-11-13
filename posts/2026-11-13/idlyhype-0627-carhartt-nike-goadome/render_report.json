@@ -1,0 +1,86 @@
+{
+ "slides": [
+  {
+   "size": 84,
+   "lines": 3,
+   "overflow": false,
+   "top": 998,
+   "credit_line": "Image: Carhartt WIP",
+   "slug": "idlyhype-0627-carhartt-nike-goadome",
+   "slide": 1,
+   "type": "cover",
+   "jpg": "posts/2026-11-13/idlyhype-0627-carhartt-nike-goadome/01.jpg",
+   "scale": 0.556,
+   "faces": 0
+  },
+  {
+   "stat": 308,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Complex, Sole Retriever, Nike, Carhartt WIP",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlyhype-0627-carhartt-nike-goadome",
+   "slide": 2,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlyhype-0627-carhartt-nike-goadome/02.jpg",
+   "scale": null,
+   "faces": 0
+  },
+  {
+   "stat": 148,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Nike, Carhartt WIP, Sole Retriever",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlyhype-0627-carhartt-nike-goadome",
+   "slide": 3,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlyhype-0627-carhartt-nike-goadome/03.jpg",
+   "scale": null,
+   "faces": 0
+  },
+  {
+   "stat": 320,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Superkicks, VegNonVeg, Crepdog Crew, nike.in",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlyhype-0627-carhartt-nike-goadome",
+   "slide": 4,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlyhype-0627-carhartt-nike-goadome/04.jpg",
+   "scale": null,
+   "faces": 0
+  }
+ ]
+}
