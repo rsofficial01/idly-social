@@ -5,23 +5,46 @@
  "format": "news",
  "title": "Delhi's air 'severe' again on Fri 13 Nov 2026: average AQI 402 at 5 am (CPCB, via Outlook India and Open/News9); IIT Delhi monitor 488, ITO 455 (Scroll/CPCB, Outlook/CPCB, Open/ANI); GRAP Stage III in force across Delhi-NCR since 6 Nov (CAQM, via AIR News and The News Mill/ANI): non-essential construction and demolition halted, BS-III petrol and BS-IV diesel cars barred in Delhi; Delhi schools up to Class 5 in hybrid mode (Business Today 7 Nov, Outlook India)",
  "sources": [
-  {"outlet": "Outlook India", "date": "2026-11-13", "url": "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"},
-  {"outlet": "Open", "date": "2026-11-13", "url": "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"},
-  {"outlet": "Scroll", "date": "2026-11-13", "url": "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category"},
-  {"outlet": "AIR News (newsonair.gov.in)", "date": "2026-11-06", "url": "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/"},
-  {"outlet": "The News Mill (ANI inputs)", "date": "2026-11-06", "url": "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"},
-  {"outlet": "Business Today", "date": "2026-11-07", "url": "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07"},
-  {"outlet": "Outlook India", "date": "2026-11 (Nov 2026)", "url": "https://www.outlookindia.com/national/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"}
+  {
+   "outlet": "Outlook India",
+   "date": "2026-11-13",
+   "url": "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"
+  },
+  {
+   "outlet": "Open",
+   "date": "2026-11-13",
+   "url": "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "2026-11-13",
+   "url": "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category"
+  },
+  {
+   "outlet": "AIR News (newsonair.gov.in)",
+   "date": "2026-11-06",
+   "url": "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/"
+  },
+  {
+   "outlet": "The News Mill (ANI inputs)",
+   "date": "2026-11-06",
+   "url": "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2026-11-07",
+   "url": "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07"
+  },
+  {
+   "outlet": "Outlook India",
+   "date": "2026-11 (Nov 2026)",
+   "url": "https://www.outlookindia.com/national/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"
+  }
  ],
  "fact_sources": {
   "Delhi average AQI 402 ('severe') at 5 am Fri 13 Nov, CPCB data": [
    "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
    "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"
-  ],
-  "IIT Delhi monitor read 488 on Friday morning (Scroll: CPCB 8:05 am; Open: ANI 7:31 am; Outlook: IITM EWS 3 am)": [
-   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category",
-   "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility",
-   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"
   ],
   "ITO read 455 on Friday morning (Outlook: CPCB; Open: ANI)": [
    "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
@@ -50,16 +73,28 @@
    "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
    "https://www.outlookindia.com/national/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026",
    "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"
+  ],
+  "IIT Delhi monitor read 488 on Friday morning (Scroll: CPCB 8:05 am; Open: ANI 7:31 am)": [
+   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category",
+   "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"
   ]
  },
  "photo_source": {
-  "page": "https://worldview.earthdata.nasa.gov/?l=VIIRS_NOAA21_CorrectedReflectance_TrueColor&t=2026-11-12&v=75.80,26.50,78.60,30.00 (NASA Worldview permalink); terms: https://nasa-gibs.github.io/gibs-api-docs/",
-  "file": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&CRS=EPSG:4326&TIME=2026-11-12&WRAP=DAY&BBOX=26.50,75.80,30.00,78.60&FORMAT=image/jpeg&WIDTH=1120&HEIGHT=1400 (NASA Worldview snapshot API, 1120x1400; saved as _work/2026-11-13-hourly-0927/idlynews/img/wv_mid.jpg)",
-  "licence": "Public domain (US government work, NASA/NOAA); GIBS data-use guidance: 'NASA promotes full and open sharing of data', acknowledgement requested",
-  "author": "NASA Worldview (GIBS); VIIRS on NOAA-21; corrected reflectance true colour; date 12 Nov 2026",
+  "page": "https://worldview.earthdata.nasa.gov/?l=MODIS_Terra_CorrectedReflectance_TrueColor&t=2026-11-12&v=73.60,24.40,80.44,31.90 (NASA Worldview permalink); terms: https://nasa-gibs.github.io/gibs-api-docs/",
+  "file": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&CRS=EPSG:4326&TIME=2026-11-12&WRAP=DAY&BBOX=24.40,73.60,31.90,80.44&FORMAT=image/jpeg&WIDTH=1440&HEIGHT=1800 (NASA Worldview snapshot API, 1440x1800; saved as _work/2026-11-13-hourly-0927/idlynews/img3/MODIS_Terra_box2_1440x1800.jpg, sha1 1ed8e552735d826cbecc0d80179dc1dc801c0507)",
+  "licence": "Public domain (US government work, NASA); GIBS data-use guidance: 'NASA promotes full and open sharing of data', acknowledgement requested",
+  "author": "NASA Worldview (GIBS); MODIS on Terra; corrected reflectance true colour; date 12 Nov 2026",
   "viewed": true,
   "faces": 0,
-  "framing": {"focal": [0.5, 0.5], "zoom": 1.0, "scale": 0.96, "note": "Snapshot requested at 1120x1400 (exact 4:5) for a 2.8 x 3.5 degree box (~273 x 389 km, ~245-280 m per pixel, close to VIIRS true-colour native ~250-375 m); downscaled 0.96x to 1080x1350, no enlargement. Delhi (28.6N, 77.2E) sits at x 0.50, y 0.40, above the headline block. Earlier NOAA-20 snapshot of the same box screened faces=1 and was deleted unviewed."}
+  "framing": {
+   "focal": [
+    0.5,
+    0.47
+   ],
+   "zoom": 1.25,
+   "scale": 0.94,
+   "note": "Box 24.40-31.90N x 73.60-80.44E (7.5 deg tall x 6.84 deg wide = ~834 x ~667 km, 4:5 latitude-corrected at 28.2N). Requested at 1440x1800 = ~463-579 m per pixel, about 2x the 250 m MODIS true-colour native size, so the server downsamples. Cardkit crop 1152x1440 from (144,126), scaled 0.94 to 1080x1350: no enlargement. Delhi (28.6N, 77.2E) lands at about x 575, y 624 (0.46), above the headline. Himalayan foothills and snow top right; haze plume edge against clearer land lower left; logo on dark foothills (mean grey 75/255 in the logo box). Laplacian variance of the 1080x1350 crop: 235 (old VIIRS tight box: 7). The 1080x1350 and 1200x1500 renditions (Laplacian 1163/431 but needing 1.18x/1.06x enlargement at the framing tool's chosen zoom) were not used. Face screen: many renditions of 12 Nov boxes (VIIRS NOAA-20/21, MODIS Terra/Aqua) screened faces 1-2 on terrain texture and were deleted unviewed; this rendition screened 0. Focal (0.5,0.47) zoom 1.25 chosen because the framing tool's (0.5,0.475) zoom 1.18 render screened faces=1 (a 516x483 px full-frame false positive at score 0.34; that 01.jpg was overwritten without viewing)."
+  }
  },
  "tags": [],
  "tag_evidence": "None: NASA is credited, not tagged (no brand/maker cover)."

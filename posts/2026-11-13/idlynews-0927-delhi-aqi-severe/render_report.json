@@ -4,12 +4,12 @@
   "lines": 3,
   "overflow": false,
   "top": 950,
-  "credit_line": "Image: NASA Worldview (GIBS), VIIRS NOAA-21, 12 Nov 2026",
+  "credit_line": "Image: NASA Worldview (GIBS), MODIS Terra, 12 Nov 2026",
   "slug": "idlynews-0927-delhi-aqi-severe",
   "slide": 1,
   "type": "cover",
   "jpg": "posts/2026-11-13/idlynews-0927-delhi-aqi-severe/01.jpg",
-  "scale": 0.964
+  "scale": 0.938
  },
  {
   "stat": 192,

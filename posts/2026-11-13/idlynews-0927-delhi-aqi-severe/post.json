@@ -14,10 +14,13 @@
   {
    "type": "cover",
    "headline": "CPCB: Delhi's Air Severe Again, AQI 402 at 5 AM",
-   "photo": "_work/2026-11-13-hourly-0927/idlynews/frame/cover_source.png",
-   "photo_credit": "Image: NASA Worldview (GIBS), VIIRS NOAA-21, 12 Nov 2026",
-   "focal": [0.5, 0.5],
-   "zoom": 1.0
+   "photo": "_work/2026-11-13-hourly-0927/idlynews/frame3/cover_source.png",
+   "photo_credit": "Image: NASA Worldview (GIBS), MODIS Terra, 12 Nov 2026",
+   "focal": [
+    0.5,
+    0.47
+   ],
+   "zoom": 1.25
   },
   {
    "type": "detail",
@@ -25,7 +28,7 @@
    "stat_label": "What GRAP Means for Delhi-NCR Since 6 Nov",
    "bullets": [
     "Up to Class 5: Delhi schools let children attend online",
-    "BS-III petrol, BS-IV diesel cars barred in Delhi: check RC",
+    "Delhi bars BS-III petrol, BS-IV diesel cars: check RC",
     "Home or site work? Non-essential construction, demolition halted"
    ],
    "credit_line": "Sources: AIR News, The News Mill (ANI), Business Today, Outlook India"
@@ -33,7 +36,7 @@
   {
    "type": "detail",
    "stat": "488",
-   "stat_label": "IIT Delhi Monitor's Reading, Friday Morning",
+   "stat_label": "IIT Delhi Monitor's AQI, Friday Morning",
    "bullets": [
     "CPCB's 'severe' band starts at AQI 401",
     "ITO in central Delhi read 455"
