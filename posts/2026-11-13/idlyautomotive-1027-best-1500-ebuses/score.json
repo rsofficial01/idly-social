@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 11,
+ "notes": "per-check min of desk (13) and reviewer (12). Weak: hook, send, keep. Reviewer: Opened 01-03.jpg at full size after facecheck (faces=0 all), render_report.json (no overflow, credit_inside true, no collisions, cover scale 0.938), caption.txt, alt.txt, meta.json, post.json. Layout clean: cover full-bleed, bus front whole and clear of the logo, white 3-line headline on one left edge, vertical credit clear of the headline; slides 2-3 text and source line don't touch; nothing cut off, not soft. Facts unchanged since Gate 2 except the slide-3 fix (in). Hook 2: 1,500 AC e-buses with a Mumbai stake and an honest date on the cover; weaker for non-Mumbai followers. Send 1: a real but weak forward reason (Mumbai commuters, wheelchair users' families), with nothing actionable (no routes, first buses only by March 2027). Keep 1: delivery dates and specs, but there's little a reader would save it to act on. Minor, not held: slide 3 splits '64,800 / km yearly' across lines; the EKA demo livery isn't labelled on the card itself (the caption and alt label it). Desk: hook 1: 1,500 AC e-buses with the honest 'about 225 by March 2027' is a clear stake for Mumbai readers, but it is procurement news and a Mumbai story on a national page, so I hold it below 2. Every other check is solid: the timeline is keepable (225 by Mar 2027, 1,275 by Mar 2028), Mumbai commuters and wheelchair users' families would send it, the question is about the reader's own commute, the cover is credited EKA's own image and the caption says so, and the headline names Mumbai's BEST so the card stands alone."
+}
