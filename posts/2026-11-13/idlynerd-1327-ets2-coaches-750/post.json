@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1327-ets2-coaches-750",
+ "date": "13 Nov 2026",
+ "sources": [
+  "SCS Software",
+  "Steam",
+  "Traxion"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Drive Buses in Euro Truck Simulator 2 for ₹750",
+   "photo": "_work/2026-11-13-hourly-1327/nerd/frame_coach_12/cover_source.png",
+   "photo_credit": "Image: SCS Software",
+   "focal": [
+    0.6,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹242",
+   "stat_label": "ETS2 Base Game Price, Till 24 Nov",
+   "bullets": [
+    "Euro Truck Simulator 2, 75% off ₹970 on Steam",
+    "The Coaches DLC needs this base game",
+    "DLC plus base game: ₹992 at today's prices"
+   ],
+   "credit_line": "Source: Steam India store, 13 Nov"
+  },
+  {
+   "type": "detail",
+   "stat": "3",
+   "stat_label": "Licensed Coaches in the ETS2 Coaches DLC",
+   "bullets": [
+    "Scania Touring, Volvo 9700 DD, MAN Lion's Coach",
+    "Run timetabled routes or tourist trips to landmarks",
+    "SCS plans more coaches inside this same DLC"
+   ],
+   "credit_line": "Sources: SCS Software, Steam, Traxion"
+  }
+ ]
+}

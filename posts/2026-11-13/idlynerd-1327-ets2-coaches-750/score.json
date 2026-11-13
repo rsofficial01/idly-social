@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min of desk (12) and reviewer (13). Weak: hook, send. Reviewer: Viewed 01-03 at full size after the re-render (facecheck faces=0 on all three; 01 md5 3e7ebd48...). render_report: cover 3 lines, top 950, no overflow; slides 2-3 credit_inside, no credit_collision. Layout: full-bleed official SCS Steam screenshot (MAN Lion's Coach driver's seat at a bus station, 3840x2160 downscaled, sharp), headline white Title Case on the dark dashboard, one left edge, logo (drop shadow over tree/building) and vertical credit legible, no letterbox/blur, no promo lettering. Facts verified: Steam appdetails cc=in (DLC 3809270 Rs 750, released 12 Nov 2026; base 227300 Rs 242, 75% off Rs 970), SCS blog 12 Nov (3 coaches, job types, more coaches inside the same DLC, passengers react to rough driving); Rs 992 labelled as a sum at today's prices. Weak check: HOOK 1 - Rs 750 is an ordinary DLC price, not a surprising number, and the cover reads at a glance as a cab interior rather than a bus, so 'buses' rests on the bay signs and the headline. Note: the cover's 'for Rs 750' assumes you own ETS2; slide 2 makes the Rs 992 total clear. Send 2: a concrete forward for sim-gaming friends (new bus mode + base game at Rs 242 till 24 Nov). Reply 2: a question from readers' own lives, the only '?'. Desk: Re-scored after the cover changed to the driver's-seat shot, before seeing any G4 score. hook 1: '₹750' and 'Drive Buses' are on the cover, but the image reads as a cab interior at a glance, not a coach. send 1: the audience is ETS2 and bus-sim players, a real but niche group. keep 2: DLC ₹750, base ₹242 till 24 Nov, ₹992 all-in, what it needs. reply 2: asks about a bus route the reader has actually travelled. original 2: own synthesis with Steam India prices; official screenshot credited. alone 2: every slide names ETS2 and the Coaches DLC."
+}

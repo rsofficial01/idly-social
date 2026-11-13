@@ -1,0 +1,18 @@
+{"account": "idlynerd", "story_id": null, "idly_article": false, "format": "news",
+ "title": "SCS Software's Coaches DLC for Euro Truck Simulator 2 out since Thu 12 Nov 2026: 3 licensed coaches (Scania Touring, Volvo 9700 DD, MAN Lion's Coach), Quick/Contract/Tourist jobs; ₹750 on Steam India, needs ETS2 (₹242, 75% off ₹970, till 24 Nov): ₹992 for both",
+ "sources": [
+  {"outlet": "SCS Software (blog)", "date": "2026-11-12", "url": "https://blog.scssoft.com/2026/11/coaches-release.html"},
+  {"outlet": "Steam (Coaches DLC, India store)", "date": "2026-11-13", "url": "https://store.steampowered.com/app/3809270/"},
+  {"outlet": "Steam (Euro Truck Simulator 2, India store)", "date": "2026-11-13", "url": "https://store.steampowered.com/app/227300/"},
+  {"outlet": "Traxion", "date": "2026", "url": "https://traxion.gg/?p=109717"},
+  {"outlet": "PC Games Hardware", "date": "2026", "url": "https://www.pcgameshardware.de/Euro-Truck-Simulator-2-Spiel-22781/News/Coaches-DLC-Fernbusse-Release-Datum-1558592/"}],
+ "fact_sources": {
+  "Coaches DLC released 12 Nov 2026": ["https://blog.scssoft.com/2026/11/coaches-release.html", "https://store.steampowered.com/app/3809270/", "https://traxion.gg/?p=109717"],
+  "3 licensed coaches: Scania Touring, Volvo 9700 DD, MAN Lion's Coach": ["https://blog.scssoft.com/2026/11/coaches-release.html", "https://store.steampowered.com/app/3809270/"],
+  "Quick Jobs, own coach, Contract Jobs (timetables, stops), Tourist Jobs": ["https://blog.scssoft.com/2026/11/coaches-release.html", "https://store.steampowered.com/app/3809270/"],
+  "Passengers react to rough driving; smooth driving matters": ["https://blog.scssoft.com/2026/11/coaches-release.html", "https://store.steampowered.com/app/3809270/"],
+  "More coaches planned inside the same DLC": ["https://blog.scssoft.com/2026/11/coaches-release.html", "https://store.steampowered.com/app/3809270/"],
+  "DLC ₹750 on Steam India, needs ETS2": ["https://store.steampowered.com/app/3809270/?cc=in", "https://store.steampowered.com/api/appdetails?appids=3809270&cc=in"],
+  "ETS2 ₹242, 75% off ₹970, until 24 Nov": ["https://store.steampowered.com/app/227300/?cc=in", "https://store.steampowered.com/api/appdetails?appids=227300&cc=in"]},
+ "photo_source": {"page": "https://store.steampowered.com/app/3809270/", "file_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/b7b73fc29b9516b7ff29029b91103542fd8f3095/ss_b7b73fc29b9516b7ff29029b91103542fd8f3095.jpg", "licence": "official SCS Software publisher screenshot (Steam store), credited", "author": "SCS Software", "viewed": true},
+ "tags": ["scs.software"]}
