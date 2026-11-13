@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 1,
+    "reply": 2,
+    "original": 1,
+    "alone": 2,
+    "total": 12,
+    "verdict": "PASS",
+    "notes": "Blind lane review of queue/rendered/2026-11-13-idlynerd-ramayana-1000-crore (lane.py show; spec.json scores not opened). Face screen: 01.jpg faces=12 so it was NOT opened whole (people rule). I checked it in face-free crops instead: logo band y0-300, headline lines 2-3 (y1055-1265), footer (y1260-1350) and the right-edge credit strip, all faces=0 and opened. Two crops failed the screen and were deleted unviewed: headline line 1 (faces=2, likely false positives on the ₹1,000 zeros) and the bottom block (faces=8). Numeric checks on 01.jpg: framing faces_out [400,336,680,692], so the one face is whole and sits clear of the logo band (0-170) and the headline (top 950). Crop 1694x2118 from 4096x2160 (4:5, cover mode, band_top null, so no letterbox, box or blur). Downscaled 0.638, sharp (Laplacian variance 391). Headline lines share one left edge (x 53/51/49). Headline is white and bold over a dark gradient (mean luminance 90 in the headline zone). 'Days' ends at about x938; the vertical credit 'Image: ReDefine (Prime Focus)' sits at about x1020-1040, readable and not touching. Footer date and idly.news are present. Minor: the crown's top finial rises just under the 'nerd.' logo (same as the 11 Nov cover); the logo stays legible. 02.jpg and 03.jpg (faces=0) opened at full size: white Title Case labels; labels and bullets share the x72 edge; no overlap, overflow or cut-off; credit lines readable. render_report shows no credit_collision and no overflow. caption_final ends with 'Image: ReDefine (Prime Focus)'; caption_errors and caption_warnings are empty; one '?'; Sources line present; 5 hashtags, #idlynerd last. Facts checked at G1/G2: Sacnilk day-8 page and BizAsia (1,033.55 / 675.05 / 358.5 / 564.6 crore); ETV Bharat and Sacnilk (11th film, third-fastest, Baahubali 2 10 days, RRR 16); PTI says Pushpa 2 took 6 days, so the card's 'were faster' is correct; THR India and Outlook for the title Ramayana: Rise of a Legend and the 3D release. Weak checks: keep 1, because there is no price, date or deadline a reader can act on; the fastest-to-₹1,000-crore comparisons are reference trivia, not keepable. Original 1, because the lane fell through to RAMA_02, the same still as the 11 Nov ₹800 crore cover on this page, so the grid shows a near-duplicate cover; the synthesis (gross/net separated, fastest comparison) is idly's own. Send 2 (borderline): reaching the ₹1,000 crore club with a third-fastest ranking is a specific talking point fans forward. Hook 2: the ₹1,000 crore / 8 days milestone is on the cover. Zero margin at 12."
+  },
+  "reviewed_at": "2026-11-13T01:25:35+00:00",
+  "reviewed_by": "claude reviewer (blind)",
+  "notes": ""
+}
