@@ -1,0 +1,175 @@
+{
+  "slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-13T01:22:30+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-epic-arrives-ramayana-is-now-in-cinemas",
+      "ok": true
+    },
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/discover-the-world-of-ramayana",
+      "ok": true
+    },
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.dneg.com/news/witness-the-world-of-ramayana",
+      "ok": true
+    },
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "source_url": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "image_url": "https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png",
+    "credit": "Image: ReDefine (Prime Focus)",
+    "organisation": "ReDefine (Prime Focus)",
+    "image_size": [
+      4096,
+      2160
+    ],
+    "log": [
+      "page https://www.redefine.co/news/the-journey-begins-with-rama (ReDefine (Prime Focus)): og:title 'The Journey Begins with RAMA', 1 image(s)",
+      "image https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png (4096x2160)"
+    ],
+    "og_title": "The Journey Begins with RAMA"
+  },
+  "faces": [
+    [
+      1953.8,
+      622.7,
+      354.0,
+      450.8,
+      0.933
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5202,
+      0.5098
+    ],
+    "zoom": 1.02,
+    "upscale": 0.638,
+    "crop": [
+      1284.0,
+      42.0,
+      1694.0,
+      2118.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        400,
+        336,
+        680,
+        692
+      ]
+    ],
+    "logo_saliency": 1.67,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        1953.8,
+        622.7,
+        354.0,
+        450.8,
+        0.933
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 0.638,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: ReDefine (Prime Focus)",
+      "Sources: Sacnilk, ETV Bharat, Film Companion",
+      "Sources: Sacnilk, BizAsia"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: ReDefine (Prime Focus)",
+      "slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+      "slide": 1,
+      "type": "cover",
+      "scale": 0.638
+    },
+    {
+      "stat": 260,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, ETV Bharat, Film Companion",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 156,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, BizAsia",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-13-idlynerd-ramayana-1000-crore",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana: Rise of a Legend, Part 1 of Nitesh Tiwari's two-film Ramayana, has crossed ₹1,000 crore at the worldwide box office in its first eight days in cinemas, to Thursday 12 November. Trade tracker Sacnilk estimates its worldwide gross at ₹1,033.55 crore.\n\nThat is ₹675.05 crore gross from India and about ₹358.5 crore from overseas, which Sacnilk calls a rough estimate. India net collections stand at ₹564.6 crore. The makers have not confirmed these figures.\n\nIt is the 11th Indian film to pass ₹1,000 crore worldwide, and the third-fastest. Only Pushpa 2: The Rule and Dhurandhar: The Revenge got there within a week; Baahubali 2 took 10 days and RRR 16.\n\nDid you watch Ramayana in 3D or 2D, or are you still planning to see it?\n\nSources: Sacnilk, ETV Bharat, BizAsia, Film Companion\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd\n\nImage: ReDefine (Prime Focus)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
