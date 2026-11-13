@@ -1,0 +1,46 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1327-denza-d9-90-lakh",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "CarWale",
+  "Denza India",
+  "DriveSpark"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Denza's D9 Electric MPV Launched in India at ₹90 Lakh",
+   "photo": "_work/2026-11-13-hourly-1327/auto/img/denza_d9_brochure_p2_2533x1900.jpg",
+   "photo_credit": "Image: Denza",
+   "focal": [
+    0.61,
+    0.6
+   ],
+   "zoom": 1.5
+  },
+  {
+   "type": "detail",
+   "stat": "730 km",
+   "stat_label": "Denza D9's Claimed Range on One Charge (NEDC)",
+   "bullets": [
+    "115.07 kWh battery; seven seats in a 2+2+3 layout",
+    "Nine airbags; one fully loaded front-wheel-drive version",
+    "About ₹10 lakh more than MG M9's ₹79.94 lakh"
+   ],
+   "credit_line": "Sources: Denza India, Autocar India, DriveSpark"
+  },
+  {
+   "type": "detail",
+   "stat": "6",
+   "stat_label": "Cities Getting Denza Showrooms, Separate From BYD",
+   "bullets": [
+    "Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai, Hyderabad",
+    "Bookings for the Denza D9 are open now",
+    "Also launched: Z9 GT at ₹1.57 crore, 1,156 hp"
+   ],
+   "credit_line": "Sources: Autocar India, CarWale"
+  }
+ ]
+}

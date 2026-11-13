@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Denza",
+  "slug": "idlyautomotive-1327-denza-d9-90-lakh",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlyautomotive-1327-denza-d9-90-lakh/01.jpg",
+  "scale": 1.065
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Denza India, Autocar India, DriveSpark",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1327-denza-d9-90-lakh",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1327-denza-d9-90-lakh/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, CarWale",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1327-denza-d9-90-lakh",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1327-denza-d9-90-lakh/03.jpg",
+  "scale": null
+ }
+]
