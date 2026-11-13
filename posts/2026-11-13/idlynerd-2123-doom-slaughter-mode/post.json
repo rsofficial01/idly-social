@@ -1,0 +1,56 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2123-doom-slaughter-mode",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Bethesda",
+  "Gematsu",
+  "Steam"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "DOOM's Slaughter Mode Lands 16 Nov, Free With ₹1,399 DLC",
+   "photo": "_work/2026-11-13-hourly-2123/idlynerd/frame_rev3/cover_source.png",
+   "photo_credit": "Image: Bethesda / id Software",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,899",
+   "stat_label": "DOOM Premium Edition, Slaughter Mode Included",
+   "bullets": [
+    "New players: no separate DLC to buy",
+    "Base game alone is ₹3,499 on Steam India",
+    "Own the base game? Premium Upgrade, ₹1,749, works too"
+   ],
+   "credit_line": "Sources: Bethesda, Steam India store, 13 Nov"
+  },
+  {
+   "type": "detail",
+   "stat": "2",
+   "stat_label": "Choices at Every DOOM Slaughter Mode Checkpoint",
+   "bullets": [
+    "Secure: bank your Skulls so death can't take them",
+    "Risk It: bigger multiplier, but death wipes unsecured Skulls",
+    "Each cleared checkpoint becomes a new start point"
+   ],
+   "credit_line": "Sources: Bethesda, Gematsu"
+  },
+  {
+   "type": "detail",
+   "stat": "4",
+   "stat_label": "Reward Types DOOM's Slaughter Mode Skulls Unlock",
+   "bullets": [
+    "Slayer skins you can only earn here",
+    "Weapon skins that work in every mode",
+    "Profile icons and IDKFA soundtrack tracks"
+   ],
+   "credit_line": "Sources: Bethesda, Gematsu"
+  }
+ ]
+}

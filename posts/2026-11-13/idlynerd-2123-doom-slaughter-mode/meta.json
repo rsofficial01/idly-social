@@ -1,0 +1,61 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "DOOM: The Dark Ages adds Slaughter Mode (endless, randomised rounds; Skulls; Secure/Risk It checkpoints) on Mon 16 Nov 2026 as a free update for owners of the Revelations DLC (₹1,399 on Steam India), the Premium Edition (₹4,899) or the Premium Upgrade (₹1,749); base game ₹3,499 (Steam India, 13 Nov)",
+ "sources": [
+  {"outlet": "Bethesda (Slayers Club news, by Parker Wilhelm)", "date": "2026-11-12", "url": "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date"},
+  {"outlet": "Gematsu (Sal Romano)", "date": "2026-11-12", "url": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"},
+  {"outlet": "Steam (DOOM: The Dark Ages | Revelations, India store)", "date": "2026-11-13", "url": "https://store.steampowered.com/app/3469450/"},
+  {"outlet": "Steam (DOOM: The Dark Ages, India store; base and Premium Edition packages)", "date": "2026-11-13", "url": "https://store.steampowered.com/app/3017860/"},
+  {"outlet": "Steam (DOOM: The Dark Ages - Premium Upgrade, India store)", "date": "2026-11-13", "url": "https://store.steampowered.com/app/3698350/"}
+ ],
+ "fact_sources": {
+  "Slaughter Mode arrives Mon 16 Nov 2026 as a free update for Revelations owners": [
+   "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date",
+   "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+  ],
+  "Endless, escalating, randomised rounds of encounters, bosses and arenas; weekly challenges": [
+   "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date",
+   "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+  ],
+  "Skulls unlock Slaughter Mode-only Slayer skins, weapon skins for all modes, profile icons, tracks from Andrew Hulshult's IDKFA soundtrack": [
+   "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date",
+   "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+  ],
+  "Round Checkpoint: Secure Skulls or Risk It (bigger Skull Multiplier; dying with Risk It active forfeits unsecured Skulls); each completed checkpoint unlocks a later starting point": [
+   "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date",
+   "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+  ],
+  "Included at no extra cost for owners of Revelations, the Premium Edition or the Premium Upgrade": [
+   "https://slayersclub.bethesda.net/en-US/news/doom-the-dark-ages-revelations-slaughter-mode-release-date",
+   "https://store.steampowered.com/app/3698350/ (Premium Upgrade INCLUDES: DOOM: The Dark Ages | Revelations Campaign DLC)"
+  ],
+  "Revelations DLC ₹1,399 on Steam India (needs base game)": [
+   "https://store.steampowered.com/app/3469450/?cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=3469450&cc=in"
+  ],
+  "Base game ₹3,499; Premium Edition ₹4,899; Premium Upgrade ₹1,749 on Steam India (13 Nov)": [
+   "https://store.steampowered.com/app/3017860/?cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=3017860&cc=in",
+   "https://store.steampowered.com/api/appdetails?appids=3698350&cc=in"
+  ]
+ },
+ "image": {
+  "page": "https://store.steampowered.com/app/3469450/",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9/ss_bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9.1920x1080.jpg",
+  "licence": "official Bethesda Softworks / id Software publisher screenshot on the DOOM: The Dark Ages | Revelations Steam store page, editorial use, credited 'Image: Bethesda / id Software'",
+  "author": "Bethesda Softworks / id Software",
+  "size": "1920x1080",
+  "viewed": true,
+  "faces": 0,
+  "subject": "In-game screenshot from DOOM: The Dark Ages | Revelations: a skeletal, multi-armed demon boss with a staff in a canyon arena, the Slayer's green-glowing weapon at left and cannon at right; no people, no text, no watermark",
+  "framing": {
+   "tool_output": {"ok": true, "photo": "_work/2026-11-13-hourly-2123/idlynerd/frame_rev3/cover_source.png", "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 1.4, "faces": 0, "note": "enlarged and sharpened"},
+   "used": {"focal": [0.5, 0.5], "zoom": 1.0}
+  }
+ },
+ "tags": ["doom"],
+ "tags_evidence": "doom: linked (https://www.instagram.com/doom) from DOOM's official site https://doom.bethesda.net/en-US (checked 13 Nov 2026); Bethesda's own sites (bethesda.net, slayersclub.bethesda.net) link instagram.com/bethesda."
+}
