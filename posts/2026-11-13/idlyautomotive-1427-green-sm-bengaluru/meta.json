@@ -1,0 +1,147 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this story (not in the idly.news API candidates); reference-led (MotorBeam 12 Nov, Cartoq, Lapaas Voice 11 Nov citing Moneycontrol); caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Green SM (Vingroup's electric cab company) gets a Karnataka aggregator licence valid until September 2031 (Karnataka On-Demand Transportation Technology Aggregators Rules, 2016; transport officials to Moneycontrol), clearing its Bengaluru entry; owns its fleet and employs its own drivers; Indian fleet includes the 7-seat VinFast Limo Green; Delhi-NCR since June 2026, then Hyderabad; no Bengaluru fares/start date announced; Karnataka 2024 app-cab fares ₹100 first 4 km + ₹24/km (cars up to ₹10 lakh) to ₹130 + ₹32/km (above ₹15 lakh), no surge; unions Karnataka Rajya Chalakara Parishath and Peace Auto Union seek a licence review",
+ "sources": [
+  {
+   "outlet": "MotorBeam",
+   "date": "12 Nov 2026",
+   "url": "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/"
+  },
+  {
+   "outlet": "Lapaas Voice (citing Moneycontrol)",
+   "date": "11 Nov 2026",
+   "url": "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru"
+  },
+  {
+   "outlet": "The Logical Indian (citing Moneycontrol, India Today)",
+   "date": "12 Nov 2026",
+   "url": "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  },
+  {
+   "outlet": "News18 (CNN-News18)",
+   "date": "12 Nov 2026",
+   "url": "https://x.com/CNNnews18/status/2120507301773836473"
+  },
+  {
+   "outlet": "Business Standard",
+   "date": "5 Jun 2026",
+   "url": "https://www.business-standard.com/companies/news/vingroup-s-green-sm-enters-indian-taxi-market-with-electric-cars-126060501169_1.html"
+  }
+ ],
+ "fact_sources": {
+  "Green SM has a Karnataka aggregator licence to run app-based cabs, valid until September 2031": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/",
+   "https://x.com/CNNnews18/status/2120507301773836473"
+  ],
+  "Issued under the Karnataka On-Demand Transportation Technology Aggregators Rules, 2016 (transport department officials, per Moneycontrol)": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "The licence clears the way for Green SM to enter Bengaluru": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru"
+  ],
+  "Green SM is Vingroup's mobility company; Vingroup also owns VinFast": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Green SM owns its fleet and employs its own drivers, unlike platforms connecting independent drivers": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Competitors named: Uber, Rapido, Namma Yatri": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru"
+  ],
+  "Indian fleet includes the VinFast Limo Green, a seven-seat electric MPV": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Started in India in June 2026 in Delhi-NCR, then Hyderabad": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://www.business-standard.com/companies/news/vingroup-s-green-sm-enters-indian-taxi-market-with-electric-cars-126060501169_1.html"
+  ],
+  "No Bengaluru fares or start date announced (₹8/km reports left out per Gate 1)": [
+   "https://x.com/CNNnews18/status/2120507301773836473",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru"
+  ],
+  "Karnataka 2024 app-cab fares: ₹100 first 4 km + ₹24/km (up to ₹10 lakh); ₹130 + ₹32/km (above ₹15 lakh); no surge pricing": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Unions Karnataka Rajya Chalakara Parishath and Peace Auto Union ask the state to review the licence and question vehicle inspections": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Company unavailable for comment when Moneycontrol published": [
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru",
+   "https://thelogicalindian.com/karnataka-bengaluru-green-sm-133666/"
+  ],
+  "Hyderabad followed Delhi-NCR; Bengaluru is the next market with this licence": [
+   "https://www.motorbeam.com/vingroup-green-sm-electric-cabs-bengaluru-karnataka-licence/",
+   "https://lapaasvoice.com/vingroups-green-sm-gets-karnataka-licence-faces-taxi-union-protests-in-bengaluru"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Newone_-_Silver_grey_and_yellow_SV_MPV_VinFast_Limo_Green.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Newone_-_Silver_grey_and_yellow_SV_MPV_VinFast_Limo_Green.jpg/3840px-Newone_-_Silver_grey_and_yellow_SV_MPV_VinFast_Limo_Green.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Newone",
+  "credit": "Photo: Newone / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "original 5712x4284; used 3840x2880 rendition",
+  "faces": 0,
+  "viewed": true,
+  "subject": "VinFast Limo Green MPVs (silver, yellow, red) lined up at Cung Quan Ngua (Quan Ngua Sports Palace), Hanoi, under a VinFast 'LIMO GREEN' tent; centre silver car seen whole from behind; tiny unidentifiable figures far back under the tent (facecheck 0 on full image, on the exact crop and on a 2x enlargement of that area)",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.47,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.48,
+     1.0
+    ],
+    "zoom": 1.35
+   },
+   "note": "Crop x 990-2697, y 747-2880 of 3840x2880 (1707x2133, downscaled to 1080x1350). Centre car whole at about y 350-735, above the headline block (y 742+); LIMO GREEN banner at about y 230-275, below the logo zone; paving under the headline."
+  }
+ },
+ "rejected_images": [
+  "Commons '2024 VinFast Limo Green Xanh SM Taxi in Cilangkap, Jakarta.jpg' (Gate 1 plan): viewed after facecheck 0 - the car shown is a small VinFast crossover, not the Limo Green MPV; a blacked-out blob and passers-by in frame. Rejected.",
+  "Commons 'VinFast Limo Green GreenGSM taxi 01.jpg': driver visible through windscreen (facecheck missed). Rejected.",
+  "Green SM India site images: app mock-ups or faces>0 (deleted unviewed).",
+  "Commons 'VinFast Limo Green GreenGSM taxi 02.jpg' (Manila): car can't be whole in 4:5; reviewer FIX at Gate 2+3.",
+  "Commons 'Newone - Silver Grey, Yellow and Red ... Cung The thao Quan ngua.jpg' and 'yellow ... Exposition Center 03.jpg': faces>0, deleted unviewed."
+ ],
+ "tags": [],
+ "tags_evidence": "No tag: cover image is a Wikimedia Commons photo (image owner has no brand handle); @in.greensm is the subject, not the image owner (Gate 1 ruling).",
+ "corroboration_not_read": [
+  {
+   "outlet": "Cartoq",
+   "url": "https://www.cartoq.com/car-news/karnataka-green-sm-electric-taxi-bangalore/",
+   "note": "Headline 'Karnataka RTO Approves VinGroup's Green SM Electric Taxi Service In Bangalore: Local Taxi Unions Protest' seen in search; body returns HTTP 402/403 to our fetcher, so not used as a source"
+  },
+  {
+   "outlet": "Moneycontrol (original, 11 Nov)",
+   "note": "cited by Lapaas Voice and The Logical Indian; moneycontrol.com is not reachable from our tools"
+  }
+ ]
+}

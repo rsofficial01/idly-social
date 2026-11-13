@@ -1,0 +1,58 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Photo: Newone / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlyautomotive-1427-green-sm-bengaluru",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/01.jpg",
+  "scale": 0.633
+ },
+ {
+  "stat": 188,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: MotorBeam, Lapaas Voice, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1427-green-sm-bengaluru",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 260,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: MotorBeam, The Logical Indian, News18",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1427-green-sm-bengaluru",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlyautomotive-1427-green-sm-bengaluru/03.jpg",
+  "scale": null
+ }
+]

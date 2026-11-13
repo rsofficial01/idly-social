@@ -1,0 +1,11 @@
+{
+  "hook": 1,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 12,
+  "notes": "hook 1: cover is a small rear view of a parked MPV at a Hanoi expo over paving; the headline's only number is a licence term ('Till 2031'), not a stake readers feel. send 1: no Bengaluru start date or fares yet, so there's little reason to forward beyond 'a new cab firm is coming'. read now 2: slide 2 'JUN 2026 / When Green SM Started in Delhi-NCR' shows it's a running service (Delhi-NCR, Hyderabad, Bengaluru next with 'this licence', which ties it to the cover), and slide 3 gives the commuter benchmark, the unions and no fares yet; no filler left. New facts verified: MotorBeam ('began its Indian operations in June 2026 with its Green SM Limo service in Delhi-NCR'; 'expanded into markets such as Hyderabad') and Lapaas Voice ('entered the Indian market in June 2026, initially launching its Green SM Limo service in Delhi-NCR'; 'including Hyderabad'); Business Standard is 403 to me but two sources suffice. Layout checked on all 3 slides at full size: cover unchanged (car whole, logo legible on tree/sky, white headline one edge, 'Fleet' 23 px from the vertical credit: clear), slides 2-3 one left edge (x 72), nothing cut, source lines above the footer rule, render_report no overflow/collision."
+}

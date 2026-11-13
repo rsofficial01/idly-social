@@ -1,0 +1,47 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1427-green-sm-bengaluru",
+ "date": "13 Nov 2026",
+ "sources": [
+  "MotorBeam",
+  "Lapaas Voice",
+  "The Logical Indian",
+  "News18",
+  "Business Standard"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Vingroup's Own-Fleet E-Cabs Licensed for Bengaluru Till 2031",
+   "photo": "_work/2026-11-13-hourly-1427/auto/frame_sgy/cover_source.png",
+   "photo_credit": "Photo: Newone / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.48,
+    1.0
+   ],
+   "zoom": 1.35
+  },
+  {
+   "type": "detail",
+   "stat": "JUN 2026",
+   "stat_label": "When Green SM Started in Delhi-NCR",
+   "bullets": [
+    "Hyderabad followed; Bengaluru is next with this licence",
+    "Owns its cabs and employs its own drivers",
+    "Uber, Rapido and Namma Yatri link independent drivers"
+   ],
+   "credit_line": "Sources: MotorBeam, Lapaas Voice, Business Standard"
+  },
+  {
+   "type": "detail",
+   "stat": "₹24/km",
+   "stat_label": "Karnataka's App-Cab Rate for Cars Under ₹10 Lakh",
+   "bullets": [
+    "₹100 covers the first 4 km; no surge pricing",
+    "Two taxi unions want the licence reviewed",
+    "Green SM hasn't announced Bengaluru fares yet"
+   ],
+   "credit_line": "Sources: MotorBeam, The Logical Indian, News18"
+  }
+ ]
+}
