@@ -3,7 +3,7 @@
  "story_id": null,
  "idly_article": false,
  "format": "special",
- "title": "Morning Brief, Fri 13 Nov 2026: PM Modi says diesel rose only ₹7 a litre when at least ₹50 was needed and the Centre bore the other ₹43 (Kisan Tak Bharat Agriculture Conference, New Delhi, Thu 12 Nov; crude $70 to $122 within weeks, about ₹14,000 crore a month, per the PM) (lead); Sonam Wangchuk says he is under house arrest in Leh, police say he was advised to stay home under election-period prohibitory orders (LAHDC polls 4 Dec); Owaisi (AIMIM) and Chandra Shekhar Aazad (ASP-KR) announce the Samajik Parivartan Morcha in Lucknow, Aazad its CM candidate for UP 2027; two SPOs missing on patrol in Kishtwar found dead with bullet wounds, service weapons reportedly missing; Putin meets Witkoff and Kushner for 4+ hours, 'only one line of demarcation: the state border', foreign peacekeepers a 'legitimate target', Kostiantynivka humanitarian mission proposed; Kushner says no deal without Europeans at the table, Kremlin has not confirmed",
+ "title": "Morning Brief, Fri 13 Nov 2026: PM Modi says diesel rose only ₹7 a litre when at least ₹50 was needed and the Centre bore the other ₹43 (Kisan Tak Bharat Agriculture Conference, New Delhi, Thu 12 Nov; crude $70 to $122 within weeks, about ₹14,000 crore a month, per the PM) (lead); Sonam Wangchuk says he is under house arrest in Leh, police say he was advised to stay home under election-period prohibitory orders (LAHDC polls 4 Dec); Owaisi (AIMIM) and Chandra Shekhar Aazad (ASP-KR) announce the Samajik Parivartan Morcha in Lucknow, Aazad its CM candidate for UP 2027, open to SP and Congress joining; two SPOs missing on patrol in Kishtwar found dead with bullet wounds, service weapons reportedly missing; Putin meets Witkoff and Kushner for 4+ hours, 'only one line of demarcation: the state border', foreign peacekeepers a 'legitimate target', Kostiantynivka humanitarian mission proposed; Kushner says no deal without Europeans at the table, Kremlin has not confirmed",
  "sources": [
   {
    "outlet": "IANS (Bhaskar Live)",
@@ -104,10 +104,6 @@
    "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls",
    "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
   ],
-  "Aazad invites SP and Congress to join": [
-   "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls",
-   "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
-  ],
   "Two SPOs missing on patrol in Kishtwar (Wed) found dead Thursday with bullet wounds; weapons (reportedly) missing": [
    "https://scroll.in/latest/1097042/j-k-two-police-officers-found-dead-in-kishtwar",
    "https://www.dailyexcelsior.com/bodies-of-spos-recovered-with-bullet-injuries-weapons-missing/",
@@ -125,6 +121,10 @@
   "Kushner: 'We cannot conclude this deal without Europeans being at the table'; Kremlin has not confirmed Europe will join": [
    "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/",
    "https://www.trtworld.com/article/9696a5486ce2"
+  ],
+  "Alliance open to SP and Congress joining": [
+   "https://scroll.in/latest/1097037/chandra-shekhar-aazad-asaduddin-owaisi-announce-alliance-ahead-of-2027-uttar-pradesh-polls",
+   "https://theprint.in/politics/eye-on-muslim-dalit-vote-owaisi-chandrashekhar-azad-join-hands-how-this-could-play-out-in-up-polls/3096865/"
   ]
  },
  "image": {
