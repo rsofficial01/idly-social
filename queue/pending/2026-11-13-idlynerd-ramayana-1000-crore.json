@@ -1,0 +1,73 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "evergreen": false,
+ "title": "Ramayana: Rise of a Legend (Part 1) crosses Rs 1,000 crore worldwide gross in 8 days (Rs 1,033.55 cr to 12 Nov, Sacnilk estimate); 11th Indian film past Rs 1,000 cr, third-fastest",
+ "headline": "Ramayana Crosses ₹1,000 Crore Worldwide in 8 Days",
+ "caption": "Ramayana: Rise of a Legend, Part 1 of Nitesh Tiwari's two-film Ramayana, has crossed ₹1,000 crore at the worldwide box office in its first eight days in cinemas, to Thursday 12 November. Trade tracker Sacnilk estimates its worldwide gross at ₹1,033.55 crore.\n\nThat is ₹675.05 crore gross from India and about ₹358.5 crore from overseas, which Sacnilk calls a rough estimate. India net collections stand at ₹564.6 crore. The makers have not confirmed these figures.\n\nIt is the 11th Indian film to pass ₹1,000 crore worldwide, and the third-fastest. Only Pushpa 2: The Rule and Dhurandhar: The Revenge got there within a week; Baahubali 2 took 10 days and RRR 16.\n\nDid you watch Ramayana in 3D or 2D, or are you still planning to see it?\n\nSources: Sacnilk, ETV Bharat, BizAsia, Film Companion\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd",
+ "alt_text": "An official still from Ramayana under the headline 'Ramayana Crosses ₹1,000 Crore Worldwide in 8 Days'. The slides give its third-fastest pace and Sacnilk's ₹1,033.55 crore worldwide gross estimate, with India and overseas figures.",
+ "sources": [
+  "Sacnilk",
+  "ETV Bharat",
+  "BizAsia",
+  "Film Companion"
+ ],
+ "detail_slides": [
+  {
+   "stat": "8 DAYS",
+   "stat_label": "Ramayana: Third-Fastest Indian Film to ₹1,000 Crore",
+   "bullets": [
+    "Only Pushpa 2 and Dhurandhar: The Revenge were faster",
+    "Baahubali 2 needed 10 days; RRR took 16",
+    "Now the 11th Indian film in the ₹1,000 crore club"
+   ],
+   "credit_line": "Sources: Sacnilk, ETV Bharat, Film Companion"
+  },
+  {
+   "stat": "₹1,033.55 CR",
+   "stat_label": "Ramayana's Worldwide Gross, Sacnilk Estimate",
+   "bullets": [
+    "India gross ₹675.05 crore; overseas ₹358.5 crore",
+    "India net collections: ₹564.6 crore",
+    "Makers haven't confirmed; overseas is a rough estimate"
+   ],
+   "credit_line": "Sources: Sacnilk, BizAsia"
+  }
+ ],
+ "tags": [],
+ "story": false,
+ "notes": "format: news. Film lead after six gaming posts. G1 and G2+3 fixes applied (Sacnilk estimates labelled, gross/net split, official title Ramayana: Rise of a Legend). Image order per reviewer: new ReDefine still first, RAMA_02 (11 Nov cover) last. Stories paused.",
+ "scores": {
+  "self": {
+   "hook": 2,
+   "read": 2,
+   "send": 2,
+   "keep": 1,
+   "reply": 2,
+   "original": 1,
+   "alone": 2,
+   "total": 12,
+   "notes": "hook 2: Rs 1,000 crore + 8 days on the cover, the biggest Indian film story this fortnight. keep 1: speed table and gross/net split are reference, not a date/price/deadline. original 1: tracker numbers widely reported; idly's angle is the speed comparison and the honest gross/net/estimate split; cover may repeat the 11 Nov still if only the last fallback frames. alone 2: slides name the film and the source."
+  }
+ },
+ "image": {
+  "resolver": "og_image_official",
+  "ref": "https://www.redefine.co/news/the-epic-arrives-ramayana-is-now-in-cinemas",
+  "fallback": [
+   {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/discover-the-world-of-ramayana"
+   },
+   {
+    "resolver": "og_image_official",
+    "ref": "https://www.dneg.com/news/witness-the-world-of-ramayana"
+   },
+   {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama"
+   }
+  ]
+ },
+ "created_at": "2026-11-13T06:48:00+05:30"
+}
