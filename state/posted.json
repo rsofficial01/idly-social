@@ -3217,5 +3217,20 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-13-idlytech-nvidia-huang-photo-b/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18166678891427864",
+    "permalink": "https://www.instagram.com/p/Dfqx72Xl5Uz/",
+    "posted_at": "2026-11-13T04:32:28+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0927-delhi-aqi-severe/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0927-delhi-aqi-severe/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-0927-delhi-aqi-severe/03.jpg"
+    ],
+    "score_total": 12
   }
 ]
