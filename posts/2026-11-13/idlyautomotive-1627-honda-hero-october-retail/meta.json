@@ -1,0 +1,134 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on FADA's October 2026 two-wheeler retail data (not in the 36 h API candidates; API search 'FADA' returns 0); reference-led story (Autocar India bike news, Autocar Professional, DriveSpark), caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "FADA October 2026 two-wheeler retail: Honda Motorcycle & Scooter India 6,37,630 (27.47%) outsells Hero MotoCorp 5,98,433 (25.78%) by 39,197; a year earlier Hero led by about 1.56 lakh (10,06,796 vs 8,50,875); Hero -40.56%, Honda -25.06%; TVS 19.74% (from 17.67%); market 23,21,419, -28.35% (Dhanteras/Diwali moved to November), FADA's second-best October",
+ "sources": [
+  {
+   "outlet": "Autocar Professional (Honda vs Hero)",
+   "date": "6 Nov 2026",
+   "url": "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784"
+  },
+  {
+   "outlet": "Autocar Professional (FADA two-wheeler table)",
+   "date": "6 Nov 2026",
+   "url": "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775"
+  },
+  {
+   "outlet": "DriveSpark",
+   "date": "10 Nov 2026",
+   "url": "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html"
+  },
+  {
+   "outlet": "The Bike Junction",
+   "date": "6 Nov 2026",
+   "url": "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report"
+  },
+  {
+   "outlet": "Autocar India (bike news)",
+   "date": "12 Nov 2026",
+   "url": "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310"
+  }
+ ],
+ "fact_sources": {
+  "Honda (HMSI) October 2026 retail 6,37,630, 27.47% share, -25.06% YoY": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report"
+  ],
+  "Hero MotoCorp October 2026 retail 5,98,433, 25.78% share, -40.56% YoY": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report"
+  ],
+  "Honda 27.47% vs Hero 25.78% (Honda ahead in October retail)": [
+   "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310",
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html"
+  ],
+  "Gap 39,197 (6,37,630 - 5,98,433; Autocar Pro: 'about 39,197')": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report"
+  ],
+  "October 2025: Hero 10,06,796 (31.07%) vs Honda 8,50,875 (26.26%): Hero led by about 1.56 lakh": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report"
+  ],
+  "Hero's -40.56% steepest of top four (Honda -25.06, TVS -19.92/-19.93, Bajaj -37.46/-37.47)": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html"
+  ],
+  "TVS third, 4,58,303, share 19.74% from 17.67%": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html"
+  ],
+  "Bajaj 9.03%, Royal Enfield 5.34%, Suzuki 5.21%": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html"
+  ],
+  "Total two-wheeler retail 23,21,419, -28.35% YoY from 32,39,949": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://thebikejunction.com/news/fada-october-2026-two-wheeler-retail-sales-report",
+   "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310"
+  ],
+  "Calendar effect: Dhanteras and Diwali fell in November 2026; October 2025 had Navratri and Diwali": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310"
+  ],
+  "FADA: second-best October on record": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.drivespark.com/two-wheelers/2026/two-wheeler-retail-sales-october-2026-honda-hero-tvs-lead-088517.html",
+   "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310"
+  ],
+  "FADA: November's Diwali numbers give the real verdict on demand": [
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775",
+   "https://www.autocarindia.com/bike-news/two-wheeler-retail-sales-fall-in-october-441310"
+  ],
+  "Retail (FADA) = sales to buyers, distinct from wholesale dispatches": [
+   "https://www.autocarpro.in/news/honda-edges-past-hero-as-festive-retail-lags-a-record-base-135784",
+   "https://www.autocarpro.in/analysis-sales/two-wheeler-retail-sales-fall-2835-percent-to-2321-lakh-in-october-fada-135775"
+  ]
+ },
+ "image": {
+  "page": "https://global.honda/en/newsroom/news/2024/c241127aeng/image_download.html",
+  "url": "https://global.honda/content/dam/site/global-en/newsroom-new/cq_img/news/2024/11/c241127aeng/print/c241127a_001H.jpg",
+  "licence": "Honda global newsroom press image (official media download for editorial use), credited 'Image: Honda'",
+  "author": "Honda",
+  "size": "8254x6122",
+  "viewed": true,
+  "faces": 0,
+  "subject": "Honda Activa e: (Honda's electric Activa, India) studio shot; the caption strip at the bottom of the press image ('ACTIVA e: and QC1 Electric Personal Commuters 2024.11.27') is cropped off (top 87.5% kept, 8254x5356)",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-13-hourly-1627/idlyautomotive/frame_ae/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.25,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.42,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   "note": "focal x 0.42 keeps the HONDA-badged front, headlamp and handlebar in the upper 55%; logo sits on plain grey between the mirrors"
+  }
+ },
+ "tags": [
+  "honda2wheelerin"
+ ],
+ "tags_evidence": "honda2wheelerin: Honda Motorcycle & Scooter India's own website (honda2wheelersindia.com, footer social links on every page, e.g. https://honda2wheelersindia.com/media-center/PressReleaseDetails/3549) links https://www.instagram.com/honda2wheelerin"
+}

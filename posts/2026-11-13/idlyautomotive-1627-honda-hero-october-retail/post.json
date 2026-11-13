@@ -1,0 +1,47 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1627-honda-hero-october-retail",
+ "date": "13 Nov 2026",
+ "sources": [
+  "FADA",
+  "Autocar Professional",
+  "Autocar India",
+  "DriveSpark",
+  "The Bike Junction"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Honda Outsells Hero By 39,197 In October Retail",
+   "photo": "_work/2026-11-13-hourly-1627/idlyautomotive/frame_ae/cover_source.png",
+   "photo_credit": "Image: Honda",
+   "focal": [
+    0.42,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1.56 LAKH",
+   "stat_label": "Hero's Retail Lead Over Honda In October 2025",
+   "bullets": [
+    "Hero sank 40.56%, steepest fall in the top four",
+    "Honda slipped 25.06%, lifting its share to 27.47%",
+    "TVS, third, grew its share from 17.67% to 19.74%"
+   ],
+   "credit_line": "Sources: FADA via Autocar Professional, DriveSpark, The Bike Junction"
+  },
+  {
+   "type": "detail",
+   "stat": "−28.35%",
+   "stat_label": "All Two-Wheeler Retail, October 2026 Vs 2025",
+   "bullets": [
+    "Dhanteras and Diwali shifted from October to November",
+    "Dealer body FADA still calls it the second-best October",
+    "FADA: November's Diwali numbers are the real verdict"
+   ],
+   "credit_line": "Sources: FADA via Autocar Professional, Autocar India, DriveSpark"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Honda",
+  "slug": "idlyautomotive-1627-honda-hero-october-retail",
+  "slide": 1,
+  "type": "cover",
+  "scale": 0.252
+ },
+ {
+  "stat": 188,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FADA via Autocar Professional, DriveSpark, The Bike Junction",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1627-honda-hero-october-retail",
+  "slide": 2,
+  "type": "detail",
+  "scale": null
+ },
+ {
+  "stat": 240,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FADA via Autocar Professional, Autocar India, DriveSpark",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1627-honda-hero-october-retail",
+  "slide": 3,
+  "type": "detail",
+  "scale": null
+ }
+]
