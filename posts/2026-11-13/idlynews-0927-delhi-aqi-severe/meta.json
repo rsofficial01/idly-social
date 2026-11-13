@@ -1,0 +1,66 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Delhi's air 'severe' again on Fri 13 Nov 2026: average AQI 402 at 5 am (CPCB, via Outlook India and Open/News9); IIT Delhi monitor 488, ITO 455 (Scroll/CPCB, Outlook/CPCB, Open/ANI); GRAP Stage III in force across Delhi-NCR since 6 Nov (CAQM, via AIR News and The News Mill/ANI): non-essential construction and demolition halted, BS-III petrol and BS-IV diesel cars barred in Delhi; Delhi schools up to Class 5 in hybrid mode (Business Today 7 Nov, Outlook India)",
+ "sources": [
+  {"outlet": "Outlook India", "date": "2026-11-13", "url": "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"},
+  {"outlet": "Open", "date": "2026-11-13", "url": "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"},
+  {"outlet": "Scroll", "date": "2026-11-13", "url": "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category"},
+  {"outlet": "AIR News (newsonair.gov.in)", "date": "2026-11-06", "url": "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/"},
+  {"outlet": "The News Mill (ANI inputs)", "date": "2026-11-06", "url": "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"},
+  {"outlet": "Business Today", "date": "2026-11-07", "url": "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07"},
+  {"outlet": "Outlook India", "date": "2026-11 (Nov 2026)", "url": "https://www.outlookindia.com/national/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026"}
+ ],
+ "fact_sources": {
+  "Delhi average AQI 402 ('severe') at 5 am Fri 13 Nov, CPCB data": [
+   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
+   "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"
+  ],
+  "IIT Delhi monitor read 488 on Friday morning (Scroll: CPCB 8:05 am; Open: ANI 7:31 am; Outlook: IITM EWS 3 am)": [
+   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category",
+   "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility",
+   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"
+  ],
+  "ITO read 455 on Friday morning (Outlook: CPCB; Open: ANI)": [
+   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
+   "https://openthemagazine.com/india/delhi-air-pollution-turns-severe-as-aqi-hits-402-thick-smog-cuts-visibility"
+  ],
+  "'Severe' on CPCB's AQI scale is 401-450 (above 450 'severe plus')": [
+   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category",
+   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke"
+  ],
+  "CAQM invoked GRAP Stage III across Delhi-NCR on 6 Nov; still in force 13 Nov": [
+   "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/",
+   "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/",
+   "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
+   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category"
+  ],
+  "Non-essential construction and demolition halted under Stage III (essential/infrastructure projects allowed)": [
+   "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/",
+   "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/",
+   "https://scroll.in/latest/1097048/delhi-air-quality-in-severe-category"
+  ],
+  "BS-III petrol and BS-IV diesel cars (light motor vehicles/four-wheelers) barred in Delhi under Stage III": [
+   "https://newsonair.gov.in/caqm-in-ncr-and-adjoining-areas-invoked-stage-3-of-grap-with-immediate-effect/",
+   "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"
+  ],
+  "Delhi schools: students up to Class 5 may attend online or in person (hybrid), from 7 Nov 2026": [
+   "https://www.businesstoday.in/india/story/as-grap-iii-kicks-in-delhi-ncr-schools-directed-to-shift-classes-1-5-to-hybrid-mode-566315-2026-11-07",
+   "https://www.outlookindia.com/national/delhi-schools-online-classes-hybrid-mode-air-pollution-grap-3-november-2026",
+   "https://thenewsmill.com/2026/11/caqm-enforces-grap-stage-3-restrictions-across-delhi-ncr-as-air-quality-reaches-severe-levels/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://worldview.earthdata.nasa.gov/?l=VIIRS_NOAA21_CorrectedReflectance_TrueColor&t=2026-11-12&v=75.80,26.50,78.60,30.00 (NASA Worldview permalink); terms: https://nasa-gibs.github.io/gibs-api-docs/",
+  "file": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&CRS=EPSG:4326&TIME=2026-11-12&WRAP=DAY&BBOX=26.50,75.80,30.00,78.60&FORMAT=image/jpeg&WIDTH=1120&HEIGHT=1400 (NASA Worldview snapshot API, 1120x1400; saved as _work/2026-11-13-hourly-0927/idlynews/img/wv_mid.jpg)",
+  "licence": "Public domain (US government work, NASA/NOAA); GIBS data-use guidance: 'NASA promotes full and open sharing of data', acknowledgement requested",
+  "author": "NASA Worldview (GIBS); VIIRS on NOAA-21; corrected reflectance true colour; date 12 Nov 2026",
+  "viewed": true,
+  "faces": 0,
+  "framing": {"focal": [0.5, 0.5], "zoom": 1.0, "scale": 0.96, "note": "Snapshot requested at 1120x1400 (exact 4:5) for a 2.8 x 3.5 degree box (~273 x 389 km, ~245-280 m per pixel, close to VIIRS true-colour native ~250-375 m); downscaled 0.96x to 1080x1350, no enlargement. Delhi (28.6N, 77.2E) sits at x 0.50, y 0.40, above the headline block. Earlier NOAA-20 snapshot of the same box screened faces=1 and was deleted unviewed."}
+ },
+ "tags": [],
+ "tag_evidence": "None: NASA is credited, not tagged (no brand/maker cover)."
+}

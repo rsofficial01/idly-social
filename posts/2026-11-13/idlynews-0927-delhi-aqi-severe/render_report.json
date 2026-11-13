@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: NASA Worldview (GIBS), VIIRS NOAA-21, 12 Nov 2026",
+  "slug": "idlynews-0927-delhi-aqi-severe",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynews-0927-delhi-aqi-severe/01.jpg",
+  "scale": 0.964
+ },
+ {
+  "stat": 192,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: AIR News, The News Mill (ANI), Business Today, Outlook India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0927-delhi-aqi-severe",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0927-delhi-aqi-severe/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Scroll (CPCB), Outlook India, Open (ANI)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0927-delhi-aqi-severe",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0927-delhi-aqi-severe/03.jpg",
+  "scale": null
+ }
+]
