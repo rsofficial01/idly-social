@@ -1,0 +1,85 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on Royal Enfield's Q2 FY27 call comments (not in the idly API candidates); built from Autocar Pro, the Investing.com call transcript; caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Royal Enfield dealer stock ~7-8 days incl. transit vs normal 3-4 weeks (B. Govindarajan, Eicher Q2 FY27 call, Fri 13 Nov 2026); bookings +20-21% FY27 to date; some models ~2 months of bookings; stock to be refilled over next 2 months; Cheyyar capacity 16.5 lakh/yr -> 18 lakh by Q4 FY27 (module 2 brought forward, output possibly from Jan 2027) -> 20 lakh before 2027 festive season; monthly production +~15%",
+ "sources": [
+  {
+   "outlet": "Autocar Pro",
+   "date": "13 Nov 2026",
+   "url": "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911"
+  },
+  {
+   "outlet": "Investing.com (Eicher Motors Q2 FY27 earnings call transcript)",
+   "date": "13 Nov 2026",
+   "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  }
+ ],
+ "fact_sources": {
+  "Dealer/channel stock ~7-8 days incl. transit (Govindarajan, Q2 FY27 call, Fri 13 Nov)": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Normal channel stock 3-4 weeks": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Bookings up ~20-21% vs last year (FY27 to date)": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Some models ~2 months of bookings": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Channel stock to be refilled over the next two months": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Capacity 16.5 lakh now -> 18 lakh by Q4 FY27 (module 2 brought forward; output possibly from January) -> 20 lakh by Q2 FY28 / ahead of 2027 festive season": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ],
+  "Monthly production up ~15% this year": [
+   "https://www.autocarpro.in/news/royal-enfield-fast-tracks-capacity-expansion-as-bookings-rise-21-percent-dealer-stocks-fall-to-one-week-135911",
+   "https://in.investing.com/news/stock-market-news/earnings-call-transcript-eicher-motors-posts-record-q2-2027-results-93CH-5702828"
+  ]
+ },
+ "image": {
+  "page": "https://www.royalenfield.com/in/en/motorcycles/classic-350/ (Royal Enfield India's own Classic 350 page, gallery 'download' set)",
+  "url": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/new-classic-350/revamp/gallery/download/mobile/gallery_1.jpg",
+  "licence": "Royal Enfield's own official product image (manufacturer website gallery download), editorial use, credited 'Image: Royal Enfield'",
+  "author": "Royal Enfield",
+  "size": "1080x1920 (used at 1.0, no enlargement)",
+  "viewed": true,
+  "faces": 0,
+  "subject": "Royal Enfield Classic 350 (bronze/white) in a palace hall on a marble floor; RE's long-running best-selling model, standing in for RE's range; no people, no text, no watermark",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-13-hourly-2123/idlyautomotive/frame_re1/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.0,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.62
+    ],
+    "zoom": 1.0
+   },
+   "note": "focal y moved from 0.5 to 0.62 so the whole bike sits above the 3-line headline (top 950 px) and the mirror clears the logo; still full-bleed, no enlargement (the tool only places faces)"
+  }
+ },
+ "tags": [
+  "royalenfield"
+ ],
+ "tags_evidence": "royalenfield: linked (https://www.instagram.com/royalenfield) from Royal Enfield India's own site footer, https://www.royalenfield.com/in/en/motorcycles/classic-350/ (checked 13 Nov 2026, 21:47 IST)."
+}

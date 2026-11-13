@@ -1,0 +1,43 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2123-re-dealer-stock",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Autocar Pro",
+  "Investing.com"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Royal Enfield Dealers Have 7‑8 Days of Stock, Not 3‑4 Weeks",
+   "photo": "_work/2026-11-13-hourly-2123/idlyautomotive/frame_re1/cover_source.png",
+   "photo_credit": "Image: Royal Enfield",
+   "focal": [
+    0.5,
+    0.62
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "20‑21%",
+   "stat_label": "Rise in Royal Enfield Bookings Since April",
+   "bullets": [
+    "Some models carry about two months of bookings",
+    "Dealer stock to be refilled within two months"
+   ],
+   "credit_line": "Sources: Autocar Pro, Investing.com"
+  },
+  {
+   "type": "detail",
+   "stat": "18 LAKH",
+   "stat_label": "Bikes a Year Royal Enfield Plans by March",
+   "bullets": [
+    "Up from 16.5 lakh; new unit may start January",
+    "20 lakh a year before the 2027 festive season",
+    "Output up about 15% from last year"
+   ],
+   "credit_line": "Sources: Autocar Pro, Investing.com"
+  }
+ ]
+}
