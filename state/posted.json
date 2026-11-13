@@ -3330,5 +3330,23 @@
       "birkenstock1774",
       "birkenstockin"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18077849108472404",
+    "permalink": "https://www.instagram.com/p/DfrOI6Mmul-/",
+    "posted_at": "2026-11-13T08:39:00+00:00",
+    "date": "2026-11-13",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynerd-1327-ets2-coaches-750/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynerd-1327-ets2-coaches-750/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynerd-1327-ets2-coaches-750/03.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "scs.software"
+    ]
   }
 ]
