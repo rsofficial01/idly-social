@@ -1,0 +1,59 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0827-pink-line-opens-saturday",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Deccan Herald",
+  "Deccan Chronicle (PTI)",
+  "Goodreturns",
+  "Asianet Newsable",
+  "Metro Rail News",
+  "The News Mill (ANI)"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Pink Line Metro on Bannerghatta Road Opens 6 AM Saturday",
+   "photo": "_work/2026-11-13-hourly-0827/frame/idlynews-1/cover_source.png",
+   "photo_credit": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "6",
+   "stat_label": "Pink Line Stations on the First 7.5 km",
+   "bullets": [
+    "Kalena Agrahara, Hulimavu, IIMB, JP Nagar 4th Phase",
+    "Jayadeva Hospital: change for Yellow Line to Electronic City",
+    "Last stop for now: Tavarekere"
+   ],
+   "credit_line": "Sources: Goodreturns, Asianet Newsable, Metro Rail News"
+  },
+  {
+   "type": "detail",
+   "stat": "8 MIN",
+   "stat_label": "Gap Between Pink Line Trains at Peak Hours",
+   "bullets": [
+    "Four trains in service at first, one on standby",
+    "Fares not out yet: BMRCL hasn't published a chart",
+    "Gap may shorten as rider numbers grow, reports say"
+   ],
+   "credit_line": "Sources: Goodreturns, Asianet Newsable, Metro Rail News"
+  },
+  {
+   "type": "detail",
+   "stat": "103.6 KM",
+   "stat_label": "Bengaluru Metro Network Once the Stretch Opens",
+   "bullets": [
+    "Up from 96.1 km before this stretch",
+    "Elevated stretch cost about ₹3,470 crore, PTI and ANI report",
+    "12 underground stations to Nagawara still under construction"
+   ],
+   "credit_line": "Sources: Goodreturns, Metro Rail News, Deccan Chronicle (PTI), The News Mill (ANI)"
+  }
+ ]
+}

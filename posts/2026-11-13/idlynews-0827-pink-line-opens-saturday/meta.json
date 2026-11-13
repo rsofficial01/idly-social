@@ -1,0 +1,125 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Bengaluru Metro Pink Line's first 7.5 km (elevated, along Bannerghatta Road, Kalena Agrahara to Tavarekere; 6 stations: Kalena Agrahara, Hulimavu, IIMB, JP Nagar 4th Phase, Jayadeva Hospital, Tavarekere) opens to passengers 6 am Sat 14 Nov 2026 per Karnataka minister Krishna Byre Gowda; PM Modi scheduled to inaugurate Fri 13 Nov; 4 trains + 1 standby, ~8 min at peak hours, gap may shorten as ridership grows (reports); fares not announced by BMRCL; Yellow Line interchange at Jayadeva Hospital; cost about ₹3,470 crore (PTI, ANI); network 96.1 km to about 103.6 km; 12 underground stations to Nagawara still under construction",
+ "sources": [
+  {
+   "outlet": "Goodreturns",
+   "date": "2026-11-12",
+   "url": "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html"
+  },
+  {
+   "outlet": "Asianet Newsable",
+   "date": "2026-11-12",
+   "url": "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  },
+  {
+   "outlet": "Metro Rail News",
+   "date": "2026-11-12",
+   "url": "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/"
+  },
+  {
+   "outlet": "Deccan Herald (headline/search summary; page returned 403 to fetch)",
+   "date": "2026-11-12",
+   "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-bannerghatta-road-metro-will-start-public-service-on-nov-14-minister-4214686"
+  },
+  {
+   "outlet": "Deccan Chronicle (PTI)",
+   "date": "2026-11-12",
+   "url": "https://www.deccanchronicle.com/southern-states/karnataka/modi-to-inaugurate-bengaluru-metro-pink-line-launch-vande-bharat-train-on-nov-13-2003702"
+  },
+  {
+   "outlet": "Deccan Chronicle (PTI)",
+   "date": "2026-11-12",
+   "url": "https://www.deccanchronicle.com/southern-states/karnataka/krishna-byre-gowda-alleges-snub-at-bengaluru-metro-pink-line-inauguration-2003781"
+  },
+  {
+   "outlet": "The News Mill (ANI inputs)",
+   "date": "2026-11-12",
+   "url": "https://thenewsmill.com/2026/11/pm-modi-to-inaugurate-bengaluru-metro-pink-line-and-multiple-infrastructure-projects-in-karnataka/"
+  }
+ ],
+ "fact_sources": {
+  "First stretch: 7.5 km, elevated, Kalena Agrahara to Tavarekere, along Bannerghatta Road": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/",
+   "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-bannerghatta-road-metro-will-start-public-service-on-nov-14-minister-4214686"
+  ],
+  "Six stations: Kalena Agrahara, Hulimavu, IIMB, JP Nagar 4th Phase, Jayadeva Hospital, Tavarekere": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/"
+  ],
+  "Passenger service from 6 am Sat 14 Nov, per Karnataka minister Krishna Byre Gowda": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-bannerghatta-road-metro-will-start-public-service-on-nov-14-minister-4214686",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  ],
+  "PM Modi scheduled to inaugurate the stretch on Fri 13 Nov": [
+   "https://www.deccanchronicle.com/southern-states/karnataka/modi-to-inaugurate-bengaluru-metro-pink-line-launch-vande-bharat-train-on-nov-13-2003702",
+   "https://www.deccanchronicle.com/southern-states/karnataka/krishna-byre-gowda-alleges-snub-at-bengaluru-metro-pink-line-inauguration-2003781",
+   "https://thenewsmill.com/2026/11/pm-modi-to-inaugurate-bengaluru-metro-pink-line-and-multiple-infrastructure-projects-in-karnataka/",
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html"
+  ],
+  "4 trains in service + 1 standby; about 8 minutes apart at peak hours (Goodreturns: 'during peak hours'; MRN/Asianet: every 8 min initially)": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  ],
+  "Fares not announced by BMRCL": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/"
+  ],
+  "Interchange with the Yellow Line (to Electronic City) at Jayadeva Hospital": [
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  ],
+  "Elevated Kalena Agrahara-Tavarekere stretch cost about ₹3,470 crore": [
+   "https://www.deccanchronicle.com/southern-states/karnataka/modi-to-inaugurate-bengaluru-metro-pink-line-launch-vande-bharat-train-on-nov-13-2003702",
+   "https://www.deccanchronicle.com/southern-states/karnataka/krishna-byre-gowda-alleges-snub-at-bengaluru-metro-pink-line-inauguration-2003781",
+   "https://thenewsmill.com/2026/11/pm-modi-to-inaugurate-bengaluru-metro-pink-line-and-multiple-infrastructure-projects-in-karnataka/",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  ],
+  "Operational network from 96.1 km to about 103.6 km": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/"
+  ],
+  "Full line 21.26 km (MRN: 21.25 km), 18 stations; 12 underground stations Dairy Circle to Nagawara still under construction": [
+   "https://www.goodreturns.in/news/namma-bengaluru-metro-pink-line-opening-on-nov-14-pm-modi-to-inaugurate-check-stations-timings-1546541.html",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74",
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/"
+  ],
+  "Frequency may improve/change as passenger numbers are assessed (MRN: minister Gowda; Asianet: may change based on demand)": [
+   "https://metrorailnews.in/bengaluru-metro-pink-line-stations-renamed-opening-november-14/",
+   "https://newsable.asianetnews.com/gallery/karnataka-news/bengaluru-metro-pink-line-launch-6-stations-route-map-timings-key-details-commuters-should-know-0oe8x74"
+  ]
+ },
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:Jayadeva_Hospital_metro_station,_Bangalore_Buiding_view_with_%27L%27_entrance.jpg",
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jayadeva_Hospital_metro_station%2C_Bangalore_Buiding_view_with_%27L%27_entrance.jpg/1920px-Jayadeva_Hospital_metro_station%2C_Bangalore_Buiding_view_with_%27L%27_entrance.jpg",
+  "owner": "Gpkp (Wikimedia Commons user), own work, taken 26 Oct 2025",
+  "licence": "CC BY-SA 4.0",
+  "credit": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+  "width": 1920,
+  "height": 1440,
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-13-hourly-0827/frame/idlynews-1/cover_source.png",
+  "framing": {
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "scale": 0.94,
+   "note": "Commons 1920 px rendition of the 3264x2448 original (original download returned HTTP 429 three times; the 3840 px rendition screened faces=3 and was deleted unviewed). 4:5 crop of 1152x1440 downscaled 0.94x to 1080x1350: no enlargement. Building sits from the sky under the logo to mid-frame; headline over the forecourt."
+  }
+ },
+ "tags": [],
+ "tag_evidence": null
+}

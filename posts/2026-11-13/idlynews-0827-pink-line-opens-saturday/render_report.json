@@ -1,0 +1,80 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-0827-pink-line-opens-saturday",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynews-0827-pink-line-opens-saturday/01.jpg",
+  "scale": 0.938
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Goodreturns, Asianet Newsable, Metro Rail News",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0827-pink-line-opens-saturday",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0827-pink-line-opens-saturday/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 304,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Goodreturns, Asianet Newsable, Metro Rail News",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0827-pink-line-opens-saturday",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0827-pink-line-opens-saturday/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 208,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Goodreturns, Metro Rail News, Deccan Chronicle (PTI), The News Mill (ANI)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0827-pink-line-opens-saturday",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynews-0827-pink-line-opens-saturday/04.jpg",
+  "scale": null
+ }
+]
