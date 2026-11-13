@@ -1,0 +1,111 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "no idly.news article on the P&H High Court no-fault compensation ruling in the API feed (candidates.json, 14 h window, generated 13 Nov 10:35 IST)",
+ "format": "news",
+ "title": "Punjab and Haryana High Court (Justice Parmod Goyal; reported 12 Nov 2026 by LiveLaw and NewsX) holds no-fault compensation under Section 164 of the Motor Vehicles Act covers even an 'Act of God': four people grievously hurt when ice pushed a car into a gorge near Lakkar Mandi, Dalhousie, on 9 Mar 1997 get ₹2.5 lakh each with 6% interest from their claim dates (MACT Amritsar had dismissed all five claims in Mar 2004; appeals pending since 2004); the owner-driver's death claim fails (not a third party; his 1997 policy covered only a paid driver, no premium for the owner); Section 164 (in force 1 Apr 2022; ₹5 lakh death, ₹2.5 lakh grievous hurt) applied to the older accident",
+ "sources": [
+  {
+   "outlet": "LiveLaw",
+   "date": "12 Nov 2026",
+   "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166"
+  },
+  {
+   "outlet": "NewsX",
+   "date": "12 Nov 2026 11:43 IST",
+   "url": "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  },
+  {
+   "outlet": "Motor Vehicles Act, 1988, Section 164 (text, CaseOn)",
+   "date": "n/a",
+   "url": "https://www.caseon.in/section/section-164-the-motor-vehicles-act-1988"
+  },
+  {
+   "outlet": "Motor Vehicles Act, 1988, Section 164 (text, CourtBook)",
+   "date": "n/a",
+   "url": "https://courtbook.in/motor-vehicles-act-1988/section-164"
+  },
+  {
+   "outlet": "LiveLaw High Courts Daily Highlights, 12 Nov 2026 (lists the ruling)",
+   "date": "12 Nov 2026",
+   "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-12-2026-558279"
+  }
+ ],
+ "fact_sources": {
+  "Punjab and Haryana HC, Justice Parmod Goyal; reported 12 Nov 2026 (no judgment date in either source)": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "'No fault liability shall include even Act of God' (quote)": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "9 Mar 1997, ice fell on the car near Lakkar Mandi, Dalhousie, pushed it into a gorge": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Owner-driver died; four others grievously/seriously hurt": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "MACT Amritsar dismissed all five claims in March 2004 (Act of God, no negligence, one vehicle)": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Appeals pending in the High Court since 2004": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Negligence not proved; injuries arose from use of an insured vehicle, so no-fault compensation applies": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Four injured get ₹2.5 lakh each lump sum, 6% interest from date of claim petitions": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Owner-driver's death claim failed: not a third party; policy covered only a paid driver; no premium for the owner": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Section 164 in force from 1 April 2022; applied retrospectively as procedural, relying on Supreme Court rulings incl. Roopa v. Orix (27 Apr 2026)": [
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-awards-25-lakh-each-to-family-injured-when-ice-fell-on-car-in-1997-558166",
+   "https://www.newsx.com/regionals/ice-fell-on-their-car-tribunal-blamed-act-of-god-why-did-punjab-and-haryana-high-court-still-order-rs-25-lakh-each-291728/"
+  ],
+  "Section 164 fixes ₹5 lakh for death (₹2.5 lakh grievous hurt); no proof of wrongful act, neglect or default needed": [
+   "https://www.caseon.in/section/section-164-the-motor-vehicles-act-1988",
+   "https://courtbook.in/motor-vehicles-act-1988/section-164"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the cover photo is by an individual Unsplash photographer (people are never tagged); the High Court has no verified Instagram account confirmed in 2 sources.",
+ "photo_source": {
+  "page": "https://unsplash.com/photos/qQiXZ0X685g",
+  "image_url": "https://images.unsplash.com/photo-1697308539769-100c311d54d8",
+  "licence": "Unsplash License (free; not Unsplash+)",
+  "author": "Ankit Pai N (https://unsplash.com/@ankit_pai_n)",
+  "owner": "Ankit Pai N (individual photographer, Unsplash)",
+  "location": "Chandigarh (per Unsplash); Punjab and Haryana High Court entrance pylons, Capitol Complex (identified by architecture; confirmed by reviewer at Gate 1)",
+  "published": "14 Oct 2023",
+  "viewed": true,
+  "faces": 0,
+  "size": "5076x3384",
+  "credit": "Photo: Ankit Pai N / Unsplash, Unsplash License"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-13-hourly-1027/idlynews/frame_phhc/cover_source.png",
+  "focal": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.4,
+  "faces": 0,
+  "note": "centre 4:5 crop of full height, downscaled; reviewer: keep 0.5 (0.56 cuts the green and red pylons)"
+ },
+ "baseline": "Not a Tamil Nadu story. post_problems flagged TN baseline items on generic 'High Court' wording; ran python3 -m pipeline.baseline check --region tn --file caption.txt: exit 0, no STOP, nothing relevant. No baseline exists for Punjab/Haryana/HP.",
+ "commons_attempt": "Wikimedia upload host returned 429 (rate limit, then robot policy) to plain curl; per brief not retried; used Unsplash."
+}
