@@ -3262,5 +3262,39 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-1127-a2b-bodhi-tree/03.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18110874785189929",
+    "permalink": "https://www.instagram.com/p/DfrGpejl_kZ/",
+    "posted_at": "2026-11-13T07:33:32+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlynews-1227-sgb-2018-final-redemption/04.jpg"
+    ],
+    "score_total": 13
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "17946135138389279",
+    "permalink": "https://www.instagram.com/p/DfrGtx9lAAE/",
+    "posted_at": "2026-11-13T07:34:06+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyhype-1227-ajio-luxe-wkend/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyhype-1227-ajio-luxe-wkend/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlyhype-1227-ajio-luxe-wkend/03.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "jioworldcentre"
+    ]
   }
 ]
