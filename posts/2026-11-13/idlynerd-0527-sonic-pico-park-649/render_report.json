@@ -1,0 +1,60 @@
+{
+ "slides": [
+  {
+   "size": 100,
+   "lines": 3,
+   "overflow": false,
+   "top": 950,
+   "credit_line": "Image: PICO PARK / SEGA",
+   "slug": "idlynerd-0527-sonic-pico-park-649",
+   "slide": 1,
+   "type": "cover",
+   "jpg": "posts/2026-11-13/idlynerd-0527-sonic-pico-park-649/01.jpg",
+   "scale": 1.0
+  },
+  {
+   "stat": 264,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Steam, Gematsu, picoparkgame.com",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlynerd-0527-sonic-pico-park-649",
+   "slide": 2,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlynerd-0527-sonic-pico-park-649/02.jpg",
+   "scale": null
+  },
+  {
+   "stat": 320,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: Valve, Video Games Chronicle, Wccftech, Steam",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "idlynerd-0527-sonic-pico-park-649",
+   "slide": 3,
+   "type": "detail",
+   "jpg": "posts/2026-11-13/idlynerd-0527-sonic-pico-park-649/03.jpg",
+   "scale": null
+  }
+ ]
+}

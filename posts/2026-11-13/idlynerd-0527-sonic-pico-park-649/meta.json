@@ -1,0 +1,97 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "SONIC PICO PARK (TECOPARK / PICO PARK Inc., with SEGA), a 2-8 player co-op puzzle game, launched Thu 12 Nov 2026 on PS5, Xbox Series X|S, Xbox One, Switch 2, Switch and PC; ₹649 on Steam India; online cross-play; Steam Remote Play Together lets one owner stream local co-op to up to 4 players (more on fast connections).",
+ "sources": [
+  {
+   "outlet": "Steam (SONIC PICO PARK store page, India)",
+   "date": "2026-11-13",
+   "url": "https://store.steampowered.com/app/4304060/"
+  },
+  {
+   "outlet": "Steam appdetails (cc=in, ₹649, release 12 Nov 2026)",
+   "date": "2026-11-13",
+   "url": "https://store.steampowered.com/api/appdetails?appids=4304060&cc=in"
+  },
+  {
+   "outlet": "Microsoft Store India (₹649, 2 to 8 players)",
+   "date": "2026-11-13",
+   "url": "https://www.xbox.com/en-IN/games/store/x/9PP07ZLDLSM5"
+  },
+  {
+   "outlet": "Gematsu",
+   "date": "2026-09-09",
+   "url": "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc"
+  },
+  {
+   "outlet": "PICO PARK official site (SONIC PICO PARK)",
+   "date": "2026-11-13",
+   "url": "https://picoparkgame.com/en/spp/"
+  },
+  {
+   "outlet": "Valve (Steam Remote Play)",
+   "date": "2026-11-13",
+   "url": "https://store.steampowered.com/remoteplay"
+  },
+  {
+   "outlet": "Video Games Chronicle",
+   "date": "2019-10-22",
+   "url": "https://videogameschronicle.com/news/steam-users-can-now-play-local-multiplayer-games-online"
+  },
+  {
+   "outlet": "Wccftech",
+   "date": "2019",
+   "url": "https://wccftech.com/steam-remote-play-together-invite-anybody-with-a-link/"
+  }
+ ],
+ "fact_sources": {
+  "Released Thu 12 Nov 2026": [
+   "https://store.steampowered.com/app/4304060/",
+   "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "https://www.xbox.com/en-IN/games/store/x/9PP07ZLDLSM5"
+  ],
+  "₹649 on Steam India": [
+   "https://store.steampowered.com/api/appdetails?appids=4304060&cc=in",
+   "https://www.xbox.com/en-IN/games/store/x/9PP07ZLDLSM5"
+  ],
+  "2 to 8 players locally or online": [
+   "https://picoparkgame.com/en/spp/",
+   "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "https://store.steampowered.com/app/4304060/"
+  ],
+  "Platforms PS5, Xbox Series X|S, Xbox One, Switch 2, Switch, PC": [
+   "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "https://picoparkgame.com/en/spp/",
+   "https://www.xbox.com/en-IN/games/store/x/9PP07ZLDLSM5"
+  ],
+  "Online cross-play; up to 7 local players on one PC can join online; all stages with any number of players; Spin Dash, rings, loops, springs": [
+   "https://store.steampowered.com/app/4304060/",
+   "https://www.gematsu.com/2026/09/sonic-pico-park-launches-november-12-for-ps5-xbox-series-switch-2-switch-and-pc"
+  ],
+  "Remote Play Together: only the host owns the game; up to 4 players, more on fast connections; join from PC, phone or tablet; Steam only": [
+   "https://store.steampowered.com/remoteplay",
+   "https://videogameschronicle.com/news/steam-users-can-now-play-local-multiplayer-games-online",
+   "https://wccftech.com/steam-remote-play-together-invite-anybody-with-a-link/"
+  ],
+  "Developer TECOPARK, publisher PICO PARK Inc., collaboration with SEGA": [
+   "https://store.steampowered.com/app/4304060/",
+   "https://www.xbox.com/en-IN/games/store/x/9PP07ZLDLSM5",
+   "https://picoparkgame.com/en/spp/"
+  ]
+ },
+ "image": {
+  "source_page": "https://store.steampowered.com/app/4304060/",
+  "file_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304060/f5ab1edac70b2b035efbe51d95ca06e6ea0e5a8c/ss_f5ab1edac70b2b035efbe51d95ca06e6ea0e5a8c.1920x1080.jpg",
+  "owner": "PICO PARK Inc. / SEGA (rights lines on picoparkgame.com/en/spp/)",
+  "licence": "official publisher promotional screenshot, credited",
+  "orig_w": 1920,
+  "orig_h": 1080,
+  "faces": 0,
+  "viewed": true,
+  "framing": "crop x 822-1686 of the 1920x1080 screenshot (864x1080, 4:5), enlarged 1.25x with nearest-neighbour (pixel art, no sharpening) to 1080x1350; pipeline.framing focal [0.5,0.5] zoom 1.0 upscale 1.0; reviewer G2+3 fix"
+ },
+ "tags": [],
+ "tags_note": "picoparkgame.com links no Instagram account; no tag"
+}

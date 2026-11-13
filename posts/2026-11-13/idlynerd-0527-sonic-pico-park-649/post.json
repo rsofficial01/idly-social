@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0527-sonic-pico-park-649",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Steam",
+  "Gematsu",
+  "Valve"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Sonic Pico Park Is Out: 8-Player Co-Op for ₹649",
+   "photo": "_work/2026-11-13-hourly-0527/idlynerd/frame2/cover_source.png",
+   "photo_credit": "Image: PICO PARK / SEGA",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Out Now on PC, PS5, Xbox and Switch",
+   "bullets": [
+    "Online cross-play, so mixed-console friend groups can team up",
+    "One PC can bring up to 7 players online",
+    "All stages are playable whether you are 2 or 8"
+   ],
+   "credit_line": "Sources: Steam, Gematsu, picoparkgame.com"
+  },
+  {
+   "type": "detail",
+   "stat": "4",
+   "stat_label": "Can Play Remotely on One Steam Copy",
+   "bullets": [
+    "Remote Play Together: only the host buys the game",
+    "Friends join from a PC, phone or tablet",
+    "Steam only; over 4 players needs fast internet"
+   ],
+   "credit_line": "Sources: Valve, Video Games Chronicle, Wccftech, Steam"
+  }
+ ]
+}
