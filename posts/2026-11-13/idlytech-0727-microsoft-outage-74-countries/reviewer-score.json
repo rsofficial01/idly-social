@@ -1,0 +1,12 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "verdict": "PASS",
+ "notes": "Blind G4, ~08:35 IST Fri 13 Nov. Face screen gave faces=0 on 01-03.jpg, so I opened all three at full size. I read render_report.json (no overflow, no credit_collision, credit_inside true on 02/03, cover scale 1.125, below the 1.6 softness flag), caption.txt, alt.txt and post.json, and re-ran post_problems: no errors. HOLD list clear. Cover: full-bleed Microsoft press aerial of a Wisconsin datacenter (Microsoft's datacenters gallery lists the file with that caption), no letterbox, box or blur, sharp. Halls and cooling towers sit at y ~300-740, clear of the logo (legible over haze) and the headline block. White 100 px headline in 3 lines from y 950, one left edge, on dark land and the pond. Vertical 'Image: Microsoft' credit ~75 px right of the longest line, not touching. Trees and pond between the subject and the headline are scene, not an empty band. Slides 2-3: white Title Case labels name Microsoft; label and bullet text share the x 72 edge (square markers hang, as in the template); nothing cut off or overlapping; Sources lines readable. All 4 G2+3 fixes are in. Status re-checked by me ~08:30 IST in 2 sources: ABC News Australia live blog (newest 1:14 pm AEDT = 07:44 IST; Microsoft 'seeing positive results with our efforts to restart affected infrastructure'; no all-clear) and ABC7 New York live updates ('positive results', not declared resolved). So slide 3's '7:55 AM still recovering' holds. Weak check: keep 1. The IST timeline is a past night. Only the status.cloud.microsoft tip and incident EX1550543 are worth saving, and those mostly for IT admins. Hook 2 is earned but borderline: Outlook/Teams plus '74 Countries in an Hour' on the cover is a clear, specific stake, though the aerial image doesn't say 'outage' by itself. Send 2 holds only while it's still recovering when Indian offices open: if Microsoft declares it fixed before publish, send drops to 1 (total 12) and slide 3 plus the caption's status paragraph must go to past tense and back through G2+3. Reply 2 (office fallback, own life). Original 2 (idly's IST synthesis; credited official image). Alone 2."
+}

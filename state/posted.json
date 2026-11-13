@@ -3126,5 +3126,20 @@
     "tagged": [
       "carharttwip"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18085151102392274",
+    "permalink": "https://www.instagram.com/p/Dfqj6jZl5xs/",
+    "posted_at": "2026-11-13T02:30:03+00:00",
+    "date": "2026-11-13",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/03.jpg"
+    ],
+    "score_total": 13
   }
 ]

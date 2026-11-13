@@ -1,0 +1,18 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "no_idly_article": true,
+ "images": [
+  "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/01.jpg",
+  "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/02.jpg",
+  "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/03.jpg"
+ ],
+ "caption_file": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/caption.txt",
+ "alt_text_file": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/alt.txt",
+ "score_file": "posts/2026-11-13/idlytech-0727-microsoft-outage-74-countries/score.json",
+ "title": "Microsoft 365 outage (Exchange Online incident from 9:47 pm IST Thu 12 Nov 2026, per Microsoft) knocks out Outlook, parts of Teams, Copilot and SharePoint; Downdetector: reports reached 74 countries and territories in about an hour, India's rose tenfold by 11:21 pm IST, peak 19,650 a minute across five services at 11:55 pm IST, Outlook alone 1 lakh+ at peak; Microsoft blames servers failing automated health checks, no indication of a cyberattack; not declared fixed as of 7:55 am IST Fri ('positive results' restarting servers, no ETA); admin incident EX1550543, backup status page status.cloud.microsoft",
+ "tags": [],
+ "media_id": "18085151102392274",
+ "permalink": "https://www.instagram.com/p/Dfqj6jZl5xs/",
+ "posted_at": "2026-11-13T02:30:03+00:00"
+}
