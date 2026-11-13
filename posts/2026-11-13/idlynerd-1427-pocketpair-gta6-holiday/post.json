@@ -1,0 +1,46 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1427-pocketpair-gta6-holiday",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Pocketpair",
+  "IGN",
+  "Push Square",
+  "Fortune",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Palworld Studio Gives Staff 5 Days Off for GTA VI",
+   "photo": "_work/2026-11-13-hourly-1427/nerd/frame_vc27/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "19-23 NOV",
+   "stat_label": "Pocketpair's 'Business Trip in Vice City'",
+   "bullets": [
+    "Only for staff who plan to play GTA VI",
+    "Covers a weekend and Japan's 23 Nov public holiday",
+    "Logitech gives every employee one day off to game"
+   ],
+   "credit_line": "Sources: Pocketpair, IGN, Push Square, Fortune"
+  },
+  {
+   "type": "detail",
+   "stat": "12 AM IST",
+   "stat_label": "GTA VI Unlocks in India on Thursday",
+   "bullets": [
+    "Midnight local time worldwide, so Wednesday night here",
+    "PS5 and Xbox Series X|S, per India store listings"
+   ],
+   "credit_line": "Sources: Push Square, Business Today"
+  }
+ ]
+}

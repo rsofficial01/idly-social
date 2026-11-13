@@ -1,0 +1,11 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 2,
+  "keep": 1,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "keep 1: the only keepable fact for Indian readers is the 12 AM IST Thu 19 Nov unlock (already on this page 10 Nov); Pocketpair's 19-23 Nov window and Logitech's day are not things readers act on. hook 2: '5 Days' + Palworld + GTA VI on the cover, quirky and specific (the 5 days are calendar days, disclosed on slide 2). Layout checked on all 3 slides at full size: cover full-bleed official Rockstar Vice City skyline, no letterbox/blur, sharp (0.625 downscale), logo on plain sky clear of the antennas, headline white, 3 lines, one left edge, over the darkened river/drawbridge, clear of the vertical credit; slides 2-3 stat/label/bullets share one left edge, no overlap, nothing cut (slide 3 'T' swash reaches but stays inside the right margin), source lines above the footer rule, render_report no overflow/collision. Slide 3's extra space above/below (2 bullets, centred) is the template's balanced margin, not an empty band."
+}

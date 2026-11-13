@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Rockstar Games",
+  "slug": "idlynerd-1427-pocketpair-gta6-holiday",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-13/idlynerd-1427-pocketpair-gta6-holiday/01.jpg",
+  "scale": 0.625
+ },
+ {
+  "stat": 180,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Pocketpair, IGN, Push Square, Fortune",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-1427-pocketpair-gta6-holiday",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynerd-1427-pocketpair-gta6-holiday/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Push Square, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-1427-pocketpair-gta6-holiday",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-13/idlynerd-1427-pocketpair-gta6-holiday/03.jpg",
+  "scale": null
+ }
+]

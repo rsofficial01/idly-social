@@ -1,0 +1,68 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on this story (not in the idly.news API candidates); reference-led (IGN 12 Nov), caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Pocketpair (Palworld) gives staff who plan to play GTA VI a special five-day holiday, Thu 19 to Mon 23 Nov 2026 ('an urgent five-day business trip in Vice City'), covering a weekend and Japan's 23 Nov public holiday; CEO Takuro Mizobe takes it too; Logitech gives every employee one 'Logi Game Day' within 12 months; GTA VI unlocks 12:00 am IST Thu 19 Nov in India on PS5 and Xbox Series X|S",
+ "sources": [
+  {"outlet": "Pocketpair (Palworld_EN on X)", "date": "12 Nov 2026", "url": "https://x.com/Palworld_EN"},
+  {"outlet": "IGN", "date": "12 Nov 2026", "url": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6"},
+  {"outlet": "Push Square", "date": "12 Nov 2026", "url": "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees"},
+  {"outlet": "80 Level", "date": "13 Nov 2026", "url": "https://80.lv/articles/palworld-studio-pocketpair-gives-employees-5-days-off-to-play-gta-6/"},
+  {"outlet": "Fortune", "date": "10 Nov 2026", "url": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/"},
+  {"outlet": "Push Square (GTA 6 release times guide)", "date": "6 Nov 2026 (checked 13 Nov)", "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing"},
+  {"outlet": "Business Today", "date": "4 Nov 2026", "url": "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"},
+  {"outlet": "Cabinet Office of Japan (national holidays CSV)", "date": "checked 13 Nov 2026", "url": "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"},
+  {"outlet": "Nager.Date public holidays API", "date": "checked 13 Nov 2026", "url": "https://date.nager.at/api/v3/PublicHolidays/2026/JP"}
+ ],
+ "fact_sources": {
+  "Pocketpair (Japanese studio behind Palworld) grants all employees who intend to play GTA VI a special five-day holiday": [
+   "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees"
+  ],
+  "Holiday runs 19 to 23 November": [
+   "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees"
+  ],
+  "Notice on X: 'an urgent five-day business trip in Vice City'": [
+   "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "https://x.com/Palworld_EN"
+  ],
+  "CEO Takuro Mizobe says he is taking the break too": [
+   "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+   "https://80.lv/articles/palworld-studio-pocketpair-gives-employees-5-days-off-to-play-gta-6/"
+  ],
+  "19 Nov 2026 is a Thursday, 23 Nov a Monday (so 21-22 Nov weekend inside); 23 Nov 2026 is Labour Thanksgiving Day, a Japanese national holiday": [
+   "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv",
+   "https://date.nager.at/api/v3/PublicHolidays/2026/JP"
+  ],
+  "Logitech 'Logi Game Day': every employee gets one day off to play a game of their choice, usable any time in the next 12 months": [
+   "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/",
+   "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees"
+  ],
+  "GTA VI unlocks at midnight local time on 19 Nov (Rockstar confirmed); India listings show 12:00 am IST Thu 19 Nov on PS5 and Xbox Series X|S": [
+   "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+   "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.rockstargames.com/VI/launch-gallery",
+  "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+  "licence": "Official Rockstar Games promotional screenshot from the publisher's own GTA VI site (rockstargames.com/VI, on the allowlist), used credited for editorial news",
+  "author": "Rockstar Games",
+  "credit": "Image: Rockstar Games",
+  "size": "3840x2160",
+  "faces": 0,
+  "viewed": true,
+  "subject": "In-game Vice City at night: lit downtown towers under a purple sky, a river with small boats and a raised drawbridge, traffic on a road bridge; no characters visible (checked at full resolution in three crops), no watermark, no overlay lettering (only small in-game building signage)",
+  "local": "_work/2026-11-13-hourly-1427/nerd/photos/rs_Vice_City_27.jpg",
+  "framing": {
+   "tool_output": {"ok": true, "photo": "_work/2026-11-13-hourly-1427/nerd/frame_vc27/cover_source.png", "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 0.62, "faces": 0},
+   "used": {"focal": [0.5, 0.5], "zoom": 1.0},
+   "note": "Centre 4:5 crop (1728x2160 of 3840x2160, downscaled, no upscaling): skyline in the upper half, river and raised drawbridge in the lower half under the headline gradient; logo area is sky."
+  }
+ },
+ "tags": ["rockstargames"],
+ "tags_evidence": "rockstargames: Rockstar Games owns the cover image; instagram.com/rockstargames is linked from Rockstar's own GTA VI launch-gallery page (https://www.rockstargames.com/VI/launch-gallery), the page hosting the cover image (checked 13 Nov 2026); also used on our 12 Nov post."
+}
