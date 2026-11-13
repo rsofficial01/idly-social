@@ -1,0 +1,11 @@
+{
+  "hook": 2,
+  "read": 2,
+  "send": 1,
+  "keep": 2,
+  "reply": 2,
+  "original": 2,
+  "alone": 2,
+  "total": 13,
+  "notes": "send 1: a ₹39,900 streaming box is a niche buy in India; the forward reason ('look how much it costs now') is real but narrow, mostly Apple-ecosystem shoppers. Layout checked on all 3 slides at full size: cover full-bleed Apple press image, no letterbox/blur, sharp (scale 0.969, no upscale); box and remote whole, box's bottom edge visible at ~y 900, headline cap line ~y 965, nothing touching; headline white, 3 lines, one left edge (x 48), clear of the vertical credit and footer; top grey (y 0-180) is the photo's own shadow gradient, reads as headroom, not an empty band; white logo on ~L174 grey is low-contrast (~2:1) but its drop shadow keeps it legible at phone size, not a HOLD. Slides 2-3: stat/label/bullets share one left edge (x 72), nothing cut (13 NOV's V ends inside the right margin), clean wraps, source lines above the footer rule; render_report no overflow/collision."
+}

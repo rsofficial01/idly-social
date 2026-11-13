@@ -1,0 +1,143 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Apple TV 4K India sale (not in the idly.news API candidates); reference-led story (Indian Express review 13 Nov, Apple Newsroom India), caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Apple TV 4K (4th gen, A19) on sale in India from 13 Nov 2026 at ₹39,900, one model (128GB Wi-Fi + Ethernet); the 2022 model launched at ₹16,900 (128GB Ethernet) / ₹14,900 (64GB), raised in June 2026 to ₹31,900 / ₹25,900 citing memory and storage costs; new box ₹8,000 above the old model's latest price",
+ "sources": [
+  {
+   "outlet": "Apple Newsroom India",
+   "date": "13 Oct 2026",
+   "url": "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+  },
+  {
+   "outlet": "Apple Store India (buy page, ₹39900.00)",
+   "date": "13 Nov 2026 (checked)",
+   "url": "https://www.apple.com/in/shop/buy-tv/apple-tv-4k"
+  },
+  {
+   "outlet": "Indian Express (review)",
+   "date": "13 Nov 2026",
+   "url": "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/"
+  },
+  {
+   "outlet": "Indian Express (launch story)",
+   "date": "13 Oct 2026",
+   "url": "https://indianexpress.com/article/technology/apple-homeview-homepod-mini-2-apple-tv-4k-10918837/"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "13 Oct 2026",
+   "url": "https://www.businesstoday.in/technology/news/story/apple-launches-new-apple-tv-4k-in-india-at-rs-39900-with-siri-ai-and-faster-performance-561367-2026-10-13"
+  },
+  {
+   "outlet": "Digit",
+   "date": "14 Oct 2026",
+   "url": "https://www.digit.in/news/general/apple-tv-4k-2026-vs-apple-tv-2022-price-in-india-to-features-how-4th-generation-device-differs-from-its-predecessor.html"
+  },
+  {
+   "outlet": "Smartprix (June price hike)",
+   "date": "25 Jun 2026",
+   "url": "https://www.smartprix.com/bytes/apple-tv-4k-india-price-hiked-massively-why-it-is-no-longer-a-great-deal/"
+  },
+  {
+   "outlet": "Smartprix (new model)",
+   "date": "13 Oct 2026",
+   "url": "https://www.smartprix.com/bytes/apple-tv-4k-2026-costs-₹39900-in-india-heres-why-im-not-upgrading-yet/"
+  },
+  {
+   "outlet": "TelecomTalk (June price hike)",
+   "date": "26 Jun 2026",
+   "url": "https://telecomtalk.info/apple-hikes-prices-cites-rising-memory-costs/1009102/"
+  }
+ ],
+ "fact_sources": {
+  "Apple TV 4K (4th generation) India price ₹39,900": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://www.apple.com/in/shop/buy-tv/apple-tv-4k",
+   "https://www.businesstoday.in/technology/news/story/apple-launches-new-apple-tv-4k-in-india-at-rs-39900-with-siri-ai-and-faster-performance-561367-2026-10-13",
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/"
+  ],
+  "In stores / on sale in India from Fri 13 Nov 2026 (pre-orders from 13 Oct)": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://indianexpress.com/article/technology/apple-homeview-homepod-mini-2-apple-tv-4k-10918837/",
+   "https://www.smartprix.com/bytes/apple-tv-4k-2026-costs-₹39900-in-india-heres-why-im-not-upgrading-yet/"
+  ],
+  "Only one configuration: 128GB Wi-Fi + Ethernet": [
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/",
+   "https://www.digit.in/news/general/apple-tv-4k-2026-vs-apple-tv-2022-price-in-india-to-features-how-4th-generation-device-differs-from-its-predecessor.html",
+   "https://www.smartprix.com/bytes/apple-tv-4k-2026-costs-₹39900-in-india-heres-why-im-not-upgrading-yet/"
+  ],
+  "2022 (3rd-gen) model launched at ₹16,900 (128GB Wi-Fi + Ethernet) and ₹14,900 (64GB Wi-Fi)": [
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/",
+   "https://www.smartprix.com/bytes/apple-tv-4k-india-price-hiked-massively-why-it-is-no-longer-a-great-deal/",
+   "https://telecomtalk.info/apple-hikes-prices-cites-rising-memory-costs/1009102/"
+  ],
+  "June 2026: Apple raised the old model to ₹31,900 (128GB Ethernet) and ₹25,900 (64GB), citing rising memory and storage costs": [
+   "https://www.smartprix.com/bytes/apple-tv-4k-india-price-hiked-massively-why-it-is-no-longer-a-great-deal/",
+   "https://telecomtalk.info/apple-hikes-prices-cites-rising-memory-costs/1009102/",
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/"
+  ],
+  "New model costs ₹8,000 more than the previous 128GB version's ₹31,900 (also idly's own sum: 39,900 - 31,900)": [
+   "https://www.digit.in/news/general/apple-tv-4k-2026-vs-apple-tv-2022-price-in-india-to-features-how-4th-generation-device-differs-from-its-predecessor.html",
+   "https://www.smartprix.com/bytes/apple-tv-4k-india-price-hiked-massively-why-it-is-no-longer-a-great-deal/"
+  ],
+  "A19 chip, Apple says up to 50% faster CPU (and up to 2x GPU) than the previous generation": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://www.digit.in/news/general/apple-tv-4k-2026-vs-apple-tv-2022-price-in-india-to-features-how-4th-generation-device-differs-from-its-predecessor.html"
+  ],
+  "Three far-field microphones for hands-free Siri": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/"
+  ],
+  "Find My (Precision Finding) on the Siri Remote": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://www.smartprix.com/bytes/apple-tv-4k-2026-costs-₹39900-in-india-heres-why-im-not-upgrading-yet/"
+  ],
+  "Four-speaker surround sound with HomePod mini 2 / HomePod (2nd gen)": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/",
+   "https://www.smartprix.com/bytes/apple-tv-4k-2026-costs-₹39900-in-india-heres-why-im-not-upgrading-yet/"
+  ],
+  "Siri AI is a beta, English, available at launch in India; also on Apple TV 4K (2nd generation or later)": [
+   "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "https://indianexpress.com/article/technology/tech-reviews/apple-tv-4k-2026-review-10960375/"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.apple.com/in/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+  "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-new-apple-tv-4k/article/Apple-TV-4K-261013.zip",
+  "licence": "Apple Newsroom press image (official media for editorial use, Apple's LEGAL_NOTICE in the zip), credited 'Image: Apple'",
+  "author": "Apple",
+  "credit": "Image: Apple",
+  "size": "3840x2160",
+  "faces": 0,
+  "viewed": true,
+  "subject": "The new Apple TV 4K (black box) and Siri Remote on white; the zip's tvOS app row at the top is cropped out",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.62,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     1.0
+    ],
+    "zoom": 1.55
+   },
+   "note": "Bottom-aligned crop at zoom 1.55 (source crop 1115x1394, scale 0.97, no upscale) removes the TV/app-row strip and shadow; in the 1080x1350 cover the remote spans y~180-900 and the box y~405-900, headline (3 lines, 100px) top y 950, logo clear. Product cannot sit above 55% in any official Apple image: every newsroom/store shot has under ~460 px of background below the product."
+  }
+ },
+ "tags": [
+  "apple"
+ ],
+ "tags_evidence": "apple: Apple's official verified Instagram (@apple), owner of the cover image; reported at launch by TechCrunch (https://techcrunch.com/2017/08/07/apple-has-an-official-instagram-account-showcasing-photos-shot-on-iphone/) and MacStories (https://www.macstories.net/news/apple-joins-instagram-highlights-photos-shot-on-iphone/), also 9to5Mac (https://9to5mac.com/2017/08/07/instagram-apple-shot-on-iphone/). apple.com pages checked carry no Instagram link."
+}

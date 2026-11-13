@@ -1,0 +1,48 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1427-apple-tv-4k-india-price",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Apple Newsroom India",
+  "Indian Express",
+  "Business Today",
+  "Digit",
+  "Smartprix",
+  "TelecomTalk"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Apple TV 4K: ₹16,900 in 2022, ₹39,900 Now",
+   "photo": "_work/2026-11-13-hourly-1427/tech/frame_atv/cover_source.png",
+   "photo_credit": "Image: Apple",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.55
+  },
+  {
+   "type": "detail",
+   "stat": "₹31,900",
+   "stat_label": "Old Model's Price After Apple's June Hike",
+   "bullets": [
+    "Apple blamed costlier memory and storage",
+    "The new A19 model costs ₹8,000 more",
+    "No cheaper 64GB model: 128GB with Ethernet only"
+   ],
+   "credit_line": "Sources: Smartprix, TelecomTalk, Indian Express, Digit"
+  },
+  {
+   "type": "detail",
+   "stat": "13 NOV",
+   "stat_label": "New Apple TV 4K's Sale Date in India",
+   "bullets": [
+    "Three far-field mics: talk to Siri without the remote",
+    "Siri AI beta, in English, reaches older models too",
+    "Pair four HomePods for surround sound"
+   ],
+   "credit_line": "Sources: Apple Newsroom India, Indian Express, Business Today"
+  }
+ ]
+}
