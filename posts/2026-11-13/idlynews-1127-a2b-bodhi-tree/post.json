@@ -1,0 +1,45 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1127-a2b-bodhi-tree",
+ "date": "13 Nov 2026",
+ "sources": [
+  "Entrackr",
+  "The News Minute",
+  "Adgully"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "A2B to Sell Control for Over ₹1,600 Crore",
+   "photo": "_work/2026-11-13-hourly-1127/idlynews/frame_a2b/cover_source.png",
+   "photo_credit": "Photo: Helppublic / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.7,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "160",
+   "stat_label": "A2B Outlets in India, Plus 30+ Abroad",
+   "bullets": [
+    "Roots: a Chennai sweet shop, nearly 50 years ago",
+    "15,000+ staff; restaurants, sweets and packaged foods",
+    "Abroad: Singapore, US, UK, Australia and Malaysia"
+   ],
+   "credit_line": "Sources: Entrackr, The News Minute, Adgully"
+  },
+  {
+   "type": "detail",
+   "stat": "3RD",
+   "stat_label": "Bodhi Tree Deal, After ALLEN and JioStar",
+   "bullets": [
+    "Bodhi Tree: Uday Shankar and James Murdoch's platform",
+    "Shankar to chair A2B's board; no closing date yet",
+    "Next: western India, Europe, and a possible stock listing"
+   ],
+   "credit_line": "Sources: The News Minute, Adgully, Entrackr"
+  }
+ ]
+}

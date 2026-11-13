@@ -1,0 +1,148 @@
+{
+ "account": "idlynews",
+ "story_id": 2222,
+ "idly_article": true,
+ "format": "news",
+ "title": "Bodhi Tree Systems (backed by James Murdoch's Lupa Systems and Uday Shankar) agrees to buy a majority stake in Chennai's Adyar Ananda Bhavan (A2B) for $180 million (over ₹1,600 crore), announced 12 Nov 2026; stake size and closing date undisclosed; ~160 outlets in India, 30+ abroad, 15,000+ staff; Shankar to chair the new board; expansion to western India and Europe, factory upgrades in Chennai and Bengaluru, possible listing (no date); Bodhi Tree's third investment after ALLEN and JioStar",
+ "sources": [
+  {
+   "outlet": "Entrackr",
+   "date": "12 Nov 2026 23:22 IST",
+   "url": "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+  },
+  {
+   "outlet": "The News Minute",
+   "date": "13 Nov 2026 03:36 IST",
+   "url": "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million"
+  },
+  {
+   "outlet": "Adgully",
+   "date": "13 Nov 2026",
+   "url": "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million"
+  },
+  {
+   "outlet": "The South First",
+   "date": "12 Nov 2026 22:49 IST",
+   "url": "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/"
+  },
+  {
+   "outlet": "Chennai Online",
+   "date": "13 Nov 2026 06:39 IST",
+   "url": "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  },
+  {
+   "outlet": "idly.news article 2222 (Entrackr, The New Indian Express, The News Minute)",
+   "date": "13 Nov 2026 09:26 IST",
+   "url": "https://api.idly.news/api/v1/articles/2222/"
+  }
+ ],
+ "fact_sources": {
+  "Bodhi Tree Systems agrees to buy a majority stake in A2B for $180 million (deal agreed, not closed)": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/"
+  ],
+  "Over ₹1,600 crore": [
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ],
+  "Announced Thursday 12 November 2026": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://api.idly.news/api/v1/articles/2222/"
+  ],
+  "Stake percentage not disclosed": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million"
+  ],
+  "No closing date given": [
+   "https://api.idly.news/api/v1/articles/2222/",
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797"
+  ],
+  "Bodhi Tree backed by James Murdoch's Lupa Systems and Uday Shankar": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million"
+  ],
+  "Began as a sweet shop in Washermanpet, Chennai": [
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/"
+  ],
+  "Nearly 50 years ago": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million"
+  ],
+  "Restaurants, sweets and packaged foods": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ],
+  "About 160 outlets in India": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ],
+  "More than 30 outlets abroad (Singapore, US, UK, Australia, Malaysia)": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million"
+  ],
+  "Over 15,000 employees (The South First says 10,000+)": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ],
+  "Uday Shankar to chair A2B's newly formed board": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://thesouthfirst.com/beyond-south/james-murdoch-and-uday-shankars-investment-platform-to-acquire-majority-stake-in-adyar-ananda-bhavan/"
+  ],
+  "Plans: western India and Europe; modernise Chennai and Bengaluru factories": [
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ],
+  "Preparing for a possible stock market listing, no date given": [
+   "https://entrackr.com/snippets/bodhi-tree-to-acquire-majority-stake-in-restaurant-chain-a2b-for-180-mn-12804797",
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million"
+  ],
+  "Bodhi Tree's third investment, after ALLEN Career Institute and JioStar": [
+   "https://www.thenewsminute.com/tamil-nadu/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million",
+   "https://www.adgully.com/post/23753/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan-for-180-million",
+   "https://www.chennaionline.com/news/a2b-sells-majority-stake-to-bodhi-tree-for-180-million/"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual (Helppublic), not A2B's own image (reviewer, Gate 1).",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Adyar_Ananda_Bhavan.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Adyar_Ananda_Bhavan.jpg/1920px-Adyar_Ananda_Bhavan.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Helppublic (https://commons.wikimedia.org/wiki/User:Helppublic)",
+  "location": "A2B (Adyar Ananda Bhavan) restaurant, Perambur, Chennai (Commons description)",
+  "published": "Feb 2020",
+  "viewed": true,
+  "faces": 0,
+  "size": "1920x1361 (Commons thumbnail; original 2690x1907 refused: HTTP 429 on the original, 400 on a 2560px thumb)",
+  "credit": "Photo: Helppublic / Wikimedia Commons, CC BY-SA 4.0"
+ },
+ "framing": {
+  "tool": "pipeline.framing",
+  "ok": true,
+  "photo": "_work/2026-11-13-hourly-1127/idlynews/frame_a2b/cover_source.png",
+  "focal": [
+   0.7,
+   0.5
+  ],
+  "zoom": 1.0,
+  "upscale": 0.99,
+  "faces": 0,
+  "note": "pipeline.framing planned [0.5,0.5] z1.0; focal set to [0.70,0.5] (reviewer, Gate 2+3) so the 1089x1361 crop (x 800-1889 of 1920) drops the half-cut left Tamil A2B sign and keeps the English 'A2B Veg. Restaurant' sign (x 1170-1700, y 350-610) whole and roughly centred, below the logo zone and above the headline block. Downscale only (0.99)."
+ },
+ "baseline": "Tamil Nadu business story. pipeline.baseline check (headline + facts) and check --region tn --file caption.txt: exit 0, no STOP. Matches are state-investment MoU ledger items and Assembly arithmetic, not relevant to a private-equity deal with no government role; the caption makes no claim about state investment."
+}
