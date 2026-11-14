@@ -1,0 +1,168 @@
+{
+  "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-14T15:48:20+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://blog.playstation.com/2026/02/13/god-of-war-sons-of-sparta-what-you-need-to-know/",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=MPy_8uf2TOA",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=MPy_8uf2TOA",
+    "source_url": "https://www.youtube.com/watch?v=MPy_8uf2TOA",
+    "image_url": "https://i.ytimg.com/vi/MPy_8uf2TOA/maxresdefault.jpg",
+    "credit": "Image: PlayStation (official video)",
+    "organisation": "PlayStation",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=MPy_8uf2TOA: author 'PlayStation' https://www.youtube.com/@PlayStation, title 'God of War Sons of Sparta - Coming of Age | PS5 Games'",
+      "thumbnail https://i.ytimg.com/vi/MPy_8uf2TOA/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PlayStation",
+    "video_title": "God of War Sons of Sparta - Coming of Age | PS5 Games"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.34,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 5 known items, 2 needing care (minister-sarathkumar-video-inquiry-2026: alleged, rs2500-full-cost: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: PlayStation (official video)",
+      "Sources: PlayStation Blog, Gematsu",
+      "Sources: PlayStation Blog, Gematsu",
+      "Source: PS Store India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: PlayStation (official video)",
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Gematsu",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Gematsu",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 308,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: PS Store India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "God of War Sons of Sparta, the 2D action-platformer from Santa Monica Studio and Mega Cat Studios, comes to PS4 on Monday, 16 November. It has been a PS5 game since 12 February 2026. It tells the story of a young Kratos and his brother Deimos during their Spartan training.\n\nThe same day, a free patch adds two new modes on both PS4 and PS5. Hermes Mode is for speedrunners, with a split timer and a scoreboard. It unlocks after you finish the game once, or with this code on the start menu: Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad. In Erebus Mode, you and every enemy go down in a single hit. You pick the mode when you start a save, and you can't change it later.\n\nOn the PS Store in India, the PS5 version costs ₹2,497 and the Digital Deluxe Edition ₹3,330. The PS4 price isn't listed yet.\n\nIs your PS4 still the console you play on most?\n\nSources: PlayStation Blog, Gematsu, PS Store India\n\n#GodOfWar #SonsOfSparta #PS4 #PlayStation #idlynerd\n\nImage: PlayStation (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}

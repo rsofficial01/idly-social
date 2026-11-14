@@ -74,5 +74,15 @@
     }
   },
   "created_at": "2026-11-14T21:17:31+05:30",
-  "story": false
+  "story": false,
+  "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4-v2",
+  "caption_final": "God of War Sons of Sparta, the 2D action-platformer from Santa Monica Studio and Mega Cat Studios, comes to PS4 on Monday, 16 November. It has been a PS5 game since 12 February 2026. It tells the story of a young Kratos and his brother Deimos during their Spartan training.\n\nThe same day, a free patch adds two new modes on both PS4 and PS5. Hermes Mode is for speedrunners, with a split timer and a scoreboard. It unlocks after you finish the game once, or with this code on the start menu: Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad. In Erebus Mode, you and every enemy go down in a single hit. You pick the mode when you start a save, and you can't change it later.\n\nOn the PS Store in India, the PS5 version costs ₹2,497 and the Digital Deluxe Edition ₹3,330. The PS4 price isn't listed yet.\n\nIs your PS4 still the console you play on most?\n\nSources: PlayStation Blog, Gematsu, PS Store India\n\n#GodOfWar #SonsOfSparta #PS4 #PlayStation #idlynerd\n\nImage: PlayStation (official video)",
+  "image_credit": "Image: PlayStation (official video)",
+  "lane": {
+    "spec_sha256": "b8f913783e1f20b46a80bb8f9c65727f01de148686ea2515c149500ffffd5b3c",
+    "rendered_at": "2026-11-14T15:48:20+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=MPy_8uf2TOA",
+    "image_url": "https://i.ytimg.com/vi/MPy_8uf2TOA/maxresdefault.jpg"
+  }
 }
