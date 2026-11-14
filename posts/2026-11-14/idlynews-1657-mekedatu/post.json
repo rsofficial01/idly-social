@@ -1,0 +1,61 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-mekedatu-dam-row",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Hindustan Times",
+  "Public TV",
+  "ANI",
+  "PTI",
+  "IANS",
+  "ThePrint",
+  "Deccan Chronicle",
+  "LiveLaw"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Karnataka CM: 'No One Can Stop' Mekedatu Dam; TN Objects",
+   "photo": "_work/2026-11-14-hourly-1657/idlynews/frame_kaveri/cover_source.png",
+   "photo_credit": "Photo: Sonamj28 / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.6,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹16,745 CR",
+   "stat_label": "What Karnataka Says Mekedatu Will Cost",
+   "bullets": [
+    "Karnataka CM Shivakumar asks the Centre for final clearances",
+    "He calls it a drinking-water reservoir for Bengaluru",
+    "He says the reservoir will help Tamil Nadu too"
+   ],
+   "credit_line": "Sources: PTI, IANS, Hindustan Times, Public TV"
+  },
+  {
+   "type": "detail",
+   "stat": "67.16 TMC",
+   "stat_label": "Mekedatu Storage Tamil Nadu Says Could Cut Flows",
+   "bullets": [
+    "TN CM Vijay asked the PM on 7 Nov to withhold clearances",
+    "Vijay says Tamil Nadu farmers fear for their livelihoods",
+    "TN Congress's Tagore and DMK's Stalin oppose it too"
+   ],
+   "credit_line": "Sources: ANI, ThePrint, Deccan Chronicle, Hindustan Times"
+  },
+  {
+   "type": "detail",
+   "stat": "13 NOV 2025",
+   "stat_label": "Supreme Court Called Tamil Nadu's Mekedatu Plea Premature",
+   "bullets": [
+    "The Central Water Commission had only allowed a project report",
+    "On 13 Aug 2026, Karnataka sent its report to the CWC",
+    "If the CWC approves it, Tamil Nadu may take legal steps"
+   ],
+   "credit_line": "Sources: Supreme Court via LiveLaw, Indian Kanoon; PTI, IANS"
+  }
+ ]
+}

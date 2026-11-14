@@ -1,0 +1,202 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Mekedatu row in the idly API candidates (36 h); reference-led story; caption carries a Sources line; checked with --no-idly-article.",
+ "format": "news",
+ "title": "Mekedatu dam row (13-14 Nov 2026): Karnataka CM D.K. Shivakumar, at the COSMOS-Mysuru planetarium opening with PM Modi present (13 Nov), asked the Centre for final clearances for the Mekedatu balancing reservoir and said 'Mekedatu has to be built in Karnataka and no one can stop it'; on 14 Nov he said TN will still get its share under the SC ruling ('It is my state, my right'); Karnataka puts the project at Rs 16,745 crore (PTI, IANS); TN CM Vijay's 7 Nov letter asked the PM to withhold clearances without co-basin consent (67.16 TMC reservoir); TN Assembly's unanimous resolution 19 June; TNCC chief Manickam Tagore called the remarks 'deeply condemnable'; DMK's Stalin asked Vijay for an all-party meeting; SC on 13 Nov 2025 rejected TN's applications as premature; 2018 verdict: 177.25 TMC a year at Biligundlu.",
+ "headline": "Karnataka CM: 'No One Can Stop' Mekedatu Dam; TN Objects",
+ "sources": [
+  {
+   "outlet": "Hindustan Times",
+   "date": "14 Nov 2026",
+   "url": "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html"
+  },
+  {
+   "outlet": "Public TV English",
+   "date": "13 Nov 2026",
+   "url": "https://english.publictv.in/cm-shivakumar-seeks-centres-support-for-mekedatu-project-protection-of-western-ghats-and-1000-govt-schools/"
+  },
+  {
+   "outlet": "The News Mill (ANI inputs)",
+   "date": "13 Nov 2026",
+   "url": "https://thenewsmill.com/2026/11/karnataka-cm-shivakumar-urges-pm-modi-to-support-mekedatu-western-ghats-and-education-reforms/"
+  },
+  {
+   "outlet": "Daily Jagran English",
+   "date": "14 Nov 2026",
+   "url": "https://www.thedailyjagran.com/india/news/dk-shivakumars-mekedatu-pitch-to-pm-sparks-congress-vs-congress-inside-karnataka-tamil-nadu-clash-over-cauvery-10336281"
+  },
+  {
+   "outlet": "ANI (via Asianet Newsable)",
+   "date": "14 Nov 2026",
+   "url": "https://newsable.asianetnews.com/india/karnataka-to-protect-right-to-build-mekedatu-dam-says-shivakumar-articleshow-ag7rwhq"
+  },
+  {
+   "outlet": "DT Next (PTI)",
+   "date": "28 Sep 2026",
+   "url": "https://www.dtnext.in/news/national/shivakumar-meets-jal-shakti-minister-seeks-early-nod-for-rs-16745-crore-mekedatu-project"
+  },
+  {
+   "outlet": "Social News XYZ (IANS)",
+   "date": "28 Sep 2026",
+   "url": "https://www.socialnews.xyz/2026/09/28/karnataka-govt-seeks-early-clearance-for-mekedatu-project/"
+  },
+  {
+   "outlet": "ANI",
+   "date": "7 Nov 2026",
+   "url": "https://aninews.in/news/national/politics/tamil-nadu-cm-vijay-urges-pm-modi-to-halt-mekedatu-project-clearances-without-consent-of-co-basin-states20261107175134/"
+  },
+  {
+   "outlet": "ThePrint",
+   "date": "8 Nov 2026",
+   "url": "https://theprint.in/politics/tn-farmers-in-state-of-perpetual-anxiety-vijay-objects-to-mekedatu-site-visit-in-letter-to-modi/3093547/"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "7-8 Nov 2026",
+   "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/cm-vijay-urges-modi-to-withhold-mekedatu-clearances-without-tn-consent-2002543"
+  },
+  {
+   "outlet": "Indian Opinion",
+   "date": "14 Nov 2026",
+   "url": "https://indianopinion.org/tagore-stalin-slam-karnataka-cm-over-mekedatu-dam-remarks/"
+  },
+  {
+   "outlet": "Daily Prabhat (ANI)",
+   "date": "14 Nov 2026",
+   "url": "https://www.dailyprabhat.com/matter-of-life-and-death-for-tamil-nadu-mk-stalin-urges-cm-vijay-to-convene-all-party-meeting-over-mekedatu-dam-issue/"
+  },
+  {
+   "outlet": "Minnambalam",
+   "date": "14 Nov 2026",
+   "url": "https://minnambalam.com/mekedatu-issue-stalin-writes-to-chief-minister-vijay"
+  },
+  {
+   "outlet": "Indian Kanoon (Supreme Court order, 13 Nov 2025)",
+   "date": "13 Nov 2025",
+   "url": "https://indiankanoon.org/doc/159855428/"
+  },
+  {
+   "outlet": "LiveLaw",
+   "date": "13 Nov 2025",
+   "url": "https://www.livelaw.in/top-stories/supreme-court-rejects-tamil-nadus-plea-against-mekadatu-dam-proposal-in-karnataka-as-premature-cauvery-309789"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "13 Nov 2025",
+   "url": "https://scroll.in/latest/1088519/cauvery-dispute-sc-rejects-tamil-nadus-plea-against-proposed-mekadatu-dam-in-karnataka"
+  },
+  {
+   "outlet": "LiveLaw",
+   "date": "16 Feb 2018",
+   "url": "https://www.livelaw.in/cauvery-sc-directs-karnataka-release-177-25-tmc-water-tamil-nadu/"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "16 Feb 2018",
+   "url": "https://scroll.in/latest/868912/scroll_in"
+  },
+  {
+   "outlet": "ANI (via Asianet Newsable)",
+   "date": "2026",
+   "url": "https://newsable.asianetnews.com/amp/india/mekedatu-vital-for-bengalurus-drinking-water-says-karnataka-minister-articleshow-19g1vyw"
+  }
+ ],
+ "fact_sources": {
+  "Shivakumar, Fri 13 Nov, Mysuru, COSMOS-Mysuru planetarium opening attended by PM Modi, asked the Centre to help clear / give final clearances for the Mekedatu balancing reservoir": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://english.publictv.in/cm-shivakumar-seeks-centres-support-for-mekedatu-project-protection-of-western-ghats-and-1000-govt-schools/",
+   "https://thenewsmill.com/2026/11/karnataka-cm-shivakumar-urges-pm-modi-to-support-mekedatu-western-ghats-and-education-reforms/"
+  ],
+  "Quote: 'The Supreme Court has delivered a clear verdict to all of us: that Mekedatu has to be built in Karnataka and no one can stop it'": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://english.publictv.in/cm-shivakumar-seeks-centres-support-for-mekedatu-project-protection-of-western-ghats-and-1000-govt-schools/",
+   "https://www.thedailyjagran.com/india/news/dk-shivakumars-mekedatu-pitch-to-pm-sparks-congress-vs-congress-inside-karnataka-tamil-nadu-clash-over-cauvery-10336281"
+  ],
+  "Shivakumar says the reservoir will help Tamil Nadu too ('also will help Tamil Nadu', 13 Nov; 'I will explain to them how it helps them', 14 Nov)": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://newsable.asianetnews.com/india/karnataka-to-protect-right-to-build-mekedatu-dam-says-shivakumar-articleshow-ag7rwhq"
+  ],
+  "He calls it a drinking-water reservoir for Bengaluru": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://newsable.asianetnews.com/amp/india/mekedatu-vital-for-bengalurus-drinking-water-says-karnataka-minister-articleshow-19g1vyw",
+   "https://www.dtnext.in/news/national/shivakumar-meets-jal-shakti-minister-seeks-early-nod-for-rs-16745-crore-mekedatu-project"
+  ],
+  "Sat 14 Nov: Karnataka will still give TN its share under the SC ruling; 'It is my state, my right'": [
+   "https://newsable.asianetnews.com/india/karnataka-to-protect-right-to-build-mekedatu-dam-says-shivakumar-articleshow-ag7rwhq",
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html"
+  ],
+  "Karnataka puts the Mekedatu Balancing Reservoir and Drinking Water Project at Rs 16,745 crore": [
+   "https://www.dtnext.in/news/national/shivakumar-meets-jal-shakti-minister-seeks-early-nod-for-rs-16745-crore-mekedatu-project",
+   "https://www.socialnews.xyz/2026/09/28/karnataka-govt-seeks-early-clearance-for-mekedatu-project/"
+  ],
+  "Karnataka sent its DPR (with compliance report) to the CWC on 13 Aug 2026": [
+   "https://www.dtnext.in/news/national/shivakumar-meets-jal-shakti-minister-seeks-early-nod-for-rs-16745-crore-mekedatu-project",
+   "https://www.socialnews.xyz/2026/09/28/karnataka-govt-seeks-early-clearance-for-mekedatu-project/"
+  ],
+  "TN CM Vijay's 7 Nov letter to PM: no clearance without consent of co-basin states; 67.16 TMC reservoir just upstream of the border could cut monthly flows; farmers fear for livelihood": [
+   "https://aninews.in/news/national/politics/tamil-nadu-cm-vijay-urges-pm-modi-to-halt-mekedatu-project-clearances-without-consent-of-co-basin-states20261107175134/",
+   "https://theprint.in/politics/tn-farmers-in-state-of-perpetual-anxiety-vijay-objects-to-mekedatu-site-visit-in-letter-to-modi/3093547/",
+   "https://www.deccanchronicle.com/southern-states/tamil-nadu/cm-vijay-urges-modi-to-withhold-mekedatu-clearances-without-tn-consent-2002543"
+  ],
+  "TN Assembly passed a unanimous resolution against the dam on 19 June 2026": [
+   "https://theprint.in/politics/tn-farmers-in-state-of-perpetual-anxiety-vijay-objects-to-mekedatu-site-visit-in-letter-to-modi/3093547/",
+   "https://www.deccanchronicle.com/southern-states/tamil-nadu/cm-vijay-urges-modi-to-withhold-mekedatu-clearances-without-tn-consent-2002543"
+  ],
+  "TNCC president Manickam Tagore (X, 14 Nov): remarks 'deeply condemnable'; approval without TN's consent would be illegal": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://www.thedailyjagran.com/india/news/dk-shivakumars-mekedatu-pitch-to-pm-sparks-congress-vs-congress-inside-karnataka-tamil-nadu-clash-over-cauvery-10336281",
+   "https://indianopinion.org/tagore-stalin-slam-karnataka-cm-over-mekedatu-dam-remarks/"
+  ],
+  "DMK president M.K. Stalin wrote to Vijay on 14 Nov asking for an all-party meeting and a joint delegation to the PM": [
+   "https://www.dailyprabhat.com/matter-of-life-and-death-for-tamil-nadu-mk-stalin-urges-cm-vijay-to-convene-all-party-meeting-over-mekedatu-dam-issue/",
+   "https://indianopinion.org/tagore-stalin-slam-karnataka-cm-over-mekedatu-dam-remarks/",
+   "https://minnambalam.com/mekedatu-issue-stalin-writes-to-chief-minister-vijay"
+  ],
+  "Shivakumar and Tagore are both Congress leaders": [
+   "https://www.hindustantimes.com/india-news/congress-vs-congress-over-karnataka-cms-mekedatu-approval-appeal-before-pm-modi-tamil-nadu-dam-cauvery-dk-shivakumar-101794641117484.html",
+   "https://www.thedailyjagran.com/india/news/dk-shivakumars-mekedatu-pitch-to-pm-sparks-congress-vs-congress-inside-karnataka-tamil-nadu-clash-over-cauvery-10336281"
+  ],
+  "SC 13 Nov 2025 rejected TN's applications as premature; CWC had only permitted preparing a DPR; if CWC approves the DPR, TN free to take steps permissible in law": [
+   "https://indiankanoon.org/doc/159855428/",
+   "https://www.livelaw.in/top-stories/supreme-court-rejects-tamil-nadus-plea-against-mekadatu-dam-proposal-in-karnataka-as-premature-cauvery-309789",
+   "https://scroll.in/latest/1088519/cauvery-dispute-sc-rejects-tamil-nadus-plea-against-proposed-mekadatu-dam-in-karnataka"
+  ],
+  "SC 2018 Cauvery verdict: Karnataka to release 177.25 TMC a year to TN at Biligundlu": [
+   "https://www.livelaw.in/cauvery-sc-directs-karnataka-release-177-25-tmc-water-tamil-nadu/",
+   "https://scroll.in/latest/868912/scroll_in",
+   "https://indiankanoon.org/doc/53558237/"
+  ]
+ },
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:Kaveri_in_mekedatu.jpg",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kaveri_in_mekedatu.jpg/3840px-Kaveri_in_mekedatu.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Sonamj28",
+  "credit": "Photo: Sonamj28 / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "5184x3456 original; local 3840x2560",
+  "viewed": true,
+  "faces": 0,
+  "subject": "The Cauvery river gorge at Mekedatu, Karnataka (the proposed dam site area)",
+  "framing": {
+   "photo": "_work/2026-11-14-hourly-1657/idlynews/frame_kaveri/cover_source.png",
+   "focal": [
+    0.6,
+    0.5
+   ],
+   "zoom": 1.0,
+   "tool_output": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.53
+   },
+   "note": "focal x 0.5 -> 0.6 to move bare branches out from under the logo; reviewer approved at G3 ('Use focal [0.6, 0.5]')"
+  }
+ },
+ "tags": [],
+ "tags_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual photographer, not a brand/studio/maker press image; never tag people."
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "size": 92,
+  "lines": 3,
+  "overflow": false,
+  "top": 974,
+  "credit_line": "Photo: Sonamj28 / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1657-mekedatu-dam-row",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-14-hourly-1657/idlynews/out/idlynews-1657-mekedatu-dam-row/01.jpg",
+  "scale": 0.527
+ },
+ {
+  "stat": 184,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, IANS, Hindustan Times, Public TV",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-mekedatu-dam-row",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1657/idlynews/out/idlynews-1657-mekedatu-dam-row/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 188,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: ANI, ThePrint, Deccan Chronicle, Hindustan Times",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-mekedatu-dam-row",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1657/idlynews/out/idlynews-1657-mekedatu-dam-row/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Supreme Court via LiveLaw, Indian Kanoon; PTI, IANS",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-mekedatu-dam-row",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1657/idlynews/out/idlynews-1657-mekedatu-dam-row/04.jpg",
+  "scale": null
+ }
+]
