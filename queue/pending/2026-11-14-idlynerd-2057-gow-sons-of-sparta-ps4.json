@@ -1,0 +1,81 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "God of War Sons of Sparta comes to PS4 on 16 Nov with two free new modes (Hermes, Erebus) on PS4 and PS5",
+  "headline": "God of War Sons of Sparta: PS4 From 16 Nov",
+  "caption": "God of War Sons of Sparta, the 2D action-platformer from Santa Monica Studio and Mega Cat Studios, comes to PS4 on Monday, 16 November. It has been a PS5 game since 12 February 2026. It tells the story of a young Kratos and his brother Deimos during their Spartan training.\n\nThe same day, a free patch adds two new modes on both PS4 and PS5. Hermes Mode is for speedrunners, with a split timer and a scoreboard. It unlocks after you finish the game once, or with this code on the start menu: Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad. In Erebus Mode, you and every enemy go down in a single hit. You pick the mode when you start a save, and you can't change it later.\n\nOn the PS Store in India, the PS5 version costs ₹2,497 and the Digital Deluxe Edition ₹3,330. The PS4 price isn't listed yet.\n\nIs your PS4 still the console you play on most?\n\nSources: PlayStation Blog, Gematsu, PS Store India\n\n#GodOfWar #SonsOfSparta #PS4 #PlayStation #idlynerd",
+  "alt_text": "Official God of War Sons of Sparta art from PlayStation under the headline. Slides 2-4: the two free modes, the 11-button Hermes Mode code, and the ₹2,497 PS5 price on PS Store India.",
+  "sources": [
+    "PlayStation Blog",
+    "Gematsu",
+    "PS Store India"
+  ],
+  "detail_slides": [
+    {
+      "stat": "2",
+      "stat_label": "Free New Modes On PS4 And PS5",
+      "bullets": [
+        "Hermes Mode: speedrun timer, splits and a scoreboard",
+        "Erebus Mode: you and every enemy die in one hit",
+        "Pick a mode per save; you can't switch later"
+      ],
+      "credit_line": "Sources: PlayStation Blog, Gematsu"
+    },
+    {
+      "stat": "11",
+      "stat_label": "Button Code That Unlocks Hermes Mode Early",
+      "bullets": [
+        "Up, Up, Down, Down, Left, Right, Left, Right",
+        "Then L1, R1, Touchpad on the start menu",
+        "Or finish the game once to unlock it"
+      ],
+      "credit_line": "Sources: PlayStation Blog, Gematsu"
+    },
+    {
+      "stat": "₹2,497",
+      "stat_label": "PS5 Version On PS Store India Today",
+      "bullets": [
+        "PS4 price isn't listed yet; check on 16 Nov",
+        "Digital Deluxe Edition costs ₹3,330"
+      ],
+      "credit_line": "Source: PS Store India"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://blog.playstation.com/2026/02/13/god-of-war-sons-of-sparta-what-you-need-to-know/"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=MPy_8uf2TOA"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=TgkxVAIAEcw"
+      }
+    ]
+  },
+  "tags": [
+    "playstationin"
+  ],
+  "notes": "format: news. idlynerd hourly 2057. G1 BUILD; G2+3 FIX applied (headline 10 words, slide 4 bullet 3 cut). Tag evidence: https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/ links instagram.com/playstationin (fetched 14 Nov 2026 21:3x IST). Facts: PS4 16 Nov, modes, code = PS Blog (updated 13 Nov) + Gematsu 13 Nov; PS5 India price = store.playstation.com/en-in/concept/10012744.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "Date + PS4 on the cover; keep = date, code, ₹ price; send 1: a 2D spin-off, forwarded mainly by PS4 owners. Image via lane (official PlayStation art)."
+    }
+  },
+  "created_at": "2026-11-14T21:14:30+05:30"
+}
