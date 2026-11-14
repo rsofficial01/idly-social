@@ -1,0 +1,108 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Sat 14 Nov 2026: IMD says a low-pressure area that formed over the southeast Bay of Bengal on Fri 13 Nov (05:30 IST) is likely to become a depression around 15 Nov and a cyclonic storm over the central Bay by the evening of Mon 16 Nov; no landfall area named; Odisha alerts collectors, yellow heavy-rain warnings 18-20 Nov (lead); at least 25 killed as a minibus and a container truck collide head-on at Rangajan near Kaziranga, Golaghat, Assam, Fri afternoon; police say early findings point to speeding; PM ₹2 lakh per deceased's kin, ₹50,000 per injured; India's merchandise exports a record $49.47 billion in October 2026, up about 45% (Commerce Secretary Rajesh Agrawal), petroleum-led, 43 of top 50 markets up; Manipur violence Commission of Inquiry gets a sixth extension to 20 May 2027 (MHA notification, 13 Nov); four Naga civilians killed in an ambush on NH-202, Ukhrul (police); White House says Trump, Xi and Putin will meet in Shenzhen on 19 Nov during APEC, nuclear arms reduction on the agenda, a US official says no agreement expected",
+ "sources": [
+  {"outlet": "The Hindu", "date": "2026-11-13", "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece"},
+  {"outlet": "Hindustan Times (PTI)", "date": "2026-11-13", "url": "https://www.hindustantimes.com/india-news/low-pressure-area-in-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-by-november-16-imd-101794564170138.html"},
+  {"outlet": "The Pioneer", "date": "2026-11-13", "url": "https://dailypioneer.com/odisha/odisha-issues-cyclone-alert-as-bay-of-bengal-system-intensifies"},
+  {"outlet": "The Federal (PTI)", "date": "2026-11-13", "url": "https://thefederal.com/category/news/bay-of-bengal-cyclone-low-pressure-area-imd-november-262758"},
+  {"outlet": "The Indian Express", "date": "2026-11-13", "url": "https://indianexpress.com/article/india/assam-kaziranga-accident-golaghat-minibus-collision-container-truck-10961894/"},
+  {"outlet": "Hindustan Times", "date": "2026-11-13", "url": "https://www.hindustantimes.com/india-news/bus-was-overspeeding-violated-restrictions-near-park-official-on-assam-accident-that-killed-24-101794574954512.html"},
+  {"outlet": "Hindustan Times", "date": "2026-11-13", "url": "https://www.hindustantimes.com/india-news/president-pm-condole-assam-accident-modi-announces-rs-2-lakh-ex-gratia-for-each-deceased-101794589800624.html"},
+  {"outlet": "The Hindu", "date": "2026-11-13", "url": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece"},
+  {"outlet": "NDTV", "date": "2026-11-13", "url": "https://www.ndtv.com/india-news/16-feared-dead-several-injured-in-truck-bus-collision-in-assam-s-kaziranga-12322234"},
+  {"outlet": "Hindustan Times", "date": "2026-11-14", "url": "https://www.hindustantimes.com/india-news/goods-exports-rise-to-record-high-in-october-101794613104161.html"},
+  {"outlet": "The Hindu", "date": "2026-11-13", "url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"},
+  {"outlet": "Hindustan Times", "date": "2026-11-13", "url": "https://www.hindustantimes.com/india-news/manipur-violence-probe-panel-gets-sixth-extension-deadline-pushed-to-may-20-2027-101794575813241.html"},
+  {"outlet": "The Hindu", "date": "2026-11-13", "url": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece"},
+  {"outlet": "Hindustan Times", "date": "2026-11-13", "url": "https://www.hindustantimes.com/india-news/4-nagas-killed-in-ambush-in-manipurs-ukhrul-as-fresh-violence-grips-state-101794568328760.html"},
+  {"outlet": "The Indian Express", "date": "2026-11-13", "url": "https://indianexpress.com/article/india/manipur-ukhrul-firing-four-killed-imphal-road-attack-10961705/"},
+  {"outlet": "BBC", "date": "2026-11-14", "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"},
+  {"outlet": "The Hindu (AP)", "date": "2026-11-14", "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece"},
+  {"outlet": "Times of India", "date": "2026-11-14", "url": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms"},
+  {"outlet": "NBC News (AP)", "date": "2026-11-13", "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275"}
+ ],
+ "fact_sources": {
+  "IMD: low-pressure area formed over SE Bay of Bengal early Fri 13 Nov (05:30); depression around Sun 15 Nov; cyclonic storm over central Bay by evening of Mon 16 Nov": [
+   "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
+   "https://www.hindustantimes.com/india-news/low-pressure-area-in-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-by-november-16-imd-101794564170138.html",
+   "https://dailypioneer.com/odisha/odisha-issues-cyclone-alert-as-bay-of-bengal-system-intensifies"
+  ],
+  "No landfall area named yet": [
+   "https://dailypioneer.com/odisha/odisha-issues-cyclone-alert-as-bay-of-bengal-system-intensifies",
+   "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece"
+  ],
+  "Odisha alerts district collectors; yellow heavy-rain warnings Kendrapara, Jagatsinghpur 18-19 Nov; Rayagada, Gajapati, Ganjam, Puri 19-20 Nov": [
+   "https://www.hindustantimes.com/india-news/low-pressure-area-in-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-by-november-16-imd-101794564170138.html",
+   "https://dailypioneer.com/odisha/odisha-issues-cyclone-alert-as-bay-of-bengal-system-intensifies"
+  ],
+  "Fishermen in Andhra Pradesh and Odisha told not to go to sea": [
+   "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
+   "https://dailypioneer.com/odisha/odisha-issues-cyclone-alert-as-bay-of-bengal-system-intensifies"
+  ],
+  "At least 25 killed; minibus and container truck collide head-on at Rangajan near Kaziranga NP, Golaghat, Assam, Fri afternoon": [
+   "https://indianexpress.com/article/india/assam-kaziranga-accident-golaghat-minibus-collision-container-truck-10961894/",
+   "https://www.hindustantimes.com/india-news/bus-was-overspeeding-violated-restrictions-near-park-official-on-assam-accident-that-killed-24-101794574954512.html",
+   "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece"
+  ],
+  "Police/officials: early findings point to speeding": [
+   "https://indianexpress.com/article/india/assam-kaziranga-accident-golaghat-minibus-collision-container-truck-10961894/",
+   "https://www.hindustantimes.com/india-news/bus-was-overspeeding-violated-restrictions-near-park-official-on-assam-accident-that-killed-24-101794574954512.html",
+   "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece"
+  ],
+  "Speed limits/restrictions on the highway stretch along the park (animal corridors)": [
+   "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+   "https://www.hindustantimes.com/india-news/bus-was-overspeeding-violated-restrictions-near-park-official-on-assam-accident-that-killed-24-101794574954512.html"
+  ],
+  "PM: ₹2 lakh (PMNRF) per deceased's kin, ₹50,000 per injured": [
+   "https://indianexpress.com/article/india/assam-kaziranga-accident-golaghat-minibus-collision-container-truck-10961894/",
+   "https://www.hindustantimes.com/india-news/president-pm-condole-assam-accident-modi-announces-rs-2-lakh-ex-gratia-for-each-deceased-101794589800624.html",
+   "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece"
+  ],
+  "Record merchandise exports $49.47 billion in Oct 2026, about 45% growth, highest in five years (Commerce Secretary Rajesh Agrawal, Fri)": [
+   "https://www.hindustantimes.com/india-news/goods-exports-rise-to-record-high-in-october-101794613104161.html",
+   "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+  ],
+  "Petroleum products led, prices a factor; 43 of top 50 export destinations grew": [
+   "https://www.hindustantimes.com/india-news/goods-exports-rise-to-record-high-in-october-101794613104161.html",
+   "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+  ],
+  "Manipur Commission of Inquiry: sixth extension, report due by 20 May 2027 (MHA notification Fri); set up June 2023; report pending; at least 306 killed since May 2023": [
+   "https://www.hindustantimes.com/india-news/manipur-violence-probe-panel-gets-sixth-extension-deadline-pushed-to-may-20-2027-101794575813241.html",
+   "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece"
+  ],
+  "Police: four Naga civilians killed as suspected militants ambushed two vehicles on NH-202, Ukhrul, Fri": [
+   "https://www.hindustantimes.com/india-news/4-nagas-killed-in-ambush-in-manipurs-ukhrul-as-fresh-violence-grips-state-101794568328760.html",
+   "https://indianexpress.com/article/india/manipur-ukhrul-firing-four-killed-imphal-road-attack-10961705/"
+  ],
+  "White House (Fri): Trump, Xi, Putin to meet in Shenzhen on 19 Nov (Thursday) during APEC; nuclear arms reduction on the agenda": [
+   "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+   "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+   "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms"
+  ],
+  "Leaders of the world's biggest nuclear powers; US official: no agreement expected": [
+   "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+   "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+   "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275"
+  ]
+ },
+ "image": {
+  "page": "https://worldview.earthdata.nasa.gov/?v=79,-5,95,15&l=VIIRS_NOAA21_CorrectedReflectance_TrueColor&t=2026-11-13",
+  "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-13&BBOX=-5,79,15,95&CRS=EPSG:4326&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1600&HEIGHT=2000",
+  "licence": "NASA/NOAA satellite imagery via NASA Worldview (EOSDIS GIBS), US government work, public domain; credited 'Image: NASA Worldview'",
+  "author": "NASA Worldview / NOAA-21 VIIRS",
+  "size": "1600x2000",
+  "viewed": true,
+  "faces": 0,
+  "subject": "NOAA-21 VIIRS true-colour image of the southern Bay of Bengal on 13 Nov 2026 (lat -5 to 15 N, lon 79 to 95 E): Tamil Nadu coast and Sri Lanka at left, the cloud mass of the developing system over the southern/south-east Bay; no text, no overlays, no watermark, no people",
+  "framing": {
+   "tool_output": {"ok": true, "photo": "_work/2026-11-14-hourly-0757/idlynews/frame_1/cover_source.png", "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 0.68, "faces": 0, "note": ""},
+   "used": {"focal": [0.5, 0.5], "zoom": 1.0}
+  }
+ },
+ "tags": [],
+ "tags_evidence": null
+}

@@ -1,0 +1,71 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "14 Nov 2026",
+ "sources": [
+  "The Hindu",
+  "Hindustan Times",
+  "The Indian Express",
+  "The Pioneer",
+  "BBC",
+  "Times of India",
+  "NBC News (AP)"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IMD: Cyclonic Storm Likely Over Bay of Bengal by 16 Nov",
+   "photo": "_work/2026-11-14-hourly-0757/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: NASA Worldview",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "25+",
+   "stat_label": "Killed as Minibus Hits Truck Near Kaziranga",
+   "bullets": [
+    "Police say early findings point to speeding",
+    "The park stretch has speed limits for wildlife",
+    "PM: ₹2 lakh per family, ₹50,000 per injured"
+   ],
+   "credit_line": "Sources: The Indian Express, Hindustan Times, The Hindu"
+  },
+  {
+   "type": "detail",
+   "stat": "$49.47 BN",
+   "stat_label": "India's Record Monthly Goods Exports, October 2026",
+   "bullets": [
+    "Up 45% on year, fastest growth in five years",
+    "Petroleum led, partly on higher oil prices",
+    "43 of India's top 50 markets bought more"
+   ],
+   "credit_line": "Sources: Hindustan Times, The Hindu"
+  },
+  {
+   "type": "detail",
+   "stat": "6th",
+   "stat_label": "Extension for the Manipur Violence Inquiry",
+   "bullets": [
+    "Report now due by 20 May 2027, MHA says",
+    "Panel set up in June 2023; report still pending",
+    "Violence since May 2023 has killed at least 306"
+   ],
+   "credit_line": "Sources: Hindustan Times, The Hindu"
+  },
+  {
+   "type": "detail",
+   "stat": "19 NOV",
+   "stat_label": "Trump-Xi-Putin Meeting Set in Shenzhen, Says White House",
+   "bullets": [
+    "On the agenda: reducing nuclear weapons",
+    "Leaders of the three biggest nuclear powers",
+    "A US official says no deal is expected"
+   ],
+   "credit_line": "Sources: BBC, The Hindu (AP), Times of India"
+  }
+ ]
+}
