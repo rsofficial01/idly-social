@@ -1,0 +1,64 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "OM (O.M - Operation Mole; Dhanush, Mammootty, Sai Pallavi; dir. Rajkumar Periasamy) trailer out; in cinemas worldwide Fri 20 Nov 2026; Tamil, Telugu, Hindi confirmed",
+  "headline": "OM Brings Dhanush and Mammootty Together on 20 November",
+  "caption": "OM, the action drama that puts Dhanush and Mammootty on screen together, opens in cinemas worldwide on Friday 20 November. Its full trailer is out now.\n\nThe trailer shows Dhanush going undercover in a red-sandalwood smuggling ring run by Mammootty's character. Sai Pallavi plays officer Nithya Reddy, who leads the operation the film is named after. Sreeleela, Naseeruddin Shah and Indrans also star.\n\nRajkumar Periasamy, who made Amaran, directs, with music by Sai Abhyankkar. Wunderbar Films and RTake Studios produce. Tamil, Telugu and Hindi versions are confirmed, and PEN Marudhar is releasing it across North India. The film was first set for 16 October and moved to avoid a clash with Rajinikanth's Jailer 2.\n\nWhich language will you watch OM in?\n\nSources: Variety India, Sacnilk, DT Next, Cinema Express, The Hans India\n\n#OMMovie #Dhanush #Mammootty #TamilCinema #idlynerd",
+  "alt_text": "An official still from OM, the Dhanush-Mammootty action film, under the headline 'OM Brings Dhanush and Mammootty Together on 20 November'. Two more slides say what the trailer shows and what is confirmed about the film's release.",
+  "sources": [
+    "Variety India",
+    "Sacnilk",
+    "DT Next",
+    "Cinema Express",
+    "The Hans India"
+  ],
+  "detail_slides": [
+    {
+      "stat_label": "What the OM Trailer Shows",
+      "bullets": [
+        "Dhanush goes undercover in a red-sandalwood smuggling ring",
+        "The ring is run by Mammootty's character",
+        "Sai Pallavi's officer Nithya Reddy leads the operation"
+      ],
+      "credit_line": "Sources: Variety India, Cinema Express, The Hans India"
+    },
+    {
+      "stat_label": "OM's Release: What's Confirmed",
+      "bullets": [
+        "Tamil, Telugu and Hindi versions, in cinemas worldwide",
+        "PEN Marudhar is releasing it across North India",
+        "Amaran director Rajkumar Periasamy; music by Sai Abhyankkar"
+      ],
+      "credit_line": "Sources: Sacnilk, Variety India, DT Next"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=JFNEQAzoKis",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=kKEezfcYdOI"
+      }
+    ]
+  },
+  "tags": [],
+  "story": false,
+  "notes": "format: news. No idly article used: idly story 2380 says no release date is announced, which is out of date (20 Nov confirmed by Variety India, Sacnilk, DT Next, The Hans India). G1 PASS (ceiling 12), G2+3 FIX applied exactly (reviewer: no re-send needed). NEEDS Divo Music (@divomusicofficial, UC5rGGthSt-CQue8V0bj1bWg) on the youtube_channels allowlist first. Stories paused. v2 (main, 14 Nov ~12:36 IST): G4 FIX on v1 (zr9QY9am5XE thumbnail carried a burned-in label mark bottom-left under the headline; the lane can't take a crop hint), so v2 tries other official OM videos on the allowlisted Divo Music channel; alt text made image-neutral.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "hook 2: two superstars on screen together plus the 20 Nov date on the cover, trailer out today. keep 1: date and confirmed languages are useful, but no price/booking detail. original 1: trailer still is the label's; idly's part is pulling date, languages, distribution and plot into one card. alone 2: every slide names OM."
+    }
+  },
+  "created_at": "2026-11-14T12:33:02+05:30"
+}
