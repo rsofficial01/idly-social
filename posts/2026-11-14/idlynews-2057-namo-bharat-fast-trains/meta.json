@@ -1,0 +1,110 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Namo Bharat fast trains in the idly API candidates (36 h); reference-led story; caption carries a Sources line; checked with --no-idly-article.",
+ "format": "news",
+ "title": "NCRTC adds 8 fast (limited-stop) Namo Bharat services on the Delhi-Meerut corridor from Monday 16 Nov 2026: stops only at Sarai Kale Khan, Anand Vihar, Ghaziabad, Begumpul, Modipuram; whole corridor in under 50 minutes (NCRTC); Anand Vihar-Ghaziabad 8 min, Anand Vihar-Begumpul 36 min, Ghaziabad-Begumpul 28 min; departures from both ends at 8 am, 8.30 am, 6 pm, 6.30 pm; regular trains every 10 min unchanged; ~1.1 lakh daily passengers.",
+ "headline": "NCRTC: 8 Fast Trains From Monday, Delhi-Meerut Under 50 Min",
+ "sources": [
+  {
+   "outlet": "Hindustan Times (PTI inputs)",
+   "date": "14 Nov 2026",
+   "url": "https://www.hindustantimes.com/india-news/delhimeerut-namo-bharat-corridor-to-get-8-new-fast-trains-from-nov-16-cover-full-stretch-in-under-50-minutes-101794648799471.html"
+  },
+  {
+   "outlet": "The Times of India (PTI inputs)",
+   "date": "14 Nov 2026",
+   "url": "https://timesofindia.indiatimes.com/city/delhi/anand-vihar-to-ghaziabad-in-8-mins-ncrtc-to-launch-8-fast-namo-bharat-services-from-nov-16/articleshow/135828146.cms"
+  },
+  {
+   "outlet": "Business Standard (PTI)",
+   "date": "14 Nov 2026",
+   "url": "https://www.business-standard.com/india-news/ncrtc-to-introduce-8-fast-namo-bharat-trains-from-nov-16-cut-travel-time-126111400664_1.html"
+  }
+ ],
+ "fact_sources": {
+  "8 fast Namo Bharat services from 16 Nov, peak hours, Delhi-Meerut corridor (NCRTC)": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Whole corridor in less than 50 minutes (NCRTC said)": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Anand Vihar-Ghaziabad 8 min; Anand Vihar-Begumpul 36 min; Ghaziabad-Begumpul 28 min": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Stops only at Sarai Kale Khan, Anand Vihar, Ghaziabad, Begumpul, Modipuram": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Departures from Sarai Kale Khan and Modipuram at 8 am, 8.30 am, 6 pm, 6.30 pm (two each way each peak)": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Regular services continue at 10-minute intervals, frequency unchanged": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "Passengers to check display boards and announcements to tell fast from regular trains": [
+   "HT",
+   "TOI",
+   "BS"
+  ],
+  "About 1.1 lakh daily passengers": [
+   "HT",
+   "TOI",
+   "BS (110,000)"
+  ],
+  "Aim: encourage public transport amid rising air pollution, ease congestion": [
+   "HT",
+   "TOI",
+   "BS"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:RRTS_train.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Ravi Dwivedi",
+  "viewed": true
+ },
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:RRTS_train.jpg",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/RRTS_train.jpg/3840px-RRTS_train.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Ravi Dwivedi",
+  "credit": "Photo: Ravi Dwivedi / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "4000x3008 original; local 3840x2888",
+  "viewed": true,
+  "faces": 0,
+  "subject": "A Namo Bharat train at Meerut South RRTS station on the Delhi-Meerut corridor (Commons description: 'RRTS train ready to depart from Meerut South RRTS station')",
+  "framing": {
+   "photo": "_work/2026-11-14-hourly-2057/idlynews/frame_rrts/cover_source.png",
+   "focal": [
+    0.45,
+    0.5
+   ],
+   "zoom": 1.0,
+   "tool_output": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.47
+   },
+   "note": "focal x 0.5 -> 0.45 to keep the whole train nose in frame"
+  }
+ },
+ "tag": null,
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual photographer, not a brand/maker press image; never tag people.",
+ "alt_text": "A grey and red Namo Bharat regional rapid train waits at the Meerut South station platform behind glass screen doors, its destination board lit in orange. The headline reads: NCRTC: 8 Fast Trains From Monday, Delhi-Meerut Under 50 Min."
+}

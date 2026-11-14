@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2057-namo-bharat-fast-trains",
+ "date": "14 Nov 2026",
+ "sources": [
+  "NCRTC via PTI",
+  "Hindustan Times",
+  "Times of India",
+  "Business Standard"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "NCRTC: 8 Fast Trains From Monday, Delhi-Meerut Under 50 Min",
+   "photo": "_work/2026-11-14-hourly-2057/idlynews/frame_rrts/cover_source.png",
+   "photo_credit": "Photo: Ravi Dwivedi / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.45,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "8",
+   "stat_label": "Minutes: Anand Vihar To Ghaziabad, Fast Namo Bharat",
+   "bullets": [
+    "Anand Vihar to Begumpul, Meerut: 36 minutes",
+    "Ghaziabad to Begumpul: 28 minutes",
+    "Stops: Sarai Kale Khan, Anand Vihar, Ghaziabad, Begumpul, Modipuram"
+   ],
+   "credit_line": "Sources: NCRTC via PTI, Hindustan Times, Business Standard"
+  },
+  {
+   "type": "detail",
+   "stat": "8 & 8:30 AM",
+   "stat_label": "Morning Fast Trains, Both Ends, From 16 Nov",
+   "bullets": [
+    "Evening fast trains: 6 pm and 6:30 pm",
+    "Regular Namo Bharat trains still every 10 minutes",
+    "Check station boards to tell fast from regular"
+   ],
+   "credit_line": "Sources: NCRTC via PTI, Times of India, Business Standard"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Ravi Dwivedi / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-2057-namo-bharat-fast-trains",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-14/idlynews-2057-namo-bharat-fast-trains/01.jpg",
+  "scale": 0.468
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: NCRTC via PTI, Hindustan Times, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2057-namo-bharat-fast-trains",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-14/idlynews-2057-namo-bharat-fast-trains/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: NCRTC via PTI, Times of India, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2057-namo-bharat-fast-trains",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-14/idlynews-2057-namo-bharat-fast-trains/03.jpg",
+  "scale": null
+ }
+]
