@@ -1,0 +1,56 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2057-microsoft-sla-credits",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Microsoft SLA",
+  "Windows Latest",
+  "LazyAdmin"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Microsoft Promised 99.9% Uptime. Outage-Hit Firms Can Claim Credits",
+   "photo": "_work/2026-11-14-hourly-2057/idlytech/frame_b92/cover_source.png",
+   "photo_credit": "Photo: Lectrician1 / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "25%",
+   "stat_label": "Credit When Monthly Uptime Falls Below 99.9%",
+   "bullets": [
+    "Below 99%: 50% of that service's monthly fee",
+    "Below 95%: 100%, taken off a future bill",
+    "Counted in user-minutes: how many users, how long"
+   ],
+   "credit_line": "Sources: Microsoft SLA (Oct 2026), Windows Latest, LazyAdmin"
+  },
+  {
+   "type": "detail",
+   "stat": "31 DEC",
+   "stat_label": "Deadline For Microsoft To Receive Your Claim",
+   "bullets": [
+    "Credits aren't automatic: your IT admin must file",
+    "Quote incident EX1550543, outage times, users affected",
+    "Reseller or CSP customers claim through their partner"
+   ],
+   "credit_line": "Sources: Microsoft SLA (Oct 2026), Windows Latest, LazyAdmin"
+  },
+  {
+   "type": "detail",
+   "stat": "12 NOV",
+   "stat_label": "Outage Began Thursday Night In India",
+   "bullets": [
+    "IndiGo and Akasa Air email support was hit",
+    "Microsoft blames an earlier network upgrade, not a cyberattack",
+    "Microsoft says sorry; service now fully restored"
+   ],
+   "credit_line": "Sources: Inc42, Outlook India, NDTV, Oneindia"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "total": 13,
+ "notes": "Hook: 99.9% on the cover plus a clear stake (firms can claim credits). Send: office IT admins/finance heads. Keep: credit tiers, 31 Dec deadline, incident ID EX1550543, how to file. Reply 1: the question is genuine and from readers' lives but closed (yes/no). Original: our synthesis of Microsoft's SLA text for Indian businesses, Commons photo credited. Alone: cover + slides make sense without the caption; slide 4 gives the outage context. Follow-up to our 13 Nov outage post; cover news (claimable credits, 31 Dec deadline) is new.",
+ "per_check_min": {
+  "hook": 2,
+  "read": 1,
+  "send": 2,
+  "keep": 2,
+  "reply": 1,
+  "original": 2,
+  "alone": 2
+ },
+ "per_check_min_total": 12
+}

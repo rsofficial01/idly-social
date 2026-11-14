@@ -1,0 +1,75 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Microsoft 365 outage (12-13 Nov 2026): Microsoft's SLA promises 99.9% monthly uptime for Exchange Online; credits 25%/50%/100% below 99.9%/99%/95%; claims not automatic, must reach Microsoft by 31 Dec (incident EX1550543); CSP/reseller customers claim via partner; free/personal plans excluded. Outage began Thu night IST, some users down up to about a day; Microsoft 'deeply sorry', cause an earlier network capacity upgrade, not a cyberattack; IndiGo and Akasa Air email support hit.",
+ "headline": "Microsoft Promised 99.9% Uptime. Outage-Hit Firms Can Claim Credits",
+ "sources": [
+  {
+   "outlet": "Microsoft: Service Level Agreement for Microsoft Online Services (English, October 2026)",
+   "date": "2026-10",
+   "url": "https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services"
+  },
+  {
+   "outlet": "Windows Latest (SLA credits, incident IDs, how to claim)",
+   "date": "2026-11-13",
+   "url": "https://www.windowslatest.com/2026/11/13/microsoft-365-outage-you-may-get-money-off-your-bill-if-you-use-it-for-work-but-youll-have-to-ask-microsoft-for-it-as-a-server-failure-takes-down-outlook-teams-and-exchange/"
+  },
+  {
+   "outlet": "Windows Latest (network upgrade, not AI)",
+   "date": "2026-11-14",
+   "url": "https://www.windowslatest.com/2026/11/14/microsoft-is-begging-you-not-to-blame-ai-for-the-microsoft-365-outage-insisting-it-was-a-botched-network-upgrade/"
+  },
+  {
+   "outlet": "LazyAdmin (outage status and SLA credits)",
+   "date": "2026-11-13",
+   "url": "https://lazyadmin.nl/office-365/microsoft-365-outage-november-2026/"
+  },
+  {
+   "outlet": "Men's Journal (Dec 31 deadline)",
+   "date": "2026-11-13",
+   "url": "https://www.mensjournal.com/news/microsoft-could-owe-your-company-up-to-100-back-for-the-outlook-outage-but-theres-a-dec-31-deadline"
+  },
+  {
+   "outlet": "Inc42 (India impact, SLA)",
+   "date": "2026-11-13",
+   "url": "https://inc42.com/features/microsofts-outlook-outage-drags-on-indian-enterprises-are-feeling-the-heat/"
+  },
+  {
+   "outlet": "Outlook India (fixed after over 24 hours; apology; cause)",
+   "date": "2026-11-14",
+   "url": "https://outlookindia.com/international/microsoft-fixes-24-hour-global-outage-that-silenced-outlook-and-teams-worldwide"
+  },
+  {
+   "outlet": "Oneindia (fully restored; India timeline; IndiGo, Akasa Air)",
+   "date": "2026-11-14",
+   "url": "https://www.oneindia.com/india/microsoft-outage-ends-outlook-teams-copilot-services-fully-restored-worldwide-8259539.html"
+  },
+  {
+   "outlet": "India Today (deeply sorry; network capacity upgrade; not a cyberattack)",
+   "date": "2026-11-13",
+   "url": "https://www.indiatoday.in/technology/story/microsoft-deeply-sorry-for-global-outage-says-network-capacity-upgrade-triggered-issue-rules-out-cyberattack-3038584-2026-11-13"
+  },
+  {
+   "outlet": "NDTV (apology)",
+   "date": "2026-11-13",
+   "url": "https://www.ndtv.com/world-news/deeply-sorry-for-disruption-microsoft-apologises-after-global-outage-12324739"
+  },
+  {
+   "outlet": "DT Next (fully restored)",
+   "date": "2026-11-14",
+   "url": "https://www.dtnext.in/news/world/microsoft-says-services-fully-restored-after-hourslong-global-outage"
+  }
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Microsoft_sign_at_the_Microsoft_Visitor_Center_Building_92.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Lectrician1",
+  "viewed": true,
+  "notes": "Original 4032x3024 downloaded via dl.py, FACES 0; own 4:5 crop x1560-2520 y1080-2280 (960x1200) around the Microsoft logo sign; pipeline.framing: focal [0.5,0.5], zoom 1.0, upscale 1.12, faces 0. Replaced the Hyderabad campus photo after the G3 FIX (too soft)."
+ },
+ "tag": null,
+ "tag_evidence": "No tag: cover image is a Wikimedia Commons photo by an individual photographer (Lectrician1), not a brand image.",
+ "alt_text": "The Microsoft logo and name on a low sign outside the Microsoft Visitor Center (Building 92) in Redmond, behind green and yellow shrubs. Headline: Microsoft Promised 99.9% Uptime. Outage-Hit Firms Can Claim Credits. Further slides: a 25% credit when monthly uptime falls below 99.9% (50% below 99%, 100% below 95%); 31 December as the deadline for Microsoft to receive a claim; and the outage that began on Thursday night, 12 November, in India."
+}

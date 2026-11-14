@@ -1,0 +1,13 @@
+Microsoft's Outlook and Teams outage began on Thursday night, 12 November (IST), and kept some users off email for up to about a day. Microsoft says it is "deeply sorry", that an issue from an earlier network capacity upgrade caused it, and that it was not a cyberattack. In India, email support at IndiGo and Akasa Air was hit.
+
+Businesses that pay for Microsoft 365 have a written promise to fall back on. Microsoft's service level agreement (SLA) commits Exchange Online, the service behind work Outlook email, to 99.9% uptime a month, which allows about 43 minutes of downtime in a 30-day month. Below that, the customer can claim a credit on that service's monthly fee: 25% below 99.9%, 50% below 99% and 100% below 95%. Uptime is counted in user-minutes, so what a company gets depends on how many of its users were down, and for how long.
+
+The credit isn't automatic. An admin has to file a claim with Microsoft support, quoting the Exchange Online incident ID EX1550543, the outage times, the number and location of affected users and the errors seen. For a November outage, Microsoft must receive it by 31 December. Companies that buy through a reseller or Cloud Solution Provider claim through that partner. The credit comes off a future bill, not as a refund, and free and personal plans aren't covered.
+
+Did your office's email go quiet on Thursday night or Friday?
+
+Sources: Microsoft SLA for Online Services (October 2026), Windows Latest, LazyAdmin, Inc42, Outlook India, NDTV
+
+#Microsoft #Outlook #Microsoft365 #ITAdmin #idlytech
+
+Photo: Lectrician1 / Wikimedia Commons, CC BY-SA 4.0
