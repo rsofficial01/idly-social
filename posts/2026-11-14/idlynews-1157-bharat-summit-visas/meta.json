@@ -1,0 +1,168 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Bharat Summit visa row in the idly API candidates (36 h); reference-led story (Scroll, PTI, Outlook, The Wire, Al Jazeera, Siasat, The Hans India, Millennium Post); caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Bharat Summit visa row (13-14 Nov 2026): Congress MP Shashi Tharoor says (X, Fri 13 Nov) 115 of 315 foreign speakers cleared by the MEA for the Telangana government's Bharat Summit at HITEX, Hyderabad (13-14 Nov) were refused entry or had visas cancelled, 'apparently on the instructions of the Ministry of Home Affairs'; MEA spokesperson Randhir Jaiswal (briefing, 13 Nov, PTI): 'Visa matters are sovereign functions of any country or any government'; MEA's 3 Nov clearance listed MHA clearance as a condition (The Wire); no MHA statement reported; organisers say about 200 international delegates attended; Telangana BJP chief N. Ramchander Rao called it an 'anti-Bharat' summit; Norwegian journalist Helle Lyng Svendsen (Dagsavisen) says the Indian embassy in Oslo cancelled her visa about 10 minutes before she left for the airport; two Norwegian press bodies ask whether it is linked to her May question to PM Modi.",
+ "sources": [
+  {
+   "outlet": "Scroll",
+   "date": "13 Nov 2026",
+   "url": "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "13 Nov 2026",
+   "url": "https://scroll.in/latest/1097068/norwegian-press-bodies-ask-if-journalists-india-visa-revoked-over-criticism-of-pm-modi"
+  },
+  {
+   "outlet": "The Week (PTI)",
+   "date": "13 Nov 2026",
+   "url": "https://www.theweek.in/wire-updates/national/2026/11/13/proud-democracy-has-become-so-insecure-tharoor-on-bharat-summit-speakers-visas-cancelled.html"
+  },
+  {
+   "outlet": "ThePrint (PTI)",
+   "date": "13 Nov 2026",
+   "url": "https://theprint.in/india/visas-are-a-sovereign-function-mea-on-bharat-summit-row/3098321/"
+  },
+  {
+   "outlet": "The Tribune (PTI)",
+   "date": "13 Nov 2026",
+   "url": "https://www.tribuneindia.com/news/india/visas-are-a-sovereign-function-mea-on-bharat-summit-row"
+  },
+  {
+   "outlet": "OrissaPOST (PTI)",
+   "date": "13 Nov 2026",
+   "url": "https://www.orissapost.com/visas-are-a-sovereign-function-mea-on-bharat-summit-row/"
+  },
+  {
+   "outlet": "Outlook",
+   "date": "13 Nov 2026",
+   "url": "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row"
+  },
+  {
+   "outlet": "The Wire",
+   "date": "12 Nov 2026",
+   "url": "https://m.thewire.in/article/media/indian-visa-of-norwegian-journalist-who-questioned-pm-modi-cancelled-just-hours-before-her-flight/amp"
+  },
+  {
+   "outlet": "Madhyamam",
+   "date": "13 Nov 2026",
+   "url": "https://madhyamamonline.com/india/editors-guild-demands-explanation-over-cancellation-of-norwegian-journalist-helle-lyngs-india-visa-1571894"
+  },
+  {
+   "outlet": "Al Jazeera",
+   "date": "13 Nov 2026",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi"
+  },
+  {
+   "outlet": "Siasat",
+   "date": "13 Nov 2026",
+   "url": "https://www.siasat.com/bharat-summit-hyderabad-rahul-gandhi-day-1-live-updates-3575999/"
+  },
+  {
+   "outlet": "The Hans India",
+   "date": "11-12 Nov 2026",
+   "url": "https://www.thehansindia.com/news/cities/hyderabad/its-anti-bharat-summit-says-nrr-1141200"
+  },
+  {
+   "outlet": "The Pioneer",
+   "date": "11-12 Nov 2026",
+   "url": "https://dailypioneer.com/telangana/bjp-calls-congress-bharat-summit-an-anti-india-event"
+  },
+  {
+   "outlet": "Millennium Post",
+   "date": "14 Nov 2026",
+   "url": "https://www.millenniumpost.in/nation/bharat-summit-speakers-barred-entry-to-india-tharoor-683152"
+  }
+ ],
+ "fact_sources": {
+  "Tharoor (Congress MP) says 115 of the 315 foreign speakers cleared by the MEA were refused entry or had visas cancelled (X post, Fri 13 Nov)": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.theweek.in/wire-updates/national/2026/11/13/proud-democracy-has-become-so-insecure-tharoor-on-bharat-summit-speakers-visas-cancelled.html",
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row",
+   "https://www.millenniumpost.in/nation/bharat-summit-speakers-barred-entry-to-india-tharoor-683152"
+  ],
+  "Tharoor: 'apparently on the instructions of the Ministry of Home Affairs'": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.theweek.in/wire-updates/national/2026/11/13/proud-democracy-has-become-so-insecure-tharoor-on-bharat-summit-speakers-visas-cancelled.html",
+   "https://www.millenniumpost.in/nation/bharat-summit-speakers-barred-entry-to-india-tharoor-683152"
+  ],
+  "Tharoor: 'completely unclear under what provision of law' the government acted": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.theweek.in/wire-updates/national/2026/11/13/proud-democracy-has-become-so-insecure-tharoor-on-bharat-summit-speakers-visas-cancelled.html",
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row"
+  ],
+  "Two-day Bharat Summit, 13-14 Nov 2026, at HITEX, Hyderabad, hosted by Telangana's Congress-led government": [
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row",
+   "https://www.siasat.com/bharat-summit-hyderabad-rahul-gandhi-day-1-live-updates-3575999/",
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor"
+  ],
+  "Organisers say about 200 international delegates attended": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.millenniumpost.in/nation/bharat-summit-speakers-barred-entry-to-india-tharoor-683152"
+  ],
+  "Telangana BJP president N. Ramchander Rao called it an 'anti-Bharat' summit": [
+   "https://www.thehansindia.com/news/cities/hyderabad/its-anti-bharat-summit-says-nrr-1141200",
+   "https://www.siasat.com/bharat-summit-hyderabad-rahul-gandhi-day-1-live-updates-3575999/",
+   "https://dailypioneer.com/telangana/bjp-calls-congress-bharat-summit-an-anti-india-event"
+  ],
+  "MEA spokesperson Randhir Jaiswal, weekly briefing Fri 13 Nov: 'Visa matters are sovereign functions of any country or any government' (gave no further detail: 'So that is what I have to say')": [
+   "https://theprint.in/india/visas-are-a-sovereign-function-mea-on-bharat-summit-row/3098321/",
+   "https://www.tribuneindia.com/news/india/visas-are-a-sovereign-function-mea-on-bharat-summit-row",
+   "https://www.orissapost.com/visas-are-a-sovereign-function-mea-on-bharat-summit-row/"
+  ],
+  "No Home Ministry statement reported (MHA/MEA/embassy had not commented on Svendsen; no MHA response in reports)": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.millenniumpost.in/nation/bharat-summit-speakers-barred-entry-to-india-tharoor-683152",
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row"
+  ],
+  "Helle Lyng Svendsen, Norwegian journalist with Dagsavisen, was due to speak on (media and) press freedom": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row",
+   "https://www.orissapost.com/visas-are-a-sovereign-function-mea-on-bharat-summit-row/"
+  ],
+  "Svendsen says the Indian embassy in Oslo told her about 10 minutes before she left for the airport that her visa was cancelled": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.outlookindia.com/national/tharoor-claims-115-speakers-visas-were-cancelled-what-we-know-about-the-bharat-summit-row",
+   "https://m.thewire.in/article/media/indian-visa-of-norwegian-journalist-who-questioned-pm-modi-cancelled-just-hours-before-her-flight/amp"
+  ],
+  "Association of Norwegian Editors and Norwegian Press Association asked the Indian embassy whether the revocation is linked to her questions to the PM": [
+   "https://scroll.in/latest/1097068/norwegian-press-bodies-ask-if-journalists-india-visa-revoked-over-criticism-of-pm-modi",
+   "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi"
+  ],
+  "MEA letter clearing the foreign names on 3 Nov said clearance from the MHA and other relevant authorities was also required (The Wire; Madhyamam)": [
+   "https://m.thewire.in/article/media/indian-visa-of-norwegian-journalist-who-questioned-pm-modi-cancelled-just-hours-before-her-flight/amp",
+   "https://madhyamamonline.com/india/editors-guild-demands-explanation-over-cancellation-of-norwegian-journalist-helle-lyngs-india-visa-1571894"
+  ],
+  "In May 2026 in Oslo, Svendsen asked PM Modi whether he would take questions from the press": [
+   "https://scroll.in/latest/1097055/115-speakers-for-congress-bharat-summit-denied-entry-into-india-claims-shashi-tharoor",
+   "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi",
+   "https://madhyamamonline.com/india/editors-guild-demands-explanation-over-cancellation-of-norwegian-journalist-helle-lyngs-india-visa-1571894",
+   "https://m.thewire.in/article/media/indian-visa-of-norwegian-journalist-who-questioned-pm-modi-cancelled-just-hours-before-her-flight/amp"
+  ]
+ },
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:HITEX_Exbhition_Centre_Hyderabad_Telangana_India_4.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/HITEX_Exbhition_Centre_Hyderabad_Telangana_India_4.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Kavali Chandrakanth KCK",
+  "size": "6530x4898 original; local 3840x2880",
+  "viewed": true,
+  "faces": 0,
+  "subject": "HITEX Exhibition Centre entrance arches, Hyderabad (the Bharat Summit venue)",
+  "framing": {
+   "photo": "_work/2026-11-14-hourly-1157/idlynews/frame_hitex4/cover_source.png",
+   "focal": [
+    0.47,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.47,
+   "note": "focal x moved from 0.5 to 0.47 to crop a small road sign out of the headline band (reviewer G2+3 condition)"
+  }
+ },
+ "tags": [],
+ "tags_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual photographer, not a brand/studio/maker press image; the brief says never tag people."
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "size": 86,
+  "lines": 3,
+  "overflow": false,
+  "top": 992,
+  "credit_line": "Photo: Kavali Chandrakanth KCK / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1157-bharat-summit-visas",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-14-hourly-1157/idlynews/out/idlynews-1157-bharat-summit-visas/01.jpg",
+  "scale": 0.469
+ },
+ {
+  "stat": 188,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Scroll, PTI (via The Week), Outlook, Siasat, Millennium Post",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-bharat-summit-visas",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1157/idlynews/out/idlynews-1157-bharat-summit-visas/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 296,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Wire, Madhyamam, PTI (via ThePrint, The Tribune), Scroll",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-bharat-summit-visas",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1157/idlynews/out/idlynews-1157-bharat-summit-visas/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Scroll, Outlook, Al Jazeera, The Wire",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-bharat-summit-visas",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-1157/idlynews/out/idlynews-1157-bharat-summit-visas/04.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,58 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1157-bharat-summit-visas",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Scroll",
+  "PTI",
+  "Outlook",
+  "The Wire",
+  "Al Jazeera"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tharoor: 115 of 315 Bharat Summit Speakers Barred From India",
+   "photo": "_work/2026-11-14-hourly-1157/idlynews/frame_hitex4/cover_source.png",
+   "photo_credit": "Photo: Kavali Chandrakanth KCK / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.47,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "13-14 NOV",
+   "stat_label": "Bharat Summit at HITEX, Hyderabad",
+   "bullets": [
+    "Hosted by Telangana's Congress-led state government",
+    "Congress MP Tharoor says MHA apparently ordered the refusals",
+    "Organisers say about 200 foreign delegates attended"
+   ],
+   "credit_line": "Sources: Scroll, PTI (via The Week), Outlook, Siasat, Millennium Post"
+  },
+  {
+   "type": "detail",
+   "stat": "3 NOV",
+   "stat_label": "MEA Letter Listed MHA Clearance, The Wire Says",
+   "bullets": [
+    "MEA on Friday: 'Visa matters are sovereign functions'",
+    "Spokesperson Randhir Jaiswal gave no further detail",
+    "No Home Ministry statement has been reported"
+   ],
+   "credit_line": "Sources: The Wire, Madhyamam, PTI (via ThePrint, The Tribune), Scroll"
+  },
+  {
+   "type": "detail",
+   "stat": "10 MIN",
+   "stat_label": "Visa Cancelled Before Airport Trip, Svendsen Says",
+   "bullets": [
+    "Norwegian journalist was due to speak on press freedom",
+    "In May, she asked PM Modi if he would take questions",
+    "Norwegian editors ask the embassy if the two are linked"
+   ],
+   "credit_line": "Sources: Scroll, Outlook, Al Jazeera, The Wire"
+  }
+ ]
+}
