@@ -1,0 +1,46 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1157-seltos-7-lakh",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Aaj Tak",
+  "Royal Bulletin",
+  "Rushlane",
+  "CarWale"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Kia Seltos Crosses 7 Lakh Sales in India Since 2019",
+   "photo": "_work/2026-11-14-hourly-1157/idlyautomotive/frame_seltos_m/cover_source.png",
+   "photo_credit": "Image: Kia India",
+   "focal": [
+    0.5,
+    0.56
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1,13,078",
+   "stat_label": "New-Gen Seltos Sales, January-October 2026",
+   "bullets": [
+    "87% more than the same months of 2025",
+    "October alone: 13,423, up from 7,130",
+    "A rebound after a 27% fall in FY2024-25"
+   ],
+   "credit_line": "Sources: Autocar India, Royal Bulletin, Rushlane, CarWale"
+  },
+  {
+   "type": "detail",
+   "stat": "2,86,470",
+   "stat_label": "Kia India Sales, January-October 2026",
+   "bullets": [
+    "Up 21% on January-October 2025",
+    "Already past Kia's full-year 2025 record of 2,80,286"
+   ],
+   "credit_line": "Sources: Autocar India, Royal Bulletin, Rushlane"
+  }
+ ]
+}

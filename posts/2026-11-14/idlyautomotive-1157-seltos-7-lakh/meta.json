@@ -1,0 +1,134 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Kia Seltos crosses 7 lakh sales in India: 7,04,829 domestic units from its August 2019 launch to October 2026 (Autocar India 13 Nov; Aaj Tak 14 Nov; Royal Bulletin 13 Nov), plus 1.6 lakh+ exported (Kia India's top export); second-gen Seltos (Jan 2026) sold 1,13,078 in Jan-Oct 2026 (+87%), October 13,423 vs 7,130, after a 27% fall to 72,618 in FY2025; Kia India Jan-Oct 2026 2,86,470 (+21%), already past its CY2025 record of 2,80,286",
+ "sources": [
+  {
+   "outlet": "Autocar India (Ajit Dalvi)",
+   "date": "2026-11-13",
+   "url": "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321"
+  },
+  {
+   "outlet": "Aaj Tak (Automobile Desk)",
+   "date": "2026-11-14",
+   "url": "https://www.aajtak.in/auto/news/photo/kia-seltos-7-lakh-sales-milestone-india-details-auam-2695653-2026-11-14"
+  },
+  {
+   "outlet": "Royal Bulletin (Chayan Prajapat)",
+   "date": "2026-11-13",
+   "url": "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092"
+  },
+  {
+   "outlet": "Rushlane (Kia India Oct 2026 sales breakup)",
+   "date": "2026-11-13",
+   "url": "https://www.rushlane.com/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-12561021.html"
+  },
+  {
+   "outlet": "CarWale (top-selling mid-size SUVs, October 2026)",
+   "date": "2026-11-12",
+   "url": "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/"
+  },
+  {
+   "outlet": "Autocar Professional (all-new Seltos launch)",
+   "date": "2026-01-02",
+   "url": "https://www.autocarpro.in/news/kia-india-launches-all-new-seltos-starting-at-%e2%82%b91099-lakh-130388"
+  },
+  {
+   "outlet": "Autocar Professional (Kia India FY2025 sales)",
+   "date": "2025-04",
+   "url": "https://www.autocarpro.in/analysis-sales/kia-india-sells-255207-vehicles-in-fy2025-sonet-top-seller-with-over-99000-units-125678"
+  },
+  {
+   "outlet": "Autocar Professional (Kia India CY2025 share of global sales)",
+   "date": "2026-01-06",
+   "url": "https://www.autocarpro.in/analysis/kia-india-share-of-global-sales-at-highest-level-in-cy2025-9-130432"
+  },
+  {
+   "outlet": "Rushlane (Kia India Dec 2025 / CY2025 sales)",
+   "date": "2026-01-01",
+   "url": "https://www.rushlane.com/kia-india-dec-2025-sales-best-ever-yearly-sales-grow-by-15-12537052.html"
+  }
+ ],
+ "fact_sources": {
+  "7,04,829 Seltos sold in India (domestic), launch August 2019 to October 2026: past 7 lakh": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321",
+   "https://www.aajtak.in/auto/news/photo/kia-seltos-7-lakh-sales-milestone-india-details-auam-2695653-2026-11-14",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092"
+  ],
+  "Seltos launched in India in August 2019 (22 Aug)": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321",
+   "https://www.aajtak.in/auto/news/photo/kia-seltos-7-lakh-sales-milestone-india-details-auam-2695653-2026-11-14"
+  ],
+  "1.6 lakh-plus Seltos exported from India; Kia India's top export model": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321 (162,858 FY2020-Sep 2026; top export model)",
+   "https://www.aajtak.in/auto/news/photo/kia-seltos-7-lakh-sales-milestone-india-details-auam-2695653-2026-11-14 (1.60 lakh; highest-exported Kia from India)"
+  ],
+  "Second-generation Seltos launched January 2026": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092",
+   "https://www.autocarpro.in/news/kia-india-launches-all-new-seltos-starting-at-%e2%82%b91099-lakh-130388"
+  ],
+  "Second-gen Seltos: 1,13,078 units Jan-Oct 2026, +87% on the same months of 2025": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092"
+  ],
+  "October 2026: 13,423 Seltos vs 7,130 in October 2025 (+88%)": [
+   "https://www.rushlane.com/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-12561021.html",
+   "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/",
+   "https://www.aajtak.in/auto/news/photo/kia-seltos-7-lakh-sales-milestone-india-details-auam-2695653-2026-11-14 (13,423)"
+  ],
+  "FY2025 (Apr 2024-Mar 2025) Seltos sales fell 27% to 72,618": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321 (72,618, -27.69%)",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092 (72,618)",
+   "https://www.autocarpro.in/analysis-sales/kia-india-sells-255207-vehicles-in-fy2025-sonet-top-seller-with-over-99000-units-125678 (-27%, estimate 72,729)"
+  ],
+  "Kia India Jan-Oct 2026: 2,86,470, +21%": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092"
+  ],
+  "Already past Kia India's full-year CY2025 record of 2,80,286": [
+   "https://www.autocarindia.com/car-news/kia-seltos-crosses-7-lakh-sales-in-india-441321 (280,286 previous annual high)",
+   "https://royalbulletin.in/automobile/kia-seltos-created-history-more-than-7-lakh-people-bought/article-255092 (already exceeds previous-year record)",
+   "https://www.autocarpro.in/analysis/kia-india-share-of-global-sales-at-highest-level-in-cy2025-9-130432 (280,286, best-ever annual sales)",
+   "https://www.rushlane.com/kia-india-dec-2025-sales-best-ever-yearly-sales-grow-by-15-12537052.html (280,286)"
+  ]
+ },
+ "image": {
+  "page": "https://www.kia.com/in/our-vehicles/seltos/showroom.html",
+  "url": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/showroom/main_m.png",
+  "licence": "official Kia India product image (mobile hero of the Seltos page on Kia India's website), editorial use, credited 'Image: Kia India'",
+  "author": "Kia India",
+  "size": "1440x2560",
+  "viewed": true,
+  "faces": 0,
+  "subject": "The actual second-generation India Seltos (black, 'Seltos' front plate), front three-quarter on dark tarmac with trees and glass towers at dusk; no people, no watermark, no burned-in text",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-14-hourly-1157/idlyautomotive/frame_seltos_m/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.75,
+    "faces": 0,
+    "note": ""
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.56
+    ],
+    "zoom": 1.0,
+    "why": "same full-bleed 4:5 crop of the tall source moved down (logo-box saliency 0.05 vs limit 2.2) so the car sits at about y 340-727 of 1350: whole, below the logo and above the bottom 45%; the 3-line headline starts ~y 975 over tarmac. Downscaled 0.75x, no enlargement. Reviewer approved the plan at G2+3 and the render at G4."
+   }
+  }
+ },
+ "tags": [
+  "kiaind"
+ ],
+ "tags_evidence": "kiaind: linked (https://www.instagram.com/kiaind/, class social-link--instagram) in the footer social links of Kia India's official site, https://www.kia.com/in/our-vehicles/seltos/showroom.html, alongside x.com/kiaind and facebook.com/KiaInd (checked 14 Nov 2026). Kia India owns the cover image."
+}
