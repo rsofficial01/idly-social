@@ -1,0 +1,56 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0757-week-in-hype",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "adidas",
+  "House of Heat"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "The Week in Hype: SP5DER x adidas F50 Out Today at ₹19,999",
+   "photo": "_work/2026-11-14-hourly-0757/idlyhype/frame_5/cover_source.png",
+   "photo_credit": "Image: adidas",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "2 PAIRS",
+   "stat_label": "SP5DER x adidas F50 Formotion at Superkicks India",
+   "bullets": [
+    "Solar Green (KZ6581) or red with pink (KZ6578)",
+    "Superkicks lists UK 7 to 11 in both",
+    "Also out: bag ₹13,999, balaclava ₹6,999"
+   ],
+   "credit_line": "Sources: Superkicks, adidas, House of Heat, Sole Retriever"
+  },
+  {
+   "type": "detail",
+   "stat": "2 DATES",
+   "stat_label": "Coming Soon at Superkicks India",
+   "bullets": [
+    "Nike SB AF1 'Navy', ₹10,295: US out Mon 17 Nov",
+    "Air Jordan 3 'Not Nice', ₹19,295: out Sat 21 Nov",
+    "Superkicks lists both in UK 7 to 11"
+   ],
+   "credit_line": "Sources: Superkicks, Nike, Sneaker Files"
+  },
+  {
+   "type": "detail",
+   "stat": "3 PAIRS",
+   "stat_label": "New on Indian Shelves This Week",
+   "bullets": [
+    "Bad Bunny x adidas BadBo 1.1: ₹11,999",
+    "Wales Bonner x adidas Gazelle Croc: ₹21,999",
+    "Onitsuka Tiger faux-fur Mexico 66 Paraty: ₹11,500"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Onitsuka Tiger India, Complex, FashionUnited"
+  }
+ ]
+}

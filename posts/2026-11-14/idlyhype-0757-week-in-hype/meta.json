@@ -1,0 +1,194 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "list",
+ "title": "The Week in Hype (Sat 14 Nov 2026), India drops with ₹ prices: SP5DER x adidas Originals Adizero F50 Formotion on sale at Superkicks on 14 Nov, its worldwide launch day, ₹19,999 (Solar Green KZ6581, red KZ6578; UK 7-11 listed), bag ₹13,999, balaclava ₹6,999; coming soon at Superkicks (UK 7-11): Nike SB Air Force 1 'Navy' ₹10,295 (Nike US launch 17 Nov; Superkicks product data start date 17 Nov 00:01) and Air Jordan 3 'Not Nice' ₹19,295 (out 21 Nov; Superkicks start date 21 Nov 00:01); on shelves this week: Bad Bunny x adidas BadBo 1.1 ₹11,999 (Superkicks, VegNonVeg), Wales Bonner x adidas Gazelle Croc ₹21,999 (Superkicks, VegNonVeg), Onitsuka Tiger faux-fur Mexico 66 Paraty ₹11,500 (onitsukatiger.com/in); seller pages checked 08:10-08:16 IST 14 Nov",
+ "sources": [
+  {
+   "outlet": "Superkicks (SP5DER x adidas F50 Formotion KZ6581 product page)",
+   "date": "2026-11-14 (checked 08:10-08:16 IST)",
+   "url": "https://www.superkicks.in/products/adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic"
+  },
+  {
+   "outlet": "Superkicks (SP5DER x adidas F50 Formotion KZ6578 product page)",
+   "date": "2026-11-14 (checked 08:10-08:16 IST)",
+   "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black"
+  },
+  {
+   "outlet": "Superkicks (SP5DER bag KV5283)",
+   "date": "2026-11-14 (published 00:00 IST)",
+   "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-bag-black"
+  },
+  {
+   "outlet": "Superkicks (SP5DER balaclava KW5535)",
+   "date": "2026-11-14 (published 00:00 IST)",
+   "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-balaclava-black"
+  },
+  {
+   "outlet": "adidas (newsroom press release, Herzogenaurach)",
+   "date": "2026-11-10",
+   "url": "https://news.adidas.com/originals/adidas-originals-and-sp5der-reunite-for-a-head-to-toe-collection-featuring-new-f50-formotion-sp5der-/s/b6e081cf-db95-4018-b8f3-bb849b96bc96"
+  },
+  {
+   "outlet": "House of Heat",
+   "date": "2026-11 (checked 14 Nov)",
+   "url": "https://houseofheat.co/adidas/sp5der-adidas-f50-formotion-pack-holiday-2026"
+  },
+  {
+   "outlet": "Sole Retriever",
+   "date": "2026-11 (checked 14 Nov)",
+   "url": "https://www.soleretriever.com/news/articles/sp5der-adidas-f50-formotion-pack-release-date-august-2026"
+  },
+  {
+   "outlet": "Superkicks (Nike SB Air Force 1 Navy HM8517-400)",
+   "date": "2026-11-14 (checked 08:12 IST)",
+   "url": "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy"
+  },
+  {
+   "outlet": "Nike (US SNKRS product feed, HM8517-400)",
+   "date": "2026-11-14 (checked)",
+   "url": "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(HM8517-400)"
+  },
+  {
+   "outlet": "Superkicks (Air Jordan 3 Not Nice IF4396-001)",
+   "date": "2026-11-14 (checked 08:12 IST)",
+   "url": "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir"
+  },
+  {
+   "outlet": "Sneaker Files (Brian Betschart)",
+   "date": "2026-11-10",
+   "url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/"
+  },
+  {
+   "outlet": "Superkicks (Bad Bunny x adidas BadBo 1.1)",
+   "date": "2026-11-14 (checked 08:12 IST)",
+   "url": "https://www.superkicks.in/products/adidas-original-bad-bunny-x-adidas-badbo-1-1-simple-brown-feather-grey-sandy-pink"
+  },
+  {
+   "outlet": "VegNonVeg (search: badbo)",
+   "date": "2026-11-14 (checked)",
+   "url": "https://www.vegnonveg.com/search?q=badbo"
+  },
+  {
+   "outlet": "Complex (Victor Deng, sneaker release guide)",
+   "date": "2026-11-10",
+   "url": "https://www.complex.com/sneakers/a/victor-deng/sneaker-release-guide-11-10-26-green-screen-air-jordan-11"
+  },
+  {
+   "outlet": "Superkicks (Wales Bonner Gazelle Croc KK0735)",
+   "date": "2026-11-14 (checked 08:12 IST)",
+   "url": "https://www.superkicks.in/products/adidas-originals-wales-bonner-gazelle-suede-croc-crystal-sky-green-night-power-blue"
+  },
+  {
+   "outlet": "VegNonVeg (Wales Bonner Gazelle Croc KK0735)",
+   "date": "2026-11-14 (checked)",
+   "url": "https://www.vegnonveg.com/products/adidas-originals-x-wales-bonner-gazelle-croc-crystal-skygreen-night-power-blue"
+  },
+  {
+   "outlet": "Onitsuka Tiger India (Mexico 66 Paraty 1183B601.200)",
+   "date": "2026-11-14 (checked)",
+   "url": "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.200.html"
+  },
+  {
+   "outlet": "FashionUnited India (press)",
+   "date": "2026-11-12",
+   "url": "https://fashionunited.in/press/fashion/onitsuka-tiger-india-launches-faux-fur-versions-of-three-signature-styles-for-winter/2026111256966"
+  }
+ ],
+ "fact_sources": {
+  "SP5DER x adidas F50 Formotion on sale at Superkicks at ₹19,999 (KZ6581 Solar Green, KZ6578 red with pink accents), UK 7-11 listed; no longer 'Coming Soon' on 14 Nov": [
+   "https://www.superkicks.in/products/adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
+   "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black"
+  ],
+  "Worldwide launch 14 Nov 2026 (adidas CONFIRMED app, select retailers, select adidas stores); codes KZ6581 and KZ6578": [
+   "https://news.adidas.com/originals/adidas-originals-and-sp5der-reunite-for-a-head-to-toe-collection-featuring-new-f50-formotion-sp5der-/s/b6e081cf-db95-4018-b8f3-bb849b96bc96",
+   "https://houseofheat.co/adidas/sp5der-adidas-f50-formotion-pack-holiday-2026",
+   "https://www.soleretriever.com/news/articles/sp5der-adidas-f50-formotion-pack-release-date-august-2026"
+  ],
+  "Matching bag ₹13,999 (KV5283) and balaclava ₹6,999 (KW5535) at Superkicks, published 00:00 IST 14 Nov; a Cordura backpack and balaclavas are part of the collection": [
+   "https://www.superkicks.in/products/adidas-original-x-sp5der-bag-black",
+   "https://www.superkicks.in/products/adidas-original-x-sp5der-balaclava-black",
+   "https://news.adidas.com/originals/adidas-originals-and-sp5der-reunite-for-a-head-to-toe-collection-featuring-new-f50-formotion-sp5der-/s/b6e081cf-db95-4018-b8f3-bb849b96bc96"
+  ],
+  "Bad Bunny x adidas BadBo 1.1 ₹11,999 at Superkicks and VegNonVeg; BadBo 1.0 and 1.1 released Thu 12 Nov": [
+   "https://www.superkicks.in/products/adidas-original-bad-bunny-x-adidas-badbo-1-1-simple-brown-feather-grey-sandy-pink",
+   "https://www.vegnonveg.com/search?q=badbo",
+   "https://www.complex.com/sneakers/a/victor-deng/sneaker-release-guide-11-10-26-green-screen-air-jordan-11"
+  ],
+  "Wales Bonner x adidas Gazelle Croc (KK0735) ₹21,999 at Superkicks (added 11 Nov) and VegNonVeg": [
+   "https://www.superkicks.in/products/adidas-originals-wales-bonner-gazelle-suede-croc-crystal-sky-green-night-power-blue",
+   "https://www.vegnonveg.com/products/adidas-originals-x-wales-bonner-gazelle-croc-crystal-skygreen-night-power-blue"
+  ],
+  "Onitsuka Tiger India's faux-fur Mexico 66 Paraty ₹11,500 on its India site; launched in India as part of a faux-fur winter series": [
+   "https://www.onitsukatiger.com/in/en-in/product/mexico-66-paraty/1183b601.200.html",
+   "https://fashionunited.in/press/fashion/onitsuka-tiger-india-launches-faux-fur-versions-of-three-signature-styles-for-winter/2026111256966"
+  ],
+  "Nike SB Air Force 1 'Navy' (HM8517-400) ₹10,295 at Superkicks, 'Coming Soon', UK 7-11 (product data tag Startdate__17 November 2026 00:01); Nike US launch 17 Nov 2026 (15:00 UTC), $120": [
+   "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy.js",
+   "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy",
+   "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(010794e5-35fe-4e32-aaff-cd2c74f89d61)&filter=productInfo.merchProduct.styleColor(HM8517-400)",
+   "https://www.nike.com/launch/t/nike-sb-air-force-1-low-navy-and-black"
+  ],
+  "Air Jordan 3 'Not Nice' (IF4396-001) ₹19,295 at Superkicks, 'Coming Soon', UK 7-11 (product data tag Startdate__21 November 2026 00:01); released 21 Nov 2026": [
+   "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir.js",
+   "https://www.superkicks.in/products/jordan-air-jordan-3-retro-black-black-challenge-red-off-noir",
+   "https://www.sneakerfiles.com/air-jordan-3-not-nice/"
+  ]
+ },
+ "image": {
+  "page": "https://news.adidas.com/originals/adidas-originals-and-sp5der-reunite-for-a-head-to-toe-collection-featuring-new-f50-formotion-sp5der-/s/b6e081cf-db95-4018-b8f3-bb849b96bc96",
+  "url": "https://preview.thenewsmarket.com/Previews/ADID/StillAssets/1920x1080/738034.jpg",
+  "licence": "adidas newsroom press image for this release (media asset), editorial use, credited 'Image: adidas'",
+  "author": "adidas",
+  "size": "1920x1080 source; crop box (506,60)-(1274,1020) = 768x960, enlarged 1.41x to 1080x1350",
+  "viewed": true,
+  "faces": 0,
+  "subject": "The actual Solar Green SP5DER x adidas Adizero F50 Formotion pair (black stripes, black sole, 'spoder' tongue labels) standing on a pond of green lily pads; no people, no burned-in text, no watermark",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-14-hourly-0757/idlyhype/frame_5/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.41,
+    "faces": 0,
+    "note": "enlarged and sharpened"
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   "note": "the 12 Nov SP5DER post used the same press photo at the default full-height crop; this cover uses a tighter crop (G1 condition)"
+  }
+ },
+ "tags": [
+  "adidas"
+ ],
+ "tags_evidence": "adidas: the adidas newsroom release page for this collection (news.adidas.com, source of the cover image) links https://www.instagram.com/adidas/ (checked 14 Nov 2026, 08:25 IST).",
+ "gates": {
+  "g1": "PASS: build A (ceiling 12-13); conditions applied (cover leads with SP5DER 'Out Today' + ₹19,999; not the 12 Nov frame; seller + press source per item; 'Superkicks lists' wording). B (AJ11 Green Screen, no India release) and C (Casio x A.P.C. AQ-240, no India release) dropped.",
+  "g2_3": "FIX x2 (delete 'SP5DER is rapper Young Thug's label'; don't assert a Superkicks date for SB AF1, attribute 17 Nov to Nike's US launch) -> r2 PASS. Picture PASS (sharp, people-free, clear of logo).",
+  "g4": "PASS 13 (hook 1)"
+ },
+ "scores": {
+  "self": "self-score.json (14)",
+  "reviewer": "reviewer-score.json (13)",
+  "post": {
+   "hook": 1,
+   "read": 2,
+   "send": 2,
+   "keep": 2,
+   "reply": 2,
+   "original": 2,
+   "alone": 2,
+   "total": 13
+  }
+ }
+}

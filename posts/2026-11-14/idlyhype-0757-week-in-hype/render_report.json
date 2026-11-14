@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: adidas",
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-14-hourly-0757/idlyhype/out_r3/idlyhype-0757-week-in-hype/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 240,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, adidas, House of Heat, Sole Retriever",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-0757/idlyhype/out_r3/idlyhype-0757-week-in-hype/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 228,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, Nike, Sneaker Files",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-0757/idlyhype/out_r3/idlyhype-0757-week-in-hype/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 244,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Onitsuka Tiger India, Complex, FashionUnited",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-14-hourly-0757/idlyhype/out_r3/idlyhype-0757-week-in-hype/04.jpg",
+  "scale": null
+ }
+]
