@@ -1,0 +1,264 @@
+{
+  "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-14T15:45:20+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+    "source_url": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+    "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png",
+    "credit": "Image: PlayStation (Sony Interactive Entertainment)",
+    "organisation": "PlayStation (Sony Interactive Entertainment)",
+    "image_size": [
+      1024,
+      1024
+    ],
+    "log": [
+      "page https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/ (PlayStation (Sony Interactive Entertainment)): og:title 'God of War Sons of Sparta - PS5 Games | PlayStation', 1 image(s)",
+      "image https://image.api.playstation.com/vulcan/ap/rnd/202602/0519/7260437aae9056d5bd34225e4fce98ca8bb0ef1cd8e6471f.png (1024x1024)"
+    ],
+    "og_title": "God of War Sons of Sparta - PS5 Games | PlayStation"
+  },
+  "faces": [
+    [
+      548.9,
+      597.1,
+      42.1,
+      46.9,
+      0.764
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5566,
+      0.6212
+    ],
+    "zoom": 1.32,
+    "upscale": 1.742,
+    "crop": [
+      260.0,
+      248.0,
+      620.0,
+      776.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        494,
+        597,
+        585,
+        699
+      ]
+    ],
+    "logo_saliency": 1.05,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        548.9,
+        597.1,
+        42.1,
+        46.9,
+        0.764
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.742,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 4 known items, 1 needing care (rs2500-full-cost: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: PlayStation (Sony Interactive Entertainment)",
+      "Sources: PlayStation Blog, Gematsu",
+      "Sources: PlayStation Blog, Gematsu",
+      "Source: PS Store India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: PlayStation (Sony Interactive Entertainment)",
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Gematsu",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: PlayStation Blog, Gematsu",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 308,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: PS Store India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-2057-gow-sons-of-sparta-ps4",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "God of War Sons of Sparta, the 2D action-platformer from Santa Monica Studio and Mega Cat Studios, comes to PS4 on Monday, 16 November. It has been a PS5 game since 12 February 2026. It tells the story of a young Kratos and his brother Deimos during their Spartan training.\n\nThe same day, a free patch adds two new modes on both PS4 and PS5. Hermes Mode is for speedrunners, with a split timer and a scoreboard. It unlocks after you finish the game once, or with this code on the start menu: Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad. In Erebus Mode, you and every enemy go down in a single hit. You pick the mode when you start a save, and you can't change it later.\n\nOn the PS Store in India, the PS5 version costs ₹2,497 and the Digital Deluxe Edition ₹3,330. The PS4 price isn't listed yet.\n\nIs your PS4 still the console you play on most?\n\nSources: PlayStation Blog, Gematsu, PS Store India\n\n#GodOfWar #SonsOfSparta #PS4 #PlayStation #idlynerd\n\nImage: PlayStation (Sony Interactive Entertainment)",
+  "story": {
+    "status": "rendered",
+    "framing": {
+      "mode": "cover",
+      "focal": [
+        0.5566,
+        0.5322
+      ],
+      "zoom": 1.14,
+      "upscale": 1.504,
+      "crop": [
+        211.0,
+        66.0,
+        718.0,
+        958.0
+      ],
+      "band_top": null,
+      "band_height": null,
+      "faces_out": [
+        [
+          501,
+          790,
+          579,
+          877
+        ]
+      ],
+      "logo_saliency": 2.02,
+      "notes": [
+        "1 face(s) detected"
+      ],
+      "faces_src": [
+        [
+          548.9,
+          597.1,
+          42.1,
+          46.9,
+          0.764
+        ]
+      ],
+      "frame": "vertical",
+      "out_h": 1440
+    },
+    "upscale": 1.504,
+    "checks": [
+      {
+        "size": 92,
+        "lines": 3,
+        "overflow": false,
+        "text_top": 1183,
+        "fade_start": 713,
+        "solid_from": 1333,
+        "credit_bottom": 1000,
+        "credit_len": 696,
+        "collisions": [],
+        "ui_zone": [],
+        "outside": [],
+        "ui_buttons": [],
+        "orphans": [],
+        "left_edges": {
+          "kicker": 64,
+          "headline": 64,
+          "date": 64
+        },
+        "min_font_px": 30,
+        "truncated": [],
+        "page": "cover",
+        "type": "cover",
+        "zone": "story",
+        "safe": [
+          220,
+          1600
+        ],
+        "scale": 1.0,
+        "photo_h": 1440,
+        "crop": [
+          0,
+          0,
+          1080,
+          1440
+        ],
+        "credit_line": "Image: PlayStation (Sony Interactive Entertainment)",
+        "problems": []
+      }
+    ],
+    "file": "story.jpg"
+  }
+}
