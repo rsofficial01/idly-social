@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0757-ps5-qssr-8-games",
+ "date": "14 Nov 2026",
+ "sources": [
+  "PlayStation Blog",
+  "Gematsu",
+  "Push Square"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Base PS5 Games Get Sharper: 3 Now, 5 Coming",
+   "photo": "_work/2026-11-14-hourly-0757/idlynerd/frame_crop_rain_x215/cover_source.png",
+   "photo_credit": "Image: Sony Interactive Entertainment / Insomniac Games",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "13 NOV",
+   "stat_label": "Spider-Man 2 Gets Sony's QSSR Upscaler on Base PS5",
+   "bullets": [
+    "Live in both Fidelity and Performance modes",
+    "Wolverine, Ghost of Yōtei have had it since 1 October",
+    "Sony promises sharper detail, cleaner edges, steadier image"
+   ],
+   "credit_line": "Sources: PlayStation Blog, Gematsu, Game Informer"
+  },
+  {
+   "type": "detail",
+   "stat": "DEC",
+   "stat_label": "Control Resonant Gets Base PS5 QSSR in December",
+   "bullets": [
+    "No Man's Sky: within the next few weeks",
+    "ARC Raiders and THE FINALS: 'coming soon', no date",
+    "Hell Let Loose: Vietnam: in an upcoming update"
+   ],
+   "credit_line": "Sources: PlayStation Blog, Gematsu, Push Square"
+  }
+ ]
+}

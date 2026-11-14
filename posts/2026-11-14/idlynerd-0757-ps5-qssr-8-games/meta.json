@@ -1,0 +1,79 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Sony's QSSR (Quick Spectral Super Resolution) upscaler for the base PS5 goes live in Marvel's Spider-Man 2 (update, 13 Nov 2026; Fidelity and Performance modes); Marvel's Wolverine and Ghost of Yotei have had it since 1 Oct; Control Resonant in December, No Man's Sky within weeks, ARC Raiders, THE FINALS and Hell Let Loose: Vietnam undated: 3 games now, 5 coming, no PS5 Pro needed",
+ "sources": [
+  {"outlet": "PlayStation Blog (Daniel Craig, SIE Graphics R&D)", "date": "2026-11-13", "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/"},
+  {"outlet": "Gematsu (Sal Romano)", "date": "2026-11-13", "url": "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam"},
+  {"outlet": "Push Square (Liam Croft)", "date": "2026-11-13", "url": "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now"},
+  {"outlet": "Push Square (Sammy Barker)", "date": "2026-10-01", "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential"},
+  {"outlet": "Game Informer (Wesley LeBlanc)", "date": "2026-10-01", "url": "https://gameinformer.com/2026/10/01/one-of-the-ps5-pros-exclusive-features-is-now-coming-to-ps5-kind-of"},
+  {"outlet": "Inven Global", "date": "2026-10-01", "url": "https://www.invenglobal.com/articles/26727/base-ps5-life-extended-as-pro-exclusive-ai-upscaling-arrives"}
+ ],
+ "fact_sources": {
+  "QSSR (Quick Spectral Super Resolution) is Sony's upscaler for the base/standard PS5 ('the console you already own'; 'base console equivalent' of PS5 Pro's PSSR; 'designed for the base PS5 system'); no PS5 Pro needed": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam",
+   "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now",
+   "https://gameinformer.com/2026/10/01/one-of-the-ps5-pros-exclusive-features-is-now-coming-to-ps5-kind-of"
+  ],
+  "Built on the same foundation as PSSR on PS5 Pro": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam",
+   "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential"
+  ],
+  "Live now in Marvel's Spider-Man 2 through an update released 13 Nov, in Fidelity and Performance modes": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam",
+   "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now"
+  ],
+  "Sony says sharper detail, cleaner edges, steadier image": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/ ('sharper details, cleaner edges, and more stable images')",
+   "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now ('improved image stability and sharpness')"
+  ],
+  "Control Resonant gets QSSR in a December update": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam"
+  ],
+  "No Man's Sky within the next few weeks": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam"
+  ],
+  "ARC Raiders and THE FINALS 'coming soon'; Hell Let Loose: Vietnam in an upcoming update; no dates": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam"
+  ],
+  "Marvel's Wolverine and Ghost of Yotei got QSSR on 1 Oct 2026 as an additional graphics option via patches": [
+   "https://gameinformer.com/2026/10/01/one-of-the-ps5-pros-exclusive-features-is-now-coming-to-ps5-kind-of",
+   "https://www.invenglobal.com/articles/26727/base-ps5-life-extended-as-pro-exclusive-ai-upscaling-arrives",
+   "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential"
+  ],
+  "Sony is offering QSSR to all PlayStation developers": [
+   "https://gameinformer.com/2026/10/01/one-of-the-ps5-pros-exclusive-features-is-now-coming-to-ps5-kind-of",
+   "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential"
+  ],
+  "Delivered through game updates / patches": [
+   "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+   "https://www.invenglobal.com/articles/26727/base-ps5-life-extended-as-pro-exclusive-ai-upscaling-arrives"
+  ]
+ },
+ "image": {
+  "page": "https://store.steampowered.com/app/2651280/",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_cde4862328227ea8cfb2981c92b6411b705ed0f4.1920x1080.jpg",
+  "licence": "official publisher store screenshot for Marvel's Spider-Man 2 (publisher PlayStation Publishing LLC; developers Insomniac Games / Nixxes) on Steam, editorial use, credited 'Image: Sony Interactive Entertainment / Insomniac Games'",
+  "author": "Sony Interactive Entertainment / Insomniac Games",
+  "size": "1920x1080",
+  "viewed": true,
+  "faces": 0,
+  "subject": "Official Marvel's Spider-Man 2 artwork: masked Spider-Man mid-kick in heavy rain at a night baseball stadium, Venom lunging at right, in-game scoreboard; no real person, no UI, no title lettering; the small corner copyright mark is outside the crop",
+  "framing": {
+   "pre_crop": "plain 864x1080 (4:5) window at x=215 of the 1920x1080 original, saved as _work/2026-11-14-hourly-0757/idlynerd/img/steam/crop_rain_x215.png (no fill, no letterbox)",
+   "tool_output": {"ok": true, "photo": "_work/2026-11-14-hourly-0757/idlynerd/frame_crop_rain_x215/cover_source.png", "focal": [0.5, 0.5], "zoom": 1.0, "upscale": 1.25, "faces": 0, "note": "enlarged and sharpened"},
+   "used": {"focal": [0.5, 0.5], "zoom": 1.0}
+  }
+ },
+ "tags": ["insomniacgames", "playstationin"],
+ "tags_evidence": "insomniacgames: linked (https://www.instagram.com/insomniacgames) from Insomniac Games' own site https://insomniac.games/ (checked 14 Nov 2026); playstationin: linked (https://www.instagram.com/playstationin) from PlayStation India's own site https://www.playstation.com/en-in/ (checked 14 Nov 2026)."
+}
