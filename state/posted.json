@@ -3634,5 +3634,58 @@
     "tagged": [
       "adidas"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "17896275363438140",
+    "permalink": "https://www.instagram.com/p/DftrMnlD7vF/",
+    "posted_at": "2026-11-14T07:31:22+00:00",
+    "date": "2026-11-14",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlynews-1157-bharat-summit-visas/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlynews-1157-bharat-summit-visas/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlynews-1157-bharat-summit-visas/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlynews-1157-bharat-summit-visas/04.jpg"
+    ],
+    "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlyautomotive",
+    "media_id": "18080981039412516",
+    "permalink": "https://www.instagram.com/p/DftrQQelz7M/",
+    "posted_at": "2026-11-14T07:31:54+00:00",
+    "date": "2026-11-14",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyautomotive-1157-seltos-7-lakh/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyautomotive-1157-seltos-7-lakh/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyautomotive-1157-seltos-7-lakh/03.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "kiaind"
+    ]
+  },
+  {
+    "story_id": null,
+    "account": "idlyhype",
+    "media_id": "18130223797862722",
+    "permalink": "https://www.instagram.com/p/DftrUj6FJEC/",
+    "posted_at": "2026-11-14T07:32:26+00:00",
+    "date": "2026-11-14",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyhype-1157-star-wars-50/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyhype-1157-star-wars-50/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyhype-1157-star-wars-50/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlyhype-1157-star-wars-50/04.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "starwars"
+    ]
   }
 ]
