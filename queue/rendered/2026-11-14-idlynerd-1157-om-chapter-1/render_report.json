@@ -1,0 +1,173 @@
+{
+  "slug": "2026-11-14-idlynerd-1157-om-chapter-1",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-14T06:55:05+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=aGSOpb_6kv8",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=sW28DfgQdNM",
+      "ok": true
+    },
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=zr9QY9am5XE",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=zr9QY9am5XE",
+    "source_url": "https://www.youtube.com/watch?v=zr9QY9am5XE",
+    "image_url": "https://i.ytimg.com/vi/zr9QY9am5XE/maxresdefault.jpg",
+    "credit": "Image: Divo Music (official video)",
+    "organisation": "Divo Music",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=zr9QY9am5XE: author 'Divo Music' https://www.youtube.com/@divomusicofficial, title 'OM First Strike | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai Abhyankkar | R Take'",
+      "thumbnail https://i.ytimg.com/vi/zr9QY9am5XE/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@divomusicofficial",
+    "video_title": "OM First Strike | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai Abhyankkar | R Take"
+  },
+  "faces": [
+    [
+      377.8,
+      135.6,
+      59.8,
+      83.2,
+      0.919
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.3185,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      120.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        470,
+        236,
+        609,
+        429
+      ]
+    ],
+    "logo_saliency": 0.34,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        377.8,
+        135.6,
+        59.8,
+        83.2,
+        0.919
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 12 known items, 7 needing care (minister-sarathkumar-video-inquiry-2026: alleged, a-amalraj: single_source, a-arun: single_source, a-karthik: single_source, g-laxmi-priya: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Divo Music (official video)",
+      "Sources: Variety India, Cinema Express, The Hans India",
+      "Sources: Sacnilk, Variety India, DT Next"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 90,
+      "lines": 3,
+      "overflow": false,
+      "top": 980,
+      "credit_line": "Image: Divo Music (official video)",
+      "slug": "2026-11-14-idlynerd-1157-om-chapter-1",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 0,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Variety India, Cinema Express, The Hans India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-1157-om-chapter-1",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 0,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Variety India, DT Next",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-14-idlynerd-1157-om-chapter-1",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "OM, the action drama that puts Dhanush and Mammootty on screen together, opens in cinemas worldwide on Friday 20 November. Its full trailer is out now.\n\nThe trailer shows Dhanush going undercover in a red-sandalwood smuggling ring run by Mammootty's character. Sai Pallavi plays officer Nithya Reddy, who leads the operation the film is named after. Sreeleela, Naseeruddin Shah and Indrans also star.\n\nRajkumar Periasamy, who made Amaran, directs, with music by Sai Abhyankkar. Wunderbar Films and RTake Studios produce. Tamil, Telugu and Hindi versions are confirmed, and PEN Marudhar is releasing it across North India. The film was first set for 16 October and moved to avoid a clash with Rajinikanth's Jailer 2.\n\nWhich language will you watch OM in?\n\nSources: Variety India, Sacnilk, DT Next, Cinema Express, The Hans India\n\n#OMMovie #Dhanush #Mammootty #TamilCinema #idlynerd\n\nImage: Divo Music (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
