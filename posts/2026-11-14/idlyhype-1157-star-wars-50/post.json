@@ -1,0 +1,58 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1157-star-wars-50",
+ "date": "14 Nov 2026",
+ "sources": [
+  "The Walt Disney Company",
+  "The Gadgeteer",
+  "Tripwire Magazine",
+  "CNN",
+  "CBS News"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Star Wars Turns 50: ₹46 Crore Lightsaber, 7 LEGO Sets",
+   "photo": "_work/2026-11-14-hourly-1157/idlyhype/frame_vader_black_r2/cover_source.png",
+   "photo_credit": "Image: LEGO / Lucasfilm",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1 JAN 2027",
+   "stat_label": "LEGO's Seven Star Wars 50th Sets Arrive",
+   "bullets": [
+    "US prices run from $39.99 to $299.99",
+    "Vader helmet wall art: $69.99, 628 pieces",
+    "India prices and dates not announced yet"
+   ],
+   "credit_line": "Sources: The Walt Disney Company, The Gadgeteer"
+  },
+  {
+   "type": "detail",
+   "stat": "$4.875M",
+   "stat_label": "Darth Vader's Lightsaber: New Star Wars Auction Record",
+   "bullets": [
+    "Heritage Auctions sold it on 12 November",
+    "Duelling hilt from Empire Strikes Back and Return of the Jedi",
+    "Beat the $3.875M paid for Tom Jung's A New Hope poster painting"
+   ],
+   "credit_line": "Sources: CBS News (AP), CNN, PIX11, Mandatory"
+  },
+  {
+   "type": "detail",
+   "stat": "6",
+   "stat_label": "More Partners On Board For The 50th",
+   "bullets": [
+    "Hasbro's 1977-inspired figures are on preorder now",
+    "adidas and Mars named; no products shown yet",
+    "Aston Martin, Steinway, Hajime Sorayama also named"
+   ],
+   "credit_line": "Sources: The Walt Disney Company, Tripwire Magazine, Complex"
+  }
+ ]
+}

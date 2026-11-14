@@ -1,0 +1,147 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "No idly.news article on the Star Wars 50th-anniversary collaborations or the Heritage lightsaber sale (idly API hype candidates were only Diljit at the Latin Grammys and André 3000 x Moncler); built from Disney's own announcement, LEGO set listings and wire reports; caption carries a Sources line; post with --no-idly-article.",
+ "format": "news",
+ "title": "Star Wars 50th anniversary (announced 12 Nov 2026 by Disney and Lucasfilm): LEGO's seven 50th sets from 1 Jan 2027 (US $39.99-$299.99; 75466 Darth Vader 2-in-1 Wall Art $69.99, 628 pieces), Hasbro 1977-inspired figures on preorder, adidas, Mars, Aston Martin, Steinway and Hajime Sorayama (presented by Complex) named; India prices/dates not announced. Heritage Auctions sold Darth Vader's screen-matched duelling lightsaber (Empire Strikes Back, Return of the Jedi) on 12 Nov for $4.875M (about ₹46 crore at ECB ₹94.25/$, 13 Nov), a world auction record for any Star Wars collectible (old record $3.875M, Tom Jung poster painting)",
+ "sources": [
+  {
+   "outlet": "The Walt Disney Company (announcement)",
+   "date": "12 Nov 2026",
+   "url": "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/"
+  },
+  {
+   "outlet": "Complex",
+   "date": "12 Nov 2026",
+   "url": "https://www.complex.com/pop-culture/a/oruny-choi/star-wars-50th-anniversary-what-to-know"
+  },
+  {
+   "outlet": "Tripwire Magazine",
+   "date": "13 Nov 2026",
+   "url": "https://tripwiremagazine.co.uk/headlines/lucasfilm-and-disney-announce-a-global-year-long-celebration-of-the-50th-anniversary-of-star-wars"
+  },
+  {
+   "outlet": "MouseInfo",
+   "date": "12 Nov 2026",
+   "url": "https://mouseinfo.com/2026/11/details-star-wars-50th-anniversary-new-releases-experiences-and-plenty-of-merch/"
+  },
+  {
+   "outlet": "The Gadgeteer",
+   "date": "12 Nov 2026",
+   "url": "https://the-gadgeteer.com/2026/11/12/7-lego-star-wars-sets-kick-off-the-50th-anniversary-year-in-january/"
+  },
+  {
+   "outlet": "Pirates & Princesses",
+   "date": "13 Nov 2026",
+   "url": "https://news.piratesandprincesses.net/p/lego-star-wars-50th-sets-arrive-jan"
+  },
+  {
+   "outlet": "CBS News (AP)",
+   "date": "13 Nov 2026",
+   "url": "https://www.cbsnews.com/news/darth-vader-light-saber-5-million-auction/"
+  },
+  {
+   "outlet": "CNN",
+   "date": "13 Nov 2026",
+   "url": "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record"
+  },
+  {
+   "outlet": "PIX11 with AP (via Yahoo)",
+   "date": "13 Nov 2026",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/darth-vader-lightsaber-empire-strikes-021152675.html"
+  },
+  {
+   "outlet": "Mandatory (via Yahoo)",
+   "date": "13 Nov 2026",
+   "url": "https://www.yahoo.com/lifestyle/articles/darth-vader-lightsaber-smashes-star-215751481.html"
+  },
+  {
+   "outlet": "ECB via Frankfurter",
+   "date": "13 Nov 2026",
+   "url": "https://api.frankfurter.app/latest?from=USD&to=INR"
+  },
+  {
+   "outlet": "ExchangeRate-API",
+   "date": "14 Nov 2026 00:02 UTC",
+   "url": "https://open.er-api.com/v6/latest/USD"
+  }
+ ],
+ "fact_sources": {
+  "Disney and Lucasfilm opened the Star Wars 50th-anniversary year on 12 Nov 2026 with brand collaborations": [
+   "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+   "https://www.complex.com/pop-culture/a/oruny-choi/star-wars-50th-anniversary-what-to-know",
+   "https://tripwiremagazine.co.uk/headlines/lucasfilm-and-disney-announce-a-global-year-long-celebration-of-the-50th-anniversary-of-star-wars"
+  ],
+  "LEGO's seven-set 50th collection available from 1 Jan 2027 via LEGO.com and LEGO Stores": [
+   "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+   "https://the-gadgeteer.com/2026/11/12/7-lego-star-wars-sets-kick-off-the-50th-anniversary-year-in-january/",
+   "https://tripwiremagazine.co.uk/headlines/lucasfilm-and-disney-announce-a-global-year-long-celebration-of-the-50th-anniversary-of-star-wars"
+  ],
+  "US prices $39.99 (75470 Mustafar Duel) to $299.99 (75467 A New Hope Movie Poster); 75466 Darth Vader 2-in-1 Wall Art $69.99, 628 pieces": [
+   "https://the-gadgeteer.com/2026/11/12/7-lego-star-wars-sets-kick-off-the-50th-anniversary-year-in-january/",
+   "https://news.piratesandprincesses.net/p/lego-star-wars-50th-sets-arrive-jan"
+  ],
+  "Hasbro's new figures inspired by the 1977 film are on preorder (opened 12/13 Nov)": [
+   "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+   "https://www.complex.com/pop-culture/a/oruny-choi/star-wars-50th-anniversary-what-to-know",
+   "https://tripwiremagazine.co.uk/headlines/lucasfilm-and-disney-announce-a-global-year-long-celebration-of-the-50th-anniversary-of-star-wars"
+  ],
+  "adidas and Mars named as returning partners; Aston Martin, Steinway and Hajime Sorayama (presented by Complex) also named; no products shown (6 partners besides LEGO)": [
+   "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+   "https://tripwiremagazine.co.uk/headlines/lucasfilm-and-disney-announce-a-global-year-long-celebration-of-the-50th-anniversary-of-star-wars",
+   "https://www.complex.com/pop-culture/a/oruny-choi/star-wars-50th-anniversary-what-to-know"
+  ],
+  "India prices and dates for the 50th products not announced (sources give US prices and global/worldwide availability only)": [
+   "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+   "https://the-gadgeteer.com/2026/11/12/7-lego-star-wars-sets-kick-off-the-50th-anniversary-year-in-january/"
+  ],
+  "Heritage Auctions sold Darth Vader's screen-matched duelling lightsaber on Thu 12 Nov 2026 for $4.875 million; used in The Empire Strikes Back and Return of the Jedi; Heritage calls it a world auction record for any Star Wars collectible": [
+   "https://www.cbsnews.com/news/darth-vader-light-saber-5-million-auction/",
+   "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record",
+   "https://www.yahoo.com/lifestyle/articles/darth-vader-lightsaber-smashes-star-215751481.html"
+  ],
+  "Previous record $3.875 million: Tom Jung's original poster painting for the first Star Wars film (A New Hope)": [
+   "https://www.yahoo.com/lifestyle/articles/darth-vader-lightsaber-smashes-star-215751481.html",
+   "https://www.yahoo.com/entertainment/movies/articles/darth-vader-lightsaber-empire-strikes-021152675.html"
+  ],
+  "USD/INR 94.25 (ECB 13 Nov) / 94.29 (ExchangeRate-API 14 Nov): $4.875M = ₹45.95-45.97 crore, about ₹46 crore; idly's own sums": [
+   "https://api.frankfurter.app/latest?from=USD&to=INR",
+   "https://open.er-api.com/v6/latest/USD"
+  ]
+ },
+ "image": {
+  "page": "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+  "url": "https://thewaltdisneycompany.com/app/uploads/2026/11/75466_Front_01_01.png",
+  "licence": "Official LEGO product image of set 75466 published on The Walt Disney Company's own 50th-anniversary announcement page; editorial use, credited 'Image: LEGO / Lucasfilm'",
+  "author": "LEGO / Lucasfilm (published by The Walt Disney Company)",
+  "size": "4256x4550 (RGBA, transparent background)",
+  "viewed": true,
+  "faces": 0,
+  "subject": "LEGO Star Wars 75466 Darth Vader 2-in-1 Wall Art: a brick-built Darth Vader helmet in black, grey, white and red; no person, no minifigure, no text, no watermark",
+  "framing": {
+   "treatment": "transparent render placed on a plain black 2160x2700 (4:5) canvas: helmet 1340x1433 at x 410, y 367 (cover: 670 px wide, y 184-900); no blur, no box edge; pure black to all edges (reviewer G2+3 and G4 r2 approved)",
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.5,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   }
+  }
+ },
+ "tags": [
+  "starwars"
+ ],
+ "tags_evidence": "starwars: Lucasfilm's official Star Wars site https://www.starwars.com/ links https://www.instagram.com/starwars/ in its footer social icons (checked 14 Nov 2026). No @lego tag: lego.com returned 403, so the handle was not confirmed on LEGO's own site."
+}
