@@ -1,0 +1,57 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0757-denza-z9-gt",
+ "date": "14 Nov 2026",
+ "sources": [
+  "Denza India",
+  "Autocar India",
+  "MotorBeam",
+  "Rushlane"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Denza Z9 GT EV Lands in India: 1,156 PS, ₹1.57 Crore",
+   "photo": "_work/2026-11-14-hourly-0757/idlyautomotive/frame_banner/cover_source.png",
+   "photo_credit": "Image: Denza",
+   "focal": [
+    0.51,
+    0.62
+   ],
+   "zoom": 1.25
+  },
+  {
+   "type": "detail",
+   "stat": "₹2.28 CRORE",
+   "stat_label": "Porsche Cayenne Turbo Electric, the Z9 GT's Yardstick",
+   "bullets": [
+    "Denza says the Z9 GT matches its peak output",
+    "Porsche quotes that peak with Launch Control; it's an SUV",
+    "So the Z9 GT is about ₹70 lakh cheaper on paper"
+   ],
+   "credit_line": "Sources: Autocar India, MotorBeam, DriveSpark"
+  },
+  {
+   "type": "detail",
+   "stat": "2.7 SEC",
+   "stat_label": "Denza Z9 GT's Claimed 0-100 km/h Time",
+   "bullets": [
+    "Three motors and 1,210 Nm drive all four wheels",
+    "Claimed top speed: 270 km/h",
+    "122.49 kWh battery; 670 km claimed on the older NEDC cycle"
+   ],
+   "credit_line": "Sources: Denza India, Autocar India, MotorBeam"
+  },
+  {
+   "type": "detail",
+   "stat": "₹10 LAKH",
+   "stat_label": "Denza Z9 GT Booking Token, Open Since 13 Nov",
+   "bullets": [
+    "Sold only at Denza showrooms, separate from BYD's",
+    "Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai, Hyderabad",
+    "Warranty: 6 years/1.5 lakh km; powertrain, 8 years"
+   ],
+   "credit_line": "Sources: Autocar India, MotorBeam, Rushlane"
+  }
+ ]
+}

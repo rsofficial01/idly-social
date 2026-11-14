@@ -1,0 +1,152 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Denza (BYD Group's luxury brand) launches the Z9 GT electric shooting brake in India at ₹1.57 crore ex-showroom (13 Nov 2026; CBU; electric only): three motors, 850 kW (1,156 PS), 1,210 Nm, 0-100 km/h 2.7 s claimed, 270 km/h, 122.49 kWh, 670 km claimed (NEDC); Denza says peak output matches the Porsche Cayenne Turbo Electric (₹2.28 crore ex-showroom since 30 Sep 2026; 1,156 hp with Launch Control), about ₹70 lakh more; bookings ₹10 lakh at Denza-only showrooms in Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai, Hyderabad; warranty 6 yr/1.5 lakh km, electric powertrain 8 yr",
+ "sources": [
+  {
+   "outlet": "Denza India (Z9 GT product page and India brochure)",
+   "date": "2026-11-13",
+   "url": "https://www.denza.com/in/car/z9gt"
+  },
+  {
+   "outlet": "Autocar India (Uday Singh)",
+   "date": "2026-11-13",
+   "url": "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318"
+  },
+  {
+   "outlet": "MotorBeam",
+   "date": "2026-11-13",
+   "url": "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  },
+  {
+   "outlet": "Rushlane",
+   "date": "2026-11-13",
+   "url": "https://www.rushlane.com/byd-denza-z9-gt-india-launch-price-rs-1-57-cr-670-km-range-270-km-h-topspeed-12561013.html"
+  },
+  {
+   "outlet": "CarWale (Dwij Bhandut)",
+   "date": "2026-11-13",
+   "url": "https://www.carwale.com/news/india-spec-denza-z9-gt-unveiled/"
+  },
+  {
+   "outlet": "Autocar India (Porsche Cayenne Electric India debut)",
+   "date": "2026-09-30",
+   "url": "https://www.autocarindia.com/car-news/porsche-cayenne-electric-makes-india-debut-440872"
+  },
+  {
+   "outlet": "DriveSpark (Porsche Cayenne Electric launched)",
+   "date": "2026-09-30",
+   "url": "https://www.drivespark.com/four-wheelers/2026/porsche-cayenne-electric-launched-india-deliveries-start-088271.html"
+  },
+  {
+   "outlet": "Autocar Professional (Porsche Cayenne Electric launched)",
+   "date": "2026-09-30",
+   "url": "https://www.autocarpro.in/news/porsche-cayenne-electric-launched-in-india-at-rs-177-crore-134975"
+  }
+ ],
+ "fact_sources": {
+  "Launched in India 13 Nov 2026 at ₹1.57 crore ex-showroom": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "Denza is BYD Group's luxury brand": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "Five-seat shooting brake, fully imported (CBU), India gets only the all-electric version": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/",
+   "https://www.rushlane.com/byd-denza-z9-gt-india-launch-price-rs-1-57-cr-670-km-range-270-km-h-topspeed-12561013.html"
+  ],
+  "Three motors, 850 kW (1,156 PS) combined, all-wheel drive": [
+   "https://www.denza.com/in/car/z9gt (~850kW; brochure: front 230 kW + rear 310 kW x2)",
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318 (1,156 hp, three motors, all four wheels)",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "1,210 Nm": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "0-100 km/h 2.7 s claimed; 270 km/h top speed": [
+   "https://www.denza.com/in/car/z9gt",
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318"
+  ],
+  "122.49 kWh battery": [
+   "https://www.denza.com/in/car/z9gt",
+   "https://www.rushlane.com/byd-denza-z9-gt-india-launch-price-rs-1-57-cr-670-km-range-270-km-h-topspeed-12561013.html"
+  ],
+  "670 km claimed range on the NEDC cycle": [
+   "https://www.denza.com/material/__CN/denza-site/in/brochure/DENZA_Z9gt_Brochure%20(3).pdf",
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318"
+  ],
+  "Denza says the Z9 GT's peak power matches the Porsche Cayenne Turbo Electric": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "Cayenne Turbo Electric ₹2.28 crore ex-showroom before options since India launch 30 Sep 2026": [
+   "https://www.autocarindia.com/car-news/porsche-cayenne-electric-makes-india-debut-440872",
+   "https://www.drivespark.com/four-wheelers/2026/porsche-cayenne-electric-launched-india-deliveries-start-088271.html",
+   "https://www.autocarpro.in/news/porsche-cayenne-electric-launched-in-india-at-rs-177-crore-134975 (₹2,27,51,000)"
+  ],
+  "Cayenne Turbo Electric: 857 hp normally, 1,156 hp with Launch Control": [
+   "https://www.autocarindia.com/car-news/porsche-cayenne-electric-makes-india-debut-440872",
+   "https://www.drivespark.com/four-wheelers/2026/porsche-cayenne-electric-launched-india-deliveries-start-088271.html"
+  ],
+  "About ₹70 lakh gap (idly arithmetic: ₹2.28 crore - ₹1.57 crore; ₹70.51 lakh on ₹2,27,51,000)": [
+   "https://www.autocarpro.in/news/porsche-cayenne-electric-launched-in-india-at-rs-177-crore-134975",
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318"
+  ],
+  "Bookings open from launch day (13 Nov) with ₹10 lakh token": [
+   "https://www.carwale.com/news/india-spec-denza-z9-gt-unveiled/",
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ],
+  "Denza-only showrooms, separate from BYD, in Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai, Hyderabad": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/",
+   "https://www.rushlane.com/byd-denza-z9-gt-india-launch-price-rs-1-57-cr-670-km-range-270-km-h-topspeed-12561013.html"
+  ],
+  "Warranty 6 years/1.5 lakh km; electric powertrain 8 years": [
+   "https://www.autocarindia.com/car-news/denza-z9-gt-launched-at-rs-1-57-crore-441318",
+   "https://www.motorbeam.com/denza-z9-gt-launched-at-rs-1-57-crores-in-india-1156-hp-ev/"
+  ]
+ },
+ "image": {
+  "page": "https://www.denza.com/in/car/z9gt",
+  "url": "https://www.denza.com/material/__CN/denza-site/in/denzaz9gtproductimage/Product_page_banner_denza_z9gt_desktop.jpg",
+  "licence": "official Denza India product image (hero banner of the Z9 GT page on Denza's India website), editorial use, credited 'Image: Denza'",
+  "author": "Denza (BYD Group)",
+  "size": "1920x1080",
+  "viewed": true,
+  "faces": 0,
+  "subject": "The actual Denza Z9 GT (silver, DENZA Z9 GT front plate) driving under curved wooden canopies beside concrete walls; no people, no watermark, no burned-in text",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-14-hourly-0757/idlyautomotive/frame_banner/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.25,
+    "faces": 0,
+    "note": "enlarged and sharpened"
+   },
+   "used": {
+    "focal": [
+     0.51,
+     0.62
+    ],
+    "zoom": 1.25,
+    "why": "after the G4 fix the cover headline runs to 3 lines; a 1.25 crop (864 px wide) of the framed source keeps the car whole at about x 45-1035, y 500-915, clear of the logo and the headline (starts ~y 965). Reviewer: mildly softer but acceptable."
+   }
+  }
+ },
+ "tags": [
+  "denzaindia_official"
+ ],
+ "tags_evidence": "denzaindia_official: linked (https://www.instagram.com/denzaindia_official/) in the footer of Denza's official India site https://www.denza.com/in and printed in Denza's official Z9 GT India brochure (checked 14 Nov 2026)."
+}
