@@ -1,0 +1,148 @@
+{
+ "account": "idlytech",
+ "story_id": 2415,
+ "idly_article": false,
+ "format": "news",
+ "title": "NASA's Voyager 1 reaches one light-day (about 25.9 billion km) from Earth on Wed 18 Nov 2026 at 10:16 UTC = 3:46 PM IST (NASA Voyager 1 page countdown); signals take 24 hours each way, about 48 hours for a command and reply; launched 5 Sep 1977, the most distant human-made object, still sending science data while NASA switches instruments off to save power; NASA's Shine Bright for Voyager's Light-Day: after sunset on Tue 17 Nov, flash VGR (Voyager's call sign) in Morse code (V ...-, G --., R .-.; dots under a second, dashes about a second; repeat about a minute), or use NASA's flasher at go.nasa.gov/vgr.",
+ "headline": "Voyager 1 Reaches One Light-Day Away Wednesday, 3:46 PM IST",
+ "sources": [
+  {
+   "outlet": "NASA: Voyager 1 mission page (countdown 'NOV 18, 2026, 5:16AM EST', data-target-utc 2026-11-18T10:16:00Z; launch Sept. 5, 1977; most distant human-made object)",
+   "date": "2026-11-15",
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/"
+  },
+  {
+   "outlet": "NASA news release: NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities (Wed 18 Nov; 25.9 billion km; 24 h; Shine Bright Tue 17 Nov after sunset; VGR call sign)",
+   "date": "2026-11-10",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+  },
+  {
+   "outlet": "NASA Science: Shine Bright for Voyager's Light-Day (Morse pattern, dot/dash timing, repeat ~1 min, go.nasa.gov/vgr)",
+   "date": "2026-11-13",
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/shine-bright-for-voyagers-light-day/"
+  },
+  {
+   "outlet": "NASA SVS 15111: interview opportunity (launched Sept. 5, 1977; 24 hours each way; still sending data; farthest human-made object)",
+   "date": "2026-11-09",
+   "url": "https://svs.gsfc.nasa.gov/15111/"
+  },
+  {
+   "outlet": "NASA SVS 15120: Voyager 1 one light-day (November 18, 2026)",
+   "date": "2026-11-12",
+   "url": "https://svs.gsfc.nasa.gov/15120/"
+  },
+  {
+   "outlet": "NASA JPL release via ScienceDaily (25.89 billion km; 48-hour communication delay; instruments deactivated to save power)",
+   "date": "2026-11-03",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm"
+  },
+  {
+   "outlet": "EarthSky (NASA: 10:16:07 UTC on 18 Nov; 25.9 billion km; launched 5 Sep 1977; Shine Bright Tue 17 Nov after sunset; instruments turned off)",
+   "date": "2026-11-10",
+   "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+  },
+  {
+   "outlet": "Popular Science (5:16:07 am ET on 18 Nov; Shine Bright Tue 17 Nov; V-G-R Morse pattern; NASA phone flasher)",
+   "date": "2026-11",
+   "url": "https://www.popsci.com/science/voyager-1-nasa-shine-light-morse-code/"
+  },
+  {
+   "outlet": "idly.news API story 2415: NASA's Voyager 1 nears one light-day from Earth",
+   "date": "2026-11-14",
+   "url": "https://api.idly.news/api/v1/articles/2415/"
+  }
+ ],
+ "fact_sources": {
+  "Voyager 1 reaches one light-day from Earth on Wed 18 Nov 2026": [
+   "NASA news release",
+   "NASA SVS 15120",
+   "NASA JPL via ScienceDaily",
+   "EarthSky"
+  ],
+  "At 10:16 UTC = 3:46 PM IST (5:16 AM EST)": [
+   "NASA Voyager 1 page countdown",
+   "EarthSky (quoting NASA, 10:16:07 UTC)",
+   "Popular Science (5:16:07 am ET)"
+  ],
+  "One light-day is about 25.9 billion km": [
+   "NASA news release",
+   "EarthSky",
+   "NASA JPL via ScienceDaily (25.89 billion km)"
+  ],
+  "A signal takes 24 hours each way": [
+   "NASA news release",
+   "NASA SVS 15111",
+   "EarthSky"
+  ],
+  "Command and reply take about two days (48 hours)": [
+   "NASA JPL via ScienceDaily",
+   "NASA SVS 15111 (24 hours each way)"
+  ],
+  "Farthest/most distant human-made object": [
+   "NASA Voyager 1 page",
+   "NASA news release",
+   "NASA SVS 15111"
+  ],
+  "Launched 5 Sep 1977": [
+   "NASA SVS 15111",
+   "NASA Voyager 1 page",
+   "EarthSky"
+  ],
+  "Still sends science data": [
+   "NASA SVS 15111",
+   "idly 2415"
+  ],
+  "NASA has switched instruments off to save power": [
+   "NASA JPL via ScienceDaily",
+   "EarthSky"
+  ],
+  "Shine Bright: after sunset Tue 17 Nov, flash VGR (call sign) in Morse code": [
+   "NASA news release",
+   "NASA Science Shine Bright page",
+   "EarthSky",
+   "Popular Science"
+  ],
+  "Morse pattern V ...- G --. R .-.; dots under a second, dashes about one second; repeat about a minute": [
+   "NASA Science Shine Bright page",
+   "Popular Science"
+  ],
+  "NASA flasher at go.nasa.gov/vgr (redirects to science.nasa.gov/specials/apps/voyager-one-light-day/)": [
+   "NASA Science Shine Bright page",
+   "NASA news release (phone/tablet flasher)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg",
+  "licence": "Public domain",
+  "author": "NASA/JPL",
+  "viewed": true,
+  "notes": "Original 3017x2494 via dl.py (0 faces). Own 4:5 crop x25-1924, y120-2494 (1899x2374) to centre the spacecraft and keep it clear of the logo band and the headline block; pipeline.framing: focal [0.5,0.5], zoom 1.0, upscale 0.57 (downscale), faces 0."
+ },
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Voyager_spacecraft.jpg",
+  "licence": "Public domain (NASA/JPL work)",
+  "author": "NASA/JPL",
+  "credit": "Image: NASA/JPL (artist's concept) / Wikimedia Commons, public domain",
+  "size": "3017x2494",
+  "viewed": true,
+  "faces": 0,
+  "subject": "NASA/JPL artist's concept of the Voyager spacecraft (Voyager 1 and 2 are identical twins)",
+  "framing": {
+   "photo": "_work/2026-11-15-hourly-0757/idlytech/frame_3/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.57,
+   "pre_crop": "x25-1924, y120-2494 of the original (ok/voyager_crop45b.jpg)"
+  },
+  "card_credit": "Image: NASA/JPL / Wikimedia Commons, public domain (cover, shortened to fit; caption keeps the long form)"
+ },
+ "tag": [
+  "nasa"
+ ],
+ "tag_evidence": "Cover is a NASA/JPL image. nasa.gov's own header/footer links to https://www.instagram.com/nasa/ (aria-label 'NASA on Instagram'), checked 15 Nov 2026 on https://www.nasa.gov/ and on the NASA Voyager news release page; NASA's SVS 15111 page also asks the public to tag @NASA.",
+ "alt_text": "NASA/JPL artist's concept of the Voyager spacecraft in deep space: a large white dish antenna on a gold-coloured body, with instrument booms and a long magnetometer boom reaching across a dark blue, star-filled sky. Headline: Voyager 1 Reaches One Light-Day Away Wednesday, 3:46 PM IST. Further slides: a signal now takes 24 hours each way, so a command and reply take two days; Voyager 1 is 25.9 billion km away and was launched on 5 Sep 1977; and NASA's call on 17 Nov to flash Voyager's call sign, VGR, in Morse code after sunset."
+}

@@ -1,0 +1,46 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-voyager-one-light-day",
+ "date": "15 Nov 2026",
+ "sources": [
+  "NASA",
+  "NASA JPL",
+  "EarthSky",
+  "Popular Science"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Voyager 1 Reaches One Light-Day Away Wednesday, 3:46 PM IST",
+   "photo": "_work/2026-11-15-hourly-0757/idlytech/frame_3/cover_source.png",
+   "photo_credit": "Image: NASA/JPL / Wikimedia Commons, public domain",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "24 HOURS",
+   "stat_label": "Radio Signal Time, Earth To Voyager 1",
+   "bullets": [
+    "A command and its reply now take two days",
+    "25.9 billion km away, farther than any spacecraft ever",
+    "Launched 5 Sep 1977 and still sends science data"
+   ],
+   "credit_line": "Sources: NASA, NASA JPL, EarthSky"
+  },
+  {
+   "type": "detail",
+   "stat": "17 NOV",
+   "stat_label": "NASA: Flash Voyager's Call Sign VGR After Sunset",
+   "bullets": [
+    "Torch or phone: V • • • — G — — • R • — •",
+    "Dots under a second, dashes about one second",
+    "No torch? NASA's flasher page: go.nasa.gov/vgr"
+   ],
+   "credit_line": "Sources: NASA, EarthSky, Popular Science"
+  }
+ ]
+}
