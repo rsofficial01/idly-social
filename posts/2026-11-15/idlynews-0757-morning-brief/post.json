@@ -1,0 +1,71 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "15 Nov 2026",
+ "sources": [
+  "IMD",
+  "The Hindu",
+  "Hindustan Times",
+  "The Indian Express",
+  "The Week",
+  "NDTV",
+  "BBC"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IMD: Severe Cyclonic Storm Likely in Bay by 18 Nov",
+   "photo": "_work/2026-11-15-hourly-0757/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: NASA Worldview (NOAA-21 VIIRS)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "20-22 NOV",
+   "stat_label": "Pakistan Minister Coming to Delhi for SCO Forum",
+   "bullets": [
+    "First Pakistani minister in India since May 2023",
+    "Ties worsened after the 2025 Pahalgam attack",
+    "India had invited Pakistan's culture minister"
+   ],
+   "credit_line": "Sources: The Hindu, The Indian Express, Hindustan Times"
+  },
+  {
+   "type": "detail",
+   "stat": "16-17 NOV",
+   "stat_label": "Modi Expected to Meet Trump in Manila",
+   "bullets": [
+    "Jaishankar: trade deal near the 'finishing line'",
+    "Says the bulk of the issues are sorted",
+    "Remaining concerns 'not so much at our end'"
+   ],
+   "credit_line": "Sources: Hindustan Times, The Indian Express, The Hindu"
+  },
+  {
+   "type": "detail",
+   "stat": "1 WKT",
+   "stat_label": "India Beat Pakistan to Win U19 Asia Cup",
+   "bullets": [
+    "Mohit Ulva hit a last-ball four, chasing 338",
+    "India's ninth Under-19 Asia Cup title",
+    "Pakistan had beaten India in last year's final"
+   ],
+   "credit_line": "Sources: The Hindu, Hindustan Times, The Indian Express, NDTV"
+  },
+  {
+   "type": "detail",
+   "stat": "14 NOV",
+   "stat_label": "US Floated Donbas-for-NATO Idea, Zelensky Says",
+   "bullets": [
+    "Zelensky: the first time the US raised it",
+    "Any concrete offer would go to a referendum",
+    "The US has not confirmed Zelensky's account"
+   ],
+   "credit_line": "Sources: BBC, The Hindu"
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Sun 15 Nov 2026: IMD says the southeast Bay of Bengal low became a well-marked low on 14 Nov and is likely to become a depression within 24 h, a cyclonic storm around 16 Nov evening and a severe cyclonic storm by 18 Nov; no landfall named, IMD Amaravati says most models point to the AP coast; very heavy rain coastal AP 19 Nov, Odisha 19-20 Nov, squalls gusting to 70 km/h; fishermen to return by 15 Nov; would be the third cyclonic storm after Arnab and Murasu (lead); Pakistan nominates Climate Change Minister Musadik Masood Malik for the SCO Civilisational Dialogue in New Delhi, 20-22 Nov, first Pakistani minister in India since May 2023; Jaishankar (HTLS, 14 Nov) says India-US trade deal 'almost at the finishing line', bulk of issues sorted, remaining concerns 'not so much at our end', no timeframe; Modi expected to meet Trump in Manila around the 16-17 Nov ASEAN summits (IE; Quad summit 17 Nov per sources, The Hindu); India U19 beat Pakistan by one wicket (last-ball four by Mohit Ulva, chasing 338) for a ninth U19 Asia Cup title, Al Amerat, Oman, 14 Nov; Zelensky says US negotiators raised Ukraine leaving Donbas in exchange for NATO membership, first time raised, would put a concrete offer to a referendum, US has not confirmed",
+ "headline": "IMD: Severe Cyclonic Storm Likely in Bay by 18 Nov",
+ "sources": [
+  {
+   "outlet": "IMD (RSMC New Delhi, Tropical Weather Outlook)",
+   "date": "2026-11-14",
+   "url": "https://mausam.imd.gov.in/backend/assets/cyclone_pdf/Tropical_Weather_Outlook_based_on_0300_UTC_of_14_11_2026.pdf"
+  },
+  {
+   "outlet": "IMD (All India Weather Bulletin, 20:29 IST)",
+   "date": "2026-11-14",
+   "url": "https://mausam.imd.gov.in/backend/assets/aiwfb_pdf/7e0060dcc34380bdb39ffb02ed6ff4ac.pdf"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece"
+  },
+  {
+   "outlet": "The Week",
+   "date": "2026-11-14",
+   "url": "https://theweek.in/news/india/2026/11/14/cyclone-akvan-to-make-landfall-in-andhra-pradesh-depression-over-the-bay-of-bengal-to-turn-into-cyclonic-storm.html"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-14",
+   "url": "https://www.hindustantimes.com/india-news/cyclonic-storm-likely-over-bay-of-bengal-by-november-16-odisha-on-alert-as-imd-warns-of-heavy-rain-akvan-101794640137089.html"
+  },
+  {
+   "outlet": "Telangana Today",
+   "date": "2026-11-14",
+   "url": "https://telanganatoday.com/imd-warns-of-possible-cyclonic-storm-over-bay-of-bengal-around-november-16"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece"
+  },
+  {
+   "outlet": "The Indian Express",
+   "date": "2026-11-14",
+   "url": "https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-14",
+   "url": "https://www.hindustantimes.com/india-news/pakistan-minister-musadik-masood-malik-likely-to-visit-india-delhi-between-november-20-22-for-sco-dialogue-101794657179424.html"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-14",
+   "url": "https://www.hindustantimes.com/india-news/indiaus-trade-deal-talks-almost-at-the-finishing-line-says-jaishankar-at-htls-101794647973394.html"
+  },
+  {
+   "outlet": "The Indian Express",
+   "date": "2026-11-15",
+   "url": "https://indianexpress.com/article/india/india-us-trade-deal-issues-sorted-jaishankar-donald-trump-tariff-china-10963432/"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/sport/cricket/u19-asia-cup-final-india-vs-pakistan-usman-khan-nov-14-2026/article71701378.ece"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "2026-11-14",
+   "url": "https://www.hindustantimes.com/cricket/ulva-stuns-pakistan-and-takes-india-to-9th-u-19-asia-cup-win-101794673265186.html"
+  },
+  {
+   "outlet": "The Indian Express",
+   "date": "2026-11-14",
+   "url": "https://indianexpress.com/article/sports/cricket/india-defeat-pakistan-1-wicket-u19-asia-cup-title-10963098/"
+  },
+  {
+   "outlet": "NDTV Sports",
+   "date": "2026-11-14",
+   "url": "https://sports.ndtv.com/cricket/with-india-needing-3-off-final-ball-mohit-ulva-slams-four-to-beat-pakistan-in-u19-asia-cup-final-watch-12327071"
+  },
+  {
+   "outlet": "BBC",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/news/international/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky/article71701653.ece"
+  }
+ ],
+ "fact_sources": {
+  "Low over SE Bay became a well-marked low (14 Nov); depression within 24 h (by 15 Nov); cyclonic storm around 16 Nov evening; severe cyclonic storm by 18 Nov": [
+   "IMD Tropical Weather Outlook 14 Nov (forecast table: SCS 18.11.26/0000 UTC)",
+   "The Hindu (IMD Amaravati: SCS by 18 Nov)",
+   "The Week (SCS by 18 Nov)",
+   "IMD All India Bulletin 14 Nov night (WML, depression in 24 h, CS 16 Nov evening)"
+  ],
+  "IMD has not named a landfall area; IMD Amaravati: most models point to (north coastal) Andhra Pradesh": [
+   "The Hindu (IMD Amaravati director K. Naga Ratnam)",
+   "The Week (early models point to AP; no official announcement)"
+  ],
+  "Very heavy rain coastal AP 19 Nov, Odisha 19-20 Nov, with thundersqualls": [
+   "IMD All India Bulletin 14 Nov 20:29 IST (very heavy + thundersquall)",
+   "Hindustan Times (heavy rain Odisha and coastal AP 18-19 Nov)",
+   "The Week (heavy rain Ganjam, Gajapati, Puri, Rayagada 19 Nov; squalls)"
+  ],
+  "Fishermen told to return to shore by 15 Nov": [
+   "The Hindu (APSDMA)",
+   "Telangana Today (IMD advisory)"
+  ],
+  "Would be the third cyclonic storm after Arnab and Murasu, both of which hit the Andhra Pradesh coast": [
+   "The Hindu (Arnab near Narsapur, Murasu near Ongole)",
+   "The Week (third cyclone after Arnab and Murasu)",
+   "Hindustan Times (follows Cyclones Arnab and Murasu)"
+  ],
+  "Pakistan nominates Climate Change Minister Musadik Masood Malik for the SCO Civilisational Dialogue, New Delhi, 20-22 Nov (Foreign Ministry, Sat 14 Nov)": [
+   "The Hindu",
+   "The Indian Express",
+   "Hindustan Times"
+  ],
+  "First Pakistani minister to visit India since May 2023 (Bilawal Bhutto Zardari, SCO FMs, Goa)": [
+   "The Hindu",
+   "The Indian Express",
+   "Hindustan Times (first in more than three years)"
+  ],
+  "India-Pakistan ties worsened after the April 2025 Pahalgam attack": [
+   "Hindustan Times",
+   "The Hindu (hostilities after the Pahalgam attack)",
+   "The Indian Express (May 2025 hostilities)"
+  ],
+  "India had invited Pakistan's culture minister (Aurangzeb Khan Khichi)": [
+   "The Hindu",
+   "The Indian Express"
+  ],
+  "Jaishankar (HTLS, Sat 14 Nov): trade deal 'almost at the finishing line'; bulk of the issues sorted; remaining concerns 'not so much at our end'; no timeframe": [
+   "Hindustan Times",
+   "The Indian Express"
+  ],
+  "Modi expected to meet Trump in Manila around the 16-17 Nov ASEAN/EAS summits (Quad summit likely 17 Nov evening, sources)": [
+   "The Indian Express",
+   "The Hindu (sources)"
+  ],
+  "India U19 beat Pakistan U19 by one wicket, U19 Asia Cup final, Al Amerat, Oman, Sat 14 Nov; Pakistan 337/9, India chased 338 off the last ball": [
+   "The Hindu",
+   "The Indian Express",
+   "Hindustan Times"
+  ],
+  "India needed three off the final ball; Mohit Ulva hit a four": [
+   "NDTV Sports",
+   "Hindustan Times"
+  ],
+  "India's ninth U19 Asia Cup title": [
+   "Hindustan Times",
+   "NDTV Sports",
+   "The Hindu (record-extending ninth)"
+  ],
+  "Pakistan had beaten India in last year's final": [
+   "The Hindu (by 151 runs)",
+   "The Indian Express"
+  ],
+  "Zelensky (remarks released Sat 14 Nov): US raised Ukraine withdrawing from Donbas if it joined NATO, 'the first time this had been raised'; would put a concrete offer with security guarantees to a referendum": [
+   "BBC",
+   "The Hindu"
+  ],
+  "The US has not confirmed Zelensky's account": [
+   "BBC (US official: 'many ideas continue to be discussed')",
+   "The Hindu (no US confirmation reported)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://worldview.earthdata.nasa.gov/?v=78.8,-7,98,17&l=VIIRS_NOAA21_CorrectedReflectance_TrueColor&t=2026-11-14",
+  "licence": "NASA/NOAA satellite imagery via NASA Worldview (EOSDIS GIBS), US government work, public domain",
+  "author": "NASA Worldview / NOAA-21 VIIRS",
+  "viewed": true
+ },
+ "image": {
+  "source_page": "https://worldview.earthdata.nasa.gov/?v=78.8,-7,98,17&l=VIIRS_NOAA21_CorrectedReflectance_TrueColor&t=2026-11-14",
+  "image_url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-14&BBOX=-7,78.8,17,98&CRS=EPSG:4326&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1600&HEIGHT=2000",
+  "licence": "US government work (NASA/NOAA), public domain; credited 'Image: NASA Worldview (NOAA-21 VIIRS)'",
+  "author": "NASA Worldview / NOAA-21 VIIRS",
+  "credit": "Image: NASA Worldview (NOAA-21 VIIRS)",
+  "size": "1600x2000 source; 14 px trimmed off the left edge (swath-edge hairline) -> 1586x2000",
+  "viewed": true,
+  "faces": 0,
+  "subject": "NOAA-21 VIIRS true-colour image of the Bay of Bengal on 14 Nov 2026 (lat -7 to 17 N, lon 78.8 to 98 E): the developing system's cloud mass over the southern Bay; India's east coast top-left, Andaman Islands and Myanmar top/right, Sumatra right; no text, overlays, watermark or people",
+  "local_file": "_work/2026-11-15-hourly-0757/idlynews/ok/bay_n21_1114_c_l14.jpg",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-15-hourly-0757/idlynews/frame_1/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.68,
+    "faces": 0,
+    "note": ""
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   }
+  }
+ },
+ "tag": [],
+ "tag_evidence": null,
+ "alt_text": "NASA Worldview satellite image (NOAA-21 VIIRS, 14 November 2026) of the Bay of Bengal with the developing system's cloud mass; headline: IMD: Severe Cyclonic Storm Likely in Bay by 18 Nov."
+}
