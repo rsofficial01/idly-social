@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-andhra-odisha-cyclone-watch",
+ "date": "15 Nov 2026",
+ "sources": [
+  "IMD",
+  "The Hindu",
+  "Sambad English",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Andhra, South Odisha on Pre-Cyclone Watch; IMD Forecasts 145 KMPH Gusts",
+   "photo": "_work/2026-11-15-hourly-1657/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: NASA Worldview (NOAA-20 VIIRS)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "18 NOV",
+   "stat_label": "Very Severe Cyclonic Storm Forecast at Sea",
+   "bullets": [
+    "Cyclonic storm by 16 Nov, severe by 17 Nov",
+    "Track turns northwest towards Andhra Pradesh coast",
+    "No landfall point named yet; IMD says models diverge"
+   ],
+   "credit_line": "Sources: IMD, The Hindu, Sambad English, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "21 CM+",
+   "stat_label": "Extremely Heavy Rain Forecast for North Coastal Andhra",
+   "bullets": [
+    "Expected at isolated places on 19-20 Nov",
+    "North TN, Puducherry: heavy to very heavy, 18-19 Nov",
+    "Odisha: heavy to very heavy rain, 19-21 Nov"
+   ],
+   "credit_line": "Source: IMD National Bulletin No. 3, 15 Nov, 3 pm"
+  },
+  {
+   "type": "detail",
+   "stat": "1 OF 4",
+   "stat_label": "Pre-Cyclone Watch Is IMD's First Warning Stage",
+   "bullets": [
+    "Watch is issued 72 hours ahead of adverse weather",
+    "Cyclone alert follows at least 48 hours ahead",
+    "Cyclone warning, at least 24 hours ahead, names landfall"
+   ],
+   "credit_line": "Source: IMD four-stage cyclone warning system"
+  }
+ ]
+}

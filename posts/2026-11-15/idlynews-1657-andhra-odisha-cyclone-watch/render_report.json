@@ -1,0 +1,80 @@
+[
+ {
+  "size": 78,
+  "lines": 3,
+  "overflow": false,
+  "top": 1016,
+  "credit_line": "Image: NASA Worldview (NOAA-20 VIIRS)",
+  "slug": "idlynews-1657-andhra-odisha-cyclone-watch",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-15/idlynews-1657-andhra-odisha-cyclone-watch/01.jpg",
+  "scale": 0.5
+ },
+ {
+  "stat": 260,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: IMD, The Hindu, Sambad English, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-andhra-odisha-cyclone-watch",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-15/idlynews-1657-andhra-odisha-cyclone-watch/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Source: IMD National Bulletin No. 3, 15 Nov, 3 pm",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-andhra-odisha-cyclone-watch",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-15/idlynews-1657-andhra-odisha-cyclone-watch/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Source: IMD four-stage cyclone warning system",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-andhra-odisha-cyclone-watch",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-15/idlynews-1657-andhra-odisha-cyclone-watch/04.jpg",
+  "scale": null
+ }
+]

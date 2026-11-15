@@ -1,0 +1,178 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "IMD National Bulletin No. 3 (BOB/10/2026, 15:00 IST 15 Nov 2026) puts Andhra Pradesh and adjoining south Odisha coasts on a pre-cyclone watch (first of IMD's four warning stages); depression over SE Bay of Bengal forecast to become a cyclonic storm 16 Nov, severe cyclonic storm 17 Nov, then move northwest towards the Andhra Pradesh coast; very severe cyclonic storm over the sea by 18-19 Nov, 120-130 km/h gusting to 145 km/h at 11:30 IST 19 Nov (16.2N/84.7E); no landfall point named, RSMC says models diverge; isolated extremely heavy rain (>=21 cm) north coastal Andhra 19-20 Nov, heavy to very heavy north TN/Puducherry 18-19 Nov, Odisha 19-21 Nov; fishermen to return by 15 Nov. Next name on the list: Akvan, after Arnab and Murasu.",
+ "headline": "Andhra, South Odisha on Pre-Cyclone Watch; IMD Forecasts 145 KMPH Gusts",
+ "sources": [
+  {
+   "outlet": "IMD National Bulletin No. 3 (BOB/10/2026), 15:00 IST",
+   "date": "2026-11-15",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/1/1_5f130f8177e958698fc1.pdf"
+  },
+  {
+   "outlet": "IMD RSMC New Delhi Tropical Weather Outlook, 0930 UTC",
+   "date": "2026-11-15",
+   "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/47/47_39d7a6ad722b74738417.pdf"
+  },
+  {
+   "outlet": "IMD RSMC Four Stage Warning",
+   "date": "2026-11-15",
+   "url": "https://rsmcnewdelhi.imd.gov.in/four-stage-warning.php"
+  },
+  {
+   "outlet": "IMD/WMO-ESCAP tropical cyclone names list",
+   "date": "2020",
+   "url": "https://rsmcnewdelhi.imd.gov.in/images/pdf/tc-names.pdf"
+  },
+  {
+   "outlet": "Sambad English (pre-cyclone watch)",
+   "date": "2026-11-15",
+   "url": "https://sambadenglish.com/latest-news/imd-issues-pre-cyclone-watch-for-andhra-pradesh-and-adjoining-south-odisha-coast-12810842"
+  },
+  {
+   "outlet": "Sambad English (VSCS, 145 kmph)",
+   "date": "2026-11-15",
+   "url": "https://sambadenglish.com/latest-news/forecasted-cyclone-akvan-likely-to-become-very-severe-on-nov-19-with-145-max-wind-speed-over-sea-12810935"
+  },
+  {
+   "outlet": "The Hindu",
+   "date": "2026-11-15",
+   "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
+  },
+  {
+   "outlet": "The Hindu (Arnab, Murasu)",
+   "date": "2026-11-14",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece"
+  },
+  {
+   "outlet": "Business Today",
+   "date": "2026-11-15",
+   "url": "https://www.businesstoday.in/india/story/third-cyclone-in-three-weeks-imd-warns-of-severe-storm-by-nov-17-odisha-on-high-alert-567515-2026-11-15"
+  },
+  {
+   "outlet": "Telangana Today (IANS)",
+   "date": "2026-11-15",
+   "url": "https://telanganatoday.com/andhra-pradesh-coast-braces-for-another-severe-cyclone-on-november-17-warns-imd"
+  }
+ ],
+ "fact_sources": {
+  "Pre-cyclone watch for Andhra Pradesh and adjoining south Odisha coasts": [
+   "IMD National Bulletin No. 3",
+   "Sambad English"
+  ],
+  "Cyclonic storm 16 Nov, severe cyclonic storm 17 Nov, then northwest towards Andhra Pradesh coast": [
+   "IMD National Bulletin No. 3",
+   "The Hindu",
+   "Business Today",
+   "Sambad English"
+  ],
+  "Very severe cyclonic storm by 19 Nov, 120-130 km/h gusting to 145 km/h (over the sea)": [
+   "IMD National Bulletin No. 3 (forecast table)",
+   "IMD RSMC TWO",
+   "Sambad English",
+   "The Statesman (headline)"
+  ],
+  "No landfall point named; models diverge": [
+   "IMD RSMC TWO",
+   "Business Today"
+  ],
+  "Extremely heavy rain >=21 cm isolated places north coastal Andhra 19-20 Nov": [
+   "IMD National Bulletin No. 3",
+   "The Hans India (isolated extremely heavy rain, north coastal districts; earlier dates)"
+  ],
+  "Heavy to very heavy rain north TN, Puducherry 18-19 Nov; Odisha 19-21 Nov": [
+   "IMD National Bulletin No. 3",
+   "The Hindu (rain north coastal TN)"
+  ],
+  "Fishermen at sea to return by 15 Nov": [
+   "IMD National Bulletin No. 3",
+   "The Hans India",
+   "Business Today"
+  ],
+  "Pre-cyclone watch is first of four stages; alert >=48 h, warning >=24 h names landfall point": [
+   "IMD RSMC Four Stage Warning page",
+   "Sambad/transclew (first of four stages)"
+  ],
+  "Next name Akvan after Arnab and Murasu": [
+   "IMD/WMO-ESCAP names list",
+   "Sambad English",
+   "The Hindu"
+  ],
+  "Arnab and Murasu both crossed the Andhra coast since late October": [
+   "The Hindu",
+   "Telangana Today (IANS)"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: public-domain satellite data rendered by NASA Worldview (EOSDIS GIBS); no brand/studio image owner.",
+ "photo_source": {
+  "page": "https://worldview.earthdata.nasa.gov/?v=74.6,0.3,90.6,20.3&l=VIIRS_NOAA20_CorrectedReflectance_TrueColor&t=2026-11-15",
+  "image_url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-15&BBOX=0.3,74.6,20.3,90.6&CRS=EPSG:4326&LAYERS=VIIRS_NOAA20_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=2160&HEIGHT=2700",
+  "licence": "NASA/NOAA satellite imagery via NASA Worldview (EOSDIS GIBS), US government work, public domain",
+  "author": "NASA Worldview / NOAA-20 VIIRS",
+  "credit": "Image: NASA Worldview (NOAA-20 VIIRS)",
+  "viewed": true,
+  "width": 2160,
+  "height": 2700,
+  "dl": "OK 2160x2700 _work/2026-11-15-hourly-1657/idlynews/wv_noaa20_b.jpg (0 faces)",
+  "framing": {
+   "photo": "_work/2026-11-15-hourly-1657/idlynews/frame_1/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.5,
+   "faces": 0
+  }
+ },
+ "alt_text": "A NASA satellite image from 15 November 2026 showing a large white cloud mass swirling over the Bay of Bengal beside India's east coast, with the headline \"Andhra, South Odisha on Pre-Cyclone Watch; IMD Forecasts 145 KMPH Gusts\" and detail slides on the forecast track, the rain warnings by state and IMD's four warning stages.",
+ "candidates": [
+  {
+   "title": "IMD pre-cyclone watch for Andhra Pradesh and adjoining south Odisha coasts; VSCS 145 km/h gusts forecast over the sea",
+   "gate1": "BUILD (ceiling 13), built"
+  },
+  {
+   "title": "EC tells SC: voters left off SIR draft rolls can reapply via Form 6 without prosecution",
+   "gate1": "HOLD (no number; SC building a weak cover)"
+  },
+  {
+   "title": "Centre orders sealing of 191 polluting Delhi-NCR units (Bhupender Yadav review, 14 Nov)",
+   "gate1": "HOLD (a day old; Delhi smog image a stand-in, not the units)"
+  }
+ ],
+ "skipped": [
+  {
+   "story_id": 2477,
+   "title": "Prince William and Kate to visit India for Earthshot Prize awards",
+   "reason": "Kensington Palace has not confirmed, no date; copy leans on Kate's illness; people story with no place image"
+  },
+  {
+   "story_id": 2465,
+   "title": "TN CM Vijay expected at Sonia Gandhi book launch",
+   "reason": "attendance unconfirmed by anyone; event 16 Nov"
+  },
+  {
+   "story_id": null,
+   "title": "Modi-Trump meeting in Manila 16-17 Nov; Pakistan minister to SCO dialogue 20-22 Nov",
+   "reason": "both already detail slides in today's 08:21 Morning Brief; nothing new"
+  },
+  {
+   "story_id": 2448,
+   "title": "Delhi AQI very poor",
+   "reason": "Delhi AQI posted 13 Nov"
+  }
+ ],
+ "gates": {
+  "1": "114108-idlynews-g1: BUILD A (ceiling 13)",
+  "23": "114722-idlynews-g23: FIX (slide 2 date 18 Nov VSCS, 72 h line on slide 4, Akvan sentence 'if'); 114854-idlynews-g23: PASS",
+  "4": "114909-idlynews-g4: PASS 13"
+ },
+ "score": {
+  "self": 13,
+  "reviewer": 13,
+  "post_min": 13
+ }
+}
