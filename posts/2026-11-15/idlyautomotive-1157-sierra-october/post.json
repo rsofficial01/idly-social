@@ -1,0 +1,44 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1157-sierra-october",
+ "date": "15 Nov 2026",
+ "sources": [
+  "Rushlane",
+  "GaadiWaadi"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "7,205 Sierras Shipped in October: More Than Harrier, Safari Combined",
+   "photo": "_work/2026-11-15-hourly-1157/idlyautomotive/frame_sierra_crop2/cover_source.png",
+   "photo_credit": "Image: Tata Group",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "88%",
+   "stat_label": "Tata's October Growth From the Sierra and Aeris",
+   "bullets": [
+    "Sierra plus Aeris: 11,210 of 12,760 extra cars",
+    "Harrier, Safari, Altroz, Tiago all shipped fewer",
+    "Curvv the exception: up 66% to 2,377"
+   ],
+   "credit_line": "Sources: Rushlane, GaadiWaadi (dispatches, Oct 2026 vs Oct 2025)"
+  },
+  {
+   "type": "detail",
+   "stat": "1,441",
+   "stat_label": "Nexon's Lead Over the Punch in October",
+   "bullets": [
+    "Nexon 21,966, down 1% on October 2025",
+    "Punch 20,525: up 3,715, most of any older Tata",
+    "Nexon's lead widened from 123 in September"
+   ],
+   "credit_line": "Sources: Rushlane, GaadiWaadi (dispatches, Oct 2026)"
+  }
+ ]
+}

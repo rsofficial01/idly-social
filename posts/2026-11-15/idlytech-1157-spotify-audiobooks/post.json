@@ -1,0 +1,46 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1157-spotify-audiobooks",
+ "date": "15 Nov 2026",
+ "sources": [
+  "Spotify",
+  "Deccan Chronicle",
+  "Business Upturn",
+  "Gadgets 360"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Spotify Audiobooks+ in India: 15 Hours for ₹199 a Month",
+   "photo": "_work/2026-11-15-hourly-1157/idlytech/frame_1/cover_source.png",
+   "photo_credit": "Image: Spotify",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "7 LANGUAGES",
+   "stat_label": "About 7,000 Spotify Audiobooks in Indian Languages",
+   "bullets": [
+    "Hindi, Tamil, Bengali, Marathi, Telugu, Kannada and Malayalam",
+    "Ponniyin Selvan, Godaan and Kabuliwala are among launch titles",
+    "Plus over 3.5 lakh English titles to choose from"
+   ],
+   "credit_line": "Sources: Deccan Chronicle, Business Upturn, Gadgets 360"
+  },
+  {
+   "type": "detail",
+   "stat": "1 MONTH",
+   "stat_label": "Spotify Audiobooks+ Free Trial, Then the Fine Print",
+   "bullets": [
+    "Billed on top of Premium or a free plan",
+    "Unused hours expire monthly and don't roll over",
+    "2x speed won't stretch hours: time counts at 1x"
+   ],
+   "credit_line": "Sources: Spotify, Business Upturn"
+  }
+ ]
+}

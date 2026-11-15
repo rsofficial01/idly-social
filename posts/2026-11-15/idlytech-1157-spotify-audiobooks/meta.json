@@ -1,0 +1,147 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Spotify launches audiobooks in India (Thu 12 Nov 2026). Audiobooks+ add-on: ₹199 a month for 15 hours of listening after a one-month free trial for new subscribers; billed on top of a Premium plan, and free-plan users can add it too; unused hours expire each billing month; one-off top-ups and single-title purchases available; time is counted at normal playback speed. Catalogue at launch: 3.5 lakh+ English titles and about 7,000 audiobooks in Hindi, Tamil, Bengali, Marathi, Telugu, Kannada and Malayalam (launch titles include Ponniyin Selvan, Godaan, Kabuliwala). Page Match: scan a printed book's ISBN barcode to resume the audio from the same page. India is part of Spotify's audiobook expansion from 22 to 180+ markets (announced 7 Oct 2026).",
+ "headline": "Spotify Audiobooks+ in India: 15 Hours for ₹199 a Month",
+ "sources": [
+  {
+   "outlet": "Spotify India: Audiobooks on Spotify (₹199/month after trial, 15 hours, 1 month free, billed on top of Premium, add to free plan, top-ups, single titles; footer links instagram.com/spotify)",
+   "date": "2026-11-15 (checked)",
+   "url": "https://www.spotify.com/in-en/audiobooks/"
+  },
+  {
+   "outlet": "Spotify Support: Audiobooks+ (time counted at normal playback speed; unused time expires at next billing period; top-ups)",
+   "date": "2026-11-15 (checked)",
+   "url": "https://support.spotify.com/in-en/article/audiobooks-plus/"
+  },
+  {
+   "outlet": "Deccan Chronicle (press release: ₹199, 15 hours, Free and Premium users, 3.5 lakh+ English and ~7,000 Indian-language titles, 7 languages, Page Match, offline, sleep timer)",
+   "date": "2026-11-12",
+   "url": "https://www.deccanchronicle.com/technology/spotify-expands-audio-offering-beyond-music-and-podcasts-2003791"
+  },
+  {
+   "outlet": "Business Upturn (₹199, 15 hours, launched 12 Nov, separate from Premium, normal-speed counting, unused hours expire, Kabuliwala/Godaan/Ponniyin Selvan)",
+   "date": "2026-11-13",
+   "url": "https://businessupturn.com/technology/spotify-launches-audiobooks-in-india-at-rs-199-a-month/"
+  },
+  {
+   "outlet": "Gadgets 360 (launched Thursday; 3,50,000+ English and nearly 7,000 Indian-language titles; 15 hours a month plan) [read via its RSS feed; site blocks fetch]",
+   "date": "2026-11-13",
+   "url": "https://www.gadgets360.com/apps/news/spotify-audiobooks-india-launch-features-availability-plans-12322128"
+  },
+  {
+   "outlet": "Spotify newsroom: audiobooks global expansion, 22 to 180+ markets, India listed (also the cover image's source page)",
+   "date": "2026-10-07",
+   "url": "https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/"
+  },
+  {
+   "outlet": "StartupTalky (₹199, 15 hours, 350,000+ English, almost 7,000 Indian-language, 7 languages, Godaan/Ponniyin Selvan/Kabuliwala)",
+   "date": "2026-11-12",
+   "url": "https://startuptalky.com/news/spotify-expands-in-india-with-audiobook/"
+  },
+  {
+   "outlet": "IndianWeb2 (press release text: ₹199 for 15 hours, 3,50,000+ English, almost 7,000 Indian-language, 7 languages, launch titles)",
+   "date": "2026-11-12",
+   "url": "https://www.indianweb2.com/2026/11/spotify-opens-new-chapter-in-india-with.html"
+  }
+ ],
+ "fact_sources": {
+  "Launched in India on Thu 12 Nov 2026": [
+   "Deccan Chronicle 12 Nov",
+   "Business Upturn 13 Nov",
+   "Gadgets 360 13 Nov ('on Thursday')"
+  ],
+  "Audiobooks+ ₹199 a month for 15 hours": [
+   "Spotify India page",
+   "Deccan Chronicle",
+   "Business Upturn"
+  ],
+  "One-month free trial for new Audiobooks+ subscribers": [
+   "Spotify India page ('Try 1 month free today. ₹199/mo. after'; 'New Audiobooks+ subscribers only')"
+  ],
+  "Billed on top of Premium; free-plan users can add it": [
+   "Spotify India page",
+   "Deccan Chronicle (Free and Premium users)",
+   "Business Upturn"
+  ],
+  "Unused hours expire monthly": [
+   "Spotify India page",
+   "Spotify Support",
+   "Business Upturn"
+  ],
+  "Top-ups and single-title purchases": [
+   "Spotify India page",
+   "Deccan Chronicle",
+   "Business Upturn"
+  ],
+  "Time counted at normal playback speed (2x doesn't stretch hours)": [
+   "Spotify Support",
+   "Business Upturn"
+  ],
+  "3.5 lakh+ English titles": [
+   "Deccan Chronicle",
+   "Business Upturn",
+   "Gadgets 360"
+  ],
+  "About 7,000 Indian-language audiobooks": [
+   "Deccan Chronicle ('almost 7,000')",
+   "Business Upturn ('about 7,000')",
+   "Gadgets 360 ('nearly 7,000')"
+  ],
+  "7 languages: Hindi, Tamil, Bengali, Marathi, Telugu, Kannada, Malayalam": [
+   "Deccan Chronicle",
+   "Business Upturn"
+  ],
+  "Launch titles Ponniyin Selvan (Kalki), Godaan (Premchand), Kabuliwala (Tagore)": [
+   "Business Upturn 13 Nov",
+   "StartupTalky 12 Nov https://startuptalky.com/news/spotify-expands-in-india-with-audiobook/",
+   "IndianWeb2 12 Nov https://www.indianweb2.com/2026/11/spotify-opens-new-chapter-in-india-with.html"
+  ],
+  "Page Match: scan ISBN barcode, resume from that page": [
+   "Deccan Chronicle",
+   "Business Upturn",
+   "Spotify newsroom 7 Oct"
+  ]
+ },
+ "tags": [
+  "spotify"
+ ],
+ "tag_evidence": "Spotify India's own pages (https://www.spotify.com/in-en/audiobooks/ and https://www.spotify.com/in-en/premium/) link in the footer to https://instagram.com/spotify, checked 15 Nov 2026. The cover image is Spotify's own newsroom art.",
+ "photo_source": {
+  "page": "https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/",
+  "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2026/10/26_1007_AudioBooks-Reveal-FTR-Header-1.png",
+  "licence": "Official Spotify newsroom press image (company's own press art for the audiobooks expansion), credited 'Image: Spotify'",
+  "author": "Spotify",
+  "viewed": true,
+  "faces": 0,
+  "notes": "Original 1920x1080 via dl.py ('OK ... 1920x1080 0 faces'). Spotify mark on dark green with hand-drawn books, glasses, quill, speech bubbles. Own 4:5 crop x615-1306, y216-1080 (691x864) so the mark sits in the upper middle; pipeline.framing: focal [0.5,0.5], zoom 1.0, upscale 1.56 (enlarged and sharpened), 0 faces. No people. Brand key art (not a phone UI shot): Spotify's only audiobook UI press image (AB-Product-update, Apr 2026) was quarantined by the face check; the India page's images are third-party book covers."
+ },
+ "alt_text": "Spotify's official audiobooks artwork: the blue Spotify logo on a dark green background, surrounded by hand-drawn yellow books, a flower and speech bubbles. Headline: Spotify Audiobooks+ in India: 15 Hours for ₹199 a Month.",
+ "candidates": [
+  {
+   "title": "Spotify audiobooks launch in India, Audiobooks+ ₹199/month for 15 hours",
+   "gate1": "BUILD, ceiling 13 (121835-idlytech-G1)"
+  },
+  {
+   "title": "Google November Pixel Drop: Gemini multi-step tasks now in India on Pixel 10 (idly #2450)",
+   "gate1": "DROP: 5 days old, no cover number, weak image, Google heavy this week"
+  },
+  {
+   "title": "Lava smartphones up to ₹3,000 costlier from 15 Nov",
+   "gate1": "DROP: announced 31 Oct, no model-wise prices, weak keep"
+  }
+ ],
+ "skipped": {
+  "Starship (#2460/#2434)": "no free-licence or official-press photo of this vehicle (Commons has only a CC BY-SA timeline graphic for Flight 15; SpaceX Flickr is CC BY-NC)",
+  "Microsoft outage (#2349/#2350/#2400)": "already covered (13-14 Nov)"
+ },
+ "gates": {
+  "G1": "121835-idlytech-G1 BUILD C1 (ceiling 13)",
+  "G23": "122152-idlytech-G23 PASS with slide-3 wording fix (applied)",
+  "G4": "122300-idlytech-G4 PASS 13/14",
+  "reviewer_score_file": "_work/2026-11-15-hourly-1157/gates/scores/idlytech-idlytech-1157-spotify-audiobooks.json",
+  "post_score": "13/14 (per-check min of desk and reviewer)"
+ }
+}

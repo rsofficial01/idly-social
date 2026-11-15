@@ -1,0 +1,54 @@
+{
+ "account": "idlyautomotive",
+ "story_id": 2444,
+ "idly_article": true,
+ "format": "news",
+ "title": "Tata Motors October 2026 model-wise dispatches (Rushlane 14 Nov, GaadiWaadi 15 Nov): new Sierra 7,205, more than Harrier 3,895 (-13% from 4,483) and Safari 2,287 (-9% from 2,510) combined (6,182); total 73,894, +12,760 (+21%) from 61,134; Sierra + Aeris (4,005) = 11,210 of the 12,760 gain (Rushlane: nearly 88%); Nexon 21,966 (-1% from 22,083) leads Punch 20,525 (+22% from 16,810; +3,715, the biggest gain among models on sale in Oct 2025) by 1,441, up from 123 in September (Nexon 20,456, Punch 20,333); Tiago 8,043 (-9%), Altroz 3,257 (-14%) down; Curvv 2,377 (+66% from 1,432); Tigor 334 (-72%). Dispatches to dealers, not registrations.",
+ "headline": "7,205 Sierras Shipped in October: More Than Harrier, Safari Combined",
+ "sources": [
+  {
+   "outlet": "Rushlane (Pearl Daniels)",
+   "date": "2026-11-14",
+   "url": "https://www.rushlane.com/tata-car-sales-breakup-oct-2026-nexon-punch-tiago-sierra-aeris-12561137.html"
+  },
+  {
+   "outlet": "GaadiWaadi (Team GaadiWaadi)",
+   "date": "2026-11-15",
+   "url": "https://gaadiwaadi.com/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-harrier/"
+  },
+  {
+   "outlet": "idly.news article 2444",
+   "date": "2026-11-15",
+   "url": "https://api.idly.news/api/v1/articles/2444/"
+  }
+ ],
+ "tags": [],
+ "tags_evidence": "No tag (Gate 1 ruling): the cover image is published on the Tata group newsroom (tata.com, (c) Tata Sons), whose page links only instagram.com/tatacompanies; the Tata Motors passenger-vehicle handle could not be confirmed on the image's own page (cars.tatamotors.com fails TLS / 503 from here).",
+ "photo_source": {
+  "page": "https://www.tata.com/newsroom/business/tata-sierra-launch ('Escape the Mediocre', Tata group newsroom, November 2025; subtitle 'Tata Motors launches the all-new Sierra. The Legend Returns.')",
+  "url": "https://www.tata.com/content/dam/tata/images/newsroom/business/desktop/design-sierra_slideshow1_desktop_1920x1080.jpg",
+  "licence": "Official Tata group newsroom press image of the Tata Sierra (page footer: (c) 2019-2027 Tata Sons Private Limited); used credited for editorial news, as with other maker press images",
+  "author": "Tata Group",
+  "credit": "Image: Tata Group",
+  "subject": "Yellow new-generation Tata Sierra, whole, head-on on a dirt track in dry grassland, hills and an acacia tree behind; no people; (giraffes in the right of the original are cropped out)",
+  "width": 1920,
+  "height": 1080,
+  "faces": 0,
+  "viewed": true,
+  "processing": "dl.py: OK 1920x1080 0 faces (saved _work/2026-11-15-hourly-1157/idlyautomotive/photos/tatacom-design-sierra_slideshow1.jpg, sha1 312753197b0303474b0447fdee2ba3e550cb40c8). Plain rectangular crop x 577-1265, y 220-1080 (688x860, exactly 4:5; saved as tatacom-design-sierra-crop2.jpg) to drop the giraffes at the right edge and lift and centre the car clear of the headline; no fill, blur, letterbox or recolour. pipeline.framing on the crop: ok true, focal 0.5,0.5, zoom 1.0, upscale 1.57 (enlarged and sharpened), 0 faces. Rendered: car whole at about y 240-970 and x 175-1000, idly logo over the hills, 3-line 88px headline from y 986."
+ },
+ "candidates": [
+  {
+   "title": "Tata October model split: Sierra 7,205 > Harrier + Safari; Sierra + Aeris 11,210 of 12,760 gain; Nexon leads Punch by 1,441 (idly 2444)",
+   "gate1": "BUILD (reviewer ceiling 13), 121736-idlyautomotive-G1"
+  },
+  {
+   "title": "Seven-seaters October 2026: Mahindra 43.4% of 1,07,960; Ertiga No. 1 at 20,641 (GaadiWaadi, AutoPunditz)",
+   "gate1": "DROP: Mahindra share is its usual level (44.6% in Sept), Scorpio repeat; ceiling ~11"
+  },
+  {
+   "title": "Kia second Anantapur plant MoU: 465 acres, 12,000 jobs, production early 2030 (idly 2459)",
+   "gate1": "DROP: repeat of the 12 Nov Kia post, weak keep, no image; ceiling under 12"
+  }
+ ]
+}
