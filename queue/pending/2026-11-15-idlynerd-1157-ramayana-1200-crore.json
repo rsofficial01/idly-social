@@ -1,0 +1,63 @@
+{
+  "account": "idlynerd",
+  "story_id": 2468,
+  "idly_article": true,
+  "evergreen": false,
+  "title": "Ramayana Part 1 grosses Rs 1,228 cr worldwide in 10 days (Sacnilk; BH Rs 1,215.40 cr), past Jawan's lifetime; 2nd Saturday Rs 72.90 cr net",
+  "headline": "Ramayana Crosses ₹1,200 Crore, Passes Jawan's Lifetime in 10 Days",
+  "caption": "Ramayana: Rise of a Legend, Part 1 of Nitesh Tiwari's two-film Ramayana, has grossed ₹1,228 crore worldwide in its first 10 days in cinemas, to Saturday 14 November, trade tracker Sacnilk estimates. That is past the ₹1,160 crore Sacnilk records for Jawan's entire run, and ₹2 crore short of RRR's ₹1,230 crore.\n\nBollywood Hungama's count is ₹1,215.40 crore, also past the ₹1,148.32 crore it gives for Jawan's lifetime. Both are trade estimates, not figures from the producers.\n\nIn India, Saturday brought ₹72.90 crore net, up 51.6% on Friday, per Sacnilk. Bollywood Hungama puts the day at ₹68.72 crore and calls it the biggest second Saturday on record.\n\nAfter its cinema run, Ramayana goes pay-per-view on JioHotstar, Prime Focus Studios says; the date and price are not out yet.\n\nDid you catch Ramayana in its first 10 days, or are you waiting for the crowds to thin out?\n\nFull story on idly.news (link in bio).\n\nSources: Sacnilk, Bollywood Hungama, Prime Focus, The Hollywood Reporter India\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd",
+  "alt_text": "An official image from Ramayana under the headline 'Ramayana Crosses ₹1,200 Crore, Passes Jawan's Lifetime in 10 Days'. The slides give Sacnilk's ₹1,228 crore worldwide estimate after 10 days and the film's ₹72.90 crore second Saturday in India.",
+  "sources": [
+    "Sacnilk",
+    "Bollywood Hungama"
+  ],
+  "detail_slides": [
+    {
+      "stat": "₹1,228 CR",
+      "stat_label": "Ramayana's Worldwide Gross After 10 Days, Sacnilk Estimate",
+      "bullets": [
+        "Jawan's whole cinema run made ₹1,160 crore, Sacnilk says",
+        "RRR's ₹1,230 crore, just ₹2 crore ahead, is next",
+        "Overseas cinemas added ₹408.50 crore, about a third"
+      ],
+      "credit_line": "Source: Sacnilk"
+    },
+    {
+      "stat": "₹72.90 CR",
+      "stat_label": "Ramayana's Second Saturday in India, Sacnilk Estimate",
+      "bullets": [
+        "A 51.6% jump on Friday's ₹48.10 crore",
+        "Bollywood Hungama counts ₹68.72 crore, a second-Saturday record"
+      ],
+      "credit_line": "Sources: Sacnilk, Bollywood Hungama"
+    }
+  ],
+  "tags": [],
+  "story": false,
+  "notes": "format: news. Gate 1 121553-idlynerd-G1: BUILD C1; image ruling: World Of Ramayana Hindi trailer lNaSdnz2I8g first, ReDefine RAMA_02 (used on 11 and 13 Nov) as fallback only. Gate 2+3 121833-idlynerd-G23: PASS (slide 3 bullet 3 removed). One tracker per claim. Stories paused.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "hook 2: Rs 1,200 crore and passes Jawan on the cover (new angle vs the 13 Nov Rs 1,000 cr post). keep 1: tracker numbers and a PPV plan with no date/price. original 1: 4th Ramayana post in 5 days; our angle is the two-tracker split, one tracker per claim, and the RRR gap. reply 2: first-10-days or waiting question from readers' own lives. alone 2: every slide names Ramayana and its source."
+    }
+  },
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.redefine.co/news/the-journey-begins-with-rama"
+      }
+    ]
+  },
+  "created_at": "2026-11-15T12:19:00+05:30",
+  "slug": "2026-11-15-idlynerd-1157-ramayana-1200-crore"
+}
