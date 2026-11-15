@@ -3734,5 +3734,59 @@
       "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-14/idlytech-2057-microsoft-sla-credits/04.jpg"
     ],
     "score_total": 12
+  },
+  {
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18141215242654434",
+    "permalink": "https://www.instagram.com/p/Dfvvqzlji69/",
+    "posted_at": "2026-11-15T02:48:54+00:00",
+    "date": "2026-11-15",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynerd-0757-gow-sons-of-sparta-ps4/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynerd-0757-gow-sons-of-sparta-ps4/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynerd-0757-gow-sons-of-sparta-ps4/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynerd-0757-gow-sons-of-sparta-ps4/04.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "playstationin"
+    ]
+  },
+  {
+    "story_id": 2415,
+    "account": "idlytech",
+    "media_id": "18142116577615806",
+    "permalink": "https://www.instagram.com/p/Dfvvx_oF8Nf/",
+    "posted_at": "2026-11-15T02:49:54+00:00",
+    "date": "2026-11-15",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlytech-0757-voyager-one-light-day/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlytech-0757-voyager-one-light-day/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlytech-0757-voyager-one-light-day/03.jpg"
+    ],
+    "score_total": 13,
+    "tagged": [
+      "nasa"
+    ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18133785994761085",
+    "permalink": "https://www.instagram.com/p/Dfvv9Xpl7Rf/",
+    "posted_at": "2026-11-15T02:51:29+00:00",
+    "date": "2026-11-15",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynews-0757-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynews-0757-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynews-0757-morning-brief/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynews-0757-morning-brief/04.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-15/idlynews-0757-morning-brief/05.jpg"
+    ],
+    "score_total": 13
   }
 ]
