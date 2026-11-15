@@ -1,0 +1,165 @@
+{
+  "slug": "2026-11-15-idlynerd-1157-ramayana-1200-crore",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-15T06:49:52+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+      "ok": true
+    },
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "source_url": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "image_url": "https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png",
+    "credit": "Image: ReDefine (Prime Focus)",
+    "organisation": "ReDefine (Prime Focus)",
+    "image_size": [
+      4096,
+      2160
+    ],
+    "log": [
+      "page https://www.redefine.co/news/the-journey-begins-with-rama (ReDefine (Prime Focus)): og:title 'The Journey Begins with RAMA', 1 image(s)",
+      "image https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png (4096x2160)"
+    ],
+    "og_title": "The Journey Begins with RAMA"
+  },
+  "faces": [
+    [
+      1953.8,
+      622.7,
+      354.0,
+      450.8,
+      0.933
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5202,
+      0.5098
+    ],
+    "zoom": 1.02,
+    "upscale": 0.638,
+    "crop": [
+      1284.0,
+      42.0,
+      1694.0,
+      2118.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        400,
+        336,
+        680,
+        692
+      ]
+    ],
+    "logo_saliency": 1.67,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        1953.8,
+        622.7,
+        354.0,
+        450.8,
+        0.933
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 0.638,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: ReDefine (Prime Focus)",
+      "Source: Sacnilk",
+      "Sources: Sacnilk, Bollywood Hungama"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 82,
+      "lines": 3,
+      "overflow": false,
+      "top": 1004,
+      "credit_line": "Image: ReDefine (Prime Focus)",
+      "slug": "2026-11-15-idlynerd-1157-ramayana-1200-crore",
+      "slide": 1,
+      "type": "cover",
+      "scale": 0.638
+    },
+    {
+      "stat": 200,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Sacnilk",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-15-idlynerd-1157-ramayana-1200-crore",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 192,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Bollywood Hungama",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-15-idlynerd-1157-ramayana-1200-crore",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana: Rise of a Legend, Part 1 of Nitesh Tiwari's two-film Ramayana, has grossed ₹1,228 crore worldwide in its first 10 days in cinemas, to Saturday 14 November, trade tracker Sacnilk estimates. That is past the ₹1,160 crore Sacnilk records for Jawan's entire run, and ₹2 crore short of RRR's ₹1,230 crore.\n\nBollywood Hungama's count is ₹1,215.40 crore, also past the ₹1,148.32 crore it gives for Jawan's lifetime. Both are trade estimates, not figures from the producers.\n\nIn India, Saturday brought ₹72.90 crore net, up 51.6% on Friday, per Sacnilk. Bollywood Hungama puts the day at ₹68.72 crore and calls it the biggest second Saturday on record.\n\nAfter its cinema run, Ramayana goes pay-per-view on JioHotstar, Prime Focus Studios says; the date and price are not out yet.\n\nDid you catch Ramayana in its first 10 days, or are you waiting for the crowds to thin out?\n\nFull story on idly.news (link in bio).\n\nSources: Sacnilk, Bollywood Hungama, Prime Focus, The Hollywood Reporter India\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd\n\nImage: ReDefine (Prime Focus)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
