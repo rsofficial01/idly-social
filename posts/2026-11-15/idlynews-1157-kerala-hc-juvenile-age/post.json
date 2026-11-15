@@ -1,0 +1,22 @@
+{"acct": "idlynews", "slug": "idlynews-1157-kerala-hc-juvenile-age", "date": "15 Nov 2026",
+ "sources": ["Bar & Bench", "LiveLaw"],
+ "slides": [
+  {"type": "cover", "headline": "Kerala HC Suggests Lawmakers Consider Juvenile Age of 16",
+   "photo": "_work/2026-11-15-hourly-1157/idlynews/frame_khc/cover_source.png",
+   "photo_credit": "Photo: Augustus Binu, dreamsparrow.net / Wikimedia Commons, CC BY-SA 3.0", "focal": [0.5, 0.5], "zoom": 1.0},
+  {"type": "detail", "stat": "13 NOV", "stat_label": "Kerala HC Suggests Revisiting the Juvenile Age",
+   "bullets": ["Justice A. Badharudeen cited 'sufficient maturity' at 16",
+               "An observation addressed to legislatures, not a binding order",
+               "Juvenile Justice Act is central law, passed by Parliament"],
+   "credit_line": "Sources: Bar & Bench, LiveLaw"},
+  {"type": "detail", "stat": "16-18", "stat_label": "What the Juvenile Justice Act Allows Today",
+   "bullets": ["Section 15: board assesses teens accused of heinous offences",
+               "Teen may then face trial as an adult",
+               "Heinous means a minimum jail term of seven years"],
+   "credit_line": "Sources: Juvenile Justice Act 2015, PRS Legislative Research"},
+  {"type": "detail", "stat": "24 NOV", "stat_label": "Next Hearing in Kerala's Underage Drinking Case",
+   "bullets": ["Kerala's Abkari Act bars liquor to anyone under 23",
+               "Petitioner sought ID checks, licence action against bars",
+               "Excise Commissioner must file statement on enforcement steps"],
+   "credit_line": "Sources: Bar & Bench, LiveLaw"}
+ ]}

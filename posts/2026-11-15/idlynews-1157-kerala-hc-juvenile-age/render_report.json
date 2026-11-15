@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Augustus Binu, dreamsparrow.net / Wikimedia Commons, CC BY-SA 3.0",
+  "slug": "idlynews-1157-kerala-hc-juvenile-age",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-15/idlynews-1157-kerala-hc-juvenile-age/01.jpg",
+  "scale": 0.822
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, LiveLaw",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-kerala-hc-juvenile-age",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-15/idlynews-1157-kerala-hc-juvenile-age/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Juvenile Justice Act 2015, PRS Legislative Research",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-kerala-hc-juvenile-age",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-15/idlynews-1157-kerala-hc-juvenile-age/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 252,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, LiveLaw",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-kerala-hc-juvenile-age",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-15/idlynews-1157-kerala-hc-juvenile-age/04.jpg",
+  "scale": null
+ }
+]

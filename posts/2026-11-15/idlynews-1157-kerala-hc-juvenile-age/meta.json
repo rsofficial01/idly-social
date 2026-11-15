@@ -1,0 +1,32 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Kerala High Court (Justice A. Badharudeen, observation of Fri 13 Nov 2026, Vinod Vikraman Pillai v State of Kerala, WP(Crl.) 1746 of 2026; reported by LiveLaw 14 Nov 09:34 IST and Bar & Bench 14 Nov 12:46 IST) says it is 'high time for the legislatures to consider appropriate amendments' to laws on juveniles and children in conflict with law to lower the age threshold from 18 to 16, citing 'the present trend showing sufficient maturity by children' at 16; an observation, not a direction. The petition (a journalist) alleges bars serve liquor to under-23s in breach of Sections 15A/15B of the Kerala Abkari Act and sought e-ID age checks, licence action and a vigilance probe; the court directed the Excise Commissioner to file a statement on enforcement directions; next hearing 24 Nov 2026. Context: under Section 15 of the Juvenile Justice (Care and Protection of Children) Act, 2015 (central law), the Juvenile Justice Board conducts a preliminary assessment of 16-18-year-olds accused of heinous offences (minimum punishment 7 years, Section 2(33)), who may then be tried as adults.",
+ "headline": "Kerala HC Suggests Lawmakers Consider Juvenile Age of 16",
+ "sources": [
+  {"outlet": "Bar & Bench", "date": "2026-11-14", "url": "https://www.barandbench.com/news/reduce-juvenile-age-limit-to-16-kerala-high-court"},
+  {"outlet": "LiveLaw", "date": "2026-11-14", "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-juvenile-justice-age-16-years-558418"},
+  {"outlet": "Juvenile Justice (Care and Protection of Children) Act, 2015, Section 15 (text via CourtBook; official: India Code)", "date": "2016-01-15", "url": "https://courtbook.in/the-juvenile-justice-care-and-protection-of-children-act-2015/section-15"},
+  {"outlet": "PRS Legislative Research (JJ Bill 2014 summary)", "date": "2015-12-22", "url": "https://prsindia.org/billtrack/the-juvenile-justice-care-and-protection-of-children-bill-2014"},
+  {"outlet": "LiveLaw explainer (Section 15, Section 2(33) heinous = min. 7 years)", "date": "2026", "url": "https://www.livelaw.in/articles/juvenile-justice-act-2015-preliminary-assessment-section-15-and-juveniles-analysis-537033"}
+ ],
+ "tags": [],
+ "tags_note": "No tag: Commons photo by an individual photographer; no official image owner account.",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:High_Court_of_Kerala_Building.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/High_Court_of_Kerala_Building.jpg",
+  "licence": "CC BY-SA 3.0",
+  "author": "Augustus Binu",
+  "viewed": true,
+  "size": "3040x1643",
+  "dl": "OK: _work/2026-11-15-hourly-1157/idlynews/photos/kerala_hc.jpg 3040x1643 0 faces"
+ },
+ "candidates": [
+  {"title": "IMD: depression formed, VSCS 120-130 gusting 145 km/h forecast by 19 Nov; models point to north Andhra", "gate1": "BUILD ceiling 13 (121535-idlynews-G1), but held by main's rule: IMD National Bulletin No. 1 (10:30 IST) names no landfall coast and has no pre-cyclone watch (Sambad-only report)"},
+  {"title": "Kerala HC suggests legislatures consider juvenile age of 16", "gate1": "BUILD ceiling 12-13 (122449-idlynews-G1), built"},
+  {"title": "Centre orders 191 Delhi-NCR industrial units sealed (Bhupender Yadav review, 14 Nov)", "gate1": "DROP (one source for 191, no actual-subject image)"},
+  {"title": "Maharashtra SIR: 99% of 1.2 crore noticed voters back on rolls; final roll 30 Nov", "gate1": "DROP (institution photo only, ceiling under 12)"}
+ ]
+}
