@@ -1,0 +1,212 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "India beat New Zealand by 22 runs in the fifth ODI at Bay Oval, Mount Maunganui (Sun 15 Nov 2026) to win the five-match series 3-1: India 209 all out batting first (Ishan Kishan, Axar Patel 46 each), NZ 187 all out (Arshdeep Singh 3-30); two days earlier at the same ground India were 89 all out and lost by 244 runs; third ODI in Hamilton washed out; ends NZ's run of 11 straight home bilateral ODI series wins, their first home ODI series defeat since India in 2019; India also won the T20Is 3-2; two Tests follow: Basin Reserve, Wellington, 19-23 Nov and Hagley Oval, Christchurch, 27 Nov-1 Dec, 3:30 am IST, Sony Sports Network/Sony LIV.",
+ "headline": "Out for 89 Friday, India Defend 209 to Win NZ Series 3-1",
+ "sources": [
+  {
+   "outlet": "AP (via AOL)",
+   "date": "2026-11-15",
+   "url": "https://www.aol.com/articles/zealand-finally-wins-toss-opts-020223000.html"
+  },
+  {
+   "outlet": "Sky Sports",
+   "date": "2026-11-15",
+   "url": "https://www.skysports.com/cricket/news/13612461/india-fight-back-to-end-new-zealands-long-unbeaten-run-in-home-odi-series-with-22-run-victory-at-mount-maunganui"
+  },
+  {
+   "outlet": "PTI (via Siasat)",
+   "date": "2026-11-15",
+   "url": "https://www.siasat.com/india-beat-nz-by-22-runs-in-fifth-odi-clinch-series-3-1-3578263/"
+  },
+  {
+   "outlet": "Outlook",
+   "date": "2026-11-15",
+   "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-5th-odi-2026-bilateral-win-streak-end"
+  },
+  {
+   "outlet": "AP (via Yahoo Sports), 4th ODI",
+   "date": "2026-11-13",
+   "url": "https://sports.yahoo.com/articles/india-wins-toss-bowls-4th-015811016.html"
+  },
+  {
+   "outlet": "Hindustan Times (via MSN), 4th ODI",
+   "date": "2026-11-13",
+   "url": "https://www.msn.com/en-in/news/other/ind-vs-nz-4th-odi-india-bowled-out-for-89-in-244-run-defeat-where-it-ranks-among-lowest-odi-totals-while-chasing-full-list/ar-AA2hlI5Y"
+  },
+  {
+   "outlet": "Outlook, 3rd ODI washout",
+   "date": "2026-11-10",
+   "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-3rd-odi-match-called-off-due-to-rain-in-hamilton"
+  },
+  {
+   "outlet": "PTC News, 3rd ODI washout",
+   "date": "2026-11-10",
+   "url": "https://www.ptcnews.tv/sports/india-vs-new-zealand-3rd-odi-abandoned-rain-hamilton-india-lead-2-0-4431539"
+  },
+  {
+   "outlet": "Yahoo Sports (Cricket News), Test timings",
+   "date": "2026-11-15",
+   "url": "https://sports.yahoo.com/articles/india-vs-zealand-1st-test-101500092.html"
+  },
+  {
+   "outlet": "Free Press Journal, tour guide",
+   "date": "2026-11-05",
+   "url": "https://www.freepressjournal.in/focused-view/india-tour-of-new-zealand-2026-complete-t20-odi-and-test-series-guide"
+  }
+ ],
+ "fact_sources": {
+  "India won 5th ODI by 22 runs at Bay Oval, Mount Maunganui, Sun 15 Nov; series 3-1": [
+   "AP",
+   "Sky Sports",
+   "PTI",
+   "Outlook"
+  ],
+  "India batted first, all out 209": [
+   "Sky Sports",
+   "AP",
+   "PTI"
+  ],
+  "Ishan Kishan and Axar Patel 46 each": [
+   "Sky Sports",
+   "AP",
+   "Outlook"
+  ],
+  "NZ all out 187 chasing 210": [
+   "Sky Sports",
+   "AP",
+   "PTI",
+   "Outlook"
+  ],
+  "Arshdeep Singh 3-30": [
+   "Sky Sports",
+   "AP",
+   "PTI",
+   "Outlook"
+  ],
+  "4th ODI (Fri 13 Nov, same ground): India 89 all out, lost by 244 runs": [
+   "AP",
+   "Hindustan Times",
+   "Sky Sports",
+   "PTI"
+  ],
+  "3rd ODI in Hamilton abandoned without a ball bowled": [
+   "Outlook",
+   "PTC News",
+   "AP"
+  ],
+  "Ends NZ's 11 straight home bilateral ODI series wins": [
+   "PTI",
+   "Sky Sports",
+   "Outlook"
+  ],
+  "NZ's first home ODI series defeat since India won there in 2019": [
+   "Sky Sports",
+   "Outlook"
+  ],
+  "India won the T20I series 3-2": [
+   "AP",
+   "PTI"
+  ],
+  "Tests: Basin Reserve 19-23 Nov, Hagley Oval 27 Nov-1 Dec, 3:30 am IST, Sony Sports Network/Sony LIV": [
+   "Yahoo Sports (Cricket News)",
+   "Free Press Journal",
+   "Sky Sports (dates, cities)"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: Commons photo by NZDF (CC BY 4.0), not a brand or studio image.",
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Bay_Oval_2024.jpg",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bay_Oval_2024.jpg/3840px-Bay_Oval_2024.jpg",
+  "licence": "CC BY 4.0",
+  "author": "NZDF (New Zealand Defence Force)",
+  "credit": "Photo: NZDF / Wikimedia Commons, CC BY 4.0 (Bay Oval, Jan 2024 file)",
+  "viewed": true,
+  "width": 3840,
+  "height": 2560,
+  "dl": "OK 3840x2560 (0 faces), fetched by main 22:0x IST after the desk's 429s",
+  "framing": {
+   "photo": "_work/2026-11-15-hourly-2057/idlynews/frame_1/cover_source.png",
+   "focal": [
+    0.5,
+    0.569
+   ],
+   "zoom": 1.16,
+   "upscale": 0.61,
+   "faces": 0
+  }
+ },
+ "alt_text": "An aerial file photo of Bay Oval in Mount Maunganui, New Zealand: the green oval and its floodlights ringed by packed grass banks, with the headline \"Out for 89 Friday, India Defend 209 to Win NZ Series 3-1\" and detail slides on the 22-run win, New Zealand's ended streak of 11 home ODI series wins and the Test dates.",
+ "candidates": [
+  {
+   "title": "India defend 209 at Bay Oval to win NZ ODI series 3-1, ending NZ's 11-series home streak",
+   "gate1": "BUILD, predicted ceiling 13 (153920)"
+  },
+  {
+   "title": "National Health Accounts 2023-24: govt health spend Rs 4.14 lakh crore, out-of-pocket share 42.7%",
+   "gate1": "HOLD: no image of the subject (ceiling 12-13 on the story)"
+  },
+  {
+   "title": "Iran says it hit a US radar at a Bahrain base; Bahrain intercepts",
+   "gate1": "HOLD: ceiling ~9, no India angle, no image"
+  }
+ ],
+ "skipped": [
+  {
+   "story_id": 2502,
+   "title": "Canadian woman travels to Rajasthan to marry man met online",
+   "reason": "personal-life story about private individuals"
+  },
+  {
+   "story_id": 2448,
+   "title": "Delhi air stays very poor",
+   "reason": "no new development; Delhi-NCR pollution covered (191 units lead)"
+  },
+  {
+   "story_id": 2477,
+   "title": "Prince William and Kate to visit India for Earthshot Prize",
+   "reason": "royals/people story, no image without people"
+  },
+  {
+   "story_id": 2465,
+   "title": "TN CM Vijay expected at Sonia Gandhi book launch",
+   "reason": "'expected' attendance, not news"
+  },
+  {
+   "story_id": 2461,
+   "title": "Judge blocks work on Washington golf course",
+   "reason": "no India relevance"
+  },
+  {
+   "story_id": 2393,
+   "title": "Hungary seizes buried cash in graft probe",
+   "reason": "minor world story, a day old"
+  },
+  {
+   "story_id": null,
+   "title": "EC tells SC SIR-excluded voters can reapply via Form 6",
+   "reason": "a day old, still no headline number; held last run"
+  },
+  {
+   "story_id": null,
+   "title": "Parliament winter session likely first week of December",
+   "reason": "reports only, no official notice"
+  },
+  {
+   "story_id": null,
+   "title": "Cyclone Akvan",
+   "reason": "led twice today; brief says not a third time"
+  }
+ ],
+ "gates": {
+  "1": "153920-idlynews-g1: BUILD A (ceiling 13)",
+  "2": "154804-idlynews-g2: PASS",
+  "3": "not sent: Commons media host 429 from 21:3x to 21:56 IST",
+  "4": "not sent",
+  "34": "163429-idlynews-g34: FIX (label as Jan 2024 file photo) applied; Gate 4 PASS 13"
+ },
+ "notes_main": "Desk held at 22:00 IST: upload.wikimedia.org 429s (dl.py UA ended in 'python-requests'). Main fixed the UA, fetched the file via thumb.wikimedia.org, framed and rendered the desk's held package unchanged, then sent Gate 3+4."
+}

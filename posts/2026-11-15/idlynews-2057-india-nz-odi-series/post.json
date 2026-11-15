@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2057-india-nz-odi-series",
+ "date": "15 Nov 2026",
+ "sources": [
+  "AP",
+  "PTI",
+  "Sky Sports",
+  "Outlook"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Out for 89 Friday, India Defend 209 to Win NZ Series 3-1",
+   "photo": "_work/2026-11-15-hourly-2057/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: NZDF / Wikimedia Commons, CC BY 4.0 (Bay Oval, Jan 2024 file)",
+   "focal": [
+    0.5,
+    0.5689655172413792
+   ],
+   "zoom": 1.16
+  },
+  {
+   "type": "detail",
+   "stat": "22 RUNS",
+   "stat_label": "Sunday's Winning Margin at Bay Oval",
+   "bullets": [
+    "New Zealand all out for 187 chasing 210",
+    "Arshdeep Singh's 3-30 led the defence",
+    "Ishan Kishan, Axar Patel top-scored with 46 each"
+   ],
+   "credit_line": "Sources: AP, Sky Sports, PTI, Outlook"
+  },
+  {
+   "type": "detail",
+   "stat": "11",
+   "stat_label": "Straight NZ Home ODI Series Wins, Now Ended",
+   "bullets": [
+    "New Zealand's first home ODI series loss since 2019",
+    "That 2019 series defeat also came against India",
+    "Third ODI, in Hamilton, was washed out"
+   ],
+   "credit_line": "Sources: PTI, Sky Sports, Outlook, AP"
+  },
+  {
+   "type": "detail",
+   "stat": "19 NOV",
+   "stat_label": "First Test Starts at Basin Reserve, Wellington",
+   "bullets": [
+    "Play starts at 3:30 am IST",
+    "Second Test: Hagley Oval, Christchurch, from 27 Nov",
+    "Live on Sony Sports Network and Sony LIV"
+   ],
+   "credit_line": "Sources: Yahoo Sports, Free Press Journal, Sky Sports"
+  }
+ ]
+}
