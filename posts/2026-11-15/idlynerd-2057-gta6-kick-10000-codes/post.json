@@ -1,0 +1,45 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2057-gta6-kick-10000-codes",
+ "date": "15 Nov 2026",
+ "sources": [
+  "Kick",
+  "Dexerto",
+  "PlayStation India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Kick Is Giving Away 10,000 GTA VI Copies, and India Can Enter",
+   "photo": "_work/2026-11-15-hourly-2057/idlynerd/frame_Vice_City_10/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.405,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "3 HOURS",
+   "stat_label": "Of Watching Kick Livestreams Earns One Daily Entry",
+   "bullets": [
+    "No purchase, payment or wager needed",
+    "A chance, not a promise; odds aren't stated",
+    "Kick runs it, not Rockstar or Take-Two"
+   ],
+   "credit_line": "Sources: Kick, Dexerto"
+  },
+  {
+   "type": "detail",
+   "stat": "₹7,499",
+   "stat_label": "GTA VI Ultimate Edition on PS Store India",
+   "bullets": [
+    "PS5 codes: India is on Kick's eligible list",
+    "Xbox Series X|S codes: open worldwide",
+    "No codes go out before 19 Nov launch"
+   ],
+   "credit_line": "Sources: Kick, PlayStation India, Dexerto"
+  }
+ ]
+}

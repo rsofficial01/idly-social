@@ -1,0 +1,184 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Kick's 'Sunset Reward Case' (announced 12 Nov 2026) gives away 10,000 digital codes for GTA VI Ultimate Edition (PS5 or Xbox Series X|S): watch any Kick stream for 3 hours to unlock a daily case; no purchase, payment or wager; odds not stated; codes not issued before 19 Nov (launch); PS5 codes only for PSN accounts in Kick's supported list, which includes India; Xbox codes worldwide; run by Kick, not affiliated with Rockstar or Take-Two; no end date on Kick's page. Ultimate Edition is Rs 7,499 on PlayStation India. Twitch (13 Nov, TwitchCon) promises surprise daily GTA VI code drops from launch to the end of November, number and regions undisclosed.",
+ "headline": "Kick Is Giving Away 10,000 GTA VI Copies, and India Can Enter",
+ "sources": [
+  {
+   "outlet": "Kick (official announcement)",
+   "date": "2026-11-12",
+   "url": "https://about.kick.com/news-and-press/13-sunset-reward-case"
+  },
+  {
+   "outlet": "Twitch Blog (TwitchCon San Diego 2026)",
+   "date": "2026-11-13",
+   "url": "https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/"
+  },
+  {
+   "outlet": "Dexerto (Zackerie Fairfax)",
+   "date": "2026-11-13",
+   "url": "https://www.dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151/"
+  },
+  {
+   "outlet": "Shacknews (TJ Denzer)",
+   "date": "2026-11-13",
+   "url": "https://www.shacknews.com/article/151356/twitch-gta-6-ultimate-edition-code-drop-twitchcon-2026"
+  },
+  {
+   "outlet": "RockstarINTEL (Can Torcu)",
+   "date": "2026-11-14",
+   "url": "https://rockstarintel.com/how-to-get-a-free-copy-of-gta-vi-through-twitch-and-kicks-launch-giveaways/"
+  },
+  {
+   "outlet": "PlayStation India GTA VI page (read 15 Nov 2026 ~21:15 IST)",
+   "date": "2026-11-15",
+   "url": "https://www.playstation.com/en-in/games/grand-theft-auto-vi/"
+  }
+ ],
+ "fact_sources": {
+  "10,000 digital codes for GTA VI Ultimate Edition, PS5 or Xbox Series X|S": [
+   "Kick",
+   "Dexerto",
+   "RockstarINTEL"
+  ],
+  "Watch any Kick stream for 3 hours to unlock a case; open it beside the avatar; a new case each day": [
+   "Kick",
+   "Dexerto",
+   "RockstarINTEL"
+  ],
+  "No purchase, payment or wager needed": [
+   "Kick",
+   "Dexerto"
+  ],
+  "Odds not stated; winning not guaranteed": [
+   "Kick",
+   "Dexerto"
+  ],
+  "Run by Kick, not affiliated with Rockstar Games or Take-Two": [
+   "Kick",
+   "Dexerto",
+   "RockstarINTEL"
+  ],
+  "Codes not issued before 19 Nov 2026": [
+   "Kick",
+   "Dexerto",
+   "RockstarINTEL"
+  ],
+  "PS5 codes only for PSN accounts in Kick's supported list (includes India); Xbox codes worldwide": [
+   "Kick",
+   "Dexerto",
+   "RockstarINTEL"
+  ],
+  "No end date on Kick's announcement": [
+   "Kick (page states only that entries open 12 Nov)"
+  ],
+  "GTA VI Ultimate Edition Rs 7,499 in India": [
+   "PlayStation India game page",
+   "idlynerd 10 Nov lane post sources: Rockstar Newswire, Digit, Business Today"
+  ],
+  "Twitch: surprise daily GTA VI code drops from launch through end of November; number/regions not disclosed": [
+   "Twitch Blog",
+   "Shacknews (Dan Clancy, TwitchCon keynote)",
+   "Dexerto"
+  ],
+  "GTA VI launches 19 Nov on PS5 and Xbox Series X|S": [
+   "PlayStation India",
+   "Dexerto"
+  ]
+ },
+ "tags": [
+  "rockstargames"
+ ],
+ "tag_evidence": "Image owner is Rockstar Games; rockstargames.com (newswire page footer) links to instagram.com/rockstargames. Card and caption state Kick, not Rockstar, runs the giveaway.",
+ "photo_source": {
+  "page": "https://www.rockstargames.com/VI/media/screenshots",
+  "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+  "licence": "Official publisher media/press screenshot (Rockstar Games), credited",
+  "author": "Rockstar Games",
+  "credit": "Image: Rockstar Games",
+  "viewed": true,
+  "width": 3840,
+  "height": 2160,
+  "framing": {
+   "tool": "python3 -m pipeline.framing",
+   "ok": true,
+   "photo": "_work/2026-11-15-hourly-2057/idlynerd/frame_Vice_City_10/cover_source.png",
+   "focal_suggested": [
+    0.5,
+    0.5
+   ],
+   "focal_used": [
+    0.405,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.62,
+   "faces": 0,
+   "why_focal": "logo in clear sky between the towers"
+  }
+ },
+ "alt_text": "Rockstar Games' in-game GTA VI screenshot of two curved waterfront towers in Vice City, with the headline: Kick Is Giving Away 10,000 GTA VI Copies, and India Can Enter.",
+ "candidates": [
+  {
+   "title": "Kick's 10,000 GTA VI Ultimate Edition codes, India eligible on PS5 (+ Twitch daily drops)",
+   "gate1": "BUILD, predicted ceiling 13 (154634-idlynerd-g1)"
+  },
+  {
+   "title": "Out this week 16-22 Nov: GTA VI leads (list)",
+   "gate1": "HOLD, ~11 (overlaps A's GTA cover; better for Monday with a non-GTA cover)"
+  },
+  {
+   "title": "Panchayat S5 not in 2026 (Prime Video cryptic post)",
+   "gate1": "HOLD (not clearly official; no clean image)"
+  }
+ ],
+ "skipped": [
+  {
+   "story_id": 2490,
+   "title": "Ramayana sells 1.89 crore tickets; Bengaluru tops Mumbai",
+   "reason": "Ramayana led three times in six days; brief says don't lead with it"
+  },
+  {
+   "story_id": 2480,
+   "title": "Prime Video's cryptic Panchayat post",
+   "reason": "not an official statement; outlets split; no clean image (G1 HOLD)"
+  },
+  {
+   "story_id": 2495,
+   "title": "Piyush Bhagat BTS pictures from King song shoot",
+   "reason": "gossip ('shares pictures')"
+  },
+  {
+   "story_id": 2494,
+   "title": "Netflix's Planeswalker in 2027",
+   "reason": "2027 only, 1200x675 Tudum image, held last run"
+  },
+  {
+   "story_id": 2479,
+   "title": "Elli AvrRam meets producer Thanu",
+   "reason": "gossip (meeting hinting at a project)"
+  },
+  {
+   "story_id": 2435,
+   "title": "Philippines wins Eurovision Asia",
+   "reason": "not film/OTT/gaming for this page"
+  },
+  {
+   "story_id": 2412,
+   "title": "Giri Babu dies at 80",
+   "reason": "obituary, no official image"
+  },
+  {
+   "story_id": 2399,
+   "title": "YRF horror film with Varun Dhawan, 2028",
+   "reason": "no official image; dropped in earlier runs"
+  }
+ ],
+ "gates": {
+  "1": "154634-idlynerd-g1: BUILD A (ceiling 13); B (week list) HOLD ~11; C (Panchayat S5) HOLD. FIXes applied (headline, chance/no-purchase/Kick-not-Rockstar once on card, Twitch caption only, no Kick end date, ₹7,499 sourced, reply question)",
+  "23": "155123-idlynerd-g23: FIX x2 (slide 2 label explains Kick; 'case' bullet), picture PASS; r2 155303-idlynerd-g23: PASS (bullet 1 -> 'No purchase, payment or wager needed', applied)",
+  "4": "155332-idlynerd-g4: PASS 13/14 (keep 1)"
+ }
+}
