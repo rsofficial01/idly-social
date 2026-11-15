@@ -1,0 +1,127 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "God of War: Sons of Sparta (2D side-scroller; Mega Cat Studios with Santa Monica Studio, published by Sony Interactive Entertainment; on PS5 since 12 Feb 2026) comes to PS4 on Mon 16 Nov 2026 with a free update adding two modes on PS4 and PS5: Hermes (speedrun timer, splits, persistent scoreboard; unlocked by finishing once or by a start-menu code Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad) and Erebus (you and every enemy die in one hit); mode chosen per save, can't be changed; PS Store India 15 Nov: PS5 ₹2,497, Digital Deluxe ₹3,330, PS4 price not listed",
+ "headline": "God of War Spin-Off Hits PS4 Monday, 2 Free Modes",
+ "sources": [
+  {
+   "outlet": "Gematsu (Sal Romano)",
+   "date": "2026-11-13",
+   "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update"
+  },
+  {
+   "outlet": "VGC (Andy Robinson)",
+   "date": "2026-11-13",
+   "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/"
+  },
+  {
+   "outlet": "Push Square (Liam Croft)",
+   "date": "2026-11-13",
+   "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4"
+  },
+  {
+   "outlet": "PS Store India (product page, read 15 Nov 2026 ~08:15 IST)",
+   "date": "2026-11-15",
+   "url": "https://store.playstation.com/en-in/product/UP9000-PPSA28997_00-SONSOFSPARTAPS50"
+  },
+  {
+   "outlet": "PlayStation India game page",
+   "date": "2026-11-15",
+   "url": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/"
+  }
+ ],
+ "fact_sources": {
+  "PS4 version releases 16 Nov 2026 (Monday)": [
+   "Gematsu",
+   "VGC",
+   "Push Square"
+  ],
+  "Free content update adds two new modes to both PS4 and PS5 versions (free for existing PS5 owners)": [
+   "Gematsu ('free content update')",
+   "VGC ('new patch that adds new modes to both PS4 and PS5 versions')",
+   "Push Square ('free update for PS5 owners'; 'both current PS5 owners and any new players on PS4')"
+  ],
+  "Hermes Mode: speedrunning toolkit with a split-based timer and persistent scoreboard": [
+   "Gematsu",
+   "VGC",
+   "Push Square"
+  ],
+  "Hermes unlocks after beating the game once, or via start-menu code Up, Up, Down, Down, Left, Right, Left, Right, L1, R1, Touchpad (11 inputs)": [
+   "Gematsu",
+   "VGC",
+   "Push Square"
+  ],
+  "Erebus Mode: you and your enemies fall in a single hit": [
+   "Gematsu",
+   "VGC",
+   "Push Square"
+  ],
+  "Mode chosen when starting a new game and selecting a save slot; can't be changed for that save": [
+   "Gematsu",
+   "VGC (selected upon starting a new game and selecting a save slot)"
+  ],
+  "2D side-scroller developed by Mega Cat Studios with Santa Monica Studio, published by Sony Interactive Entertainment": [
+   "Gematsu",
+   "VGC"
+  ],
+  "Out on PS5 since 12 February 2026": [
+   "Gematsu ('first launched for PlayStation 5 on February 12, 2026')",
+   "Push Square ('debuted on PS5 in February')"
+  ],
+  "Story: young Kratos and his brother Deimos during Spartan training": [
+   "Gematsu (SIE overview)",
+   "VGC ('Kratos' youth during his harsh training at the Agoge alongside his brother Deimos')"
+  ],
+  "PS Store India: PS5 Standard ₹2,497, Digital Deluxe ₹3,330; listing shows PS5 only (no PS4 price yet)": [
+   "PS Store India product page (basePrice Rs 2,497 / Rs 3,330, platforms [PS5], read 15 Nov ~08:15 IST)",
+   "PlayStation India game page (same SKUs UP9000-PPSA28997_00-SONSOFSPARTAPS50 / -SONSOFSPARTADLUX)"
+  ]
+ },
+ "photo_source": {
+  "page": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+  "licence": "official publisher store/marketing screenshot (Sony Interactive Entertainment) on PlayStation India's own game page, editorial use, credited",
+  "author": "Sony Interactive Entertainment",
+  "viewed": true
+ },
+ "image": {
+  "source_page": "https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/",
+  "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1919/8d849e052ead240dfb1dff94a4f4863a98bba3cc6c9d9270.jpg",
+  "licence": "official publisher screenshot (Sony Interactive Entertainment), editorial use, credited 'Image: Sony Interactive Entertainment'",
+  "author": "Sony Interactive Entertainment",
+  "credit": "Image: Sony Interactive Entertainment",
+  "size": "3840x2160",
+  "viewed": true,
+  "faces": 0,
+  "subject": "In-game pixel-art screenshot of God of War: Sons of Sparta: young Kratos crouching with a spear on a cracked stone cliff path, dark sea and a huge rock behind, red Spartan banners at the edges; no HUD, no lettering, no logo, no real person",
+  "framing": {
+   "pre_crop": "plain 1080x1350 (4:5) window, box (1300, 810, 2380, 2160) of the 3840x2160 original, saved as _work/2026-11-15-hourly-0757/idlynerd/ok/gow_8d849e05_crop.jpg (no fill, no letterbox, no upscale)",
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-15-hourly-0757/idlynerd/frame_2/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.0,
+    "faces": 1,
+    "note": ""
+   },
+   "faces_note": "dl.py face check on the full image: 0 faces. framing's detector counts 1 on the crop: the pixel-art Kratos (a game character, not a real person), kept whole at y ~330-615",
+   "used": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   }
+  }
+ },
+ "tag": [
+  "playstationin"
+ ],
+ "tag_evidence": "playstationin: https://www.instagram.com/playstationin/ is linked in the footer of PlayStation India's own site, both https://www.playstation.com/en-in/ and the game page https://www.playstation.com/en-in/games/god-of-war-sons-of-sparta/ (checked 15 Nov 2026, 08:12 IST). Sony Interactive Entertainment owns the image.",
+ "alt_text": "Official in-game screenshot from God of War: Sons of Sparta: a pixel-art young Kratos crouches with a spear on a cracked stone cliff path, a dark sea and a huge rock behind him and red Spartan banners at the edges, with the headline \"God of War Spin-Off Hits PS4 Monday, 2 Free Modes\" across the dark ground at the bottom."
+}

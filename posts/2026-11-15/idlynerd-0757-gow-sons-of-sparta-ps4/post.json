@@ -1,0 +1,57 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0757-gow-sons-of-sparta-ps4",
+ "date": "15 Nov 2026",
+ "sources": [
+  "Gematsu",
+  "VGC",
+  "Push Square",
+  "PS Store India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "God of War Spin-Off Hits PS4 Monday, 2 Free Modes",
+   "photo": "_work/2026-11-15-hourly-0757/idlynerd/frame_2/cover_source.png",
+   "photo_credit": "Image: Sony Interactive Entertainment",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "PS4 + PS5",
+   "stat_label": "Both Versions Get Sons of Sparta's New Modes",
+   "bullets": [
+    "Hermes: speedrun timer, splits and a persistent scoreboard",
+    "Erebus: you and every enemy die in one hit",
+    "Pick one per save; it can't be changed later"
+   ],
+   "credit_line": "Sources: Gematsu, VGC, Push Square"
+  },
+  {
+   "type": "detail",
+   "stat": "11",
+   "stat_label": "Inputs That Unlock Sons of Sparta's Hermes Mode",
+   "bullets": [
+    "Up, Up, Down, Down, Left, Right, Left, Right",
+    "Then L1, R1, Touchpad on the start menu",
+    "Otherwise it unlocks only after you finish once"
+   ],
+   "credit_line": "Sources: Gematsu, VGC, Push Square"
+  },
+  {
+   "type": "detail",
+   "stat": "₹2,497",
+   "stat_label": "Sons of Sparta on PS5, PS Store India",
+   "bullets": [
+    "Digital Deluxe Edition: ₹3,330",
+    "PS4 price not listed yet (15 Nov)",
+    "On PS5 since 12 February 2026"
+   ],
+   "credit_line": "Sources: PS Store India, Gematsu"
+  }
+ ]
+}
