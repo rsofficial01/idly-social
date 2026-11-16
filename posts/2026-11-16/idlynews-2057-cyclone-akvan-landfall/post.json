@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2057-cyclone-akvan-landfall",
+ "date": "16 Nov 2026",
+ "sources": [
+  "IMD",
+  "ANI",
+  "Lokmat Times"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IMD: Cyclone Akvan to Cross Andhra Coast Around Noon 20 Nov",
+   "photo": "_work/2026-11-16-hourly-2057/idlynews/frame_viirs/cover_source.png",
+   "photo_credit": "Image: NASA Worldview / VIIRS",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "NOON, 20 NOV",
+   "stat_label": "Akvan Forecast to Cross Between Nellore and Tuni",
+   "bullets": [
+    "A very severe cyclonic storm by landfall",
+    "Winds of 120-130 km/h, gusting to 145 km/h",
+    "Became Cyclone Akvan on Monday evening"
+   ],
+   "credit_line": "Sources: IMD, ANI, Lokmat Times"
+  },
+  {
+   "type": "detail",
+   "stat": "19-20 NOV",
+   "stat_label": "Akvan Brings Extremely Heavy Rain to Coastal Andhra",
+   "bullets": [
+    "IMD: isolated falls of 21 cm or more",
+    "Low-lying roads may flood, IMD warns",
+    "Heavy rain also likely in Rayalaseema"
+   ],
+   "credit_line": "Sources: IMD, ANI, Deccan Chronicle (ANI)"
+  },
+  {
+   "type": "detail",
+   "stat": "18-21 NOV",
+   "stat_label": "Akvan's Rain Also Hits Tamil Nadu and Odisha",
+   "bullets": [
+    "North Tamil Nadu: very heavy rain 18-19 Nov",
+    "Odisha: heavy to very heavy rain 19-21 Nov",
+    "Telangana: heavy rain likely on 20 Nov"
+   ],
+   "credit_line": "Sources: IMD, Deccan Chronicle (ANI), ETV Bharat"
+  }
+ ]
+}
