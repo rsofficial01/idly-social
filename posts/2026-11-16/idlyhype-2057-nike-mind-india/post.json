@@ -1,0 +1,58 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2057-nike-mind-india",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Nike",
+  "nike.in",
+  "Superkicks",
+  "Complex",
+  "Sneaker News"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Nike Mind 002 Costs ₹12,795 in India. Four New Models Are Coming",
+   "photo": "_work/2026-11-16-hourly-2057/idlyhype/frame_nk_ae85350c/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.06
+  },
+  {
+   "type": "detail",
+   "stat": "SUMMER 2027",
+   "stat_label": "Four New Nike Mind Shoes Are Coming",
+   "bullets": [
+    "Mind Sock, Sneaker, Slip and Moc Flyknit",
+    "Mind Sock keeps 22 separate foam nodes underfoot",
+    "Sneaker, Slip and Moc join them for softer wear"
+   ],
+   "credit_line": "Sources: Nike, Complex, Sneaker News"
+  },
+  {
+   "type": "detail",
+   "stat": "₹12,795",
+   "stat_label": "Nike Mind 002 Price in India",
+   "bullets": [
+    "On nike.in, every Mind 002 style is ₹12,795",
+    "Superkicks lists the Mind 002 Flyknit at ₹12,795",
+    "Superkicks shows both Flyknit colourways unavailable"
+   ],
+   "credit_line": "Sources: nike.in, Superkicks listings, 16 Nov"
+  },
+  {
+   "type": "detail",
+   "stat": "FALL 2027",
+   "stat_label": "Nike Vaporfly 5 Racing Shoe Also Revealed",
+   "bullets": [
+    "A new wave-shaped plate sits between two foams",
+    "Shown as a prototype; no price yet",
+    "Nike also showed Vomero 19, Book 3, Nike Free"
+   ],
+   "credit_line": "Sources: Nike, Complex, Sneaker News"
+  }
+ ]
+}
