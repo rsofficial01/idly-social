@@ -1,0 +1,68 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Toho's Godzilla Minus Zero has crossed $100 million at the worldwide box office in its second weekend (Variety 16 Nov, Deadline 15 Nov), with about $49 million from North America (The Numbers), ahead of its Indian cinema release, IMAX included, on Friday 20 November via PVR INOX Pictures.",
+ "headline": "Godzilla Minus Zero Crosses $100M Before Its 20 Nov India Release",
+ "sources": [
+  {
+   "outlet": "Variety",
+   "date": "2026-11-16",
+   "url": "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/"
+  },
+  {
+   "outlet": "Deadline",
+   "date": "2026-11-15",
+   "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+  },
+  {
+   "outlet": "The Numbers",
+   "date": "2026-11-16",
+   "url": "https://www.the-numbers.com/movie/Godzilla-Minus-Zero-(2026-Japan)"
+  },
+  {
+   "outlet": "Bollywood Hungama",
+   "date": "2026-11-11",
+   "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-godzilla-minus-zero-to-finally-release-in-india-on-november-20-pvr-inox-pictures-nayana-bijli-confirms-imax-release/"
+  },
+  {
+   "outlet": "Box Office Worldwide",
+   "date": "2026-11-11",
+   "url": "https://boxofficeworldwide.com/movies-latest-news/godzilla-minus-zero-november-20-india-release-pvr-inox-imax/"
+  }
+ ],
+ "tags": [
+  "godzilla_toho"
+ ],
+ "tag_evidence": "Toho International's official site godzilla.com (https://godzilla.com/blogs/news) links https://www.instagram.com/godzilla_toho in its footer (checked 16 Nov 2026, 17:11 IST); same handle used on this page's 13 Nov Godzilla post. The image owner is Toho.",
+ "image": {
+  "url": "https://godzilla.com/cdn/shop/files/Blog_Banner_Godzilla_-_GMZ_Box_Office_Release_Blog_Banner_1920x1080_64deefb4-e00b-427c-8a94-1a8fe802baad.jpg",
+  "page": "https://godzilla.com/blogs/news/godzilla-minus-zero-scores-the-1-all-time-opening-day-box-office-for-a-live-action-film-in-japan",
+  "owner": "Toho",
+  "licence": "Official publicity still published by Toho International on its own site (godzilla.com, allowlisted official domain); credited Image: Toho (official still)",
+  "size": [
+   1920,
+   1080
+  ],
+  "framing": {
+   "ok": true,
+   "photo": "_work/2026-11-16-hourly-1657/idlynerd/frame/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.25,
+   "faces": 0,
+   "note": "enlarged and sharpened"
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "gates": {
+  "G1": "170947-idlynerd-G1: BUILD candidate 1, ceiling 12",
+  "G23": "171218-idlynerd-G23: FIX (drop \"with Toho\"; add The Numbers to Sources; keep \"crossed $100 million\" attributed to Variety and Deadline) - all applied",
+  "G4": "171333-idlynerd-G4: PASS 12/14 (marginal; cover soft but not pixelated)"
+ }
+}

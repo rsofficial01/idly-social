@@ -1,0 +1,37 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1657-godzilla-100-million",
+ "date": "16 Nov 2026",
+ "sources": ["Variety", "Deadline", "The Numbers", "Bollywood Hungama"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Godzilla Minus Zero Crosses $100M Before Its 20 Nov India Release",
+   "photo": "_work/2026-11-16-hourly-1657/idlynerd/frame/cover_source.png",
+   "photo_credit": "Image: Toho (official still)",
+   "focal": [0.5, 0.5],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "$100M+",
+   "stat_label": "Godzilla Minus Zero's Worldwide Box Office",
+   "bullets": [
+    "Reached in its second weekend, Variety and Deadline report",
+    "Opened 3 Nov in Japan, 6 Nov in North America",
+    "North America alone: about $49 million so far"
+   ],
+   "credit_line": "Sources: Variety, Deadline, The Numbers"
+  },
+  {
+   "type": "detail",
+   "stat": "20 NOV",
+   "stat_label": "Godzilla Minus Zero Opens in Indian Cinemas",
+   "bullets": [
+    "In cinemas this Friday, IMAX screens included",
+    "PVR INOX Pictures is releasing it in India"
+   ],
+   "credit_line": "Sources: Bollywood Hungama, Box Office Worldwide"
+  }
+ ]
+}
