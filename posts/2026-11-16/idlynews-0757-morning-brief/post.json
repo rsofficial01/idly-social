@@ -1,0 +1,74 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "16 Nov 2026",
+ "sources": [
+  "IMD",
+  "The Tribune",
+  "The Federal",
+  "Telangana Today",
+  "Assam Tribune",
+  "NE Now",
+  "Hub Network",
+  "The Times of India",
+  "CricTracker",
+  "France 24 (AFP)",
+  "Al Jazeera"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IMD: Cyclone Likely Tonight, 145 KMPH Andhra Gusts 19 Nov",
+   "photo": "_work/2026-11-16-hourly-0757/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: NASA Worldview (MODIS Aqua)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "17 NOV",
+   "stat_label": "PM Modi at ASEAN-India Summit in Manila",
+   "bullets": [
+    "Foreign ministry would not say if he meets Trump",
+    "Goyal says India gets lower US duties than rivals",
+    "India wants ASEAN goods-trade pact review done sooner"
+   ],
+   "credit_line": "Sources: The Tribune (ANI), The Federal, Telangana Today"
+  },
+  {
+   "type": "detail",
+   "stat": "26",
+   "stat_label": "Killed in Kaziranga Crash; Minibus Owner Arrested",
+   "bullets": [
+    "Police: speed limiter on record, missing in practice",
+    "Minibus had 12 earlier violations on record, police say",
+    "Assam steps up checks on vehicles' speed limiters"
+   ],
+   "credit_line": "Sources: Assam Tribune, NE Now, Hub Network, The Times of India"
+  },
+  {
+   "type": "detail",
+   "stat": "9-28 OCT",
+   "stat_label": "India's 2029 Champions Trophy Dates Fixed by ICC",
+   "bullets": [
+    "India, Bangladesh co-host 2031 World Cup, 9 Oct-23 Nov",
+    "Hosts were named in 2021; the dates are new",
+    "ICC Board fixed men's event dates up to 2035"
+   ],
+   "credit_line": "Sources: The Tribune (PTI), CricTracker"
+  },
+  {
+   "type": "detail",
+   "stat": "60 KM",
+   "stat_label": "Houthis 60 km From Aden, AFP Reports",
+   "bullets": [
+    "Govt-allied forces quit Bab el-Mandeb to defend Aden",
+    "The strait is a vital Red Sea shipping lane"
+   ],
+   "credit_line": "Sources: France 24 (AFP), Al Jazeera"
+  }
+ ]
+}

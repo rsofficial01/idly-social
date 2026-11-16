@@ -1,0 +1,303 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Mon 16 Nov 2026: IMD NB5 (02:30 IST) says the Bay system became a deep depression at 23:30 IST 15 Nov, 870 km SSE of Visakhapatnam; cyclonic storm likely by 16 Nov evening, severe by 17 Nov evening, then NW towards the AP coast; along/off AP coast 120-130 gusting 145 km/h from 19 Nov evening to 20 Nov morning; no landfall point named; fishermen out of central Bay 16-20 Nov (lead). PM Modi to Manila for the 23rd ASEAN-India Summit and EAS on 17 Nov, MEA would not say if he meets Trump; Goyal says India gets preferential US access with lower duties than rivals; India wants the AITIGA review done sooner. Kaziranga crash (13 Nov): 26 killed, minibus owner arrested, police say speed limiter on record but missing, 12 earlier violations; Assam steps up speed-limiter checks. ICC Board (Bali, 15 Nov) fixes event dates to 2035: India hosts 2029 Champions Trophy 9-28 Oct; India-Bangladesh 2031 World Cup 9 Oct-23 Nov. Yemen: Houthis ~60 km from Aden (AFP); government-allied forces quit Bab el-Mandeb to defend Aden.",
+ "headline": "IMD: Cyclone Likely Tonight, 145 KMPH Andhra Gusts 19 Nov",
+ "sources": [
+  {
+   "outlet": "IMD (National Bulletin No. 5, BOB/10/2026, 02:30 IST)",
+   "date": "2026-11-16",
+   "url": "https://mausam.imd.gov.in/backend/assets/cyclone_pdf/5__National_Bulletin_No_5-15Nov2026_2330IST.pdf"
+  },
+  {
+   "outlet": "IMD RSMC New Delhi (Tropical Weather Outlook, 1800 UTC 15 Nov)",
+   "date": "2026-11-15",
+   "url": "https://mausam.imd.gov.in/backend/assets/cyclone_pdf/Tropical_Weather_Outlook_based_on_1800_UTC_of_15_11_2026.pdf"
+  },
+  {
+   "outlet": "Ommcom News",
+   "date": "2026-11-16",
+   "url": "https://ommcomnews.com/odisha-news/deep-depression-forms-over-bay-of-bengal-980-km-away-from-gopalpur/"
+  },
+  {
+   "outlet": "Oneindia",
+   "date": "2026-11-16",
+   "url": "https://www.oneindia.com/india/bay-of-bengal-deep-depression-intensifies-severe-cyclone-likely-before-18-november-andhra-pradesh-8260635.html"
+  },
+  {
+   "outlet": "Sambad English",
+   "date": "2026-11-15",
+   "url": "https://sambadenglish.com/latest-news/forecasted-cyclone-akvan-likely-to-become-very-severe-on-nov-19-with-145-max-wind-speed-over-sea-12810935"
+  },
+  {
+   "outlet": "The Tribune (ANI)",
+   "date": "2026-11-15",
+   "url": "https://www.tribuneindia.com/news/asean-india-trade-agreement/pm-modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda"
+  },
+  {
+   "outlet": "The Federal",
+   "date": "2026-11-15",
+   "url": "https://thefederal.com/category/news/asean-summit-pm-narendra-modi-263012"
+  },
+  {
+   "outlet": "The Tribune",
+   "date": "2026-11-16",
+   "url": "https://www.tribuneindia.com/news/india/pact-on-preferential-access-to-us-market-reached-says-goyal/"
+  },
+  {
+   "outlet": "Telangana Today",
+   "date": "2026-11-15",
+   "url": "https://telanganatoday.com/goyal-says-india-has-secured-preferential-access-to-american-market"
+  },
+  {
+   "outlet": "The Hans India (IANS)",
+   "date": "2026-11-15",
+   "url": "https://www.thehansindia.com/business/india-to-get-preferential-access-in-us-market-under-trade-pact-piyush-goyal-1142387"
+  },
+  {
+   "outlet": "Assam Tribune",
+   "date": "2026-11-15",
+   "url": "https://assamtribune.com/assam/kaziranga-crash-traveller-owner-arrested-over-missing-sld-12-violations-1622840"
+  },
+  {
+   "outlet": "NE Now",
+   "date": "2026-11-15",
+   "url": "https://nenow.in/north-east-news/assam/assam-owner-of-kaziranga-accident-minibus-arrested-over-alleged-safety-violations.html"
+  },
+  {
+   "outlet": "Hub Network",
+   "date": "2026-11-15",
+   "url": "https://hubnetwork.in/kaziranga-crash-vehicle-owner-arrested-in-nagaon-families-of-26-victims-to-get-rs-9-lakh-each/"
+  },
+  {
+   "outlet": "The Times of India (headline: 'Kaziranga crash puts focus back on mandatory speed-limiting devices; checks run across state')",
+   "date": "2026-11-15",
+   "url": "https://news.google.com/rss/search?q=Kaziranga+accident+killed+when:1d"
+  },
+  {
+   "outlet": "The Tribune (PTI, Bali)",
+   "date": "2026-11-16",
+   "url": "https://www.tribuneindia.com/news/cricket/india-to-host-2029-champions-trophy-co-host-2031-odi-world-cup-icc-unveils-calendar-till-2035"
+  },
+  {
+   "outlet": "CricTracker",
+   "date": "2026-11-15",
+   "url": "https://www.crictracker.com/cricket-news/icc-locks-in-dates-for-major-mens-tournaments-from-2028-to-2035-2380/"
+  },
+  {
+   "outlet": "Sportskeeda",
+   "date": "2026-11-15",
+   "url": "https://www.sportskeeda.com/cricket/news-icc-confirms-dates-major-men-s-events-till-2035-india-host-champions-trophy-world-cup"
+  },
+  {
+   "outlet": "ESPNcricinfo (2021 hosts)",
+   "date": "2021-11-16",
+   "url": "https://espncricinfo.com/story/usa-co-hosts-for-2024-t20-wc-pakistan-gets-2025-champions-trophy-india-and-bangladesh-2031-world-cup-1289589"
+  },
+  {
+   "outlet": "France 24 (AFP)",
+   "date": "2026-11-15",
+   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+  },
+  {
+   "outlet": "Al Jazeera (with Reuters)",
+   "date": "2026-11-15",
+   "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+  },
+  {
+   "outlet": "Times of Israel (liveblog)",
+   "date": "2026-11-15",
+   "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"
+  },
+  {
+   "outlet": "Al Jazeera (Sept 2026, shipping route)",
+   "date": "2026-09-11",
+   "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route"
+  },
+  {
+   "outlet": "The Financial Express BD (Reuters, 'vital shipping lane')",
+   "date": "2026-09-11",
+   "url": "https://thefinancialexpress.com.bd/world/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane"
+  }
+ ],
+ "fact_sources": {
+  "Deep depression at 23:30 IST 15 Nov near 10.6N/86.7E, about 870 km SSE of Visakhapatnam": [
+   "IMD National Bulletin No. 5",
+   "IMD RSMC Tropical Weather Outlook 1800 UTC 15 Nov",
+   "Ommcom News"
+  ],
+  "Cyclonic storm likely by 16 Nov evening; severe cyclonic storm by 17 Nov (Tue) evening; then NW towards the AP coast": [
+   "IMD National Bulletin No. 5",
+   "IMD RSMC TWO",
+   "Ommcom News",
+   "Oneindia"
+  ],
+  "Along and off the AP coast: 120-130 km/h gusting to 145 km/h from 19 Nov evening to 20 Nov morning": [
+   "IMD National Bulletin No. 5, wind warning (ii)",
+   "Sambad English (VSCS, 145 km/h max wind, 19 Nov)"
+  ],
+  "IMD has not named a landfall point": [
+   "IMD National Bulletin No. 5 (no landfall in forecast)",
+   "Ommcom News (moves towards AP coast; no landfall stated)"
+  ],
+  "Fishermen not to venture into the central Bay 16-20 Nov": [
+   "IMD National Bulletin No. 5 (iv) and (vi)",
+   "IMD RSMC TWO"
+  ],
+  "Modi to Manila from 16 Nov for the 23rd ASEAN-India Summit and the East Asia Summit; summits on 17 Nov": [
+   "The Tribune (ANI)",
+   "The Federal"
+  ],
+  "MEA (Secretary East Rudrendra Tandon) would not say whether Modi meets Trump": [
+   "The Tribune (ANI)",
+   "The Federal (no MEA confirmation of any meeting)"
+  ],
+  "Goyal (15 Nov): 'preferential trade access in the US, with lower duties than our competitor nations'": [
+   "The Tribune",
+   "Telangana Today",
+   "The Hans India (IANS)"
+  ],
+  "India wants the ASEAN-India Trade in Goods Agreement review concluded sooner": [
+   "The Tribune (ANI)",
+   "The Federal"
+  ],
+  "26 killed in a head-on collision of a minibus and a container truck at Rongajan, Kaziranga, Friday 13 Nov evening": [
+   "Assam Tribune",
+   "NE Now",
+   "Hub Network"
+  ],
+  "Minibus owner arrested over alleged motor vehicle violations": [
+   "Assam Tribune",
+   "NE Now",
+   "Hub Network"
+  ],
+  "Police: speed-limiting device on record but not there in practice (suspected tampering)": [
+   "Assam Tribune (SSP Swapnaneel Deka)",
+   "NE Now (police suspect tampering)"
+  ],
+  "Minibus had 12 earlier violations on record": [
+   "Assam Tribune (12 times since 2025)",
+   "NE Now (12 earlier challans)"
+  ],
+  "Assam steps up checks on speed limiters": [
+   "Assam Tribune (checks intensified, Guwahati)",
+   "The Times of India (checks run across state)"
+  ],
+  "ICC Board, after its Bali meetings, approved men's event dates to 2035 on Sun 15 Nov": [
+   "The Tribune (PTI)",
+   "CricTracker",
+   "Sportskeeda"
+  ],
+  "India hosts the 2029 Champions Trophy, 9-28 Oct": [
+   "The Tribune (PTI)",
+   "CricTracker",
+   "Sportskeeda"
+  ],
+  "India and Bangladesh co-host the 2031 World Cup, 9 Oct-23 Nov": [
+   "The Tribune (PTI)",
+   "CricTracker"
+  ],
+  "Hosts were named in 2021": [
+   "ESPNcricinfo (2021)",
+   "CricTracker (2021)"
+  ],
+  "Houthi forces about 60 km from Aden, the government's interim seat, per AFP's military sources": [
+   "France 24 (AFP)",
+   "Times of Israel liveblog"
+  ],
+  "Government-allied forces withdrew from the Bab el-Mandeb area to defend Aden": [
+   "Al Jazeera (with Reuters)",
+   "France 24 (AFP)"
+  ],
+  "Bab el-Mandeb is a vital Red Sea shipping lane": [
+   "Al Jazeera (Sept 2026)",
+   "The Financial Express BD (Reuters)"
+  ]
+ },
+ "tags": [],
+ "tag_evidence": "No tag: NASA Worldview (public-domain government imagery); no brand/studio image owner.",
+ "photo_source": {
+  "page": "https://worldview.earthdata.nasa.gov/?v=79,2,94.2,21&l=MODIS_Aqua_CorrectedReflectance_TrueColor&t=2026-11-15",
+  "image_url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-15&BBOX=2,79,21,94.2&CRS=EPSG:4326&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1920&HEIGHT=2400",
+  "licence": "NASA/EOSDIS GIBS imagery via NASA Worldview, US government work, public domain",
+  "author": "NASA Worldview / MODIS Aqua",
+  "credit": "Image: NASA Worldview (MODIS Aqua)",
+  "viewed": true,
+  "width": 1920,
+  "height": 2400,
+  "local_file": "_work/2026-11-16-hourly-0757/idlynews/aqua_1115_b.jpg",
+  "dl": "OK 1920x2400 (0 faces)",
+  "framing": {
+   "tool": "python3 -m pipeline.framing",
+   "ok": true,
+   "photo": "_work/2026-11-16-hourly-0757/idlynews/frame_1/cover_source.png",
+   "focal_suggested": [
+    0.5,
+    0.5
+   ],
+   "focal_used": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.56,
+   "faces": 0
+  }
+ },
+ "alt_text": "NASA Worldview satellite image (MODIS Aqua, 15 November 2026) of the Bay of Bengal: a large mass of white cloud with curved bands from the developing weather system spreads across the Bay, with the Myanmar coast at top right and the Andaman Islands at right. Headline: \"IMD: Cyclone Likely Tonight, 145 KMPH Andhra Gusts 19 Nov\". Detail slides: PM Modi at the ASEAN-India Summit in Manila on 17 November, as Piyush Goyal says India gets lower US duties than rivals; 26 killed in the Kaziranga minibus-truck crash in Assam and the minibus owner arrested; India's 2029 Champions Trophy dates, 9-28 October, fixed by the ICC; Houthis 60 km from Aden, AFP reports, as government-allied forces quit Bab el-Mandeb.",
+ "candidates": [
+  {
+   "title": "Morning Brief, cyclone lead (deep depression; CS tonight; AP coast gusts 145 km/h 19-20 Nov) + Manila/Goyal, Kaziranga, ICC dates, Yemen",
+   "gate1": "BUILD, predicted ceiling 12-13 (081227-idlynews-g1)"
+  },
+  {
+   "title": "Morning Brief with Modi-in-Manila lead",
+   "gate1": "HOLD ~9 (weaker image, no confirmed meeting)"
+  },
+  {
+   "title": "Houthis 60 km From Aden; Yemen Govt Pulls Troops From Bab el-Mandeb (single post)",
+   "gate1": "HOLD ~10 (world story, no clean image); used as item 5"
+  }
+ ],
+ "skipped": [
+  {
+   "title": "Delhi AQI improves to 216 'poor' (BS, ET)",
+   "reason": "one-day dip; GRAP III status unclear in sources"
+  },
+  {
+   "title": "PMO summons DoT secretary over 129 sites blocked on forged court orders",
+   "reason": "14 Nov, report-sourced; 2 days old (follow-up to our 11 Nov post)"
+  },
+  {
+   "title": "TN CM Vijay at Sonia Gandhi's book launch in Delhi (story 2465)",
+   "reason": "expected event, no development yet; would need TN baseline framing"
+  },
+  {
+   "title": "Iran IRGC claims drone strike on US base in Bahrain; CENTCOM disputes",
+   "reason": "conflicting claims; Hormuz 'two days' offer single-sourced"
+  },
+  {
+   "title": "Prince William and Kate in Mumbai for Earthshot Prize (story 2477)",
+   "reason": "awards not yet held; arrival only"
+  },
+  {
+   "title": "'Cabinet approves 2% DA hike' headline",
+   "reason": "stale; the latest is the 3% hike approved 28 Oct"
+  },
+  {
+   "title": "API 2517 Prince Harry in Ukraine; 2509 Canary Islands migrants; 2502 Rajasthan marriage dispute; 2461 Washington golf course",
+   "reason": "royal/personal angle, low India relevance, or private-individual dispute"
+  },
+  {
+   "title": "Kaziranga '41 aboard vs capacity 27' and '₹9 lakh per family' details",
+   "reason": "single-sourced; left out"
+  }
+ ],
+ "gates": {
+  "1": "081227-idlynews-g1: BUILD candidate 1 (ceiling 12-13); C2 HOLD ~9, C3 HOLD ~10 (item 5 only). Applied: cyclone on cover+caption only, no storm name/landfall, neutral attribution, Modi-Trump only as MEA would not say.",
+  "23": "081826-idlynews-g23: FIX (words), picture PASS. Applied: cover -> 'IMD: Cyclone Likely Tonight, 145 KMPH Andhra Gusts 19 Nov'; slide 2 'PM Modi...', 'Foreign ministry would not say...', 'Goyal says...'; slide 3 '12 earlier violations on record'; slide 5 sandbag bullet dropped (2 bullets).",
+  "4": "082039-idlynews-g4: PASS 12/14 (hook 2, read 1, send 2, keep 1, reply 2, original 2, alone 2); no layout faults; cover logo legible. Score file _work/2026-11-16-hourly-0757/gates/scores/idlynews-reviewer-score.json"
+ }
+}
