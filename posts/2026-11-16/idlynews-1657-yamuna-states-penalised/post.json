@@ -1,0 +1,44 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-yamuna-states-penalised",
+ "date": "16 Nov 2026",
+ "sources": [
+  "LiveLaw",
+  "Bar & Bench"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Supreme Court: States Where the Yamuna Gets Dirtier Will Be Penalised",
+   "photo": "_work/2026-11-16-hourly-1657/idlynews/frame_isbt_a/cover_source.png",
+   "photo_credit": "Photo: ArmouredCyborg / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "520",
+   "stat_label": "Drains Empty Into the Yamuna, Supreme Court Notes",
+   "bullets": [
+    "Pollution board: all 37 Delhi sewage plants fell short",
+    "Water to be tested at every state, district border",
+    "Polluters, negligent officials can be made to pay"
+   ],
+   "credit_line": "Sources: LiveLaw, Bar & Bench"
+  },
+  {
+   "type": "detail",
+   "stat": "1 MONTH",
+   "stat_label": "To Fit Smart Meters at Every Yamuna Sewage Plant",
+   "bullets": [
+    "Live data online; 24-hour gap presumed shutdown",
+    "States name a Yamuna nodal officer in 2 weeks",
+    "Order of 4 Nov; next hearing 13 Jan 2027"
+   ],
+   "credit_line": "Sources: LiveLaw, Bar & Bench"
+  }
+ ]
+}

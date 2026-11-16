@@ -1,0 +1,77 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Supreme Court (Justices Manoj Misra, Manmohan; NOIDA v. State of UP, order dated 4 Nov 2026, reported 16 Nov) says a State/UT/district where the Yamuna's water quality deteriorates 'shall be held accountable and penalised'; CPCB to sample at every state/district entry and exit and suggest a fine formula recoverable from polluters and negligent officials; all STPs, CETPs, govt biogas plants to fit tamper-proof smart meters and sensors within one month with live data (24-hour gap presumed non-operation); basin states to name a nodal officer within two weeks; 520 drains; CPCB report: none of Delhi's 37 STPs met all norms; next hearing 13 Jan 2027.",
+ "headline": "Supreme Court: States Where the Yamuna Gets Dirtier Will Be Penalised",
+ "sources": [
+  {
+   "outlet": "LiveLaw",
+   "date": "2026-11-16",
+   "url": "https://www.livelaw.in/supreme-court/despite-huge-sums-spent-on-cleaning-yamuna-pollution-has-only-increased-supreme-court-warns-penalties-on-states-uts-558577"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "2026-11-16",
+   "url": "https://www.barandbench.com/news/litigation/poor-health-of-yamuna-reflects-everything-wrong-with-civic-administration-supreme-court"
+  },
+  {
+   "outlet": "PTI (via DT Next)",
+   "date": "2026-11-16",
+   "url": "https://www.dtnext.in/news/national/pollution-in-yamuna-increased-despite-huge-expenditure-on-cleaning-sc"
+  },
+  {
+   "outlet": "Lawchakra",
+   "date": "2026-11-16",
+   "url": "https://lawchakra.in/supreme-court/yamuna-pollution-monitoring/"
+  }
+ ],
+ "tags": [],
+ "tag_evidence": "No tag: image is a Wikimedia Commons photographer's own work (ArmouredCyborg), no official brand account.",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Yamuna%2C_ISBT.jpg/3840px-Yamuna%2C_ISBT.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yamuna,_ISBT.jpg",
+  "owner": "ArmouredCyborg (Wikimedia Commons, own work)",
+  "licence": "CC BY-SA 4.0",
+  "size": [
+   3574,
+   2682
+  ],
+  "downloaded_size": [
+   3840,
+   2882
+  ],
+  "crop": {
+   "box": [
+    1570,
+    1180,
+    2930,
+    2880
+   ],
+   "size": [
+    1360,
+    1700
+   ]
+  },
+  "framing": {
+   "ok": true,
+   "photo": "_work/2026-11-16-hourly-1657/idlynews/frame_isbt_a/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.79,
+   "faces": 0
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "gates": {
+  "G1": "170811-idlynews-G1: A (Yamuna SC order) BUILD ceiling 13; B Jharkhand HC cruelty HOLD 10; C Kerala HC DJ curbs HOLD 9.",
+  "G23": "171210-idlynews-G23: FIX (presumed shutdown wording; CPCB attribution; flood file photo -> swap to ISBT crop or label) -> applied; 171427-idlynews-G23: PASS.",
+  "G4": "171505-idlynews-G4: PASS 13/14 (hook 2, read 2, send 2, keep 2, reply 1, original 2, alone 2); no layout faults; minor: '1 MONTH' swash glyphs crowd, optional 'none met all norms' wording."
+ },
+ "main_edit": "Main 17:20: caption trimmed to two-sourced facts (dropped B&B-only '28 of 37 per Delhi draft plan' and Zone O lines); PTI added to Sources. Order date 4 Nov + hearing 13 Jan 2027 confirmed by B&B, PTI, Lawchakra; 24 h presumption by B&B + Lawchakra; none of 37 STPs met all norms by LiveLaw + B&B."
+}

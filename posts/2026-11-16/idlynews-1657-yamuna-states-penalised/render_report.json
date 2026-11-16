@@ -1,0 +1,58 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Photo: ArmouredCyborg / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "slug": "idlynews-1657-yamuna-states-penalised",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-1657/idlynews/render/idlynews-1657-yamuna-states-penalised/01.jpg",
+  "scale": 0.794
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: LiveLaw, Bar & Bench",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-yamuna-states-penalised",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlynews/render/idlynews-1657-yamuna-states-penalised/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: LiveLaw, Bar & Bench",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-yamuna-states-penalised",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlynews/render/idlynews-1657-yamuna-states-penalised/03.jpg",
+  "scale": null
+ }
+]
