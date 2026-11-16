@@ -1,0 +1,60 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "EC tells Supreme Court (14 Nov affidavit) that voters dropped from rolls who re-apply on Form 6 won't be prosecuted under s.31 RP Act 1950 for that alone, if not enrolled elsewhere; SSR claims open till 11 Dec in 13 states and 3 UTs, final rolls 4 Jan 2027",
+ "headline": "Dropped From Voter List? Re-Applying Won't Risk 1-Year Jail, EC Tells SC",
+ "sources": [
+  {
+   "outlet": "LiveLaw",
+   "date": "16 Nov 2026",
+   "url": "https://www.livelaw.in/top-stories/no-prosecution-against-sir-deleted-voters-filing-form-6-to-restore-names-in-electoral-rolls-eci-tells-supreme-court-558527"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "16 Nov 2026",
+   "url": "https://www.barandbench.com/news/litigation/deleted-voters-wont-be-prosecuted-for-using-form-6-for-re-enrolment-eci-to-supreme-court"
+  },
+  {
+   "outlet": "The New Indian Express",
+   "date": "15 Nov 2026",
+   "url": "https://www.newindianexpress.com/india/2026/Nov/15/ec-assures-sc-no-prosecution-for-voters-reapplying-through-form-6-after-sir-draft-roll-deletions"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "date": "16 Nov 2026",
+   "url": "https://www.hindustantimes.com/india-news/special-summary-revision-about-5-million-voters-added-across-9-states-fraction-of-sir-removals-101794806567761.html"
+  },
+  {
+   "outlet": "DT Next",
+   "date": "16 Oct 2026",
+   "url": "https://www.dtnext.in/news/tamilnadu/election-commission-to-begin-special-summary-revision-on-nov-12-claims-objections-open-till-dec-11-2"
+  },
+  {
+   "outlet": "Representation of the People Act, 1950, s.31 (Indian Kanoon)",
+   "date": "statute",
+   "url": "https://indiankanoon.org/doc/55081742/"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "13 Oct 2026",
+   "url": "https://www.barandbench.com/news/delhi-sir-plea-in-supreme-court-challenges-eci-directive-requiring-deleted-voters-to-enrol-afresh"
+  }
+ ],
+ "tags": [],
+ "image": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Hon%27ble_Apex_Court.jpg/3840px-Hon%27ble_Apex_Court.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hon%27ble_Apex_Court.jpg",
+  "owner": "Pinaki1983 (Wikimedia Commons, own work, 3 Feb 2017)",
+  "licence": "CC BY-SA 4.0",
+  "size": "4096x2699 original (3840x2530 downloaded)",
+  "faces": 0,
+  "viewed": true
+ },
+ "gates": {
+  "G1": "121129-idlynews-G1: BUILD candidate 1 (ceiling 12-13); C2 cyclone HOLD (4th cyclone post in 30 h, not named), C3 Xi-Trump-Putin HOLD (no India angle). Applied: EC position attributed, condition on slide, stat-led cover, acronyms off slides.",
+  "G23": "121725-idlynews-G23: FIX slide 3 (name the revision; replace near-repeat bullet with Form 6 how-to), facts and picture PASS -> applied; 121821-idlynews-G23: PASS.",
+  "G4": "121845-idlynews-G4: PASS 13/14 (hook 2, read 2, send 2, keep 2, reply 2, original 2, alone 1); no layout faults. Score file _work/2026-11-16-hourly-1157/gates/121845-idlynews-G4.score.json"
+ }
+}

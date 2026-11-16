@@ -1,0 +1,47 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1157-form-6-no-prosecution",
+ "date": "16 Nov 2026",
+ "sources": [
+  "LiveLaw",
+  "Bar & Bench",
+  "The New Indian Express",
+  "Hindustan Times",
+  "DT Next"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Dropped From Voter List? Re-Applying Won't Risk 1-Year Jail, EC Tells SC",
+   "photo": "_work/2026-11-16-hourly-1157/idlynews/frame_apex/cover_source.png",
+   "photo_credit": "Photo: Pinaki1983 / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1 YEAR",
+   "stat_label": "Max Jail Term for a False Voter-Roll Declaration",
+   "bullets": [
+    "EC: re-filing Form 6 isn't, by itself, a false declaration",
+    "Condition: not enrolled in any other constituency",
+    "States told to publicise this in local languages"
+   ],
+   "credit_line": "Sources: LiveLaw, Bar & Bench, The New Indian Express"
+  },
+  {
+   "type": "detail",
+   "stat": "11 DEC",
+   "stat_label": "Voter-List Claims Close in 13 States, 3 UTs",
+   "bullets": [
+    "Special Summary Revision draft lists came out on 12 Nov",
+    "Removed in the Special Intensive Revision? Use Form 6",
+    "Final voter lists due 4 January 2027"
+   ],
+   "credit_line": "Sources: Hindustan Times, DT Next, Bar & Bench"
+  }
+ ]
+}

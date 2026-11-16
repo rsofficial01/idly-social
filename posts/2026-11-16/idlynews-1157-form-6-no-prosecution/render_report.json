@@ -1,0 +1,58 @@
+[
+ {
+  "size": 84,
+  "lines": 3,
+  "overflow": false,
+  "top": 998,
+  "credit_line": "Photo: Pinaki1983 / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+  "slug": "idlynews-1157-form-6-no-prosecution",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-16/idlynews-1157-form-6-no-prosecution/01.jpg",
+  "scale": 0.534
+ },
+ {
+  "stat": 268,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: LiveLaw, Bar & Bench, The New Indian Express",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-form-6-no-prosecution",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-16/idlynews-1157-form-6-no-prosecution/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 296,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hindustan Times, DT Next, Bar & Bench",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-form-6-no-prosecution",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-16/idlynews-1157-form-6-no-prosecution/03.jpg",
+  "scale": null
+ }
+]
