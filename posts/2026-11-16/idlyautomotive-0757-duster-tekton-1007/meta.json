@@ -1,0 +1,228 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "October 2026 dealer dispatches: Renault Duster 601 (Sep 465; April peak 2,359; launched March 2026 at Rs 10.49-18.49 lakh), Nissan Tekton 406 (Sep 409; July launch month 1,670; launched 9 July 2026 from Rs 10.49 lakh, shares Duster platform) = 1,007 together; Magnite 1,656, Gravite 1,532; Hyundai Creta 17,955. Autocar Pro (Sep) reasons: no diesel, 20+ segment rivals. Duster strong hybrid first deliveries 6 Nov.",
+ "headline": "Duster and Nissan Tekton Dispatches: 1,007 in October",
+ "sources": [
+  {
+   "outlet": "Rushlane",
+   "date": "2026-11-15",
+   "url": "https://www.rushlane.com/renault-nissan-sales-breakup-oct-2026-triber-duster-gravite-tekton-12560951.html"
+  },
+  {
+   "outlet": "AutoPunditz (Renault Oct 2026)",
+   "date": "2026-11-11",
+   "url": "https://www.autopunditz.com/post/renault-car-sales-october-2026-triber-kwid-duster-kiger"
+  },
+  {
+   "outlet": "AutoPunditz (Nissan Oct 2026)",
+   "date": "2026-11",
+   "url": "https://www.autopunditz.com/post/nissan-car-sales-october-2026-magnite-gravite-tekton"
+  },
+  {
+   "outlet": "Rushlane (April 2026 breakup)",
+   "date": "2026-05-24",
+   "url": "https://www.rushlane.com/renault-nissan-sales-breakup-april-2026-duster-triber-kiger-12546306.html"
+  },
+  {
+   "outlet": "Autocar Professional (Duster and Tekton lowest sales in August)",
+   "date": "2026-09-19",
+   "url": "https://www.autocarpro.in/analysis-sales/renault-duster-and-nissan-tekton-post-their-lowest-monthly-sales-in-august-134801"
+  },
+  {
+   "outlet": "Autocar Professional (Tekton best-seller in July)",
+   "date": "2026-08-11",
+   "url": "https://www.autocarpro.in/analysis/new-tekton-midsize-suv-is-nissan-indias-best-selling-model-in-july-134029"
+  },
+  {
+   "outlet": "AutoPunditz (Nissan July 2026)",
+   "date": "2026-08",
+   "url": "https://www.autopunditz.com/post/nissan-dispatches-july-2026-tekton-magnite-gravite"
+  },
+  {
+   "outlet": "Rushlane (Duster launch)",
+   "date": "2026-03-17",
+   "url": "https://www.rushlane.com/new-renault-duster-launch-price-rs-10-49-lakh-12542041.html"
+  },
+  {
+   "outlet": "Business Today (Tekton launch)",
+   "date": "2026-07-09",
+   "url": "https://www.businesstoday.in/auto/story/nissan-tekton-launched-in-india-at-rs10-49-lakh-check-variants-key-features-542098-2026-07-09"
+  },
+  {
+   "outlet": "Autocar Professional (Tekton launch)",
+   "date": "2026-07-09",
+   "url": "https://www.autocarpro.in/news/nissan-launches-tekton-at-rs-1049-lakhrs-1859-lakh-re-enters-indias-high-volume-midsize-suv-segment-133518"
+  },
+  {
+   "outlet": "EVO India (Tekton, Duster's twin)",
+   "date": "2026-07-09",
+   "url": "https://www.evoindia.com/news/car-news/nissan-tekton-launched-in-india-dusters-twin-starts-at-105-lakh-587529"
+  },
+  {
+   "outlet": "CarWale (top mid-size SUVs Oct 2026)",
+   "date": "2026-11-11",
+   "url": "https://www.carwale.com/news/top-selling-mid-size-suvs-in-october-2026-hyundai-creta-retains-the-top-spot/"
+  },
+  {
+   "outlet": "AutoPunditz (mid-size SUVs Oct 2026)",
+   "date": "2026-11-09",
+   "url": "https://www.autopunditz.com/post/best-selling-mid-size-suvs-october-2026-india"
+  },
+  {
+   "outlet": "CarWale (Duster hybrid deliveries)",
+   "date": "2026-11-10",
+   "url": "https://www.carwale.com/news/renault-duster-hybrid-deliveries-begin/"
+  },
+  {
+   "outlet": "Autocar Professional (Duster hybrid, deliveries from 6 Nov)",
+   "date": "2026-10",
+   "url": "https://www.autocarpro.in/news/renault-launches-duster-strong-hybrid-at-rs-1699-lakh-deliveries-from-november-6-135302"
+  }
+ ],
+ "fact_sources": {
+  "Duster Oct 2026 dispatches 601 (Sep 465)": [
+   "Rushlane 15 Nov",
+   "AutoPunditz Renault Oct 2026"
+  ],
+  "Tekton Oct 2026 dispatches 406 (Sep 409)": [
+   "Rushlane 15 Nov",
+   "AutoPunditz Nissan Oct 2026"
+  ],
+  "Magnite 1,656 and Gravite 1,532 in Oct 2026": [
+   "Rushlane 15 Nov",
+   "AutoPunditz Nissan Oct 2026"
+  ],
+  "Duster April 2026 dispatches 2,359 (March 1,402)": [
+   "Rushlane April 2026 breakup",
+   "Autocar Professional 19 Sep"
+  ],
+  "Duster launched March 2026 at Rs 10.49-18.49 lakh ex-showroom": [
+   "Rushlane 17 Mar",
+   "Autocar Professional 19 Sep"
+  ],
+  "Tekton launched 9 July 2026 from Rs 10.49 lakh": [
+   "Business Today 9 Jul",
+   "Autocar Professional launch article",
+   "Autocar Professional 11 Aug"
+  ],
+  "Tekton shares the Duster's platform": [
+   "Autocar Professional 11 Aug",
+   "EVO India"
+  ],
+  "Tekton July 2026 dispatches 1,670": [
+   "Autocar Professional 11 Aug",
+   "AutoPunditz Nissan July 2026"
+  ],
+  "Hyundai Creta Oct 2026 dispatches 17,955; leads mid-size SUVs": [
+   "CarWale 11 Nov",
+   "AutoPunditz mid-size SUVs Oct 2026"
+  ],
+  "Reasons: no diesel, 20+ models in segment": [
+   "Autocar Professional 19 Sep (attributed, Sep analysis)"
+  ],
+  "Duster strong hybrid first deliveries 6 Nov": [
+   "CarWale",
+   "Autocar Professional"
+  ],
+  "Figures are dispatches to dealers, not registrations": [
+   "Rushlane",
+   "AutoPunditz",
+   "Autocar Professional"
+  ]
+ },
+ "tags": [
+  "renaultindia"
+ ],
+ "tag_evidence": "Image owner is Renault India; its own Duster model page https://www.renault.co.in/cars/renault-duster.html links instagram.com/renaultindia (checked 16 Nov 2026); same handle passed review on the 10 and 11 Nov Duster posts.",
+ "photo_source": {
+  "page": "https://www.renault.co.in/cars/renault-duster.html",
+  "image_url": "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/rb3k5/reveal/overview/duster-overview-cover-first-mobile-004.jpg",
+  "licence": "Official Renault India product image on the maker's own model page (manufacturer media), credited",
+  "author": "Renault India",
+  "credit": "Image: Renault India",
+  "viewed": true,
+  "width": 2560,
+  "height": 4551,
+  "subject": "New Renault Duster (green), whole, side profile on a gravel clearing, rock face and waterfalls behind; no people, no text, no watermark; not the image used on 10 or 11 Nov",
+  "framing": {
+   "tool": "python3 -m pipeline.framing",
+   "ok": true,
+   "photo": "_work/2026-11-16-hourly-0757/idlyautomotive/frame_004/cover_source.png",
+   "focal_suggested": [
+    0.5,
+    0.5
+   ],
+   "focal_used": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.0,
+   "upscale": 0.42,
+   "faces": 0,
+   "why_focal": "bottom-aligned crop puts the whole car above the headline block, logo in clear sky"
+  }
+ },
+ "alt_text": "Renault India's photo of the new green Renault Duster in side profile on a gravel clearing, with a rock face and waterfalls behind it, and the headline: Duster and Nissan Tekton Dispatches: 1,007 in October.",
+ "candidates": [
+  {
+   "title": "Launches This Week 16-22 Nov (Monday special)",
+   "gate1": "081451-idlyautomotive-g1: cannot run, no maker-confirmed India launches/prices/bookings dated 16-22 Nov"
+  },
+  {
+   "title": "Duster + Nissan Tekton 1,007 October dispatches",
+   "gate1": "082350-idlyautomotive-g1: BUILD, ceiling 12"
+  },
+  {
+   "title": "Duster alone 601",
+   "gate1": "HOLD ~10 (third Duster lead this week)"
+  },
+  {
+   "title": "Toyota October: dispatches -27%, Glanza -86%",
+   "gate1": "HOLD ~9 (3 days old, one source)"
+  },
+  {
+   "title": "Innova Hycross facelift teaser",
+   "gate1": "HOLD ~10 (date not Toyota-confirmed, teaser image)"
+  },
+  {
+   "title": "Mahindra first NU_IQ SUV by July 2027",
+   "gate1": "HOLD ~10 (stale, concept image)"
+  },
+  {
+   "title": "Hyundai Neira reveal 20 Nov (Jakarta)",
+   "gate1": "HOLD ~8 (not India)"
+  }
+ ],
+ "skipped": [
+  {
+   "story_id": 2471,
+   "title": "Denza D9 Rs 90 lakh",
+   "reason": "already live 13 Nov"
+  },
+  {
+   "story_id": 2459,
+   "title": "Kia second Andhra plant",
+   "reason": "already live 12 Nov; 2030/12,000-jobs details were in 12 Nov reports, not a new development"
+  },
+  {
+   "title": "Tata 2026 sales pass all of 2025 (Rushlane 16 Nov)",
+   "reason": "Tata October/YTD numbers already live (12 and 15 Nov posts)"
+  },
+  {
+   "title": "October two-wheeler model-wise tables",
+   "reason": "not published by any outlet yet"
+  },
+  {
+   "title": "Recalls/NCAP/price hikes",
+   "reason": "nothing new in 48 h; aggregator recall items are old stories; Kiger GNCAP already live"
+  }
+ ],
+ "gates": {
+  "1": "081451-idlyautomotive-g1: special cannot run, A/B/C HOLD; second pass 082350-idlyautomotive-g1: BUILD Duster+Tekton (ceiling 12) with conditions applied",
+  "23": "082901-idlyautomotive-g23: FIX (cover 'Sold' -> dispatch wording; slide 4 bullets sourced/attributed 'Autocar Professional (Sep)'), picture PASS; fixes applied, no re-submit needed per reviewer",
+  "4": "083015-idlyautomotive-g4: PASS 12/14 (hook 2, read 2, send 1, keep 1, reply 2, original 2, alone 2); score file _work/2026-11-16-hourly-0757/gates/scores/idlyautomotive-reviewer-score.json"
+ }
+}

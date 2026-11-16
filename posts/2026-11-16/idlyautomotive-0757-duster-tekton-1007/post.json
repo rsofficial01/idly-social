@@ -1,0 +1,56 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0757-duster-tekton-1007",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Rushlane",
+  "AutoPunditz",
+  "Autocar Professional",
+  "CarWale"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Duster and Nissan Tekton Dispatches: 1,007 in October",
+   "photo": "_work/2026-11-16-hourly-0757/idlyautomotive/frame_004/cover_source.png",
+   "photo_credit": "Image: Renault India",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "601",
+   "stat_label": "Renault Dusters Dispatched to Dealers in October",
+   "bullets": [
+    "Down from 2,359 in April, its first full month",
+    "₹10.49–18.49 lakh ex-showroom since its March launch",
+    "Strong hybrid deliveries began 6 Nov, after these figures"
+   ],
+   "credit_line": "Sources: Rushlane, AutoPunditz, Autocar Professional"
+  },
+  {
+   "type": "detail",
+   "stat": "406",
+   "stat_label": "Nissan Tektons Dispatched to Dealers in October",
+   "bullets": [
+    "Built on the Duster's platform, on sale since 9 July",
+    "Down from 1,670 in July, its launch month",
+    "Nissan's Magnite (1,656) and Gravite (1,532) outsold it"
+   ],
+   "credit_line": "Sources: Rushlane, AutoPunditz, Autocar Professional"
+  },
+  {
+   "type": "detail",
+   "stat": "17,955",
+   "stat_label": "Hyundai Cretas Dispatched in the Same Month",
+   "bullets": [
+    "Hyundai Creta leads India's mid-size SUV segment",
+    "Autocar Professional (Sep) cites no diesel and 20-plus rivals"
+   ],
+   "credit_line": "Sources: CarWale, AutoPunditz, Autocar Professional"
+  }
+ ]
+}
