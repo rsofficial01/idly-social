@@ -1,0 +1,46 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Retailers say Xiaomi raised prices of 19 Redmi variants in India by ₹1,000-₹4,000 from Mon 16 Nov 2026 (Moneycontrol), citing rising memory costs; Redmi Note 17 Pro (8GB+128GB) ₹36,999 -> ₹40,999 (+₹4,000) and Redmi Note 17 (6GB+128GB) ₹27,999 -> ₹30,999 (+₹3,000); old prices per The Tech Outlook check of Mi.com; 91mobiles reports hikes up to ₹4,000",
+ "headline": "Redmi Phones Cost Up to ₹4,000 More From 16 Nov, Retailers Say",
+ "sources": [
+  {
+   "outlet": "91mobiles",
+   "date": "16 Nov 2026",
+   "url": "https://www.91mobiles.com/hub/multiple-redmi-smartphones-receive-price-hike-rs-4000/"
+  },
+  {
+   "outlet": "Moneycontrol",
+   "date": "16 Nov 2026",
+   "url": "https://www.moneycontrol.com/technology/party-s-over-samsung-xiaomi-raise-smartphone-prices-by-up-to-19-after-diwali-article-14080794.html"
+  },
+  {
+   "outlet": "The Tech Outlook",
+   "date": "16 Nov 2026",
+   "url": "https://www.thetechoutlook.com/news/e-commerce/several-redmi-smartphones-tipped-to-receive-price-hikes-of-up-to-inr-4000-in-india-starting-today/"
+  }
+ ],
+ "tags": [
+  "xiaomiindia"
+ ],
+ "image": {
+  "url": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-17-pro-5g-in/pc/bg-screen14-v2.png",
+  "page": "https://www.mi.com/in/product/redmi-note-17-pro-5g/",
+  "owner": "Xiaomi India (official product page imagery)",
+  "licence": "official product/press image, credited 'Image: Xiaomi'",
+  "size": [
+   2560,
+   1271
+  ],
+  "crop": "x480-1497 y0-1271 (1017x1271)",
+  "faces": 0,
+  "viewed": true
+ },
+ "gates": {
+  "G1": "121342-idlytech-G1: Alexa for Shopping conditional BUILD (ceiling 12), TRAI HOLD, SF Declaration HOLD; 122403-idlytech-G1 (pass 2): Samsung/Redmi price hikes conditional BUILD (ceiling 12), build Redmi-only if Samsung single-source",
+  "G23": "121803-idlytech-G23: FIX on Alexa (no >=900px India-clean image) -> Alexa HOLD; 122832-idlytech-G23 (pass 2, Redmi): FIX (cut single-source prices, add Retailers Say, drop PaidFreeDroid) - all applied before G4; picture PASS",
+  "G4": "123007-idlytech-G4: PASS 13/14 (hook 2, read 2, send 1, keep 2, reply 2, original 2, alone 2)"
+ }
+}

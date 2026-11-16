@@ -1,0 +1,43 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1157-redmi-price-hike",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Moneycontrol",
+  "91mobiles",
+  "The Tech Outlook"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Redmi Phones Cost Up to ₹4,000 More From 16 Nov, Retailers Say",
+   "photo": "_work/2026-11-16-hourly-1157/idlytech/frame-rn/cover_source.png",
+   "photo_credit": "Image: Xiaomi",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹40,999",
+   "stat_label": "Redmi Note 17 Pro (8GB+128GB), Up ₹4,000",
+   "bullets": [
+    "Was ₹36,999 on Xiaomi's India site",
+    "Reported reason: rising memory chip costs"
+   ],
+   "credit_line": "Sources: Moneycontrol, 91mobiles, The Tech Outlook"
+  },
+  {
+   "type": "detail",
+   "stat": "₹30,999",
+   "stat_label": "Redmi Note 17 (6GB+128GB), Up ₹3,000 From 16 Nov",
+   "bullets": [
+    "Up from ₹27,999 before the change",
+    "Retailers say 19 Redmi variants rose ₹1,000-₹4,000"
+   ],
+   "credit_line": "Sources: Moneycontrol, 91mobiles, The Tech Outlook"
+  }
+ ]
+}
