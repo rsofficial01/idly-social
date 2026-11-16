@@ -1,0 +1,58 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Image: Rockstar Games",
+  "slug": "idlynerd-2057-gta6-12-million-preorders",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-2057/idlynerd/render/idlynerd-2057-gta6-12-million-preorders/01.jpg",
+  "scale": 0.625
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Sensor Tower via Motor1, GameSpot",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2057-gta6-12-million-preorders",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-2057/idlynerd/render/idlynerd-2057-gta6-12-million-preorders/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 260,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PlayStation India, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-2057-gta6-12-million-preorders",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-2057/idlynerd/render/idlynerd-2057-gta6-12-million-preorders/03.jpg",
+  "scale": null
+ }
+]

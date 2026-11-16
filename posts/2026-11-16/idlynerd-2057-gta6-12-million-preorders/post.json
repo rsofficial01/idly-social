@@ -1,0 +1,48 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2057-gta6-12-million-preorders",
+ "date": "16 Nov 2026",
+ "story_id": 2632,
+ "sources": [
+  "Sensor Tower",
+  "Motor1",
+  "GameSpot",
+  "PlayStation India",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "GTA VI Passes 12 Million Pre-Orders, Sensor Tower Estimates",
+   "photo": "_work/2026-11-16-hourly-2057/idlynerd/frame_Leonida_Keys_01/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.42,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "12M+",
+   "stat_label": "GTA VI Pre-Orders, Sensor Tower Estimates",
+   "bullets": [
+    "Counted to 13 Nov, worth over $1 billion",
+    "About 3 in 4 are PS5 copies",
+    "Rockstar and Take-Two haven't confirmed a count"
+   ],
+   "credit_line": "Sources: Sensor Tower via Motor1, GameSpot"
+  },
+  {
+   "type": "detail",
+   "stat": "19 NOV",
+   "stat_label": "GTA VI Unlocks at 12 AM IST",
+   "bullets": [
+    "Wednesday night into Thursday, per store listings",
+    "PS Store India: ₹5,999 Standard, ₹7,499 Ultimate",
+    "On PS5 and Xbox Series X|S only"
+   ],
+   "credit_line": "Sources: PlayStation India, Business Today"
+  }
+ ]
+}
