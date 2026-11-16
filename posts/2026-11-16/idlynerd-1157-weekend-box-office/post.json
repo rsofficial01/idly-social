@@ -1,0 +1,55 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-1157-weekend-box-office",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Sacnilk",
+  "Koimoi",
+  "Bollywood Hungama"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Ramayana's ₹196 Crore Is India's Biggest Second Weekend, Sacnilk Says",
+   "photo": "_work/2026-11-16-hourly-1157/idlynerd/frame/cover_source.png",
+   "photo_credit": "Image: DNEG",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹760.60 CR",
+   "stat_label": "Ramayana's India Net After 11 Days, Trade Tracker Sacnilk's Estimate",
+   "bullets": [
+    "Second weekend ₹196 crore beat its first, ₹174 crore",
+    "Beat Pushpa 2's ₹176.30 crore, Sacnilk's own count",
+    "Bollywood Hungama counts lower: ₹184.41 crore weekend"
+   ],
+   "credit_line": "Sources: Sacnilk, Bollywood Hungama, ETV Bharat"
+  },
+  {
+   "type": "detail",
+   "stat": "₹136.5 CR",
+   "stat_label": "Suriya's Scene: India Net After 10 Days",
+   "bullets": [
+    "Scene's second weekend, 13-15 Nov: ₹24.8 crore net",
+    "Now Suriya's second-biggest film, after Karuppu",
+    "Worldwide gross after 10 days: over ₹240 crore"
+   ],
+   "credit_line": "Sources: Sacnilk, Koimoi, DNA India"
+  },
+  {
+   "type": "detail",
+   "stat": "20 NOV",
+   "stat_label": "Ramayana's Two-Week IMAX Exclusivity in India Ends",
+   "bullets": [
+    "Godzilla Minus Zero opens in Indian cinemas that Friday",
+    "IMAX screens included, via PVR INOX Pictures"
+   ],
+   "credit_line": "Sources: Sacnilk, Bollywood Hungama"
+  }
+ ]
+}
