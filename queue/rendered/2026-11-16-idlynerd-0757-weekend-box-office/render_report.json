@@ -1,0 +1,184 @@
+{
+  "slug": "2026-11-16-idlynerd-0757-weekend-box-office",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-16T02:48:06+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=F8VR9LQc40s",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=F8VR9LQc40s",
+    "source_url": "https://www.youtube.com/watch?v=F8VR9LQc40s",
+    "image_url": "https://i.ytimg.com/vi/F8VR9LQc40s/maxresdefault.jpg",
+    "credit": "Image: World Of Ramayana (official trailer)",
+    "organisation": "World Of Ramayana",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=F8VR9LQc40s: author 'World Of Ramayana' https://www.youtube.com/@WorldOfRamayana, title \"Sai Pallavi as Sita - Promo | Namit Malhotra's Ramayana\"",
+      "thumbnail https://i.ytimg.com/vi/F8VR9LQc40s/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@WorldOfRamayana",
+    "video_title": "Sai Pallavi as Sita - Promo | Namit Malhotra's Ramayana"
+  },
+  "faces": [
+    [
+      484.5,
+      134.3,
+      98.4,
+      139.9,
+      0.944
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.417,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      246.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        425,
+        220,
+        654,
+        546
+      ]
+    ],
+    "logo_saliency": 1.8,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        484.5,
+        134.3,
+        98.4,
+        139.9,
+        0.944
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: World Of Ramayana (official trailer)",
+      "Sources: Sacnilk, India.com",
+      "Sources: Sacnilk, DNA India",
+      "Sources: Sacnilk, Bollywood Hungama"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: World Of Ramayana (official trailer)",
+      "slug": "2026-11-16-idlynerd-0757-weekend-box-office",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 168,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, India.com",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-16-idlynerd-0757-weekend-box-office",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 180,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, DNA India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-16-idlynerd-0757-weekend-box-office",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 244,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Bollywood Hungama",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-16-idlynerd-0757-weekend-box-office",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Weekend box office, Friday 13 to Sunday 15 November: Ramayana: Rise of a Legend made ₹196 crore India net across all languages, trade tracker Sacnilk estimates. That is more than it made over its first Friday-to-Sunday weekend.\n\nThat first weekend ended on Diwali, Sunday 8 November, when the film made ₹56.15 crore. The holiday Monday after brought ₹107.50 crore, still its biggest day.\n\nSuriya's Scene, in Tamil and Telugu, was a distant second.\n\nTrackers count differently: Bollywood Hungama put Ramayana's second Saturday at ₹68.71 crore, Sacnilk at ₹72.90 crore and Koimoi at ₹76.15 crore.\n\nWhich film did you watch in a cinema this weekend?\n\nSources: Sacnilk, India.com, The Week, DNA India, Bollywood Hungama, Koimoi\n\n#Ramayana #Scene #BoxOffice #IndianCinema #idlynerd\n\nImage: World Of Ramayana (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
