@@ -1,0 +1,45 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2057-mumbai-cng-9150",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Free Press Journal",
+  "Oneindia"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Mumbai CNG Hits ₹91.50 a Kg: Eighth Hike of 2026",
+   "photo": "_work/2026-11-16-hourly-2057/idlyautomotive/frame_sanpada_orig/cover_source.png",
+   "photo_credit": "Photo: Prashant Gaikwad / Wikimedia Commons, CC BY-SA 3.0",
+   "focal": [
+    0.3486,
+    0.65
+   ],
+   "zoom": 1.2933
+  },
+  {
+   "type": "detail",
+   "stat": "₹91.50/KG",
+   "stat_label": "Mumbai CNG Price From 15 November",
+   "bullets": [
+    "Mahanagar Gas raised it by ₹1.50 a kg",
+    "Up from ₹90, set on 1 November",
+    "Second Mumbai CNG hike this month"
+   ],
+   "credit_line": "Sources: Autocar India, Free Press Journal, MotorBeam"
+  },
+  {
+   "type": "detail",
+   "stat": "+₹11/KG",
+   "stat_label": "Mumbai CNG Up ₹11 a Kg Since January",
+   "bullets": [
+    "It cost ₹80.50 a kg in January 2026",
+    "Eighth Mumbai CNG price hike this year",
+    "10 kg: ₹805 then, ₹915 now (our conversion)"
+   ],
+   "credit_line": "Sources: Autocar India, Oneindia"
+  }
+ ]
+}
