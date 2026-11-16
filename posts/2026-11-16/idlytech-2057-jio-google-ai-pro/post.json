@@ -1,0 +1,48 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2057-jio-google-ai-pro",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Jio",
+  "Google",
+  "Inc42",
+  "Beebom",
+  "Business Today",
+  "The Tech Outlook"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Jio Ends Free ₹35,100 Google AI Pro for New Users",
+   "photo": "_work/2026-11-16-hourly-2057/idlytech/frame_gheader/cover_source.png",
+   "photo_credit": "Image: Google",
+   "focal": [
+    0.5,
+    0.59
+   ],
+   "zoom": 1.3
+  },
+  {
+   "type": "detail",
+   "stat": "₹349+",
+   "stat_label": "Keep Jio's Free Google AI Pro",
+   "bullets": [
+    "Already claimed it? It runs 18 months",
+    "Stay on a Jio unlimited 5G plan, ₹349+",
+    "Drop below that and you could lose it"
+   ],
+   "credit_line": "Sources: Jio FAQ, Beebom, The Tech Outlook"
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,950",
+   "stat_label": "Google AI Pro's Monthly Price Without Jio",
+   "bullets": [
+    "Free Google AI Pro: gone from new Jio recharges",
+    "Jio's 12-month Canva offer still runs",
+    "Canva Pro on ₹399; Canva Pro Lite on ₹349"
+   ],
+   "credit_line": "Sources: Inc42, Business Today, Beebom, The Tech Outlook"
+  }
+ ]
+}

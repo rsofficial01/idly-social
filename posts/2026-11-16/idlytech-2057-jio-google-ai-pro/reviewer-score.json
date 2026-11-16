@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 1,
+ "alone": 2,
+ "total": 12,
+ "notes": "send: Jio users only, forward-worthy mainly to those who claimed it; original: rewrite of Inc42/Beebom reports, Google art is generic Gemini spark; cover logo sits on a grey wash, readable but low contrast; faint card outline behind headline"
+}

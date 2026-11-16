@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Google",
+  "slug": "idlytech-2057-jio-google-ai-pro",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-2057/idlytech/render/idlytech-2057-jio-google-ai-pro/01.jpg",
+  "scale": 1.414
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Jio FAQ, Beebom, The Tech Outlook",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-jio-google-ai-pro",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-2057/idlytech/render/idlytech-2057-jio-google-ai-pro/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 316,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Inc42, Business Today, Beebom, The Tech Outlook",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-jio-google-ai-pro",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-2057/idlytech/render/idlytech-2057-jio-google-ai-pro/03.jpg",
+  "scale": null
+ }
+]
