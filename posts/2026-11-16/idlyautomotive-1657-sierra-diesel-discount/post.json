@@ -1,0 +1,56 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1657-sierra-diesel-discount",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Auto Punditz",
+  "Tata Motors"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tata Sierra: Up to ₹1.15 Lakh Benefits",
+   "photo": "_work/2026-11-16-hourly-1657/idlyautomotive/frame2/cover_source.png",
+   "photo_credit": "Image: Tata Group",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹1.15 Lakh",
+   "stat_label": "Tata Sierra Diesel Accomplished: November Benefits",
+   "bullets": [
+    "Sierra Pure and Adventure diesels: up to ₹95,000",
+    "Sierra Smart+ diesel and most petrols: up to ₹70,000",
+    "Sierra Legend editions: ₹45,000"
+   ],
+   "credit_line": "Sources: Autocar India (9 Nov), Auto Punditz (3 Nov)"
+  },
+  {
+   "type": "detail",
+   "stat": "₹11.49 Lakh",
+   "stat_label": "Where Tata Sierra Prices Start, Ex-Showroom",
+   "bullets": [
+    "Sierra on sale since 25 November 2025",
+    "Maximum figures; no end date beyond November",
+    "Amounts vary by city and dealer stock"
+   ],
+   "credit_line": "Sources: Autocar India, Auto Punditz, Tata Motors"
+  },
+  {
+   "type": "detail",
+   "stat": "₹1.25 Lakh",
+   "stat_label": "Older Curvv Stock Gets More Than the Sierra",
+   "bullets": [
+    "Curvv variants from before September 2026's Series X update",
+    "Curvv Series X variants: ₹20,000, loyalty offer only",
+    "Tata Nexon petrol manuals: up to ₹75,000"
+   ],
+   "credit_line": "Sources: Autocar India, Auto Punditz"
+  }
+ ]
+}

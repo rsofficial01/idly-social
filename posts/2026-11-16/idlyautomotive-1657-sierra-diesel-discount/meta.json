@@ -1,0 +1,58 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Tata Sierra November 2026 offers: up to Rs 1.15 lakh on diesel Accomplished trims, Rs 95,000 Pure/Adventure diesel, Rs 70,000 Smart+ diesel and most petrols, Rs 45,000 Legend editions; Curvv (pre-Series X) up to Rs 1.25 lakh; Nexon petrol MT up to Rs 75,000. Sierra from Rs 11.49 lakh, on sale since 25 Nov 2025. Varies by city/stock; exchange and scrappage not combined.",
+ "headline": "Tata Sierra: Up to ₹1.15 Lakh Benefits",
+ "sources": [
+  {
+   "outlet": "Autocar India",
+   "date": "2026-11-09",
+   "url": "https://www.autocarindia.com/car-news/tata-sierra-discounts-go-up-to-rs-115-lakh-in-november-2026-441265"
+  },
+  {
+   "outlet": "Auto Punditz",
+   "date": "2026-11-03",
+   "url": "https://www.autopunditz.com/post/tata-cars-november-2026-offers-discounts"
+  },
+  {
+   "outlet": "Tata Motors (launch press release)",
+   "date": "2025-11-25",
+   "url": "https://cars.tatamotors.com/article/press-release/the-legend-returns-tata-motors-launches-the-all-new-sierra.html"
+  }
+ ],
+ "tags": [
+  "tatacompanies"
+ ],
+ "tag_evidence": "tata.com (Tata group's own site, the image owner) links to https://www.instagram.com/tatacompanies in its footer on the Sierra newsroom page https://www.tata.com/newsroom/business/tata-sierra-launch",
+ "image": {
+  "url": "https://www.tata.com/content/dam/tata/images/newsroom/business/desktop/design-sierra_slideshow1_desktop_1920x1080.jpg",
+  "page": "https://www.tata.com/newsroom/business/tata-sierra-launch",
+  "owner": "Tata Group (tata.com newsroom)",
+  "licence": "Official press/newsroom image, credited",
+  "size": [
+   1920,
+   1080
+  ],
+  "framing": {
+   "photo": "_work/2026-11-16-hourly-1657/idlyautomotive/frame2/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.53,
+   "faces": 0,
+   "note": "enlarged and sharpened; framed from a 704x880 crop (x 560-1264, y 200-1080) of the 1920x1080 original so the car sits high and the giraffes are out"
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "gates": {
+  "G1": "171006-idlyautomotive-G1: BUILD #1 (Sierra) conditional on image, ceiling 12-13; #2 Hycross HOLD 9; #3 Creta HOLD 8",
+  "G23": "171339 FIX (reframe, Curvv label, 'in Benefits' not 'Off') -> 171531 PASS",
+  "G4": "171723-idlyautomotive-G4: PASS, reviewer 13/14 (send 1)"
+ },
+ "main_edit": "Main 17:23: slide 3 bullet 'Exchange and scrappage bonuses: one or the other' and the matching caption sentence removed (explicit only in Auto Punditz; Autocar silent). Replaced with 'Maximum figures; no end date beyond November' (both reports). All other figures checked against Autocar India 9 Nov + Auto Punditz."
+}

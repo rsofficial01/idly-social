@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Tata Group",
+  "slug": "idlyautomotive-1657-sierra-diesel-discount",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-1657/idlyautomotive/render-main/idlyautomotive-1657-sierra-diesel-discount/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India (9 Nov), Auto Punditz (3 Nov)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-sierra-diesel-discount",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlyautomotive/render-main/idlyautomotive-1657-sierra-diesel-discount/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, Auto Punditz, Tata Motors",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-sierra-diesel-discount",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlyautomotive/render-main/idlyautomotive-1657-sierra-diesel-discount/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 192,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, Auto Punditz",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-sierra-diesel-discount",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlyautomotive/render-main/idlyautomotive-1657-sierra-diesel-discount/04.jpg",
+  "scale": null
+ }
+]
