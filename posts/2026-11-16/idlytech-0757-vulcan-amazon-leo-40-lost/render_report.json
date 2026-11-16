@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Amazon",
+  "slug": "idlytech-0757-vulcan-amazon-leo-40-lost",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-0757/renders/idlytech-0757-vulcan-amazon-leo-40-lost/01.jpg",
+  "scale": 0.8
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: ULA, Ars Technica, The Verge, SpaceNews",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-vulcan-amazon-leo-40-lost",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-0757/renders/idlytech-0757-vulcan-amazon-leo-40-lost/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Amazon, Ars Technica, The Verge",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-vulcan-amazon-leo-40-lost",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-0757/renders/idlytech-0757-vulcan-amazon-leo-40-lost/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Communications Today, Digit, Angel One, TelecomTalk",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-vulcan-amazon-leo-40-lost",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-0757/renders/idlytech-0757-vulcan-amazon-leo-40-lost/04.jpg",
+  "scale": null
+ }
+]

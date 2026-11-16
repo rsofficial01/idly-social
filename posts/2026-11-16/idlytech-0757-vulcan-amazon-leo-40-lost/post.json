@@ -1,0 +1,57 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-vulcan-amazon-leo-40-lost",
+ "date": "16 Nov 2026",
+ "sources": [
+  "ULA",
+  "Amazon",
+  "Ars Technica",
+  "The Verge"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "40 Amazon Leo Satellites Lost as Vulcan Rocket Fails",
+   "photo": "_work/2026-11-16-hourly-0757/idlytech/frame_hero/cover_source.png",
+   "photo_credit": "Image: Amazon",
+   "focal": [
+    0.45,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "10 MIN",
+   "stat_label": "Into the Flight, ULA's Vulcan Rocket Failed",
+   "bullets": [
+    "Lifted off 11:10 PM IST Sunday from Florida",
+    "ULA's first total mission failure in 20 years",
+    "Cause not yet known; ULA is investigating"
+   ],
+   "credit_line": "Sources: ULA, Ars Technica, The Verge, SpaceNews"
+  },
+  {
+   "type": "detail",
+   "stat": "37",
+   "stat_label": "More Vulcan Launches Amazon Has Booked",
+   "bullets": [
+    "Vulcan was to carry about half of Leo",
+    "Under 400 Leo satellites in orbit; 3,000+ planned",
+    "Amazon's stated target: service later this year"
+   ],
+   "credit_line": "Sources: Amazon, Ars Technica, The Verge"
+  },
+  {
+   "type": "detail",
+   "stat": "OCT 2023",
+   "stat_label": "Amazon Leo Applied in India. Still No Licence",
+   "bullets": [
+    "Starlink, OneWeb and Jio Satellite already hold licences",
+    "None has started commercial service in India",
+    "Security clearance and spectrum pricing still pending"
+   ],
+   "credit_line": "Sources: Communications Today, Digit, Angel One, TelecomTalk"
+  }
+ ]
+}

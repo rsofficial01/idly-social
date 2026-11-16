@@ -1,0 +1,217 @@
+{
+ "account": "idlytech",
+ "story_id": 2518,
+ "idly_article": true,
+ "format": "news",
+ "title": "ULA's Vulcan rocket failed ~10 minutes after liftoff from SLC-41, Cape Canaveral, on 15 Nov 2026 (17:40 UTC, 11:10 pm IST), losing all 40 Amazon Leo satellites (mission LV-01); first total mission failure in ULA's 20-year history; cause not yet known (ULA). First of 38 Vulcan launches Amazon booked; Vulcan to carry close to half of Leo's first-gen constellation; under 400 Leo satellites in orbit of 3,000+ planned; Amazon still plans initial service this year. India: Amazon first applied for a satcom licence in Oct 2023 and has none; Starlink, OneWeb, Jio Satellite hold GMPCS licences but none has started commercial service (security clearance, spectrum pricing pending).",
+ "headline": "40 Amazon Leo Satellites Lost as Vulcan Rocket Fails",
+ "sources": [
+  {
+   "outlet": "Ars Technica (Stephen Clark)",
+   "date": "2026-11-15",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+  },
+  {
+   "outlet": "The Verge (Terrence O'Brien)",
+   "date": "2026-11-15",
+   "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+  },
+  {
+   "outlet": "SpaceNews (Jeff Foust)",
+   "date": "2026-11-15",
+   "url": "https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/"
+  },
+  {
+   "outlet": "Launch Library 2 (The Space Devs) record: Vulcan VC6L | Amazon Leo (LV-01), 2026-11-15T17:40:30Z, Launch Failure",
+   "date": "2026-11-16",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/?search=LV-01&mode=list"
+  },
+  {
+   "outlet": "Amazon newsroom: Amazon Leo to launch 40 satellites on its first Vulcan mission (updated 14 Nov)",
+   "date": "2026-11-09",
+   "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch"
+  },
+  {
+   "outlet": "Amazon newsroom: Amazon Leo mission update (330+ satellites in orbit)",
+   "date": "2026-06-05",
+   "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-rocket-satellite-update"
+  },
+  {
+   "outlet": "Communications Today: India's satellite internet licences stuck behind a wall of distrust",
+   "date": "2026-08-20",
+   "url": "https://www.communicationstoday.co.in/indias-satellite-internet-licences-stuck-behind-a-wall-of-distrust/"
+  },
+  {
+   "outlet": "Communications Today (CT Bureau): satcom authorisation regime, Amazon Leo application",
+   "date": "2026-09-09",
+   "url": "https://www.communicationstoday.co.in/?p=422092"
+  },
+  {
+   "outlet": "Digit: Amazon Leo wants to use its satellite network to power public Wi-Fi hotspots across India",
+   "date": "2026-06-10",
+   "url": "https://www.digit.in/news/general/amazon-leo-wants-to-use-its-satellite-network-to-power-public-wi-fi-hotspots-across-india.html"
+  },
+  {
+   "outlet": "Angel One: Amazon seeks faster satcom approval in India",
+   "date": "2026-03-17",
+   "url": "https://www.angelone.in/news/market-updates/amazon-seeks-faster-satcom-approval-in-india-amid-starlink-competition-and-launch-delays"
+  },
+  {
+   "outlet": "TelecomTalk: Amazon silently applies for GMPCS licence in India",
+   "date": "2023-10",
+   "url": "https://telecomtalk.info/amazon-silently-applies-for-gmpcs-license-in-india-report/882711/"
+  },
+  {
+   "outlet": "Inc42: Amazon joins India's satcom race with Project Kuiper",
+   "date": "2023-10-10",
+   "url": "https://inc42.com/buzz/amazon-satcom-race-project-kuiper-regulatory-approval/"
+  }
+ ],
+ "fact_sources": {
+  "Vulcan failed about 10 minutes into flight (ULA statement); all 40 Amazon Leo satellites lost": [
+   "ULA statement via Ars Technica",
+   "The Verge",
+   "SpaceNews"
+  ],
+  "Liftoff 15 Nov 2026, 12:40 pm local / 17:40 UTC (11:10 pm IST), SLC-41 Cape Canaveral": [
+   "Ars Technica",
+   "Launch Library 2 (17:40:30Z)",
+   "The Verge (SLC-41, ULA statement)"
+  ],
+  "First total mission failure in ULA's 20-year history": [
+   "Ars Technica",
+   "The Verge",
+   "idly.news story 2518"
+  ],
+  "Cause not yet known; ULA investigating": [
+   "ULA statement via Ars Technica",
+   "The Verge"
+  ],
+  "First of 38 Vulcan launches Amazon booked (37 more)": [
+   "Amazon newsroom",
+   "Ars Technica (37 more)",
+   "The Verge"
+  ],
+  "Vulcan to carry close to half of Leo's first-generation constellation": [
+   "Amazon newsroom (Melissa Wuerl quote; 1,500+ satellites across 38 missions)",
+   "Ars Technica (38 launches of 40+ each)"
+  ],
+  "Under 400 Leo satellites in orbit; 3,000+ planned": [
+   "Ars Technica (396 of 3,292)",
+   "Amazon newsroom Jun 2026 (330+ in orbit)",
+   "Digit (333 deployed; targets more than 3,000)"
+  ],
+  "Amazon still plans initial service this year": [
+   "Amazon newsroom (initial service rollout later this year)",
+   "Ars Technica (Amazon: start initial commercial service by end of year)"
+  ],
+  "Amazon statement: \"There is risk with any launch, and that's especially true for inaugural missions like LV-01\"": [
+   "The Verge",
+   "Ars Technica"
+  ],
+  "Amazon first applied for an India satcom (GMPCS) licence in Oct 2023": [
+   "Angel One (Mar 2026)",
+   "TelecomTalk (Oct 2023)",
+   "Inc42 (10 Oct 2023)"
+  ],
+  "Amazon Leo has no India licence yet": [
+   "Communications Today (20 Aug 2026: still angling for one)",
+   "Communications Today (9 Sep 2026)",
+   "Digit (Jun 2026: GMPCS application pending)"
+  ],
+  "Starlink, Eutelsat OneWeb and Jio Satellite hold GMPCS licences": [
+   "Communications Today (20 Aug 2026)",
+   "Communications Today (9 Sep 2026)",
+   "Digit (Starlink)"
+  ],
+  "None has started commercial service in India; security clearance and spectrum pricing pending": [
+   "Communications Today (20 Aug 2026)",
+   "Communications Today (9 Sep 2026)",
+   "Digit (Starlink launch on hold for MHA clearances; spectrum pricing stalled)"
+  ]
+ },
+ "tags": [
+  "amazonleo_",
+  "amazonnews"
+ ],
+ "tag_evidence": "Image owner is Amazon (aboutamazon.com newsroom). leo.amazon.com (Amazon Leo's own site) links to instagram.com/amazonleo_ (3 links); aboutamazon.com's LV-01 page links to instagram.com/amazonnews (4 links). Checked 16 Nov 2026 ~08:20 IST.",
+ "photo_source": {
+  "page": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch",
+  "image_url": "https://assets.aboutamazon.com/b0/df/ddbba33948a0a222123a5d262b14/amazon-leo-vulcan-amazon-news-nb-110926.jpg",
+  "licence": "Official company newsroom image (Amazon, About Amazon newsroom: the page's hero image for the LV-01 mission article), credited; pre-launch photo, not of the failure",
+  "author": "Amazon",
+  "credit": "Image: Amazon",
+  "viewed": true,
+  "width": 3000,
+  "height": 1688,
+  "framing": {
+   "tool": "python3 -m pipeline.framing",
+   "ok": true,
+   "photo": "_work/2026-11-16-hourly-0757/idlytech/frame_hero/cover_source.png",
+   "focal_suggested": [
+    0.5,
+    0.5
+   ],
+   "focal_used": [
+    0.45,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.8,
+   "faces": 0,
+   "why_focal": "fairing moved left so the centred logo sits in clear night sky; Amazon building sign visible at right; ULA mark above the headline block"
+  }
+ },
+ "alt_text": "Amazon's photo of an Amazon- and ULA-branded Vulcan payload fairing on its transporter at night outside Amazon's lit integration building at Cape Canaveral, with the headline: 40 Amazon Leo Satellites Lost as Vulcan Rocket Fails.",
+ "candidates": [
+  {
+   "title": "ULA Vulcan fails, 40 Amazon Leo satellites lost; Amazon Leo still unlicensed in India (story 2518)",
+   "gate1": "BUILD, ceiling 12-13 (081033-idlytech-g1)"
+  },
+  {
+   "title": "Special: Launching This Week in India (16-22 Nov)",
+   "gate1": "HOLD ~8: no brand-confirmed India launch dates in the week (081033-idlytech-g1)"
+  },
+  {
+   "title": "Xiaomi 18 Pro global launch 17 Nov, India confirmed but undated",
+   "gate1": "HOLD ~10: foreign event, no India date/price"
+  }
+ ],
+ "skipped": [
+  {
+   "title": "Launching This Week in India special",
+   "reason": "No phone/laptop/wearable/gadget with a brand-confirmed India launch date in 16-22 Nov (Beebom 15 Nov roundup, FoneArena, Smartprix): only Xiaomi 18 Pro global (Paris, 17 Nov; India undated), Motorola Signature 27 ('this November', undated), vivo X500 26 Nov (outside week; posted 12 Nov). Runs next run only if dated launches appear."
+  },
+  {
+   "story_id": 2503,
+   "title": "COMAC CE-25A crewed flight",
+   "reason": "held last run: no image, no India angle"
+  },
+  {
+   "story_id": 2450,
+   "title": "November Pixel Drop: Gemini Intelligence on Pixel 10",
+   "reason": "held last run as stale"
+  },
+  {
+   "story_id": 2472,
+   "title": "SpaceX catches Starship with tower arms (also 2460, 2434)",
+   "reason": "no India angle; no licensed image of the catch; weaker than 2518"
+  },
+  {
+   "title": "Bharat Semi $24M seed (TechCrunch, 15 Nov)",
+   "reason": "pre-revenue, sensors still in development; only image is a founders photo (people)"
+  },
+  {
+   "title": "Lava price rise",
+   "reason": "held last run: no model-wise prices"
+  }
+ ],
+ "gates": {
+  "1": "081033-idlytech-g1: A BUILD (ceiling 12-13); B special HOLD ~8; C Xiaomi HOLD ~10. FIXes applied: 40 on cover; India claims 2+ sources; cause \"not yet known\", Ars booster-stage claim left out; each fact once; @amazonleo_ confirmed on leo.amazon.com; broadband-switch question; pre-launch photo credited \"Image: Amazon\" only.",
+  "23": "081421-idlytech-g23: PASS (words and picture); optional note applied: caption no longer repeats \"first failure in 20 years\" and \"about half of Leo\" from slides 2-3",
+  "4": "081507-idlytech-g4: PASS 12/14 (hook 2, read 2, send 1, keep 1, reply 2, original 2, alone 2); no layout faults"
+ },
+ "main_edits": [
+  "slide 3 bullet 3: 'Amazon still plans to start service this year' -> 'Amazon's stated target: service later this year' (no post-failure Amazon statement on timing confirmed; target attributed)"
+ ]
+}
