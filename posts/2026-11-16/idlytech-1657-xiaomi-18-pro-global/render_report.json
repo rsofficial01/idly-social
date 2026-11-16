@@ -1,0 +1,80 @@
+[
+ {
+  "size": 84,
+  "lines": 3,
+  "overflow": false,
+  "top": 998,
+  "credit_line": "Image: Xiaomi",
+  "slug": "idlytech-1657-xiaomi-18-pro-global",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-16-hourly-1657/idlytech/render/idlytech-1657-xiaomi-18-pro-global/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Xiaomi, Beebom",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1657-xiaomi-18-pro-global",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlytech/render/idlytech-1657-xiaomi-18-pro-global/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 184,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Gizchina, Beebom, 91mobiles",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1657-xiaomi-18-pro-global",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlytech/render/idlytech-1657-xiaomi-18-pro-global/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 264,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Gizchina, Beebom",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1657-xiaomi-18-pro-global",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-16-hourly-1657/idlytech/render/idlytech-1657-xiaomi-18-pro-global/04.jpg",
+  "scale": null
+ }
+]

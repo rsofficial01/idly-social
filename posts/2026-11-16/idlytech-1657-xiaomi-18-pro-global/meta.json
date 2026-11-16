@@ -1,0 +1,73 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Xiaomi 18 Pro and 18 Pro Max launch globally on Tue 17 Nov 2026 at 6:30 PM IST (14:00 GMT+1, Paris); Xiaomi has confirmed the 18 Pro (not the Pro Max) for India with no date or price; China price from 5,999 yuan (about ₹85,000, our conversion); December India launch is a tipster claim",
+ "headline": "Xiaomi 18 Pro Goes Global 6:30 PM IST Tomorrow; India Is Confirmed",
+ "sources": [
+  {
+   "outlet": "Xiaomi (global launch page)",
+   "date": "16 Nov 2026 (live page)",
+   "url": "https://www.mi.com/global/launch/xiaomi-launch-november-2026/"
+  },
+  {
+   "outlet": "Beebom",
+   "date": "15 Nov 2026",
+   "url": "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-november-16-november-22"
+  },
+  {
+   "outlet": "Beebom",
+   "date": "9 Oct 2026",
+   "url": "https://gadgets.beebom.com/news/xiaomi-18-pro-india-launch-confirmed-at-snapdragon-event-imc-2026"
+  },
+  {
+   "outlet": "Beebom",
+   "date": "2 Nov 2026",
+   "url": "https://gadgets.beebom.com/news/xiaomi-18-pro-18-pro-max-global-launch-timeline-confirmed"
+  },
+  {
+   "outlet": "Gizchina",
+   "date": "23 Sep 2026",
+   "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-18-pro-series-launches-with-snapdragon-8-elite-gen-6-and-an-8500mah-battery"
+  },
+  {
+   "outlet": "91mobiles",
+   "date": "Nov 2026",
+   "url": "https://www.91mobiles.com/hub/xiaomi-18-pro-18-pro-max-global-launch-november-17th/"
+  }
+ ],
+ "tags": [
+  "xiaomiindia"
+ ],
+ "tag_evidence": "Xiaomi India's own site https://www.mi.com/in/ links to instagram.com/xiaomiindia (checked 16 Nov 2026, 17:15 IST); image owner is Xiaomi",
+ "image": {
+  "url": "https://i02.appmifile.com/426_operator_hq/28/10/2026/15ed66288d20682315872ef35c254954.jpg",
+  "page": "https://www.mi.com/global/launch/xiaomi-launch-november-2026/",
+  "owner": "Xiaomi (official Xiaomi 18 Pro series launch page imagery)",
+  "licence": "official product/press image, credited 'Image: Xiaomi'",
+  "size": [
+   1032,
+   1380
+  ],
+  "framing": {
+   "photo": "_work/2026-11-16-hourly-1657/idlytech/frame-mi2/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.38,
+   "faces": 0,
+   "note": "source cropped to 1032x975 (top part) to keep the phone's 'xiaomi' wordmark out of the headline zone (G4 171511 FIX), then framed"
+  },
+  "faces": 0,
+  "viewed": true,
+  "crop": "x0-1032 y0-975 of the 1032x1380 original"
+ },
+ "gates": {
+  "G1": "170920-idlytech-G1: A (Xiaomi 18 Pro) BUILD ceiling 12 (send 1); B Lava HOLD ceiling 10; C Bharat Semi HOLD ceiling 8",
+  "G23": "171418-idlytech-G23: FIX (slide 4 mirror bullet -> replaced with 3.2x periscope zoom and 50MP ultra-wide; rest passes; picture OK, check logo clearance at G4) - applied",
+  "G4": "171511-idlytech-G4: FIX (cover: phone's 'xiaomi' wordmark ran into the headline) -> source cropped and re-framed; 171638-idlytech-G4: PASS 13/14 (hook 2, read 2, send 1, keep 2, reply 2, original 2, alone 2)"
+ }
+}

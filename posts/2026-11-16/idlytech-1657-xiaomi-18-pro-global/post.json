@@ -1,0 +1,55 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1657-xiaomi-18-pro-global",
+ "date": "16 Nov 2026",
+ "sources": [
+  "Xiaomi",
+  "Beebom",
+  "Gizchina"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Xiaomi 18 Pro Goes Global 6:30 PM IST Tomorrow; India Is Confirmed",
+   "photo": "_work/2026-11-16-hourly-1657/idlytech/frame-mi2/cover_source.png",
+   "photo_credit": "Image: Xiaomi",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "6:30 PM IST",
+   "stat_label": "Xiaomi 18 Pro Global Launch, Tuesday 17 Nov",
+   "bullets": [
+    "Xiaomi's launch event is in Paris, 2 PM local",
+    "Xiaomi 18 Pro Max launches at the same event"
+   ],
+   "credit_line": "Sources: Xiaomi, Beebom"
+  },
+  {
+   "type": "detail",
+   "stat": "5,999 yuan",
+   "stat_label": "Xiaomi 18 Pro Starting Price in China",
+   "bullets": [
+    "About ₹85,000 at today's rate (our conversion)",
+    "India: confirmed by Xiaomi, no date or price",
+    "December India launch: a tipster’s claim only"
+   ],
+   "credit_line": "Sources: Gizchina, Beebom, 91mobiles"
+  },
+  {
+   "type": "detail",
+   "stat": "200MP",
+   "stat_label": "Xiaomi 18 Pro: Two 200MP Leica Cameras",
+   "bullets": [
+    "Periscope telephoto: 3.2x optical zoom",
+    "Third camera: 50MP ultra-wide",
+    "7,000mAh in China; global leak: 6,000mAh"
+   ],
+   "credit_line": "Sources: Gizchina, Beebom"
+  }
+ ]
+}
