@@ -1,0 +1,1 @@
+PASS. One genuine question, no bait, facts, Sources line, 5 hashtags and credit unchanged. Reply score for the new question: 2 (anyone answers with a number from their own life; it ties to the seven-seater angle).
