@@ -1,0 +1,55 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-akvan-odisha-evacuation",
+ "date": "17 Nov 2026",
+ "sources": [
+  "PTI",
+  "OdishaBytes"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Cyclone Akvan: Odisha Evacuates Landslide Zones in 6 Districts",
+   "photo": "_work/2026-11-17-hourly-1657/desks/idlynews/frame_akvan_c/cover_source.png",
+   "photo_credit": "Image: NASA Worldview / MODIS (Terra), 16 Nov 2026",
+   "focal": [
+    0.5,
+    0.42
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "6 DISTRICTS",
+   "stat_label": "Akvan: Odisha Orders Landslide-Zone Evacuations",
+   "bullets": [
+    "Ganjam, Gajapati, Kandhamal, Rayagada, Koraput, Malkangiri",
+    "Collectors told to open relief centres",
+    "Ganjam has moved 107 pregnant women to safety"
+   ],
+   "credit_line": "Sources: PTI, OdishaBytes"
+  },
+  {
+   "type": "detail",
+   "stat": "18-20 NOV",
+   "stat_label": "Akvan: Odisha Fishermen Told to Stay Off the Sea",
+   "bullets": [
+    "Very rough sea forecast along the Odisha coast",
+    "Orange and yellow rain warnings for 18-21 Nov",
+    "Bhubaneswar Met Centre: no red warning this time"
+   ],
+   "credit_line": "Sources: PTI, OdishaBytes"
+  },
+  {
+   "type": "detail",
+   "stat": "74 TEAMS",
+   "stat_label": "Rescue Teams Odisha Is Deploying for Akvan",
+   "bullets": [
+    "60 state disaster teams, 14 national (NDRF) teams",
+    "Cyclone Arnab killed 11+ in Odisha last month",
+    "Ten of those deaths: landslides in Ganjam, Kandhamal"
+   ],
+   "credit_line": "Sources: PTI, OdishaBytes"
+  }
+ ]
+}

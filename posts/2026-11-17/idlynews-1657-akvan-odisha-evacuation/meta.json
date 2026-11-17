@@ -1,0 +1,29 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "No tag: cover is a NASA Worldview (EOSDIS GIBS) satellite snapshot, a public-domain US government image, not a brand, studio or maker press image.",
+ "format": "news",
+ "headline": "Cyclone Akvan: Odisha Evacuates Landslide Zones in 6 Districts",
+ "image": {
+  "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-16&BBOX=3,77.6,19,90.4&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1920&HEIGHT=2400",
+  "page": "https://worldview.earthdata.nasa.gov/?v=77.6,3,90.4,19&l=MODIS_Terra_CorrectedReflectance_TrueColor&t=2026-11-16",
+  "licence": "Public domain (NASA EOSDIS GIBS / Worldview imagery, US government work)",
+  "author": "NASA Worldview / EOSDIS GIBS, MODIS on the Terra satellite, morning pass of 16 Nov 2026",
+  "size": [1920, 2400],
+  "subject": "Cyclone Akvan's cloud mass over the Bay of Bengal beside India's east coast (Andhra/south Odisha coast at upper left, Sri Lanka at lower left), 16 Nov 2026; bbox 3-19N, 77.6-90.4E. 17 Nov passes were not yet published on GIBS (blank tiles).",
+  "framing": {"photo": "_work/2026-11-17-hourly-1657/desks/idlynews/frame_akvan_c/cover_source.png", "focal": [0.5, 0.42], "zoom": 1.1, "upscale": 0.62, "faces": 0},
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {"fact": "Odisha collectors told to evacuate people from landslide-prone areas in Ganjam, Gajapati, Kandhamal, Rayagada, Koraput and Malkangiri and open relief centres", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "Ganjam collector Keerthi Vasan V: 107 pregnant women moved to safety; landslide-prone areas evacuated from Tuesday (17 Nov) morning", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "Minister Suresh Pujari: 74 teams, 60 ODRAF + 14 NDRF; focus on preventing landslide deaths", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "Cyclone Arnab killed at least 11 in Odisha (six missing), 10 of the deaths in landslides in Ganjam and Kandhamal", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "Fishermen advised not to venture into the sea 18-20 Nov (very rough sea)", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "Bhubaneswar Met Centre (Manorama Mohanty): orange (12-20 cm) and yellow (7-11 cm) warnings for Odisha districts 18-21 Nov; no red warning", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/"]},
+  {"fact": "IMD: Akvan to cross AP coast between Nellore and Tuni around noon 20 Nov as a very severe cyclonic storm", "urls": ["https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496", "https://odishabytes.com/odisha-begins-evacuation-deploys-74-rescue-teams-as-cyclone-akvan-set-to-hit-andhra/", "https://aninews.in/news/national/general-news/cyclone-akvan-likely-to-intensify-into-very-severe-cyclonic-storm-cross-andhra-coast-on-nov-2020261117083454/"]}
+ ]
+}

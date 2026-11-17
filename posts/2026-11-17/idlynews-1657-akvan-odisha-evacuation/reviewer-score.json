@@ -1,0 +1,12 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 1,
+ "original": 2,
+ "alone": 2,
+ "notes": "reply: only some followers have evacuated, so 1; cover is a day-old satellite pass, credited with its date",
+ "total": 13,
+ "packet": "172350-idlynews-g4"
+}
