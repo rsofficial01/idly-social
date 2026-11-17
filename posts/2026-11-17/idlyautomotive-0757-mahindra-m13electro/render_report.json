@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Formula E",
+  "slug": "idlyautomotive-0757-mahindra-m13electro",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-17/idlyautomotive-0757-mahindra-m13electro/01.jpg",
+  "scale": 0.75
+ },
+ {
+  "stat": 248,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Mahindra, Formula E, Autocar Professional, Rushlane",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0757-mahindra-m13electro",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-17/idlyautomotive-0757-mahindra-m13electro/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Formula E, Mahindra, Autocar India, Motoroids",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0757-mahindra-m13electro",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-17/idlyautomotive-0757-mahindra-m13electro/03.jpg",
+  "scale": null
+ }
+]

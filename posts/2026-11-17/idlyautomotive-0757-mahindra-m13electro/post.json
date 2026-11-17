@@ -1,0 +1,46 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0757-mahindra-m13electro",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Mahindra",
+  "Formula E",
+  "Autocar India",
+  "Rushlane"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Mahindra's New Formula E Car: 0-100 KM/H in 1.8 Seconds",
+   "photo": "_work/2026-11-17-hourly-0757/idlyautomotive/frame_1/cover_source.png",
+   "photo_credit": "Image: Formula E",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "600 kW",
+   "stat_label": "Mahindra M13Electro's Maximum Power Output",
+   "bullets": [
+    "About 804 bhp, by Mahindra's own figure",
+    "Top speed of 335 km/h (208 mph)",
+    "Active all-wheel drive, new for this generation"
+   ],
+   "credit_line": "Sources: Mahindra, Formula E, Autocar Professional, Rushlane"
+  },
+  {
+   "type": "detail",
+   "stat": "16 JAN",
+   "stat_label": "Mahindra M13Electro's First Race: Mexico",
+   "bullets": [
+    "Formula E moved Jeddah's December opener to April",
+    "Season now opens in Mexico, Autocar India reports",
+    "Nyck de Vries and Edoardo Mortara drive again"
+   ],
+   "credit_line": "Sources: Formula E, Mahindra, Autocar India, Motoroids"
+  }
+ ]
+}

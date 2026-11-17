@@ -1,0 +1,83 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [
+  "fiaformulae"
+ ],
+ "tag_evidence": "mahindraracing: https://www.mahindraracing.com/ footer links to https://www.instagram.com/mahindraracing (maker of the car shown). fiaformulae: https://www.fiaformulae.com/ article pages link to https://www.instagram.com/fiaformulae (publisher/owner of the cover image).",
+ "format": "news carousel",
+ "title": "Mahindra Racing reveals M13Electro, its first Gen4 Formula E car: 600 kW (about 804 bhp), 0-100 km/h 1.8 s, 335 km/h, active AWD, 700 kW regen; de Vries and Mortara 4th season; Jarama testing from 16 Nov; season opens Mexico City 16 Jan 2027 after Jeddah moved to 16-17 Apr 2027.",
+ "headline": "Mahindra's New Formula E Car: 0-100 KM/H in 1.8 Seconds",
+ "image": {
+  "url": "https://contentfulproxy.stadion.io/eag9z2l5md8w/2EujksDMf9ILzNHr3h2NX0/d0b572bb83c2339548b32d2d91c27a39/LJP-MR-S2027-LiveryStudio-103.jpg?q=90&fm=jpg&w=3200",
+  "page": "https://www.fiaformulae.com/en/news/teams/mahindra-racing-introduces-the-m13electro-as-gen4-era-begins",
+  "licence": "Official Formula E press/editorial image of the Mahindra Racing M13Electro livery (championship's own newsroom); credited Image: Formula E",
+  "author": "Formula E (studio livery shoot for Mahindra Racing)",
+  "size": "3200x1800",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Mahindra Racing revealed the M13Electro (digital launch, 15 Nov) for the 2027 Formula E season, first Gen4 car; only Indian manufacturer in Formula E",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era",
+    "https://www.fiaformulae.com/en/news/teams/mahindra-racing-introduces-the-m13electro-as-gen4-era-begins",
+    "https://www.rushlane.com/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-12561314.html"
+   ]
+  },
+  {
+   "fact": "600 kW max power, about 804 bhp; 0-100 km/h in 1.8 s; top speed 335 km/h (208 mph)",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era",
+    "https://www.fiaformulae.com/en/news/teams/mahindra-racing-introduces-the-m13electro-as-gen4-era-begins",
+    "https://www.autocarpro.in/news/mahindra-racing-unveils-m13electro-for-formula-e-gen4-era-135943",
+    "https://www.autocarindia.com/motor-sports-news/mahindra-formula-e-gen4-racer-revealed-441333"
+   ]
+  },
+  {
+   "fact": "Active all-wheel drive; regenerative braking up to 700 kW",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era",
+    "https://www.autocarpro.in/news/mahindra-racing-unveils-m13electro-for-formula-e-gen4-era-135943",
+    "https://www.autocarindia.com/motor-sports-news/mahindra-formula-e-gen4-racer-revealed-441333"
+   ]
+  },
+  {
+   "fact": "Nyck de Vries and Edoardo Mortara, fourth consecutive season together",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era",
+    "https://www.fiaformulae.com/en/news/teams/mahindra-racing-introduces-the-m13electro-as-gen4-era-begins"
+   ]
+  },
+  {
+   "fact": "Pre-season testing at Circuito de Jarama, Madrid, from 16 November 2026",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-racing-unveils-new-m13electro-as-formula-e-enters-the-gen4-era",
+    "https://www.autocarpro.in/news/mahindra-racing-unveils-m13electro-for-formula-e-gen4-era-135943"
+   ]
+  },
+  {
+   "fact": "Jeddah double-header moved to 16-17 April 2027 (announced 12 Nov)",
+   "urls": [
+    "https://www.fiaformulae.com/en/news/races/formula-e-announce-2027-calendar-update-for-jeddah-and-sanya-e-prix",
+    "https://www.motoroids.com/motorsport/mahindra-m13electro-revealed-ahead-of-2027-formula-e-season/",
+    "https://www.autocarindia.com/motor-sports-news/mahindra-formula-e-gen4-racer-revealed-441333"
+   ]
+  },
+  {
+   "fact": "Season now opens in Mexico (City) on 16 January 2027",
+   "urls": [
+    "https://www.autocarindia.com/motor-sports-news/mahindra-formula-e-gen4-racer-revealed-441333",
+    "https://www.motoroids.com/motorsport/mahindra-m13electro-revealed-ahead-of-2027-formula-e-season/",
+    "https://www.newsbytesapp.com/news/auto/mahindra-racing-unveils-gen4-m13electro-for-2027-formula-e/tldr"
+   ]
+  }
+ ],
+ "main_edits": [
+  "caption: numbers attributed as Gen4 figures (Mahindra press release 16 Nov calls them GEN4 figures)",
+  "tags: only the image owner fiaformulae (mahindraracing dropped: not the image owner)",
+  "slide 3 + caption: \"Mexico City\" -> \"Mexico\" (Autocar India and Motoroids both say Mexico, 16 Jan)"
+ ]
+}
