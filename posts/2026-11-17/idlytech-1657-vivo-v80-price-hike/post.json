@@ -1,0 +1,45 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1657-vivo-v80-price-hike",
+ "date": "17 Nov 2026",
+ "sources": [
+  "My Mobile India",
+  "Mobiletelco",
+  "PaidFreeDroid"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Vivo V80 Reportedly Up ₹5,000 to ₹67,999 Since October Launch",
+   "photo": "_work/2026-11-17-hourly-1657/desks/idlytech/frame_v80/cover_source.png",
+   "photo_credit": "Image: vivo India",
+   "focal": [
+    0.4301,
+    0.7
+   ],
+   "zoom": 1.5
+  },
+  {
+   "type": "detail",
+   "stat": "₹67,999",
+   "stat_label": "Vivo V80 (8GB+128GB), Reported New Price",
+   "bullets": [
+    "Launched 6 October at ₹62,999",
+    "8GB+256GB: ₹74,999, up from ₹69,999",
+    "8GB+512GB: ₹84,999, up from ₹79,999"
+   ],
+   "credit_line": "Sources: My Mobile India, Mobiletelco, PaidFreeDroid, vivo India"
+  },
+  {
+   "type": "detail",
+   "stat": "₹47,999",
+   "stat_label": "Vivo S2 8GB+128GB: ₹8,000 Above Launch Price",
+   "bullets": [
+    "Launched in August at ₹39,999; ₹42,999 since September",
+    "8GB+256GB: ₹53,999, up from ₹48,999",
+    "Vivo Y11 (4GB+64GB) also up ₹3,000, to ₹21,999"
+   ],
+   "credit_line": "Sources: My Mobile India, Mobiletelco, Beebom, TelecomTalk"
+  }
+ ]
+}

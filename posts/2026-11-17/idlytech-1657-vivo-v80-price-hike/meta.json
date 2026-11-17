@@ -1,0 +1,72 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "vivo India's own sites (vivo.com/in, vivonewsroom.in, shop.vivo.com/in) point their Instagram icon at instagram.com/accounts/login/, so the handle can't be read off the website. @vivo_india is listed as vivo India's account by HypeAuditor (hypeauditor.com/instagram/vivo_india, ~3.2M followers) and Qoruz (qoruz.com/Vivo_India), and Croma's vivo photography contest T&C asks entrants to tag @vivo_india (search snippet; page 403). vivo India's X is @Vivo_India (linked from vivonewsroom.in). Main: drop the tag if you want website-level confirmation.",
+ "format": "news carousel",
+ "headline": "Vivo V80 Reportedly Up ₹5,000 to ₹67,999 Since October Launch",
+ "image": {
+  "url": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/product/1792408487419/zip/img/vivo-v80-lg-x2.jpg",
+  "page": "https://www.vivo.com/in/products/v80",
+  "licence": "vivo India official product image (manufacturer's product page), credited 'Image: vivo India'",
+  "author": "vivo India",
+  "size": "3840x1880",
+  "subject": "Vivo V80 in three colours (grey, orange, green); cover crop (1150,627,1003x1253; focal 0.4301,0.7; zoom 1.5; upscale 1.077x) keeps only the phones, below the banner lettering 'vivo V80' / 'ZEISS Portrait So Pro' / 'Co-engineered with ZEISS'",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Vivo V80 reportedly +₹5,000 on all 3 variants: 8+128 ₹62,999->₹67,999; 8+256 ₹69,999->₹74,999; 8+512 ₹79,999->₹84,999 (mid-Nov 2026; MyMobileIndia says effective 15 Nov); not announced by Vivo",
+   "urls": [
+    "https://www.mymobileindia.com/?p=319861",
+    "https://mobiletelco.in/mobile/vivo-price-hike-v80-s2-y11/",
+    "https://paidfreedroid.com/2026/11/vivo-smartphone-price-hike-v80-s2-y11-revised-rates-india.html/amp",
+    "https://www.cashify.in/news/vivo-price-hike-in-india-v80-s2-and-y11-become-costlier-by-up-to-rs-5000"
+   ]
+  },
+  {
+   "fact": "V80 launched in India 6 Oct 2026 at ₹62,999 / ₹69,999 / ₹79,999; sale from 13 Oct",
+   "urls": [
+    "https://vivonewsroom.in/press-release/vivo-unveils-v80-making-everyday-content-creation-more-cinematic-with-4k-cinematic-video1-zeiss-co-engineered-imaging-system5-and-ai-styles/",
+    "https://gadgets.beebom.com/news/vivo-v80-india-sale-starts-price-offers-and-specifications"
+   ]
+  },
+  {
+   "fact": "Vivo S2 reportedly +₹5,000: 8+128 ₹42,999->₹47,999; 8+256 ₹48,999->₹53,999",
+   "urls": [
+    "https://www.mymobileindia.com/?p=319868",
+    "https://mobiletelco.in/mobile/vivo-price-hike-v80-s2-y11/",
+    "https://paidfreedroid.com/2026/11/vivo-smartphone-price-hike-v80-s2-y11-revised-rates-india.html/amp"
+   ]
+  },
+  {
+   "fact": "Vivo S2 launched Aug 2026 at ₹39,999 (8+128), ₹44,999 (8+256); sale from 11 Aug; rose to ₹42,999 / ₹48,999 (Beebom, 25 Sep)",
+   "urls": [
+    "https://telecomtalk.info/vivo-s2-5g-launched-in-india-price/1010479/",
+    "https://gadgets.beebom.com/news/vivo-phones-price-hike-in-india-ahead-of-festive-sales",
+    "https://www.91mobiles.com/hub/vivo-x300-fe-rs-89999-s2-y-series-price-hikes/"
+   ]
+  },
+  {
+   "fact": "Vivo Y11 4+64 ₹18,999->₹21,999 (+₹3,000); 4+128 ₹22,499->₹25,499",
+   "urls": [
+    "https://www.mymobileindia.com/?p=319868",
+    "https://mobiletelco.in/mobile/vivo-price-hike-v80-s2-y11/",
+    "https://paidfreedroid.com/2026/11/vivo-smartphone-price-hike-v80-s2-y11-revised-rates-india.html/amp"
+   ]
+  },
+  {
+   "fact": "New prices apply offline and online; reason reportedly memory/storage chip costs (outlets' explanation, not Vivo's)",
+   "urls": [
+    "https://paidfreedroid.com/2026/11/vivo-smartphone-price-hike-v80-s2-y11-revised-rates-india.html/amp",
+    "https://www.cashify.in/news/vivo-price-hike-in-india-v80-s2-and-y11-become-costlier-by-up-to-rs-5000"
+   ]
+  }
+ ],
+ "tags_proposed": [
+  "vivo_india"
+ ],
+ "tag_decision": "Main dropped @vivo_india: vivo's own sites don't link the handle and the only confirmations were analytics sites (HypeAuditor, Qoruz); the rule needs the official website or two credible sources."
+}

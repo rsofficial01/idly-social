@@ -1,0 +1,58 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Image: vivo India",
+  "slug": "idlytech-1657-vivo-v80-price-hike",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-1657-vivo-v80-price-hike/01.jpg",
+  "scale": 1.077
+ },
+ {
+  "stat": 252,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: My Mobile India, Mobiletelco, PaidFreeDroid, vivo India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1657-vivo-v80-price-hike",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-1657-vivo-v80-price-hike/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: My Mobile India, Mobiletelco, Beebom, TelecomTalk",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1657-vivo-v80-price-hike",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-1657-vivo-v80-price-hike/03.jpg",
+  "scale": null
+ }
+]
