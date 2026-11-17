@@ -1,0 +1,77 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual photographer, not a brand or organisation with an official Instagram account.",
+ "format": "special",
+ "title": "Morning Brief, Tue 17 Nov 2026: SAFF Championship final India vs Pakistan tonight 7:30 PM IST, National Stadium Dhaka, Veto app (lead); SC awards Rs 30 lakh to Devilal Gond, jailed 7+ years after HC acquittal (Jan 2018 to May 2025), notes no law for wrongful-jailing compensation; SC (DDA v Rajender Kumar Sharma) gratuity cannot be withheld because the State appealed an acquittal; PM Modi at 23rd ASEAN-India and 21st East Asia summits in Manila today, Quad meeting planned per PTI, unconfirmed; Iran's IRGC navy claims mines damaged 6 tankers in Hormuz since Sunday (unverified).",
+ "headline": "India vs Pakistan Football Final: 7:30 PM Tonight on Veto App",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/National_Stadium%2C_Dhaka.jpg/3840px-National_Stadium%2C_Dhaka.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:National_Stadium,_Dhaka.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Jubair Bin Iqbal (Jubair1985), own work, taken 6 March 2026",
+  "size": "3840x2880 (Commons thumbnail of the 8192x6144 original)",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "SAFF Championship final India vs Pakistan, Tue 17 Nov, 19:30 IST, National Stadium Dhaka, streamed on Veto app",
+   "urls": [
+    "https://www.the-aiff.com/article/india-eye-historic-three-peat-and-10th-saff-championship-title-against-pakistan",
+    "https://khelnow.com/football/indian-football-saff-championship-2026-final-india-vs-pakistan-preview"
+   ]
+  },
+  {
+   "fact": "India holders, record nine titles (10th would extend); India beat Bhutan 2-1 in semi; Pakistan beat hosts Bangladesh 1-0; Pakistan's first SAFF final",
+   "urls": [
+    "https://www.the-aiff.com/article/india-eye-historic-three-peat-and-10th-saff-championship-title-against-pakistan",
+    "https://khelnow.com/football/indian-football-saff-championship-2026-final-india-vs-pakistan-preview"
+   ]
+  },
+  {
+   "fact": "SC (Justices Masih, Sachdeva, 16 Nov) awards Rs 30 lakh to Devilal Gond; Chhattisgarh HC acquitted him 20 Jan 2018, order never reached jail, released 19 May 2025; no statutory framework for wrongful-incarceration compensation",
+   "urls": [
+    "https://www.livelaw.in/supreme-court/supreme-court-awards-rs-30-lakhs-to-man-kept-in-jail-for-7-years-despite-acquittal-recommends-law-to-compensate-illegal-custody-558641",
+    "https://www.etvbharat.com/en/bharat/freed-on-paper-forgotten-in-prison-sc-grants-rs-30-lakh-to-wrongfully-jailed-man-enn26111607620"
+   ]
+  },
+  {
+   "fact": "SC (16 Nov, DDA v Rajender Kumar Sharma): gratuity of acquitted retirees cannot be withheld merely because State's challenge to acquittal is pending; DDA withheld Rs 18,52,224 and Rs 15,43,113 under Rule 69(1)(c) CCS (Pension) Rules; acquittal holds the field; undertaking to refund with interest",
+   "urls": [
+    "https://www.livelaw.in/top-stories/supreme-court-pending-appeal-against-acquittal-ground-withhold-retired-employees-gratuity-558644",
+    "https://lawchakra.in/supreme-court/gratuity-cannot-be-withheld/"
+   ]
+  },
+  {
+   "fact": "Modi at 23rd ASEAN-India Summit and 21st East Asia Summit in Manila on 17 Nov; ASEAN has 11 members",
+   "urls": [
+    "https://www.dailyexcelsior.com/pm-arrives-in-philippines-for-asean-east-asia-summits-quad-meet-planned",
+    "https://www.theweek.in/news/india/2026/11/16/pm-modi-manila-visit-asean-summit.html"
+   ]
+  },
+  {
+   "fact": "Quad leaders' meeting planned on the sidelines (PTI); no official confirmation (The Week)",
+   "urls": [
+    "https://www.dailyexcelsior.com/pm-arrives-in-philippines-for-asean-east-asia-summits-quad-meet-planned",
+    "https://www.theweek.in/news/india/2026/11/16/pm-modi-manila-visit-asean-summit.html"
+   ]
+  },
+  {
+   "fact": "IRGC navy says mines damaged six oil tankers since Sunday; unverified; Iran warns the US-protected route is mined",
+   "urls": [
+    "https://www.investing.com/news/economy-news/three-tankers-hit-naval-mines-in-strait-of-hormuz-iran-state-tv-says--ap-5029984",
+    "https://www.trtworld.com/article/ce2c4063379d"
+   ]
+  },
+  {
+   "fact": "Before the war the strait carried about a fifth of the world's oil",
+   "urls": [
+    "https://www.investing.com/news/economy-news/three-tankers-hit-naval-mines-in-strait-of-hormuz-iran-state-tv-says--ap-5029984",
+    "https://www.yahoo.com/news/world/articles/irans-navy-two-more-oil-150325088.html"
+   ]
+  }
+ ]
+}

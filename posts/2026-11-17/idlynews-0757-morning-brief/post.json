@@ -1,0 +1,74 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "17 Nov 2026",
+ "sources": [
+  "AIFF",
+  "Khel Now",
+  "LiveLaw",
+  "ETV Bharat",
+  "LawChakra",
+  "Daily Excelsior (PTI)",
+  "The Week",
+  "AP",
+  "TRT World",
+  "dpa"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "India vs Pakistan Football Final: 7:30 PM Tonight on Veto App",
+   "photo": "_work/2026-11-17-hourly-0757/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: Jubair Bin Iqbal / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.4,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹30 LAKH",
+   "stat_label": "Supreme Court Award: Jailed 7 Years After Acquittal",
+   "bullets": [
+    "Devilal Gond's acquittal order never reached his jail",
+    "Acquitted January 2018, freed May 2025, in Chhattisgarh",
+    "Court: India has no law to compensate wrongful jailing"
+   ],
+   "credit_line": "Sources: LiveLaw, ETV Bharat"
+  },
+  {
+   "type": "detail",
+   "stat": "₹18.5 LAKH",
+   "stat_label": "Supreme Court: Acquitted Retirees Get Gratuity Despite Appeal",
+   "bullets": [
+    "Two retirees: ₹18.5 lakh and ₹15.4 lakh withheld",
+    "Delhi Development Authority cited central pension rules",
+    "Acquittal stands until overturned; refund if reversed"
+   ],
+   "credit_line": "Sources: LiveLaw, LawChakra"
+  },
+  {
+   "type": "detail",
+   "stat": "2 SUMMITS",
+   "stat_label": "PM Modi at Two Summits in Manila Today",
+   "bullets": [
+    "23rd ASEAN-India and 21st East Asia summits",
+    "Quad leaders' meeting planned on sidelines, PTI reports",
+    "Quad is India, US, Japan, Australia; not yet confirmed"
+   ],
+   "credit_line": "Sources: Daily Excelsior (PTI), The Week"
+  },
+  {
+   "type": "detail",
+   "stat": "6 TANKERS",
+   "stat_label": "Iran Claims Mines Hit 6 Tankers in Hormuz",
+   "bullets": [
+    "Iranian forces' claim since Sunday is unverified",
+    "Iran warns shippers the US-guarded route is mined",
+    "About a fifth of world oil passed there pre-war"
+   ],
+   "credit_line": "Sources: AP, TRT World, dpa"
+  }
+ ]
+}
