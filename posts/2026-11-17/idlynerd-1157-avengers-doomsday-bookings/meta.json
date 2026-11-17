@@ -1,0 +1,92 @@
+{
+ "account": "idlynerd",
+ "story_id": 2728,
+ "idly_article": true,
+ "tags": [
+  "marvel"
+ ],
+ "tag_evidence": "marvel.com's own film page https://www.marvel.com/movies/avengers-doomsday links its masthead social button to https://www.instagram.com/marvel (SocialLinks__Masthead__Social__Button), and its share links to https://instagram.com/marvel; Marvel is the image owner (cdn.marvel.com).",
+ "format": "news carousel (cover + 2 detail slides)",
+ "headline": "Avengers: Doomsday India Bookings Open, Midnight Shows on 17 Dec",
+ "image": {
+  "url": "https://cdn.marvel.com/content/2x/avengersdoomsday_lob_mas_mob_03.webp",
+  "page": "https://www.marvel.com/movies/avengers-doomsday",
+  "licence": "official studio key art (Marvel Studios' film page), press/editorial use with credit 'Image: Marvel Studios'",
+  "author": "Marvel Studios",
+  "size": "1680x800 (framed to 1080x1350, upscale 1.69x, sharpened)",
+  "subject": "Doctor Doom seen from behind, green cloak, mask in hand (art from the official teaser poster); no face, no lettering",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-17-hourly-1157/photos/idlynerd-doomsday-mob03.png",
+  "framing": {
+   "photo": "_work/2026-11-17-hourly-1157/idlynerd/frame_doom/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.69
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "India release Thursday 17 Dec 2026, a day before the US",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/",
+    "https://www.sacnilk.com/news/avengers-doomsday-india-release-date-preponed-to-december-17-one-day-before-the-us",
+    "https://www.khaleejtimes.com/entertainment/avengers-doomsday-india-release-date-before-us-premiere"
+   ]
+  },
+  {
+   "fact": "US release 18 Dec 2026",
+   "urls": [
+    "https://www.marvel.com/movies/avengers-doomsday",
+    "https://www.hollywoodreporterindia.com/features/insight/shah-rukh-khans-king-locks-december-24-release-set-to-arrive-a-week-after-avengers-doomsday-and-dune-part-three"
+   ]
+  },
+  {
+   "fact": "India bookings opened on the night of 16 Nov, about a month before release",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  },
+  {
+   "fact": "Shows from 12:01 AM on release day on sale (BH: Cinepolis Viviana Mall, Thane 12:01 am; Koimoi: shows from 12:01 AM)",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  },
+  {
+   "fact": "Most early shows in Infinity Vision 3D (BH); Infinity Vision and other premium formats (Koimoi)",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  },
+  {
+   "fact": "Early shows filling fast (BH: 'filling up rapidly'; Koimoi: 'filling up fast'); listings in Mumbai and Delhi-NCR (BH: Mumbai, Gurugram; Koimoi: Mumbai, Delhi)",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  },
+  {
+   "fact": "Releases in English, Hindi, Tamil and Telugu",
+   "urls": [
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/",
+    "https://www.khaleejtimes.com/entertainment/avengers-doomsday-india-release-date-before-us-premiere",
+    "https://www.sacnilk.com/news/avengers-doomsday-india-release-date-preponed-to-december-17-one-day-before-the-us"
+   ]
+  },
+  {
+   "fact": "Thursday 17 Dec release gives a four-day opening weekend (Thu 17 to Sun 20 Dec)",
+   "urls": [
+    "https://www.sacnilk.com/news/avengers-doomsday-india-release-date-preponed-to-december-17-one-day-before-the-us",
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/"
+   ]
+  }
+ ]
+}

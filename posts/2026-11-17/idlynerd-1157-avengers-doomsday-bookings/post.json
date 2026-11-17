@@ -1,0 +1,44 @@
+{
+ "acct": "idlynerd",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Bollywood Hungama",
+  "Koimoi",
+  "Sacnilk"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Avengers: Doomsday India Bookings Open, Midnight Shows on 17 Dec",
+   "photo": "_work/2026-11-17-hourly-1157/idlynerd/frame_doom/cover_source.png",
+   "photo_credit": "Image: Marvel Studios",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "17 DEC",
+   "stat_label": "Avengers: Doomsday Hits Indian Cinemas a Day Early",
+   "bullets": [
+    "India gets it Thursday; the US on 18 Dec",
+    "In English, Hindi, Tamil and Telugu",
+    "Most early shows are Infinity Vision 3D"
+   ],
+   "credit_line": "Sources: Bollywood Hungama, Koimoi, Sacnilk"
+  },
+  {
+   "type": "detail",
+   "stat": "12:01 AM",
+   "stat_label": "Avengers: Doomsday's First Shows Are Already on Sale",
+   "bullets": [
+    "Bookings opened on 16 Nov, a month ahead",
+    "Early shows in Mumbai and Delhi-NCR are filling fast",
+    "Thursday release means a four-day first weekend"
+   ],
+   "credit_line": "Sources: Bollywood Hungama, Koimoi, Sacnilk"
+  }
+ ]
+}
