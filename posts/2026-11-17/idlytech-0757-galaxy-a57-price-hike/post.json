@@ -1,0 +1,45 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-galaxy-a57-price-hike",
+ "date": "17 Nov 2026",
+ "sources": [
+  "TelecomTalk",
+  "Cashify",
+  "Inc42"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Galaxy A57 Now Starts at ₹66,999, ₹10,000 Above Launch Price",
+   "photo": "_work/2026-11-17-hourly-0757/idlytech/frame_dl9/cover_source.png",
+   "photo_credit": "Image: Samsung",
+   "focal": [
+    0.42,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹66,999",
+   "stat_label": "Samsung Galaxy A57 (8GB+256GB) From 16 November",
+   "bullets": [
+    "Galaxy A57 launched in India at ₹56,999 in March",
+    "Rose to ₹59,999 in August, ₹62,999 in September",
+    "12GB+256GB model: ₹62,499 at launch, now ₹76,499"
+   ],
+   "credit_line": "Sources: TelecomTalk, Cashify, Beebom, Tech-ish"
+  },
+  {
+   "type": "detail",
+   "stat": "+₹2,000",
+   "stat_label": "Other Samsung Galaxy A Phones, From 16 November",
+   "bullets": [
+    "Galaxy A07 now ₹22,999, A17 ₹29,999, A36 ₹38,999",
+    "Galaxy A56 now ₹46,999, A37 ₹48,999 (base models)",
+    "Galaxy F17 and F70e also up ₹2,000"
+   ],
+   "credit_line": "Sources: TelecomTalk, Cashify, Inc42"
+  }
+ ]
+}

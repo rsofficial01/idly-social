@@ -1,0 +1,40 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "tags": ["samsungindia"],
+ "tag_evidence": "samsung.com/in homepage footer links https://www.instagram.com/samsungindia (fetched 17 Nov 2026, 08:4x IST); cover image owner is Samsung (Samsung Newsroom global).",
+ "format": "news carousel",
+ "headline": "Galaxy A57 Now Starts at ₹66,999, ₹10,000 Above Launch Price",
+ "image": {
+  "url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/04/14114522/Samsung-Mobile-Galaxy-A-series-Galaxy-A57-5G-Galaxy-A37-5G-Latest-Innovation_dl9_FF.jpg",
+  "page": "https://news.samsung.com/global/user-guide-galaxy-a57-5g-and-galaxy-a37-5g-bringing-latest-innovation-within-reach",
+  "licence": "Samsung Newsroom press image (downloadable media), credited 'Image: Samsung'",
+  "author": "Samsung Electronics",
+  "size": "10000x4371",
+  "subject": "Galaxy A57 5G in Awesome Navy, Gray, Icyblue and Lilac (page text: 'Galaxy A57 5G comes in Awesome Navy, Awesome Gray, Awesome Icyblue and Awesome Lilac'; same set as the page's top colour photo captioned '(From top to bottom) Galaxy A57 5G and Galaxy A37 5G')",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {"fact": "Samsung raised Galaxy A prices in India from Mon 16 Nov 2026; A57 8GB+256GB ₹62,999 -> ₹66,999, 12GB+256GB ₹72,499 -> ₹76,499",
+   "urls": ["https://telecomtalk.info/samsung-galaxy-a-series-price-hike-announced-check-new-price/1013989/",
+            "https://www.cashify.in/news/samsung-galaxy-a57-price-increases-by-rs-4000-in-india-galaxy-a56-now-crosses-rs-50000",
+            "https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/"]},
+  {"fact": "A57 India launch prices (March 2026): ₹56,999 (8+256), ₹62,499 (12+256)",
+   "urls": ["https://telecomtalk.info/samsung-galaxy-a57-5g-galaxy-a37-5g/1005635/",
+            "https://gadgets.beebom.com/news/samsung-galaxy-a57-5g-launched-in-india-key-specifications-price-availability",
+            "https://tech-ish.com/2026/09/07/galaxy-a57-and-a37-get-a-second-price-rise-in-three-weeks/"]},
+  {"fact": "A57 8+256 was ₹59,999 after the August hike and ₹62,999 from 6 Sep (third rise since August = Aug, Sep, Nov)",
+   "urls": ["https://tech-ish.com/2026/09/07/galaxy-a57-and-a37-get-a-second-price-rise-in-three-weeks/",
+            "https://www.mymobileindia.com/samsung-galaxy-a37-and-galaxy-a57-price-hiked-by-up-to-rs-6000-in-india-check-the-new-prices/",
+            "https://www.91mobiles.com/hub/samsung-galaxy-a37-galaxy-a57-prices-india-hiked-again/"]},
+  {"fact": "Other Galaxy A models +₹2,000 per variant; base prices A07 ₹22,999, A17 ₹29,999, A36 ₹38,999, A56 ₹46,999, A37 ₹48,999",
+   "urls": ["https://telecomtalk.info/samsung-galaxy-a-series-price-hike-announced-check-new-price/1013989/",
+            "https://www.cashify.in/news/samsung-galaxy-a57-price-increases-by-rs-4000-in-india-galaxy-a56-now-crosses-rs-50000"]},
+  {"fact": "Galaxy F17 and F70e also up ₹2,000",
+   "urls": ["https://telecomtalk.info/samsung-hikes-galaxy-f17-and-galaxyf70e-prices/1014001/",
+            "https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/",
+            "https://www.cashify.in/news/samsung-galaxy-a57-price-increases-by-rs-4000-in-india-galaxy-a56-now-crosses-rs-50000"]}
+ ]
+}
