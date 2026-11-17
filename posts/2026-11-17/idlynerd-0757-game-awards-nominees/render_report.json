@@ -1,0 +1,58 @@
+[
+ {
+  "size": 92,
+  "lines": 3,
+  "overflow": false,
+  "top": 974,
+  "credit_line": "Image: The Game Awards",
+  "slug": "idlynerd-0757-game-awards-nominees",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-17/idlynerd-0757-game-awards-nominees/01.jpg",
+  "scale": 1.04
+ },
+ {
+  "stat": 144,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Game Awards, OpenCritic, NintendoLife, GamingBolt",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-game-awards-nominees",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-17/idlynerd-0757-game-awards-nominees/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 296,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Final Weapon, Mein-MMO, NintendoLife, Sortir \u00e0 Paris",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-game-awards-nominees",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-17/idlynerd-0757-game-awards-nominees/03.jpg",
+  "scale": null
+ }
+]

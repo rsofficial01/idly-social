@@ -1,0 +1,60 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "No tag: The Game Awards' Instagram handle could not be confirmed from its own site (thegameawards.com renders without social links to curl) or two sources in time.",
+ "format": "event",
+ "image": {
+  "url": "https://assets.thegameawards.com/2026/08/56601a04-2026_tga_keyart_16x9-copy-scaled-1.webp",
+  "page": "https://thegameawards.com/",
+  "licence": "Official key art published by The Game Awards on its own site (press/publicity use, credited)",
+  "author": "The Game Awards",
+  "size": "2560x1440",
+  "faces": 0,
+  "viewed": true,
+  "crop": "focal [0.203, 0.47], zoom 1.11: trophy only, the key art's 'THE GAME AWARDS / DECEMBER 10' lettering cropped out; 1.04x upscale"
+ },
+ "fact_sources": [
+  {
+   "fact": "Nominees livestream Tue 17 Nov, noon ET / 9 AM PT (= 10:30 PM IST); announced by Geoff Keighley",
+   "urls": [
+    "https://thegameawards.com/",
+    "https://opencritic.com/news/39647/the-game-awards-2026-nominees-will-be-revealed-on-november-17",
+    "https://gamingbolt.com/the-game-awards-will-reveal-its-2026-nominees-on-november-17th",
+    "https://finalweapon.net/2026/11/14/the-game-awards-2026-nominees-to-be-revealed-on-november-17/"
+   ]
+  },
+  {
+   "fact": "Eligibility: on sale on or before Fri 20 Nov 2026, 9 PM PT; GTA VI (19 Nov) and Zelda: Ocarina of Time remake eligible",
+   "urls": [
+    "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+    "https://gamingbolt.com/the-game-awards-will-reveal-its-2026-nominees-on-november-17th"
+   ]
+  },
+  {
+   "fact": "Show Thu 10 Dec, Peacock Theater, Los Angeles",
+   "urls": [
+    "https://thegameawards.com/",
+    "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+    "https://finalweapon.net/2026/11/14/the-game-awards-2026-nominees-to-be-revealed-on-november-17/",
+    "https://www.sortiraparis.com/en/what-to-do-in-paris/gaming/articles/331883-the-game-awards-2026-date-broadcast-details-and-first-information-on-the-ceremony"
+   ]
+  },
+  {
+   "fact": "Stream starts 7:30 PM ET (4:30 PM PT) = 6:00 AM IST Fri 11 Dec",
+   "urls": [
+    "https://finalweapon.net/2026/11/14/the-game-awards-2026-nominees-to-be-revealed-on-november-17/",
+    "https://mein-mmo.de/en/game-awards-2026-all-information-about-date-time-stream-and-more,1587054/"
+   ]
+  },
+  {
+   "fact": "Streams free on YouTube and Twitch",
+   "urls": [
+    "https://finalweapon.net/2026/11/14/the-game-awards-2026-nominees-to-be-revealed-on-november-17/",
+    "https://www.sortiraparis.com/en/what-to-do-in-paris/gaming/articles/331883-the-game-awards-2026-date-broadcast-details-and-first-information-on-the-ceremony",
+    "https://mein-mmo.de/en/game-awards-2026-all-information-about-date-time-stream-and-more,1587054/"
+   ]
+  }
+ ]
+}

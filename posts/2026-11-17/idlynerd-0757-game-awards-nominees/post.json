@@ -1,0 +1,47 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0757-game-awards-nominees",
+ "date": "17 Nov 2026",
+ "sources": [
+  "The Game Awards",
+  "OpenCritic",
+  "NintendoLife",
+  "GamingBolt",
+  "Final Weapon",
+  "Mein-MMO"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "The Game Awards Nominees Drop Tonight at 10:30 PM IST",
+   "photo": "_work/2026-11-17-hourly-0757/idlynerd/img/tga_keyart.jpg",
+   "photo_credit": "Image: The Game Awards",
+   "focal": [
+    0.203,
+    0.47
+   ],
+   "zoom": 1.11
+  },
+  {
+   "type": "detail",
+   "stat": "10:30 PM IST",
+   "stat_label": "The Game Awards 2026 Nominees Go Live Tonight",
+   "bullets": [
+    "Tuesday 17 Nov: noon in New York",
+    "Cutoff 20 Nov: Rockstar's GTA VI, out 19 Nov, qualifies"
+   ],
+   "credit_line": "Sources: The Game Awards, OpenCritic, NintendoLife, GamingBolt"
+  },
+  {
+   "type": "detail",
+   "stat": "11 DEC",
+   "stat_label": "The Game Awards 2026: 6 AM IST on Friday",
+   "bullets": [
+    "Thursday 10 Dec, 7:30 PM New York time",
+    "Live from the Peacock Theater, Los Angeles",
+    "Streams free on YouTube and Twitch"
+   ],
+   "credit_line": "Sources: Final Weapon, Mein-MMO, NintendoLife, Sortir à Paris"
+  }
+ ]
+}
