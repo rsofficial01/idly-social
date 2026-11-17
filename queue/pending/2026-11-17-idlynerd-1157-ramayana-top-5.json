@@ -1,0 +1,76 @@
+{
+  "slug": "2026-11-17-idlynerd-1157-ramayana-top-5",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "Ramayana enters the all-time top 5 Indian films worldwide: ₹1,437.25 cr in 12 days (Sacnilk)",
+  "headline": "Ramayana Crosses ₹1,400 Crore, Enters India's All-Time Top 5",
+  "caption": "Ramayana: Rise of a Legend is now one of the five highest-grossing Indian films ever. Trade tracker Sacnilk estimates Part 1 has made ₹1,437.25 crore gross worldwide in 12 days, to Monday 16 November. Its overseas figures are still preliminary.\n\nOnly four Indian films have earned more, by Sacnilk's count: Dangal (₹2,070.30 crore), Dhurandhar 2: The Revenge (₹1,813.39 crore), Baahubali 2: The Conclusion (₹1,788.06 crore) and Pushpa 2: The Rule (₹1,742.10 crore). Ramayana has passed the first Dhurandhar, RRR and KGF Chapter 2, and is about ₹305 crore short of Pushpa 2.\n\nKoimoi's count also puts Nitesh Tiwari's film fifth, at ₹1,410.66 crore after 11 days. The makers have not confirmed these figures.\n\nHow many times have you watched Ramayana in a cinema so far?\n\nSources: Sacnilk, Koimoi\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd",
+  "alt_text": "An official still from Ramayana: Rise of a Legend under the headline \"Ramayana Crosses ₹1,400 Crore, Enters India's All-Time Top 5\".",
+  "sources": [
+    "Sacnilk",
+    "Koimoi"
+  ],
+  "detail_slides": [
+    {
+      "stat": "NO. 5",
+      "stat_label": "Ramayana's All-Time Rank Among Indian Films Worldwide",
+      "bullets": [
+        "Top two: Dangal ₹2,070 crore, Dhurandhar 2 ₹1,813 crore",
+        "Then Baahubali 2 ₹1,788 crore, Pushpa 2 ₹1,742 crore",
+        "No. 5 Ramayana: ₹1,437 crore in 12 days"
+      ],
+      "credit_line": "Sources: Sacnilk (figures); Koimoi (ranking)"
+    },
+    {
+      "stat": "₹305 CR",
+      "stat_label": "What Ramayana Needs to Overtake Pushpa 2",
+      "bullets": [
+        "Sacnilk's estimate; overseas figures are still preliminary",
+        "Passed the first Dhurandhar, RRR and KGF Chapter 2",
+        "Koimoi also ranks Ramayana fifth, on 11 days"
+      ],
+      "credit_line": "Sources: Sacnilk, Koimoi"
+    }
+  ],
+  "tags": [],
+  "story": false,
+  "notes": "format: news carousel (cover + 2 detail slides). Desk run 1157, Gate 1 BUILD (ladder is the point; one worldwide figure: Sacnilk 12 days). Cover stills not used on the page before; the 11/13 Nov RAMA_02, 16 Nov DNEG banner and 10 Nov YleIZgpTF6w are deliberately left out. Stories paused. G2+3 PASS with fixes applied (first Dhurandhar disambiguated; slide 2 Sources: Sacnilk (figures); Koimoi (ranking)).",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 1,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "hook 2: ₹1,400 crore + all-time top 5 on the cover. read 2: cover -> ladder -> gap to Pushpa 2, no filler. send 2: first time in the top 5 (new since 16 Nov), fans forward the ladder today. keep 1: ladder and gap are reference figures, not a date/price/deadline. reply 2: 'how many times have you watched it' answerable by anyone in a word. original 1: Sacnilk's own story is 'enters top 5, eyes Pushpa 2'; idly adds the cross-check with Koimoi and the ladder design. alone 2: every slide names Ramayana and the source."
+    }
+  },
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=kFZUyEBz6SA",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=ATXNE61Y4RU"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=msFKPTZA6PI"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=iDK6s4-2lm4"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
+      }
+    ]
+  },
+  "created_at": "2026-11-17T12:15:00+05:30"
+}
