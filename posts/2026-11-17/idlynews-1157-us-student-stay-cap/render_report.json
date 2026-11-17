@@ -1,0 +1,58 @@
+[
+ {
+  "size": 88,
+  "lines": 3,
+  "overflow": false,
+  "top": 986,
+  "credit_line": "Photo: 4300streetcar / Wikimedia Commons, CC BY 4.0",
+  "slug": "idlynews-1157-us-student-stay-cap",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlynews-1157-us-student-stay-cap/01.jpg",
+  "scale": 0.527
+ },
+ {
+  "stat": 180,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Open Doors via ThePrint, The Tribune; ANI",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-us-student-stay-cap",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlynews-1157-us-student-stay-cap/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 220,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: AFP, ANI, VisaVerge",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-us-student-stay-cap",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlynews-1157-us-student-stay-cap/03.jpg",
+  "scale": null
+ }
+]

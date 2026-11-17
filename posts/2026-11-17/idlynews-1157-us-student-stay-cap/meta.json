@@ -1,0 +1,106 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "No tag: cover is a Wikimedia Commons photographer's own work (4300streetcar), not a brand or official account image.",
+ "format": "news",
+ "headline": "US Judge Scraps 4-Year Cap; Indian Students Keep Full-Course Stay",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/John_Joseph_Moakley_United_States_Courthouse_September_2024.jpg/3840px-John_Joseph_Moakley_United_States_Courthouse_September_2024.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Joseph_Moakley_United_States_Courthouse_September_2024.jpg",
+  "licence": "CC BY 4.0",
+  "author": "4300streetcar (own work, Wikimedia Commons)",
+  "size": [
+   6000,
+   4000
+  ],
+  "downloaded_size": [
+   3840,
+   2560
+  ],
+  "subject": "John Joseph Moakley United States Courthouse, Boston: seat of the US District Court for the District of Massachusetts, where Judge Saylor ruled",
+  "framing": {
+   "photo": "_work/2026-11-17-hourly-1157/idlynews/frame_moakley/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.53,
+   "faces": 0
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "US District Judge F. Dennis Saylor (Boston/Massachusetts) set aside/vacated the DHS rule on Monday 16 Nov 2026 (US time), calling it 'arbitrary, capricious, an abuse of discretion'",
+   "urls": [
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://www.freepressjournal.in/education/us-court-strikes-down-trump-administration-rule-restricting-stay-of-foreign-students-researchers-and-journalists",
+    "https://thefederal.com/category/international/us-judge-strikes-down-trump-administration-rule-imposing-4-year-limit-on-foreign-students-stay-263158",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "Rule capped F (and J) stays at 4 years; students needing more time would have to apply to DHS for an extension; it would end 'duration of status'",
+   "urls": [
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://thefederal.com/category/international/us-judge-strikes-down-trump-administration-rule-imposing-4-year-limit-on-foreign-students-stay-263158",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "Post-course grace period would have fallen from 60 days to 30 (F-1); 60-day grace remains",
+   "urls": [
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "Foreign journalists' (I visa) stays would have been cut to 240 days",
+   "urls": [
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "Judge said the rule would prevent extended study such as PhD programmes and bar joint degrees",
+   "urls": [
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://www.freepressjournal.in/education/us-court-strikes-down-trump-administration-rule-restricting-stay-of-foreign-students-researchers-and-journalists"
+   ]
+  },
+  {
+   "fact": "Rule published in the Federal Register on 17 July 2026; a 14 Sept 2026 court order postponed it, so it never took effect",
+   "urls": [
+    "https://www.freepressjournal.in/education/us-court-strikes-down-trump-administration-rule-restricting-stay-of-foreign-students-researchers-and-journalists",
+    "https://openthemagazine.com/world/us-judge-strikes-down-trump-rule-restricting-stays-for-foreign-students-journalists",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "Government appealed the September order to the First Circuit (pending at the time of the ruling); the final ruling can also be appealed",
+   "urls": [
+    "https://www.freepressjournal.in/education/us-court-strikes-down-trump-administration-rule-restricting-stay-of-foreign-students-researchers-and-journalists",
+    "https://openthemagazine.com/world/us-judge-strikes-down-trump-rule-restricting-stays-for-foreign-students-journalists",
+    "https://scroll.in/latest/1097124/us-court-strikes-down-visa-rules-restricting-stays-of-foreign-students-journalists",
+    "https://www.visaverge.com/f1visa/judge-strikes-down-dhs-rule-capping-f-1-j-1-student-stays-four-years/"
+   ]
+  },
+  {
+   "fact": "3,63,019 Indian students in the US in 2024-25 (Open Doors 2025), more than any other country",
+   "urls": [
+    "https://theprint.in/india/education/17-drop-in-new-international-students-in-us-in-fall-2025-indians-remain-largest-cohort-open-doors/2785710",
+    "https://www.tribuneindia.com/news/india/us-sees-sharp-dip-in-foreign-students-india-tops-the-list"
+   ]
+  }
+ ],
+ "gates": {
+  "G1": "121504-idlynews-g1: A (US 4-year student-stay cap struck down) BUILD ceiling 13; B Cyclone Akvan orange alert/Odisha evacuations HOLD 11 (not a new stage, no image); C Calcutta HC contempt v Abhishek Banerjee HOLD 10.",
+  "G23": "121827-idlynews-g23: PASS (notes for G4: VERTEX sign, slide 3 label, re-render).",
+  "G4": "122127-idlynews-g4: PASS 13 (hook 1, read 2, send 2, keep 2, reply 2, original 2, alone 2); note: put India on cover. 122225-idlynews-g4 (second pass, new cover headline): PASS 14 (all 2s); optional wording 'US Judge Scraps 4-Year Cap; Indian Students Keep Full-Course Stay' applied after that pass and re-rendered (3 lines, 88px, no overflow)."
+ },
+ "face_checks": "dl.py OK faces=0 on: full 3840x2560 source; exact 4:5 cover region 2048x2560; rendered 01.jpg 1080x1350. A tighter 4:5 crop (1666x2082, made to drop the VERTEX sign) was QUARANTINED (1 face, likely a tiny figure on the motorboat) and never opened or used."
+}

@@ -1,0 +1,44 @@
+{
+ "acct": "idlynews",
+ "date": "17 Nov 2026",
+ "sources": [
+  "AFP",
+  "ANI",
+  "VisaVerge"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "US Judge Scraps 4-Year Cap; Indian Students Keep Full-Course Stay",
+   "photo": "_work/2026-11-17-hourly-1157/idlynews/frame_moakley/cover_source.png",
+   "photo_credit": "Photo: 4300streetcar / Wikimedia Commons, CC BY 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "3.63 LAKH",
+   "stat_label": "Indian Students in the US in 2024-25",
+   "bullets": [
+    "India sends more students there than any other country",
+    "US Homeland Security's cap covered all F-1 student visas",
+    "Judge: it would block longer PhDs, joint degrees"
+   ],
+   "credit_line": "Sources: Open Doors via ThePrint, The Tribune; ANI"
+  },
+  {
+   "type": "detail",
+   "stat": "60 DAYS",
+   "stat_label": "US Grace Period After Studies Stays at 60 Days",
+   "bullets": [
+    "Struck down: 4-year cap, then apply to extend",
+    "Stays: students remain for their whole course",
+    "Rule never took effect; US can still appeal"
+   ],
+   "credit_line": "Sources: AFP, ANI, VisaVerge"
+  }
+ ]
+}
