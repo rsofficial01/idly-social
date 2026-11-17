@@ -1,0 +1,59 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1657-indian-sneaker-labels",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Comet",
+  "Broadway",
+  "Pacific Mall Jaipur",
+  "Gully Labs",
+  "Superkicks",
+  "Thaely"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Indian Sneakers From ₹3,500: Comet, Gully Labs and Thaely",
+   "photo": "_work/2026-11-17-hourly-1657/desks/idlyhype/frame_sourbomb/cover_source.png",
+   "photo_credit": "Image: Comet",
+   "focal": [
+    0.5,
+    0.62
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,499",
+   "stat_label": "Comet Aeon V2 Sourbomb: Price in India",
+   "bullets": [
+    "The pair on the cover: neon suede, white mesh",
+    "Other colours at Broadway, a multi-brand store",
+    "Comet also has a store at Pacific Mall, Jaipur"
+   ],
+   "credit_line": "Sources: Comet, Broadway, Pacific Mall Jaipur"
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,990",
+   "stat_label": "Gully Labs Number 001 Megh White: Price",
+   "bullets": [
+    "White leather upper with grey suede accents",
+    "Embroidery on the side and back tab",
+    "Sold by Gully Labs and at Superkicks"
+   ],
+   "credit_line": "Sources: Gully Labs, Superkicks"
+  },
+  {
+   "type": "detail",
+   "stat": "₹3,500",
+   "stat_label": "Thaely Tech Tabi Sulfur Yellow: Price",
+   "bullets": [
+    "Thaely: upper uses about 15-18 plastic bottles",
+    "Machine washable, Thaely says",
+    "Sold by Thaely and at Superkicks"
+   ],
+   "credit_line": "Sources: Thaely, Superkicks"
+  }
+ ]
+}

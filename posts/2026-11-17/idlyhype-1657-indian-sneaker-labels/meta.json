@@ -1,0 +1,92 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [
+  "thecometuniverse"
+ ],
+ "tag_evidence": "wearcomet.com (Comet's own site) links instagram.com/thecometuniverse in its page footer; checked 17 Nov 2026. Image owner = Comet.",
+ "format": "list (cover + 3 detail slides)",
+ "headline": "Indian Sneakers From ₹3,500: Comet, Gully Labs and Thaely",
+ "image": {
+  "url": "https://cdn.shopify.com/s/files/1/0738/5559/8899/files/1_1_ae659e86-2fdf-46e3-bf9c-50068d3dbd91.jpg?v=1794799272",
+  "page": "https://www.wearcomet.com/products/aeon-v2-sourbomb",
+  "licence": "Brand's own product image (official product page), credited Image: Comet",
+  "author": "Comet",
+  "size": "3684x4995",
+  "subject": "Comet Aeon V2 Sourbomb sneaker, lateral view, studio background",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "output": "_work/2026-11-17-hourly-1657/desks/idlyhype/frame_sourbomb/cover_source.png",
+   "focal": [
+    0.5,
+    0.62
+   ],
+   "zoom": 1.2,
+   "scale": 0.352,
+   "shoe_y_px": "~260-660 of 1350"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Comet Aeon V2 Sourbomb is ₹4,499 on Comet's site; Broadway's Comet Aeon V2 pairs start at MRP ₹4,499 (Riptide, Nimbus, Eclipse, Affogato)",
+   "urls": [
+    "https://www.wearcomet.com/products/aeon-v2-sourbomb",
+    "https://shop.broadwaylive.in/products/aeon-v2-riptide",
+    "https://www.wearcomet.com/products/aeon-v2-riptide"
+   ]
+  },
+  {
+   "fact": "Sourbomb: neon suede overlay, white breathable mesh, green shooting star (Comet's description; the photo shows it)",
+   "urls": [
+    "https://www.wearcomet.com/products/aeon-v2-sourbomb",
+    "https://www.wearcomet.com/products/aeon-v2-sourbomb.json"
+   ]
+  },
+  {
+   "fact": "Comet store at Pacific Mall, Jaipur (first floor, VT Road, Mansarovar)",
+   "urls": [
+    "https://www.wearcomet.com/pages/store-locator-map",
+    "https://www.pacificmalls.in/jaipur/shopping"
+   ]
+  },
+  {
+   "fact": "Gully Labs Number 001 Megh White is ₹5,990",
+   "urls": [
+    "https://gullylabs.com/products/gully-number-001-megh-white",
+    "https://www.superkicks.in/products/gully-labs-gully-number-001-megh-white"
+   ]
+  },
+  {
+   "fact": "Number 001 Megh White: white leather upper, grey suede accents, embroidery on side and back tab",
+   "urls": [
+    "https://gullylabs.com/products/gully-number-001-megh-white",
+    "https://www.superkicks.in/products/gully-labs-gully-number-001-megh-white"
+   ]
+  },
+  {
+   "fact": "Thaely Tech Tabi Sulfur Yellow is ₹3,500; camo versions (Digi Camo) ₹3,750; Thaely says the upper uses about 15-18 one-litre plastic bottles (Superkicks' listing carries the same description)",
+   "urls": [
+    "https://www.thaely.com/products/tech-tabi-sulfur-yellow",
+    "https://www.superkicks.in/products/thaely-tech-tabi-sulfur-yellow",
+    "https://www.thaely.com/products/tech-tabi-digi-camo",
+    "https://www.superkicks.in/products/thaely-tech-tabi-digi-camo-black-grey"
+   ]
+  },
+  {
+   "fact": "Tech Tabi upper uses about 15-18 one-litre plastic bottles; machine washable; made for Indian heat, dust and rain",
+   "urls": [
+    "https://www.thaely.com/products/tech-tabi-sulfur-yellow",
+    "https://www.superkicks.in/products/thaely-tech-tabi-sulfur-yellow"
+   ]
+  },
+  {
+   "fact": "Broadway is a multi-brand store (its own words: a curated store for fashion, streetwear, sneakers, Korean beauty, personal care, footwear and wellness; 200+ handpicked D2C brands; curates India's best fashion, sneakers, beauty & wellness brands)",
+   "urls": [
+    "https://shop.broadwaylive.in/pages/about-us",
+    "https://www.broadwaylive.in/"
+   ]
+  }
+ ]
+}

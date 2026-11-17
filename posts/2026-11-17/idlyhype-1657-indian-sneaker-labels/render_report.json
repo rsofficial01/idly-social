@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Comet",
+  "slug": "idlyhype-1657-indian-sneaker-labels",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-1657-indian-sneaker-labels/01.jpg",
+  "scale": 0.352
+ },
+ {
+  "stat": 300,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Comet, Broadway, Pacific Mall Jaipur",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1657-indian-sneaker-labels",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-1657-indian-sneaker-labels/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 296,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Gully Labs, Superkicks",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1657-indian-sneaker-labels",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-1657-indian-sneaker-labels/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 292,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Thaely, Superkicks",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1657-indian-sneaker-labels",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-1657-indian-sneaker-labels/04.jpg",
+  "scale": null
+ }
+]
