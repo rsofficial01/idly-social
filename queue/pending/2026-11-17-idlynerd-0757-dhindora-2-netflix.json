@@ -1,0 +1,59 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Dhindora Season 2 premieres on Netflix on 20 November; Season 1 was on YouTube",
+  "headline": "Dhindora 2 Moves From YouTube to Netflix on 20 Nov",
+  "caption": "Dhindora, Bhuvan Bam's comedy drama, returns for Season 2 on Friday, 20 November, only on Netflix. Season 1 ran free on his BB Ki Vines YouTube channel from October 2021; Netflix now streams that season as well.\n\nThis time, Titu Mama is reeling from an ₹11 crore loss, and his attempt to make peace with his in-laws lands him in bigger trouble. Bam again plays the whole family, including Titu Mama, Babloo ji, Janki, Sameer and Bancho. Sanjeeda Sheikh joins as Kavita Mami, Titu Mama's wife. Sneha Shetty Kohli directs, her first time as a director.\n\nNetflix India's trailer, posted on 13 November, had over 88 lakh views on YouTube by Tuesday morning.\n\nWhich Bhuvan Bam character did you grow up on?\n\nSources: Netflix, Republic World, Bollywood Hungama, Fossbytes\n\n#Dhindora2 #BhuvanBam #BBKiVines #NetflixIndia #idlynerd",
+  "alt_text": "Slide 1: an official still from Netflix India's Dhindora 2 trailer, under the headline \"Dhindora 2 Moves From YouTube to Netflix on 20 Nov\". Slide 2: \"20 NOV\", Bhuvan Bam's Dhindora 2 premieres only on Netflix: Season 1 is already on Netflix too, and Sneha Shetty Kohli directs, her directing debut. Slide 3: \"₹11 CRORE\", the plot: Titu Mama's loss in Dhindora 2; his peace bid with his in-laws backfires, Bhuvan Bam again plays the whole family, and Sanjeeda Sheikh joins as Kavita Mami.",
+  "sources": [
+    "Netflix",
+    "Republic World",
+    "Bollywood Hungama",
+    "Fossbytes"
+  ],
+  "detail_slides": [
+    {
+      "stat": "20 NOV",
+      "stat_label": "Bhuvan Bam's Dhindora 2 Premieres Only on Netflix",
+      "bullets": [
+        "Dhindora Season 1 is already on Netflix too",
+        "Sneha Shetty Kohli directs, her directing debut"
+      ],
+      "credit_line": "Sources: Netflix, Bollywood Hungama"
+    },
+    {
+      "stat": "₹11 CRORE",
+      "stat_label": "The Plot: Titu Mama's Loss in Dhindora 2",
+      "bullets": [
+        "Titu Mama's peace bid with his in-laws backfires",
+        "Bhuvan Bam again plays the whole family",
+        "Sanjeeda Sheikh joins as Kavita Mami, Titu's wife"
+      ],
+      "credit_line": "Sources: Netflix, Bollywood Hungama, Republic World"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=AjGW8oxTars"
+  },
+  "tags": [
+    "netflix_in"
+  ],
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 1,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "reply 1: 'Which Bhuvan Bam character did you grow up on?' is a one-word answer for BB Ki Vines viewers, but not every follower watched BB Ki Vines. hook 2: a show millions watched free on YouTube now needs Netflix, with the Friday date on the cover. send 2: the friend group that grew up on Titu Mama, Bancho and Janki, before Friday's drop. keep 2: 20 NOV + Netflix on slide 2. original 2: own synthesis from Netflix's release and trade reports, official still credited. alone 2: Dhindora 2 named on cover and both slides; Bhuvan Bam on both slides. Risk: cover still unseen (lane); trailer 4 days old."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 0757. Cover: Netflix India's official Dhindora 2 trailer (13 Nov), @NetflixIndiaOfficial is allowlisted (oEmbed author_url checked 17 Nov). No idly.news article: Sources line, no idly link. Tag netflix_in: Netflix India's own YouTube channel descriptions link instagram.com/netflix_in. Gate 4 HOLD triggers: headline on a face, burned-in trailer text or date on the cover, black/title-only frame.",
+  "created_at": "2026-11-17T08:20:00+05:30",
+  "slug": "2026-11-17-idlynerd-0757-dhindora-2-netflix"
+}
