@@ -1,0 +1,58 @@
+[
+ {
+  "size": 88,
+  "lines": 3,
+  "overflow": false,
+  "top": 986,
+  "credit_line": "Photo: Paowee / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlytech-1157-whatsapp-sim-binding",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlytech-1157-whatsapp-sim-binding/01.jpg",
+  "scale": 0.363
+ },
+ {
+  "stat": 184,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Inc42, Digit, MediaNama",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-whatsapp-sim-binding",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlytech-1157-whatsapp-sim-binding/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 316,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Inc42, Digit, Outlook Business, All India Radio",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-whatsapp-sim-binding",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/_work/2026-11-17-hourly-1157/render/idlytech-1157-whatsapp-sim-binding/03.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,76 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [],
+ "tag_evidence": "No tag: the cover image owner is an individual Wikimedia Commons author (Paowee), not a brand with an official Instagram account.",
+ "format": "news carousel",
+ "headline": "WhatsApp Must Be Tied to Your Phone's SIM From 1 January 2027",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dual_SIM_on_modern_smartphone.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Dual_SIM_on_modern_smartphone.png",
+  "licence": "CC BY-SA 4.0",
+  "author": "Paowee",
+  "size": "3840x3720 (Commons rendition of the 4273x4140 original, fetched via Special:FilePath?width=2560)",
+  "subject": "Samsung Galaxy A02s (dual-SIM) with its SIM tray ejected, showing two SIM cards and a microSD card; ICCID and numbers partly edited out by the author",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "From 1 Jan 2027, messaging apps that sign users up by phone number must work only while the registered SIM is present and active in the device (SIM binding)",
+   "urls": [
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/",
+    "https://www.digit.in/news/general/whatsapp-telegram-and-other-apps-to-enforce-sim-binding-from-jan-1-2027-what-it-means.html",
+    "https://www.newsonair.gov.in/dot-mandates-sim-binding-for-messaging-apps-to-curb-digital-fraud"
+   ]
+  },
+  {
+   "fact": "Compliance deadline extended to 31 Dec 2026; operational from 1 Jan 2027",
+   "urls": [
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/",
+    "https://www.digit.in/news/general/whatsapp-telegram-and-other-apps-to-enforce-sim-binding-from-jan-1-2027-what-it-means.html",
+    "https://www.medianama.com/2026/11/223-dot-sim-binding-rules-what-stops-working/",
+    "https://www.outlookbusiness.com/economy-and-policy/dot-extends-sim-binding-deadline-for-messaging-apps-to-dec-31"
+   ]
+  },
+  {
+   "fact": "Could be cut off: Wi-Fi-only tablets/spare phones without the SIM; phones whose registered SIM is removed, swapped or lapsed (not recharged)",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-dot-sim-binding-rules-what-stops-working/",
+    "https://www.digit.in/news/general/whatsapp-telegram-and-other-apps-to-enforce-sim-binding-from-jan-1-2027-what-it-means.html",
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/"
+   ]
+  },
+  {
+   "fact": "Apps named in DoT's Nov 2025 directions include WhatsApp, Telegram, Signal, Arattai, ShareChat, Josh, JioChat (and Snapchat, which says it is not covered)",
+   "urls": [
+    "https://www.newsonair.gov.in/dot-mandates-sim-binding-for-messaging-apps-to-curb-digital-fraud",
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/",
+    "https://www.digit.in/news/general/whatsapp-telegram-and-other-apps-to-enforce-sim-binding-from-jan-1-2027-what-it-means.html"
+   ]
+  },
+  {
+   "fact": "Government's stated reason: accounts kept working after the SIM was removed, deactivated or moved abroad, letting scammers misuse Indian numbers",
+   "urls": [
+    "https://www.newsonair.gov.in/dot-mandates-sim-binding-for-messaging-apps-to-curb-digital-fraud",
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/"
+   ]
+  },
+  {
+   "fact": "The fixed 6-hour web logout was dropped; web/desktop logouts will be risk-based",
+   "urls": [
+    "https://www.digit.in/news/general/whatsapp-telegram-and-other-apps-to-enforce-sim-binding-from-jan-1-2027-what-it-means.html",
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/"
+   ]
+  },
+  {
+   "fact": "The Nov 2025 directions gave apps 90 days to comply (120 days to report); the deadline was later extended to 31 Dec 2026",
+   "urls": [
+    "https://www.newsonair.gov.in/dot-mandates-sim-binding-for-messaging-apps-to-curb-digital-fraud",
+    "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/",
+    "https://www.outlookbusiness.com/economy-and-policy/dot-extends-sim-binding-deadline-for-messaging-apps-to-dec-31"
+   ]
+  }
+ ]
+}

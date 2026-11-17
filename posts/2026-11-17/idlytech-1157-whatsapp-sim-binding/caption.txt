@@ -1,0 +1,13 @@
+From 1 January 2027, WhatsApp, Telegram and other chat apps in India must work only while the SIM you signed up with is inside the phone and active. The Telecom Department has given the apps until 31 December 2026 to comply, Inc42, Digit and MediaNama report.
+
+That could cut off WhatsApp on a tablet or spare phone that runs on Wi-Fi with no SIM, and on a phone whose registered SIM has been removed, swapped or left without a recharge. The rule also covers Telegram, Signal, Arattai, ShareChat, Josh and JioChat.
+
+The department says some accounts kept working after their SIM was removed, deactivated or taken abroad, which let scammers misuse Indian numbers. An earlier plan to log WhatsApp Web users out every six hours has been dropped; web and desktop logouts will follow fraud-risk checks instead, Digit and Inc42 report.
+
+Do you use WhatsApp on more than one device?
+
+Sources: Inc42, Digit, MediaNama, Outlook Business, All India Radio
+
+#WhatsApp #SIMBinding #Telegram #CyberFraud #idlytech
+
+Photo: Paowee / Wikimedia Commons, CC BY-SA 4.0

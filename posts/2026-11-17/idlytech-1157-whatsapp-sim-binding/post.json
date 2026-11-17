@@ -1,0 +1,45 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1157-whatsapp-sim-binding",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Inc42",
+  "Digit",
+  "MediaNama"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "WhatsApp Must Be Tied to Your Phone's SIM From 1 January 2027",
+   "photo": "_work/2026-11-17-hourly-1157/idlytech/frame_sim/cover_source.png",
+   "photo_credit": "Photo: Paowee / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.39,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "1 Jan 2027",
+   "stat_label": "What Could Stop Working on WhatsApp",
+   "bullets": [
+    "WhatsApp on a tablet or spare phone with no SIM, on Wi-Fi",
+    "A phone whose registered SIM is removed, swapped or not recharged",
+    "Same rule for Telegram, Signal, Arattai, ShareChat, Josh, JioChat"
+   ],
+   "credit_line": "Sources: Inc42, Digit, MediaNama"
+  },
+  {
+   "type": "detail",
+   "stat": "31 Dec",
+   "stat_label": "Deadline for WhatsApp and Other Apps to Tie Accounts to Your SIM",
+   "bullets": [
+    "Telecom Department says it targets scams run from abroad on Indian numbers",
+    "The November 2025 order first gave apps 90 days; that was extended",
+    "WhatsApp Web: no fixed 6-hour logout; fraud-risk checks decide instead"
+   ],
+   "credit_line": "Sources: Inc42, Digit, Outlook Business, All India Radio"
+  }
+ ]
+}
