@@ -72,5 +72,14 @@
       }
     ]
   },
-  "created_at": "2026-11-17T12:15:00+05:30"
+  "created_at": "2026-11-17T12:15:00+05:30",
+  "caption_final": "Ramayana: Rise of a Legend is now one of the five highest-grossing Indian films ever. Trade tracker Sacnilk estimates Part 1 has made ₹1,437.25 crore gross worldwide in 12 days, to Monday 16 November. Its overseas figures are still preliminary.\n\nOnly four Indian films have earned more, by Sacnilk's count: Dangal (₹2,070.30 crore), Dhurandhar 2: The Revenge (₹1,813.39 crore), Baahubali 2: The Conclusion (₹1,788.06 crore) and Pushpa 2: The Rule (₹1,742.10 crore). Ramayana has passed the first Dhurandhar, RRR and KGF Chapter 2, and is about ₹305 crore short of Pushpa 2.\n\nKoimoi's count also puts Nitesh Tiwari's film fifth, at ₹1,410.66 crore after 11 days. The makers have not confirmed these figures.\n\nHow many times have you watched Ramayana in a cinema so far?\n\nSources: Sacnilk, Koimoi\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd\n\nImage: World Of Ramayana (official video)",
+  "image_credit": "Image: World Of Ramayana (official video)",
+  "lane": {
+    "spec_sha256": "eeecaa9fe7e2c38c53333a6d9a6d78c9881f47925eeb6493d0debbb262ee52a2",
+    "rendered_at": "2026-11-17T06:45:00+00:00",
+    "resolver": "youtube_official",
+    "source_url": "https://www.youtube.com/watch?v=kFZUyEBz6SA",
+    "image_url": "https://i.ytimg.com/vi/kFZUyEBz6SA/maxresdefault.jpg"
+  }
 }
