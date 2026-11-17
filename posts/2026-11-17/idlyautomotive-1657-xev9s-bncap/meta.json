@@ -1,0 +1,98 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "tags": [
+  "mahindraelectricsuvs"
+ ],
+ "tag_evidence": "Mahindra's own press release on mahindra.com (https://www.mahindra.com/news-room/press-release/en/mahindra-xev-9s-becomes-indias-safest-7-seater-suv-first-7-seater-ev-to-achieve-a-5-star-bharat-ncap-rating) lists 'Instagram: @mahindraelectricsuvs' under 'Social Media Addresses for Mahindra Electric Origin SUVs'; Mahindra's XEV 9S page and homepage on mahindraelectricsuv.com (the image's own page) link to https://www.instagram.com/mahindraelectricsuvs.",
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "Mahindra XEV 9S: 5 Bharat NCAP Stars, Highest Seven-Seater Score Yet",
+ "image": {
+  "url": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/dw71d93ad7/XEV-9s/mobile_latest/DIGITAL_Ride_Quality_2314X4500.jpg",
+  "page": "https://www.mahindraelectricsuv.com/xev-9s.html",
+  "licence": "Official Mahindra product/press image from the maker's own XEV 9S site, credited 'Image: Mahindra'",
+  "author": "Mahindra & Mahindra (Mahindra Electric Origin SUVs)",
+  "size": "2314x4500",
+  "subject": "Mahindra XEV 9S, white, front three-quarter, 'XEV 9S' front plate visible",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "photo": "posts/2026-11-17/idlyautomotive-1657-xev9s-bncap/src/cover_source.png",
+   "focal": [
+    0.48,
+    0.43
+   ],
+   "zoom": 1.4,
+   "upscale": 0.65
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "XEV 9S 5-star Bharat NCAP; AOP 31.15/32; COP 45/49; announced 17 Nov 2026",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-xev-9s-becomes-indias-safest-7-seater-suv-first-7-seater-ev-to-achieve-a-5-star-bharat-ncap-rating",
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349",
+    "https://www.motorbeam.com/mahindra-xev-9s-bncap-crash-test-rating/",
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html"
+   ]
+  },
+  {
+   "fact": "76.15 total, highest of any seven-seater tested (ICE or EV); India's first seven-seat EV with 5 stars",
+   "urls": [
+    "https://www.mahindra.com/news-room/press-release/en/mahindra-xev-9s-becomes-indias-safest-7-seater-suv-first-7-seater-ev-to-achieve-a-5-star-bharat-ncap-rating",
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html"
+   ]
+  },
+  {
+   "fact": "XUV 7XO 75.73 (30.76 + 44.97)",
+   "urls": [
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html",
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349"
+   ]
+  },
+  {
+   "fact": "Innova Hycross 75.47 (30.47 + 45, seven-seater tested)",
+   "urls": [
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html",
+    "https://www.mobilityoutlook.com/news/toyota-innova-hycross-secures-5-star-bharat-ncap-crash-safety-ratingl/"
+   ]
+  },
+  {
+   "fact": "Tata Safari 74.62 (30.08 + 44.54)",
+   "urls": [
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html",
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349"
+   ]
+  },
+  {
+   "fact": "Child dynamic 24/24; frontal: co-driver chest adequate, rest good; side MDB and pole all good; rating applies to all variants",
+   "urls": [
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349",
+    "https://www.motorbeam.com/mahindra-xev-9s-bncap-crash-test-rating/"
+   ]
+  },
+  {
+   "fact": "Six airbags standard; seven on Pack Three and Pack Three Above",
+   "urls": [
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349",
+    "https://www.motorbeam.com/mahindra-xev-9s-bncap-crash-test-rating/",
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html"
+   ]
+  },
+  {
+   "fact": "From Rs 21.40 lakh, Pack One Above 59 kWh (Mahindra's website)",
+   "urls": [
+    "https://www.mahindraelectricsuv.com/xev-9s.html",
+    "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349"
+   ]
+  },
+  {
+   "fact": "Batteries 59, 70, 79 kWh",
+   "urls": [
+    "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-rating-highest-scoring-7-seater-12561353.html",
+    "https://www.mahindraelectricsuv.com/xev-9s.html"
+   ]
+  }
+ ]
+}

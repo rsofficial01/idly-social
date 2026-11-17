@@ -1,0 +1,57 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1657-xev9s-bncap",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Mahindra",
+  "Autocar India",
+  "Rushlane",
+  "MotorBeam"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Mahindra XEV 9S: 5 Bharat NCAP Stars, Highest Seven-Seater Score Yet",
+   "photo": "posts/2026-11-17/idlyautomotive-1657-xev9s-bncap/src/cover_source.png",
+   "photo_credit": "Image: Mahindra",
+   "focal": [
+    0.48,
+    0.43
+   ],
+   "zoom": 1.4
+  },
+  {
+   "type": "detail",
+   "stat": "31.15/32",
+   "stat_label": "XEV 9S Adult Occupant Score, Bharat NCAP",
+   "bullets": [
+    "Child occupant protection: 45 of 49 points",
+    "Child crash tests: full 24 of 24 points",
+    "Frontal test: passenger chest only 'adequate'"
+   ],
+   "credit_line": "Sources: Mahindra, Autocar India, MotorBeam"
+  },
+  {
+   "type": "detail",
+   "stat": "76.15/81",
+   "stat_label": "XEV 9S Total Beats Every Seven-Seater Tested",
+   "bullets": [
+    "Mahindra XUV 7XO: 75.73 points",
+    "Toyota Innova Hycross: 75.47 points",
+    "Tata Safari: 74.62 points"
+   ],
+   "credit_line": "Sources: Mahindra, Rushlane, Autocar India"
+  },
+  {
+   "type": "detail",
+   "stat": "₹21.40 Lakh",
+   "stat_label": "XEV 9S Starting Price on Mahindra's Website",
+   "bullets": [
+    "Base Pack One Above, with the 59 kWh battery",
+    "Six airbags standard; seven on Pack Three trims",
+    "The five-star rating covers every XEV 9S variant"
+   ],
+   "credit_line": "Sources: Mahindra, Autocar India, MotorBeam"
+  }
+ ]
+}
