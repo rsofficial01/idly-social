@@ -1,0 +1,97 @@
+{
+ "account": "idlytech",
+ "story_id": 2763,
+ "idly_article": false,
+ "format": "news carousel",
+ "headline": "Indian Researchers Can Get ChatGPT Plus Free for 12 Months",
+ "tags": [],
+ "tag_evidence": "No tag: the image owner is an individual Unsplash photographer (Gavin Phillips), not a brand; OpenAI does not own the image.",
+ "image": {
+  "url": "https://images.unsplash.com/photo-1760900199593-381d2716a970?fm=jpg&q=85&w=3000&ixlib=rb-4.1.0",
+  "page": "https://unsplash.com/photos/chatgpt-logo-displayed-on-a-smartphone-screen-qaNHb5rYQKQ",
+  "licence": "Unsplash License (free, not Unsplash+)",
+  "author": "Gavin Phillips",
+  "size": "3000x2752",
+  "subject": "A smartphone on a cork surface showing the ChatGPT app's logo screen (white OpenAI knot on black); phone edge and cork visible; no text, no people",
+  "framing": {
+   "ok": true,
+   "photo": "_work/2026-11-17-hourly-2057/desks/idlytech/frame_chatgptlogo/cover_source.png",
+   "focal_planned": [
+    0.5,
+    0.5
+   ],
+   "zoom_planned": 1.0,
+   "upscale": 0.49,
+   "faces": 0,
+   "cover_used": {
+    "focal": [
+     0.5,
+     0.56
+    ],
+    "zoom": 1.1,
+    "photo_scale": 0.54,
+    "why": "lifts the logo clear of the headline block"
+   }
+  },
+  "faces": 0,
+  "viewed": true,
+  "replaced": "G2+3 FIX: the Zulfugar Karimov shot (third-party 'BEST PREMIUM FREEBIES' thumbnail, soft, 1.17x enlarged) was dropped"
+ },
+ "fact_sources": [
+  {
+   "fact": "OpenAI extended ChatGPT for Academic Researchers to India; each grant = 3 ChatGPT Plus seats (recipient + up to 2 collaborators), free for 12 months",
+   "urls": [
+    "https://www.fonearena.com/blog/497124/openai-chatgpt-academic-researchers-india.html",
+    "https://news.careers360.com/open-ai-expands-chatgpt-plus-free-12-month-access-academic-researchers-india-eligibility-application-grants-iit-madras-scientific-research",
+    "https://www.analyticsinsight.net/news/openai-offers-free-chatgpt-plus-for-12-months-to-indian-researchers",
+    "https://businessupturn.com/technology/openai-expands-free-chatgpt-plus-access-to-academic-researchers-in-india/"
+   ]
+  },
+  {
+   "fact": "Eligibility: research faculty and postdocs in science, mathematics, engineering at eligible institutions; paper on arXiv, bioRxiv or ChemRxiv within the last 3 years; describe research and planned use",
+   "urls": [
+    "https://www.fonearena.com/blog/497124/openai-chatgpt-academic-researchers-india.html",
+    "https://news.careers360.com/open-ai-expands-chatgpt-plus-free-12-month-access-academic-researchers-india-eligibility-application-grants-iit-madras-scientific-research"
+   ]
+  },
+  {
+   "fact": "50,000 new grants worldwide, first come, first served",
+   "urls": [
+    "https://www.fonearena.com/blog/497124/openai-chatgpt-academic-researchers-india.html",
+    "https://www.analyticsinsight.net/news/openai-offers-free-chatgpt-plus-for-12-months-to-indian-researchers",
+    "https://www.datastudios.org/post/chatgpt-for-academic-researchers-50000-plus-grants-november-23",
+    "https://www.unite.ai/openai-to-award-50-000-chatgpt-plus-grants-to-researchers/"
+   ]
+  },
+  {
+   "fact": "OpenAI's global notice of 16 Nov 2026 says the new round opens 23 Nov (OpenAI page itself returns 403 to our fetchers; the date is from its search listing and outlets quoting it)",
+   "urls": [
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+    "https://www.datastudios.org/post/chatgpt-for-academic-researchers-50000-plus-grants-november-23",
+    "https://businessupturn.com/technology/openai-expands-free-chatgpt-plus-access-to-academic-researchers-in-india/"
+   ]
+  },
+  {
+   "fact": "Reports in India citing the company give 30 Nov as the opening date",
+   "urls": [
+    "https://www.fonearena.com/blog/497124/openai-chatgpt-academic-researchers-india.html",
+    "https://news.careers360.com/open-ai-expands-chatgpt-plus-free-12-month-access-academic-researchers-india-eligibility-application-grants-iit-madras-scientific-research",
+    "https://www.analyticsinsight.net/news/openai-offers-free-chatgpt-plus-for-12-months-to-indian-researchers"
+   ]
+  },
+  {
+   "fact": "Applications are currently closed (waitlist) until the round opens",
+   "urls": [
+    "https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers",
+    "https://businessupturn.com/technology/openai-expands-free-chatgpt-plus-access-to-academic-researchers-in-india/"
+   ]
+  },
+  {
+   "fact": "ChatGPT Plus widely reported at Rs 1,999 a month in India (caption only, 'widely reported', 'about Rs 72,000' for 3 seats x 12 months)",
+   "urls": [
+    "https://www.storyboard18.com/digital/chatgpt-begins-testing-local-pricing-in-india-plans-start-at-rs-1999-per-month-78928.htm",
+    "https://www.equityresearchindia.com/post/chatgpt-plus-and-pro-pricing-in-india-2026-complete-guide-in-rupees"
+   ]
+  }
+ ]
+}

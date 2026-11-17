@@ -1,0 +1,46 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2057-chatgpt-plus-researchers",
+ "date": "17 Nov 2026",
+ "sources": [
+  "FoneArena",
+  "Careers360",
+  "Business Upturn",
+  "Analytics Insight"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Indian Researchers Can Get ChatGPT Plus Free for 12 Months",
+   "photo": "_work/2026-11-17-hourly-2057/desks/idlytech/frame_chatgptlogo/cover_source.png",
+   "photo_credit": "Photo: Gavin Phillips / Unsplash",
+   "focal": [
+    0.5,
+    0.56
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "12 MONTHS",
+   "stat_label": "Free ChatGPT Plus Per Grant: Who Can Apply",
+   "bullets": [
+    "Research faculty or postdocs in science, maths, engineering",
+    "Preprint on arXiv, bioRxiv or ChemRxiv within 3 years",
+    "Each grant: 3 seats, you plus two collaborators"
+   ],
+   "credit_line": "Sources: FoneArena, Careers360, Analytics Insight"
+  },
+  {
+   "type": "detail",
+   "stat": "23 OR 30 NOV",
+   "stat_label": "When ChatGPT Plus Grant Applications Open",
+   "bullets": [
+    "OpenAI's 16 Nov global notice: round opens 23 Nov",
+    "FoneArena, Careers360 report India opens 30 Nov",
+    "50,000 grants worldwide, first come, first served"
+   ],
+   "credit_line": "Sources: OpenAI, Business Upturn, FoneArena, Careers360"
+  }
+ ]
+}

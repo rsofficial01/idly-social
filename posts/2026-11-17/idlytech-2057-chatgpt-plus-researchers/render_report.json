@@ -1,0 +1,58 @@
+[
+ {
+  "size": 96,
+  "lines": 3,
+  "overflow": false,
+  "top": 962,
+  "credit_line": "Photo: Gavin Phillips / Unsplash",
+  "slug": "idlytech-2057-chatgpt-plus-researchers",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-2057-chatgpt-plus-researchers/01.jpg",
+  "scale": 0.539
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FoneArena, Careers360, Analytics Insight",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-chatgpt-plus-researchers",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-2057-chatgpt-plus-researchers/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 132,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: OpenAI, Business Upturn, FoneArena, Careers360",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-chatgpt-plus-researchers",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlytech-2057-chatgpt-plus-researchers/03.jpg",
+  "scale": null
+ }
+]
