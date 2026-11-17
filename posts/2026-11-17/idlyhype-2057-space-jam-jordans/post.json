@@ -1,0 +1,55 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2057-space-jam-jordans",
+ "date": "17 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Nike"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Space Jam Jordans: ₹4,995 to ₹12,495",
+   "photo": "_work/2026-11-17-hourly-2057/desks/idlyhype/frame_spacejam/cover_source.png",
+   "photo_credit": "Image: Jordan Brand",
+   "focal": [
+    0.505,
+    1.0
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "₹11,495",
+   "stat_label": "Air Jordan 1 Low SE 'Magic Ball' MRP",
+   "bullets": [
+    "The pair on the cover",
+    "Nike says it marks 30 years of Space Jam",
+    "Black, Metallic Silver and Action Green"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike"
+  },
+  {
+   "type": "detail",
+   "stat": "₹12,495",
+   "stat_label": "Air Jordan 1 Mid SE 'Space Jam' MRP",
+   "bullets": [
+    "A mid-top, ₹1,000 more than the Magic Ball",
+    "Black, Yellow Zest and Action Green",
+    "Style code IX6374-001"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg"
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,995",
+   "stat_label": "Jordan Hydro XI 'Space Jam' Slides MRP",
+   "bullets": [
+    "Slides: the cheapest Space Jam pair here",
+    "Black, Varsity Royal, White and Blue Tint"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike"
+  }
+ ]
+}

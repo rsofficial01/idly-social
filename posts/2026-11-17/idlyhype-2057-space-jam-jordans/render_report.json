@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Jordan Brand",
+  "slug": "idlyhype-2057-space-jam-jordans",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-2057-space-jam-jordans/01.jpg",
+  "scale": 0.687
+ },
+ {
+  "stat": 288,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Nike",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-2057-space-jam-jordans",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-2057-space-jam-jordans/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 276,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-2057-space-jam-jordans",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-2057-space-jam-jordans/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 304,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Nike",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-2057-space-jam-jordans",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-17/idlyhype-2057-space-jam-jordans/04.jpg",
+  "scale": null
+ }
+]

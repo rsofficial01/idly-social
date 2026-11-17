@@ -1,0 +1,79 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "list",
+ "headline": "Space Jam Jordans: ₹4,995 to ₹12,495",
+ "tags": [],
+ "tag_evidence": "No tag: Jordan Brand's Instagram handle (@jumpman23) is only confirmed by Sneaker News, not on Nike/Jordan's own website, so not tagged.",
+ "image": {
+  "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4de02b57-6e85-4eec-9fc7-a3a04792b452/AIR+JORDAN+1+LOW+SE+V4.png",
+  "page": "https://www.nike.com/sg/t/air-jordan-1-low-se-magic-ball-mens-shoes-wEVrVWxT/IX6375-001",
+  "licence": "Brand's own product image (Nike/Jordan Brand product page), credited",
+  "author": "Jordan Brand (Nike)",
+  "size": "1728x2160",
+  "subject": "Air Jordan 1 Low SE 'Magic Ball' (IX6375-001), men's pair, single shoe side view on grey; no people, no characters",
+  "framing": {
+   "photo": "_work/2026-11-17-hourly-2057/desks/idlyhype/frame_spacejam/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.62,
+   "ok": true,
+   "cover_focal": [
+    0.505,
+    1.0
+   ],
+   "cover_zoom": 1.1,
+   "note": "zoom 1.10 / focal y 1.0 lifts the shoe as far as its width allows (shoe spans 87% of source width)"
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Air Jordan 1 Low SE 'Magic Ball' (IX6375-001, Black/Metallic Silver-Action Green) MRP ₹11,495",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-magic-ball-black-metallic-silver-action-green",
+    "https://www.vegnonveg.com/products/jordan-air-jordan-1-low-se-blackmetallic-silver-action-green"
+   ]
+  },
+  {
+   "fact": "Magic Ball details celebrate 30 years of Space Jam; it is part of Jordan Brand's Space Jam 30 collection",
+   "urls": [
+    "https://www.nike.com/sg/t/air-jordan-1-low-se-magic-ball-mens-shoes-wEVrVWxT/IX6375-001",
+    "https://about.nike.com/newsroom/releases/jordan-brand-celebrates-30-years-of-space-jam-inspiring-a-new-generation-to-reach-for-greatness"
+   ]
+  },
+  {
+   "fact": "Air Jordan 1 Mid SE 'Space Jam' (IX6374-001, Black/Yellow Zest-Action Green) MRP ₹12,495",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-space-jam-black-yellow-zest-action-green",
+    "https://www.vegnonveg.com/products/jordan-air-jordan-1-mid-se-space-jam-blackyellow-zest-action-green"
+   ]
+  },
+  {
+   "fact": "Jordan Hydro XI 'Space Jam' slides (FN2452-001, Black/Varsity Royal-White-Blue Tint) MRP ₹4,995",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-hydro-xi-space-jam-black-varsity-royal-white-blue-tint",
+    "https://www.vegnonveg.com/products/jordan-hydro-xi-retro-blackvarsity-royal-white-blue-tint",
+    "https://www.nike.com/sg/t/jordan-hydro-xi-space-jam-mens-slides-PHx6d3/FN2452-001"
+   ]
+  },
+  {
+   "fact": "Space Jam turns 30 (1996 film); Jordan Brand's 30th-anniversary collection on sale from 5 November at jordan.com and select retailers",
+   "urls": [
+    "https://about.nike.com/newsroom/releases/jordan-brand-celebrates-30-years-of-space-jam-inspiring-a-new-generation-to-reach-for-greatness",
+    "https://manofmany.com/style/sneakers/jordan-brand-space-jam-30th-anniversary-collection"
+   ]
+  },
+  {
+   "fact": "Lead tie-in: Hypebeast 17 Nov 'Jordan Brand and Warner Bros. Premiere Space Jam: Beyond The Jam Documentary Series' (context only, not on card/caption)",
+   "urls": [
+    "https://news.google.com/rss/search?q=site:hypebeast.com+when:1d"
+   ]
+  }
+ ]
+}
