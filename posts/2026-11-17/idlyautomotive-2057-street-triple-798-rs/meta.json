@@ -1,0 +1,65 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel (cover + 2 detail slides)",
+ "headline": "Triumph Street Triple 798 RS Costs ₹14.39 Lakh in India",
+ "tags": [],
+ "tag_evidence": "No tag. Triumph India's site (triumphmotorcycles.in) links Facebook, X, YouTube and WhatsApp but no Instagram account. Triumph's UK site links instagram.com/triumphuk, which is the UK market account, not an Indian one, so I left it out.",
+ "image": {
+  "url": "https://media.triumphmotorcycles.co.uk/image/upload/t_/c_limit,w_3840/f_auto/q_auto:eco/v1/Street_Triple_798_RS_MY27_20816_JP_xkmpgh.jpg?_a=BAVMn6ID0",
+  "page": "https://www.triumphmotorcycles.in/motorcycles/roadsters/street-triple/street-triple-798-rs",
+  "licence": "Official Triumph Motorcycles product/press image from the maker's own Street Triple 798 RS page (Triumph media CDN), credited 'Image: Triumph Motorcycles'",
+  "author": "Triumph Motorcycles",
+  "size": "3840x2880",
+  "subject": "Triumph Street Triple 798 RS (MY27), black with yellow '798' tank graphic, side profile, parked on a racetrack at sunset, no rider",
+  "framing": {
+   "photo": "posts/2026-11-17/idlyautomotive-2057-street-triple-798-rs/src/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.47
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Street Triple 798 RS India price ₹14.39 lakh (ex-showroom per Autocar India; Triumph India lists 'From ₹14,39,000')",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/2027-triumph-street-triple-798-rs-priced-at-rs-1439-lakh-441354",
+    "https://www.triumphmotorcycles.in/motorcycles/roadsters/street-triple/street-triple-798-rs"
+   ]
+  },
+  {
+   "fact": "Street Triple 765 RS listed at ₹13.19 lakh; 798 RS costs ₹1.2 lakh more",
+   "urls": [
+    "https://www.triumphmotorcycles.in/motorcycles/roadsters/street-triple/street-triple-765-rs",
+    "https://www.autocarindia.com/bike-news/2027-triumph-street-triple-798-rs-priced-at-rs-1439-lakh-441354"
+   ]
+  },
+  {
+   "fact": "No India delivery date announced (Triumph India page gives no date; Autocar India says it could be some time before it arrives in India)",
+   "urls": [
+    "https://www.triumphmotorcycles.in/motorcycles/roadsters/street-triple/street-triple-798-rs",
+    "https://www.autocarindia.com/bike-news/2027-triumph-street-triple-798-rs-priced-at-rs-1439-lakh-441354"
+   ]
+  },
+  {
+   "fact": "New 798cc three-cylinder replaces the 765cc engine; 135 PS at 11,500 rpm; 86 Nm at 9,250 rpm; 183 kg wet",
+   "urls": [
+    "https://www.triumphmotorcycles.co.uk/motorcycles/roadsters/street-triple/street-triple-798-rs",
+    "https://www.autocarindia.com/bike-news/2027-triumph-street-triple-798-rs-priced-at-rs-1439-lakh-441354"
+   ]
+  },
+  {
+   "fact": "7-inch touchscreen with wireless Apple CarPlay and Android Auto (Triumph UK page: 'wireless Apple CarPlay® for your iPhone and Android Auto™ ... connect wirelessly')",
+   "urls": [
+    "https://www.triumphmotorcycles.co.uk/motorcycles/roadsters/street-triple/street-triple-798-rs",
+    "https://www.autocarindia.com/bike-news/2027-triumph-street-triple-798-rs-priced-at-rs-1439-lakh-441354"
+   ]
+  }
+ ]
+}
