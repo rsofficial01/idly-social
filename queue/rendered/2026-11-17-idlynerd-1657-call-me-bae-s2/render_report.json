@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-17-idlynerd-1657-call-me-bae-s2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-17T11:47:57+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=MyWStf-2ejM",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=MyWStf-2ejM",
+    "source_url": "https://www.youtube.com/watch?v=MyWStf-2ejM",
+    "image_url": "https://i.ytimg.com/vi/MyWStf-2ejM/maxresdefault.jpg",
+    "credit": "Image: Prime Video India (official video)",
+    "organisation": "Prime Video India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=MyWStf-2ejM: author 'Prime Video India' https://www.youtube.com/@PrimeVideoIN, title 'Call Me Bae Season 2 - Official Announcement | Ananya Panday #primevideoindia #ytshorts #trending'",
+      "thumbnail https://i.ytimg.com/vi/MyWStf-2ejM/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PrimeVideoIN",
+    "video_title": "Call Me Bae Season 2 - Official Announcement | Ananya Panday #primevideoindia #ytshorts #trending"
+  },
+  "faces": [
+    [
+      606.9,
+      166.3,
+      35.0,
+      42.1,
+      0.91
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.4879,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      336.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        500,
+        302,
+        582,
+        400
+      ]
+    ],
+    "logo_saliency": 0.84,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        606.9,
+        166.3,
+        35.0,
+        42.1,
+        0.91
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 5 known items, 4 needing care (kamal-haasan-six-months: single_source, minister-sarathkumar-video-inquiry-2026: alleged, mnm-2018: single_source, kamal-haasan: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Prime Video India (official video)",
+      "Sources: Deadline, Bollywood Hungama, THR India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 100,
+      "lines": 3,
+      "overflow": false,
+      "top": 950,
+      "credit_line": "Image: Prime Video India (official video)",
+      "slug": "2026-11-17-idlynerd-1657-call-me-bae-s2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 284,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Deadline, Bollywood Hungama, THR India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-17-idlynerd-1657-call-me-bae-s2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg"
+  ],
+  "caption_final": "Call Me Bae season 2 premieres on Prime Video on 17 December, Prime Video has announced.\n\nAnanya Panday returns as Bella “Bae” Chowdhary in the eight-episode Hindi series. Shruti Kamal Haasan joins the cast, and Vir Das, Gurfateh Pirzada, Varun Sood, Vihaan Samat, Muskkaan Jaferi, Niharika Lyra Dutt, Lisa Mishra and Mini Mathur are back.\n\nIshita Moitra created the show and Collin D’Cunha directs it for Dharmatic Entertainment, with Karan Johar, Adar Poonawalla and Apoorva Mehta producing.\n\nWhich series are you bingeing right now?\n\nFull story on idly.news (link in bio).\n\n#CallMeBae #AnanyaPanday #PrimeVideo #PrimeVideoIndia #idlynerd\n\nImage: Prime Video India (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
