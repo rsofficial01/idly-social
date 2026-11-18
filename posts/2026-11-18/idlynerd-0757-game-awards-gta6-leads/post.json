@@ -1,0 +1,59 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0757-game-awards-gta6-leads",
+ "date": "18 Nov 2026",
+ "sources": [
+  "GameSpot",
+  "Video Games Chronicle",
+  "GAMES.GG",
+  "GamesBeat",
+  "Dexerto",
+  "Rockstar Games"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Unreleased GTA VI Leads The Game Awards With 8 Nominations",
+   "photo": "_work/2026-11-18-hourly-0757/desks/idlynerd/frame_3/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.47,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "8",
+   "stat_label": "GTA VI's Game Awards Nominations, the Most",
+   "bullets": [
+    "Game of the Year, Game Direction, Narrative, Art Direction",
+    "Score and Music, Audio Design, Action/Adventure",
+    "Plus Best Performance, for the actor playing Lucia"
+   ],
+   "credit_line": "Sources: GameSpot, Video Games Chronicle, GAMES.GG"
+  },
+  {
+   "type": "detail",
+   "stat": "6",
+   "stat_label": "The Game Awards' Game of the Year Shortlist",
+   "bullets": [
+    "GTA VI, Control Resonant, 007 First Light",
+    "Resident Evil Requiem, Phantom Blade Zero",
+    "The Legend of Zelda: Ocarina of Time remake"
+   ],
+   "credit_line": "Sources: GamesBeat, Dexerto, Video Games Chronicle"
+  },
+  {
+   "type": "detail",
+   "stat": "10 DEC",
+   "stat_label": "Fan Voting for The Game Awards 2026 Closes",
+   "bullets": [
+    "Vote by 7:30 AM IST on thegameawards.com",
+    "The show streams free at 6 AM IST, Fri 11 Dec",
+    "GTA VI unlocks in India at 12 AM IST, 19 Nov"
+   ],
+   "credit_line": "Sources: Video Games Chronicle, GAMES.GG, Rockstar Games"
+  }
+ ]
+}

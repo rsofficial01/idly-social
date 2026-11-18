@@ -1,0 +1,96 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel",
+ "headline": "Unreleased GTA VI Leads The Game Awards With 8 Nominations",
+ "image": {
+  "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
+  "page": "https://www.rockstargames.com/VI/media/screenshots",
+  "licence": "Official publisher media screenshot (Rockstar Games), credited",
+  "author": "Rockstar Games",
+  "size": "3840x2160",
+  "subject": "In-game GTA VI screenshot 'Vice_City_15': Vice City skyline over a sunny marina with yachts and a jetty, a plane overhead; no watermark, no overlay lettering; a few tiny faceless NPC figures on the jetty sit under the headline block at card size",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "tool": "python3 -m pipeline.framing",
+   "ok": true,
+   "photo": "_work/2026-11-18-hourly-0757/desks/idlynerd/frame_3/cover_source.png",
+   "focal_suggested": [
+    0.5,
+    0.5
+   ],
+   "focal_used": [
+    0.47,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.62,
+   "why_focal": "keeps the tallest tower centred and the logo in clear sky"
+  },
+  "not_used_before": "Earlier idly GTA covers: Vice_City_01/10/22/27, Leonida_Keys_01, launch-gallery night skyline"
+ },
+ "fact_sources": [
+  {
+   "fact": "GTA VI has 8 nominations at The Game Awards 2026, the most; the 8 include Best Performance (Manni L. Perez as Lucia)",
+   "urls": [
+    "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/",
+    "https://games.gg/news/gta-6-the-game-awards-2026-nominations/",
+    "https://www.gamespot.com/articles/the-game-awards-2026-winners-nominees/"
+   ]
+  },
+  {
+   "fact": "GTA VI's 8 categories: Game of the Year, Game Direction, Narrative, Art Direction, Score and Music, Audio Design, Action/Adventure, Performance",
+   "urls": [
+    "https://games.gg/news/gta-6-the-game-awards-2026-nominations/",
+    "https://www.dexerto.com/gaming/the-game-awards-2026-3428374/",
+    "https://screenrant.com/the-game-awards-2026-all-awards-nominees-votes/"
+   ]
+  },
+  {
+   "fact": "Six Game of the Year nominees: 007 First Light, Control Resonant, GTA VI, Phantom Blade Zero, Resident Evil Requiem, The Legend of Zelda: Ocarina of Time (Nintendo's Switch 2 remake)",
+   "urls": [
+    "https://gamesbeat.com/the-game-awards-lists-all-of-its-2026-nominees-yes-gta-vi-made-the-cut/",
+    "https://www.dexerto.com/gaming/the-game-awards-2026-3428374/",
+    "https://x.com/thegameawards/status/2122739039316971629",
+    "https://nintendoeverything.com/the-game-awards-2026-nominees-announced-full-list-zelda-ocarina-of-time-nominated-for-game-of-the-year-and-more/"
+   ]
+  },
+  {
+   "fact": "Nominees revealed Tue 17 Nov around noon ET (10:30 PM IST)",
+   "urls": [
+    "https://screenrant.com/the-game-awards-2026-all-awards-nominees-votes/",
+    "https://www.keengamer.com/articles/news/the-game-awards-2026-all-game-of-the-year-nominees-revealed/"
+   ]
+  },
+  {
+   "fact": "Fan voting on thegameawards.com open until 9 Dec, 6 PM PT = 7:30 AM IST Thu 10 Dec",
+   "urls": [
+    "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/",
+    "https://games.gg/news/gta-6-the-game-awards-2026-nominations/"
+   ]
+  },
+  {
+   "fact": "Show Thu 10 Dec, 4:30 PM PT (7:30 PM ET) = 6 AM IST Fri 11 Dec, Peacock Theater, Los Angeles, free stream",
+   "urls": [
+    "https://games.gg/news/gta-6-the-game-awards-2026-nominations/",
+    "https://screenrant.com/the-game-awards-2026-all-awards-nominees-votes/",
+    "https://www.keengamer.com/articles/news/the-game-awards-2026-all-game-of-the-year-nominees-revealed/",
+    "https://finalweapon.net/2026/11/14/the-game-awards-2026-nominees-to-be-revealed-on-november-17/"
+   ]
+  },
+  {
+   "fact": "GTA VI unlocks at midnight local time on 19 Nov (12 AM IST in India) on PS5 and Xbox Series X|S",
+   "urls": [
+    "https://tech.yahoo.com/gaming/articles/gta-6-release-time-revealed-164658612.html",
+    "https://www.playstation.com/en-in/games/grand-theft-auto-vi/",
+    "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"
+   ]
+  }
+ ],
+ "tags_proposed": [
+  "rockstargames"
+ ],
+ "tag_evidence": "Rockstar Games' own GTA VI site (https://www.rockstargames.com/VI/media/screenshots, the cover's source page) links to instagram.com/rockstargames (2 links in the page HTML). Owner of the cover image; a company, not a person."
+}

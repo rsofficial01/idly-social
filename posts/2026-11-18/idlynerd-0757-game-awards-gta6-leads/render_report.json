@@ -1,0 +1,80 @@
+[
+ {
+  "size": 86,
+  "lines": 3,
+  "overflow": false,
+  "top": 992,
+  "credit_line": "Image: Rockstar Games",
+  "slug": "idlynerd-0757-game-awards-gta6-leads",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "_work/2026-11-18-hourly-0757/desks/idlynerd/render/idlynerd-0757-game-awards-gta6-leads/01.jpg",
+  "scale": 0.625
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: GameSpot, Video Games Chronicle, GAMES.GG",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-game-awards-gta6-leads",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "_work/2026-11-18-hourly-0757/desks/idlynerd/render/idlynerd-0757-game-awards-gta6-leads/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: GamesBeat, Dexerto, Video Games Chronicle",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-game-awards-gta6-leads",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "_work/2026-11-18-hourly-0757/desks/idlynerd/render/idlynerd-0757-game-awards-gta6-leads/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 272,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Video Games Chronicle, GAMES.GG, Rockstar Games",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-game-awards-gta6-leads",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "_work/2026-11-18-hourly-0757/desks/idlynerd/render/idlynerd-0757-game-awards-gta6-leads/04.jpg",
+  "scale": null
+ }
+]
