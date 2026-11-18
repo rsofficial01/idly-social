@@ -1,0 +1,36 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "headline": "Honda City Gets Up to ₹1.86 Lakh Off Till 30 November",
+ "title": "Honda Cars India November 2026 offers: New City up to Rs 1,85,900, New Amaze up to Rs 66,800, Amaze 2nd Gen up to Rs 57,600; all offers valid till 30 Nov 2026; variant, grade and location specific; extra offers for selected corporates. Elevate and ZR-V not on the offer list. Updated City launched 22 May 2026 from Rs 11.99 lakh.",
+ "image": {
+  "url": "https://www.hondacarindia.com/web-data/home/banner/honda_city_mob_model2.jpg",
+  "page": "https://www.hondacarindia.com/honda-city",
+  "licence": "Official Honda Cars India product image (mobile hero banner on Honda's own City page), credited 'Image: Honda Cars India'",
+  "author": "Honda Cars India",
+  "size": "1562x2117",
+  "subject": "Black Honda New City e:HEV (hybrid), front three-quarter, driving on a city street; studio composite from Honda's ad banner",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "photo": "posts/2026-11-18/idlyautomotive-1157-honda-city-offer/src/cover_source.png",
+   "focal": [0.5, 0.5],
+   "zoom": 1.0,
+   "upscale": 1.54,
+   "note": "framed from a 702x878 crop (x 860-1562, y 736-1614) of the 1562x2117 original, so only the black City e:HEV is in frame: Honda's 'The New CITY / All New Vibe' slogan ribbon, the second (red) City and its visible driver are out (pixel scan: no ribbon-red pixels left). Enlarged 1.54x with Lanczos and sharpening by pipeline.framing. The desktop banner (5833x2917) was tried first but cannot hold the whole car without the slogan ribbon. Accepted at Gate 1."
+  }
+ },
+ "fact_sources": [
+  {"fact": "New City up to Rs 1,85,900 (Rs 1.86 lakh); all offers valid till 30 November 2026", "urls": ["https://www.hondacarindia.com/offers", "https://navbharatlive.com/automobile/honda-car-discounts-186-lakh-on-the-city-in-november-amaze-srs13"]},
+  {"fact": "Offers are variant, grade and location specific (an 'up to' maximum); dealer confirms details", "urls": ["https://www.hondacarindia.com/offers", "https://navbharatlive.com/automobile/honda-car-discounts-186-lakh-on-the-city-in-november-amaze-srs13"]},
+  {"fact": "New Amaze up to Rs 66,800; Amaze 2nd Gen up to Rs 57,600", "urls": ["https://www.hondacarindia.com/offers", "https://navbharatlive.com/automobile/honda-car-discounts-186-lakh-on-the-city-in-november-amaze-srs13"]},
+  {"fact": "Elevate and ZR-V not on Honda's November offer list (no general offer)", "urls": ["https://www.hondacarindia.com/offers", "https://navbharatlive.com/automobile/honda-car-discounts-186-lakh-on-the-city-in-november-amaze-srs13"]},
+  {"fact": "Additional offers for selected corporates on all models", "urls": ["https://www.hondacarindia.com/offers", "https://navbharatlive.com/automobile/honda-car-discounts-186-lakh-on-the-city-in-november-amaze-srs13"]},
+  {"fact": "Updated City launched 22 May 2026, from Rs 11.99 lakh ex-showroom", "urls": ["https://www.hondacarindia.com/press-release/new-honda-city-marks-india-debut-of-its-global-sporty-hybrid-suv-all-new-zrv", "https://www.businesstoday.in/auto/story/honda-city-facelift-2026-price-starts-at-rs11-99-lakh-carmaker-debuts-zr-v-hybrid-suv-in-india-532841-2026-05-22", "https://www.hondacarindia.com/offers"]}
+ ],
+ "fact_notes": "Honda's offers page (fetched 18 Nov, 12:1x IST) carries the amounts in its page data (offerUpto 185900 / 66800 / 57600 for New City / New Amaze / Amaze - 2nd Gen; City prodPrice 1199900) and the line 'Offers are Variant, Grade & Location specific... Additional Offers for selected Corporates for all models. All Offers valid till 30th November 2026.' CarToq also reports City up to Rs 1.86 lakh and no general Elevate/ZR-V offer, but its page returns 402 here, so it is not cited.",
+ "tags_proposed": ["hondacarindia"],
+ "tag_evidence": "hondacarindia.com (Honda Cars India's own site, the image owner) links https://www.instagram.com/hondacarindia/ in its footer on /, /honda-city and /offers (seen in the fetched HTML, 18 Nov 2026)."
+}

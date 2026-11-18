@@ -1,0 +1,44 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1157-honda-city-offer",
+ "date": "18 Nov 2026",
+ "sources": [
+  "Honda Cars India",
+  "NavBharat Live",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Honda City Gets Up to ₹1.86 Lakh Off Till 30 November",
+   "photo": "posts/2026-11-18/idlyautomotive-1157-honda-city-offer/src/cover_source.png",
+   "photo_credit": "Image: Honda Cars India",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,85,900",
+   "stat_label": "Honda City's Top Offer, Till 30 November",
+   "bullets": [
+    "A maximum: varies by variant, grade and city",
+    "Updated City launched 22 May, from ₹11.99 lakh"
+   ],
+   "credit_line": "Sources: Honda Cars India, NavBharat Live, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "₹66,800",
+   "stat_label": "Honda Amaze's Top Offer, Same 30 November Deadline",
+   "bullets": [
+    "Older second-gen Amaze: up to ₹57,600",
+    "Elevate and ZR-V: not on Honda's offer list",
+    "Selected corporate buyers can get extra offers"
+   ],
+   "credit_line": "Sources: Honda Cars India, NavBharat Live"
+  }
+ ]
+}
