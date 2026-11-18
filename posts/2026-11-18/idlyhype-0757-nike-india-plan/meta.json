@@ -1,0 +1,32 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel",
+ "headline": "Nike Wants to Triple Its India Business in Five Years",
+ "image": {
+  "url": "https://nmp.about.nike.com/about/prod/2b52b678-ae76-4d7e-88f8-2fdf382faf8e/nike-mumbai-indians-2-9x16.jpg?m=eyJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMH0sIndlYnAiOnsicXVhbGl0eSI6MTAwfSwiZXh0cmFjdCI6eyJsZWZ0IjowLCJ0b3AiOjAsIndpZHRoIjoxMDgwLCJoZWlnaHQiOjE5MjB9LCJyZXNpemUiOnsid2lkdGgiOjM4NDB9fX0%3D&s=4768ed9f93b855e46c13f5aa67187742241e5420f24f453800a6cf1179d25b96",
+  "page": "https://about.nike.com/en/newsroom/releases/nike-and-mumbai-indians-announce-a-multi-year-kit-partnership",
+  "licence": "Nike official press image (newsroom, 21 Oct 2026), editorial use, credited 'Image: Nike'",
+  "author": "Nike",
+  "size": "3840x6827",
+  "subject": "Aerial of Wankhede Stadium, Mumbai, with a Nike Swoosh mowed into the outfield; Marine Drive and the sea behind. Nike's own image for its Mumbai Indians kit deal. No people visible. The Mumbai Indians + Nike logo overlay over the sea is cropped out.",
+  "framing": {"photo": "_work/2026-11-18-hourly-0757/desks/idlyhype/frame_mi/cover_source.png", "tool_plan": {"focal": [0.5, 0.5], "zoom": 1.0, "ok": true}, "cover_focal": [0.49, 1.0], "cover_zoom": 1.15, "crop_source_px": "x 212-3551, y 2653-6827 (3339x4174)", "photo_scale": 0.323, "note": "bottom-anchored 1.15x crop removes the logo overlay (source y ~2300-2600); stadium at ~y 320-900 of 1350, Swoosh at ~y 575; headline over dark buildings; downscaled, no upscale"},
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {"fact": "Nike wants to triple its India business in the next five years (on stage at Investor Day, 17 Nov US time; not in the press release); COO Venkatesh Alagirisamy to CNBC", "urls": ["https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html", "https://www.si.com/fannation/sneakers/news/10-major-takeaways-from-nike-2026-investor-day", "https://sneakernews.com/2026/11/17/nike-to-launch-cricket-footwear-ahead-of-2028-olympics/"]},
+  {"fact": "Sportico reported the India target as tripling sales over the next four years", "urls": ["https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/"]},
+  {"fact": "First Nike investor day since 2017 (nine years)", "urls": ["https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html", "https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/"]},
+  {"fact": "Running, training, sportswear and cricket lead Nike's India push", "urls": ["https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/", "https://sneakernews.com/2026/11/17/nike-to-launch-cricket-footwear-ahead-of-2028-olympics/"]},
+  {"fact": "Nike says it will have 'a complete cricket footwear line' when cricket returns to the Olympics in 2028", "urls": ["https://sneakernews.com/2026/11/17/nike-to-launch-cricket-footwear-ahead-of-2028-olympics/", "https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/"]},
+  {"fact": "Cricket returns to the Olympics at LA 2028 for the first time in more than 100 years", "urls": ["https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/", "https://sneakernews.com/2026/11/17/nike-to-launch-cricket-footwear-ahead-of-2028-olympics/"]},
+  {"fact": "Nike already sells cricket shoes in India, e.g. the Domain 3 (launched 13 Feb 2026; Domain 3 Low on nike.in)", "urls": ["https://www.nike.in/nike-react-domain-3-low/p/25163160", "https://infashionbusiness.com/home/news_details/7297"]},
+  {"fact": "Nike Vegam Run, Nike's first running shoe built for India, on sale since 1 Nov at ₹3,795 on Flipkart and select stores", "urls": ["https://www.esquireindia.co.in/style/just-landed/nike-vegam-run-price-specs-colourways-where-to-buy-launch-date", "https://www.exhibit.tech/lifestyle/nike-vegam-run-is-a-%e2%82%b93795-shoe-designed-for-india/", "https://about.nike.com/newsroom/releases/nike-vegam-run-is-built-for-the-next-generation-of-india-runners"]},
+  {"fact": "Context: Nike is kit partner for Mumbai Indians' men's and women's teams from the 2027 season (announced 21 Oct 2026)", "urls": ["https://about.nike.com/en/newsroom/releases/nike-and-mumbai-indians-announce-a-multi-year-kit-partnership", "https://www.isportconnect.com/nike-and-mumbai-indians-announce-a-multi-year-kit-partnership/"]},
+  {"fact": "Lead tie-in: Complex 17 Nov 'Nike Investor Day 2026: Everything We Learned' (context only)", "urls": ["https://news.google.com/rss/search?q=site:complex.com+when:1d"]}
+ ],
+ "tags_proposed": [],
+ "tag_evidence": "No tag: I couldn't confirm Nike's Instagram handle from Nike's own website in this run (about.nike.com shows no social links), so per the rule I'm not proposing one."
+}

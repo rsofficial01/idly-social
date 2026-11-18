@@ -1,0 +1,45 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0757-nike-india-plan",
+ "date": "18 Nov 2026",
+ "sources": [
+  "CNBC",
+  "Sportico",
+  "Sports Illustrated",
+  "Sneaker News",
+  "Nike",
+  "Esquire India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Nike Wants to Triple Its India Business in Five Years",
+   "photo": "_work/2026-11-18-hourly-0757/desks/idlyhype/frame_mi/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [0.49, 1.0],
+   "zoom": 1.15
+  },
+  {
+   "type": "detail",
+   "stat": "5 YEARS",
+   "stat_label": "Nike's Target to Triple Its India Business",
+   "bullets": [
+    "Said at Nike's first investor day since 2017",
+    "Running, training, sportswear and cricket lead the push",
+    "Nike Vegam Run, built for India: ₹3,795 on Flipkart"
+   ],
+   "credit_line": "Sources: CNBC, Sports Illustrated, Sportico, Esquire India"
+  },
+  {
+   "type": "detail",
+   "stat": "LA 2028",
+   "stat_label": "Nike Promises a Complete Cricket Footwear Line",
+   "bullets": [
+    "Cricket returns to the Olympics after over 100 years",
+    "Nike already sells cricket shoes, like the Domain 3",
+    "Context: Nike kits Mumbai Indians from the 2027 season"
+   ],
+   "credit_line": "Sources: Sneaker News, Sportico, Nike"
+  }
+ ]
+}
