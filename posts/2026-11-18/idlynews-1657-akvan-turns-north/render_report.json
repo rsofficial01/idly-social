@@ -1,0 +1,80 @@
+[
+ {
+  "size": 78,
+  "lines": 3,
+  "overflow": false,
+  "top": 1016,
+  "credit_line": "Image: NASA Worldview / MODIS (Aqua), 18 Nov 2026",
+  "slug": "idlynews-1657-akvan-turns-north",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-18/idlynews-1657-akvan-turns-north/01.jpg",
+  "scale": 0.562
+ },
+ {
+  "stat": 124,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: IMD, ANI, ETV Bharat",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-akvan-turns-north",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlynews-1657-akvan-turns-north/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 184,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Odisha TV, Sambad English, Ommcom News, Odisharay, Pragativadi",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-akvan-turns-north",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlynews-1657-akvan-turns-north/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 120,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: IMD, Odisha Bytes, IANS, ETV Bharat",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-akvan-turns-north",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlynews-1657-akvan-turns-north/04.jpg",
+  "scale": null
+ }
+]

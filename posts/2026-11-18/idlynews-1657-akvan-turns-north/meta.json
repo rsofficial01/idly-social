@@ -1,0 +1,116 @@
+{
+  "account": "idlynews",
+  "story_id": null,
+  "idly_article": false,
+  "format": "news",
+  "headline": "IMD: Cyclone Akvan's Landfall Zone Now Reaches Odisha, Noon 20 Nov",
+  "title": "IMD's 18 Nov afternoon bulletins move Cyclone Akvan's expected landfall to between Narsapur and Puri around noon 20 Nov; Odisha districts shut schools 19-21 Nov",
+  "image": {
+    "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-18&BBOX=3.5,78.9,18.5,90.9&CRS=EPSG:4326&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1920&HEIGHT=2400",
+    "page": "https://worldview.earthdata.nasa.gov/?v=78.9,3.5,90.9,18.5&l=MODIS_Aqua_CorrectedReflectance_TrueColor&t=2026-11-18",
+    "licence": "Public domain (NASA EOSDIS GIBS / Worldview imagery, US government work)",
+    "author": "NASA Worldview / EOSDIS GIBS, MODIS on the Aqua satellite, afternoon pass of 18 Nov 2026",
+    "size": [
+      1920,
+      2400
+    ],
+    "subject": "Cyclone Akvan over the Bay of Bengal, 18 Nov 2026 afternoon (Aqua) pass: convective core at about y 0.35-0.47 of the frame (about 13N/85.4E), sheared cloud shield to the north and north-east, Tamil Nadu coast and Sri Lanka's north at left, open sea in the lower half; bbox 3.5-18.5N, 78.9-90.9E. Different satellite and pass from the 12:26 cover (Terra, morning, bbox 7-21N 80-91.2E) and the 17 Nov cover (Terra, 16 Nov).",
+    "faces": 0,
+    "viewed": true,
+    "framing": {
+      "photo": "posts/2026-11-18/idlynews-1657-akvan-turns-north/src/cover_source.png",
+      "focal": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1.0,
+      "upscale": 0.56,
+      "faces": 0
+    }
+  },
+  "fact_sources": [
+    {
+      "fact": "IMD national bulletins No. 22 (issued 13:00 IST) and No. 23 (issued 14:30 IST) on 18 Nov: SCS Akvan likely to cross North Andhra Pradesh & Yanam and South Odisha coasts between Narsapur and Puri by noon of 20 Nov as a severe cyclonic storm, 90-100 km/h gusting to 110 km/h",
+      "urls": [
+        "https://mausam.imd.gov.in/backend/assets/cyclone_pdf/22__National_Bulletin_No_22-18Nov2026_0830IST.pdf",
+        "https://mausam.imd.gov.in/Forecast/marquee_data/23.%20National%20Bulletin%20No%2023-18Nov2026_1130IST.pdf",
+        "https://www.aninews.in/news/national/general-news/imd-predicts-severe-cyclone-akvan-landfall-between-narsapur-and-puri-on-november-2020261118152349/",
+        "https://www.etvbharat.com/en/bharat/severe-cyclone-akvan-changes-path-landfall-between-odisha-puri-andhra-pradesh-narsapur-november-20-noon-evacuation-underway-imd-rainfall-forecast-enn26111801569",
+        "https://odishatv.in/weather/cyclone-akvan-live-update-odisha-on-alert-as-storm-likely-to-cross-state-after-andhra-landfall-12818804",
+        "https://sambadenglish.com/latest-news/cyclone-akvan-likely-to-make-landfall-between-narsapur-and-odishas-puri-as-imd-issues-fresh-forecast-12819600"
+      ]
+    },
+    {
+      "fact": "IMD bulletin No. 21 (issued 09:30 IST, 18 Nov) had said: likely to cross Andhra Pradesh & Yanam coasts between Nellore and Visakhapatnam around noon of 20 Nov, 100-110 km/h gusting to 120 km/h; outlets report the change of landfall zone",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/21.%20National%20Bulletin%20No%2021-18Nov2026_0530IST.pdf",
+        "https://sambadenglish.com/latest-news/cyclone-akvan-likely-to-make-landfall-between-narsapur-and-odishas-puri-as-imd-issues-fresh-forecast-12819600",
+        "https://odishatv.in/weather/cyclone-akvan-live-update-odisha-on-alert-as-storm-likely-to-cross-state-after-andhra-landfall-12818804",
+        "https://www.etvbharat.com/en/bharat/severe-cyclone-akvan-changes-path-landfall-between-odisha-puri-andhra-pradesh-narsapur-november-20-noon-evacuation-underway-imd-rainfall-forecast-enn26111801569"
+      ]
+    },
+    {
+      "fact": "IMD: isolated extremely heavy rainfall (>=21 cm) over coastal Andhra Pradesh and south Odisha on 19 and 20 Nov",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/23.%20National%20Bulletin%20No%2023-18Nov2026_1130IST.pdf",
+        "https://odishabytes.com/extreme-rain-storm-surge-alert-senior-ias-officers-deployed-in-coastal-dists-as-odisha-braces-for-cyclone-akvan-landfall/",
+        "https://ommcomnews.com/odisha-news/no-further-intensification-likely-cyclone-akvan-to-cross-between-narsapur-and-puri-imd-dg/"
+      ]
+    },
+    {
+      "fact": "IMD: along and off Odisha coast, gales of 70-80 km/h gusting to 90 km/h from 19 Nov morning till 20 Nov noon",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/23.%20National%20Bulletin%20No%2023-18Nov2026_1130IST.pdf",
+        "https://odishabytes.com/extreme-rain-storm-surge-alert-senior-ias-officers-deployed-in-coastal-dists-as-odisha-braces-for-cyclone-akvan-landfall/"
+      ]
+    },
+    {
+      "fact": "IMD: storm surge of 0.5 to 1.0 m above astronomical tide likely to inundate low-lying areas of south coastal Odisha at landfall (bulletin names Ganjam, Khordha, Puri; Andhra: West Godavari, Konaseema, Kakinada, Vizianagaram, Srikakulam, Visakhapatnam)",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/23.%20National%20Bulletin%20No%2023-18Nov2026_1130IST.pdf",
+        "https://odishabytes.com/extreme-rain-storm-surge-alert-senior-ias-officers-deployed-in-coastal-dists-as-odisha-braces-for-cyclone-akvan-landfall/"
+      ]
+    },
+    {
+      "fact": "Gajapati district education office: all schools (pre-primary to Class XII; govt, OAV, KV, JNV, aided, private) closed 19-21 Nov",
+      "urls": [
+        "https://odishatv.in/odisha/schools-to-remain-closed-for-three-days-in-gajapati-amid-cyclone-akvan-alert-12820288",
+        "https://sambadenglish.com/latest-news/cyclone-akvan-schools-in-odishas-gajapati-to-remain-shut-for-3-days-12820339",
+        "https://kalingatv.com/odisha/all-schools-to-remain-closed-for-three-days-in-gajapati-district-due-to-cyclone-akvan/",
+        "https://pragativadi.com/all-schools-and-educational-institutions-in-gajapati-to-remain-closed-from-nov-19-to-21/"
+      ]
+    },
+    {
+      "fact": "Malkangiri Collector: all schools, colleges, other educational institutions and anganwadi centres closed 19 and 20 Nov",
+      "urls": [
+        "https://ommcomnews.com/odisha-news/akvan-alert-all-schools-colleges-in-malkangiri-to-remain-closed-on-nov-19-20/",
+        "https://www.thedailyjagran.com/education/news/odisha-school-holiday-tomorrow-all-schools-anganwadis-in-malkangiri-district-to-remain-closed-on-november-1920-due-to-cyclone-akvan-alert-10336703"
+      ]
+    },
+    {
+      "fact": "Khordha Collector: all govt, aided and private schools closed 19 and 20 Nov",
+      "urls": [
+        "https://pragativadi.com/khordha-shuts-all-schools-for-two-days-due-to-cyclone-akvan/",
+        "https://odisharay.com/schools-colleges-closed-in-khordha-and-ganjam-amid-cyclone-akvan-threat/"
+      ]
+    },
+    {
+      "fact": "Ganjam: schools and colleges closed from 19 Nov (Odisharay: till 20 Nov; Pragativadi: SRC order 19-21 Nov, so card says 'from 19 November')",
+      "urls": [
+        "https://odisharay.com/schools-colleges-closed-in-khordha-and-ganjam-amid-cyclone-akvan-threat/",
+        "https://pragativadi.com/odisha-orders-3-day-school-closure-in-six-districts-as-cyclone-akvan-approaches/"
+      ]
+    },
+    {
+      "fact": "Odisha Special Relief Commissioner suspended sea bathing, boating, water sports and other marine tourism at vulnerable beaches",
+      "urls": [
+        "https://www.thehansindia.com/odisha/cyclone-akvan-odisha-orders-suspension-of-beach-tourism-tightens-transport-safety-measures-1143295",
+        "https://www.etvbharat.com/en/bharat/severe-cyclone-akvan-changes-path-landfall-between-odisha-puri-andhra-pradesh-narsapur-november-20-noon-evacuation-underway-imd-rainfall-forecast-enn26111801569",
+        "https://odishatv.in/weather/cyclone-akvan-live-update-odisha-on-alert-as-storm-likely-to-cross-state-after-andhra-landfall-12818804"
+      ]
+    }
+  ],
+  "fact_notes": "Landfall wording is IMD's forecast, attributed. IMD's 13:30 IST press release said 'between Machilipatnam and Puri'; the later national bulletins (No. 22 at 13:00, No. 23 at 14:30) say Narsapur and Puri, which the card uses. Six-district SRC school order (adds Puri, Jagatsinghpur, Kendrapara, Kandhamal) has only Pragativadi, so those districts are left off. Evacuation-readiness figure (2,04,070) left out (one exact source). IMD DG 'no further intensification' left out because IMD's own track table shows 100-110 gusting 120 km/h on 19 Nov. Baseline warning from checkcopy is a false match (not a Tamil Nadu story). Bulletin times proven from the PDFs: No. 21 issued 09:30 IST (Nellore-Visakhapatnam); No. 22 issued 13:00 IST and RSMC advisory No. 14 issued 07:30 UTC = 13:00 IST (both Narsapur-Puri); No. 23 issued 14:30 IST (Narsapur-Puri). Sambad's 12:35 report of the new zone predates the earliest bulletin I can prove (13:00), so the caption cites the 1 pm and 2:30 pm bulletins, not Sambad's time. No Bulletin No. 24 on IMD's site at 17:27 IST.",
+  "tags_proposed": [],
+  "tag_evidence": "NASA image; no tag (no brand handle to confirm, never people)."
+}

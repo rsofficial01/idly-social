@@ -1,0 +1,63 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-akvan-turns-north",
+ "date": "18 Nov 2026",
+ "sources": [
+  "IMD",
+  "ANI",
+  "ETV Bharat",
+  "Odisha TV",
+  "Sambad English",
+  "Ommcom News",
+  "Odisha Bytes",
+  "Odisharay",
+  "Pragativadi",
+  "IANS"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IMD: Cyclone Akvan's Landfall Zone Now Reaches Odisha, Noon 20 Nov",
+   "photo": "posts/2026-11-18/idlynews-1657-akvan-turns-north/src/cover_source.png",
+   "photo_credit": "Image: NASA Worldview / MODIS (Aqua), 18 Nov 2026",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "NOON, 20 NOV",
+   "stat_label": "Akvan's New Landfall Zone: Narsapur to Puri",
+   "bullets": [
+    "IMD's 9:30 AM forecast said Nellore to Visakhapatnam",
+    "IMD expects 90-100 km/h winds, gusting 110, at landfall",
+    "Isolated 21 cm+ rain in south Odisha, 19-20 Nov"
+   ],
+   "credit_line": "Sources: IMD, ANI, ETV Bharat"
+  },
+  {
+   "type": "detail",
+   "stat": "19-21 NOV",
+   "stat_label": "Odisha Shuts Schools in Akvan's Path",
+   "bullets": [
+    "Gajapati: all schools shut 19 to 21 November",
+    "Khordha, Malkangiri: schools shut 19 and 20 November",
+    "Ganjam: schools and colleges shut from 19 November"
+   ],
+   "credit_line": "Sources: Odisha TV, Sambad English, Ommcom News, Odisharay, Pragativadi"
+  },
+  {
+   "type": "detail",
+   "stat": "UP TO 1 METRE",
+   "stat_label": "Akvan Storm Surge Risk on South Odisha Coast",
+   "bullets": [
+    "Surge above normal tide may flood low-lying south Odisha",
+    "Odisha coast: 70-80 km/h gales from 19 Nov",
+    "Sea bathing, boating halted at vulnerable Odisha beaches"
+   ],
+   "credit_line": "Sources: IMD, Odisha Bytes, IANS, ETV Bharat"
+  }
+ ]
+}
