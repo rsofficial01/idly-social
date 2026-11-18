@@ -1,0 +1,53 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Wed 18 Nov 2026: India beat 10-man Pakistan 2-1 in the SAFF Championship final in Dhaka (Mandi 88'), record 10th title, first three-in-a-row (lead); UP draft voter roll 13.58 crore, claims till 16 Dec, booth camps 21/22/28/29 Nov, final roll 4 Jan 2027; CAQM revokes GRAP Stage III in Delhi-NCR (order 17 Nov, AQI 204), Stages I-II stay, 30 Oct construction/demolition dust order continues; Quad's first summit in two years in Manila: first joint patrol-aircraft exercise 2027, first business leaders' forum early 2027.",
+ "headline": "India Beat 10-Man Pakistan for Record 10th SAFF Title",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dhaka_National_Stadium.jpg/3840px-Dhaka_National_Stadium.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dhaka_National_Stadium.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "FahimHP (own work, taken 25 May 2025)",
+  "size": "3840x2880 (Commons thumbnail of the 4032x3024 original)",
+  "subject": "National Stadium, Dhaka (venue of the 17 Nov SAFF final): pitch, running track and renovated stands from pitch-side seats; a few tiny distant groundstaff, not identifiable",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "India 2 (Suhail Ahmad Bhat 60', Sandip Mandi 88') Pakistan 1 (Alamgir Ghazi 45+1'), SAFF Championship final, National Stadium Dhaka, Tue 17 Nov 2026; record 10th title; first three straight titles; Pakistan's Junaid Shah sent off after VAR review; Pakistan's first SAFF final",
+   "urls": [
+    "https://www.the-aiff.com/article/mandis-late-winner-seals-india-comeback-and-historic-saff-title-hat-trick",
+    "https://gulfnews.com/sport/football/india-beat-pakistan-to-clinch-record-extending-10th-saff-championship-title-1.500751041",
+    "https://www.pakistantoday.com.pk/2026/11/18/red-card-derails-pakistan-as-india-fights-back-to-win-saff-championship-2026-final-2-1"
+   ]
+  },
+  {
+   "fact": "UP draft roll (Special Summary Revision 2027) published 17 Nov by CEO Navdeep Rinwa: 13,58,68,905 voters, about 18.84 lakh more than the 10 Apr final roll; claims/objections till 16 Dec; camps at all 1,73,730 polling stations on 21, 22, 28, 29 Nov, 10 am-4 pm; Forms 6/7/8; final roll 4 Jan 2027",
+   "urls": [
+    "https://aninews.in/news/national/general-news/claims-objections-will-be-accepted-over-one-month-period-up-ceo-navdeep-rinwa-says-draft-electoral-roll-for-ssr-published20261117131405/",
+    "https://english.gujaratsamachar.com/news/national/uttar-pradesh-publishes-draft-electoral-roll-ahead-of-2027-assembly-polls-with-1358-crore-voters-41654418772",
+    "https://newsable.asianetnews.com/india/uttar-pradesh-ssr-2027-draft-electoral-roll-published-for-voters-articleshow-1fu2qs2"
+   ]
+  },
+  {
+   "fact": "CAQM revoked GRAP Stage III across Delhi-NCR by order of 17 Nov; daily average AQI 204; Stages I and II stay; 30 Oct order restricting dust-raising construction and demolition continues",
+   "urls": [
+    "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2337619&reg=48&lang=2",
+    "https://www.socialnews.xyz/2026/11/17/caqm-revokes-grap-iii-in-delhi-ncr-curbs-on-construction-demolition-continue/",
+    "https://english.punjabkesari.com/india/aqm-revokes-grap-iii-in-delhi-ncr-curbs-on-construction-demolition-continue"
+   ]
+  },
+  {
+   "fact": "7th Quad Leaders' Summit, Manila, 17 Nov (Modi, Trump, Australian PM Albanese, Japanese PM Takaichi), first in two years (previous Wilmington 2024); the four countries' patrol aircraft to hold first joint maritime exercise in a Quad context in 2027; first Quad Business Leaders' Forum early 2027",
+   "urls": [
+    "https://www.tribuneindia.com/news/world/quad-leaders-unveil-5-outcomes-at-manila-summit-india-to-host-business-leaders-forum-in-2027",
+    "https://www.greaterkashmir.com/national/quad-announces-new-maritime-exercise-unveils-major-initiatives-on-ai-cyber-security-12817926"
+   ]
+  }
+ ],
+ "tags_proposed": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual photographer, not a brand or organisation with an official Instagram account."
+}

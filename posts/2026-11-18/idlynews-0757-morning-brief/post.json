@@ -1,0 +1,72 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "18 Nov 2026",
+ "sources": [
+  "AIFF",
+  "Gulf News",
+  "Pakistan Today",
+  "ANI",
+  "Gujarat Samachar",
+  "PIB",
+  "IANS",
+  "PTI"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "India Beat 10-Man Pakistan for Record 10th SAFF Title",
+   "photo": "_work/2026-11-18-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: FahimHP / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.55,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "88TH MIN",
+   "stat_label": "Sandip Mandi's Header Wins India the SAFF Final",
+   "bullets": [
+    "Pakistan's Alamgir Ghazi scored first, just before half-time",
+    "Suhail Ahmad Bhat levelled after a Pakistan red card",
+    "India's third straight SAFF title, a first, AIFF says"
+   ],
+   "credit_line": "Sources: AIFF, Gulf News, Pakistan Today"
+  },
+  {
+   "type": "detail",
+   "stat": "16 DEC",
+   "stat_label": "UP Voter List: Last Day to Add Your Name",
+   "bullets": [
+    "13.58 crore names on UP's draft list, out 17 Nov",
+    "Camps at every UP booth: 21, 22, 28, 29 Nov",
+    "Form 6 adds a name, 7 deletes, 8 corrects"
+   ],
+   "credit_line": "Sources: ANI, Gujarat Samachar"
+  },
+  {
+   "type": "detail",
+   "stat": "204",
+   "stat_label": "Delhi's Air Quality Index as Pollution Curbs Ease",
+   "bullets": [
+    "Graded Response Action Plan Stage III revoked 17 Nov",
+    "Stage I and II curbs stay in force",
+    "30 Oct dust curbs on construction continue"
+   ],
+   "credit_line": "Sources: PIB, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "2027",
+   "stat_label": "Quad's First Joint Patrol-Aircraft Exercise",
+   "bullets": [
+    "Modi, Trump, Australian and Japanese PMs met in Manila",
+    "First Quad leaders' summit in two years",
+    "First Quad business leaders' forum due early 2027"
+   ],
+   "credit_line": "Sources: ANI, PTI"
+  }
+ ]
+}
