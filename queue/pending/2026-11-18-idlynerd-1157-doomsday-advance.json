@@ -1,0 +1,79 @@
+{
+  "account": "idlynerd",
+  "story_id": 2905,
+  "idly_article": true,
+  "evergreen": false,
+  "title": "Avengers: Doomsday advance bookings top 1 lakh tickets in India",
+  "headline": "Avengers: Doomsday Sells ₹10 Crore+ of India Tickets in 19 Hours",
+  "caption": "Avengers: Doomsday sold more than ₹10 crore of opening-day tickets in India within about 19 hours of bookings opening, trade tracker Sacnilk reports. That is around 1 lakh tickets across PVR, INOX and Cinepolis.\n\nFor scale, Avengers: Endgame took ₹8.27 crore in its first 24 hours of advance sales at the same three chains in 2019, and Spider-Man: No Way Home ₹6.56 crore in 2021. Koimoi also reports Doomsday has passed both.\n\nThe priciest seat reported so far is a 4DX 3D midnight show at Cinepolis in Navi Mumbai: ₹4,200, or about ₹4,300 with booking fees. The film opens in Indian cinemas on Thursday, 17 December, a day before its US release.\n\nWhat's the most you'd pay for a movie ticket?\n\nFull story on idly.news (link in bio).\n\n#AvengersDoomsday #Marvel #MCU #BoxOffice #idlynerd",
+  "alt_text": "A still from Marvel's official Avengers: Doomsday trailer under the headline 'Avengers: Doomsday Sells ₹10 Crore+ of India Tickets in 19 Hours'.",
+  "sources": [
+    "Sacnilk",
+    "Koimoi"
+  ],
+  "detail_slides": [
+    {
+      "stat": "₹10 CR+",
+      "stat_label": "Avengers: Doomsday's First 19 Hours, per Sacnilk",
+      "bullets": [
+        "Opening-day advance at PVR, INOX and Cinepolis",
+        "About 1 lakh tickets sold across those chains",
+        "Figures are Sacnilk's trade estimates, gross"
+      ],
+      "credit_line": "Source: Sacnilk"
+    },
+    {
+      "stat": "₹8.27 CR",
+      "stat_label": "Endgame's 2019 Mark, Now Passed by Avengers: Doomsday",
+      "bullets": [
+        "Endgame, 2019: first 24 hours of advance sales",
+        "Same chains: PVR, INOX and Cinepolis",
+        "No Way Home, 2021: ₹6.56 crore"
+      ],
+      "credit_line": "Sources: Sacnilk, Koimoi"
+    },
+    {
+      "stat": "₹4,300",
+      "stat_label": "Priciest Avengers: Doomsday Ticket Reported in India",
+      "bullets": [
+        "Cinepolis Navi Mumbai, 4DX 3D midnight show",
+        "₹4,200 ticket plus booking fees",
+        "In Indian cinemas 17 Dec, a day before US"
+      ],
+      "credit_line": "Sources: Sacnilk, Koimoi"
+    }
+  ],
+  "tags": [
+    "marvel"
+  ],
+  "story": false,
+  "notes": "format: news carousel (cover + 3 details). G1 BUILD #2 with angle fixes: window + attribution (19 hours, Sacnilk) on cover/slide 2; one figure and one window per slide (no BookMyShow 24 h figure); Endgame Rs 8.27 cr labelled as 2019 opening 24 h at PVR/INOX/Cinepolis; Rs 4,300 named show; 17 Dec on slide 4. Different image from 17 Nov cover (that was marvel.com Doom key art; this is the trailer thumbnail). Stories paused.",
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "original 1: tracker numbers (Sacnilk, Koimoi) are widely reported and the cover is Marvel's trailer still; idly's part is the like-for-like Endgame benchmark and the ticket-price slide. send 2 rests on the friend booking the 17 Dec show; it is the same film as yesterday's lead, so a reviewer could fairly call it 1. keep 2: 17 Dec date and Rs 4,300 price are on slide 4."
+    }
+  },
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=X1aFkAkFASk"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=UfNu7pcR0e8"
+      }
+    ]
+  },
+  "created_at": "2026-11-18T12:17:00+05:30"
+}
