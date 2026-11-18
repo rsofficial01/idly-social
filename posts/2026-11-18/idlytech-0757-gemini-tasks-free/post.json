@@ -1,0 +1,61 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-gemini-tasks-free",
+ "date": "18 Nov 2026",
+ "sources": [
+  "Google",
+  "9to5Google",
+  "Inc42",
+  "Business Today",
+  "Android Authority",
+  "PPC Land",
+  "Data Studios",
+  "Digitbin"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Gemini Tasks Needed ₹1,950 AI Pro. Now It's Free in India",
+   "photo": "_work/2026-11-18-hourly-0757/desks/idlytech/frame_4c/cover_source_nostrip.png",
+   "photo_credit": "Image: Google",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹0",
+   "stat_label": "Gemini Tasks' Price in India Now",
+   "bullets": [
+    "Before, as Spark: AI Pro or Ultra plans only",
+    "Google AI Pro costs ₹1,950 a month in India",
+    "Free in India, US, Japan, Korea, Canada, Australia"
+   ],
+   "credit_line": "Sources: Google, 9to5Google, Inc42, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "17 NOV",
+   "stat_label": "Gemini Tasks Rollout Began: How to Find It",
+   "bullets": [
+    "Open Gemini, flip the toggle: Chat to Task",
+    "Describe the job; Gemini Tasks does the steps",
+    "Gemini asks before Buy; you can cap spending"
+   ],
+   "credit_line": "Sources: Google, 9to5Google, Android Authority"
+  },
+  {
+   "type": "detail",
+   "stat": "3 FEATURES",
+   "stat_label": "Gemini Tasks Features Starting in the US",
+   "bullets": [
+    "Gemini calling businesses for you: US only for now",
+    "Texting Gemini: needs a US phone number",
+    "Forwarding emails to Gemini: US first"
+   ],
+   "credit_line": "Sources: Google, PPC Land, Data Studios, Digitbin"
+  }
+ ]
+}

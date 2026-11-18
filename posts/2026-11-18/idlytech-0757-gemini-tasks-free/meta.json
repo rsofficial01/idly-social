@@ -1,0 +1,105 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "Gemini Tasks Needed ₹1,950 AI Pro. Now It's Free in India",
+ "image": {
+  "url": "https://lh3.googleusercontent.com/V1IPGXOO6Pfhi6LfEd4YUNoqoJYfUmmKotXHHyIitLTxkhusnRhyVGpBzRwomlZKKR5wgk-GhE9EYdrHt1i61KtseK46bSrFqoRm=e365-pa-nu-s0",
+  "page": "https://gemini.google/in/overview/productivity/?hl=en-IN",
+  "licence": "Google official product page image (Gemini 'Meet Tasks in Gemini' page, India edition), credit 'Image: Google'",
+  "author": "Google",
+  "size": "1968x1296 source; cover crop x545-1487, y100-1278 (942x1178, 4:5), 1.15x to 1080x1350",
+  "subject": "Gemini Tasks web UI at work: user prompt, 'Monitoring internship listings' step, Gemini's reply setting a weekly schedule, 'Thinking it through'",
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Gemini Tasks is rolling out free from 17 Nov 2026 in India, the US, Japan, Korea, Canada and Australia, on Gemini 4 Hydrogen",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/",
+    "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+    "https://www.androidauthority.com/google-gemini-tasks-update-3736266/",
+    "https://gemini.google/in/overview/productivity/?hl=en-IN"
+   ]
+  },
+  {
+   "fact": "Gemini Tasks was earlier called Spark",
+   "urls": [
+    "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+    "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/",
+    "https://www.digitbin.com/gemini-tasks-free-six-countries/"
+   ]
+  },
+  {
+   "fact": "Spark reached India in July 2026 only for Google AI Pro and AI Ultra subscribers (needed AI Pro before)",
+   "urls": [
+    "https://www.businesstoday.in/technology/artificial-intelligence/story/google-launches-gemini-spark-in-india-with-agentic-capabilities-across-apps-all-details-545995-2026-07-29",
+    "https://t2online.in/tech/tech-news/google-brings-ai-agent-gemini-spark-to-india-for-pro-subscribers/2006841",
+    "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+    "https://www.digitbin.com/gemini-tasks-free-six-countries/"
+   ]
+  },
+  {
+   "fact": "Google AI Pro costs ₹1,950 a month in India",
+   "urls": [
+    "https://www.businesstoday.in/amp/technology/story/google-upgrades-ai-pro-plan-with-expanded-storage-and-new-features-523688-2026-04-02",
+    "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/"
+   ]
+  },
+  {
+   "fact": "To use it, open Gemini and flip the home-screen toggle from Chat to Task",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+    "https://www.androidauthority.com/google-gemini-tasks-update-3736266/"
+   ]
+  },
+  {
+   "fact": "Gemini asks before clicking Buy; users can set a spending cap/budget",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+    "https://www.androidauthority.com/google-gemini-tasks-update-3736266/"
+   ]
+  },
+  {
+   "fact": "Texting Gemini needs a US phone number with an eligible carrier",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/",
+    "https://www.digitbin.com/gemini-tasks-free-six-countries/"
+   ]
+  },
+  {
+   "fact": "Forwarding emails to Gemini starts in the US",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/",
+    "https://www.digitbin.com/gemini-tasks-free-six-countries/"
+   ]
+  },
+  {
+   "fact": "Jio ended its free Google AI Pro offer for new users on 16 Nov 2026",
+   "urls": [
+    "https://www.jio.com/help/faq/mobile/offers/google-gemini-offer/what-is-the-google-gemini-offer-from-jio/",
+    "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/",
+    "https://gadgets.beebom.com/news/jio-discontinues-free-google-ai-pro-subscription-for-new-users"
+   ]
+  },
+  {
+   "fact": "Gemini calling businesses on your behalf is US only for now (advanced features start in the US)",
+   "urls": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/",
+    "https://www.datastudios.org/post/gemini-tasks-free-six-countries-calls-pay-bills-google-pay-instacart"
+   ]
+  }
+ ],
+ "tags_proposed": [
+  "@google"
+ ],
+ "tag_evidence": "Cover image owner is Google. Google's Keyword post for this launch links https://www.instagram.com/google/ (in the page HTML)."
+}
