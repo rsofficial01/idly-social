@@ -1,0 +1,163 @@
+{
+  "slug": "2026-11-18-idlynerd-1157-doomsday-advance",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-18T06:49:46+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+    "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+    "image_url": "https://i.ytimg.com/vi/irVNGjRFZGk/maxresdefault.jpg",
+    "credit": "Image: Marvel Entertainment (official trailer)",
+    "organisation": "Marvel Entertainment",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=irVNGjRFZGk: author 'Marvel Entertainment' https://www.youtube.com/@marvel, title 'Avengers: Doomsday | Official Trailer | In Theaters December 18'",
+      "thumbnail https://i.ytimg.com/vi/irVNGjRFZGk/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@marvel",
+    "video_title": "Avengers: Doomsday | Official Trailer | In Theaters December 18"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.11,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 12 known items, 8 needing care (debt-gsdp-at-takeover-2021: single_source, debt-inherited-2021: disputed, dmk-2021-kept-aiadmk-scheme-names: single_source, dmk-kept-aiadmk-names-2021: single_source, election-2021: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Marvel Entertainment (official trailer)",
+      "Source: Sacnilk",
+      "Sources: Sacnilk, Koimoi",
+      "Sources: Sacnilk, Koimoi"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 90,
+      "lines": 3,
+      "overflow": false,
+      "top": 980,
+      "credit_line": "Image: Marvel Entertainment (official trailer)",
+      "slug": "2026-11-18-idlynerd-1157-doomsday-advance",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 240,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Source: Sacnilk",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-18-idlynerd-1157-doomsday-advance",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 220,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Koimoi",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-18-idlynerd-1157-doomsday-advance",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 284,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Koimoi",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-18-idlynerd-1157-doomsday-advance",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Avengers: Doomsday sold more than ₹10 crore of opening-day tickets in India within about 19 hours of bookings opening, trade tracker Sacnilk reports. That is around 1 lakh tickets across PVR, INOX and Cinepolis.\n\nFor scale, Avengers: Endgame took ₹8.27 crore in its first 24 hours of advance sales at the same three chains in 2019, and Spider-Man: No Way Home ₹6.56 crore in 2021. Koimoi also reports Doomsday has passed both.\n\nThe priciest seat reported so far is a 4DX 3D midnight show at Cinepolis in Navi Mumbai: ₹4,200, or about ₹4,300 with booking fees. The film opens in Indian cinemas on Thursday, 17 December, a day before its US release.\n\nWhat's the most you'd pay for a movie ticket?\n\nFull story on idly.news (link in bio).\n\n#AvengersDoomsday #Marvel #MCU #BoxOffice #idlynerd\n\nImage: Marvel Entertainment (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
