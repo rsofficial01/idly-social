@@ -4447,5 +4447,21 @@
     "tagged": [
       "google"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlytech",
+    "media_id": "18107339792529829",
+    "permalink": "https://www.instagram.com/p/Df36RmYjYUH/",
+    "posted_at": "2026-11-18T06:55:32+00:00",
+    "date": "2026-11-18",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-18/idlytech-1157-apple-maps-india/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-18/idlytech-1157-apple-maps-india/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-18/idlytech-1157-apple-maps-india/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-18/idlytech-1157-apple-maps-india/04.jpg"
+    ],
+    "score_total": 12
   }
 ]
