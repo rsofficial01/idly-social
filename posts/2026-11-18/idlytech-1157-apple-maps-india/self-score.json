@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 1,
+ "alone": 2,
+ "total": 12,
+ "notes": "send 1: the forward reason (an iPhone user sending it to a parent who reads Hindi/Marathi more easily, or a metro commuter) is real but narrow, because most Indian readers use Android and Google Maps. original 1: a rewrite of Apple's press release with Apple's own image; idly's additions are the iOS 27.2 requirement pulled out onto a slide and the language/transit lists. hook 2: the cover now leads with the vivid India-specific change ('Turn Right After the Petrol Pump')."
+}

@@ -1,0 +1,98 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel",
+ "headline": "Apple Maps India Now Says 'Turn Right After the Petrol Pump'",
+ "image": {
+  "url": "https://www.apple.com/newsroom/images/2026/11/apple-rolls-out-all-new-map-across-india/article/Apple-Maps-India-New-Delhi-Qutb-Complex_inline.jpg.large_2x.jpg",
+  "page": "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+  "licence": "Apple Newsroom press image (official), credited 'Image: Apple'",
+  "author": "Apple",
+  "size": "1306x1829",
+  "subject": "iPhone 18 Pro showing an Apple Maps Look Around street-level view of the Qutb Minar and Alai Darwaza, Qutb Complex, New Delhi (Apple's caption: 'A Maps screen on iPhone 18 Pro shows the Qutb Complex in New Delhi')",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "photo": "_work/2026-11-18-hourly-1157/desks/idlytech/frame-1/cover_source.png",
+   "focal": [
+    0.5,
+    0.4
+   ],
+   "zoom": 1.3,
+   "upscale": 1.08,
+   "note": "pipeline.framing ok (full-bleed, faces 0); cover zoomed to 1.3 so the screen fills the frame and the Minar top clears the logo; a few distant visitors at the monument's base are specks, not identifiable"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Apple rolled out an all-new Apple Maps for India on 18 Nov 2026, available from today ('today's rollout')",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "More than 300 3D landmarks",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "Look Around street-level imagery now in India (examples: BMC building, Mumbai; Qutb Complex, New Delhi)",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "Natural Language Guidance uses real-world details on unnamed roads, e.g. 'Turn right after the petrol pump'",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html"
+   ]
+  },
+  {
+   "fact": "Dual-language labels, based on the device language and the region's local language: on a device set to English, Hindi + English around Delhi, Marathi + English around Mumbai",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "Maps supports English and Hindi and has added Bengali, Gujarati, Kannada, Malayalam, Marathi, Tamil, Telugu, Punjabi, Odia and Urdu (Apple's list: 10 added; Business Standard says 11, Gizbot implies 12 total; we count Apple's own list)",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "Dual-language labels and enhanced Natural Language Guidance need iOS 27.2 (iPadOS/watchOS/macOS 27.2) or later",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html"
+   ]
+  },
+  {
+   "fact": "Transit in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, Mumbai and Pune plus Indian Railways; find nearby stations, pin favourite routes, alert when it's time to get off",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  },
+  {
+   "fact": "AR walking directions; lane guidance before turns and elevated roads; multi-stop routes of up to 15 stops",
+   "urls": [
+    "https://www.apple.com/in/newsroom/2026/11/apple-rolls-out-all-new-map-across-india/",
+    "https://www.fonearena.com/blog/497183/apple-new-maps-experience-india.html"
+   ]
+  }
+ ],
+ "tags_proposed": [],
+ "tag_evidence": "No tag: apple.com (/in/, global home page and the newsroom article) has no link to an Instagram account, so the @apple handle can't be confirmed from Apple's own site as required."
+}

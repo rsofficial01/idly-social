@@ -1,0 +1,80 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Image: Apple",
+  "slug": "idlytech-1157-apple-maps-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-18/idlytech-1157-apple-maps-india/01.jpg",
+  "scale": 1.076
+ },
+ {
+  "stat": 240,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Apple, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-apple-maps-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlytech-1157-apple-maps-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 124,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Apple, FoneArena",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-apple-maps-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlytech-1157-apple-maps-india/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 216,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Apple, FoneArena, Business Standard",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-apple-maps-india",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-18/idlytech-1157-apple-maps-india/04.jpg",
+  "scale": null
+ }
+]
