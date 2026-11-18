@@ -1,0 +1,93 @@
+{
+  "account": "idlynews",
+  "story_id": null,
+  "idly_article": false,
+  "format": "news carousel",
+  "headline": "Cyclone Akvan: IMD Red Alert for 7 Andhra Districts, 19-20 Nov",
+  "image": {
+    "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-18&BBOX=7,80,21,91.2&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1920&HEIGHT=2400",
+    "page": "https://worldview.earthdata.nasa.gov/?v=80,7,91.2,21&l=MODIS_Terra_CorrectedReflectance_TrueColor&t=2026-11-18",
+    "licence": "Public domain (NASA EOSDIS GIBS / Worldview imagery, US government work)",
+    "author": "NASA Worldview / EOSDIS GIBS, MODIS on the Terra satellite, morning pass of 18 Nov 2026",
+    "size": [1920, 2400],
+    "subject": "Cyclone Akvan's cloud mass and spiral bands over the Bay of Bengal off India's east coast (Andhra/Tamil Nadu coast at left), 18 Nov 2026; bbox 7-21N, 80-91.2E. New still: earlier Akvan covers used 15 and 16 Nov passes.",
+    "local": "_work/2026-11-18-hourly-1157/desks/idlynews/akvan-2026-11-18-terra-east.jpg",
+    "framing": {
+      "photo": "_work/2026-11-18-hourly-1157/desks/idlynews/frame-akvan/cover_source.png",
+      "focal": [0.5, 0.5],
+      "zoom": 1.0,
+      "upscale": 0.56,
+      "faces": 0
+    },
+    "faces": 0,
+    "viewed": true
+  },
+  "fact_sources": [
+    {
+      "fact": "Akvan intensified into a severe cyclonic storm; at 05:30 IST on 18 Nov it was near 12.7N/85.5E, about 610 km SE of Machilipatnam, moving north-northwest at 3 km/h",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/21.%20National%20Bulletin%20No%2021-18Nov2026_0530IST.pdf",
+        "https://www.theweek.in/news/india/2026/11/18/cyclonic-storm-akvan-imds-latest-rainfall-forecast-maharashtra-west-bengal-along-with-andhra.html",
+        "https://www.india.com/news/india/cyclone-akvan-storm-bay-of-bengal-andhra-pradesh-odisha-nellore-visakhapatnam-ndrf-fishermen-schools-closed-mohan-charan-majhi-8545833/",
+        "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+      ]
+    },
+    {
+      "fact": "IMD: likely to cross Andhra Pradesh and Yanam coasts between Nellore and Visakhapatnam around noon of 20 Nov as a severe cyclonic storm, 100-110 km/h gusting to 120 km/h",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/21.%20National%20Bulletin%20No%2021-18Nov2026_0530IST.pdf",
+        "https://www.theweek.in/news/india/2026/11/18/cyclonic-storm-akvan-imds-latest-rainfall-forecast-maharashtra-west-bengal-along-with-andhra.html",
+        "https://www.india.com/news/india/cyclone-akvan-storm-bay-of-bengal-andhra-pradesh-odisha-nellore-visakhapatnam-ndrf-fishermen-schools-closed-mohan-charan-majhi-8545833/"
+      ]
+    },
+    {
+      "fact": "On Tuesday 17 Nov IMD had forecast a very severe cyclonic storm at landfall with gusts to 145 km/h (since revised)",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/Press%20Release%2017-11-2026.pdf",
+        "https://thehansindia.com/andhra-pradesh/cyclone-akvan-approaches-ap-coast-rains-expected-for-three-days-1142924",
+        "https://daijiworld.com/news/newsDisplay?newsID=1335579"
+      ]
+    },
+    {
+      "fact": "Red alert for extremely heavy rain on 19-20 Nov for 7 Andhra districts: Kakinada, Konaseema, East Godavari, West Godavari, Eluru, Krishna, Bapatla (lists match exactly; DC also names Yanam)",
+      "urls": [
+        "https://www.deccanchronicle.com/southern-states/andhra-pradesh/akvan-likely-to-intensify-into-very-severe-cyclone-cross-coast-on-nov-20-2004989",
+        "https://news24online.com/india/cyclone-akvan-red-alert-in-7-andhra-pradesh-districts-landfall-expected-on-november-20-odisha-telangana-tamil-nadu-brace-for-heavy-rain/954553",
+        "https://www.theweek.in/news/india/2026/11/18/cyclone-akvan-imd-issues-red-alert-for-andhra-coasts-as-storm-approaches-nellore-and-visakhapatnam.html"
+      ]
+    },
+    {
+      "fact": "IMD: isolated extremely heavy rainfall (21 cm or more) in coastal Andhra Pradesh on 19 and 20 Nov (basis of the red alert)",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/21.%20National%20Bulletin%20No%2021-18Nov2026_0530IST.pdf",
+        "https://www.theweek.in/news/india/2026/11/18/cyclone-akvan-imd-issues-red-alert-for-andhra-coasts-as-storm-approaches-nellore-and-visakhapatnam.html"
+      ]
+    },
+    {
+      "fact": "IMD storm surge warning: 0.4-1.2 m above astronomical tide in low-lying areas of Prakasam, Bapatla, Krishna, West Godavari, Konaseema, Kakinada and Visakhapatnam at landfall; peak over Bapatla, Krishna, West Godavari and Kakinada from 20 Nov morning to afternoon",
+      "urls": [
+        "https://mausam.imd.gov.in/Forecast/marquee_data/21.%20National%20Bulletin%20No%2021-18Nov2026_0530IST.pdf",
+        "https://www.theweek.in/news/india/2026/11/18/cyclonic-storm-akvan-imds-latest-rainfall-forecast-maharashtra-west-bengal-along-with-andhra.html",
+        "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+      ]
+    },
+    {
+      "fact": "13 NDRF and 11 SDRF teams on standby in Andhra Pradesh",
+      "urls": [
+        "https://www.thehansindia.com/andhra-pradesh/ap-on-high-alert-ahead-of-cyclone-akvan-ap-home-minister-calls-for-vigilance-1143254",
+        "https://daijiworld.com/news/newsDisplay?newsID=1335579"
+      ]
+    },
+    {
+      "fact": "APSDMA helplines 112, 1070, 1800 425 0101 (toll-free) and WhatsApp (Mana Mitra) 95523 00009",
+      "urls": [
+        "https://www.thehansindia.com/andhra-pradesh/ap-on-high-alert-ahead-of-cyclone-akvan-ap-home-minister-calls-for-vigilance-1143254",
+        "https://thehansindia.com/andhra-pradesh/cyclone-akvan-approaches-ap-coast-rains-expected-for-three-days-1142924",
+        "https://daijiworld.com/news/newsDisplay?newsID=1335579"
+      ]
+    }
+  ],
+  "not_used": "Sakshi Post (district list) per G1 condition; Alluri/NTR/Palnadu orange upgrade (Sakshi only); very-severe forecast (superseded by IMD 18 Nov 09:30 bulletin). No Akvan school closures or train cancellations found as of ~12:35 IST.",
+  "tags_proposed": [],
+  "tag_evidence": "No tag: NASA Worldview imagery; no brand image owner to tag."
+}

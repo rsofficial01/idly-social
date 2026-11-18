@@ -1,0 +1,56 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1157-akvan-red-alert",
+ "date": "18 Nov 2026",
+ "sources": [
+  "IMD",
+  "Deccan Chronicle",
+  "News24"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Cyclone Akvan: IMD Red Alert for 7 Andhra Districts, 19-20 Nov",
+   "photo": "_work/2026-11-18-hourly-1157/desks/idlynews/frame-akvan/cover_source.png",
+   "photo_credit": "Image: NASA Worldview / MODIS (Terra), 18 Nov 2026",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "7 DISTRICTS",
+   "stat_label": "Cyclone Akvan: IMD Red Alert for 19-20 Nov",
+   "bullets": [
+    "Kakinada, Konaseema, East and West Godavari",
+    "Eluru, Krishna and Bapatla also on red alert",
+    "Akvan is now a severe cyclonic storm, IMD says"
+   ],
+   "credit_line": "Sources: IMD, Deccan Chronicle, News24"
+  },
+  {
+   "type": "detail",
+   "stat": "1.2 METRES",
+   "stat_label": "Cyclone Akvan's Storm Surge Warning for 20 Nov",
+   "bullets": [
+    "IMD: surge of 0.4 to 1.2 m above tide",
+    "Peak in Bapatla, Krishna, West Godavari, Kakinada",
+    "Crossing between Nellore and Visakhapatnam, around noon"
+   ],
+   "credit_line": "Sources: IMD, The Week, The Watchers"
+  },
+  {
+   "type": "detail",
+   "stat": "1070",
+   "stat_label": "Andhra's Toll-Free Helplines for Cyclone Akvan",
+   "bullets": [
+    "Also toll-free: 112 and 1800 425 0101",
+    "State WhatsApp line for cyclone help: 95523 00009",
+    "13 national, 11 state disaster teams on standby"
+   ],
+   "credit_line": "Sources: The Hans India, Daijiworld"
+  }
+ ]
+}
