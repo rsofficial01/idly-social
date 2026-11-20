@@ -1,0 +1,55 @@
+{
+ "acct": "idlynerd",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Sensor Tower",
+  "GameSpot",
+  "TweakTown",
+  "Notebookcheck"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "GTA VI at Launch: 24.6 Million Copies, Sensor Tower Estimates",
+   "photo": "posts/2026-11-20/idlynerd-1700-gta6-day-one/src/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.63,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "$2.36B",
+   "stat_label": "GTA VI's Estimated Revenue, End of Launch Day",
+   "bullets": [
+    "Digital PS5 and Xbox copies, pre-orders included",
+    "18.44 million on PS5, 6.15 million on Xbox",
+    "Take-Two hasn't released official GTA VI figures"
+   ],
+   "credit_line": "Sources: Sensor Tower via GameSpot, TweakTown, Notebookcheck"
+  },
+  {
+   "type": "detail",
+   "stat": "$800M+",
+   "stat_label": "GTA V's First-Day Retail Sales in 2013",
+   "bullets": [
+    "Take-Two's own sell-through count, not a tracker estimate",
+    "GTA VI's estimate is nearly three times that",
+    "GTA V needed three days to pass $1 billion"
+   ],
+   "credit_line": "Sources: Take-Two (2013), Bloomberg, Notebookcheck"
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,999",
+   "stat_label": "GTA VI Standard Edition on PS Store India",
+   "bullets": [
+    "Ultimate Edition: ₹7,499 on PS Store India",
+    "Out now on PS5 and Xbox Series X|S only"
+   ],
+   "credit_line": "Sources: PlayStation India, Business Today"
+  }
+ ]
+}

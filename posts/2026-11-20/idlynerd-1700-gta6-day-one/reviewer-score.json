@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 1,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "Blind reviewer G4, looked at 01-04.jpg at full size, render_report.json (no overflow, no credit collisions, cover scale 0.625) and caption.txt. hook 2: a specific, large number on the cover, attributed (24.6M copies, Sensor Tower), though the stake (nearly 3x GTA V) is only on slide 3. send 1: sixth GTA VI card on @idlynerd in 10 days, a third-party estimate, and the record headlines were everywhere last night; no specific person forwards this today because of what it says. keep 1: the only keepable item is the PS Store India price (Rs 5,999 / Rs 7,499). The PS Store shows it, this page has posted it (15 Nov), and there's no new date, deadline or sale to save. read 2, reply 2 ('Would you pay Rs 5,999 for GTA VI?' anyone answers yes/no), original 2 (idly's GTA V comparison from Take-Two's 2013 figure plus the India price), alone 2 (GTA VI or GTA V named on every slide; estimate, method and pre-orders explained on slide 2). Layout: headline white, one left edge, credit clear of the headline; detail slides aligned at x=72, Sources line inside; no typos. Old-style numerals in the stat font ($8ooM+) are the template's style, not a typo."
+}

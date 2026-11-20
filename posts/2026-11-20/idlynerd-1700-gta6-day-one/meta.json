@@ -1,0 +1,118 @@
+{
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "title": "GTA VI reaches an estimated 24.6 million copies and $2.36 billion by the end of launch day (Sensor Tower)",
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "GTA VI at Launch: 24.6 Million Copies, Sensor Tower Estimates",
+ "tags": [
+  "rockstargames"
+ ],
+ "tag_evidence": "Rockstar Games owns the cover image; its own GTA VI site (https://www.rockstargames.com/VI/media/screenshots, the cover's source page) links to instagram.com/rockstargames (2 links in the page HTML). A company, not a person.",
+ "image": {
+  "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+  "page": "https://www.rockstargames.com/VI/media/screenshots",
+  "licence": "Official Rockstar Games media screenshot (publisher's own GTA VI media page); credited 'Image: Rockstar Games'",
+  "author": "Rockstar Games",
+  "size": [
+   3840,
+   2160
+  ],
+  "subject": "In-game GTA VI screenshot 'Vice_City_11': Vice City bay at sunset with a Ferris wheel, yachts, the city skyline and a helicopter overhead; no people or characters visible, no watermark, no overlay lettering. Not used on any earlier idly cover (used: Vice_City_01/10/15/22/27, Leonida_Keys_01, launch-gallery night skyline).",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 498.4,
+  "framing": {
+   "tool": "pipeline.framing: ok, focal [0.5,0.5], zoom 1.0, faces 0",
+   "card_focal": [
+    0.63,
+    0.5
+   ],
+   "zoom": 1.0,
+   "why": "focal x 0.63 crops out the left-hand towers (a sliver of the Megamundo tower would sit on the edge) and centres the helicopter (y~250-350), skyline (y~650-760) and Ferris wheel; bay and park sit under the headline block"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Sensor Tower estimates about 24.6 million (24.58M) GTA VI copies by the end of launch day, 19 Nov",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://maketecheasier.com/gta-6-first-day-sales-estimate/"
+   ]
+  },
+  {
+   "fact": "About $2.36 billion gross by the end of launch day (Sensor Tower estimate)",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://www.theglobeandmail.com/business/article-take-two-grand-theft-auto-vi-sales/"
+   ]
+  },
+  {
+   "fact": "Digital copies on PS5 and Xbox Series X|S, pre-orders included",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://maketecheasier.com/gta-6-first-day-sales-estimate/"
+   ]
+  },
+  {
+   "fact": "18.44 million on PS5, 6.15 million on Xbox; about three in four (75%) on PS5",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html"
+   ]
+  },
+  {
+   "fact": "Take-Two hasn't released official GTA VI sales figures; Zelnick says it will share them soon",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html"
+   ]
+  },
+  {
+   "fact": "GTA V first-day retail sell-through of more than $800 million worldwide (Take-Two estimate, Sept 2013)",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000110465913070819/a13-20938_1ex99d1.htm",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html"
+   ]
+  },
+  {
+   "fact": "GTA VI's estimate is nearly three times GTA V's first day",
+   "urls": [
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+    "https://maketecheasier.com/gta-6-first-day-sales-estimate/"
+   ]
+  },
+  {
+   "fact": "GTA V passed $1 billion in three days",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000110465913071387/a13-21085_1ex99d1.htm",
+    "https://www.bloomberg.com/news/articles/2013-09-20/take-two-says-grand-theft-auto-sales-top-1-billion-in-3-days",
+    "https://www.engadget.com/2013/09/20/gta-v-1-billion-in-3-days/",
+    "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html"
+   ]
+  },
+  {
+   "fact": "PS Store India: Standard Edition Rs 5,999, Ultimate Edition Rs 7,499",
+   "urls": [
+    "https://www.playstation.com/en-in/games/grand-theft-auto-vi/",
+    "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04",
+    "https://www.mysmartprice.com/gear/gaming/gaming-news/gta-6-pre-orders-go-live-in-india-standard-edition-costs-rs-5999-ultimate-edition-priced-at-rs-7499/"
+   ]
+  },
+  {
+   "fact": "GTA VI launched 19 November on PS5 and Xbox Series X|S only (not PS4)",
+   "urls": [
+    "https://www.playstation.com/en-in/games/grand-theft-auto-vi/",
+    "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04",
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+   ]
+  }
+ ]
+}

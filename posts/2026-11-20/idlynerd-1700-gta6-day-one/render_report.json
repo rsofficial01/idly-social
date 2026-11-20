@@ -1,0 +1,80 @@
+[
+ {
+  "size": 88,
+  "lines": 3,
+  "overflow": false,
+  "top": 986,
+  "credit_line": "Image: Rockstar Games",
+  "slug": "idlynerd-1700-gta6-day-one",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlynerd-1700-gta6-day-one/01.jpg",
+  "scale": 0.625
+ },
+ {
+  "stat": 280,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Sensor Tower via GameSpot, TweakTown, Notebookcheck",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-1700-gta6-day-one",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynerd-1700-gta6-day-one/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 228,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Take-Two (2013), Bloomberg, Notebookcheck",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-1700-gta6-day-one",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynerd-1700-gta6-day-one/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 304,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PlayStation India, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-1700-gta6-day-one",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynerd-1700-gta6-day-one/04.jpg",
+  "scale": null
+ }
+]
