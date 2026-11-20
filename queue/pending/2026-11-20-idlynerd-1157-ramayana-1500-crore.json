@@ -1,0 +1,67 @@
+{
+  "slug": "2026-11-20-idlynerd-1157-ramayana-1500-crore",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "Ramayana crosses ₹1,500 crore worldwide, 5th-highest-grossing Indian film (Sacnilk, Koimoi)",
+  "headline": "Ramayana Crosses ₹1,500 Crore, India's 5th-Highest Grosser Ever",
+  "caption": "Ramayana has crossed ₹1,500 crore at the worldwide box office, trackers Sacnilk and Koimoi estimate, making it the fifth-highest-grossing Indian film ever.\n\nSacnilk counts ₹1,519 crore after 14 days in cinemas, to Wednesday 18 November: ₹1,009 crore gross in India and ₹510 crore overseas. Koimoi's count is also past ₹1,500 crore. The makers have not confirmed a figure.\n\nOnly four Indian films have grossed more worldwide: Dangal (₹2,070 crore), Dhurandhar 2 (over ₹1,800 crore), Baahubali 2 (₹1,788 crore) and Pushpa 2 (over ₹1,700 crore). Nitesh Tiwari's Ramayana, with Ranbir Kapoor as Rama and Yash as Ravana, is over ₹200 crore short of Pushpa 2.\n\nBoth trackers also say Ramayana had Hindi cinema's biggest second week in India, ahead of Dhurandhar 2.\n\nHave you watched Ramayana in a theatre yet?\n\nSources: Sacnilk, Koimoi, Business Today\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd",
+  "alt_text": "An official still from Namit Malhotra's Ramayana, under the headline \"Ramayana Crosses ₹1,500 Crore, India's 5th-Highest Grosser Ever\". The next two slides list the four Indian films that have grossed more worldwide (Dangal, Dhurandhar 2, Baahubali 2, Pushpa 2) and Ramayana's ₹1,009 crore India gross and ₹510 crore overseas after 14 days, as tracker estimates.",
+  "sources": [
+    "Sacnilk",
+    "Koimoi",
+    "Business Today"
+  ],
+  "detail_slides": [
+    {
+      "stat": "NO. 5",
+      "stat_label": "Ramayana's Rank Among Indian Films Worldwide",
+      "bullets": [
+        "Above it: Dangal ₹2,070 cr, Dhurandhar 2 ₹1,800 cr+",
+        "Then Baahubali 2 ₹1,788 cr, Pushpa 2 ₹1,700 cr+",
+        "Ramayana is over ₹200 crore short of Pushpa 2"
+      ],
+      "credit_line": "Sources: Koimoi, Business Today (Sacnilk data)"
+    },
+    {
+      "stat": "₹1,009 CR",
+      "stat_label": "Ramayana's India Gross After 14 Days",
+      "bullets": [
+        "Plus ₹510 crore overseas: ₹1,519 crore worldwide",
+        "Hindi cinema's biggest second week, beating Dhurandhar 2",
+        "Tracker estimates; the makers haven't confirmed figures"
+      ],
+      "credit_line": "Sources: Sacnilk, Business Today, Koimoi"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=iDK6s4-2lm4",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
+      }
+    ]
+  },
+  "tags": [
+    "worldoframayana"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 1,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 12,
+      "notes": "send 1: the ₹1,500 crore crossing was reported on 19 Nov (yesterday's known result); the idly all-time table is the reason to forward. keep 1: no date, price or deadline (no OTT date; Part II date in conflict, left out). original 2: idly's own all-time table across two trackers, disputed figures rounded or attributed. reply 2: yes/no question anyone can answer. hook 2 only if the trailer still renders crisp and free of burned-in lettering at 1.875x (lane-framed)."
+    }
+  },
+  "notes": "idlynerd desk, hourly 1157. G1 BUILD (ceiling 13); G23 FIX applied (second week scoped to Hindi cinema), PASS. Cover: World Of Ramayana trailer iDK6s4-2lm4, fallback lNaSdnz2I8g. Tag @worldoframayana (linked from the allowlisted channel). Main: gap 'over ₹200 crore' (₹218 cr Koimoi / ₹223 cr BT).",
+  "created_at": "2026-11-20T12:19:08+05:30"
+}
