@@ -1,0 +1,80 @@
+[
+ {
+  "size": 94,
+  "lines": 3,
+  "overflow": false,
+  "top": 968,
+  "credit_line": "Image: Airbnb",
+  "slug": "idlyhype-1700-k3g-raichand-house",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlyhype-1700-k3g-raichand-house/01.jpg",
+  "scale": 0.791
+ },
+ {
+  "stat": 132,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Source: Airbnb",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1700-k3g-raichand-house",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlyhype-1700-k3g-raichand-house/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Airbnb, afaqs",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1700-k3g-raichand-house",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlyhype-1700-k3g-raichand-house/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Airbnb, afaqs",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-1700-k3g-raichand-house",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlyhype-1700-k3g-raichand-house/04.jpg",
+  "scale": null
+ }
+]

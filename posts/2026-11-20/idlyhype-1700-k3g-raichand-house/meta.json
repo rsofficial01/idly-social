@@ -1,0 +1,116 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Airbnb's 'At Home with the Raichands': a reimagined K3G Raichand House in Mumbai for the film's 25th year; two-hour experience 1-6 Dec 2026; 180 guests in total (each spot = one guest plus one companion); priced at Rs 0; booking requests open 23 Nov 2026, 12 PM IST at airbnb.com/k3g; needs an active Airbnb profile with a history of positive reviews and a government ID; not a competition; own travel; the film's stars don't appear",
+ "headline": "K3G's Raichand House on Airbnb: ₹0, Requests Open 23 Nov",
+ "tags": [
+  "airbnb"
+ ],
+ "tag_evidence": "Airbnb's own India newsroom page (news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/) links https://www.instagram.com/airbnb 4 times (checked 20 Nov 2026 ~17:20 IST). Image owner = Airbnb (newsroom press photo). Reviewer confirmed the tag at G1-r2.",
+ "image": {
+  "url": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2026/11/newsroom1.jpeg?quality=90&w=2560",
+  "page": "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+  "licence": "Airbnb newsroom press image for this announcement, credited 'Image: Airbnb'",
+  "author": "Airbnb",
+  "size": "1365x2048",
+  "subject": "The rebuilt Raichand House set in Mumbai: gold 'Raichands' sign above a wooden console with red roses in a glass vase and pink headphones; no people",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 133.9,
+  "local": "_work/2026-11-20-hourly-1700/idlyhype/photos/k3g_newsroom1.jpg",
+  "framing": {
+   "tool": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.79,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.3
+    ],
+    "zoom": 1.0
+   },
+   "why": "focal y 0.3 clamps the crop to the top of the frame so the whole 'Raichands' lettering sits at about y 230-470 of 1350 (sign panel ~40-660), clear of the logo (top 170) and above the headline block; roses/table (~y 790-1350) sit under the headline gradient. No upscale (scale 0.79)."
+  },
+  "other_newsroom_images": "6 of Airbnb's 8 newsroom images were refused by dl.py (faces); newsroom4 (Poo's mirror) is face-free but softer (78.7) and unused"
+ },
+ "fact_sources": [
+  {
+   "fact": "Airbnb is reimagining the Raichand House from Kabhi Khushi Kabhie Gham (K3G) in Mumbai for the film's 25th anniversary ('At Home with the Raichands', an Only on Airbnb experience)",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585",
+    "https://www.vogue.in/content/25-years-after-kabhi-khushi-kabhie-gham-the-raichand-house-opens-its-doors"
+   ]
+  },
+  {
+   "fact": "Booking requests open 23 Nov 2026 at 12 PM IST (Airbnb: at airbnb.com/k3g; afaqs: through Airbnb's website)",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585",
+    "https://api.idly.news/api/v1/articles/3125/"
+   ]
+  },
+  {
+   "fact": "Guests welcomed in Mumbai 1-6 December 2026; two-hour experience",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585"
+   ]
+  },
+  {
+   "fact": "Priced at ₹0",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585",
+    "https://api.idly.news/api/v1/articles/3125/"
+   ]
+  },
+  {
+   "fact": "'Each spot covers one guest plus one companion, for 180 guests in total' (Airbnb); afaqs: 180 invitations",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585"
+   ]
+  },
+  {
+   "fact": "Not a competition; must have an active Airbnb profile with a history of positive reviews; government-issued ID required",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://api.idly.news/api/v1/articles/3125/"
+   ]
+  },
+  {
+   "fact": "Guests responsible for their own travel to and from Mumbai",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://api.idly.news/api/v1/articles/3125/"
+   ]
+  },
+  {
+   "fact": "Grand staircase, family study and Poo's closet; immersive audio tour of the film's moments",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585",
+    "https://api.idly.news/api/v1/articles/3125/"
+   ]
+  },
+  {
+   "fact": "The experience does not include the appearance of Karan, Poo or Rohan (the film's stars won't be there in person)",
+   "urls": [
+    "https://news.airbnb.com/en-in/the-raichand-house-now-on-airbnb/",
+    "https://www.afaqs.com/news/mktg/remember-the-raichand-house-from-k3g-airbnb-brings-the-iconic-home-to-life-12822585"
+   ]
+  }
+ ],
+ "notes": "Airbnb also bills Karan, Poo and Rohan as hosts; afaqs notes the same conflict. Slides use only character names as Airbnb does and say 'the film's stars won't be there in person'. 23 Nov 2026 is a Monday. Main (17:5x IST) set idly-article mode: story_id 3125, caption ends fact lines with 'Full story on idly.news (link in bio).'. Note: idly #3125's text says Karan Johar, Hrithik Roshan and Kareena Kapoor 'will host the experience'; Airbnb's page says the experience does not include their appearance (afaqs flags the conflict). The card follows Airbnb.",
+ "caption_note": "Main reverted to no idly article: idly.news #3125 says the stars 'will host'; Airbnb's booking terms say they won't appear. Slide 4 bullet attributed to Airbnb (Airbnb's page intro says 'hosted by Poo, Rohan Raichand and Karan Johar', its terms say no appearance)."
+}

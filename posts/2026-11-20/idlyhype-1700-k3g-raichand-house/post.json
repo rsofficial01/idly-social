@@ -1,0 +1,54 @@
+{
+ "acct": "idlyhype",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Airbnb",
+  "afaqs"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "K3G's Raichand House on Airbnb: ₹0, Requests Open 23 Nov",
+   "photo": "posts/2026-11-20/idlyhype-1700-k3g-raichand-house/src/cover_source.png",
+   "photo_credit": "Image: Airbnb",
+   "focal": [
+    0.5,
+    0.3
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "23 NOV, 12 PM",
+   "stat_label": "Raichand House Booking Requests Open on Airbnb",
+   "bullets": [
+    "Request at airbnb.com/k3g from noon IST",
+    "Needs past positive reviews; new accounts won't qualify",
+    "Government ID needed; Airbnb says it's not a contest"
+   ],
+   "credit_line": "Source: Airbnb"
+  },
+  {
+   "type": "detail",
+   "stat": "180",
+   "stat_label": "Raichand House Guests in Total, 1-6 Dec",
+   "bullets": [
+    "Each spot: one guest plus one companion",
+    "Price ₹0; you pay your own travel to Mumbai",
+    "Each visit lasts two hours"
+   ],
+   "credit_line": "Sources: Airbnb, afaqs"
+  },
+  {
+   "type": "detail",
+   "stat": "25 YEARS",
+   "stat_label": "K3G's Raichand House, Rebuilt in Mumbai",
+   "bullets": [
+    "Grand staircase, family study and Poo's closet",
+    "An audio tour of the film's famous scenes",
+    "Airbnb says the film's stars won't appear"
+   ],
+   "credit_line": "Sources: Airbnb, afaqs"
+  }
+ ]
+}
