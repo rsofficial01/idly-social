@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Sujithshivam511 / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlytech-1700-upi-pin-ruling",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/01.jpg",
+  "scale": 0.675
+ },
+ {
+  "stat": 236,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: MediaNama, Law Trend, The420.in",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1700-upi-pin-ruling",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 100,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: RBI, The Better India, Law Trend, MediaNama",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1700-upi-pin-ruling",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: RBI, MediaNama, CorpLawUpdates",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1700-upi-pin-ruling",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/04.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,49 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1700-upi-pin-ruling",
+ "date": "20 Nov 2026",
+ "sources": ["MediaNama", "Law Trend", "The420.in", "RBI"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Consumer Panel: UPI PIN Alone Isn't Proof, SBI Owes ₹85,000",
+   "photo": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/src/cover_source.png",
+   "photo_credit": "Photo: Sujithshivam511 / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [0.4167, 0.5274],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "₹85,000",
+   "stat_label": "SBI Must Pay for Unauthorised ₹55,000 UPI Debit",
+   "bullets": [
+    "₹55,000 refund, ₹20,000 compensation, ₹10,000 costs",
+    "Telangana State Consumer Commission's order, 10 November",
+    "SBI showed no proof the customer okayed it"
+   ],
+   "credit_line": "Sources: MediaNama, Law Trend, The420.in"
+  },
+  {
+   "type": "detail",
+   "stat": "3 WORKING DAYS",
+   "stat_label": "Tell Your Bank About UPI Fraud Within This",
+   "bullets": [
+    "If it's not your fault, you bear no loss",
+    "Days 4-7: your loss capped at ₹5,000-₹25,000 per transaction",
+    "The SBI customer told her branch on day 3"
+   ],
+   "credit_line": "Sources: RBI, The Better India, Law Trend, MediaNama"
+  },
+  {
+   "type": "detail",
+   "stat": "1 JAN 2027",
+   "stat_label": "RBI's New Window: 5 Calendar Days to Report",
+   "bullets": [
+    "Tell your bank and 1930 or cybercrime.gov.in",
+    "Bank must prove the fraud was your fault",
+    "Slip-up losses to ₹50,000: 85% back once, max ₹25,000"
+   ],
+   "credit_line": "Sources: RBI, MediaNama, CorpLawUpdates"
+  }
+ ]
+}

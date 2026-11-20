@@ -1,0 +1,137 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "title": "Telangana State Consumer Commission (order 10 Nov 2026): a UPI PIN alone doesn't prove a customer authorised a payment; SBI to pay ₹85,000 (₹55,000 refund + ₹20,000 compensation + ₹10,000 costs); with RBI's current 3-working-day zero-liability rule and its new 5-calendar-day rules from 1 Jan 2027",
+ "format": "news carousel (consumer ruling + what RBI's rules give fraud victims now and from 1 Jan 2027), cover + 3 detail slides",
+ "headline": "Consumer Panel: UPI PIN Alone Isn't Proof, SBI Owes ₹85,000",
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual (Sujithshivam511, CC BY-SA 4.0), not SBI's own image.",
+ "image": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/SBI%2C_Vadakkankulam_branch%2C_Radhapuram_Road.jpg/1920px-SBI%2C_Vadakkankulam_branch%2C_Radhapuram_Road.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SBI,_Vadakkankulam_branch,_Radhapuram_Road.jpg",
+  "licence": "CC BY-SA 4.0 (own work)",
+  "author": "Sujithshivam511",
+  "size": "1920x3413 (Commons 1920px rendition of the 2304x4096 original)",
+  "subject": "SBI branch on Radhapuram Road, Vadakkankulam (Tirunelveli district, Tamil Nadu), photographed 8 May 2026: blue SBI signboard (logo, 'SBI', State Bank of India in Tamil, Hindi, English), shuttered entrance under an SBI festive-offer arch; no people",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 920.6,
+  "framing": {
+   "tool": "python3 -m pipeline.framing -> ok, focal 0.5/0.5, zoom 1.0, upscale 0.56, faces 0",
+   "used": {
+    "photo": "posts/2026-11-20/idlytech-1700-upi-pin-ruling/src/cover_source.png",
+    "focal": [
+     0.4167,
+     0.5274
+    ],
+    "zoom": 1.2
+   },
+   "crop": "(0, 800, 1600, 2000) of 1920x3413, scale 0.675 (downscale)",
+   "note": "G4 re-frame: zoom 1.2, focal [0.4167, 0.5274] (crop x 0-1600, y 800-2800). Signboard at y≈170-446 of 1350, clear of the logo; the arch ('Joys of festivity / Blessings of prosperity') at y≈745-790 and both 'Celebrations Unlimited' badges (bottom y≈945) sit above the headline (top 950, cap top ≈972); behind the headline only the side banners' small loan-icon circles (text ≈8 px) and the shutter. Crop ends at source x 1600 / y 2800, so the parked motorbike's plate (x≈1642-1710) and the front bike's plate (y≈3112+) are out. First framing (zoom 1.0, focal y 0.4189) was FIXed at G4: the arch's 'Blessings of prosperity' touched headline line 1 and badge lettering showed between lines.",
+   "alternatives_rejected": "SBI local head office, Hyderabad (Commons, Adbh266): signboard half-hidden by branches, a scooter rider beside the gate; SBI Kothavalasa (Commons): people at the entrance under the headline, car plates; SBI Mumbai main branch, Chandni Chowk, Nagpur: dl.py refused (faces)",
+   "render": "render_report: cover scale 0.675, headline 100px x 3 lines, top 950"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Telangana State Consumer Disputes Redressal Commission (President Mamidi Christopher; members S Sandhya Rani, K Venkateshwarlu) passed the order on 10 Nov 2026",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "₹55,000 debited from a 44-year-old woman's SBI account by UPI on 3 Nov 2022; she says she never made or authorised it",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "SBI argued UPI PIN + mobile/SIM-binding authentication meant she authorised it or exposed credentials, and that she reported late",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "Commission: use of a UPI PIN does not by itself/automatically establish authorisation or negligence; bank must show it; no evidence she made the transaction or shared credentials",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "Complaint on cybercrime portal 6 Nov 2022, written complaint at branch 7 Nov 2022; Sunday excluded, so within three working days",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "SBI to pay ₹55,000 refund + ₹20,000 compensation + ₹10,000 costs = ₹85,000",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+    "https://lawtrend.in/?p=375012",
+    "https://the420.in/?p=143578"
+   ]
+  },
+  {
+   "fact": "RBI 2017 rule (RBI/2017-18/15, 6 Jul 2017): third-party breach notified within 3 working days = zero liability; bank's own fault = zero liability regardless; 4-7 working days = liability capped per transaction at ₹5,000/₹10,000/₹25,000 by account type; burden of proof on the bank",
+   "urls": [
+    "https://rbi.org.in/scripts/NotificationUser.aspx?Id=11040",
+    "https://www.thebetterindia.com/107700/rbi-rules-online-transactions-safer/amp/"
+   ]
+  },
+  {
+   "fact": "RBI directions RBI/2026-27/167 issued 24 Jun 2026 apply to electronic banking transactions on or after 1 Jan 2027",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+    "https://www.medianama.com/2026/06/223-rbi-final-amendment-directions-limiting-customer-liability-digital-transactions-effect-2027/",
+    "https://www.corplawupdates.in/updates/rbi-fraudulent-ebt-customer-protection-compensation-directions",
+    "https://thebarbulletin.com/rbi-2026-directions-customer-liability-bank-fraud/"
+   ]
+  },
+  {
+   "fact": "2027 rules: zero liability for third-party breach reported to the bank within 5 calendar days",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+    "https://www.medianama.com/2026/06/223-rbi-final-amendment-directions-limiting-customer-liability-digital-transactions-effect-2027/",
+    "https://www.corplawupdates.in/updates/rbi-fraudulent-ebt-customer-protection-compensation-directions",
+    "https://thebarbulletin.com/rbi-2026-directions-customer-liability-bank-fraud/"
+   ]
+  },
+  {
+   "fact": "2027 rules: customers asked to report to the bank and to NCRP (cybercrime.gov.in) or 1930",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+    "https://www.medianama.com/2026/06/223-rbi-final-amendment-directions-limiting-customer-liability-digital-transactions-effect-2027/",
+    "https://www.corplawupdates.in/updates/rbi-fraudulent-ebt-customer-protection-compensation-directions"
+   ]
+  },
+  {
+   "fact": "2027 rules: burden of proving customer liability lies on the bank",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+    "https://thebarbulletin.com/rbi-2026-directions-customer-liability-bank-fraud/"
+   ]
+  },
+  {
+   "fact": "2027 rules: one-time (once in a lifetime) compensation of 85% of net loss or ₹25,000, whichever is less, for gross losses up to ₹50,000, including customer-negligence cases, if reported to the bank and NCRP/1930 within 5 calendar days; frauds up to one year after 1 Jan 2027",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+    "https://www.medianama.com/2026/06/223-rbi-final-amendment-directions-limiting-customer-liability-digital-transactions-effect-2027/",
+    "https://www.corplawupdates.in/updates/rbi-fraudulent-ebt-customer-protection-compensation-directions",
+    "https://thebarbulletin.com/rbi-2026-directions-customer-liability-bank-fraud/"
+   ]
+  }
+ ],
+ "not_used": "RBI 2027 text defines covered transactions as 'electronic funds transfer' under the PSS Act and doesn't name UPI, so the RBI 2027 slide doesn't say 'UPI'. SBI appeal status unknown, so the order isn't called final. The ₹10,000 savings-account cap is RBI-only, so the slide uses the ₹5,000-₹25,000 range (RBI + The Better India).",
+ "baseline": "no baseline (not a Tamil Nadu politics/government/courts story; checkcopy's TN baseline warning is a number-pattern false positive; the cover photo merely shows an SBI branch in Tamil Nadu)"
+}

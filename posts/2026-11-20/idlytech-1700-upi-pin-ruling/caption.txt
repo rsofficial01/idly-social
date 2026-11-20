@@ -1,0 +1,13 @@
+A Telangana consumer commission has ruled that a UPI PIN alone doesn't prove a customer authorised a payment, and has ordered SBI to pay ₹85,000 to a woman who lost ₹55,000 from her account, MediaNama and Law Trend report.
+
+The ₹55,000 left her SBI account by UPI on 3 November 2022. She says she never made or authorised the payment. SBI argued that it went through with her UPI PIN and SIM-binding checks, so she must have approved it or been careless, and that she reported it late. In its 10 November order, the Telangana State Consumer Disputes Redressal Commission said that using a UPI PIN doesn't by itself show the account holder authorised a payment or was negligent, and it found no evidence of either. Leaving out a Sunday, it counted her written complaint at her branch on 7 November 2022 as coming on the third working day, in time. SBI must refund the ₹55,000 and pay ₹20,000 in compensation and ₹10,000 in costs.
+
+Three working days is the window in RBI's current rule. If a fraud isn't your fault and you tell your bank within three working days, you bear no loss. For transactions from 1 January 2027, RBI's new rules allow five calendar days. For frauds in the first year, they also add a once-in-a-lifetime payout of 85% of the loss, up to ₹25,000, on losses of up to ₹50,000, even where the customer slipped up, if the fraud is reported to the bank and to 1930 or cybercrime.gov.in within five days.
+
+Has a UPI scam ever hit someone in your family?
+
+Sources: MediaNama, Law Trend, The420.in, RBI, The Better India, CorpLawUpdates
+
+#UPI #UPIFraud #SBI #CyberFraud #idlytech
+
+Photo: Sujithshivam511 / Wikimedia Commons, CC BY-SA 4.0
