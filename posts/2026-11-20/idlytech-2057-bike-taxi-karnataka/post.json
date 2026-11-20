@@ -1,0 +1,46 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2057-bike-taxi-karnataka",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Bar and Bench",
+  "LiveLaw",
+  "Moneycontrol",
+  "Inc42"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Supreme Court: Bike Taxis Can Keep Running in Karnataka",
+   "photo": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlytech/frame1/cover_source.png",
+   "photo_credit": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.3,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "20 NOV",
+   "stat_label": "Supreme Court Rejects Karnataka's Bike Taxi Appeal",
+   "bullets": [
+    "Rapido, Uber, Ola's 23 Jan High Court win stands",
+    "Owners apply to regional transport authorities for permits",
+    "Permits can't be refused just because it's a bike"
+   ],
+   "credit_line": "Sources: Bar and Bench, LiveLaw, Moneycontrol"
+  },
+  {
+   "type": "detail",
+   "stat": "25 STATES",
+   "stat_label": "Justice Sharma: Bike Taxis Run in 25 States",
+   "bullets": [
+    "'Better to regulate it than ban it,' he said",
+    "His women staff said autos cost five times more",
+    "Karnataka had cited passenger safety and insurance risks"
+   ],
+   "credit_line": "Sources: LiveLaw, Moneycontrol, Bar and Bench"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "title": "Supreme Court (20 Nov 2026, Justices Satish Chandra Sharma and N Kotiswar Singh) dismisses Karnataka's SLP against the Karnataka HC division bench ruling of 23 Jan 2026 that lifted the bike-taxi ban; auto/taxi unions' appeals also dismissed; bike taxis (Rapido, Uber, Ola) continue in Karnataka",
+ "format": "news carousel (cover + 2 detail slides)",
+ "headline": "Supreme Court: Bike Taxis Can Keep Running in Karnataka",
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual (Subhashish Panigrahi, CC BY-SA 4.0), not a brand's own image.",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Supreme_Court_of_India.jpg/1920px-Supreme_Court_of_India.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Subhashish Panigrahi",
+  "size": "1920x1280 (Commons 1920px rendition of the 2959x1973 original, taken 11 Dec 2019)",
+  "subject": "Central Wing of the Supreme Court of India, New Delhi (dome, drum, flag); no people",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 943.2,
+  "framing": "python3 -m pipeline.framing -> ok, focal 0.5/0.5, zoom 1.0, upscale 1.05, faces 0; used focal [0.30, 0.5], zoom 1.0 (G3 FIX: moves the cupola and antenna right of the logo; dome and window drum whole above the headline block; right eave tip/pavilion meet the frame edge under the credit). Full-res original (2959x1973) refused by upload.wikimedia.org (HTTP 429), so the 1920px rendition is used (1.05x upscale)."
+ },
+ "fact_sources": [
+  {
+   "fact": "SC on 20 Nov 2026 dismissed Karnataka govt's SLP against the Karnataka HC division bench judgment of 23 Jan 2026; bench Justices Satish Chandra Sharma and N Kotiswar Singh",
+   "urls": [
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban",
+    "https://www.livelaw.in/top-stories/supreme-court-dismisses-karnataka-govt-plea-to-restore-ban-on-bike-taxis-in-karnataka-559292",
+    "https://www.moneycontrol.com/news/business/startup/supreme-court-says-bike-taxis-should-be-regulated-not-banned-dismisses-karnataka-s-plea-14085639.html",
+    "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+   ]
+  },
+  {
+   "fact": "Five auto and taxi driver associations' appeals also dismissed; ruling permits the continuation of bike taxi services in the state",
+   "urls": [
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban"
+   ]
+  },
+  {
+   "fact": "Bike taxis are running in Karnataka now (resumed after the 23 Jan 2026 HC ruling)",
+   "urls": [
+    "https://www.deccanherald.com/india/karnataka/bengaluru/high-court-lifts-bike-taxi-ban-leading-to-faster-bookings-and-lower-fares-for-commuters-3879444",
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban"
+   ]
+  },
+  {
+   "fact": "HC 23 Jan 2026 allowed appeals by Ola, Uber, Rapido (and others); motorcycles can be registered as transport vehicles and operated as contract carriages; state may impose conditions but can't refuse permits merely because the vehicle is a motorcycle",
+   "urls": [
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban",
+    "https://www.moneycontrol.com/news/business/startup/supreme-court-says-bike-taxis-should-be-regulated-not-banned-dismisses-karnataka-s-plea-14085639.html",
+    "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+   ]
+  },
+  {
+   "fact": "Justice Sharma: 'It is better to regulate it than ban it'; 'Bike taxi is already there in 25 states'",
+   "urls": [
+    "https://www.moneycontrol.com/news/business/startup/supreme-court-says-bike-taxis-should-be-regulated-not-banned-dismisses-karnataka-s-plea-14085639.html",
+    "https://www.livelaw.in/top-stories/supreme-court-dismisses-karnataka-govt-plea-to-restore-ban-on-bike-taxis-in-karnataka-559292"
+   ]
+  },
+  {
+   "fact": "Justice Sharma recounted young women in his office who use bike taxis because autos cost 'five times'",
+   "urls": [
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban",
+    "https://www.moneycontrol.com/news/business/startup/supreme-court-says-bike-taxis-should-be-regulated-not-banned-dismisses-karnataka-s-plea-14085639.html",
+    "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+   ]
+  },
+  {
+   "fact": "Karnataka raised concerns over passenger safety, insurance coverage and lack of safeguards",
+   "urls": [
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban",
+    "https://inc42.com/buzz/karnataka-flags-safety-insurance-concerns-over-bike-taxis-in-sc/"
+   ]
+  },
+  {
+   "fact": "Regional transport authorities decide contract-carriage permits (MV Act 1988 s.74(1): an RTA may grant a contract carriage permit on an application under s.73) and may attach conditions (s.74(2)); per the HC order upheld today, RTAs may impose conditions under s.74(2) and must consider bike-taxi applications",
+   "urls": [
+    "https://www.moneycontrol.com/news/business/startup/supreme-court-says-bike-taxis-should-be-regulated-not-banned-dismisses-karnataka-s-plea-14085639.html",
+    "https://morth.gov.in/sites/default/files/MV-Act-1988-Chapter-5.pdf",
+    "https://www.advocatekhoj.com/library/bareacts/motor/74.php",
+    "https://www.barandbench.com/news/supreme-court-allows-bike-taxis-in-karnataka-rejects-states-appeal-to-restore-ban"
+   ]
+  }
+ ],
+ "not_used": "Justice Sharma's 'safer for young girls as it has GPS' remark (left out per G1). Gadkari's '10 crore jobs' remark (not part of the ruling). Uber/Rapido reactions (company statements)."
+}

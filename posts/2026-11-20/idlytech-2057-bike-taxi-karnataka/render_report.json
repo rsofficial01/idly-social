@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlytech-2057-bike-taxi-karnataka",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlytech-2057-bike-taxi-karnataka/01.jpg",
+  "scale": 1.055
+ },
+ {
+  "stat": 244,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar and Bench, LiveLaw, Moneycontrol",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-bike-taxi-karnataka",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-2057-bike-taxi-karnataka/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 188,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: LiveLaw, Moneycontrol, Bar and Bench",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-bike-taxi-karnataka",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-2057-bike-taxi-karnataka/03.jpg",
+  "scale": null
+ }
+]
