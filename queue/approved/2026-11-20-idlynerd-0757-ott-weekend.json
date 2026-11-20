@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-20-idlynerd-0757-ott-weekend",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 2,
+    "keep": 2,
+    "reply": 2,
+    "original": 2,
+    "alone": 2,
+    "total": 14,
+    "notes": "No weak check, judged on the card. Hook: the count plus Dhindora 2, Steps and Percy Jackson on the cover (the G1 condition is met). Read: five slides, one title each, a distinct stat each (Rs11 crore, 20 Nov x2, 11 Dec, 7 weeks), no filler. Send: weekend viewing planned on release day (Friday). Keep: platform, date and language on every slide, and Percy Jackson's Friday schedule to the 11 Dec finale. Reply: 'Which OTT app does your family pay for?' takes a one-word answer from almost anyone. Original: idly's India list across 5 platforms. Alone: every slide names its title and platform. All G23 fixes are applied (number/date stats, no single-source 9/8, Comic Basics replaced by Disney+). Cover: full-bleed, 2.0x (the cap); at 1:1 it is slightly smooth but clean, not pixelated, so it passes. Notes: the Fairy Godmother's head is cut by the top edge in Netflix's own still (the main character is whole, face at y 280-504, clear of the logo and of the headline at y 950); the wand and arm sit behind the logo, but the logo is legible; slide 4's label breaks 'Season / 3' (cosmetic).",
+    "verdict": "PASS",
+    "packet": "queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/"
+  },
+  "reviewed_at": "2026-11-20T02:59:47+00:00",
+  "reviewed_by": "claude reviewer (blind)",
+  "notes": "",
+  "story": false
+}
