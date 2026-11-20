@@ -1,0 +1,76 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "20 Nov 2026",
+ "sources": [
+  "IMD",
+  "PTI",
+  "ANI",
+  "The Hindu",
+  "Hindustan Times",
+  "OdishaTV",
+  "Odisha Bytes",
+  "Times of India",
+  "DT Next",
+  "India Today",
+  "Scroll",
+  "Cricbuzz"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Weakened Cyclone Akvan Crossing Odisha Coast; Nearly 3 Lakh Evacuated",
+   "photo": "_work/2026-11-20-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: NASA Worldview / MODIS (Terra), 19 Nov 2026",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "2 MONTHS",
+   "stat_label": "EPFO Cuts Wait for Final Provident Fund Withdrawal",
+   "bullets": [
+    "Down from 12 months after leaving a job",
+    "Retirees can take savings monthly, quarterly or half-yearly",
+    "Board-approved; applies once Labour Ministry notifies it"
+   ],
+   "credit_line": "Sources: Hindustan Times, Times of India, DT Next"
+  },
+  {
+   "type": "detail",
+   "stat": "1 JAN 2027",
+   "stat_label": "Indians Will Need a Visa to Enter Malaysia",
+   "bullets": [
+    "MyVISA online applications open 1 December",
+    "30-day visa-free entry ends 31 December 2026",
+    "Malaysia's Immigration Department announced the change"
+   ],
+   "credit_line": "Sources: Times of India, India Today, DT Next"
+  },
+  {
+   "type": "detail",
+   "stat": "25 YEARS",
+   "stat_label": "Madhya Pradesh Ends Two-Child Job Rule After 25 Years",
+   "bullets": [
+    "A third child no longer bars staff or applicants",
+    "Cabinet decided 18 Nov, citing falling birth rates",
+    "Past dismissals under the rule won't be reopened"
+   ],
+   "credit_line": "Sources: The Hindu, Scroll"
+  },
+  {
+   "type": "detail",
+   "stat": "368",
+   "stat_label": "New Zealand All Out vs India in First Test",
+   "bullets": [
+    "Henry Nicholls 175 not out, Glenn Phillips 118",
+    "Jasprit Bumrah 4 wickets, Akash Deep 3",
+    "New Zealand recovered from 70 for 5 in Wellington"
+   ],
+   "credit_line": "Sources: The Hindu, Hindustan Times, Cricbuzz"
+  }
+ ]
+}

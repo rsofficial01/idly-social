@@ -1,0 +1,128 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Fri 20 Nov 2026: Cyclone Akvan, weakened to a cyclonic storm (IMD National Bulletin 37, 07:30 IST), crossing the north Andhra-south Odisha coast near Gopalpur this forenoon at 70-80 kmph gusting 90, landfall due complete by ~11 am; Odisha moved nearly 3 lakh people; ECoR ~45 trains cancelled Thu-Sat, SER at least 28 on Fri (lead); EPFO board (CBT, 19 Nov) approves monthly/quarterly/half-yearly PF payouts for retirees, final-withdrawal wait 12 to 2 months, minimum balance 25% to 10%, effective on Labour Ministry notification; Malaysia: Indians need a visa from 1 Jan 2027, MyVISA applications from 1 Dec 2026 (Immigration Department notice 17 Nov); Madhya Pradesh Cabinet (18 Nov) scraps 25-year-old two-child rule for government jobs; NZ 368 all out v India, 1st Test Wellington Day 2 (Nicholls 175*, Phillips 118, Bumrah 4 wkts).",
+ "headline": "Weakened Cyclone Akvan Crossing Odisha Coast; Nearly 3 Lakh Evacuated",
+ "image": {
+  "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-11-19&BBOX=11.4,79.9,21.4,87.9&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/jpeg&WIDTH=1920&HEIGHT=2400",
+  "page": "https://worldview.earthdata.nasa.gov/?v=79.9,11.4,87.9,21.4&l=MODIS_Terra_CorrectedReflectance_TrueColor&t=2026-11-19",
+  "licence": "Public domain (NASA EOSDIS GIBS / Worldview imagery, US government work)",
+  "author": "NASA Worldview / EOSDIS GIBS, MODIS on the Terra satellite, morning pass of 19 Nov 2026",
+  "size": [
+   1920,
+   2400
+  ],
+  "subject": "Cyclone Akvan's spiral cloud mass over the west-central Bay of Bengal pressing on the north Andhra Pradesh / south Odisha coast, 19 Nov 2026 (Terra morning pass); bbox 11.4-21.4N, 79.9-87.9E. New still: earlier Akvan covers used 16 Nov Terra, 18 Nov Terra and 18 Nov Aqua passes. Shows Akvan the day before landfall, not the landfall itself.",
+  "local": "_work/2026-11-20-hourly-0757/desks/idlynews/akvan-19nov-terra-c.jpg",
+  "framing": {
+   "photo": "_work/2026-11-20-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 0.56,
+   "faces": 0
+  },
+  "faces": 0,
+  "viewed": true
+ },
+ "fact_sources": [
+  {
+   "fact": "Akvan weakened from a severe cyclonic storm to a cyclonic storm; IMD National Bulletin No. 37 (issued 07:30 IST 20 Nov, position at 05:30 IST): crossing north Andhra Pradesh-south Odisha coasts close to Gopalpur by forenoon 20 Nov, 70-80 kmph gusting to 90; forecast deep depression by 17:30 IST",
+   "urls": [
+    "https://mausam.imd.gov.in/Forecast/marquee_data/37.%20National%20Bulletin%20No%2037-20Nov2026_0530IST.pdf",
+    "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html",
+    "https://odishabytes.com/weakened-cyclone-akvan-nears-gopalpur-landfall-90-kmph-gusts-expected/",
+    "https://www.republicworld.com/india/cyclone-akvan-weakens-into-cyclonic-storm-likely-to-cross-andhra-odisha-coast-by-friday-forenoon-imd-2026-11-20-141415"
+   ]
+  },
+  {
+   "fact": "Landfall process has begun near Gopalpur (IMD); IMD Bhubaneswar expects it complete between 10 and 11 am (OdishaTV); HT: process to continue for next three hours (07:47 IST update)",
+   "urls": [
+    "https://odishatv.in/odisha/cyclone-akvan-landfall-process-begins-near-gopalpur-to-be-completed-by-11-am-12824952",
+    "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html",
+    "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+   ]
+  },
+  {
+   "fact": "Akvan expected to weaken rapidly after landfall (IMD forecast table; IMD DG Mohapatra)",
+   "urls": [
+    "https://mausam.imd.gov.in/Forecast/marquee_data/37.%20National%20Bulletin%20No%2037-20Nov2026_0530IST.pdf",
+    "https://odishabytes.com/weakened-cyclone-akvan-nears-gopalpur-landfall-90-kmph-gusts-expected/"
+   ]
+  },
+  {
+   "fact": "Odisha moved nearly 3 lakh people: 2,98,676 to 2,523 relief camps by Thursday evening (SRC Rajesh P Patil, PTI); 'over 3 lakh' evacuated (ANI)",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html",
+    "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+   ]
+  },
+  {
+   "fact": "East Coast Railway has cancelled about 45 trains over Thu-Sat (CPRO Deepak Rout, HT); 'about 39-45 trains between 19 and 21 Nov' (Odisha Bytes); earlier ECoR figure 41 cancelled, 29 rescheduled (The Hindu, HT)",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html",
+    "https://odishabytes.com/weakened-cyclone-akvan-nears-gopalpur-landfall-90-kmph-gusts-expected/",
+    "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+   ]
+  },
+  {
+   "fact": "South Eastern Railway cancelled at least 28 express trains on Friday, mostly to or through Puri",
+   "urls": [
+    "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+    "https://www.hindustantimes.com/india-news/cyclone-akvan-tracker-live-updates-landfall-imd-red-alert-heavy-rainfall-odisha-ganjam-gajapati-puri-jagatsinghp-101795135589664.html"
+   ]
+  },
+  {
+   "fact": "EPFO's Central Board of Trustees (240th meeting, Thu 19 Nov, chaired by Labour Minister Mandaviya) approved a voluntary Systematic Withdrawal Plan: monthly, quarterly or half-yearly PF instalments for retiring members, remainder keeps earning; ~6.32 lakh members over 55 with more than Rs 5 lakh are the initial primary beneficiaries",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/epfo-approves-periodic-pf-payouts-for-retirees-eases-withdrawal-norms-101795138227494.html",
+    "https://timesofindia.indiatimes.com/business/india-business/epfo-approves-systematic-withdrawal-plan-retirees-can-now-withdraw-pf-savings-in-regular-instalments/articleshow/135983737.cms",
+    "https://www.dtnext.in/news/business/epfo-approves-systematic-withdrawal-plan-for-retirement-savings"
+   ]
+  },
+  {
+   "fact": "Board cut the waiting period for (final) withdrawal from 12 months to two months and the minimum balance from 25% to 10% of contributions",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/epfo-approves-periodic-pf-payouts-for-retirees-eases-withdrawal-norms-101795138227494.html",
+    "https://timesofindia.indiatimes.com/business/india-business/epfo-approves-systematic-withdrawal-plan-retirees-can-now-withdraw-pf-savings-in-regular-instalments/articleshow/135983737.cms"
+   ]
+  },
+  {
+   "fact": "Not yet in force: TOI says the EPF Scheme amendments will be notified after the ministry's approval; the Labour Ministry release (DT Next) calls it the 'proposed SWP framework'; HT says the board 'approved' it",
+   "urls": [
+    "https://timesofindia.indiatimes.com/business/india-business/epfo-approves-systematic-withdrawal-plan-retirees-can-now-withdraw-pf-savings-in-regular-instalments/articleshow/135983737.cms",
+    "https://www.dtnext.in/news/business/epfo-approves-systematic-withdrawal-plan-for-retirement-savings"
+   ]
+  },
+  {
+   "fact": "Malaysia's Immigration Department (JIM) notice of 17 Nov: visa exemption for Indians ends; from 1 Jan 2027 Indians need a valid visa before arrival; MyVISA applications from 1 Dec 2026; fees non-refundable; 30-day visa-free entry since Dec 2023; Malaysian High Commission told TOI the period 'tentatively' ends 31 Dec 2026",
+   "urls": [
+    "https://timesofindia.indiatimes.com/india/malaysia-to-not-remain-visa-free-for-indian-visitors-from-jan-1-2027/articleshow/135979679.cms",
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://www.dtnext.in/news/world/malaysia-to-end-visa-free-entry-for-indians-from-january-1-2027-why-is-the-rule-changing-all-you-need-to-know"
+   ]
+  },
+  {
+   "fact": "Madhya Pradesh Cabinet (special meeting, Gandhi Sagar, Wed 18 Nov) scrapped the 25-year-old (2001, Congress government) two-child rule: more than two children barred state government jobs; serving employees faced action/dismissal over a third child; government cites falling birth/fertility rates; employees already dismissed won't have cases reopened",
+   "urls": [
+    "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-scraps-two-child-policy-for-govt-employees-after-25-years/article71722904.ece",
+    "https://scroll.in/latest/1097181/madhya-pradesh-scraps-25-year-two-child-norm-for-government-jobs"
+   ]
+  },
+  {
+   "fact": "India v New Zealand, 1st Test, Wellington, Day 2 (20 Nov): NZ all out 368 in 121 overs; Henry Nicholls 175 not out; Glenn Phillips 118; Bumrah 4 wickets, Akash Deep 3; NZ were 70/5 on Day 1; India began their reply",
+   "urls": [
+    "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-opening-test-match-day-2-updates/article71722879.ece",
+    "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-2-ind-vs-nz-latest-updates-scorecard-wellington-november-20-101795104715100.html",
+    "https://www.cricbuzz.com/live-cricket-scorecard/161285/nz-vs-ind-1st-test-india-tour-of-new-zealand-2026",
+    "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-live-cricket-score-ind-vs-nz-2nd-test-match-today-10970497/"
+   ]
+  }
+ ],
+ "tags": [],
+ "tag_evidence": "No tag: the cover is NASA public-domain satellite imagery, not a brand's or studio's own image."
+}

@@ -1,0 +1,102 @@
+[
+ {
+  "size": 82,
+  "lines": 3,
+  "overflow": false,
+  "top": 1004,
+  "credit_line": "Image: NASA Worldview / MODIS (Terra), 19 Nov 2026",
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlynews-0757-morning-brief/01.jpg",
+  "scale": 0.562
+ },
+ {
+  "stat": 168,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hindustan Times, Times of India, DT Next",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-0757-morning-brief/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Times of India, India Today, DT Next",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-0757-morning-brief/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Hindu, Scroll",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-0757-morning-brief/04.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Hindu, Hindustan Times, Cricbuzz",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 5,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-0757-morning-brief/05.jpg",
+  "scale": null
+ }
+]
