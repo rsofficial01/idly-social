@@ -1,0 +1,84 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Nike Moon Shoe OG on sale in India: Black/Sail (IX3952-001) ₹8,995 at Superkicks and VegNonVeg; Superkicks 3 colourways all ₹8,995; VegNonVeg lists 12 colourways, 3 at ₹10,995; Nike US $105. The 1972 original: designed by Bill Bowerman for runners at the 1972 Olympic Trials, about 12 pairs made; the only known unworn pair sold at Sotheby's for $437,500 on 23 July 2019, a sneaker auction record at the time; waffle sole idea from his wife's waffle iron.",
+ "headline": "Nike Moon Shoe: $437,500 Original, ₹8,995 Retro",
+ "tags": [
+  "nike"
+ ],
+ "tag_evidence": "https://www.nike.com/ (Nike's own home page, Organization schema: \"name\":\"Nike\",\"sameAs\":[... \"https://www.instagram.com/nike/\"]), checked 20 Nov 2026 ~21:35 IST",
+ "image": {
+  "url": "https://static.nike.com/a/images/f_jpg,q_100,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/20e75a29-4966-4a06-ac0e-07431697ba27/NIKE+MOON+SHOE+OG.png",
+  "page": "https://www.nike.com/t/moon-shoe-og-mens-shoes-QjBip6mn/IX3952-001",
+  "licence": "Brand's own product image from Nike's official product page (gallery image 1 of 8 for IX3952-001), credited Image: Nike",
+  "author": "Nike",
+  "size": "2880x3600",
+  "subject": "Nike Moon Shoe OG Black/Sail (IX3952-001, Black/Black/Safety Orange/Sail) pair, rear view showing heel tabs, white Swooshes and waffle soles, Nike studio shot on grey",
+  "faces": 0,
+  "viewed": true,
+  "local": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlyhype/moon_1_hq.jpg",
+  "framing": {
+   "output": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlyhype/frame_moon1hq/cover_source.png",
+   "framing_tool": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.38,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.8
+    ],
+    "zoom": 1.55,
+    "render_scale": 0.581
+   },
+   "subject_px": "pair at y 303-778, x 44-1028 of 1080x1350; headline top ~965; logo clear",
+   "replaced": "G4 v1 cover (moon_6.jpg, three-quarter pair, 1728x2160) held by main: top ~45% plain grey and visible banding"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Moon Shoe OG Black/Sail-Black-Safety Orange IX3952-001 ₹8,995 at Superkicks; Superkicks also Anthracite/Black-Anthracite IX3952-002 and Sail/Black-Sail IW0955-101, all ₹8,995",
+   "urls": [
+    "https://www.superkicks.in/products/nike-moon-shoe-og-black-sail-black-safety-orange",
+    "https://www.superkicks.in/products/nike-moon-shoe-og-anthracite-black-anthracite",
+    "https://www.superkicks.in/products/nike-moon-shoe-og-sail-black-sail-1"
+   ]
+  },
+  {
+   "fact": "VegNonVeg: Moon Shoe OG Black/Sail IX3952-001 ₹8,995 MRP incl. taxes (imported by Nike India Pvt Ltd); search lists 12 Moon Shoe colourways, 9 at ₹8,995 and 3 at ₹10,995",
+   "urls": [
+    "https://www.vegnonveg.com/products/nike-moon-shoe-og-blacksail",
+    "https://www.vegnonveg.com/search?q=moon+shoe"
+   ]
+  },
+  {
+   "fact": "Nike US price $105 for the Moon Shoe OG (Nike US page for IX3952-001 shows currentPrice 105 for its colourways; Kith lists IX3952-400 Midnight Navy at $105)",
+   "urls": [
+    "https://www.nike.com/t/moon-shoe-og-mens-shoes-QjBip6mn/IX3952-001",
+    "https://kith.com/collections/mens-footwear/products/nkix3952-400"
+   ]
+  },
+  {
+   "fact": "1972 Nike Waffle Racing Flat 'Moon Shoe' sold for $437,500 at Sotheby's (Stadium Goods online sale), 23 July 2019; world auction record for sneakers at the time; about 12 made; designed by Bill Bowerman for runners at the 1972 Olympic Trials; only known unworn pair",
+   "urls": [
+    "https://www.sothebys.com/en/articles/new-world-auction-record-for-a-pair-of-sneakers-set-by-1972-nike-waffle-racing-flat",
+    "https://www.aljazeera.com/economy/2019/7/23/a-pair-of-nike-sneakers-just-sold-for-437500"
+   ]
+  },
+  {
+   "fact": "Waffle sole idea from his wife's waffle iron",
+   "urls": [
+    "https://www.sothebys.com/en/articles/new-world-auction-record-for-a-pair-of-sneakers-set-by-1972-nike-waffle-racing-flat",
+    "https://www.nike.com/t/moon-shoe-og-mens-shoes-QjBip6mn/IX3952-001"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-2057-nike-moon-shoe-india",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Nike",
+  "Kith",
+  "Sotheby's",
+  "Al Jazeera"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Nike Moon Shoe: $437,500 Original, ₹8,995 Retro",
+   "photo": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlyhype/frame_moon1hq/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    0.8
+   ],
+   "zoom": 1.55
+  },
+  {
+   "type": "detail",
+   "stat": "₹8,995",
+   "stat_label": "Nike Moon Shoe OG Price in India",
+   "bullets": [
+    "Black/Sail pair: ₹8,995 at Superkicks and VegNonVeg",
+    "VegNonVeg lists 12 colourways; three cost ₹10,995",
+    "Nike's US price for the Moon Shoe OG: $105"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike, Kith"
+  },
+  {
+   "type": "detail",
+   "stat": "$437,500",
+   "stat_label": "Paid for a 1972 Nike Moon Shoe Pair",
+   "bullets": [
+    "Sotheby's, July 2019: a sneaker auction record then",
+    "About 12 pairs were made for 1972 Olympic trials",
+    "Its waffle sole was inspired by a waffle iron"
+   ],
+   "credit_line": "Sources: Sotheby's, Al Jazeera, Nike"
+  }
+ ]
+}
