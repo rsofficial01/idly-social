@@ -1,0 +1,180 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "breaking Supreme Court order (20 Nov, ~10:45 IST); no idly.news article yet",
+ "format": "news: cover + 2 detail slides",
+ "title": "Supreme Court dismisses Tamil Nadu's applications for 11 TMC of Cauvery water from Karnataka",
+ "headline": "Supreme Court Rejects Tamil Nadu's 11 TMC Cauvery Water Pleas",
+ "sources": [
+  {
+   "outlet": "PTI (via ThePrint)",
+   "date": "20 Nov 2026 11:45 IST",
+   "url": "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/"
+  },
+  {
+   "outlet": "LiveLaw",
+   "date": "20 Nov 2026 10:48 IST",
+   "url": "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "date": "20 Nov 2026",
+   "url": "https://www.barandbench.com/news/cauvery-water-dispute-supreme-court-rejects-plea-by-tamil-nadu-for-release-of-additional-water-by-karnataka"
+  },
+  {
+   "outlet": "Deccan Chronicle",
+   "date": "12 Oct 2026",
+   "url": "https://www.deccanchronicle.com/amp/southern-states/karnataka/cauvery-dispute-difficult-to-meet-tns-demand-on-shortfall-as-its-difficult-year-karnataka-to-sc-1995169"
+  },
+  {
+   "outlet": "DT Next",
+   "date": "25 Sep 2026",
+   "url": "https://www.dtnext.in/news/tamilnadu/cwrc-directs-karnataka-to-release-4000-cusecs-for-15-days-as-tn-flags-1498-tmc-cauvery-shortfall"
+  },
+  {
+   "outlet": "LiveLaw",
+   "date": "16 Feb 2018",
+   "url": "https://www.livelaw.in/cauvery-sc-directs-karnataka-release-177-25-tmc-water-tamil-nadu/"
+  },
+  {
+   "outlet": "Scroll",
+   "date": "16 Feb 2018",
+   "url": "https://scroll.in/latest/868912/cauvery-water-dispute-supreme-court-reduces-tamil-nadus-share-increases-karnatakas"
+  },
+  {
+   "outlet": "PIB (Ministry of Jal Shakti, Rajya Sabha reply)",
+   "date": "19 Jul 2021",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1736883"
+  }
+ ],
+ "fact_sources": [
+  {
+   "fact": "SC on Fri 20 Nov dismissed two TN applications seeking direction to Karnataka to release 11 TMC of Cauvery water",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237",
+    "https://www.barandbench.com/news/cauvery-water-dispute-supreme-court-rejects-plea-by-tamil-nadu-for-release-of-additional-water-by-karnataka"
+   ]
+  },
+  {
+   "fact": "Bench: Justices Vikram Nath and Aparesh Kumar Singh",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.barandbench.com/news/cauvery-water-dispute-supreme-court-rejects-plea-by-tamil-nadu-for-release-of-additional-water-by-karnataka"
+   ]
+  },
+  {
+   "fact": "A third TN application (additional documents) will also be dismissed",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237"
+   ]
+  },
+  {
+   "fact": "Court's reasons not reported",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237",
+    "https://www.barandbench.com/news/cauvery-water-dispute-supreme-court-rejects-plea-by-tamil-nadu-for-release-of-additional-water-by-karnataka"
+   ]
+  },
+  {
+   "fact": "Measured at Biligundlu, the inter-state border point",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237"
+   ]
+  },
+  {
+   "fact": "TN says shortfall built up to early October (PTI: as of 7 Oct; LiveLaw: up to 6 Oct)",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237",
+    "https://www.deccanchronicle.com/amp/southern-states/karnataka/cauvery-dispute-difficult-to-meet-tns-demand-on-shortfall-as-its-difficult-year-karnataka-to-sc-1995169"
+   ]
+  },
+  {
+   "fact": "TN asked for 1.3 TMC a day over 10 days",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.deccanchronicle.com/amp/southern-states/karnataka/cauvery-dispute-difficult-to-meet-tns-demand-on-shortfall-as-its-difficult-year-karnataka-to-sc-1995169"
+   ]
+  },
+  {
+   "fact": "Karnataka told the court 2026 is a rain-deficit year, several areas declared drought-hit",
+   "urls": [
+    "https://theprint.in/india/sc-dismisses-tns-pleas-for-direction-to-karnataka-on-release-of-additional-water-from-cauvery-river/3103874/",
+    "https://www.deccanchronicle.com/amp/southern-states/karnataka/cauvery-dispute-difficult-to-meet-tns-demand-on-shortfall-as-its-difficult-year-karnataka-to-sc-1995169"
+   ]
+  },
+  {
+   "fact": "Karnataka says it has complied with CWMA orders",
+   "urls": [
+    "https://www.barandbench.com/news/cauvery-water-dispute-supreme-court-rejects-plea-by-tamil-nadu-for-release-of-additional-water-by-karnataka",
+    "https://www.dtnext.in/news/tamilnadu/cwrc-directs-karnataka-to-release-4000-cusecs-for-15-days-as-tn-flags-1498-tmc-cauvery-shortfall"
+   ]
+  },
+  {
+   "fact": "2018 SC verdict: Karnataka must release 177.25 TMC a year at Biligundlu",
+   "urls": [
+    "https://www.livelaw.in/cauvery-sc-directs-karnataka-release-177-25-tmc-water-tamil-nadu/",
+    "https://scroll.in/latest/868912/cauvery-water-dispute-supreme-court-reduces-tamil-nadus-share-increases-karnatakas",
+    "https://www.dtnext.in/tamilnadu/2018/02/16/sc-directs-karnataka-to-release-17725-tmcft-cauvery-water-to-tamil-nadu"
+   ]
+  },
+  {
+   "fact": "177.25 TMC applies in a normal water year",
+   "urls": [
+    "https://pib.gov.in/PressReleasePage.aspx?PRID=1736883",
+    "https://www.livelaw.in/cauvery-sc-directs-karnataka-release-177-25-tmc-water-tamil-nadu/",
+    "https://scroll.in/latest/868912/cauvery-water-dispute-supreme-court-reduces-tamil-nadus-share-increases-karnatakas"
+   ],
+   "note": "Confirmed on the PIB page itself (fetched with curl): Ministry of Jal Shakti reply in Rajya Sabha, 19 Jul 2021: 'Total delivery of Cauvery water (at Billigundulu) from Karnataka to Tamil Nadu State during a normal year has been reduced (from 192 TMC to 177.25 TMC) as per the Supreme Court verdict in February, 2018'. Deccan Herald page 403 to fetch; text seen in search results."
+  },
+  {
+   "fact": "In deficit years shares are cut pro rata; CWRC recommends and CWMA endorses releases",
+   "urls": [
+    "https://www.dtnext.in/news/tamilnadu/cwrc-directs-karnataka-to-release-4000-cusecs-for-15-days-as-tn-flags-1498-tmc-cauvery-shortfall",
+    "https://www.livelaw.in/top-stories/cauvery-river-dispute-supreme-court-dismisses-tamil-nadus-applications-seeking-additional-water-release-by-karnataka-559237",
+    "https://www.deccanchronicle.com/amp/southern-states/karnataka/cauvery-dispute-difficult-to-meet-tns-demand-on-shortfall-as-its-difficult-year-karnataka-to-sc-1995169"
+   ]
+  }
+ ],
+ "image": {
+  "source_page": "https://commons.wikimedia.org/wiki/File:Kaveri_river_flowing_near_Biligundlu_JEG3801.JPG",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kaveri_river_flowing_near_Biligundlu_JEG3801.JPG/3840px-Kaveri_river_flowing_near_Biligundlu_JEG3801.JPG",
+  "licence": "CC BY-SA 3.0",
+  "author": "P Jeganathan",
+  "credit": "Photo: P. Jeganathan / Wikimedia Commons, CC BY-SA 3.0",
+  "size": "4928x3264 original; local 3840x2543",
+  "date_taken": "2014-01-25",
+  "subject": "The Cauvery at Biligundlu on the Karnataka-Tamil Nadu border; the Central Water Commission's measuring wire crosses the river (per the file description)",
+  "viewed": true,
+  "faces": 0,
+  "sharpness": 663.6,
+  "framing": {
+   "photo": "_work/2026-11-20-hourly-1157/desks/idlynews/frame_1/cover_source.png",
+   "tool_output": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.53
+   },
+   "used": {
+    "focal": [
+     0.6,
+     0.85
+    ],
+    "zoom": 1.3
+   },
+   "render_scale": 0.691,
+   "note": "zoom 1.3 / focal y 0.85 lifts the waterline, the measuring wire and the right bank above the headline block; no upscale"
+  }
+ },
+ "tags": [],
+ "tags_evidence": "Commons photographer; no official account to tag",
+ "baseline": "python3 -m pipeline.baseline check run before G1 (exit 0): Mekedatu row (14 Nov log), 2007 award, Article 262; caption uses the 2018 verdict (177.25 TMC in a normal year) as the baseline line; Mekedatu sentence removed at G2 (reviewer neutrality FIX)"
+}

@@ -1,0 +1,48 @@
+{
+ "acct": "idlynews",
+ "date": "20 Nov 2026",
+ "sources": [
+  "PTI",
+  "LiveLaw",
+  "Bar & Bench",
+  "Deccan Chronicle",
+  "DT Next",
+  "Scroll",
+  "PIB"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Supreme Court Rejects Tamil Nadu's 11 TMC Cauvery Water Pleas",
+   "photo": "_work/2026-11-20-hourly-1157/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: P. Jeganathan / Wikimedia Commons, CC BY-SA 3.0",
+   "focal": [
+    0.6,
+    0.85
+   ],
+   "zoom": 1.3
+  },
+  {
+   "type": "detail",
+   "stat": "11 TMC",
+   "stat_label": "Cauvery Water Tamil Nadu Sought From Karnataka",
+   "bullets": [
+    "TMC is thousand million cubic feet of water",
+    "Tamil Nadu says shortfall built up to early October",
+    "Karnataka told the court 2026 is a rain-deficit year"
+   ],
+   "credit_line": "Sources: PTI, LiveLaw, Bar & Bench, Deccan Chronicle"
+  },
+  {
+   "type": "detail",
+   "stat": "177.25 TMC",
+   "stat_label": "Karnataka's Normal-Year Cauvery Release to Tamil Nadu",
+   "bullets": [
+    "Set by the Supreme Court's 2018 verdict, at Biligundlu",
+    "In short-rain years, shares are cut pro rata",
+    "Cauvery authority still sets Tamil Nadu's releases"
+   ],
+   "credit_line": "Sources: LiveLaw, Scroll, PIB, DT Next"
+  }
+ ]
+}
