@@ -1,0 +1,57 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-calls-only-packs",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Jio",
+  "Beebom",
+  "The Hans India",
+  "TelecomTalk"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "28-Day Calls-Only Packs: BSNL ₹172, Jio ₹177, Airtel, Vi ₹185",
+   "photo": "_work/2026-11-20-hourly-0757/desks/idlytech/frame_1/cover_source.png",
+   "photo_credit": "Photo: Samatha Swaraj Basingala / Wikimedia Commons, CC0",
+   "focal": [
+    0.3,
+    0.4
+   ],
+   "zoom": 1.22
+  },
+  {
+   "type": "detail",
+   "stat": "₹6.14 A DAY",
+   "stat_label": "BSNL's 28-Day Calls-Only Pack, Cheapest of Four Telcos",
+   "bullets": [
+    "Jio ₹6.32 a day; Airtel and Vi ₹6.61",
+    "All four: unlimited calls, no mobile data",
+    "BSNL gives 100 SMS a day; others 300 in total"
+   ],
+   "credit_line": "Sources: Beebom, The Hans India, TelecomTalk"
+  },
+  {
+   "type": "detail",
+   "stat": "₹190",
+   "stat_label": "BSNL's Calls-Only Pack for a Full Calendar Month",
+   "bullets": [
+    "Jio ₹197; Airtel and Vi ₹206 a month",
+    "12 monthly packs: BSNL ₹2,280; Airtel, Vi ₹2,472",
+    "30-day packs: BSNL ₹184, Jio ₹196, Airtel, Vi ₹203"
+   ],
+   "credit_line": "Sources: Jio, Beebom, The Hans India"
+  },
+  {
+   "type": "detail",
+   "stat": "₹448",
+   "stat_label": "Jio's 84-Day Calls-Only Pack, With 1,000 SMS",
+   "bullets": [
+    "Airtel ₹469 and Vi ₹470 for 84 days",
+    "Year packs: Airtel, Vi ₹1,849; Jio ₹1,748 (336 days)",
+    "TRAI, the telecom regulator, told telcos to offer them"
+   ],
+   "credit_line": "Sources: Jio, The Hans India, MobiGyaan"
+  }
+ ]
+}

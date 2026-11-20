@@ -1,0 +1,123 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Calls-only (voice + SMS, no data) prepaid packs at all four telcos: 28 days BSNL ₹172, Jio ₹177, Airtel ₹185, Vi ₹185; calendar month BSNL ₹190, Jio ₹197, Airtel/Vi ₹206; 30 days BSNL ₹184, Jio ₹196, Airtel/Vi ₹203; 84 days Jio ₹448, Airtel ₹469, Vi ₹470; Jio ₹147 for 22 days; year packs Airtel/Vi ₹1,849 (365 days), Jio ₹1,748 (336 days); 12 monthly packs = BSNL ₹2,280, Jio ₹2,364, Airtel/Vi ₹2,472 (idly arithmetic)",
+ "headline": "28-Day Calls-Only Packs: BSNL ₹172, Jio ₹177, Airtel, Vi ₹185",
+ "image": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/BSNL_Customer_Service_Centre.jpg/3840px-BSNL_Customer_Service_Centre.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BSNL_Customer_Service_Centre.jpg",
+  "licence": "CC0",
+  "author": "Samatha Swaraj Basingala",
+  "size": "3840x2880 (original 4000x3000)",
+  "subject": "BSNL Customer Service Centre, Kadiri (Andhra Pradesh): BSNL logo and Hindi/English/Telugu signboard, 'Online Cash Counter' board, BSNL tower behind; photographed 28 Jun 2024",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "photo": "_work/2026-11-20-hourly-0757/desks/idlytech/frame_1/cover_source.png",
+   "focal": [
+    0.3,
+    0.4
+   ],
+   "zoom": 1.1,
+   "note": "pipeline.framing ok (full-bleed, faces 0, focal 0.5/0.5 zoom 1.0 by default); set focal x 0.30 so the whole BSNL signboard is in frame, zoom 1.1 top-aligned: crop (105, 0, 2094, 2618), scale 0.516. Signboard lands at about x 94-827, y 451-693; seated back-turned figure in the doorway ~y 891-1000 (under the headline block); scooter plate ~y 1232-1262 (bottom band)."
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "BSNL calls-only packs: ₹172 for 28 days, ₹184 for 30 days, ₹190 for a calendar month; unlimited calls, 100 SMS a day, no data",
+   "urls": [
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://telecomtalk.info/bsnl-voice-only-plans-arrives-for-customers/1014140/",
+    "https://telecomtalk.info/?p=1013953",
+    "https://www.livechennai.com/detailnews.asp?newsid=84597"
+   ]
+  },
+  {
+   "fact": "Jio calls-only packs (TRAI Mandated Packs > Voice only plans): ₹147/22 days, ₹177/28 days, ₹196/30 days, ₹197/calendar month, each 300 SMS; ₹448/84 days with 1,000 SMS; no data",
+   "urls": [
+    "https://www.jio.com/api/jio-mdmdata-service/mdmdata/recharge/plans?productType=MOBILITY&billingType=1",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://www.mobigyaan.com/airtel-vs-jio-vs-vi-voice-only-plans",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190"
+   ]
+  },
+  {
+   "fact": "Airtel calls-only packs: ₹185/28 days, ₹203/30 days, ₹206/calendar month, 300 SMS in total; ₹469/84 days; launched October",
+   "urls": [
+    "https://telecomtalk.info/airtel-first-telco-launch-voice-plans-trairules/1013004/",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.mobigyaan.com/airtel-vs-jio-vs-vi-voice-only-plans"
+   ]
+  },
+  {
+   "fact": "Vi calls-only packs: ₹185/28 days, ₹203/30 days, ₹206/calendar month, 300 SMS in total; ₹470/84 days; launched October",
+   "urls": [
+    "https://www.digit.in/news/telecom/vi-voice-only-recharge-plans-introduced-in-india-starting-at-rs-179-check-prices-and-benefits.html",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.mobigyaan.com/airtel-vs-jio-vs-vi-voice-only-plans"
+   ]
+  },
+  {
+   "fact": "The calendar-month pack renews on the same date each month",
+   "urls": [
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.mobigyaan.com/airtel-vs-jio-vs-vi-voice-only-plans",
+    "https://telecomtalk.info/airtel-jio-vi-voice-sms-plans-prepaid/1013453/"
+   ]
+  },
+  {
+   "fact": "BSNL's packs arrived in November (reported 9 Nov)",
+   "urls": [
+    "https://telecomtalk.info/?p=1013726",
+    "https://www.livechennai.com/detailnews.asp?newsid=84597",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190"
+   ]
+  },
+  {
+   "fact": "TRAI, the telecom regulator, told operators to offer plans without data (voice-and-SMS-only packs)",
+   "urls": [
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.digit.in/news/telecom/vi-voice-only-recharge-plans-introduced-in-india-starting-at-rs-179-check-prices-and-benefits.html"
+   ]
+  },
+  {
+   "fact": "Jio and Vi list these under 'TRAI Mandated Packs' on their websites",
+   "urls": [
+    "https://www.jio.com/api/jio-mdmdata-service/mdmdata/recharge/plans?productType=MOBILITY&billingType=1",
+    "https://www.myvi.in/prepaid/online-mobile-recharge",
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190"
+   ]
+  },
+  {
+   "fact": "Per-day cost at 28 days (idly arithmetic): BSNL ₹172/28 = ₹6.14; Jio ₹177/28 = ₹6.32; Airtel and Vi ₹185/28 = ₹6.61",
+   "urls": [
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://telecomtalk.info/?p=1013953",
+    "https://www.digit.in/news/telecom/vi-voice-only-recharge-plans-introduced-in-india-starting-at-rs-179-check-prices-and-benefits.html"
+   ]
+  },
+  {
+   "fact": "Year packs: Airtel and Vi ₹1,849 for 365 days; Jio ₹1,748 for 336 days (calls-only)",
+   "urls": [
+    "https://www.jio.com/api/jio-mdmdata-service/mdmdata/recharge/plans?productType=MOBILITY&billingType=1",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683",
+    "https://www.mobigyaan.com/airtel-vs-jio-vs-vi-voice-only-plans"
+   ]
+  },
+  {
+   "fact": "12 monthly calendar-month packs at today's prices (idly arithmetic): BSNL 12 x ₹190 = ₹2,280; Jio 12 x ₹197 = ₹2,364; Airtel/Vi 12 x ₹206 = ₹2,472",
+   "urls": [
+    "https://gadgets.beebom.com/news/bsnl-voice-sms-only-prepaid-plans-rs-172-rs-184-rs-190",
+    "https://www.thehansindia.com/tech/airtel-jio-bsnl-cheapest-recharge-plans-pay-only-for-calls-not-for-data-1143683"
+   ]
+  }
+ ],
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual (CC0), not BSNL's own image."
+}

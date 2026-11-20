@@ -1,0 +1,80 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Photo: Samatha Swaraj Basingala / Wikimedia Commons, CC0",
+  "slug": "idlytech-0757-calls-only-packs",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlytech-0757-calls-only-packs/01.jpg",
+  "scale": 0.572
+ },
+ {
+  "stat": 164,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Beebom, The Hans India, TelecomTalk",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-calls-only-packs",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-0757-calls-only-packs/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Jio, Beebom, The Hans India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-calls-only-packs",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-0757-calls-only-packs/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Jio, The Hans India, MobiGyaan",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-calls-only-packs",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-0757-calls-only-packs/04.jpg",
+  "scale": null
+ }
+]
