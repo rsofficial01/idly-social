@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Bar & Bench",
+  "Verdictum",
+  "The News Minute",
+  "India Legal",
+  "ThePrint/PTI"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Supreme Court Allows One-Time Thiruparankundram Hill Lamp on 24 Nov",
+   "photo": "posts/2026-11-20/idlynews-1700-thiruparankundram-deepam/src/cover_source.png",
+   "photo_credit": "Photo: Mamichaelraj / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "24 NOV",
+   "stat_label": "Public Barred From Thiruparankundram's Disputed Pillar Site",
+   "bullets": [
+    "Only a temple team lights the Karthigai Deepam lamp",
+    "Madurai Collector picks the team with ASI, police",
+    "No gatherings or slogans; dargah and mosque access continue"
+   ],
+   "credit_line": "Sources: Bar & Bench, Verdictum, The News Minute, India Legal"
+  },
+  {
+   "type": "detail",
+   "stat": "JAN 2027",
+   "stat_label": "Supreme Court Hears Thiruparankundram Appeals Next",
+   "bullets": [
+    "Temple side, dargah and State differ on the pillar",
+    "High Court findings stayed; this lamp sets no precedent",
+    "DMK government appealed in 2025; TVK government in 2026"
+   ],
+   "credit_line": "Sources: Bar & Bench, Verdictum, The News Minute, ThePrint/PTI"
+  }
+ ]
+}

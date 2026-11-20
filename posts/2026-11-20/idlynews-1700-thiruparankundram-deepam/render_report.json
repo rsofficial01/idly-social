@@ -1,0 +1,58 @@
+[
+ {
+  "size": 76,
+  "lines": 3,
+  "overflow": false,
+  "top": 1022,
+  "credit_line": "Photo: Mamichaelraj / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1700-thiruparankundram-deepam",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlynews-1700-thiruparankundram-deepam/01.jpg",
+  "scale": 0.527
+ },
+ {
+  "stat": 252,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, Verdictum, The News Minute, India Legal",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1700-thiruparankundram-deepam",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-1700-thiruparankundram-deepam/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bar & Bench, Verdictum, The News Minute, ThePrint/PTI",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1700-thiruparankundram-deepam",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-1700-thiruparankundram-deepam/03.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 1,
+ "total": 13,
+ "notes": "Blind reviewer G4, looked at 01-03.jpg at full size, render_report.json (no overflow, credit_collision empty, cover scale 0.527) and caption.txt. alone 1: no slide says what the lamp is (Karthigai Deepam) or who disputes the pillar (temple side vs dargah), so a reader with no caption gets the rules but not the why. hook 2: the Supreme Court's one-time permission and the 24 Nov date are on the cover, a clear stake for TN readers. send 2: Madurai/TN readers and devotees going on 24 Nov need to know the public is barred from the pillar site; it's today's order. keep 2: 24 Nov rules and the Jan 2027 hearing are on slides. reply 2: 'Have you ever visited Thiruparankundram?' anyone answers yes/no. original 2: idly's dated timeline of both governments' steps and all three positions, from 5+ outlets. read 2. Layout: white headline on one left edge, clear of the vertical credit; hill whole at y~220-600; the 'One-/Time' break is at the hard hyphen (acceptable); detail slides aligned at x=72 with Sources inside; no typos; neutral wording on every slide."
+}
