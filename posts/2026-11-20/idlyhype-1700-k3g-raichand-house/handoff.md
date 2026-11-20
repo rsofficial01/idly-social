@@ -78,3 +78,6 @@ There are no real people's names on the slides or in the caption. Character name
   - The press release (ANI/Business Standard, Deccan Chronicle, Tribune, 20 Nov) lists Super-Star sneakers in three unisex colourways plus apparel, with a second drop in early 2027.
   - Build it once goldengoose.com/in shows ₹ prices and product-only shots (`/in/en/ls/dyavol-en_in`). Never use the campaign images, which show people.
 - **K3G Raichand House follow-up:** a new stage would be the 23 Nov 12 PM opening (for example, if requests close or fill).
+
+## Main, at publish (17:31 IST)
+Reverted to no idly article: idly.news #3125 says the stars "will host"; Airbnb's booking terms say they won't appear. Caption now ends "Sources: Airbnb, afaqs, Vogue India" (story_id null, published with --no-idly-article). Slide 4 bullet changed to "Airbnb says the film's stars won't appear" and re-rendered. Posted: https://www.instagram.com/p/Df9m6NBDR3D/
