@@ -1,0 +1,11 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check MIN of desk (13) and blind reviewer (12). desk: hook: Sony + \u20b94,490 on cover. read: 2 slides, each a price and the predecessor comparison. send 1: shopping card, nobody forwards today. keep 2: both \u20b9 prices, battery and predecessor prices on slides. reply 2: earbuds or over-ear, one word. original 2: idly's own predecessor-price comparison (\u20b93,000 more for CH730N, same \u20b94,490 for CH530) from 2023 launch reports. alone 2: models named and described on every slide. | reviewer: Blind G4 (reviewer; no desk score seen). hook 1: '\u20b94,490' is specific but not surprising (the same price as the 2023 WH-CH520), and the headline leads with a model code most readers don't know; the photo makes 'headphones' clear but the stake isn't sharp. The no-rise-since-2023 angle sits on slide 2, not the cover. send 1: a shopping card for people buying headphones now; no specific person forwards it today. keep 2: both \u20b9 prices, battery hours and the predecessors' 2023 prices are on slides. reply 2: 'Earbuds or over-ear headphones: which do you use?' is a one-word answer for almost everyone. original 2: idly's predecessor-price comparison drawn from FoneArena/Business Standard/Beebom/Business Today plus the Sony release. alone 2: each slide names the model and says on-ear/over-ear and noise cancelling in words. Layout (01-03.jpg opened at full size; files unchanged since G2 at 12:19): cover full-bleed from Sony's release image MS1982699 at a 0.80 downscale, sharp, no watermark or person; three whole panels; headphones whole at y\u2248386-1000; logo clear; 2-line white headline from y 1050, not on the product; vertical credit 'Image: Sony' present and matching the caption's last line. Detail slides: white Title Case labels, bullets share the x=72 edge, Sources line at y 1180 inside, no collisions or overflow (render_report: scale 0.801, lines 2, no overflow). The ~300 px dark band above the stat is the standard template, not a defect. No typos."
+}

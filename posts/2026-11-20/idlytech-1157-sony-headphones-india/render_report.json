@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Sony",
+  "slug": "idlytech-1157-sony-headphones-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlytech-1157-sony-headphones-india/01.jpg",
+  "scale": 0.801
+ },
+ {
+  "stat": 292,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Gadgets 360, FoneArena, Sony, Digital Trends",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-sony-headphones-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-1157-sony-headphones-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Gadgets 360, FoneArena, Beebom, Digital Trends",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-1157-sony-headphones-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlytech-1157-sony-headphones-india/03.jpg",
+  "scale": null
+ }
+]

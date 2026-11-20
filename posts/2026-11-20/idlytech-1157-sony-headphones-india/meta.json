@@ -1,0 +1,126 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news (India launch, price comparison with predecessors)",
+ "title": "Sony launches WH-CH530 (₹4,490) and WH-CH730N (₹12,990) wireless headphones in India; CH530 matches WH-CH520's ₹4,490 launch price (Apr 2023); CH730N is ₹3,000 above WH-CH720N's ₹9,990 launch price (Mar 2023)",
+ "headline": "Sony WH-CH530 Is ₹4,490 in India",
+ "image": {
+  "url": "https://mmx.prnewswire.com/media/MS1982699/WH-CH530_6color-Large.jpg?id=OA2933022&p=original",
+  "page": "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+  "licence": "Sony Electronics press image distributed with Sony's own launch release (PR Newswire, 7 Sep 2026) for editorial use; credit Image: Sony",
+  "author": "Sony Electronics",
+  "size": "2699x1687",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 162.2,
+  "subject": "Sony WH-CH530 in six colours (black, cobalt, mint, white, pink, coral), side profile, each on a matching colour panel; cover crop shows cobalt, mint and white",
+  "framing": {
+   "tool": "python3 -m pipeline.framing -> ok, focal 0.5/0.5 zoom 1.0 upscale 0.8, faces 0",
+   "used": {
+    "photo": "_work/2026-11-20-hourly-1157/desks/idlytech/frame_1/cover_source.png",
+    "focal": [
+     0.4166,
+     0.5
+    ],
+    "zoom": 1.0,
+    "render_scale": 0.801
+   },
+   "note": "focal x 0.4166 makes the 1350 px crop start at the cobalt panel edge (x 449) and end at the white panel edge (x 1799): exactly three whole panels. Headphones measured at y 386-1000 of 1350 (headband tops ~386-395, earcup bottoms ~1000); logo ends ~110; 2-line headline top at 1050 (render_report). Nothing cut."
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Sony launched WH-CH530 at ₹4,490 and WH-CH730N at ₹12,990 in India (19 Nov 2026)",
+   "urls": [
+    "https://www.gadgets360.com/audio/news/sony-wh-ch730n-wh-ch530-price-in-india-launch-specifications-features-12348202",
+    "https://feeds.feedburner.com/gadgets360-latest (item for the Gadgets 360 article; page itself 403s)",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html"
+   ]
+  },
+  {
+   "fact": "WH-CH530: on-ear, no noise cancelling",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/"
+   ]
+  },
+  {
+   "fact": "WH-CH530: up to 55 h battery; WH-CH520 had 50 h",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html",
+    "https://www.fonearena.com/blog/390662/sony-wh-ch520-price-india-features.html"
+   ]
+  },
+  {
+   "fact": "WH-CH530: 3-minute charge = 1.5 h (90 min) playback",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html"
+   ]
+  },
+  {
+   "fact": "WH-CH530: six colours incl. new Cobalt, Coral, Mint (plus Black, White, Pink)",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html"
+   ]
+  },
+  {
+   "fact": "WH-CH520 launched in India at ₹4,490, April 2023",
+   "urls": [
+    "https://www.fonearena.com/blog/390662/sony-wh-ch520-price-india-features.html",
+    "https://business-standard.com/technology/tech-news/sony-launches-wh-ch520-on-ear-wireless-headphones-in-india-at-rs-4-490-123041100566_1.html",
+    "https://beebom.com/sony-wh-ch520-headphones-launched-india"
+   ]
+  },
+  {
+   "fact": "WH-CH530 succeeds WH-CH520; WH-CH730N succeeds WH-CH720N",
+   "urls": [
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/",
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html ('from its predecessor')"
+   ]
+  },
+  {
+   "fact": "WH-CH720N launched in India at ₹9,990, March 2023 (16 Mar, sale 17 Mar)",
+   "urls": [
+    "https://www.fonearena.com/blog/388392/sony-wh-ch720n-price-india-features.html",
+    "https://beebom.com/sony-wh-ch720n-headphones-launched-india",
+    "https://www.businesstoday.in/technology/launch/story/sony-launches-wh-ch720-noise-cancellation-headphones-for-rs-9990-373666-2023-03-16"
+   ]
+  },
+  {
+   "fact": "₹12,990 - ₹9,990 = ₹3,000 (idly arithmetic)",
+   "urls": []
+  },
+  {
+   "fact": "WH-CH730N: over-ear, noise cancelling, new foldable design",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html"
+   ]
+  },
+  {
+   "fact": "WH-CH730N: up to 50 h with noise cancelling on, 75 h off; WH-CH720N 35 h with it on",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html",
+    "https://www.digitaltrends.com/home-theater/sony-wh-ch730n-and-wh-ch530-get-longer-battery-life-new-colors-and-better-calls/",
+    "https://beebom.com/sony-wh-ch720n-headphones-launched-india"
+   ]
+  },
+  {
+   "fact": "WH-CH730N: five colours (Black, Blue, White, Pink, Beige/Oat)",
+   "urls": [
+    "https://www.prnewswire.com/news-releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular-mid--and-entry-level-wireless-headphones-with-wh-ch730n-and-wh-ch530-302871097.html",
+    "https://www.fonearena.com/blog/497315/sony-wh-ch730n-wh-ch530-price-india-features.html"
+   ]
+  }
+ ],
+ "not_used": "Sale dates (CH730N 19 Nov, CH530 20 Nov) are FoneArena-only, so left out. US prices (9.99/79.99) dropped per G1. CH730N quick-charge figure conflicts (Sony 1 h vs FoneArena 90 min), so left out.",
+ "tag": "none: Sony India's Instagram handle could not be verified (sony.co.in / sony.com return 403)"
+}
