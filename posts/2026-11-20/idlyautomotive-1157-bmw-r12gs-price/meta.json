@@ -1,0 +1,114 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "title": "BMW R 12 G/S launched in India at ₹25.40 lakh (introductory, ex-showroom)",
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "BMW R 12 G/S Lands in India at ₹25.40 Lakh",
+ "tags": [],
+ "tag_evidence": "No tag. The reviewer's condition was to tag BMW Motorrad India only if verified on bmw-motorrad.in; that site returned 503/no connection from here, and the BMW Group India newsroom release carries no Instagram link (only X, Facebook, LinkedIn share buttons).",
+ "image": {
+  "url": "https://content.presspage.com/uploads/3228/e05b74f8-6fec-4879-9543-d4ecbfa6e3af/1920_P90592200_highRes_bmw-motorrad-present.jpg",
+  "page": "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+  "licence": "Official BMW Motorrad press photo (P90592200, 'BMW Motorrad presents the new BMW R 12 G/S') from the BMW Group India newsroom release of 19 Nov 2026; credited 'Image: BMW Motorrad'",
+  "author": "BMW Motorrad",
+  "size": "1920x1433",
+  "subject": "BMW R 12 G/S in Light White with red seat, parked alone on a dirt trail in a desert canyon; no rider, no people",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 441.9,
+  "framing": {
+   "photo": "posts/2026-11-20/idlyautomotive-1157-bmw-r12gs-price/src/cover_source.png",
+   "focal": [
+    0.483,
+    0.72
+   ],
+   "zoom": 1.75,
+   "upscale": 1.65,
+   "note": "pipeline.framing gave zoom 1.0 (bike would sit at y~690-990, under the headline); set by hand: crop 655x819 from top 614, bike whole at y~188-720 of 1350, clear of logo (<170) and headline block (>742)."
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Launched in India at an introductory ₹25,40,000 / ₹25.40 lakh ex-showroom",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.autocarindia.com/bike-news/bmw-r-12-gs-off-roader-launched-at-rs-2450-lakh-441377",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Single Pro variant, Light White",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.autocarindia.com/bike-news/bmw-r-12-gs-off-roader-launched-at-rs-2450-lakh-441377"
+   ]
+  },
+  {
+   "fact": "Imported as a CBU (completely built-up unit)",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Deliveries start immediately / have commenced",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.autocarindia.com/bike-news/bmw-r-12-gs-off-roader-launched-at-rs-2450-lakh-441377"
+   ]
+  },
+  {
+   "fact": "Enduro Package standard: off-road tyres, engine guard, enduro footrests, 20 mm handlebar risers",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Comfort Package standard: Shift Assistant Pro (clutchless quickshifter), cruise control, heated grips, Headlight Pro, Hill Start Control",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "ABS Pro standard; Dynamic Traction Control standard and can be switched off",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "1,170cc air/oil-cooled boxer twin, 109 hp at 7,000 rpm, 115 Nm at 6,500 rpm",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.autocarindia.com/bike-news/bmw-r-12-gs-off-roader-launched-at-rs-2450-lakh-441377",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Riding modes Rain, Road and Enduro (Enduro Pro with the Enduro Package)",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Three-year warranty, extendable to years four and five",
+   "urls": [
+    "https://newsroom.bmwgroup.com/apac/en-in/the-new-bmw-r-12-gs-launched-in-india/",
+    "https://www.rushlane.com/bmw-r-12-gs-price-india-12561614.html"
+   ]
+  },
+  {
+   "fact": "Sister model BMW R 12 (same 1,170cc boxer) launched in India at ₹19.90 lakh ex-showroom in July 2024; R 12 G/S costs ₹5.50 lakh more (₹25.40 − ₹19.90)",
+   "urls": [
+    "https://www.autocarpro.in/news/bmw-r-12-r-12-ninet-priced-at-rs-1990-lakh-121349",
+    "https://topgearmag.in/news/launches/bmw-r12-and-r12-ninet-launched-in-india-starting-at-1990-lakh",
+    "https://autocarindia.com/bike-news/bmw-r-12-r-12-ninet-launched-at-rs-1990-lakh-432145"
+   ]
+  }
+ ],
+ "dropped_facts": "R 1300 GS (₹24 lakh in Autocar's article vs ₹23.25-28.11 lakh on Autocar city pages) and R 12 nineT (₹23.00 vs ₹23.50 lakh) India prices: sources disagree, so no comparison on the card. Red seat: only the BMW release. 'Unlimited km' warranty: only the BMW release. R 12 nineT launch price: ₹20.90 lakh (Autocar Pro, Top Gear India) vs ₹20.20 lakh (BikeWale, Mobility Outlook), so the R 12 (₹19.90 lakh, uncontested) is used instead."
+}

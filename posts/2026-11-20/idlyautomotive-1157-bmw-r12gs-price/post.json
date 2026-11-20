@@ -1,0 +1,56 @@
+{
+ "acct": "idlyautomotive",
+ "date": "20 Nov 2026",
+ "sources": [
+  "BMW Group India",
+  "Autocar India",
+  "Rushlane",
+  "Top Gear India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "BMW R 12 G/S Lands in India at ₹25.40 Lakh",
+   "photo": "posts/2026-11-20/idlyautomotive-1157-bmw-r12gs-price/src/cover_source.png",
+   "photo_credit": "Image: BMW Motorrad",
+   "focal": [
+    0.483,
+    0.72
+   ],
+   "zoom": 1.75
+  },
+  {
+   "type": "detail",
+   "stat": "₹25.40 LAKH",
+   "stat_label": "BMW R 12 G/S Introductory Ex-Showroom Price",
+   "bullets": [
+    "One variant, the Pro, in Light White only",
+    "Imported fully built; deliveries have begun",
+    "Sister R 12 launched at ₹19.90 lakh in 2024"
+   ],
+   "credit_line": "Sources: BMW Group India, Autocar India, Top Gear India"
+  },
+  {
+   "type": "detail",
+   "stat": "2 PACKAGES",
+   "stat_label": "Standard on Every BMW R 12 G/S",
+   "bullets": [
+    "Enduro: off-road tyres, engine guard, handlebar risers",
+    "Comfort: quickshifter, cruise control, heated grips",
+    "ABS Pro and switchable traction control included"
+   ],
+   "credit_line": "Sources: BMW Group India, Rushlane"
+  },
+  {
+   "type": "detail",
+   "stat": "109 HP",
+   "stat_label": "From the BMW R 12 G/S's 1,170cc Boxer",
+   "bullets": [
+    "115 Nm of torque at 6,500 rpm",
+    "Riding modes: Rain, Road and Enduro",
+    "3-year warranty, extendable to five years"
+   ],
+   "credit_line": "Sources: BMW Group India, Rushlane"
+  }
+ ]
+}
