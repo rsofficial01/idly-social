@@ -1,0 +1,39 @@
+{
+  "status": "posted",
+  "lane": "official-image",
+  "lane_slug": "2026-11-20-idlynerd-0757-ott-weekend",
+  "image_credit": "Image: Netflix",
+  "image_source": "https://www.netflix.com/tudum/steps",
+  "archived_images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-20-idlynerd-0757-ott-weekend/06.jpg"
+  ],
+  "score_self": 13,
+  "score_reviewer": 14,
+  "story_id": null,
+  "account": "idlynerd",
+  "media_id": "18383040850301231",
+  "permalink": "https://www.instagram.com/p/Df8pGOKiWct/",
+  "posted_at": "2026-11-20T03:01:43+00:00",
+  "date": "2026-11-20",
+  "slot": "lane",
+  "images": [
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/01.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/02.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/03.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/04.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/05.jpg",
+    "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-20-idlynerd-0757-ott-weekend/06.jpg"
+  ],
+  "score_total": 13,
+  "tagged": [
+    "netflix_in"
+  ],
+  "story": {
+    "status": "none"
+  }
+}
