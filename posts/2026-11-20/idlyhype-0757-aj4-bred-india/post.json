@@ -1,0 +1,46 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0757-aj4-bred-india",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Nike",
+  "Complex"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Air Jordan 4 'Bred' in India: ₹19,995, 27 Nov",
+   "photo": "_work/2026-11-20-hourly-0757/desks/idlyhype/frame_top6/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    0.545
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "27 NOV",
+   "stat_label": "Air Jordan 4 'Bred' Launches in India",
+   "bullets": [
+    "VegNonVeg: reserve now, pairs ship from 27 Nov",
+    "Superkicks: Coming Soon, 27 Nov on its calendar",
+    "Superkicks lists UK sizes 7 to 11"
+   ],
+   "credit_line": "Sources: VegNonVeg, Superkicks"
+  },
+  {
+   "type": "detail",
+   "stat": "₹19,995",
+   "stat_label": "Air Jordan 4 'Bred' Price at Two Indian Stores",
+   "bullets": [
+    "Same MRP, taxes included, at both stores",
+    "Nike's US price on its SNKRS app: $230",
+    "Nike's US launch is also 27 Nov"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Nike, Complex"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Nike",
+  "slug": "idlyhype-0757-aj4-bred-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlyhype-0757-aj4-bred-india/01.jpg",
+  "scale": 0.928
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: VegNonVeg, Superkicks",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-aj4-bred-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlyhype-0757-aj4-bred-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 268,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Nike, Complex",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-aj4-bred-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlyhype-0757-aj4-bred-india/03.jpg",
+  "scale": null
+ }
+]

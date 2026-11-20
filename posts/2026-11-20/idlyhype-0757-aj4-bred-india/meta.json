@@ -1,0 +1,102 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Air Jordan 4 Retro OG 'Bred' (IX8180-001) gets its India price: ₹19,995 MRP incl. taxes at Superkicks and VegNonVeg; VegNonVeg taking early reservations now, orders ship from 27 Nov; Superkicks lists it Coming Soon with 27 Nov on its launch calendar; US launch 27 Nov (Black Friday) on Nike SNKRS at $230; 1989 'Bred' colourway, Nike Air heel",
+ "headline": "Air Jordan 4 'Bred' in India: ₹19,995, 27 Nov",
+ "image": {
+  "url": "https://static.nike.com/a/images/w_1280,q_auto,f_auto/62e6b608-03ab-4388-baa1-9a69c9051956/air-jordan-4-bred-ix8180-001-release-date.jpg",
+  "page": "https://www.nike.com/launch/t/air-jordan-4-bred",
+  "licence": "Brand's own product image from Nike's official SNKRS launch page, credited Image: Nike",
+  "author": "Nike",
+  "size": "1280x1600",
+  "subject": "Air Jordan 4 Retro OG 'Bred' (IX8180-001) pair, three-quarter front view, Nike studio shot on a green background",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-20-hourly-0757/desks/idlyhype/aj4_top6.jpg",
+  "framing": {
+   "output": "_work/2026-11-20-hourly-0757/desks/idlyhype/frame_top6/cover_source.png",
+   "framing_tool": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.84,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.545
+    ],
+    "zoom": 1.1,
+    "render_scale": 0.928
+   },
+   "pair_y_px": "~359-950 of 1350 (soles end ~935, shadow ~950); x 26-1053; headline top 1050 (2 lines); logo top ~170 clear",
+   "not_13_nov_still": "13 Nov cover used 2e3a5019 (heels view); this is 62e6b608 (pair, three-quarter front)"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Air Jordan 4 Retro OG 'Bred' is ₹19,995 at Superkicks (MRP, inclusive of all taxes) and VegNonVeg (MRP inclusive of all taxes), fetched 20 Nov 2026 ~08:20 IST",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white",
+    "https://www.vegnonveg.com/products/jordan-air-jordan-4-retro-og-blackfire-red-cement-grey-summit-white"
+   ]
+  },
+  {
+   "fact": "VegNonVeg: 'EARLY RESERVATION'; 'Skip the line and reserve you pair today. All orders will be shipped from 27th November onwards.' (VNV home page 'Sneaker Launches' also lists it as EARLY RESERVATION ₹19,995)",
+   "urls": [
+    "https://www.vegnonveg.com/products/jordan-air-jordan-4-retro-og-blackfire-red-cement-grey-summit-white",
+    "https://www.vegnonveg.com/"
+   ]
+  },
+  {
+   "fact": "Superkicks lists it as COMING SOON; its launch calendar shows 27 Nov 2026 (product data tag 'Startdate__27 November 2026 00:01')",
+   "urls": [
+    "https://www.superkicks.in/pages/upcoming-sneaker-apparel-releases",
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white",
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white.json"
+   ]
+  },
+  {
+   "fact": "US: releases 27 Nov 2026 (Black Friday) on Nike SNKRS at $230 (Nike: 'Available 11/27 3:00 PM', $230)",
+   "urls": [
+    "https://www.nike.com/launch/t/air-jordan-4-bred",
+    "https://www.complex.com/sneakers/a/victor-deng/air-jordan-4-bred-2026-retro-everything-you-need-to-know",
+    "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/"
+   ]
+  },
+  {
+   "fact": "Returns in the original 1989 'Bred' launch colourway, Nike Air heel branding (Nike's description, repeated on Superkicks/VegNonVeg)",
+   "urls": [
+    "https://www.nike.com/launch/t/air-jordan-4-bred",
+    "https://www.complex.com/sneakers/a/victor-deng/air-jordan-4-bred-2026-retro-everything-you-need-to-know",
+    "https://www.vegnonveg.com/products/jordan-air-jordan-4-retro-og-blackfire-red-cement-grey-summit-white"
+   ]
+  },
+  {
+   "fact": "Style code IX8180-001 on Nike's and VegNonVeg's listings (also Superkicks)",
+   "urls": [
+    "https://www.nike.com/launch/t/air-jordan-4-bred",
+    "https://www.vegnonveg.com/products/jordan-air-jordan-4-retro-og-blackfire-red-cement-grey-summit-white",
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white"
+   ]
+  },
+  {
+   "fact": "Superkicks lists UK sizes 7, 8, 9, 10, 11 (all ₹19,995)",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white",
+    "https://www.superkicks.in/products/jordan-air-jordan-4-retro-og-bred-black-fire-red-cement-grey-summit-white.json"
+   ]
+  }
+ ],
+ "tags": [
+  "jumpman23"
+ ],
+ "tag_evidence": "nike.com home page (Nike's own site) Organization schema: \"name\":\"Jordan Brand\",\"sameAs\":[... \"https://www.instagram.com/jumpman23/\"] (checked 20 Nov 2026 ~08:25 IST). Image owner = Nike (Jordan Brand image from Nike's SNKRS launch page).",
+ "dropped": "Kids' PS ₹6,995 (VegNonVeg only, no second source)"
+}
