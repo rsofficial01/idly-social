@@ -1,0 +1,90 @@
+{
+ "account": "idlynews",
+ "story_id": 3096,
+ "idly_article": false,
+ "no_idly_article_reason": "idly #3096 covers the story but states the jobs misuse as Malaysia's reason and lacks the 1 Dec MyVISA date and the fee rule; the card attributes only what the notice and two+ outlets say, so the caption carries a Sources line instead of the idly.news link",
+ "title": "Malaysia ends visa-free entry for Indians from 1 January 2027; MyVISA applications open 1 December 2026",
+ "headline": "Malaysia Ends Visa-Free Entry for Indians From 1 January 2027",
+ "format": "news carousel: cover + 2 detail slides",
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by an individual contributor (Rulwarih); no brand owns it. People are never tagged.",
+ "image": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/KLIA_Terminal_1_05112025_09.jpg/1920px-KLIA_Terminal_1_05112025_09.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:KLIA_Terminal_1_05112025_09.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Rulwarih",
+  "size": [
+   1920,
+   2560
+  ],
+  "original_size": [
+   3456,
+   4608
+  ],
+  "subject": "Kuala Lumpur International Airport Terminal 1 (5 Nov 2025): the tree-like column and slatted roof over the international check-in hall, Malaysia Airports banner at the bottom; no identifiable people",
+  "faces": 0,
+  "viewed": true,
+  "sharpness": 488.1,
+  "framing": {
+   "tool": "python3 -m pipeline.framing (planned focal [0.5,0.5], zoom 1.0), then reviewer G3 fix, then G4 fix focal [0.5,0.55]",
+   "focal": [
+    0.5,
+    0.55
+   ],
+   "zoom": 1.5,
+   "note": "Zoom 1.5, focal [0.5,0.55] (scale 0.84, no upscale): the lit column capital sits above the 3-line headline; the airport banners leave the frame so nothing clashes with the footer; the logo sits on the dark strip of the roof's light beam; the bottom ad screen is outside the crop."
+  },
+  "alternatives_checked": "Commons 'Terminal 1 of Kuala Lumpur International Airport, January 2023.jpg' (No Swan So Fine): generic concourse with a traveller in the centre, not recognisably KLIA; 'KLIA Main terminal.JPG' (Descon7, 2010): soft (sharpness 80); 'KLIA Terminal 1 05112025 07.jpg': bilingual departures sign falls in the headline block; 05112025 08 and 10 refused by dl.py (faces)."
+ },
+ "fact_sources": [
+  {
+   "fact": "Malaysia's Immigration Department notice dated 17 Nov 2026: Indians need a visa before arrival from 1 Jan 2027; visa-free entry ends after 31 Dec 2026",
+   "urls": [
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://gulfnews.com/world/asia/india/malaysia-to-end-visa-free-entry-for-indians-from-january-2027-new-rules-and-key-dates-1.500754663",
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year",
+    "https://timesofindia.indiatimes.com/india/malaysia-to-not-remain-visa-free-for-indian-visitors-from-jan-1-2027/articleshow/135979679.cms"
+   ]
+  },
+  {
+   "fact": "Visa applications open on the MyVISA online portal from 1 Dec 2026",
+   "urls": [
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://gulfnews.com/world/asia/india/malaysia-to-end-visa-free-entry-for-indians-from-january-2027-new-rules-and-key-dates-1.500754663",
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year"
+   ]
+  },
+  {
+   "fact": "Until 31 Dec Indians can enter visa-free for social visits of up to 30 days",
+   "urls": [
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year",
+    "https://cj.my/161870/malaysia-ends-visa-free-entry-for-indian-nationals-on-1-jan-2027/",
+    "https://www.thestar.com.my/news/nation/2024/12/20/malaysia-extends-visa-exemption-for-indian-nationals-until-2026"
+   ]
+  },
+  {
+   "fact": "Visa-free entry for Indians began in December 2023",
+   "urls": [
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://gulfnews.com/world/asia/india/malaysia-to-end-visa-free-entry-for-indians-from-january-2027-new-rules-and-key-dates-1.500754663",
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year"
+   ]
+  },
+  {
+   "fact": "Visa processing fees are non-refundable whether approved or rejected, or if policy or travel plans change",
+   "urls": [
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year",
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://gulfnews.com/world/asia/india/malaysia-to-end-visa-free-entry-for-indians-from-january-2027-new-rules-and-key-dates-1.500754663"
+   ]
+  },
+  {
+   "fact": "In September 2026 the High Commission of India in Kuala Lumpur warned Indians against taking up jobs while on tourist entry",
+   "urls": [
+    "https://scroll.in/latest/1097197/malaysia-to-end-visa-free-entry-for-indians-from-next-year",
+    "https://www.indiatoday.in/lifestyle/travel/story/malaysia-visa-for-indians-mandatory-from-january-1-2027-3042185-2026-11-19",
+    "https://gulfnews.com/world/asia/india/malaysia-to-end-visa-free-entry-for-indians-from-january-2027-new-rules-and-key-dates-1.500754663"
+   ]
+  }
+ ]
+}

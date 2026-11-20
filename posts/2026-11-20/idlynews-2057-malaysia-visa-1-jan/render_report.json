@@ -1,0 +1,58 @@
+[
+ {
+  "size": 88,
+  "lines": 3,
+  "overflow": false,
+  "top": 986,
+  "credit_line": "Photo: Rulwarih / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-2057-malaysia-visa-1-jan",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-20/idlynews-2057-malaysia-visa-1-jan/01.jpg",
+  "scale": 0.844
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: India Today, Gulf News, Scroll",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2057-malaysia-visa-1-jan",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-2057-malaysia-visa-1-jan/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 280,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: India Today, Gulf News, Scroll",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-2057-malaysia-visa-1-jan",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-20/idlynews-2057-malaysia-visa-1-jan/03.jpg",
+  "scale": null
+ }
+]

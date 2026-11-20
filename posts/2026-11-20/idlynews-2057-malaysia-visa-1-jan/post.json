@@ -1,0 +1,45 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2057-malaysia-visa-1-jan",
+ "date": "20 Nov 2026",
+ "sources": [
+  "India Today",
+  "Gulf News",
+  "Scroll"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Malaysia Ends Visa‑Free Entry for Indians From 1 January 2027",
+   "photo": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlynews/frame1/cover_source.png",
+   "photo_credit": "Photo: Rulwarih / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.55
+   ],
+   "zoom": 1.5
+  },
+  {
+   "type": "detail",
+   "stat": "1 DEC",
+   "stat_label": "Malaysia Visa Applications Open on MyVISA",
+   "bullets": [
+    "For trips entering Malaysia on or after 1 January",
+    "Apply online; get the visa before you travel",
+    "Fees non-refundable, Malaysia's Immigration Department says"
+   ],
+   "credit_line": "Sources: India Today, Gulf News, Scroll"
+  },
+  {
+   "type": "detail",
+   "stat": "31 DEC",
+   "stat_label": "Last Day to Enter Malaysia Visa-Free",
+   "bullets": [
+    "Visa-free social visits of up to 30 days",
+    "Malaysia began visa-free entry for Indians in December 2023",
+    "Notice dated 17 November from Malaysia's Immigration Department"
+   ],
+   "credit_line": "Sources: India Today, Gulf News, Scroll"
+  }
+ ]
+}
