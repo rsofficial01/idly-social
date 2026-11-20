@@ -1,0 +1,57 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2057-doomsday-5-lakh-tickets",
+ "date": "20 Nov 2026",
+ "sources": [
+  "Sacnilk",
+  "Koimoi",
+  "Cinema Express",
+  "Bollywood Hungama"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Avengers: Doomsday Sells 5.5 Lakh Tickets in India, Trackers Say",
+   "photo": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlynerd/frame1/cover_source.png",
+   "photo_credit": "Image: Marvel Studios",
+   "focal": [
+    0.5,
+    0.42
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹35 CR",
+   "stat_label": "Avengers: Doomsday's India Advance Sales by 20 Nov",
+   "bullets": [
+    "Gross takings from 5.5 lakh tickets for 17-20 Dec",
+    "₹29.6 crore of it is net, after tax",
+    "Leaves out seats cinemas have blocked, not sold"
+   ],
+   "credit_line": "Sources: Sacnilk, Koimoi, Cinema Express"
+  },
+  {
+   "type": "detail",
+   "stat": "2.4 LAKH",
+   "stat_label": "Avengers: Doomsday Opening-Day Tickets Already Sold",
+   "bullets": [
+    "For Thursday 17 Dec, across over 2,000 shows",
+    "Average opening-day ticket: about ₹690",
+    "English shows bring in most of the money"
+   ],
+   "credit_line": "Sources: Sacnilk, Koimoi, Cinema Express"
+  },
+  {
+   "type": "detail",
+   "stat": "17 DEC",
+   "stat_label": "Avengers: Doomsday Opens in Indian Cinemas",
+   "bullets": [
+    "Thursday, a day before the US release",
+    "In English, Hindi, Tamil and Telugu",
+    "First shows start at 12:01 AM on 17 Dec"
+   ],
+   "credit_line": "Sources: Sacnilk, Koimoi, Bollywood Hungama"
+  }
+ ]
+}

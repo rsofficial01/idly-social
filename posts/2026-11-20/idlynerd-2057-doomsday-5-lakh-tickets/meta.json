@@ -1,0 +1,80 @@
+{
+ "account": "idlynerd",
+ "story_id": 3259,
+ "idly_article": true,
+ "tags": [
+  "marvel"
+ ],
+ "tag_evidence": "marvel.com's own film page https://www.marvel.com/movies/avengers-doomsday links to https://www.instagram.com/marvel (6 links in the page HTML, 20 Nov 2026); Marvel Studios owns the poster.",
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "Avengers: Doomsday Sells 5.5 Lakh Tickets in India, Trackers Say",
+ "image": {
+  "url": "https://cdn.marvel.com/content/2x/avengersdoomsday_1-sht_teaser_smokey_walk_2927_fin14_mech4_0.jpg",
+  "page": "https://www.marvel.com/movies/avengers-doomsday",
+  "licence": "official studio key art (Marvel Studios teaser poster in the film page's Posters gallery), press/editorial use with credit 'Image: Marvel Studios'",
+  "author": "Marvel Studios",
+  "size": "1086x1610 (4:5 crop y 0-1358, zoom 1.0, 0.99x, no upscale; poster lettering at y 1450-1540 cropped out)",
+  "subject": "Doctor Doom in full armour, face fully covered by his metal mask under a hood, walking through green smoke; no other figure",
+  "faces": 0,
+  "viewed": true,
+  "local": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlynerd/doom-smokey.jpg",
+  "framing": {
+   "photo": "/home/user/idly-social/_work/2026-11-20-hourly-2057/desks/idlynerd/frame1/cover_source.png",
+   "focal": [
+    0.5,
+    0.42
+   ],
+   "zoom": 1.0,
+   "upscale": 0.99
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "About 5.5 lakh tickets sold for 17-20 Dec shows, excluding blocked seats (as of 20 Nov)",
+   "urls": [
+    "https://www.koimoi.com/box-office/avengers-doomsday-india-box-office-advance-booking-5-5-lakh-tickets-sold-surpasses-entire-lifetime-total-of-lee-cronins-the-mummy/",
+    "https://www.sacnilk.com/quicknews/Avengers_Doomsday_2026_Overall_Advance_Booking_Report",
+    "https://www.cinemaexpress.com/english/news/2026/Nov/20/avengers-doomsdays-advance-bookings-crosses-rs-41-crore-in-india"
+   ]
+  },
+  {
+   "fact": "About ₹35 crore gross (Koimoi/Cinema Express ₹34.96 cr; Sacnilk ₹35.37 cr without blocked seats), ₹29.6 crore net",
+   "urls": [
+    "https://www.koimoi.com/box-office/avengers-doomsday-india-box-office-advance-booking-5-5-lakh-tickets-sold-surpasses-entire-lifetime-total-of-lee-cronins-the-mummy/",
+    "https://www.sacnilk.com/quicknews/Avengers_Doomsday_2026_Overall_Advance_Booking_Report",
+    "https://www.cinemaexpress.com/english/news/2026/Nov/20/avengers-doomsdays-advance-bookings-crosses-rs-41-crore-in-india"
+   ]
+  },
+  {
+   "fact": "About 2.4 lakh opening-day tickets over 2,000+ shows (CE 2.42 lakh/2,020 shows; Sacnilk 2.45 lakh/2,100 shows); average ticket about ₹690 (Sacnilk ₹692, CE ₹694); English leads (Sacnilk day 1 English ₹14.31 cr of ₹17.09 cr; CE)",
+   "urls": [
+    "https://www.sacnilk.com/quicknews/Avengers_Doomsday_2026_First_Day_Advance_Booking_Report",
+    "https://www.cinemaexpress.com/english/news/2026/Nov/20/avengers-doomsdays-advance-bookings-crosses-rs-41-crore-in-india"
+   ]
+  },
+  {
+   "fact": "India release Thu 17 Dec, a day before the US (18 Dec); four-day opening 17-20 Dec",
+   "urls": [
+    "https://www.koimoi.com/box-office/avengers-doomsday-india-box-office-advance-booking-5-5-lakh-tickets-sold-surpasses-entire-lifetime-total-of-lee-cronins-the-mummy/",
+    "https://www.sacnilk.com/news/avengers-doomsday-india-release-date-preponed-to-december-17-one-day-before-the-us",
+    "https://www.sacnilk.com/quicknews/Avengers_Doomsday_2026_Overall_Advance_Booking_Report",
+    "https://www.marvel.com/movies/avengers-doomsday"
+   ]
+  },
+  {
+   "fact": "Languages: English, Hindi, Tamil, Telugu",
+   "urls": [
+    "https://www.sacnilk.com/quicknews/Avengers_Doomsday_2026_First_Day_Advance_Booking_Report",
+    "https://www.cinemaexpress.com/english/news/2026/Nov/20/avengers-doomsdays-advance-bookings-crosses-rs-41-crore-in-india",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  },
+  {
+   "fact": "First shows from 12:01 AM on 17 Dec (BH: Cinepolis Viviana Mall, Thane 12:01 am; Koimoi: shows from 12:01 AM)",
+   "urls": [
+    "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+    "https://www.koimoi.com/hollywood-news/avengers-doomsday-advance-bookings-open-in-india-tickets-sell-out-fast-as-marvel-fans-answer-the-call/"
+   ]
+  }
+ ]
+}
