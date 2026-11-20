@@ -4531,5 +4531,22 @@
     "tagged": [
       "jumpman23"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "17916170745516250",
+    "permalink": "https://www.instagram.com/p/Df8ob1hly9n/",
+    "posted_at": "2026-11-20T02:55:49+00:00",
+    "date": "2026-11-20",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-20/idlynews-0757-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-20/idlynews-0757-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-20/idlynews-0757-morning-brief/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-20/idlynews-0757-morning-brief/04.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-20/idlynews-0757-morning-brief/05.jpg"
+    ],
+    "score_total": 13
   }
 ]
