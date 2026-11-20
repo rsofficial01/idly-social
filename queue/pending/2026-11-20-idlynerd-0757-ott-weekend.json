@@ -1,0 +1,110 @@
+{
+  "slug": "2026-11-20-idlynerd-0757-ott-weekend",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "New on OTT Fri 20 Nov: Dhindora 2, Steps (Netflix); Percy Jackson S3 (JioHotstar, finale 11 Dec); Anbil Avan (SonyLIV); Teen Tigada (ZEE5)",
+  "headline": "5 OTT Releases This Weekend: Dhindora 2, Steps, Percy Jackson",
+  "caption": "Five new films and series reach Indian streaming apps on Friday, 20 November.\n\nNetflix has Dhindora Season 2, Bhuvan Bam's Hindi comedy: he plays a whole family of characters, led by Titu Mama, who is nursing an ₹11 crore loss. It also has Steps, an animated film that retells Cinderella from her stepsisters' side, with Ali Wong, Amanda Seyfried and new songs from JENNIE.\n\nJioHotstar starts Percy Jackson and the Olympians Season 3, adapted from The Titan's Curse. Episodes 1 and 2 arrive on Friday, then two more every Friday until the finale on 11 December.\n\nSonyLIV streams Anbil Avan, the Tamil romantic thriller with Ashok Selvan and Preity Mukhundhan, seven weeks after it reached cinemas on 2 October. ZEE5 premieres Teen Tigada, a Hindi series about an aspiring cricketer and a musician.\n\nAlso on Netflix from Friday: Haiku, a Tamil romantic drama.\n\nWhich OTT app does your family pay for?\n\nSources: Netflix, Deccan Herald, Esquire India, The Hollywood Reporter India, Disney+, UNI, IANS, Pratidin Time\n\n#NewOnOTT #Dhindora2 #Steps #PercyJackson #idlynerd",
+  "alt_text": "An official Netflix still from the animated film Steps, under the headline \"5 OTT Releases This Weekend: Dhindora 2, Steps, Percy Jackson\". The next five slides give each title's platform, Friday 20 November date and language: Dhindora Season 2 and Steps on Netflix, Percy Jackson Season 3 on JioHotstar (finale 11 December), Anbil Avan on SonyLIV (Tamil) and Teen Tigada on ZEE5 (Hindi).",
+  "sources": [
+    "Netflix",
+    "Deccan Herald",
+    "Esquire India",
+    "The Hollywood Reporter India"
+  ],
+  "detail_slides": [
+    {
+      "stat": "₹11 CRORE",
+      "stat_label": "Titu Mama's Loss in Dhindora Season 2, on Netflix",
+      "bullets": [
+        "Streams from Friday, 20 Nov, in Hindi",
+        "Bhuvan Bam plays a whole family of characters",
+        "Sanjeeda Sheikh joins the cast as Kavita Mami"
+      ],
+      "credit_line": "Sources: Netflix, The Hollywood Reporter India, Deccan Herald"
+    },
+    {
+      "stat": "20 NOV",
+      "stat_label": "Steps Arrives on Netflix: Cinderella, Retold",
+      "bullets": [
+        "Told from the side of Cinderella's stepsisters",
+        "Lilith (Ali Wong) steals the Fairy Godmother's wand",
+        "Amanda Seyfried voices Cinderella; new songs from JENNIE"
+      ],
+      "credit_line": "Sources: Netflix Tudum, Pratidin Time, OTTRelease"
+    },
+    {
+      "stat": "11 DEC",
+      "stat_label": "Percy Jackson Season 3 Finale on JioHotstar",
+      "bullets": [
+        "Episodes 1 and 2 stream from Friday, 20 Nov",
+        "Two new episodes every Friday after that",
+        "Adapts Rick Riordan's novel The Titan's Curse"
+      ],
+      "credit_line": "Sources: Esquire India, Disney+, The Hollywood Reporter India"
+    },
+    {
+      "stat": "7 WEEKS",
+      "stat_label": "Anbil Avan Reaches SonyLIV 7 Weeks After Cinemas",
+      "bullets": [
+        "On SonyLIV from Friday, 20 Nov, in Tamil",
+        "Ashok Selvan and Preity Mukhundhan star",
+        "A powerful local tries to seize their hill-town homestay"
+      ],
+      "credit_line": "Sources: Deccan Herald, Esquire India, IANS"
+    },
+    {
+      "stat": "20 NOV",
+      "stat_label": "Teen Tigada Premieres on ZEE5, in Hindi",
+      "bullets": [
+        "Asmani is an aspiring cricketer",
+        "Manas wants to make it in music",
+        "An unplanned pregnancy upends both their plans"
+      ],
+      "credit_line": "Sources: Deccan Herald, The Hollywood Reporter India, UNI"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.netflix.com/tudum/articles/steps-trailer-ali-wong-amanda-seyfried-stephanie-hsu",
+    "fallback": [
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.netflix.com/tudum/articles/amanda-seyfried-cinderella-steps"
+      },
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.netflix.com/tudum/steps"
+      },
+      {
+        "resolver": "og_image_official",
+        "ref": "https://www.netflix.com/tudum/articles/steps-cast-release-date"
+      },
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=yOq52foXX5Y"
+      }
+    ]
+  },
+  "tags": [
+    "netflix_in"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "original 1: weekend OTT lists are a common format; idly's angle is one India-first list across five apps with platform, date and language checked on 2+ sources per title. hook 2 only if the Steps still renders crisp (1200x675 Tudum og:image at up to 2x). reply 2: one-word answer (an app name) from almost anyone."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 0757 (Fri 20 Nov). Special 'New on OTT This Weekend'. G1 PASS (reviewer 081400); G23 FIX applied (082207: stats 7 WEEKS / 20 NOV / ₹11 CRORE, Disney+ for the 11 Dec finale, Comic Basics dropped). Cover chain: four Netflix Tudum Steps pages (og:image, animated stills, no lettering per their alt text; HTML gives no size, expected 1200x675, 2.0x), Netflix India trailer yOq52foXX5Y last. Stories paused: story false. No idly article: Sources line, no idly.news link. Fact table: _work/2026-11-20-hourly-0757/gates/packets/082207-idlynerd-G23.md.",
+  "created_at": "2026-11-20T08:25:51+05:30"
+}
