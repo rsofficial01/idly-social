@@ -1,0 +1,44 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1157-splendor-plus-price",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "BikeDekho"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Hero Splendor+ Now Starts at ₹78,912 After a Price Rise",
+   "photo": "_work/2026-11-21-hourly-1157/desks/idlyautomotive/frame_splendor/cover_source.png",
+   "photo_credit": "Photo: Gpkp / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "+₹1,135",
+   "stat_label": "Rise on Three Hero Splendor+ Variants",
+   "bullets": [
+    "Drum: ₹78,912 ex-showroom Delhi, was ₹77,777",
+    "i3S: ₹80,045; 125 Million Edition: ₹81,666",
+    "Hero hasn't announced the rise"
+   ],
+   "credit_line": "Sources: Autocar India, BikeDekho"
+  },
+  {
+   "type": "detail",
+   "stat": "+₹3,086",
+   "stat_label": "Biggest Rise: Hero Splendor+ Special Edition",
+   "bullets": [
+    "Splendor+ Special Edition now ₹81,666, was ₹78,580",
+    "Adds Candy Blazing Red and Matt Vernier Grey",
+    "Earlier sold only in Black and Accent"
+   ],
+   "credit_line": "Sources: Autocar India, BikeDekho"
+  }
+ ]
+}

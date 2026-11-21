@@ -1,0 +1,99 @@
+{
+ "account": "idlyautomotive",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news carousel (cover + 2 detail slides)",
+ "headline": "Hero Splendor+ Now Starts at ₹78,912 After a Price Rise",
+ "tags": [],
+ "tag_evidence": "none: cover is a Wikimedia Commons photo (no image-owner tag)",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hero_Splendor%2B%2C_Bangalore_%282025%29.jpg/1920px-Hero_Splendor%2B%2C_Bangalore_%282025%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hero_Splendor%2B,_Bangalore_(2025).jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Gpkp",
+  "size": "1920x1440 rendition of a 3264x2448 original",
+  "subject": "Row of new Hero Splendor+ motorcycles at CM Motors (Hero dealer), RR Nagar, Bangalore, 7 Sep 2025",
+  "faces": 0,
+  "viewed": true,
+  "framing": {
+   "photo": "_work/2026-11-21-hourly-1157/desks/idlyautomotive/frame_splendor/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "scale": 0.938,
+   "note": "4:5 crop x 384-1536 excludes a seated staff member (head cut by frame edge) at top-left and chairs at right"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Splendor+ Drum ₹77,777 -> ₹78,912 ex-showroom Delhi (+₹1,135)",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  },
+  {
+   "fact": "Splendor+ i3S ₹78,910 -> ₹80,045 (+₹1,135)",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  },
+  {
+   "fact": "Splendor+ 125 Million Edition ₹80,531 -> ₹81,666 (+₹1,135)",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  },
+  {
+   "fact": "Splendor+ Special Edition ₹78,580 -> ₹81,666 (+₹3,086, the biggest rise)",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  },
+  {
+   "fact": "Special Edition adds Candy Blazing Red and Matt Vernier Grey; was the Black and Accent option",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  },
+  {
+   "fact": "Hero hasn't announced the rise (outlets report the new price list; no Hero statement)",
+   "urls": [
+    "https://www.autocarindia.com/bike-news/hero-splendor-plus-price-increased-by-up-to-rs-3086-441384",
+    "https://www.bikedekho.com/news/breaking-hero-splendor-plus-prices-increased-by-rs-3086-and-gets-new-colours-20700"
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "story": "Hero Splendor+ price rise (Autocar India 20 Nov, BikeDekho 19 Nov)",
+   "outcome": "G1 BUILD; G23 PASS; G4 PASS 12; built"
+  },
+  {
+   "story": "Hyundai Verna 5-star Bharat NCAP (18 Nov)",
+   "outcome": "G1 NO BUILD: no frameable official/Commons image (Hyundai banners 1860x540 with baked-in text), ~66 h old"
+  },
+  {
+   "story": "Kia trims Seltos/Clavis/Sonet variants (20 Nov)",
+   "outcome": "G1 NO BUILD: ceiling ~10, dealer info, narrow, Seltos ran 14 Nov"
+  },
+  {
+   "story": "Bajaj Pulsar RS200 update ₹1.98 lakh",
+   "outcome": "dropped: bajajauto.com still shows the old bike, no image of the USD-fork version"
+  },
+  {
+   "story": "Maruti Fronx 6 lakh sales",
+   "outcome": "dropped: single source (Autocar India, published ~12:00 IST)"
+  },
+  {
+   "story": "BYD India 20,000 deliveries (3286), Kia Carens/Clavis CNG 6,200 (3198)",
+   "outcome": "dropped: milestones, low buyer stake"
+  }
+ ]
+}
