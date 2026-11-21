@@ -1,0 +1,159 @@
+{
+ "account": "idlyhype",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "The Week in Hype (Sat 21 Nov 2026), drops you can buy in India with ₹ prices: Air Jordan 3 Retro 'Not Nice List' (IF4396-001) on sale at Superkicks today, ₹19,295, UK 7-11 all available at 08:05-08:14 IST (its 'Startdate__21 November 2026 00:01' tag, seen 12 and 14 Nov, is gone); Nike US launch 21 Nov 2026 15:00 UTC (SNKRS), $215 (about ₹20,090 at ₹93.44/$, the rupee's 18 Nov close, the latest found; before US sales tax), so Superkicks' ₹19,295 is below the converted US price; heel tab hides a 'Not Nice' message (Nike, Sneaker Files). Kids' Jordan 3 Retro 'Santa' at Superkicks since 20 Nov evening: TD (DM0968-601) ₹5,695, UK 7.5/8.5/9.5; PS (DM0966-601) ₹6,695, UK 13/1/2; University Red upper, gilded Jumpman on the heel; Nike US kids' release 21 Nov 15:00 UTC (Little Kids' $95, Big Kids' $155); House of Heat lists GS 'Santa' for 21 Nov. adidas Originals Tokyo Ballerina Fruition (with Taipei label Fruition per Highsnobiety; suede upper): ₹9,999 at Superkicks (KI7873 Brown/Gum, LB8173; listed 19 Nov; women's UK 3-7) and VegNonVeg (both colourways ₹9,999). Nike Air Force 1 Low Retro Camo (IV4885-901, IV4885-900): ₹11,995 at Superkicks, listed 18 Nov, UK 6-12; Nike.com US release 4 Nov, $125 (Sneaker Bar Detroit), pixel camo over the upper incl. Swooshes. Complex's 17 Nov release guide led with One Block Down x Nike Air Max 95 Lux and Corteiz x Nike Shox R4; neither is in Superkicks' catalogue or VegNonVeg search (checked 08:16 IST).",
+ "headline": "Air Jordan 3 'Not Nice List' Is Out in India Today: ₹19,295",
+ "tags": [
+  "jumpman23"
+ ],
+ "tag_evidence": "nike.com home page (Nike's own site, source of the cover image) Organization schema: {\"name\":\"Jordan Brand\",\"sameAs\":[... \"https://www.instagram.com/jumpman23/\"]}, checked 21 Nov 2026 ~08:16 IST. Image owner = Nike / Jordan Brand (Air Jordan 3 product image from Nike's SNKRS launch page). Same evidence accepted on the 12 Nov and 20 Nov Jordan posts.",
+ "image": {
+  "url": "https://static.nike.com/a/images/w_2000,c_limit/e536f896-3a15-44de-9268-0a00a9113f32/x.jpg",
+  "page": "https://www.nike.com/jp/launch/t/air-jordan-3-not-nice-black-and-challenge-red",
+  "licence": "Nike's own studio product image on its official SNKRS launch page for IF4396-001; official brand image, editorial use, credited 'Image: Nike'",
+  "author": "Nike",
+  "size": "2000x2500",
+  "subject": "The actual Air Jordan 3 'Not Nice List' (IF4396-001), a PAIR seen front three-quarter: crackled brown-black leather, red-and-black elephant print, brown soles, plain white studio background; no people, no text, no watermark. Different still from the 12 Nov AJ3 cover (that was e4283f28, single-shoe side profile).",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-0757/desks/idlyhype/aj3_e536f896.jpg",
+  "framing": {
+   "tool_output": {
+    "ok": true,
+    "photo": "_work/2026-11-21-hourly-0757/desks/idlyhype/frame_1/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.54,
+    "faces": 0,
+    "note": ""
+   },
+   "used": {
+    "focal": [
+     0.5,
+     1.0
+    ],
+    "zoom": 1.1
+   },
+   "note": "pair occupies rows 36-73% of the source; zoom 1.1 with focal y 1.0 lifts it to about 30-70% of the card so the soles clear the headline; the pair stays whole left to right (source cols 7-95%, crop keeps 4.5-95.5%)"
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Air Jordan 3 Retro 'Not Nice List' (IF4396-001) at Superkicks: ₹19,295, UK 7-11, all sizes available to order 21 Nov 08:05-08:14 IST; start-date tag (21 Nov 00:01) seen on 12/14 Nov now removed",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-air-jordan-3-retro-not-nice-list-black-black-challenge-red-off-noir",
+    "https://www.superkicks.in/products/jordan-air-jordan-3-retro-not-nice-list-black-black-challenge-red-off-noir.js"
+   ]
+  },
+  {
+   "fact": "Nike names it Air Jordan 3 Retro 'Not Nice List', $215, US SNKRS launch 21 Nov 2026 (15:00 UTC)",
+   "urls": [
+    "https://www.nike.com/t/air-jordan-3-retro-not-nice-list-mens-shoes-jJortka7/IF4396-001",
+    "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(d9a5bc42-4b9c-4976-858a-f159cf99c647)&filter=productInfo.merchProduct.styleColor(IF4396-001)",
+    "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+    "https://houseofheat.co/sneaker-releases-november-16-21-2026"
+   ]
+  },
+  {
+   "fact": "Rupee closed at 93.44 per US dollar on 18 Nov 2026 (latest close found; 19/20 Nov closes not found). $215 x 93.44 = ₹20,089.6, 'about ₹20,090'",
+   "urls": [
+    "https://hdfcsky.com/news/rupee-rises-7-paise-to-close-at-93-44-against-us-dollar",
+    "https://telanganatoday.com/rupee-closes-higher-at-93-44-despite-strong-dollar-and-market-weakness"
+   ]
+  },
+  {
+   "fact": "Pulling down the Nike Air heel tab reveals a 'Not Nice' message",
+   "urls": [
+    "https://www.nike.com/t/air-jordan-3-retro-not-nice-list-mens-shoes-jJortka7/IF4396-001",
+    "https://www.sneakerfiles.com/air-jordan-3-not-nice/"
+   ]
+  },
+  {
+   "fact": "Kids' Jordan 3 Retro 'Santa' at Superkicks: TD ₹5,695 (UK 7.5/8.5/9.5), PS ₹6,695 (UK 13/1/2), listed 20 Nov 19:31-19:33 IST, available to order 21 Nov morning",
+   "urls": [
+    "https://www.superkicks.in/products/jordan-jordan-3-retro-santa-td-university-red-metallic-gold-white",
+    "https://www.superkicks.in/products/jordan-jordan-3-retro-santa-ps-university-red-metallic-gold-white"
+   ]
+  },
+  {
+   "fact": "Jordan 3 'Santa': University Red upper, gilded Jumpman on the heel; Nike US kids' release 21 Nov 2026 (Little Kids' DM0966-601 $95, Big Kids' DM0967-601 $155)",
+   "urls": [
+    "https://www.nike.com/t/jordan-3-retro-santa-little-kids-shoes-1ViayvSi/DM0966-601",
+    "https://api.nike.com/product_feed/threads/v2?filter=marketplace(US)&filter=language(en)&filter=channelId(d9a5bc42-4b9c-4976-858a-f159cf99c647)&filter=productInfo.merchProduct.styleColor(DM0966-601)",
+    "https://houseofheat.co/sneaker-releases-november-16-21-2026",
+    "https://www.superkicks.in/products/jordan-jordan-3-retro-santa-ps-university-red-metallic-gold-white"
+   ]
+  },
+  {
+   "fact": "adidas Originals Tokyo Ballerina Fruition ₹9,999 at Superkicks (two colourways, women's UK 3-7, listed 19 Nov) and VegNonVeg (two colourways, ₹9,999)",
+   "urls": [
+    "https://www.superkicks.in/products/adidas-originals-tokyo-ballerina-fruition-brown-gum-chalk-white",
+    "https://www.superkicks.in/products/adidas-originals-tokyo-ballerina-fruition-supplier-colour-chalk-white-better-scarlet",
+    "https://www.vegnonveg.com/products/adidas-originals-tokyo-ballerina-fruition-browngum-chalk-white",
+    "https://www.vegnonveg.com/products/adidas-originals-tokyo-ballerina-fruition-supplier-colourchalk-whitebetter-scarlet"
+   ]
+  },
+  {
+   "fact": "The Tokyo Ballerina is adidas's Tokyo made with the label Fruition, a suede, ballet-style version",
+   "urls": [
+    "https://www.highsnobiety.com/p/adidas-tokyo-ballerina-fruition/",
+    "https://www.superkicks.in/products/adidas-originals-tokyo-ballerina-fruition-brown-gum-chalk-white"
+   ]
+  },
+  {
+   "fact": "Nike Air Force 1 Low Retro Camo at Superkicks: ₹11,995, two colourways (IV4885-901, IV4885-900), UK 6-12, listed 18 Nov; pixel camo across the upper including the Swooshes",
+   "urls": [
+    "https://www.superkicks.in/products/nike-air-force-1-low-retro-camo-multi-color-multi-color-rough-green",
+    "https://www.superkicks.in/products/nike-air-force-1-low-retro-camo-multi-color-multi-color-fossil-dark-grey",
+    "https://sneakerbardetroit.com/?p=813611"
+   ]
+  },
+  {
+   "fact": "Complex's weekly guide (17 Nov) led with One Block Down x Nike Air Max 95 Lux and Corteiz x Nike Shox R4; neither listed at Superkicks or VegNonVeg",
+   "urls": [
+    "https://www.complex.com/sneakers/a/victor-deng/sneaker-release-guide-11-17-26-one-block-down-nike-air-max-95",
+    "https://houseofheat.co/sneaker-releases-november-16-21-2026",
+    "https://www.superkicks.in/products.json",
+    "https://www.vegnonveg.com/search?q=corteiz"
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "story": "A. The Week in Hype special led by Air Jordan 3 'Not Nice List' out in India today at ₹19,295",
+   "outcome": "G1 BUILD (ceiling 13); built with the reviewer's conditions (no GTA VI slide, Gully Labs dropped as a 2024 pair on sale, kids' 'Santa' verified buyable)"
+  },
+  {
+   "story": "B. Single: Air Jordan 3 'Not Nice List' out in India today",
+   "outcome": "G1 fallback only (ceiling 12); not needed"
+  },
+  {
+   "story": "C. Single: adidas x Fruition Tokyo Ballerina in India at ₹9,999",
+   "outcome": "G1 NO BUILD as a lead (no official adidas image); used as a slide in A"
+  }
+ ],
+ "gates": {
+  "g1": "BUILD A (ceiling 13); conditions applied: reviewer's cover headline, no GTA VI slide/line, Complex leads as one caption sentence only, Gully Labs dropped (2024 pair on sale), kids' 'Santa' proven buyable, product named on every label",
+  "g23": "FIX slide 2 stat (21 NOV -> $215 with ₹20,090 at ₹93.44 conversion) + optional non-breaking spaces in 'Not Nice List'; both applied; facts and picture PASS",
+  "g4": "PASS 13 (send 1)"
+ },
+ "scores": {
+  "self": "self-score.json (13)",
+  "reviewer": "reviewer-score.json (13)",
+  "post": {
+   "hook": 2,
+   "read": 2,
+   "send": 1,
+   "keep": 2,
+   "reply": 2,
+   "original": 2,
+   "alone": 2,
+   "total": 13
+  }
+ }
+}

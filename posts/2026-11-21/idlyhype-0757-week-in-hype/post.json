@@ -1,0 +1,72 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0757-week-in-hype",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Superkicks",
+  "VegNonVeg",
+  "Nike",
+  "House of Heat",
+  "Sneaker Files",
+  "Highsnobiety",
+  "Sneaker Bar Detroit",
+  "HDFC Sky"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Air Jordan 3 'Not Nice List' Is Out in India Today: ₹19,295",
+   "photo": "_work/2026-11-21-hourly-0757/desks/idlyhype/frame_1/cover_source.png",
+   "photo_credit": "Image: Nike",
+   "focal": [
+    0.5,
+    1.0
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "$215",
+   "stat_label": "Air Jordan 3 'Not Nice List' US Price",
+   "bullets": [
+    "About ₹20,090 at ₹93.44 a dollar, before US tax",
+    "Superkicks: ₹19,295, UK sizes 7 to 11",
+    "Pull the heel tab down: it reads 'Not Nice'"
+   ],
+   "credit_line": "Sources: Superkicks, Nike, Sneaker Files, HDFC Sky"
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,695",
+   "stat_label": "Jordan 3 'Santa' for Kids at Superkicks",
+   "bullets": [
+    "Toddler sizes ₹5,695; little kids' sizes ₹6,695",
+    "Red upper with a gold Jumpman on the heel",
+    "Nike's US release for kids: also today"
+   ],
+   "credit_line": "Sources: Superkicks, Nike, House of Heat"
+  },
+  {
+   "type": "detail",
+   "stat": "₹9,999",
+   "stat_label": "Adidas x Fruition Tokyo Ballerina in India",
+   "bullets": [
+    "At Superkicks and VegNonVeg, in two colourways",
+    "A suede, ballet-style take on the adidas Tokyo",
+    "Superkicks lists women's UK sizes 3 to 7"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Highsnobiety"
+  },
+  {
+   "type": "detail",
+   "stat": "₹11,995",
+   "stat_label": "Nike Air Force 1 Low Retro Camo",
+   "bullets": [
+    "New at Superkicks this week, in two colourways",
+    "Superkicks lists UK sizes 6 to 12",
+    "Pixel camo covers the upper, Swooshes too"
+   ],
+   "credit_line": "Sources: Superkicks, Sneaker Bar Detroit"
+  }
+ ]
+}

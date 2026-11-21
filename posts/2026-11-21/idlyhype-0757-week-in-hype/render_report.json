@@ -1,0 +1,102 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Image: Nike",
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-21/idlyhype-0757-week-in-hype/01.jpg",
+  "scale": 0.594
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, Nike, Sneaker Files, HDFC Sky",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlyhype-0757-week-in-hype/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 312,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, Nike, House of Heat",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlyhype-0757-week-in-hype/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 292,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Highsnobiety",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlyhype-0757-week-in-hype/04.jpg",
+  "scale": null
+ },
+ {
+  "stat": 284,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, Sneaker Bar Detroit",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-week-in-hype",
+  "slide": 5,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlyhype-0757-week-in-hype/05.jpg",
+  "scale": null
+ }
+]
