@@ -1,0 +1,126 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Sat 21 Nov 2026: Nitish Setu (the Kachchi Dargah-Bidupur six-lane extradosed cable-stayed Ganga bridge, Patna-Vaishali) is dedicated to the nation today; PM Modi visits it at about 1:15 PM (PMO schedule) as part of ~Rs 34,470 crore of projects in Vaishali; PMO: ~Rs 4,280 crore, 9.7 km main bridge + 10 km approaches, eases Mahatma Gandhi Setu and JP Setu; RJD objects to naming it after a living leader (lead); Eastern Railway (20 Nov, per Railway Board advisory) warns loud calls / speaker-mode media on trains may draw action under Railways Act s.145 as substituted by the Jan Vishwas (Amendment of Provisions) Act 2026: Rs 1,000 fine for nuisance, persisting after being told to stop up to 6 months' simple imprisonment and/or up to Rs 5,000 fine; Southern Railway warned in October; Rajasthan panchayat polls: Congress won more Panchayat Samiti seats than the BJP in 33 of 37 counted districts (SEC, late Fri), BJP ahead in Ajmer, Balotra, Salumber, Udaipur; Nepal PM Balendra Shah's first India visit 22-23 Nov, talks with Modi 23 Nov (MEA); KL Rahul's first Test hundred in New Zealand, 1st Test Wellington Day 3, India replying to NZ 368, Padikkal 80.",
+ "headline": "Nitish Setu, Bihar's 9.7-Km Ganga Bridge, Opens Today; Modi Visits 1:15 PM",
+ "tags": [],
+ "tag_evidence": "No tag: the cover is open Copernicus Sentinel-2 satellite data, not a brand's or studio's own image.",
+ "image": {
+  "url": "https://planetarycomputer.microsoft.com/api/data/v1/item/bbox/85.2494,25.5151,85.3580,25.6383/1080x1350.jpg?collection=sentinel-2-l2a&item=S2C_MSIL2A_20261117T045051_R076_T45RUJ_20261117T073753&assets=visual&asset_bidx=visual%7C1%2C2%2C3&nodata=0",
+  "page": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261117T045051_R076_T45RUJ_20261117T073753",
+  "licence": "Copernicus Sentinel data, free and open under the Copernicus data legal notice (attribution: 'Contains modified Copernicus Sentinel data [year]')",
+  "author": "Copernicus Sentinel-2C (ESA/EU), L2A true-colour 'visual' (TCI) asset, 17 Nov 2026 04:50 UTC pass, 0.03% cloud, rendered via Microsoft Planetary Computer data API",
+  "size": [
+   1080,
+   1350
+  ],
+  "subject": "Nitish Setu (Kachchi Dargah-Bidupur bridge) crossing the Ganga's southern channel, Raghopur Diara island and the northern channel, east of Patna; bbox 85.2494-85.3580 E, 25.5151-25.6383 N; native ~10 m/px, no upscaling; no labels or overlays",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-0757/desks/idlynews/nitish-setu-s2-17nov-tight.jpg",
+  "framing": {
+   "photo": "_work/2026-11-21-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0,
+   "upscale": 1.0,
+   "faces": 0
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "PM Modi visits Nitish Setu in Vaishali at about 1:15 PM on 21 Nov and dedicates it to the nation, among projects worth about Rs 34,470 crore in Vaishali (event at about 2 PM)",
+   "urls": [
+    "https://www.pmindia.gov.in/en/news_updates/pm-to-visit-bihar-on-21-november/",
+    "https://www.thehansindia.com/news/national/pm-modi-to-unveil-development-projects-worth-rs-34470-crore-in-bihar-today-1144298"
+   ]
+  },
+  {
+   "fact": "Nitish Setu: six-lane extradosed cable-stayed bridge over the Ganga linking Kachchi/Kachhi Dargah (NH-22, Patna district) with Bidupur (NH-322, Vaishali); PMO: ~Rs 4,280 crore, 19.7 km project = 9.7 km main bridge + 10 km approach roads; eases Mahatma Gandhi Setu and JP Setu (DH, citing officials, gives Rs 5,500 crore and 9.76 km: so cost attributed to PMO)",
+   "urls": [
+    "https://www.pmindia.gov.in/en/news_updates/pm-to-visit-bihar-on-21-november/",
+    "https://www.thehansindia.com/news/national/pm-modi-to-unveil-development-projects-worth-rs-34470-crore-in-bihar-today-1144298",
+    "https://www.deccanherald.com/india/bihar/pm-modi-to-inaugurate-nitish-setu-over-ganga-in-bihar-on-november-21-4225023"
+   ]
+  },
+  {
+   "fact": "Bihar government named the Kachchi Dargah-Bidupur bridge after former CM Nitish Kumar; RJD (Tejashwi Yadav and others) objects to naming it after a living leader",
+   "urls": [
+    "https://www.deccanherald.com/india/bihar/pm-modi-to-inaugurate-nitish-setu-over-ganga-in-bihar-on-november-21-4225023",
+    "https://etvbharat.com/en/bharat/explained-nitish-setu-the-naming-controversy-special-features-cost-and-benefits-enn26112006371"
+   ]
+  },
+  {
+   "fact": "Eastern Railway (Fri 20 Nov), per a Railway Board advisory, told its four divisions to curb speaker-mode music/videos, loud or prolonged calls and loud ringtones on trains and at stations; cites Section 145 of the Railways Act; announcements urging earphones",
+   "urls": [
+    "https://indianexpress.com/article/india/loud-phone-calls-playing-music-inside-trains-six-months-jail-railway-rules-10971775/",
+    "https://www.deccanherald.com/india/playing-loud-music-videos-on-trains-may-invite-rs-1000-fine-six-month-jail-eastern-railway-4225718"
+   ]
+  },
+  {
+   "fact": "Railways Act s.145(2) as substituted by the Jan Vishwas (Amendment of Provisions) Act, 2026 (item 52(G); Gazette No. 13, 8 Apr 2026): nuisance = removal, ticket forfeited, fine of Rs 1,000; continuing after lawful injunction = simple imprisonment up to 6 months, or fine up to Rs 5,000, or both",
+   "urls": [
+    "https://indiacode.ecourtsindia.com/rules/the-jan-vishwas-amendment-of-provisions-act-2026-7e07659e/",
+    "https://www.oneindia.com/india/using-phone-speakers-in-trains-southern-railway-warns-of-fine-up-to-rs-1000-jail-term-8239527.html",
+    "https://english.rtvlive.com/loud-calls-speaker-music-and-videos-on-trains-can-now-draw-fines-and-jail-time/"
+   ]
+  },
+  {
+   "fact": "Southern Railway issued a similar warning to its divisions in October 2026",
+   "urls": [
+    "https://www.oneindia.com/india/using-phone-speakers-in-trains-southern-railway-warns-of-fine-up-to-rs-1000-jail-term-8239527.html",
+    "https://news24online.com/india/attention-train-travellers-playing-music-loud-phone-calls-on-train-may-get-you-6-months-in-jail-indian-railways-makes-big-announcement-check-details/944837"
+   ]
+  },
+  {
+   "fact": "Rajasthan panchayat polls (results 20 Nov, SEC): Congress won more Panchayat Samiti seats than the BJP in 33 of the 37 districts where counting was held; BJP ahead in Ajmer, Balotra, Salumber, Udaipur; Panchayat Samiti seats Congress 3,701 vs BJP 2,181 (NH, evening) / 3,758 vs 2,213 (HT, SEC tally 11:30 pm)",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/congress-sweeps-rajasthan-panchayat-polls-wins-548-zila-parishad-seats-as-bjp-suffers-setbacks-101795185273336.html",
+    "https://www.deccanherald.com/india/rajasthan/congress-wins-big-in-rajasthan-panchayat-elections-leads-in-33-of-37-districts-4225638",
+    "https://www.tribuneindia.com/news/india/cong-beats-bjp-in-rajasthan-panchayat-zila-parishad-polls/"
+   ]
+  },
+  {
+   "fact": "Nepal PM Balendra Shah's state visit 22-23 Nov, his first to India since taking office in March 2026; calls on President Murmu; talks with PM Modi on 23 Nov (MEA); agenda incl. development, energy, connectivity, technology",
+   "urls": [
+    "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-modi-trade-energy-tech-talks-10972063/",
+    "https://www.tribuneindia.com/news/bilateral-talks/nepal-pm-to-be-offered-all-state-honours-talks-focus-on-development-energy-ties-connectivity-with-pm-modi-during-visit-mea"
+   ]
+  },
+  {
+   "fact": "KL Rahul's century on Day 3 (after lunch) of the 1st Test in Wellington, his first Test innings/hundred in New Zealand; he now has Test hundreds in all four of South Africa, England, New Zealand and Australia",
+   "urls": [
+    "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-cricket-score-ind-vs-nz-2026-series-match-today-updates-10972018/",
+    "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-3-ind-vs-nz-latest-updates-scorecard-wellington-november-21-101795194753027.html",
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+    "https://www.deccanchronicle.com/sports/cricket/live-ind-vs-nz-1st-test-india-reach-2391-at-lunch-on-day-3-2006491"
+   ]
+  },
+  {
+   "fact": "Devdutt Padikkal out for 80 (Kyle Jamieson); New Zealand made 368 in the first innings",
+   "urls": [
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+    "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-3-ind-vs-nz-latest-updates-scorecard-wellington-november-21-101795194753027.html",
+    "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-cricket-score-ind-vs-nz-2026-series-match-today-updates-10972018/"
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "lead": "A. Nitish Setu opens today (Morning Brief lead), Sentinel-2 cover",
+   "outcome": "G1 BUILD (ceiling 13); built"
+  },
+  {
+   "lead": "B. Loud calls on trains: Rs 1,000 fine / 6 months",
+   "outcome": "G1 NO BUILD as lead (empty-coach photo = representative image); runs as slide 2"
+  },
+  {
+   "lead": "C. Cyclone Akvan weakens into a depression",
+   "outcome": "G1 NO BUILD (ceiling 10; danger passed, 9th Akvan post, repeat cloud-swirl cover)"
+  }
+ ]
+}

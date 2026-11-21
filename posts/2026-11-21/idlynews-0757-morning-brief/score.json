@@ -1,0 +1,13 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "per-check min. desk 13: send 1: the lead (Nitish Setu opening) is mainly a Bihar/Patna-Vaishali forward; the broad forward reason is the train-noise fine on slide 2, which repeats a month-old Southern Railway warning for a new zone. hook 2: the bridge reads as a clear line across the Ganga at full size, with 9.7-Km, Opens Today and 1:15 PM on the cover. keep 2: 1:15 PM on the cover, the Rs 1,000 fine and Section 145 on slide 2, and 23 Nov on slide 4. reply 2: an easy yes/no tied to slide 2. original 2: idly's own five-story brief and own Sentinel-2 framing. alone 2: every slide names its subject. | reviewer 13: hook 1: a 12-word headline (at the max) about a regional bridge opening; 9.7 km is specific but not surprising, and the satellite line needs a second look, so it stops Bihar readers more than a national scroll. Other checks 2: train-noise ₹1,000 fine is a same-day forward for almost any rail user; times/dates/fines on slides (1:15 PM, ₹1,000/₹5,000, 22-23 Nov); easy yes/no question tied to slide 2; own synthesis with correctly credited open satellite data; every slide names its subject. Render clean: shared left edge, no touching text (cover line 1 ends ~20 px from the vertical credit), nothing cut, bridge visible end to end above the headline, native-resolution image.",
+ "desk_total": 13,
+ "reviewer_total": 13
+}

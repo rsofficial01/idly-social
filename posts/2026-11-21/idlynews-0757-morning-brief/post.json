@@ -1,0 +1,75 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "21 Nov 2026",
+ "sources": [
+  "PMO",
+  "The Hans India",
+  "Deccan Herald",
+  "ETV Bharat",
+  "Indian Express",
+  "Oneindia",
+  "RTV",
+  "Hindustan Times",
+  "The Tribune",
+  "Outlook",
+  "Deccan Chronicle"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Nitish Setu, Bihar's 9.7‑Km Ganga Bridge, Opens Today; Modi Visits 1:15 PM",
+   "photo": "_work/2026-11-21-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Image: Contains modified Copernicus Sentinel data, 17 Nov 2026",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,000",
+   "stat_label": "Loud Calls on Trains Can Draw a Fine",
+   "bullets": [
+    "Also speaker-mode music, videos and loud ringtones",
+    "Eastern Railway cites Section 145, Railways Act",
+    "Ignore warnings: up to 6 months' jail, ₹5,000 fine"
+   ],
+   "credit_line": "Sources: Indian Express, Deccan Herald, Oneindia, RTV"
+  },
+  {
+   "type": "detail",
+   "stat": "33 OF 37",
+   "stat_label": "Rajasthan Districts Where Congress Won More Samiti Seats",
+   "bullets": [
+    "Panchayat Samiti seats: Congress 3,700+, BJP about 2,200",
+    "BJP led in Ajmer, Balotra, Salumber, Udaipur",
+    "Of 37 districts counted; State Election Commission data"
+   ],
+   "credit_line": "Sources: Hindustan Times, Deccan Herald, The Tribune"
+  },
+  {
+   "type": "detail",
+   "stat": "23 NOV",
+   "stat_label": "Nepal PM Balendra Shah's Talks With Modi",
+   "bullets": [
+    "Shah's first India visit since taking office in March",
+    "Arrives 22 Nov; calls on President Murmu",
+    "Agenda: development, energy, connectivity, technology"
+   ],
+   "credit_line": "Sources: Ministry of External Affairs, Indian Express, The Tribune"
+  },
+  {
+   "type": "detail",
+   "stat": "100",
+   "stat_label": "KL Rahul's First Test Hundred in New Zealand",
+   "bullets": [
+    "1st Test, Wellington, Day 3, after lunch",
+    "Now has hundreds in England, Australia, South Africa too",
+    "Devdutt Padikkal out for 80; New Zealand made 368"
+   ],
+   "credit_line": "Sources: Indian Express, Hindustan Times, Outlook, Deccan Chronicle"
+  }
+ ]
+}
