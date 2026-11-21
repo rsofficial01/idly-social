@@ -1,0 +1,139 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "idly API 3266 says format and prize money are not announced (FIDE has published both); 3365 is a quotes piece. Card built from FIDE + match previews.",
+ "format": "carousel: cover + 3 detail slides",
+ "title": "Gukesh v Sindarov world chess championship match: Game 1 Tue 24 Nov, 7:30 PM IST, Geneva",
+ "headline": "Tuesday, 7:30 PM IST: Gukesh's World Chess Title Defence Begins",
+ "sources": [
+  {
+   "outlet": "FIDE",
+   "url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "date": "2026-09-14 (schedule, format, prize fund)"
+  },
+  {
+   "outlet": "FIDE",
+   "url": "https://www.fide.com/?p=51815",
+   "date": "2026-11-19 (preview: venue, Game 1, head-to-head 2.5-0.5, Candidates in Cyprus)"
+  },
+  {
+   "outlet": "World Chess",
+   "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "date": "2026-11-05 (updated)"
+  },
+  {
+   "outlet": "Khel Now",
+   "url": "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610",
+   "date": "2026-10-09"
+  },
+  {
+   "outlet": "365Chess",
+   "url": "https://www.365chess.com/view/?p=33269",
+   "date": "updated 2026-11-17"
+  },
+  {
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/amp/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh",
+   "date": "2026-04-15 (Sindarov wins Candidates)"
+  }
+ ],
+ "fact_sources": {
+  "Game 1 on Tuesday 24 Nov": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://www.fide.com/?p=51815",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610"
+  ],
+  "Games at 3 PM CET = 7:30 PM IST": [
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610",
+   "https://www.365chess.com/view/?p=33269",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship"
+  ],
+  "Venue Fondation Martin Bodmer, Cologny, Geneva (library and museum)": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://www.fide.com/?p=51815",
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610"
+  ],
+  "Opening ceremony Sunday 22 Nov": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://www.365chess.com/view/?p=33269"
+  ],
+  "Up to 14 classical games, first to 7.5 points": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610"
+  ],
+  "Last scheduled game 11 Dec; tiebreaks 12 Dec if 7-7": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610"
+  ],
+  "Rest days 27 Nov, 1, 5, 9 Dec": [
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://www.365chess.com/view/?p=33269",
+   "https://khelnow.com/chess/dates-announced-fide-world-championship-match-202610 (gaps in game dates)"
+  ],
+  "Prize fund $2.5 million; $200,000 per game won": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://www.365chess.com/view/?p=33269"
+  ],
+  "Sindarov (Uzbekistan) won the Candidates in April 2026": [
+   "https://www.fide.com/?p=51815",
+   "https://www.aljazeera.com/amp/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh"
+  ],
+  "Classical head-to-head: Sindarov two wins, one draw (2.5-0.5)": [
+   "https://www.fide.com/?p=51815",
+   "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "https://www.365chess.com/view/?p=33269"
+  ],
+  "Gukesh won the title in Singapore, December 2024": [
+   "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "https://www.fide.com/?p=51815"
+  ]
+ },
+ "image": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation_Martin_Bodmer,_Cologny,_Geneva,_Switzerland_-_20140614-05.JPG?width=1920",
+  "page": "https://commons.wikimedia.org/wiki/File:Fondation_Martin_Bodmer,_Cologny,_Geneva,_Switzerland_-_20140614-05.JPG",
+  "licence": "CC BY-SA 3.0",
+  "author": "Jacklee",
+  "size": "3872x2592 original; 1920x1285 rendition used",
+  "subject": "A pavilion of the Fondation Martin Bodmer, Cologny (the match venue), taken 13 Jun 2014",
+  "local": "_work/2026-11-21-hourly-2100/desks/idlynews/bodmer05.jpg",
+  "faces": 0,
+  "viewed": true,
+  "framing": "pipeline.framing: ok, focal [0.5,0.5], zoom 1.0, upscale 1.05, faces 0"
+ },
+ "tags": [],
+ "tag_evidence": "none: Wikimedia Commons photo, no brand owner",
+ "baseline": "n/a (not a Tamil Nadu story; Gukesh is from Chennai but the card is about the match)",
+ "gates": "G1-1 BUILD #1 (ceiling 13-14); G23-1 FIX (Candidates bullet) -> fixed; cover headline reordered so Gukesh and 7:30 PM IST sit in the first two lines (reviewer G4 note); G4-1 PASS 14/14 (reviewer). Desk 13/14 (send 1). Post score (per-check min) 13/14.",
+ "candidates": [
+  {
+   "title": "Gukesh title defence starts Tue 7:30 PM IST",
+   "outcome": "G1 BUILD"
+  },
+  {
+   "title": "India lead NZ by 118 in Wellington; Gill 98",
+   "outcome": "G1 NO BUILD (ceiling ~10: 11 h old, 07:57 brief had the Test)"
+  },
+  {
+   "title": "Delhi HC: cardiac arrest covered as heart attack (Sushma Tyagi v HDFC Ergo)",
+   "outcome": "G1 NO BUILD tonight (Delhi HC Commons image only 960 px)"
+  },
+  {
+   "title": "Flagged, not used: Nikhil Gupta 19-year US sentence (Pannun plot)",
+   "outcome": "banned-person rule; leave to idly.news"
+  },
+  {
+   "title": "Manipur spurious liquor, Sugnu (11 dead, 180+ hospitalised per CM via AJ/AFP)",
+   "outcome": "no image of the actual place"
+  },
+  {
+   "title": "Siang dam: Amit Shah promises talks",
+   "outcome": "MW figures conflict across sources; no reader date"
+  }
+ ]
+}

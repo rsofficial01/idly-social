@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2100-gukesh-title-defence",
+ "date": "21 Nov 2026",
+ "sources": [
+  "FIDE",
+  "World Chess",
+  "Khel Now",
+  "365Chess"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tuesday, 7:30 PM IST: Gukesh's World Chess Title Defence Begins",
+   "photo": "_work/2026-11-21-hourly-2100/desks/idlynews/frame_bodmer05/cover_source.png",
+   "photo_credit": "Photo: Jacklee / Wikimedia Commons, CC BY-SA 3.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "24 NOV",
+   "stat_label": "Game 1: Gukesh vs Sindarov, 7:30 PM IST",
+   "bullets": [
+    "Venue: Fondation Martin Bodmer, a museum near Geneva",
+    "Uzbekistan's Sindarov won April's Candidates, the qualifying event",
+    "Sindarov leads their classical record: two wins, one draw"
+   ],
+   "credit_line": "Sources: FIDE, World Chess, Khel Now"
+  },
+  {
+   "type": "detail",
+   "stat": "7.5",
+   "stat_label": "Points Gukesh or Sindarov Needs for the Title",
+   "bullets": [
+    "Up to 14 slow, classical games; last on 11 Dec",
+    "Rest days: 27 Nov, 1 Dec, 5 Dec, 9 Dec",
+    "If 7-7: faster tiebreak games on 12 Dec"
+   ],
+   "credit_line": "Sources: FIDE, World Chess, Khel Now"
+  },
+  {
+   "type": "detail",
+   "stat": "$2.5 MILLION",
+   "stat_label": "Prize Fund for the Gukesh vs Sindarov Match",
+   "bullets": [
+    "$200,000 to a player for every game won",
+    "Opening ceremony in Geneva on Sunday, 22 Nov",
+    "Gukesh became world champion in Singapore, December 2024"
+   ],
+   "credit_line": "Sources: FIDE, World Chess"
+  }
+ ]
+}
