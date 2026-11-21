@@ -1,0 +1,46 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1157-hpv-1-crore",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Union Health Ministry",
+  "PTI",
+  "The South First",
+  "PIB"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Free Cervical Cancer Shot at 14: Ministry Counts 1 Crore+ Girls",
+   "photo": "_work/2026-11-21-hourly-1157/desks/idlynews/frame_gardasil_left/cover_source.png",
+   "photo_credit": "Photo: Whispyhistory / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "AGE 14",
+   "stat_label": "Which Girls Get the Free HPV Vaccine",
+   "bullets": [
+    "Aims to prevent cervical cancer; parent's consent needed",
+    "One free dose at government health facilities",
+    "Book a slot, get the certificate on U-WIN portal"
+   ],
+   "credit_line": "Sources: Union Health Ministry, PTI, The South First, PIB"
+  },
+  {
+   "type": "detail",
+   "stat": "76.12%",
+   "stat_label": "Tamil Nadu's HPV Vaccine Coverage So Far",
+   "bullets": [
+    "100%: Gujarat, UP, Andhra, Mizoram, MP and Bihar",
+    "Kerala at 77.02%, just ahead of Tamil Nadu",
+    "India overall: nearly 87% of 1.2 crore target"
+   ],
+   "credit_line": "Sources: Union Health Ministry, PTI, The South First"
+  }
+ ]
+}

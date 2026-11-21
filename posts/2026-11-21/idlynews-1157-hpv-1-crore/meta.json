@@ -1,0 +1,99 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "Health Ministry data released 21 Nov 2026; idly.news has no HPV article (API search empty, not in the 30h list)",
+ "format": "news: cover + 2 detail slides",
+ "title": "Over 1 crore HPV vaccine doses given to 14-year-old girls in under nine months, Health Ministry says",
+ "headline": "Free Cervical Cancer Shot at 14: Ministry Counts 1 Crore+ Girls",
+ "sources": [
+  {
+   "outlet": "PTI (via ThePrint)",
+   "date": "21 Nov 2026",
+   "url": "https://theprint.in/india/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/3104930/"
+  },
+  {
+   "outlet": "The South First",
+   "date": "21 Nov 2026",
+   "url": "https://thesouthfirst.com/health/andhra-pradesh-achieves-full-hpv-vaccination-coverage-as-india-crosses-one-crore-dose-mark/"
+  },
+  {
+   "outlet": "PIB (launch document)",
+   "date": "28 Feb 2026",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026228807201.pdf"
+  },
+  {
+   "outlet": "All India Radio News",
+   "date": "27 Feb 2026",
+   "url": "https://www.newsonair.gov.in/pm-modi-to-launch-nationwide-hpv-vaccination-programme-for-14-year-old-girls-from-ajmer-tomorrow"
+  }
+ ],
+ "tags": [],
+ "tag_evidence": "none: Wikimedia Commons photo",
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gardasil_vaccine.jpg/1920px-Gardasil_vaccine.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gardasil_vaccine.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Whispyhistory",
+  "size": "3024x2354 original; 1920x1495 rendition used",
+  "subject": "Gardasil (quadrivalent HPV 6/11/16/18) box and pre-filled syringe: the vaccine India's campaign uses (Gardasil-4 per the PIB launch document)",
+  "faces": 0,
+  "viewed": true,
+  "framing": "pre-cropped to x 0-1300 (full height) to keep the GARDASIL name whole; pipeline.framing on that: ok, focal [0.5,0.5], zoom 1.0, faces 0"
+ },
+ "fact_sources": [
+  {
+   "fact": "Over 1 crore HPV doses to 14-year-old girls in under nine months; nearly 87% of about 1.2 crore annual target (Health Ministry, 21 Nov 2026)",
+   "urls": [
+    "https://theprint.in/india/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/3104930/",
+    "https://thesouthfirst.com/health/andhra-pradesh-achieves-full-hpv-vaccination-coverage-as-india-crosses-one-crore-dose-mark/"
+   ]
+  },
+  {
+   "fact": "Free, voluntary, single dose for 14-year-old girls with parental consent at designated government health facilities; U-WIN to book slots and download certificates",
+   "urls": [
+    "https://theprint.in/india/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/3104930/",
+    "https://thesouthfirst.com/health/andhra-pradesh-achieves-full-hpv-vaccination-coverage-as-india-crosses-one-crore-dose-mark/",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026228807201.pdf"
+   ]
+  },
+  {
+   "fact": "100% of target: Gujarat, Uttar Pradesh, Andhra Pradesh, Mizoram, Madhya Pradesh, Bihar; Kerala 77.02%, Tamil Nadu 76.12%",
+   "urls": [
+    "https://theprint.in/india/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/3104930/",
+    "https://thesouthfirst.com/health/andhra-pradesh-achieves-full-hpv-vaccination-coverage-as-india-crosses-one-crore-dose-mark/"
+   ]
+  },
+  {
+   "fact": "Campaign launched by PM Modi in February 2026 (28 Feb, Ajmer) to prevent cervical cancer; vaccine Gardasil-4",
+   "urls": [
+    "https://www.newsonair.gov.in/pm-modi-to-launch-nationwide-hpv-vaccination-programme-for-14-year-old-girls-from-ajmer-tomorrow",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026228807201.pdf",
+    "https://thesouthfirst.com/health/andhra-pradesh-achieves-full-hpv-vaccination-coverage-as-india-crosses-one-crore-dose-mark/"
+   ]
+  }
+ ],
+ "baseline": "TN story touch (TN 76.12%): baseline check run before G1 and on the caption; no HPV/vaccination item and no rule hit. Gap: baseline has nothing on TN HPV coverage.",
+ "candidates": [
+  {
+   "story": "HPV vaccine: over 1 crore girls in 9 months (Health Ministry, 21 Nov)",
+   "outcome": "built (G1 BUILD, predicted 13-14)"
+  },
+  {
+   "story": "Gukesh v Sindarov world title match, Game 1 24 Nov 7:30 PM IST, Geneva (idly story 3266)",
+   "outcome": "G1 NO BUILD, ceiling ~11: sports has no account, venue facade isn't the subject, 3 days off; lane post Mon/Tue suggested"
+  },
+  {
+   "story": "SC: mother has better prima facie custody claim for child of unwed parents (19 Nov)",
+   "outcome": "G1 NO BUILD, ceiling ~10: interim order, narrow, no date"
+  },
+  {
+   "story": "Manipur spurious liquor deaths, Chandel (11-15 dead, 180-300+ hospitalised)",
+   "outcome": "not pitched: no usable photo of the place; toll still moving; flagged"
+  },
+  {
+   "story": "Nikhil Gupta sentenced in US over Pannun plot",
+   "outcome": "not built: centred on a designated person; flagged"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Photo: Whispyhistory / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1157-hpv-1-crore",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-21/idlynews-1157-hpv-1-crore/01.jpg",
+  "scale": 0.903
+ },
+ {
+  "stat": 288,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Union Health Ministry, PTI, The South First, PIB",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-hpv-1-crore",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynews-1157-hpv-1-crore/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 296,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Union Health Ministry, PTI, The South First",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1157-hpv-1-crore",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynews-1157-hpv-1-crore/03.jpg",
+  "scale": null
+ }
+]
