@@ -1,0 +1,68 @@
+{
+  "slug": "2026-11-21-idlynerd-1657-panchayat-s5-3-dec",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Panchayat Season 5: Prime Video sets a 3 December premiere",
+  "headline": "Panchayat Season 5 Streams on Prime Video From 3 December",
+  "caption": "Panchayat Season 5 streams on Prime Video from Thursday, 3 December. Prime Video confirmed the date on 18 November, three days after the makers' 15 November post said the season wouldn't arrive this year.\n\nThe new season picks up after the Season 4 election, which Kranti Devi (Sunita Rajwar) won against Manju Devi (Neena Gupta). Her husband Banrakas (Durgesh Kumar) is now Phulera's Pradhanpati, and Jitendra Kumar is back as Sachiv Ji Abhishek Tripathi.\n\nRaghubir Yadav, Faisal Malik, Chandan Roy, Sanvikaa and Ashok Pathak also return. TVF produces the show and Deepak Kumar Mishra directs it.\n\nWho in your house watches Panchayat?\n\nSources: Prime Video, ANI, Outlook India, Esquire India, Open\n#Panchayat #PanchayatSeason5 #PrimeVideo #TVF #idlynerd",
+  "alt_text": "Slide 1: an image from Prime Video India's official Panchayat video, under the headline \"Panchayat Season 5 Streams on Prime Video From 3 December\". Slide 2: \"3 DEC\", Sachiv Ji Is Back in Panchayat Season 5: streams from Thursday, only on Prime Video; Jitendra Kumar returns as Abhishek Tripathi, the secretary; Neena Gupta and Raghubir Yadav are back too. Slide 3: \"NEW RULER\", Banrakas Is Phulera's Pradhanpati in Panchayat Season 5: Kranti Devi beat Manju Devi in Season 4; Pradhanpati means the husband of the elected village head; Durgesh Kumar plays Banrakas and Sunita Rajwar plays Kranti Devi.",
+  "sources": [
+    "Prime Video",
+    "ANI",
+    "Outlook India",
+    "Esquire India",
+    "Open"
+  ],
+  "detail_slides": [
+    {
+      "stat": "3 DEC",
+      "stat_label": "Sachiv Ji Is Back in Panchayat Season 5",
+      "bullets": [
+        "Streams from Thursday, only on Prime Video",
+        "Jitendra Kumar returns as Abhishek Tripathi, the secretary",
+        "Neena Gupta and Raghubir Yadav are back too"
+      ],
+      "credit_line": "Sources: Prime Video, ANI, Outlook India"
+    },
+    {
+      "stat": "NEW RULER",
+      "stat_label": "Banrakas Is Phulera's Pradhanpati in Panchayat Season 5",
+      "bullets": [
+        "Kranti Devi beat Manju Devi in Season 4",
+        "Pradhanpati: husband of the elected village head",
+        "Durgesh Kumar plays Banrakas, Sunita Rajwar plays Kranti Devi"
+      ],
+      "credit_line": "Sources: Esquire India, Open, ANI"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=x7dQoVLDYYQ",
+    "fallback": [
+      {
+        "resolver": "youtube_official",
+        "ref": "https://www.youtube.com/watch?v=VUC_Vi-iVvI"
+      }
+    ]
+  },
+  "tags": [
+    "primevideoin"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 13,
+      "notes": "send 1: the date is 3 days old (Prime Video posted it 18 Nov), so the forward reason is the binge plan and the new Pradhanpati setup, not news. hook 2: beloved Indian show + date + platform on the cover. keep 2: 3 Dec and Prime Video on slide 2. reply 2: 'Who in your house watches Panchayat?' answerable by nearly everyone in a word. alone 2: cover names show, platform, date."
+    }
+  },
+  "notes": "idlynerd 1657. No idly article. G1-1 BUILD (12-13, send 1); G23-1 FIX -> G23-2 PASS. Cover chain: @PrimeVideoIN x7dQoVLDYYQ, then VUC_Vi-iVvI (regular videos, no Shorts). G4 HOLD if burned-in text clashes with the headline or a face is cut/under logo. Tag: @PrimeVideoIN YouTube links instagram.com/primevideoin.",
+  "created_at": "2026-11-21T17:19:16+05:30"
+}
