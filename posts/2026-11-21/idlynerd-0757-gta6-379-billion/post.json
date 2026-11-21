@@ -1,0 +1,55 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-0757-gta6-379-billion",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Take-Two Interactive",
+  "Deadline",
+  "Ormax Media",
+  "PlayStation Store India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "GTA VI: $3.79 Billion in Day-One Sales, Take-Two Says",
+   "photo": "_work/2026-11-21-hourly-0757/desks/idlynerd/frame_17/cover_source.png",
+   "photo_credit": "Image: Rockstar Games",
+   "focal": [
+    0.46,
+    0.4
+   ],
+   "zoom": 1.25
+  },
+  {
+   "type": "detail",
+   "stat": "₹35,000 CR+",
+   "stat_label": "GTA VI's Day One in Rupees",
+   "bullets": [
+    "Take-Two's estimate: worldwide retail sales to 19 Nov",
+    "At ₹93.44 a dollar, the rupee's 18 Nov close",
+    "2.6x Indian cinemas' 2025 gross: ₹13,395 crore (Ormax)"
+   ],
+   "credit_line": "Sources: Take-Two, Ormax Media, HDFC Sky"
+  },
+  {
+   "type": "detail",
+   "stat": "32.5M",
+   "stat_label": "GTA VI Units Sold Before Launch",
+   "bullets": [
+    "A record across all platforms, Take-Two says",
+    "GTA VI scores 99 on Metacritic"
+   ],
+   "credit_line": "Sources: Take-Two, Deadline, GosuGamers"
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,999",
+   "stat_label": "GTA VI Standard Edition on PS Store India",
+   "bullets": [
+    "GTA VI: Ultimate Edition costs ₹7,499",
+    "Out now on PS5 and Xbox Series X|S"
+   ],
+   "credit_line": "Sources: PlayStation Store India, Business Today"
+  }
+ ]
+}

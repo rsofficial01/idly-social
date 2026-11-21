@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Rockstar Games",
+  "slug": "idlynerd-0757-gta6-379-billion",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-21/idlynerd-0757-gta6-379-billion/01.jpg",
+  "scale": 0.781
+ },
+ {
+  "stat": 152,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Take-Two, Ormax Media, HDFC Sky",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-gta6-379-billion",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynerd-0757-gta6-379-billion/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Take-Two, Deadline, GosuGamers",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-gta6-379-billion",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynerd-0757-gta6-379-billion/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 304,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PlayStation Store India, Business Today",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynerd-0757-gta6-379-billion",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynerd-0757-gta6-379-billion/04.jpg",
+  "scale": null
+ }
+]

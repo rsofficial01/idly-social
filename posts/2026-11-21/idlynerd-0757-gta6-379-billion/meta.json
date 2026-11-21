@@ -1,0 +1,121 @@
+{
+ "account": "idlynerd",
+ "story_id": 3308,
+ "idly_article": true,
+ "format": "news",
+ "title": "GTA VI's day-one retail sales reached $3.79 billion worldwide, Take-Two Interactive said in a release dated 20 November 2026 (company estimate through end of day 19 November; Take-Two calls it a record for entertainment across any medium). Take-Two also says GTA VI sold 32.5 million units pre-release, a record across all platforms, and scored 99 on Metacritic. At ₹93.44 per dollar (rupee's 18 Nov close) that is over ₹35,000 crore (₹35,414 cr), about 2.6 times India's record 2025 box office gross of ₹13,395 crore (Ormax). The official count is above Sensor Tower's earlier $2.36 billion estimate. PlayStation Store India: Grand Theft Auto VI ₹5,999, Ultimate Edition ₹7,499; on PS5 and Xbox Series X|S.",
+ "headline": "GTA VI: $3.79 Billion in Day-One Sales, Take-Two Says",
+ "tags": [
+  "rockstargames"
+ ],
+ "tag_evidence": "Rockstar Games owns the cover image. Its own GTA VI pages link instagram.com/rockstargames: https://www.rockstargames.com/VI (2 links in the page HTML, fetched 21 Nov 2026 08:2x IST) and https://www.rockstargames.com/VI/media/screenshots, the cover's source page (2 links). A company account, not a person; the same tag ran on the 18 and 20 Nov GTA VI cards.",
+ "image": {
+  "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
+  "page": "https://www.rockstargames.com/VI/media/screenshots",
+  "licence": "Official Rockstar Games media screenshot from the publisher's own GTA VI media page; credited 'Image: Rockstar Games'",
+  "author": "Rockstar Games",
+  "size": [
+   3840,
+   2160
+  ],
+  "subject": "In-game GTA VI screenshot 'Vice_City_17': Vice City skyline at sunset (lit towers, palm trees), a police raid with police cars on a canal bridge, a Vice-Dale police boat and a lit yacht beside a waterfront villa and pool. Only small, distant in-game figures, none identifiable; no watermark or overlay lettering. Never used on an earlier idly cover (used so far: Vice_City_01/10/11/15/22/27, Leonida_Keys_01).",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-0757/desks/idlynerd/Vice_City_17.jpg",
+  "framing": {
+   "tool": "pipeline.framing: ok, focal [0.5, 0.5], zoom 1.0, upscale 0.62 (downscale, no enlargement), faces 0",
+   "card_focal": [
+    0.46,
+    0.4
+   ],
+   "zoom": 1.25,
+   "scale": 0.78,
+   "why": "Zoom 1.25 (still a downscale, 0.78) with focal x 0.46 keeps the red-crowned tower whole at left and the twin spires at right, plain cloud under the top-centre logo, police-car lights on the bridge just above the headline; the small in-game raid figures by the pool and the yacht sit under the headline gradient. The default centre crop (tried first) showed the pool-side figures above the headline."
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "GTA VI day-one retail sales reached $3.79 billion worldwide (company estimate through end of day 19 Nov); Take-Two release dated New York, 20 Nov 2026",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm",
+    "https://deadline.com/2026/11/gta6-first-day-sales-4-billion-1237230465/",
+    "https://seekingalpha.com/news/4675294-take-two-says-gta-vi-posts-record-379b-in-day-one-sales",
+    "https://www.fool.com/investing/2026/11/20/gta-vi-boasts-a-record-breaking-launch-with-usd3-79-billion-in-day-one-sales-is-it-time-to-buy-take-two-stock/"
+   ]
+  },
+  {
+   "fact": "Take-Two calls it a new record for entertainment across any medium / biggest entertainment launch in history",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm",
+    "https://deadline.com/2026/11/gta6-first-day-sales-4-billion-1237230465/",
+    "https://mlq.ai/news/gta-vi-rings-up-379-billion-in-day-one-retail-sales-the-biggest-entertainment-launch-on-record-rockstar-says/"
+   ]
+  },
+  {
+   "fact": "GTA VI sold 32.5 million units pre-release, a record across all platforms (Take-Two)",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm",
+    "https://www.gosugamers.net/entertainment/news/79515-gta-vi-hits-us-3-79-billion-in-day-one-sales-after-selling-32-5-million-units-setting-new-records",
+    "https://seekingalpha.com/news/4675294-take-two-says-gta-vi-posts-record-379b-in-day-one-sales"
+   ]
+  },
+  {
+   "fact": "GTA VI scored 99 on Metacritic",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm",
+    "https://www.gosugamers.net/entertainment/news/79515-gta-vi-hits-us-3-79-billion-in-day-one-sales-after-selling-32-5-million-units-setting-new-records"
+   ]
+  },
+  {
+   "fact": "Rupee closed at 93.44 per US dollar on 18 Nov 2026 (latest close found; 20 Nov close not found). $3.79bn x 93.44 = ₹35,414 crore; 'over ₹35,000 crore' and '2.6x' hold for any rate from about 92.4 to 95.5",
+   "urls": [
+    "https://hdfcsky.com/news/rupee-rises-7-paise-to-close-at-93-44-against-us-dollar",
+    "https://telanganatoday.com/rupee-closes-higher-at-93-44-despite-strong-dollar-and-market-weakness"
+   ]
+  },
+  {
+   "fact": "India's 2025 box office gross: ₹13,395 crore, a record (Ormax Box Office Report 2025); ₹35,414 / ₹13,395 = 2.64",
+   "urls": [
+    "https://www.ormaxmedia.com/stories/the-ormax-box-office-report-2025.html",
+    "https://www.hollywoodreporterindia.com/features/insight/2025-india-box-office-crosses-historic-13000-crore-as-bollywood-hits-record-high-of-5504-crore-but-how-did-other-industries-fare",
+    "https://www.socialsamosa.com/report/india-box-office-13000-crore-2025-ticket-prices-rise-footfalls-drop-11000976"
+   ]
+  },
+  {
+   "fact": "Sensor Tower had estimated about $2.36 billion by end of launch day",
+   "urls": [
+    "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html"
+   ]
+  },
+  {
+   "fact": "PlayStation Store India: Grand Theft Auto VI Rs 5,999; Grand Theft Auto VI: Ultimate Edition Rs 7,499 (store page re-opened 21 Nov 2026)",
+   "urls": [
+    "https://www.playstation.com/en-in/games/grand-theft-auto-vi/",
+    "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"
+   ]
+  },
+  {
+   "fact": "GTA VI is out on PS5 and Xbox Series X|S (Take-Two: available at PlayStation Store, Microsoft Store, Rockstar Games Store)",
+   "urls": [
+    "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm",
+    "https://www.playstation.com/en-in/games/grand-theft-auto-vi/",
+    "https://www.businesstoday.in/latest/trends/photo/gta-6-arrives-at-midnight-on-19-november-india-price-preload-and-editions-565630-2026-11-04"
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "story": "GTA VI official day one: $3.79B retail sales, 32.5M units pre-release (Take-Two), with India synthesis (₹35,000 cr+, 2.6x India's 2025 box office)",
+   "outcome": "G1 BUILD (reviewer ceiling 13); built"
+  },
+  {
+   "story": "O.M: Operation Mole day one, ₹17.70 cr India net (Sacnilk)",
+   "outcome": "G1 NO BUILD (ceiling 10): tracker-only, counts disagree, no keepable item, no allowlisted no-face image"
+  },
+  {
+   "story": "Ramayana ₹817.39 cr India net in 15 days, ₹150 cr+ Karnataka (#3281)",
+   "outcome": "G1 NO BUILD (ceiling 10): in-between number after three milestone posts; no new cover still"
+  }
+ ]
+}
