@@ -1,0 +1,48 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2100-dell-xps16-india",
+ "date": "21 Nov 2026",
+ "sources": ["FoneArena", "Gadgets 360", "VARIndia", "Dell"],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Dell's Nvidia XPS 16 Starts at ₹4,49,990 in India",
+   "photo": "_work/2026-11-21-hourly-2100/desks/idlytech/frame_dell_studio00/cover_source.png",
+   "photo_credit": "Image: Dell",
+   "focal": [0.5, 0.5],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹4,49,990",
+   "stat_label": "Cheapest Dell XPS 16 Creator Edition in India",
+   "bullets": [
+    "Base model: 32GB memory, 512GB SSD, taxes included",
+    "Up to ₹15,000 cashback on Axis Bank, ICICI cards",
+    "Dell's first XPS laptop on Nvidia's own chip"
+   ],
+   "credit_line": "Sources: FoneArena, Gadgets 360, VARIndia"
+  },
+  {
+   "type": "detail",
+   "stat": "MID-DEC",
+   "stat_label": "Dell XPS 16 Creator Edition Hits Shops Mid-December",
+   "bullets": [
+    "On Dell's online store since 20 November",
+    "Then Dell Exclusive Stores, big retailers, online partners"
+   ],
+   "credit_line": "Sources: FoneArena, VARIndia, Business Upturn"
+  },
+  {
+   "type": "detail",
+   "stat": "128GB",
+   "stat_label": "Top Memory Option on Dell XPS 16 Creator Edition",
+   "bullets": [
+    "Nvidia RTX Spark: processor and graphics on one chip",
+    "16-inch 3.2K OLED screen, up to 120Hz",
+    "17.8mm thin, with SD card slot and HDMI port"
+   ],
+   "credit_line": "Sources: FoneArena, VARIndia, Dell"
+  }
+ ]
+}

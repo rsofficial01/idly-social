@@ -1,0 +1,228 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "launch_price",
+ "title": "Dell launched the XPS 16 Creator Edition in India on 20 Nov 2026, its first XPS laptop on Nvidia's RTX Spark chip, from Rs 4,49,990 (taxes included; base 32GB/512GB); Dell online store from 20 Nov, Dell Exclusive Stores, large-format retail and online partners by mid-December; up to Rs 15,000 cashback (Axis Bank, ICICI Bank); up to 128GB unified memory, 16-inch 3.2K tandem OLED 20-120Hz, 99Wh battery, 17.8mm, SD card slot, HDMI.",
+ "headline": "Dell's Nvidia XPS 16 Starts at ₹4,49,990 in India",
+ "sources": [
+  {
+   "outlet": "FoneArena",
+   "url": "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "Gadgets 360",
+   "url": "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265",
+   "date": "2026-11-20",
+   "note": "page 403 to our fetchers; facts taken from its RSS summary: starting Rs 4,49,990, RTX Spark, up to 128GB, 16-inch 3.2K tandem OLED 120Hz, Dell online store"
+  },
+  {
+   "outlet": "VARIndia",
+   "url": "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "Business Upturn",
+   "url": "https://businessupturn.com/technology/dell-launches-xps-16-creator-edition-in-india-at-rs-4-49-990-with-nvidia-rtx-spark/",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "NewsBricks",
+   "url": "https://www.newsbricks.com/technology/dell-xps16-creator-edition-india-launch-features",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "Dell (US product page)",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
+   "date": "accessed 2026-11-21"
+  },
+  {
+   "outlet": "Dell India XPS page",
+   "url": "https://www.dell.com/en-in/lp/xps-laptops",
+   "date": "accessed 2026-11-21",
+   "note": "lists XPS 16 Creator Edition (RTX Spark N1X, 18-core CPU, 5,120-core GPU, 32GB, 512GB test config)"
+  },
+  {
+   "outlet": "Digital Trends",
+   "url": "https://digitaltrends.com/computing/dells-first-rtx-spark-xps-is-here-but-nvidia-power-comes-at-a-premium/",
+   "date": "2026-10"
+  },
+  {
+   "outlet": "Notebookcheck",
+   "url": "https://notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
+   "date": "2026-10"
+  }
+ ],
+ "fact_sources": [
+  {
+   "fact": "Launched in India; starts at Rs 4,49,990",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://businessupturn.com/technology/dell-launches-xps-16-creator-edition-in-india-at-rs-4-49-990-with-nvidia-rtx-spark/",
+    "https://www.newsbricks.com/technology/dell-xps16-creator-edition-india-launch-features"
+   ]
+  },
+  {
+   "fact": "Price includes taxes",
+   "urls": [
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://businessupturn.com/technology/dell-launches-xps-16-creator-edition-in-india-at-rs-4-49-990-with-nvidia-rtx-spark/"
+   ]
+  },
+  {
+   "fact": "Base model 32GB memory + 512GB SSD",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://digitaltrends.com/computing/dells-first-rtx-spark-xps-is-here-but-nvidia-power-comes-at-a-premium/",
+    "https://www.dell.com/en-in/lp/xps-laptops"
+   ]
+  },
+  {
+   "fact": "Dell's first XPS laptop powered by Nvidia RTX Spark",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://digitaltrends.com/computing/dells-first-rtx-spark-xps-is-here-but-nvidia-power-comes-at-a-premium/"
+   ]
+  },
+  {
+   "fact": "On Dell's online store from 20 November",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://businessupturn.com/technology/dell-launches-xps-16-creator-edition-in-india-at-rs-4-49-990-with-nvidia-rtx-spark/"
+   ]
+  },
+  {
+   "fact": "Dell Exclusive Stores, large-format retailers, online retail partners by mid-December",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://businessupturn.com/technology/dell-launches-xps-16-creator-edition-in-india-at-rs-4-49-990-with-nvidia-rtx-spark/"
+   ]
+  },
+  {
+   "fact": "Up to Rs 15,000 cashback via Axis Bank and ICICI Bank",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india"
+   ]
+  },
+  {
+   "fact": "Up to 128GB unified memory shared by CPU and GPU",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265"
+   ]
+  },
+  {
+   "fact": "16-inch 3.2K (tandem) OLED, up to 120Hz",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india",
+    "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265"
+   ]
+  },
+  {
+   "fact": "99Wh battery",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html"
+   ]
+  },
+  {
+   "fact": "17.8mm thick",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india"
+   ]
+  },
+  {
+   "fact": "Full-size SD card slot and HDMI port",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india"
+   ]
+  },
+  {
+   "fact": "RTX Spark combines Nvidia Grace CPU and Blackwell RTX GPU on one superchip",
+   "urls": [
+    "https://www.fonearena.com/blog/497372/dell-xps-16-creator-edition-price-india-features.html",
+    "https://www.varindia.com/news/dell-launches-rtx-spark-powered-xps-16-creator-edition-in-india"
+   ]
+  }
+ ],
+ "not_used": "Per-config prices above the base (Rs 5,29,990 to Rs 9,49,990) appear only in FoneArena; left off the card and caption (single source).",
+ "image": {
+  "url": "https://i.dell.com/assetlink/img/global/xps-16-dx16263-pdp-studio-quality-00-dl11hr7g-large.png?fmt=jpg&wid=2400",
+  "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
+  "licence": "Dell official product/press image from Dell's own XPS 16 Creator Edition product page; editorial use, credited 'Image: Dell'",
+  "author": "Dell Technologies",
+  "size": "2400x2400",
+  "subject": "Dell XPS 16 Creator Edition, open, front view, on a blue-grey studio background; no people, no watermark",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-2100/desks/idlytech/dell_studio00.jpg",
+  "framing": {
+   "tool": "python3 -m pipeline.framing -> ok, focal 0.5/0.5, zoom 1.0, upscale 0.56, faces 0",
+   "used": {
+    "photo": "_work/2026-11-21-hourly-2100/desks/idlytech/frame_dell_studio00/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0
+   },
+   "note": "On the rendered cover the lid/screen sits at y ~340-955 of 1350, whole, ~60 px from each side; headline starts ~960. The thin base edge (seen edge-on) runs to both frame edges at y ~965-1000, under the headline scrim. Every other Dell image (gallery 1-9, right-facing, blog featured image) is edge-to-edge or too small for a whole-product 4:5 crop."
+  },
+  "rejected": [
+   "dell_gallery_1 (front cut-out, edge to edge)",
+   "dell_gallery_3 (3/4 view, product spans 1-99% of width)",
+   "dell_gallery_7 (side profile)",
+   "Dell blog featured image 1200x630 (too small for 4:5)"
+  ]
+ },
+ "tags": [
+  "@delltech"
+ ],
+ "tag_evidence": "dell.com/en-in (Dell India home page) schema.org 'sameAs' lists https://www.instagram.com/delltech/ alongside x.com/delltech, linkedin.com/company/delltechnologies, youtube.com/delltechnologies. The cover image is Dell's own.",
+ "candidates": [
+  {
+   "title": "Dell XPS 16 Creator Edition India price",
+   "outcome": "G1 BUILD (ceiling 13)"
+  },
+  {
+   "title": "GG Technologies (StayTouch) Rs 1,500 crore NameDrop suit vs Apple, Bombay HC",
+   "outcome": "G1 NO BUILD (ceiling ~11: no hearing date, plaintiff claims)"
+  },
+  {
+   "title": "Logitech MX Master 4 Creator Edition India Rs 12,995",
+   "outcome": "G1 NO BUILD (ceiling ~11: narrow)"
+  },
+  {
+   "title": "Opensignal Nov 2026, TRAI Network Anubhav, Lava Smart 4 Pro, Motorola Edge 70 Neo",
+   "outcome": "dropped before G1: no usable image of the subject"
+  }
+ ],
+ "gates": [
+  {
+   "gate": "G1",
+   "id": "idlytech-G1-1",
+   "verdict": "BUILD #1 (ceiling 13); NO BUILD NameDrop, Logitech; image condition: whole laptop or studio00 fallback"
+  },
+  {
+   "gate": "G23",
+   "id": "idlytech-G23-1",
+   "verdict": "FIX caption sentence ('keeps a full-size SD card slot' -> 'has an SD card slot'); picture PASS under fallback; tag @delltech OK"
+  },
+  {
+   "gate": "G4",
+   "id": "idlytech-G4-1",
+   "verdict": "PASS 13/14 (send 1)"
+  }
+ ],
+ "baseline_note": "checkcopy flagged TN baseline keyword matches (Sarathkumar video, Vetri Laptop scheme, R. Kumar AI ministry): false positives from 'video'/'laptop'; story has no Tamil Nadu angle."
+}
