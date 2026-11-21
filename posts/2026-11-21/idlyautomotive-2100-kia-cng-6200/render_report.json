@@ -1,0 +1,58 @@
+[
+ {
+  "size": 100,
+  "lines": 3,
+  "overflow": false,
+  "top": 950,
+  "credit_line": "Image: Kia India",
+  "slug": "idlyautomotive-2100-kia-cng-6200",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-21/idlyautomotive-2100-kia-cng-6200/01.jpg",
+  "scale": 0.976
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Rushlane, GaadiWaadi, CarWale",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-2100-kia-cng-6200",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-21/idlyautomotive-2100-kia-cng-6200/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 180,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Rushlane, GaadiWaadi, CarWale",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-2100-kia-cng-6200",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-21/idlyautomotive-2100-kia-cng-6200/03.jpg",
+  "scale": null
+ }
+]

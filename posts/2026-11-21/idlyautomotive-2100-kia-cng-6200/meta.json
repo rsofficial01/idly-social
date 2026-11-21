@@ -1,0 +1,151 @@
+{
+ "title": "Kia's CNG 7-Seaters: 6,200 in Two Months, From ₹12.12 Lakh",
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2100-kia-cng-6200",
+ "format": "carousel (cover + 2 detail slides)",
+ "idly_article": true,
+ "story_id": 3198,
+ "idly_article_url": "https://api.idly.news/api/v1/articles/3198/",
+ "sources": [
+  {
+   "outlet": "Rushlane",
+   "url": "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "date": "2026-11-19"
+  },
+  {
+   "outlet": "GaadiWaadi",
+   "url": "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "CarWale",
+   "url": "https://www.carwale.com/news/kia-carens-and-clavis-cng-crosses-6000-wholesale-units-mark/",
+   "date": "2026-11-19"
+  },
+  {
+   "outlet": "India Today (via idly.news 3198; not fetched directly)",
+   "url": "https://www.indiatoday.in/auto/cars/story/kia-carens-cng-carens-clavis-cng-cross-6200-wholesale-units-in-two-months-3042223-2026-11-19",
+   "date": "2026-11-19"
+  }
+ ],
+ "facts": {
+  "6,200+ combined wholesale units (dispatches to dealers, not registrations) within two months of the Sept 2026 launch; announced 19 Nov; Kia's first CNG models": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/",
+   "https://www.carwale.com/news/kia-carens-and-clavis-cng-crosses-6000-wholesale-units-mark/"
+  ],
+  "Carens CNG ₹12.12 lakh ex-showroom, Premium (O) only": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/"
+  ],
+  "Carens Clavis CNG from ₹12.39 lakh, HTE and HTE (O)": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/"
+  ],
+  "Kia Assured Buyback up to 75% after three years, subject to mileage limits and conditions": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://www.carwale.com/news/kia-carens-and-clavis-cng-crosses-6000-wholesale-units-mark/",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/"
+  ],
+  "1.5-litre (G1.5) petrol engine with six-speed manual": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://www.carwale.com/news/kia-carens-and-clavis-cng-crosses-6000-wholesale-units-mark/",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/"
+  ],
+  "60-litre CNG cylinder, factory-fitted": [
+   "https://www.rushlane.com/kia-carens-cng-sales-clavis-12561593.html",
+   "https://gaadiwaadi.com/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-months-in-india/",
+   "https://api.idly.news/api/v1/articles/3198/"
+  ]
+ },
+ "image": {
+  "url": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/kia-clavis/clavis_m.jpg",
+  "page": "https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html",
+  "licence": "Kia India official product image from the maker's own Carens Clavis page; credited 'Image: Kia India'",
+  "author": "Kia India",
+  "size": "1440x2560",
+  "subject": "Silver Kia Carens Clavis (with Kia's own 'Carens Clavis' front placard) parked alone on a terrace by a curved glass-and-wood building, mountains and sky behind; no people, no watermark, no tagline",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-2100/desks/idlyautomotive/clavis_m.jpg",
+  "framing": {
+   "photo": "posts/2026-11-21/idlyautomotive-2100-kia-cng-6200/src/cover_source.png",
+   "tool_output": {
+    "ok": true,
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 0.75,
+    "faces": 0
+   },
+   "focal": [
+    0.476,
+    0.634
+   ],
+   "zoom": 1.3,
+   "scale": 0.976,
+   "note": "set by hand: crop 1108x1385 from (131, 931); whole car at y ~300-715, x ~160-920 of 1080x1350, clear of logo (<170) and headline block; no upscale",
+   "caveat": "pictured trim has alloys/LEDs; the Clavis CNG is sold in HTE/HTE (O) with the same body; older-shape Carens CNG not pictured"
+  }
+ },
+ "tags": [
+  {
+   "handle": "kiaind",
+   "owner": "Kia India (image owner)",
+   "evidence": "https://www.instagram.com/kiaind is the Instagram link in the footer of https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html and https://www.kia.com/in/discover-kia/news.html (checked 21 Nov 2026)"
+  }
+ ],
+ "candidates": [
+  {
+   "story": "Kia Carens / Carens Clavis CNG pass 6,200 wholesale units in two months (idly 3198)",
+   "outcome": "G1 BUILD (ceiling 12-13); built"
+  },
+  {
+   "story": "Honda Rebel 500 ₹4.50 lakh, ₹62,000 below the old CBU price",
+   "outcome": "G1 NO BUILD: Honda's 27YM CMX500 press set (hondanews.eu) is all studio side/3-4 shots that can't frame 4:5 with the bike whole"
+  },
+  {
+   "story": "Updated Bajaj Pulsar RS200 ₹1.98 lakh",
+   "outcome": "G1 NO BUILD: all bajajauto.com images show the outgoing RSU-fork bike"
+  },
+  {
+   "story": "Hyundai Verna 5 Bharat NCAP stars",
+   "outcome": "dropped before G1: Hyundai India only has 1860x540 banners (facelift; Commons photos are pre-facelift)"
+  },
+  {
+   "story": "Tata Sierra EV 5 stars",
+   "outcome": "dropped: no official image reachable (Tata EV/cars sites TLS errors); none on Commons"
+  },
+  {
+   "story": "PUC 3-year validity for BS-VI",
+   "outcome": "dropped: no photo of an actual Indian PUC centre on Commons"
+  },
+  {
+   "story": "Maruti Fronx 6 lakh",
+   "outcome": "dropped: Autocar India's own tally, single source"
+  },
+  {
+   "story": "BYD India 20,000 deliveries (idly 3286)",
+   "outcome": "dropped: no buyer action, no framable official image found"
+  }
+ ],
+ "gates": [
+  {
+   "gate": "G1",
+   "id": "idlyautomotive-G1-1",
+   "verdict": "BUILD #1 (ceiling 12-13); NO BUILD #2, #3"
+  },
+  {
+   "gate": "G23",
+   "id": "idlyautomotive-G23-1",
+   "verdict": "FIX cover headline to 10 words ('Kia's CNG Seven-Seaters: 6,200 in Two Months, From ₹12.12 Lakh'); picture PASS; tag OK. Applied; then '7-Seaters' to stop the cover breaking 'Seven-/Seaters' across lines"
+  },
+  {
+   "gate": "G4",
+   "id": "idlyautomotive-G4-1",
+   "verdict": "PASS 13/14 (send 1)"
+  }
+ ]
+}
