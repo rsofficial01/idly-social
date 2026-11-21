@@ -1,0 +1,80 @@
+[
+ {
+  "size": 90,
+  "lines": 3,
+  "overflow": false,
+  "top": 980,
+  "credit_line": "Photo: Sikander Iqbal / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlytech-0757-gemini-nest-speakers-india",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-21/idlytech-0757-gemini-nest-speakers-india/01.jpg",
+  "scale": 0.562
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Google, TechGenyz",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-gemini-nest-speakers-india",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlytech-0757-gemini-nest-speakers-india/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Google, TechGenyz",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-gemini-nest-speakers-india",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlytech-0757-gemini-nest-speakers-india/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Google, 9to5Google, The Verge, TechGenyz",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-gemini-nest-speakers-india",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlytech-0757-gemini-nest-speakers-india/04.jpg",
+  "scale": null
+ }
+]

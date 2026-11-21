@@ -1,0 +1,116 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "format": "news",
+ "title": "Google said on 20 Nov 2026 that it will retire Google Assistant on its speakers and smart displays (Google Home, Nest Mini, Nest Audio, Nest Hub etc.) on 2 August 2027, replacing it with Gemini for Home; the separate Nest app closes on 25 January 2027 and Nest devices move to the Google Home app. Google's Help Centre lists early access to Gemini for Home in India as 'coming in December' (2026). Basic Gemini for Home features (smart home controls, media, alarms, timers, lists, reminders) are free; Gemini Live needs a paid Google Home Premium plan. A home that switches to Gemini cannot switch back. The early-access language list includes English but no Hindi or other Indian language; Google says other languages follow 'over time'. Full Gemini on Nest Mini (2nd gen), Nest Audio, Nest Hub (1st/2nd gen), Nest Hub Max, Home Mini (1st gen), Google Home Speaker (2026); original Google Home, Home Max and Nest Wifi point get most features but not Gemini Live.",
+ "headline": "Gemini Takes Over Nest Speakers; India Early Access in December",
+ "tags": [],
+ "tag_evidence": "No tag: the cover is a Wikimedia Commons photo by Sikander Iqbal, not Google's own image.",
+ "image": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Google_Nest_Mini_-_202001_-_01.jpg/1920px-Google_Nest_Mini_-_202001_-_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Google_Nest_Mini_-_202001_-_01.jpg",
+  "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), own work",
+  "author": "Sikander Iqbal",
+  "size": "1920x2553 (Commons 1920 px rendition of the 2777x3693 original; the original URL returned 429 rate-limit)",
+  "subject": "Google Nest Mini (2nd gen, Jan 2020), charcoal, top-down, in its open retail box on a wooden surface; no people, no watermark",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-21-hourly-0757/desks/idlytech/commons_nestmini_01.jpg",
+  "framing": {
+   "tool": "python3 -m pipeline.framing -> ok, focal 0.5/0.5, zoom 1.0, upscale 0.56 (downscaled, no enlargement), faces 0",
+   "used": {
+    "photo": "_work/2026-11-21-hourly-0757/desks/idlytech/frame_nestmini_01/cover_source.png",
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "render_scale": 0.56
+   },
+   "note": "Nest Mini sits at about y 240-770 of 1350 on the cover: below the logo (ends ~110) and above the 3-line headline (top 980). Whole puck visible, nothing cut. Rejected: Commons trio photo (landscape; a 4:5 crop cuts the devices / puts the Home Mini under the headline) and the lit charcoal Nest Mini (Natixd123), whose base sat under the headline."
+  }
+ },
+ "fact_sources": [
+  {
+   "fact": "Google Assistant on Google's speakers and smart displays retires on 2 August 2027; Gemini for Home voice assistant fully replaces it (announced 20 Nov 2026)",
+   "urls": [
+    "https://support.google.com/googlehome/blog/478236207",
+    "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
+    "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+   ]
+  },
+  {
+   "fact": "The Nest app (Android, iOS, web) closes on 25 January 2027; Nest devices move to the Google Home app",
+   "urls": [
+    "https://support.google.com/googlehome/blog/478236207",
+    "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
+    "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+   ]
+  },
+  {
+   "fact": "Gemini for Home early access for India is listed as 'coming in December' (no specific date)",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Basic Gemini for Home features (smart home controls, media search and playback, alarms and timers, calendars, notes, lists, reminders) are free; Gemini Live needs a Google Home Premium subscription",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Once a home switches to Gemini for Home it can't switch back to Google Assistant",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Early-access language list includes English but no Hindi or other Indian language; other languages and countries get access 'over time'",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Full Gemini for Home on Nest Mini (2nd gen), Nest Audio, Nest Hub (1st and 2nd gen), Nest Hub Max, Home Mini (1st gen), Google Home Speaker (2026); original Google Home, Google Home Max and Nest Wifi point get most features but not Gemini Live",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Gemini for Home's early-access language list has 13 entries (Chinese Traditional*, Danish, Dutch, English, French, German, Italian, Japanese, Korean*, Norwegian, Portuguese*, Spanish, Swedish; * = coming in December), none of them Hindi or another Indian language (count taken from Google's official list)",
+   "urls": [
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  },
+  {
+   "fact": "Existing Google/Nest speakers and displays get Gemini for Home; no new device needed (Google: 'Every device supported today works with these updated experiences'; upgrading is free and 'available across all devices'; compatible-device list covers Nest Mini, Nest Audio, Nest Hub, Home Mini, original Google Home etc.)",
+   "urls": [
+    "https://support.google.com/googlehome/blog/478236207",
+    "https://support.google.com/googlehome/answer/16618650",
+    "https://techgenyz.com/gemini-for-home-india-december-2026/"
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "story": "Google Assistant retires on speakers/displays 2 Aug 2027; Gemini for Home early access in India in December",
+   "outcome": "G1 BUILD (ceiling 12-13); built"
+  },
+  {
+   "story": "Dell XPS 16 Creator Edition India launch, Rs 4,49,990 to Rs 9,49,990",
+   "outcome": "G1 NO BUILD: no official Dell image located; send 1"
+  },
+  {
+   "story": "Xiaomi Pad 8 / Redmi Pad 2 India price hikes up to Rs 2,000",
+   "outcome": "G1 NO BUILD: small rises, one outlet, promo-only image"
+  }
+ ]
+}

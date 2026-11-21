@@ -1,0 +1,57 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-gemini-nest-speakers-india",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Google",
+  "9to5Google",
+  "The Verge",
+  "TechGenyz"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Gemini Takes Over Nest Speakers; India Early Access in December",
+   "photo": "_work/2026-11-21-hourly-0757/desks/idlytech/frame_nestmini_01/cover_source.png",
+   "photo_credit": "Photo: Sikander Iqbal / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "DEC 2026",
+   "stat_label": "Gemini for Home Early Access in India",
+   "bullets": [
+    "Existing speakers get it, Google says; no new device",
+    "Free: smart home, music, alarms, timers, reminders",
+    "Gemini Live needs a paid Google Home Premium plan"
+   ],
+   "credit_line": "Sources: Google, TechGenyz"
+  },
+  {
+   "type": "detail",
+   "stat": "13",
+   "stat_label": "Languages on Gemini for Home's List, Not Hindi",
+   "bullets": [
+    "English is in; Hindi and other Indian languages aren't",
+    "Google: other languages will follow 'over time'",
+    "Switching to Gemini is one-way, Google says"
+   ],
+   "credit_line": "Sources: Google, TechGenyz"
+  },
+  {
+   "type": "detail",
+   "stat": "2 AUG 2027",
+   "stat_label": "Google Assistant Ends on Google Speakers and Displays",
+   "bullets": [
+    "Full Gemini: Nest Mini, Nest Audio, Nest Hub",
+    "Original Google Home: most features, no Gemini Live",
+    "Separate Nest app closes on 25 January 2027"
+   ],
+   "credit_line": "Sources: Google, 9to5Google, The Verge, TechGenyz"
+  }
+ ]
+}
