@@ -1,0 +1,72 @@
+{
+ "slug": "2026-11-21-idlynerd-1157-om-day-one-v2",
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "evergreen": false,
+ "story": false,
+ "title": "OM day one: ₹17.7 crore net in India (Sacnilk), Dhanush's career-best opening; ₹31.55 crore worldwide",
+ "headline": "OM Opens to ₹17.7 Crore, Dhanush's Biggest Day One, Trackers Say",
+ "caption": "Dhanush's spy thriller OM made an estimated ₹17.7 crore net in Indian cinemas on Friday, 20 November, trade tracker Sacnilk says. That is the biggest opening day of his career, ahead of Tere Ishk Mein's roughly ₹16 crore.\n\nWorldwide, OM grossed an estimated ₹31.55 crore on day one, about ₹11 crore of it overseas. The Tamil version brought in ₹13.35 crore net, the Telugu version ₹4 crore and the Hindi version ₹35 lakh.\n\nRajkumar Periasamy's film also stars Mammootty and Sai Pallavi. These are tracker estimates; the makers haven't announced a figure.\n\nWatching OM this weekend?\n\nSources: Sacnilk, The Hollywood Reporter India, DNA, Filmibeat\n\n#OM #Dhanush #TamilCinema #BoxOffice #idlynerd",
+ "alt_text": "An official still from OM, under the headline \"OM Opens to ₹17.7 Crore, Dhanush's Biggest Day One, Trackers Say\". Two more slides give OM's estimated ₹31.55 crore worldwide day one, with about ₹11 crore overseas, and its India split: ₹13.35 crore Tamil, ₹4 crore Telugu and ₹35 lakh Hindi.",
+ "sources": [
+  "Sacnilk",
+  "The Hollywood Reporter India",
+  "DNA",
+  "Filmibeat"
+ ],
+ "detail_slides": [
+  {
+   "stat": "₹31.55 CR",
+   "stat_label": "OM's Worldwide Day One, Trackers Estimate",
+   "bullets": [
+    "About ₹11 crore of it came from overseas",
+    "Old India best: Tere Ishk Mein's ₹16 crore net"
+   ],
+   "credit_line": "Sources: Sacnilk, The Hollywood Reporter India, DNA"
+  },
+  {
+   "stat": "₹13.35 CR",
+   "stat_label": "OM's Tamil Version Led on Day One",
+   "bullets": [
+    "OM's Telugu version added ₹4 crore net",
+    "OM in Hindi: ₹35 lakh from 990 shows",
+    "Tracker estimates; the makers haven't announced figures"
+   ],
+   "credit_line": "Sources: Sacnilk, The Hollywood Reporter India, Filmibeat"
+  }
+ ],
+ "image": {
+  "resolver": "youtube_official",
+  "ref": "https://www.youtube.com/watch?v=Lk0baO-0omQ",
+  "fallback": [
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=cTwdNAbmIkc"
+   },
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=37cDdL84xfg"
+   },
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=-RDS6kxTlAw"
+   }
+  ]
+ },
+ "tags": [],
+ "scores": {
+  "self": {
+   "hook": 2,
+   "read": 2,
+   "send": 2,
+   "keep": 1,
+   "reply": 2,
+   "original": 2,
+   "alone": 2,
+   "total": 13,
+   "notes": "keep 1: day-one box office figures, no date/price/deadline to save. Everything else is on the cards: tracker-attributed India number on the cover, worldwide and language split on slides, OM named on every slide."
+  }
+ },
+ "created_at": "2026-11-21T12:16:01+05:30"
+}
