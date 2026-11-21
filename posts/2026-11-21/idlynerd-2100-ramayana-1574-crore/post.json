@@ -1,0 +1,58 @@
+{
+ "acct": "idlynerd",
+ "slug": "idlynerd-2100-ramayana-1574-crore",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Sacnilk",
+  "India.com",
+  "Filmibeat",
+  "Gulf News",
+  "Business Today",
+  "The Hollywood Reporter India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Ramayana Hits ₹1,574 Crore Worldwide in 16 Days, Sacnilk Says",
+   "photo": "/home/user/idly-social/_work/2026-11-21-hourly-2100/desks/idlynerd/frame_ram_banner/cover_source.png",
+   "photo_credit": "Image: DNEG / Prime Focus Studios",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "NO. 5",
+   "stat_label": "Ramayana's Rank Among Indian Films Worldwide",
+   "bullets": [
+    "Next above: Pushpa 2 at ₹1,742 crore",
+    "Ramayana needs ₹168 crore more to pass Pushpa 2",
+    "Top three: Dangal, Dhurandhar 2, Baahubali 2"
+   ],
+   "credit_line": "Sources: Sacnilk, Gulf News, Business Today"
+  },
+  {
+   "type": "detail",
+   "stat": "₹880 CR",
+   "stat_label": "Ramayana's India Net in 16 Days",
+   "bullets": [
+    "Sacnilk expects ₹900 crore net on Saturday, Day 17",
+    "Only Pushpa 2 and Dhurandhar 2 got there faster",
+    "Trackers differ; the makers haven't confirmed figures"
+   ],
+   "credit_line": "Sources: Sacnilk, India.com, Filmibeat"
+  },
+  {
+   "type": "detail",
+   "stat": "DIWALI 2028",
+   "stat_label": "When Ramayana: Part Two Reaches Cinemas",
+   "bullets": [
+    "Ramayana: Part Two was first planned for Diwali 2027",
+    "Producer Namit Malhotra confirmed the move"
+   ],
+   "credit_line": "Sources: The Hollywood Reporter India, Gulf News"
+  }
+ ]
+}
