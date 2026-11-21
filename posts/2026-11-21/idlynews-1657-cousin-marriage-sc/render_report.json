@@ -1,0 +1,58 @@
+[
+ {
+  "size": 78,
+  "lines": 3,
+  "overflow": false,
+  "top": 1016,
+  "credit_line": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlynews-1657-cousin-marriage-sc",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-21/idlynews-1657-cousin-marriage-sc/01.jpg",
+  "scale": 1.13
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: NFHS-5 via Dataful, Deccan Herald",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-cousin-marriage-sc",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynews-1657-cousin-marriage-sc/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 160,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hindustan Times, Law Trend, Verdictum",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-cousin-marriage-sc",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-21/idlynews-1657-cousin-marriage-sc/03.jpg",
+  "scale": null
+ }
+]

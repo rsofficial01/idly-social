@@ -1,0 +1,48 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-cousin-marriage-sc",
+ "date": "21 Nov 2026",
+ "sources": [
+  "Hindustan Times",
+  "Law Trend",
+  "Verdictum",
+  "Deccan Herald",
+  "The Pioneer",
+  "NFHS-5 via Dataful"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Tamil Nadu: 28% of Married Women Wed Relatives. Top Court Seeks Centre's View",
+   "photo": "_work/2026-11-21-hourly-1657/desks/idlynews/frame_sc01/cover_source.png",
+   "photo_credit": "Photo: Subhashish Panigrahi / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "28%",
+   "stat_label": "Tamil Nadu Is Highest; Karnataka Next at 27%",
+   "bullets": [
+    "Women married to a blood relative, by state",
+    "India's average is about 11%",
+    "Ever-married women aged 15-49, National Family Health Survey 2019-21"
+   ],
+   "credit_line": "Sources: NFHS-5 via Dataful, Deccan Herald"
+  },
+  {
+   "type": "detail",
+   "stat": "NOT A BAN",
+   "stat_label": "Supreme Court Asks Centre: Law or Awareness",
+   "bullets": [
+    "Limited notice, 20 Nov; options include school curricula",
+    "Laws on marriage customs are Parliament's call, court says",
+    "Law student's plea seeks premarital genetic counselling, screening"
+   ],
+   "credit_line": "Sources: Hindustan Times, Law Trend, Verdictum"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "no_idly_article_reason": "Supreme Court notice of 20 Nov 2026; no idly.news article in the 30h list (news category has no Indian court/governance item); publish with --no-idly-article",
+ "format": "news: cover + 2 detail slides",
+ "title": "Supreme Court asks Centre to consider a law or awareness on health risks of consanguineous marriages; NFHS-5 puts Tamil Nadu highest at 28%",
+ "headline": "Tamil Nadu: 28% of Married Women Wed Relatives. Top Court Seeks Centre's View",
+ "sources": [
+  {"outlet": "Hindustan Times", "date": "21 Nov 2026", "url": "https://www.hindustantimes.com/india-news/supreme-court-seeks-centres-response-on-plea-to-raise-awareness-on-effects-of-marriage-between-blood-relatives-101795226557507.html"},
+  {"outlet": "Law Trend", "date": "20 Nov 2026", "url": "https://lawtrend.in/supreme-court-issues-notice-to-centre-on-health-risks-of-consanguineous-marriages-says-it-cannot-direct-legislation/"},
+  {"outlet": "Verdictum", "date": "20 Nov 2026", "url": "https://www.verdictum.in/weekly-summary/notice-centre-plea-seeking-safeguards-against-consanguineous-marriages-1626103"},
+  {"outlet": "Deccan Herald", "date": "20 Nov 2026", "url": "https://www.deccanherald.com/india/supreme-court-seeks-centres-response-on-awareness-drive-against-consanguineous-marriages-4225452"},
+  {"outlet": "The Pioneer", "date": "21 Nov 2026", "url": "https://dailypioneer.com/law-justice/supreme-court-seeks-centres-response-on-law-and-awareness-over-blood-relative-marriages"},
+  {"outlet": "Dataful (NFHS-5)", "date": "10 Jul 2025", "url": "https://insights.dataful.in/maps/prevalence-of-consanguineous-marriages-in-india-nfhs-5-2019-21"},
+  {"outlet": "Deccan Herald (NFHS-5)", "date": "8 May 2022", "url": "https://www.deccanherald.com/india/karnataka/karnataka-has-second-highest-marriages-among-blood-relatives-1107368.html"},
+  {"outlet": "Cureus via PMC", "date": "25 Dec 2024", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11759663/"}
+ ],
+ "fact_sources": [
+  {"fact": "20 Nov 2026: bench of CJI Surya Kant, Justices Joymalya Bagchi and V Mohana issued a limited notice to the Centre; regulating marriage customs is Parliament's domain; not directing the government to legislate; Centre to consider a law or awareness incl. school/college curricula",
+   "urls": ["https://lawtrend.in/supreme-court-issues-notice-to-centre-on-health-risks-of-consanguineous-marriages-says-it-cannot-direct-legislation/", "https://www.verdictum.in/weekly-summary/notice-centre-plea-seeking-safeguards-against-consanguineous-marriages-1626103", "https://www.hindustantimes.com/india-news/supreme-court-seeks-centres-response-on-plea-to-raise-awareness-on-effects-of-marriage-between-blood-relatives-101795226557507.html"]},
+  {"fact": "Petitioner: 20-year-old law student whose parents are first cousins; 40% visual impairment (counsel/plea)",
+   "urls": ["https://www.deccanherald.com/india/supreme-court-seeks-centres-response-on-awareness-drive-against-consanguineous-marriages-4225452", "https://theopenpress.in/article/supreme-court-consanguineous-marriage-law-centre-response", "https://lawtrend.in/supreme-court-issues-notice-to-centre-on-health-risks-of-consanguineous-marriages-says-it-cannot-direct-legislation/"]},
+  {"fact": "Plea asks for (mandatory) premarital genetic counselling in high-prevalence areas, voluntary screening, a nationwide awareness campaign; existing marriages not to be criminalised",
+   "urls": ["https://www.deccanherald.com/india/supreme-court-seeks-centres-response-on-awareness-drive-against-consanguineous-marriages-4225452", "https://dailypioneer.com/law-justice/supreme-court-seeks-centres-response-on-law-and-awareness-over-blood-relative-marriages"]},
+  {"fact": "NFHS-5 (2019-21): Tamil Nadu 28% (highest), Karnataka 27%, India about 11% (10.8%) of ever-married women aged 15-49 married to a blood relative",
+   "urls": ["https://insights.dataful.in/maps/prevalence-of-consanguineous-marriages-in-india-nfhs-5-2019-21", "https://www.deccanherald.com/india/karnataka/karnataka-has-second-highest-marriages-among-blood-relatives-1107368.html", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11759663/"]}
+ ],
+ "image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Supreme_Court_of_India_01.jpg/1920px-Supreme_Court_of_India_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India_01.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Subhashish Panigrahi",
+  "size": "2638x1643 original; 1920x1196 rendition used",
+  "subject": "Central Wing of the Supreme Court of India, New Delhi (the court that issued the notice)",
+  "faces": 0,
+  "viewed": true,
+  "framing": "pipeline.framing: ok, focal [0.5,0.5], zoom 1.0, upscale 1.13, faces 0; logo on the dome cap (reviewer: legible)"
+ },
+ "tags": [],
+ "tag_evidence": "none: Wikimedia Commons photo",
+ "baseline": "TN story: python3 -m pipeline.baseline check run, exit 0, no STOP, no item on this topic",
+ "gates": "G1-1 BUILD (ceiling 12); G23-1 FIX (cover 'Wives', drop Acts sentence); G23-2 PASS; G4-1 FIX 11/14 (slides 2-3 copy); G4-2 PASS 12/14",
+ "candidates": [
+  {"story": "SC notice on consanguineous-marriage health risks; NFHS-5 TN 28%", "outcome": "built; post 12/14"},
+  {"story": "Goa Mandrem/Galgibaga Blue Flag 2026-27", "outcome": "G1 NO BUILD (~10-11): soft; 'first'/'24' conflict HT vs PTI"},
+  {"story": "Siang dam: Amit Shah's first remarks", "outcome": "G1 NO BUILD (~9-10): nothing to keep, narrow send"},
+  {"story": "Manipur spurious liquor, Chandel/Sugnu (13-16 dead, 300-370+ hospitalised)", "outcome": "not offered: no image of the actual place; licensed_wire not configured"},
+  {"story": "India v NZ Wellington Day 3 (486/4, lead 118)", "outcome": "not offered: Morning Brief carried Rahul's hundred"},
+  {"story": "SC: unwed mother's preferential custody claim (20 Nov)", "outcome": "not offered: single source (LiveLaw), interim"},
+  {"story": "Nikhil Gupta sentencing (Pannun plot)", "outcome": "banned-subject rule: flag only"}
+ ]
+}
