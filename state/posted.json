@@ -4970,5 +4970,21 @@
     "tagged": [
       "kiaind"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18476774890138259",
+    "permalink": "https://www.instagram.com/p/DgBxUSElAOG/",
+    "posted_at": "2026-11-22T02:49:42+00:00",
+    "date": "2026-11-22",
+    "slot": "am",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-22/idlynews-0757-morning-brief/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-22/idlynews-0757-morning-brief/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-22/idlynews-0757-morning-brief/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-22/idlynews-0757-morning-brief/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
