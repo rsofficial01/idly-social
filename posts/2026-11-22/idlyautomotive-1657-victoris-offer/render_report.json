@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Maruti Suzuki",
+  "slug": "idlyautomotive-1657-victoris-offer",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-1657-victoris-offer/01.jpg",
+  "scale": 0.328
+ },
+ {
+  "stat": 284,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: CarDekho (22 Nov), Autocar India (7 Nov)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-victoris-offer",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-1657-victoris-offer/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 136,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: CarDekho, Autocar India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-victoris-offer",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-1657-victoris-offer/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 144,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: CarDekho, Autocar India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-1657-victoris-offer",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-1657-victoris-offer/04.jpg",
+  "scale": null
+ }
+]

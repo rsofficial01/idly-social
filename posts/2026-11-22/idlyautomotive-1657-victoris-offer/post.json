@@ -1,0 +1,54 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1657-victoris-offer",
+ "date": "22 Nov 2026",
+ "sources": [
+  "CarDekho",
+  "Autocar India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Maruti Victoris: Up to ₹1.40 Lakh Off",
+   "photo": "_work/2026-11-22-hourly-1657/idlyautomotive/framed/box_main/cover_source.png",
+   "photo_credit": "Image: Maruti Suzuki",
+   "focal": [
+    0.36,
+    1.0
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "30 Nov",
+   "stat_label": "Last Day of Maruti Victoris Hybrid Offers",
+   "bullets": [
+    "Top ₹1.40 lakh: strong-hybrid Victoris variants only",
+    "Petrol and CNG Victoris: no cash discount",
+    "Offers vary by city and dealer stock"
+   ],
+   "credit_line": "Sources: CarDekho (22 Nov), Autocar India (7 Nov)"
+  },
+  {
+   "type": "detail",
+   "stat": "Up to ₹20,000",
+   "stat_label": "Maruti Victoris Hybrid's Only Cash Discount",
+   "bullets": [
+    "Exchange up to ₹50,000, or scrappage up to ₹45,000",
+    "Existing Maruti owners: loyalty bonus up to ₹30,000"
+   ],
+   "credit_line": "Sources: CarDekho, Autocar India"
+  },
+  {
+   "type": "detail",
+   "stat": "Up to ₹15,000",
+   "stat_label": "Extra Maruti Victoris Exchange Bonus for These Rivals",
+   "bullets": [
+    "Hyundai i10 or i20",
+    "Tata Tiago or Nexon",
+    "Mahindra XUV 3XO"
+   ],
+   "credit_line": "Sources: CarDekho, Autocar India"
+  }
+ ]
+}
