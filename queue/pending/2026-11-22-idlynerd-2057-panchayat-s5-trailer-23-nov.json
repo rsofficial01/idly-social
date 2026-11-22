@@ -1,0 +1,82 @@
+{
+ "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+ "account": "idlynerd",
+ "story_id": null,
+ "idly_article": false,
+ "evergreen": false,
+ "title": "Panchayat Season 5 trailer on 23 Nov (Prime Video promo, 22 Nov); season streams on Prime Video from 3 Dec",
+ "headline": "Panchayat Season 5: Trailer on 23 Nov, Streaming From 3 Dec",
+ "caption": "Panchayat Season 5's trailer arrives on Monday, 23 November. Prime Video announced the date on Sunday in a new promo, ahead of the season's premiere on Thursday, 3 December, in India and more than 240 countries and territories.\n\nIn the promo, Banrakas (Durgesh Kumar) walks through a modernised, transformed Phulera and says, \"Ab shuru hoga humara raaj!\" Season 4 ended with Kranti Devi (Sunita Rajwar), backed by Banrakas, beating Manju Devi (Neena Gupta) in the panchayat election.\n\nJitendra Kumar returns as Abhishek Tripathi, the panchayat secretary. TVF produces the series and Deepak Kumar Mishra directs it.\n\nHave you watched Panchayat yet?\n\nSources: Prime Video, India TV, Filmibeat, Esquire India, Outlook India\n\n#Panchayat #PanchayatSeason5 #PrimeVideo #TVF #idlynerd",
+ "alt_text": "An official Prime Video India still from Panchayat Season 5's promo, under the headline \"Panchayat Season 5: Trailer on 23 Nov, Streaming From 3 Dec\". The next slides give the 23 November trailer date and Banrakas's promo line, the 3 December premiere on Prime Video in India and 240+ countries, and how Kranti Devi became Phulera's new Pradhan in Season 4.",
+ "sources": [
+  "Prime Video",
+  "India TV",
+  "Filmibeat",
+  "Esquire India"
+ ],
+ "detail_slides": [
+  {
+   "stat": "23 NOV",
+   "stat_label": "Panchayat Season 5 Trailer Drops Monday",
+   "bullets": [
+    "Prime Video announced the date in a new Banrakas promo",
+    "Banrakas walks through a modernised, transformed Phulera",
+    "His line: \"Ab shuru hoga humara raaj!\""
+   ],
+   "credit_line": "Sources: India TV, Filmibeat, Prime Video"
+  },
+  {
+   "stat": "3 DEC",
+   "stat_label": "Panchayat Season 5 Streams Only on Prime Video",
+   "bullets": [
+    "The new season premieres on Thursday, 3 December",
+    "In India and 240+ countries and territories",
+    "Jitendra Kumar returns as secretary Abhishek Tripathi"
+   ],
+   "credit_line": "Sources: Prime Video, Esquire India, Filmibeat"
+  },
+  {
+   "stat": "NEW PRADHAN",
+   "stat_label": "Kranti Devi Runs Phulera in Panchayat Season 5",
+   "bullets": [
+    "She beat Manju Devi in Season 4's panchayat election",
+    "Pradhan: the elected head of the village",
+    "Banrakas (Durgesh Kumar) is backing her new administration"
+   ],
+   "credit_line": "Sources: Esquire India, India TV"
+  }
+ ],
+ "image": {
+  "resolver": "youtube_official",
+  "ref": "https://www.youtube.com/watch?v=lGQjn3rd29I",
+  "fallback": [
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=O0e-4qA76cw"
+   },
+   {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=PLwbailsBi8"
+   }
+  ]
+ },
+ "tags": [
+  "primevideoin"
+ ],
+ "story": false,
+ "scores": {
+  "self": {
+   "hook": 2,
+   "read": 2,
+   "send": 2,
+   "keep": 2,
+   "reply": 2,
+   "original": 1,
+   "alone": 2,
+   "total": 13,
+   "notes": "original 1: a date announcement many outlets carried; idly's angle pairs today's trailer date with the 3 Dec premiere and the Season 4 context in its own words. hook 2 only if the lane's still is a clean single-character Season 5 frame. reply 2: yes/no that non-fans can answer too."
+  }
+ },
+ "notes": "idlynerd desk, hourly run 2057 (Sun 22 Nov). G1 PASS (reviewer: build A via lane, ceiling 13-14). New angle vs the rejected 21 Nov specs: the trailer date (23 Nov) announced 22 Nov. Image chain: three Prime Video India Season 5 promos (lGQjn3rd29I 22 Nov, O0e-4qA76cw 20 Nov, PLwbailsBi8 date-reveal campaign) (all oEmbed author_url @PrimeVideoIN), single-character first; none of the six videos that failed framing on 21 Nov are reused. Stories paused: story false. No idly article: Sources line, no idly.news link.",
+ "created_at": "2026-11-22T21:16:44+05:30"
+}
