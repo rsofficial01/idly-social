@@ -1,0 +1,13 @@
+{"acct": "idlyautomotive", "slug": "byd-20000-deliveries", "date": "22 Nov 2026",
+ "sources": ["Rushlane", "CarWale", "Autocar India"],
+ "slides": [
+  {"type": "cover", "headline": "BYD Doubles India Deliveries to 20,000",
+   "photo": "_work/2026-11-22-hourly-1157/idlyautomotive/framed/cover_source.png",
+   "photo_credit": "Image: BYD", "focal": [0.4875, 0.5], "zoom": 1.0},
+  {"type": "detail", "stat": "14,000+", "stat_label": "Atto 3 And Sealion 7 Lead BYD India",
+   "bullets": ["BYD Atto 3: more than 9,000 delivered", "BYD Sealion 7: more than 5,000 delivered", "BYD Seal and eMAX 7 make up the rest"]},
+  {"type": "detail", "stat": "₹24.99 Lakh", "stat_label": "Cheapest BYD In India: The Atto 3",
+   "bullets": ["Ex-showroom price of the base Atto 3 Dynamic", "BYD Sealion 7 starts at ₹41.90 lakh"]},
+  {"type": "detail", "stat": "51", "stat_label": "BYD Showrooms Across 40 Indian Cities",
+   "bullets": ["Next: Seal U, BYD's first plug-in hybrid here", "Promised for 2026; no date or price yet"]}
+ ]}
