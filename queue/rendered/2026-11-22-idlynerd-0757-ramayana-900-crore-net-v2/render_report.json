@@ -1,0 +1,161 @@
+{
+  "slug": "2026-11-22-idlynerd-0757-ramayana-900-crore-net-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-22T02:53:46+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=rR9ThneF3NQ",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=rR9ThneF3NQ",
+    "source_url": "https://www.youtube.com/watch?v=rR9ThneF3NQ",
+    "image_url": "https://i.ytimg.com/vi/rR9ThneF3NQ/maxresdefault.jpg",
+    "credit": "Image: World Of Ramayana (official trailer)",
+    "organisation": "World Of Ramayana",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=rR9ThneF3NQ: author 'World Of Ramayana' https://www.youtube.com/@WorldOfRamayana, title \"Ravie Dubey as Lakshman - Promo | Namit Malhotra's Ramayana\"",
+      "thumbnail https://i.ytimg.com/vi/rR9ThneF3NQ/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@WorldOfRamayana",
+    "video_title": "Ravie Dubey as Lakshman - Promo | Namit Malhotra's Ramayana"
+  },
+  "faces": [
+    [
+      451.5,
+      240.0,
+      91.5,
+      113.2,
+      0.925
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.3885,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      209.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        434,
+        425,
+        647,
+        688
+      ]
+    ],
+    "logo_saliency": 1.24,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        451.5,
+        240.0,
+        91.5,
+        113.2,
+        0.925
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: World Of Ramayana (official trailer)",
+      "Sources: Sacnilk, The Week, Bollywood Hungama",
+      "Sources: Sacnilk, Filmibeat"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 94,
+      "lines": 3,
+      "overflow": false,
+      "top": 968,
+      "credit_line": "Image: World Of Ramayana (official trailer)",
+      "slug": "2026-11-22-idlynerd-0757-ramayana-900-crore-net-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 164,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, The Week, Bollywood Hungama",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-0757-ramayana-900-crore-net-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 320,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Filmibeat",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-0757-ramayana-900-crore-net-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
+  ],
+  "caption_final": "Ramayana has crossed ₹900 crore net at the Indian box office, trade tracker Sacnilk estimates: ₹906.90 crore in 17 days, after ₹27.40 crore on Saturday, 21 November. By the same count, its worldwide gross is now ₹1,616.70 crore.\n\nOn Sacnilk's list, only three Indian films had passed ₹900 crore net in India before it: Pushpa 2 (in 11 days), Dhurandhar 2 (14 days) and Baahubali 2 (19 days). At 17 days, Ramayana is the third-fastest to the mark.\n\nTrackers count differently: Bollywood Hungama's total is lower, and the makers haven't announced a figure.\n\nHave you watched Ramayana in a theatre yet?\n\nSources: Sacnilk, The Week, Filmibeat, Bollywood Hungama\n\n#Ramayana #RamayanaPart1 #BoxOffice #IndianCinema #idlynerd\n\nImage: World Of Ramayana (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
