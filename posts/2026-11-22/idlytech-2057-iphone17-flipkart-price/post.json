@@ -1,0 +1,47 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-2057-iphone17-flipkart-price",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Flipkart",
+  "Apple India",
+  "TelecomTalk",
+  "Beebom",
+  "Digit"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "iPhone 17 Is ₹89,100 on Flipkart, Still ₹6,200 Above Launch Price",
+   "photo": "_work/2026-11-22-hourly-2057/idlytech/framed/hero/cover_source.png",
+   "photo_credit": "Image: Apple",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹99,900",
+   "stat_label": "Apple's Own iPhone 17 Price Since September 2026",
+   "bullets": [
+    "256GB launched at ₹82,900 in Sept 2025",
+    "Apple added ₹17,000 after its iPhone 18 Pro event",
+    "Flipkart on 22 Nov: ₹89,100, or ₹10,800 less"
+   ],
+   "credit_line": "Sources: Apple India, Flipkart, Beebom, Digit"
+  },
+  {
+   "type": "detail",
+   "stat": "₹85,100",
+   "stat_label": "iPhone 17 With a Flipkart Axis or SBI Card",
+   "bullets": [
+    "₹4,000 cashback, credited after the return period",
+    "Still ₹2,200 above the ₹82,900 launch price",
+    "Or pay by Google Pay, PhonePe or CRED UPI: ₹1,101 off"
+   ],
+   "credit_line": "Sources: Flipkart, TelecomTalk"
+  }
+ ]
+}

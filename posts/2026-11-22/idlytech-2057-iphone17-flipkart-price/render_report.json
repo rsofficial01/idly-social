@@ -1,0 +1,58 @@
+[
+ {
+  "size": 96,
+  "lines": 3,
+  "overflow": false,
+  "top": 962,
+  "credit_line": "Image: Apple",
+  "slug": "idlytech-2057-iphone17-flipkart-price",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlytech-2057-iphone17-flipkart-price/01.jpg",
+  "scale": 0.394
+ },
+ {
+  "stat": 236,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Apple India, Flipkart, Beebom, Digit",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-iphone17-flipkart-price",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlytech-2057-iphone17-flipkart-price/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Flipkart, TelecomTalk",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-2057-iphone17-flipkart-price",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlytech-2057-iphone17-flipkart-price/03.jpg",
+  "scale": null
+ }
+]
