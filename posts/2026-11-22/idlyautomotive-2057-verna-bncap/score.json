@@ -1,0 +1,13 @@
+{
+ "hook": 1,
+ "read": 2,
+ "send": 1,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 12,
+ "notes": "post = per-check min of desk 13 and reviewer 12. desk: send 1: the audience is narrow (families shortlisting a midsize sedan) and the rating came out on 18 Nov (Hyundai's own release 20 Nov), so it isn't tonight's news. hook: I'd call the named car plus 5 stars a clear stake; the reviewer scored it 1 because a 5-star result is common and 4 days old, and the 'only rated midsize sedan' twist couldn't fit on a 2-line cover without the headline running over the car. Everything else is on the slides: the scores, the marginal-pelvis weak spot, the ex-showroom price, all variants covered. | reviewer: hook 1: 'Gets 5 Bharat NCAP Stars' is a plain rating announcement. Most cars Bharat NCAP tests get 5 stars, the result is 4 days old (18 Nov), and the one surprising fact (the only rated midsize sedan) is buried on slide 4, not on the cover. send 1: sedan shoppers in the ₹11-18 lakh band are a narrow audience, and the result is already known; few followers would forward it to a specific person today. Everything else is 2: scores and the ex-showroom price are on the slides, yes/no question, Hyundai's own image, every slide names the Verna.",
+ "desk_total": 13,
+ "reviewer_total": 12
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "size": 100,
+  "lines": 2,
+  "overflow": false,
+  "top": 1050,
+  "credit_line": "Image: Hyundai",
+  "slug": "idlyautomotive-2057-verna-bncap",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-2057-verna-bncap/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 228,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, CarDekho",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-2057-verna-bncap",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-2057-verna-bncap/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, CarDekho",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-2057-verna-bncap",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-2057-verna-bncap/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 164,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hyundai, Autocar India, MotorBeam",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-2057-verna-bncap",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlyautomotive-2057-verna-bncap/04.jpg",
+  "scale": null
+ }
+]

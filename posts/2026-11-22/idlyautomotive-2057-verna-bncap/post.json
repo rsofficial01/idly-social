@@ -1,0 +1,55 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-2057-verna-bncap",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "CarDekho"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Hyundai Verna Gets 5 Bharat NCAP Stars",
+   "photo": "_work/2026-11-22-hourly-2057/idlyautomotive/framed/verna-road/cover_source.png",
+   "photo_credit": "Image: Hyundai",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "28.22/32",
+   "stat_label": "Hyundai Verna's Bharat NCAP Adult Score",
+   "bullets": [
+    "Side impact test: 15.77 of 16",
+    "Frontal offset test: 12.45 of 16",
+    "Weak spot: front-seat pelvis protection, rated marginal"
+   ],
+   "credit_line": "Sources: Autocar India, CarDekho"
+  },
+  {
+   "type": "detail",
+   "stat": "44/49",
+   "stat_label": "Hyundai Verna's Bharat NCAP Child Score",
+   "bullets": [
+    "Dynamic crash test: 24 of 24",
+    "Child-seat installation: 12 of 12",
+    "Vehicle assessment: 8 of 13"
+   ],
+   "credit_line": "Sources: Autocar India, CarDekho"
+  },
+  {
+   "type": "detail",
+   "stat": "₹10.99 Lakh",
+   "stat_label": "Hyundai Verna's Starting Price, Ex-Showroom",
+   "bullets": [
+    "Five-star rating applies to every Verna variant",
+    "Only midsize sedan with a Bharat NCAP rating",
+    "Crash-tested: two HX8 automatic versions"
+   ],
+   "credit_line": "Sources: Hyundai, Autocar India, MotorBeam"
+  }
+ ]
+}
