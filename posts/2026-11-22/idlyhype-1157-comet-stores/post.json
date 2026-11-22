@@ -1,0 +1,53 @@
+{
+ "acct": "idlyhype",
+ "slug": "comet-stores",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Comet",
+  "Indian Retailer",
+  "Entrackr",
+  "Broadway"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Comet Opens Pune and Jaipur Stores, Plans 20 by FY27",
+   "photo": "_work/2026-11-22-hourly-1157/idlyhype/framed-blizzard/cover_source.png",
+   "photo_credit": "Photo: Comet (Aeres Blizzard)",
+   "focal": [
+    0.5,
+    0.655
+   ],
+   "zoom": 1.25
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,299",
+   "stat_label": "Comet Aeres Blizzard: The Pair on the Cover",
+   "bullets": [
+    "A retro court-style low-top with jacquard panels",
+    "Same MRP at Broadway, a multi-brand store"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "9 Cities",
+   "stat_label": "Where to Find a Comet Store",
+   "bullets": [
+    "Jaipur: Pacific Mall, Mansarovar; Pune: The Pavillion",
+    "Also Bengaluru, Delhi, Hyderabad, Mumbai, Ahmedabad",
+    "Chennai and Indore too, per Comet's store list"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "₹74 Cr",
+   "stat_label": "Comet's Revenue in FY26",
+   "bullets": [
+    "Up 2.6x from ₹29 crore in FY25",
+    "Loss before tax doubled to ₹9 crore",
+    "Spent ₹21.5 crore on ads in FY26"
+   ]
+  }
+ ]
+}
