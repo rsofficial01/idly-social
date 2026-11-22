@@ -1,0 +1,43 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-1657-black-friday-sales",
+ "date": "22 Nov 2026",
+ "sources": [
+  "PUMA India",
+  "Superkicks",
+  "SNKRS CART"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "PUMA India's Black Friday Sale: Extra 30% Off, 27–30 Nov",
+   "photo": "_work/2026-11-22-hourly-1657/idlyhype/framed/puma-speedcat-og-portrait/cover_source.png",
+   "photo_credit": "Image: PUMA",
+   "focal": [
+    0.5,
+    0.3
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹5,998",
+   "stat_label": "PUMA Speedcat OG 'Tropical Blue' at Superkicks",
+   "bullets": [
+    "Down from ₹9,999 in Superkicks' live Black Friday Sale",
+    "PUMA India's own early access opens 26 November"
+   ],
+   "credit_line": "Sources: Superkicks, SNKRS CART, PUMA India, navimumbai.com"
+  },
+  {
+   "type": "detail",
+   "stat": "₹7,147",
+   "stat_label": "Adidas Samba OG 'Hazy Green' at Superkicks",
+   "bullets": [
+    "Down from ₹12,999 MRP",
+    "New Balance 1906U 'Grey Matter': ₹11,899, MRP ₹16,999"
+   ],
+   "credit_line": "Sources: Superkicks, SNKRS CART"
+  }
+ ]
+}
