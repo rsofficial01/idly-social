@@ -1,0 +1,58 @@
+[
+ {
+  "size": 94,
+  "lines": 3,
+  "overflow": false,
+  "top": 968,
+  "credit_line": "Photo: Gnoeee / Wikimedia Commons, CC BY-SA 4.0",
+  "slug": "idlytech-0757-apple-namedrop-suit",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-22/idlytech-0757-apple-namedrop-suit/01.jpg",
+  "scale": 0.562
+ },
+ {
+  "stat": 196,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: TechCrunch, Inc42",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-apple-namedrop-suit",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-22/idlytech-0757-apple-namedrop-suit/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 132,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: TechCrunch, Inc42",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlytech-0757-apple-namedrop-suit",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-22/idlytech-0757-apple-namedrop-suit/03.jpg",
+  "scale": null
+ }
+]

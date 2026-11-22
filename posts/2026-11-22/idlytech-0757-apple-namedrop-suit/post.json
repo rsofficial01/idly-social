@@ -1,0 +1,44 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-apple-namedrop-suit",
+ "date": "22 Nov 2026",
+ "sources": [
+  "TechCrunch",
+  "Inc42"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Startup Sues Apple for ₹1,500 Crore, Wants NameDrop Off in India",
+   "photo": "_work/2026-11-22-hourly-0757/desks/idlytech/frame_bhc/cover_source.png",
+   "photo_credit": "Photo: Gnoeee / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.46,
+    0.6
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,500 CR",
+   "stat_label": "Damages GG Technologies Seeks From Apple Over NameDrop",
+   "bullets": [
+    "NameDrop: hold two iPhones close to swap contacts",
+    "GG alleges NameDrop infringes its July 2024 Indian patent",
+    "It wants NameDrop switched off in India"
+   ],
+   "credit_line": "Sources: TechCrunch, Inc42"
+  },
+  {
+   "type": "detail",
+   "stat": "NO DATE YET",
+   "stat_label": "Bombay High Court Hasn't Listed Apple NameDrop Case",
+   "bullets": [
+    "Apple hasn't responded, TechCrunch and Inc42 report",
+    "GG Technologies sued Apple in the US in April 2026",
+    "US International Trade Commission opened a probe in August"
+   ],
+   "credit_line": "Sources: TechCrunch, Inc42"
+  }
+ ]
+}
