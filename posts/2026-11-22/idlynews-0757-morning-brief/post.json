@@ -1,0 +1,63 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Indian Express",
+  "CricTracker",
+  "Outlook",
+  "Hindustan Times",
+  "IANS",
+  "LiveLaw",
+  "Bar & Bench",
+  "NDTV",
+  "Ministry of Railways",
+  "Kathmandu Post"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "India Declare at 720/9, Highest Test Total Ever in New Zealand",
+   "photo": "_work/2026-11-22-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: PaddyBriggs / Wikimedia Commons, public domain (Basin Reserve, 2008 file)",
+   "focal": [
+    0.52,
+    1.0
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "25 NOV",
+   "stat_label": "NEET-UG 2026 Leak Trial Starts Day-to-Day",
+   "bullets": [
+    "Delhi fast-track court framed charges against 14 accused",
+    "Charges under anti-corruption and exam-cheating laws",
+    "3 May exam was cancelled; re-test held 21 June"
+   ],
+   "credit_line": "Sources: Hindustan Times, IANS, LiveLaw, Bar & Bench"
+  },
+  {
+   "type": "detail",
+   "stat": "600",
+   "stat_label": "Hospitalised in Manipur Suspected Toxic Liquor Case",
+   "bullets": [
+    "At least 16 dead in Chandel district, police say",
+    "Six arrested; police say liquor came from Kakching",
+    "Cause not yet confirmed; state inquiry panel set up"
+   ],
+   "credit_line": "Sources: Indian Express, Hindustan Times, NDTV"
+  },
+  {
+   "type": "detail",
+   "stat": "604 KM",
+   "stat_label": "Ayodhya-Janakpur Express: Weekly Train From 23 Nov",
+   "bullets": [
+    "Modi and Nepal PM Balendra Shah to flag it off",
+    "Saturdays from Janakpur Dham, Mondays from Ayodhya Cantt",
+    "Stops include Sitamarhi, Raxaul, Gorakhpur and Basti"
+   ],
+   "credit_line": "Sources: Ministry of Railways, Indian Express, Kathmandu Post"
+  }
+ ]
+}

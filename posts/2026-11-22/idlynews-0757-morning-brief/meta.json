@@ -1,0 +1,239 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "format": "special",
+ "title": "Morning Brief, Sun 22 Nov 2026: India declare at 720/9 in the 1st Test in Wellington, the highest total ever in a Test in New Zealand (beats NZ 715/6d v Bangladesh, Hamilton 2019) and India's highest away total (beats 707, Colombo 2010), lead 352; Rahul 136, Pant 128; NZ 28/1 at about 8 am IST (lead); NEET-UG 2026 paper-leak: Rouse Avenue fast-track court framed charges against all 14 accused, day-to-day trial from 25 Nov; Manipur (Chandel) suspected spurious liquor: at least 16 dead per police (17 per excise commissioner, HT), about 600 hospitalised, six arrested, liquor from Kakching per police, cause unconfirmed, state inquiry committee; Nepal PM Balendra Shah arrives 22 Nov; Modi and Shah to flag off weekly Ayodhya-Janakpur Express 23 Nov (604 km, 28 km in Nepal; Sat from Janakpur Dham, Mon from Ayodhya Cantt).",
+ "headline": "India Declare at 720/9, Highest Test Total Ever in New Zealand",
+ "sources": [
+  {
+   "outlet": "Indian Express",
+   "url": "https://indianexpress.com/article/sports/cricket/india-720-for-9-record-test-score-new-zealand-96-years-10973263/",
+   "date": "2026-11-22"
+  },
+  {
+   "outlet": "CricTracker",
+   "url": "https://www.crictracker.com/cricket-news/india-post-third-highest-test-total-in-history-with-mammothscore-against-new-zealand/",
+   "date": "2026-11-22"
+  },
+  {
+   "outlet": "Outlook",
+   "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-4-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+   "date": "2026-11-22"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "url": "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-4-ind-vs-nz-latest-updates-scorecard-wellington-november-22-101795273099328.html",
+   "date": "2026-11-22"
+  },
+  {
+   "outlet": "SportsTak",
+   "url": "https://thesportstak.com/cricket/story/ind-vs-nz-india-post-historic-7209-to-rewrite-record-books-in-wellington-3563753-2026-11-22",
+   "date": "2026-11-22"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "url": "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "LiveLaw",
+   "url": "https://www.livelaw.in/news-updates/neet-ug-paper-leak-delhi-court-frames-charges-against-14-accused-day-to-day-trial-from-november-25-558865",
+   "date": "2026-11-18"
+  },
+  {
+   "outlet": "Bar & Bench",
+   "url": "https://www.barandbench.com/news/litigation/neet-ug-2026-paper-leak-fast-track-court-frames-charges-against-14-accused",
+   "date": "2026-11-18"
+  },
+  {
+   "outlet": "IANS (Morung Express)",
+   "url": "https://www.morungexpress.com/neet-ug-2026-paper-leak-delhi-court-frames-charges-against-14-trial-from-nov-25",
+   "date": "2026-11-18"
+  },
+  {
+   "outlet": "Indian Express",
+   "url": "https://indianexpress.com/article/india/manipur-hooch-tragedy-death-toll-16-600-hospitalised-10973024/",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "Hindustan Times",
+   "url": "https://www.hindustantimes.com/india-news/manipur-probes-suspected-spurious-liquor-deaths-as-toll-rises-to-17-six-arrested-101795285613523.html",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "NDTV",
+   "url": "https://www.ndtv.com/india-news/16-dead-600-in-hospital-in-manipur-toxic-liquor-tragedy-6-arrested-12359406",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "Daily Jagran",
+   "url": "https://www.thedailyjagran.com/india/news/manipur-death-toll-rises-to-16-over-600-hospitalised-after-consuming-suspected-spurious-liquor-6-arrested-10337171",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "Indian Express (Ministry of Railways)",
+   "url": "https://indianexpress.com/article/india/india-nepal-rail-connectivity-pm-modi-balendra-shah-to-flag-off-ayodhya-janakpur-express-on-nov-23-10972853/",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "Indian Express (MEA)",
+   "url": "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-modi-trade-energy-tech-talks-10972063/",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "Kathmandu Post",
+   "url": "https://kathmandupost.com/national/2026/11/16/nepal-india-to-launch-ayodhya-janakpur-train-service-during-pm-shah-s-visit",
+   "date": "2026-11-16"
+  },
+  {
+   "outlet": "Kathmandu Post",
+   "url": "https://kathmandupost.com/national/2026/11/15/india-approves-weekly-train-service-linking-janakpur-and-ayodhya",
+   "date": "2026-11-15"
+  },
+  {
+   "outlet": "DD News",
+   "url": "https://ddnews.gov.in/en/indian-railways-approves-weekly-train-between-nepals-janakpur-dham-and-ayodhya/",
+   "date": "2026-11-14"
+  }
+ ],
+ "fact_sources": [
+  {
+   "fact": "India declared their first innings at 720/9 on Day 4 (22 Nov, 07:13 IST) of the 1st Test at the Basin Reserve, Wellington, a lead of 352 over NZ's 368; KL Rahul 136, Rishabh Pant 128",
+   "urls": [
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-4-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+    "https://indianexpress.com/article/sports/cricket/india-720-for-9-record-test-score-new-zealand-96-years-10973263/",
+    "https://www.crictracker.com/cricket-news/india-post-third-highest-test-total-in-history-with-mammothscore-against-new-zealand/",
+    "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-4-ind-vs-nz-latest-updates-scorecard-wellington-november-22-101795273099328.html"
+   ]
+  },
+  {
+   "fact": "720/9 is the highest total ever in a Test in New Zealand, beating New Zealand's 715/6d v Bangladesh, Hamilton 2019",
+   "urls": [
+    "https://indianexpress.com/article/sports/cricket/india-720-for-9-record-test-score-new-zealand-96-years-10973263/",
+    "https://www.crictracker.com/cricket-news/india-post-third-highest-test-total-in-history-with-mammothscore-against-new-zealand/",
+    "https://thesportstak.com/cricket/story/ind-vs-nz-india-post-historic-7209-to-rewrite-record-books-in-wellington-3563753-2026-11-22"
+   ]
+  },
+  {
+   "fact": "India's highest Test total away from home, beating 707 v Sri Lanka, Colombo 2010 (IE explicit; CricTracker lists 707 Colombo 2010 and 705/7d Sydney 2004 as lower)",
+   "urls": [
+    "https://indianexpress.com/article/sports/cricket/india-720-for-9-record-test-score-new-zealand-96-years-10973263/",
+    "https://www.crictracker.com/cricket-news/india-post-third-highest-test-total-in-history-with-mammothscore-against-new-zealand/"
+   ]
+  },
+  {
+   "fact": "At about 8 am IST (07:59), New Zealand were 28/1 in their second innings (Latham out to Bumrah), 324 behind",
+   "urls": [
+    "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-4-live-score-ind-vs-nz-scorecard-latest-updates-highlights",
+    "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-1st-test-day-4-ind-vs-nz-latest-updates-scorecard-wellington-november-22-101795273099328.html"
+   ]
+  },
+  {
+   "fact": "NEET-UG 2026 paper leak: a fast-track court at Rouse Avenue Courts, Delhi (special judge Ajay Gupta) framed charges against all 14 accused, incl. under the Prevention of Corruption Act and the Public Examinations (Prevention of Unfair Means) Act, 2024; day-to-day trial from 25 Nov",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html",
+    "https://www.livelaw.in/news-updates/neet-ug-paper-leak-delhi-court-frames-charges-against-14-accused-day-to-day-trial-from-november-25-558865",
+    "https://www.barandbench.com/news/litigation/neet-ug-2026-paper-leak-fast-track-court-frames-charges-against-14-accused",
+    "https://www.morungexpress.com/neet-ug-2026-paper-leak-delhi-court-frames-charges-against-14-trial-from-nov-25"
+   ]
+  },
+  {
+   "fact": "CBI alleges subject experts engaged by the NTA leaked questions that were passed on for money",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html",
+    "https://www.morungexpress.com/neet-ug-2026-paper-leak-delhi-court-frames-charges-against-14-trial-from-nov-25"
+   ]
+  },
+  {
+   "fact": "NEET-UG 2026 was held on 3 May, cancelled on 12 May, and re-held on 21 June",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html",
+    "https://news.careers360.com/neet-ug-2026-court-orders-framing-of-charges-against-14-accused-in-paper-leak-case"
+   ]
+  },
+  {
+   "fact": "Manipur, Chandel district: at least 16 dead (IGP Zone I), about 600 admitted to hospitals, six arrested (BNS 106(1), 274, 275); Chandel SP says the liquor was procured from Kakching district; cause subject to medical and lab findings",
+   "urls": [
+    "https://indianexpress.com/article/india/manipur-hooch-tragedy-death-toll-16-600-hospitalised-10973024/",
+    "https://www.hindustantimes.com/india-news/manipur-probes-suspected-spurious-liquor-deaths-as-toll-rises-to-17-six-arrested-101795285613523.html",
+    "https://www.ndtv.com/india-news/16-dead-600-in-hospital-in-manipur-toxic-liquor-tragedy-6-arrested-12359406"
+   ]
+  },
+  {
+   "fact": "HT quotes excise commissioner Hungyo Worshang: at least 17 dead (single outlet; attributed to HT in the caption, not on a slide)",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/manipur-probes-suspected-spurious-liquor-deaths-as-toll-rises-to-17-six-arrested-101795285613523.html"
+   ]
+  },
+  {
+   "fact": "Manipur government set up an inquiry committee (HT: four-member, report within a month)",
+   "urls": [
+    "https://www.hindustantimes.com/india-news/manipur-probes-suspected-spurious-liquor-deaths-as-toll-rises-to-17-six-arrested-101795285613523.html",
+    "https://www.thedailyjagran.com/india/news/manipur-death-toll-rises-to-16-over-600-hospitalised-after-consuming-suspected-spurious-liquor-6-arrested-10337171"
+   ]
+  },
+  {
+   "fact": "Nepal PM Balendra Shah arrives in India on 22 Nov, his first bilateral visit since taking office in March; talks with Modi 23 Nov (MEA)",
+   "urls": [
+    "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-modi-trade-energy-tech-talks-10972063/",
+    "https://kathmandupost.com/national/2026/11/16/nepal-india-to-launch-ayodhya-janakpur-train-service-during-pm-shah-s-visit"
+   ]
+  },
+  {
+   "fact": "Ayodhya-Janakpur Express: Modi and Shah to flag it off on 23 Nov (Ministry of Railways); weekly, Saturdays from Janakpur Dham and Mondays from Ayodhya Cantt; about 604 km (28 km in Nepal); stops incl. Jaynagar, Madhubani, Sitamarhi, Raxaul, Narkatiaganj, Gorakhpur, Basti, Mankapur",
+   "urls": [
+    "https://indianexpress.com/article/india/india-nepal-rail-connectivity-pm-modi-balendra-shah-to-flag-off-ayodhya-janakpur-express-on-nov-23-10972853/",
+    "https://kathmandupost.com/national/2026/11/16/nepal-india-to-launch-ayodhya-janakpur-train-service-during-pm-shah-s-visit",
+    "https://kathmandupost.com/national/2026/11/15/india-approves-weekly-train-service-linking-janakpur-and-ayodhya",
+    "https://ddnews.gov.in/en/indian-railways-approves-weekly-train-between-nepals-janakpur-dham-and-ayodhya/"
+   ]
+  }
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Basin_Reserve.JPG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basin_Reserve.JPG/1920px-Basin_Reserve.JPG",
+  "licence": "Public domain (released by the author, PaddyBriggs)",
+  "author": "PaddyBriggs",
+  "description": "New Zealand v England Test match in progress at the Basin Reserve 2008 (file photo of the actual ground of the 720/9 Test)",
+  "viewed": true,
+  "width": 1920,
+  "height": 1440,
+  "original_size": [
+   3264,
+   2448
+  ],
+  "local": "_work/2026-11-22-hourly-0757/desks/idlynews/br_test2008.jpg",
+  "faces": 0,
+  "framing": {
+   "tool": "python3 -m pipeline.framing -> ok, focal 0.5/0.5, zoom 1.04, upscale 0.97, faces 0",
+   "photo": "_work/2026-11-22-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "focal": [
+    0.52,
+    1.0
+   ],
+   "zoom": 1.2,
+   "scale": 1.125,
+   "note": "bottom-aligned 960x1200 crop so the crowd banks, boundary boards and outfield sit above the headline gradient (G1 condition 3); original 3264px file refused by upload.wikimedia.org (HTTP 429), so the 1920px rendition is used"
+  }
+ },
+ "tag": null,
+ "tag_evidence": "No tag: the cover is a public-domain Wikimedia Commons photo, not a brand's or studio's image.",
+ "gates": [
+  {
+   "gate": "G1",
+   "packet": "_work/2026-11-22-hourly-0757/gates/idlynews-G1.md",
+   "outcome": "A (720/9 lead, Basin Reserve cover) BUILD, ceiling 13-14; B (Ayodhya-Janakpur lead) NO BUILD (no image of the actual train); C (NEET-UG lead) NO BUILD (no image of the actual subject). Conditions: headline <=12 words, no India all-time rank, '2008 file' credit, crowd/boards/outfield above the gradient, match state caption-only with a time, drop the USCC slot, Janakpur slide leads with the train and names Nepal PM Balendra Shah in full, Manipur figures attributed and cause unconfirmed, NEET wording."
+  },
+  {
+   "gate": "G23",
+   "packet": "_work/2026-11-22-hourly-0757/gates/idlynews-G23.md",
+   "outcome": "PASS with one required caption edit: 'on the fourth morning' -> 'on day four' (07:13 IST is afternoon in Wellington). Applied."
+  },
+  {
+   "gate": "G4",
+   "packet": "_work/2026-11-22-hourly-0757/gates/idlynews-G4.md",
+   "outcome": "PASS 13 (hook 2, read 2, send 1, keep 2, reply 2, original 2, alone 2); layout clean"
+  }
+ ]
+}
