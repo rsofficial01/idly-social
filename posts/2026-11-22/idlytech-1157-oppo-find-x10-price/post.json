@@ -1,0 +1,56 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1157-oppo-find-x10-price",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Oppo India",
+  "FoneArena",
+  "Counterpoint via PTI",
+  "Apple India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Oppo Find X10 Costs ₹1,39,999, 87% More Than Find X9",
+   "photo": "_work/2026-11-22-hourly-1157/idlytech/framed/x10_kv/cover_source.png",
+   "photo_credit": "Image: Oppo India",
+   "focal": [
+    0.62,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,99,999",
+   "stat_label": "Oppo Find X10 Pro Max, the Top Model",
+   "bullets": [
+    "Find X9 was ₹74,999 last Nov, same 12GB/256GB",
+    "Find X9 Pro was ₹1,09,999 last Nov"
+   ],
+   "credit_line": "Sources: Oppo India, FoneArena, Cashify"
+  },
+  {
+   "type": "detail",
+   "stat": "30%+",
+   "stat_label": "Flagship Price Rise Counterpoint Expects by Year-End",
+   "bullets": [
+    "iPhone 18 Pro: ₹1,64,900, up 22% on 17 Pro",
+    "Galaxy S26: up to 17% dearer since September",
+    "Most flagships to cross ₹1 lakh, it says"
+   ],
+   "credit_line": "Sources: Counterpoint via PTI, Apple India, Business Standard"
+  },
+  {
+   "type": "detail",
+   "stat": "43%",
+   "stat_label": "Memory's Share of a Phone's Cost, Counterpoint Estimates",
+   "bullets": [
+    "Up from 13% in early 2025, it says",
+    "iQOO, Google match specs for less, it says",
+    "Apple, Samsung flagships near ₹2 lakh, it adds"
+   ],
+   "credit_line": "Source: Counterpoint via PTI (BusinessLine, Business Standard)"
+  }
+ ]
+}
