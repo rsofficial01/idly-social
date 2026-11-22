@@ -1,0 +1,67 @@
+{
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "title": "Kaaliya: Dharma and Dopamine Studios' monster thriller with Kartik Aaryan, in cinemas 5 May 2028",
+  "headline": "Kartik Aaryan's Monster Thriller Kaaliya Hits Cinemas 5 May 2028",
+  "caption": "Dharma Productions and Dopamine Studios announced Kaaliya on Sunday, a Hindi monster thriller led by Kartik Aaryan. It reaches cinemas worldwide on Friday, 5 May 2028.\n\nThe first video opens with a mother telling her son about a monster called Kaaliya, before a giant creature attacks in the dark. The makers' announcement post reads: \"Shri Krishna sent it away. We humans brought it back.\"\n\nSandeep Modi, known for the series The Night Manager and Aarya, directs; it is his first Hindi film for cinemas. Dopamine Studios, Kartik Aaryan's new production company, co-produces it with Karan Johar's Dharma Productions. Dopamine also backs Kabir Khan's Ladaku, due in cinemas in June 2027.\n\nWhich Indian horror film scared you the most?\n\nSources: Bollywood Hungama, Cinema Express, The Week, Hindustan Times, Variety India, The Hollywood Reporter India, ETV Bharat\n\n#Kaaliya #KartikAaryan #DharmaProductions #HindiCinema #idlynerd",
+  "alt_text": "A still from Dharma Productions' official Kaaliya announcement video, with the headline \"Kartik Aaryan's Monster Thriller Kaaliya Hits Cinemas 5 May 2028\".",
+  "sources": [
+    "Bollywood Hungama",
+    "Cinema Express",
+    "The Week",
+    "Variety India"
+  ],
+  "detail_slides": [
+    {
+      "stat": "BEDTIME STORY",
+      "stat_label": "How Kaaliya's First Video Begins",
+      "bullets": [
+        "A mother tells her son about the monster Kaaliya",
+        "Then a giant creature attacks in the dark"
+      ],
+      "credit_line": "Sources: The Week, ETV Bharat, Cinema Express"
+    },
+    {
+      "stat": "SANDEEP MODI",
+      "stat_label": "Directs Kaaliya, His First Hindi Cinema Release",
+      "bullets": [
+        "Sandeep Modi's earlier series: The Night Manager, Aarya",
+        "The story draws on Indian folklore and mythology"
+      ],
+      "credit_line": "Sources: Bollywood Hungama, Hindustan Times, Cinema Express"
+    },
+    {
+      "stat": "DOPAMINE STUDIOS",
+      "stat_label": "Kartik Aaryan's Banner Co-Produces Kaaliya",
+      "bullets": [
+        "Made with Karan Johar's Dharma Productions",
+        "Dopamine also backs Kabir Khan's Ladaku, due June 2027"
+      ],
+      "credit_line": "Sources: The Week, Variety India, The Hollywood Reporter India"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=XZEHnZgfhjk"
+  },
+  "tags": [
+    "dharmamovies"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 1,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 2,
+      "alone": 2,
+      "total": 12,
+      "notes": "hook 1: no surprising number or reader stake; a cinema date 530 days away. send 1: Kartik Aaryan and desi-horror fans, nothing to act on today. keep 2: 5 May 2028 on the cover, director/studio facts on slides. reply 2: open, easy question from readers' own lives. alone 2: cover names film, star, genre, date; every slide names Kaaliya."
+    }
+  },
+  "notes": "idlynerd 1657. G1 PASS (conditional, ceiling 12), G23 PASS (idlynerd-G23-2). Only official image: Dharma's announcement video XZEHnZgfhjk on @DharmaMovies; no fallback (dharma-production.com/movie/kaaliya og:image is 1105x520, fails framing at 2.6x). G4: HOLD on a soft crop, a face cut or under the headline/logo, baked-in title text under the headline, or a frame showing only a face. | main 17:30: slide 4 and caption changed: 'first film from Dopamine' conflicts with Variety India (17 Aug 2026: Dopamine's first production is Kabir Khan's sports drama, Ladaku, June 2027 per THR India); Poonawalla/Mehta producer bullet dropped (roles not given in The Week).",
+  "created_at": "2026-11-22T17:25:00+05:30"
+}
