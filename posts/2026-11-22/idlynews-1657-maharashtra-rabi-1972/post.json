@@ -1,0 +1,58 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1657-maharashtra-rabi-1972",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Scroll",
+  "IANS",
+  "Down To Earth",
+  "Free Press Journal",
+  "Business Today"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "So Far, Maharashtra Has Sown Under a Third of 1972's Drought-Year Rabi",
+   "photo": "_work/2026-11-22-hourly-1657/idlynews/framed/solapur/cover_source.png",
+   "photo_credit": "Image: NASA HLS, contains modified Copernicus Sentinel data 2026",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "Under 15 Lakh",
+   "stat_label": "Hectares of Rabi Sown in Maharashtra So Far",
+   "bullets": [
+    "1972-73 drought year, whole season: about 47 lakh hectares",
+    "A normal Maharashtra season: about 58 lakh hectares",
+    "Rabi is the winter crop: wheat, jowar, gram"
+   ],
+   "credit_line": "Sources: Scroll, IANS (Maharashtra Agriculture Department data)"
+  },
+  {
+   "type": "detail",
+   "stat": "310",
+   "stat_label": "Maharashtra Talukas Now Declared Drought-Hit",
+   "bullets": [
+    "Up from 265 of 358 talukas in late September",
+    "Farm-loan recovery stayed, land revenue relief given",
+    "School and college exam fees waived there"
+   ],
+   "credit_line": "Sources: Down To Earth, Business Today, Free Press Journal, IANS"
+  },
+  {
+   "type": "detail",
+   "stat": "58%",
+   "stat_label": "Solapur's Monsoon Rain Below Normal This Year",
+   "bullets": [
+    "Marathwada region: 40% below normal",
+    "All of Maharashtra: 19% below normal",
+    "Cover: Solapur by satellite, 18 November 2026"
+   ],
+   "credit_line": "Sources: Free Press Journal, Down To Earth (India Meteorological Department data)"
+  }
+ ]
+}

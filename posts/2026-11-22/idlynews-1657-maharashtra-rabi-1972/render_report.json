@@ -1,0 +1,80 @@
+[
+ {
+  "size": 86,
+  "lines": 3,
+  "overflow": false,
+  "top": 992,
+  "credit_line": "Image: NASA HLS, contains modified Copernicus Sentinel data 2026",
+  "slug": "idlynews-1657-maharashtra-rabi-1972",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlynews-1657-maharashtra-rabi-1972/01.jpg",
+  "scale": 1.0
+ },
+ {
+  "stat": 140,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Scroll, IANS (Maharashtra Agriculture Department data)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-maharashtra-rabi-1972",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlynews-1657-maharashtra-rabi-1972/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Down To Earth, Business Today, Free Press Journal, IANS",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-maharashtra-rabi-1972",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlynews-1657-maharashtra-rabi-1972/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 320,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Free Press Journal, Down To Earth (India Meteorological Department data)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1657-maharashtra-rabi-1972",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "/home/user/idly-social/posts/2026-11-22/idlynews-1657-maharashtra-rabi-1972/04.jpg",
+  "scale": null
+ }
+]
