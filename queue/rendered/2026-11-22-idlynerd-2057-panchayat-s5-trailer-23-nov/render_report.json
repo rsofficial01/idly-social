@@ -1,0 +1,186 @@
+{
+  "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-22T15:52:12+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=lGQjn3rd29I",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=lGQjn3rd29I",
+    "source_url": "https://www.youtube.com/watch?v=lGQjn3rd29I",
+    "image_url": "https://i.ytimg.com/vi/lGQjn3rd29I/maxresdefault.jpg",
+    "credit": "Image: Prime Video India (official trailer)",
+    "organisation": "Prime Video India",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=lGQjn3rd29I: author 'Prime Video India' https://www.youtube.com/@PrimeVideoIN, title 'Trailer date reveal kar diya Banrakas the Boss ne. Bol dijiye sabko 🔥 | Panchayat Season 5'",
+      "thumbnail https://i.ytimg.com/vi/lGQjn3rd29I/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@PrimeVideoIN",
+    "video_title": "Trailer date reveal kar diya Banrakas the Boss ne. Bol dijiye sabko 🔥 | Panchayat Season 5"
+  },
+  "faces": [
+    [
+      593.3,
+      157.8,
+      124.7,
+      163.9,
+      0.941
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5122,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      368.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        394,
+        259,
+        684,
+        640
+      ]
+    ],
+    "logo_saliency": 0.89,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        593.3,
+        157.8,
+        124.7,
+        163.9,
+        0.941
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 4 known items, 1 needing care (minister-sarathkumar-video-inquiry-2026: alleged); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Prime Video India (official trailer)",
+      "Sources: India TV, Filmibeat, Prime Video",
+      "Sources: Prime Video, Esquire India, Filmibeat",
+      "Sources: Esquire India, India TV"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 96,
+      "lines": 3,
+      "overflow": false,
+      "top": 962,
+      "credit_line": "Image: Prime Video India (official trailer)",
+      "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 252,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: India TV, Filmibeat, Prime Video",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 316,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Prime Video, Esquire India, Filmibeat",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 116,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Esquire India, India TV",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-2057-panchayat-s5-trailer-23-nov",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Panchayat Season 5's trailer arrives on Monday, 23 November. Prime Video announced the date on Sunday in a new promo, ahead of the season's premiere on Thursday, 3 December, in India and more than 240 countries and territories.\n\nIn the promo, Banrakas (Durgesh Kumar) walks through a modernised, transformed Phulera and says, \"Ab shuru hoga humara raaj!\" Season 4 ended with Kranti Devi (Sunita Rajwar), backed by Banrakas, beating Manju Devi (Neena Gupta) in the panchayat election.\n\nJitendra Kumar returns as Abhishek Tripathi, the panchayat secretary. TVF produces the series and Deepak Kumar Mishra directs it.\n\nHave you watched Panchayat yet?\n\nSources: Prime Video, India TV, Filmibeat, Esquire India, Outlook India\n\n#Panchayat #PanchayatSeason5 #PrimeVideo #TVF #idlynerd\n\nImage: Prime Video India (official trailer)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
