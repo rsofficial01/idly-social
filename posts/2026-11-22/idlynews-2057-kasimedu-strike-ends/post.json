@@ -1,0 +1,45 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-2057-kasimedu-strike-ends",
+ "date": "22 Nov 2026",
+ "sources": [
+  "UNI",
+  "PTI",
+  "DT Next"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Chennai Fish Prices Rose Over 50%. Kasimedu's 4-Day Boat Strike Ends",
+   "photo": "_work/2026-11-22-hourly-2057/idlynews/framed/kasimedu-cropB/cover_source.png",
+   "photo_credit": "Photo: Anynomous06 / Wikimedia Commons, CC BY 4.0",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "800 BOATS",
+   "stat_label": "Why Kasimedu's Fishing Boats Stayed Docked",
+   "bullets": [
+    "Andhra Pradesh has held 8 Kasimedu boats since 17 June",
+    "A High Court release order is unmet; contempt plea on 24 Nov",
+    "Nearly 100 tonnes of daily seafood arrivals were hit"
+   ],
+   "credit_line": "Sources: PTI, DT Next, Daily Thanthi"
+  },
+  {
+   "type": "detail",
+   "stat": "₹7 LAKH",
+   "stat_label": "What Kasimedu's Cyclone Murasu Families Were Promised",
+   "bullets": [
+    "9 Kasimedu fishermen died as their boat capsized in Cyclone Murasu",
+    "₹2 lakh paid so far of ₹7 lakh announced per family",
+    "The families' demand: ₹20 lakh each"
+   ],
+   "credit_line": "Sources: PTI, DT Next, Oneindia Tamil"
+  }
+ ]
+}
