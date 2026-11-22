@@ -1,0 +1,44 @@
+{
+ "acct": "idlynerd",
+ "slug": "iffi-goa-235-films",
+ "date": "22 Nov 2026",
+ "sources": [
+  "PIB",
+  "PTI",
+  "Outlook India",
+  "DD India"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "IFFI Goa Is On Till 28 Nov: 235 Films, Dhurandhar to Kantara",
+   "photo": "_work/2026-11-22-hourly-1157/idlynerd/framed/cover_source.png",
+   "photo_credit": "Photo: PIB, Ministry of I&B (2013), GODL-India, via Wikimedia Commons",
+   "focal": [
+    0.5,
+    0.6
+   ],
+   "zoom": 1.1
+  },
+  {
+   "type": "detail",
+   "stat": "86",
+   "stat_label": "Countries In IFFI's International Line-Up",
+   "bullets": [
+    "159 films from those 86 countries",
+    "76 Indian films in 18 languages",
+    "Opened with Fatherland, closes with We Are All Strangers"
+   ]
+  },
+  {
+   "type": "detail",
+   "stat": "25",
+   "stat_label": "Indian Panorama Features At IFFI",
+   "bullets": [
+    "Dhurandhar opens the Indian Panorama",
+    "Kantara Chapter 1 in the Mainstream Cinema list",
+    "Ramayana opens IFFI's BRICS cinema segment"
+   ]
+  }
+ ]
+}

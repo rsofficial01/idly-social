@@ -1,0 +1,58 @@
+{
+ "report": [
+  {
+   "size": 94,
+   "lines": 3,
+   "overflow": false,
+   "top": 968,
+   "credit_line": "Photo: PIB, Ministry of I&B (2013), GODL-India, via Wikimedia Commons",
+   "slug": "p",
+   "slide": 1,
+   "type": "cover",
+   "scale": 1.164
+  },
+  {
+   "stat": 320,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: PIB, PTI, Outlook India, DD India",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "p",
+   "slide": 2,
+   "type": "detail",
+   "scale": null
+  },
+  {
+   "stat": 320,
+   "label": 54,
+   "bullet": 44,
+   "overflow": false,
+   "credit_line": "Sources: PIB, PTI, Outlook India, DD India",
+   "credit_injected": false,
+   "credit_collision": [],
+   "credit_truncated": false,
+   "credit_inside": true,
+   "credit_rect": [
+    72,
+    1180,
+    1008,
+    1200
+   ],
+   "slug": "p",
+   "slide": 3,
+   "type": "detail",
+   "scale": null
+  }
+ ],
+ "problems": []
+}
