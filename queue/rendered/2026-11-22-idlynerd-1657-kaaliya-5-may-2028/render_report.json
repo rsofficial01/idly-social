@@ -1,0 +1,163 @@
+{
+  "slug": "2026-11-22-idlynerd-1657-kaaliya-5-may-2028",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-22T11:56:06+00:00",
+  "resolver": "youtube_official",
+  "attempts": [
+    {
+      "resolver": "youtube_official",
+      "ref": "https://www.youtube.com/watch?v=XZEHnZgfhjk",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=XZEHnZgfhjk",
+    "source_url": "https://www.youtube.com/watch?v=XZEHnZgfhjk",
+    "image_url": "https://i.ytimg.com/vi/XZEHnZgfhjk/maxresdefault.jpg",
+    "credit": "Image: Dharma Productions (official video)",
+    "organisation": "Dharma Productions",
+    "image_size": [
+      1280,
+      720
+    ],
+    "log": [
+      "oEmbed https://www.youtube.com/watch?v=XZEHnZgfhjk: author 'Dharma Productions' https://www.youtube.com/@DharmaMovies, title 'KAALIYA - ANNOUNCEMENT | KARTIK AARYAN | SANDEEP MODI | IN CINEMAS 5 MAY 2028'",
+      "thumbnail https://i.ytimg.com/vi/XZEHnZgfhjk/maxresdefault.jpg (1280x720)"
+    ],
+    "channel": "https://www.youtube.com/@DharmaMovies",
+    "video_title": "KAALIYA - ANNOUNCEMENT | KARTIK AARYAN | SANDEEP MODI | IN CINEMAS 5 MAY 2028"
+  },
+  "faces": [],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "zoom": 1.0,
+    "upscale": 1.875,
+    "crop": [
+      352.0,
+      0.0,
+      576.0,
+      720.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [],
+    "logo_saliency": 0.06,
+    "notes": [
+      "0 face(s) detected"
+    ],
+    "faces_src": [],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 1.875,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [
+      "baseline (tn): this caption touches 7 known items, 4 needing care (minister-sarathkumar-video-inquiry-2026: alleged, modi-with-cm-vijay: single_source, tvk-mekedatu-fishermen-2026: single_source, narendra-modi: single_source); run: python3 -m pipeline.baseline check --region tn --file <caption file>"
+    ],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: Dharma Productions (official video)",
+      "Sources: The Week, ETV Bharat, Cinema Express",
+      "Sources: Bollywood Hungama, Hindustan Times, Cinema Express",
+      "Sources: The Week, Variety India, The Hollywood Reporter India"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 88,
+      "lines": 3,
+      "overflow": false,
+      "top": 986,
+      "credit_line": "Image: Dharma Productions (official video)",
+      "slug": "2026-11-22-idlynerd-1657-kaaliya-5-may-2028",
+      "slide": 1,
+      "type": "cover",
+      "scale": 1.0
+    },
+    {
+      "stat": 104,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Week, ETV Bharat, Cinema Express",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-1657-kaaliya-5-may-2028",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 112,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Bollywood Hungama, Hindustan Times, Cinema Express",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-1657-kaaliya-5-may-2028",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 84,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: The Week, Variety India, The Hollywood Reporter India",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-22-idlynerd-1657-kaaliya-5-may-2028",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Dharma Productions and Dopamine Studios announced Kaaliya on Sunday, a Hindi monster thriller led by Kartik Aaryan. It reaches cinemas worldwide on Friday, 5 May 2028.\n\nThe first video opens with a mother telling her son about a monster called Kaaliya, before a giant creature attacks in the dark. The makers' announcement post reads: \"Shri Krishna sent it away. We humans brought it back.\"\n\nSandeep Modi, known for the series The Night Manager and Aarya, directs; it is his first Hindi film for cinemas. Dopamine Studios, Kartik Aaryan's new production company, co-produces it with Karan Johar's Dharma Productions. Dopamine also backs Kabir Khan's Ladaku, due in cinemas in June 2027.\n\nWhich Indian horror film scared you the most?\n\nSources: Bollywood Hungama, Cinema Express, The Week, Hindustan Times, Variety India, The Hollywood Reporter India, ETV Bharat\n\n#Kaaliya #KartikAaryan #DharmaProductions #HindiCinema #idlynerd\n\nImage: Dharma Productions (official video)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
