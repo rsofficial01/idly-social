@@ -1,0 +1,57 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1157-hindu-christian-marriage-hc",
+ "date": "22 Nov 2026",
+ "sources": [
+  "Bar & Bench",
+  "LiveLaw",
+  "LawChakra",
+  "DT Next"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Hindu-Christian Marriage Can't Use Hindu Marriage Act: Madras HC",
+   "photo": "_work/2026-11-22-hourly-1157/idlynews/framed/cover_source.png",
+   "photo_credit": "Photo: Kalyan07kumar / Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+   "focal": [
+    0.34,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "Void",
+   "stat_label": "A 2009 Hindu Marriage Act Registration",
+   "bullets": [
+    "Between a Christian man and a Hindu woman",
+    "The Act covers marriages only between two Hindus",
+    "Madras HC ruling covers Tamil Nadu; law unchanged"
+   ],
+   "credit_line": "Sources: Bar & Bench, LiveLaw, LawChakra, DT Next"
+  },
+  {
+   "type": "detail",
+   "stat": "30 Days",
+   "stat_label": "Notice Under the Special Marriage Act",
+   "bullets": [
+    "Filed where one partner has lived 30+ days",
+    "Objections can be raised within 30 days",
+    "Solemnised before a marriage officer and three witnesses"
+   ],
+   "credit_line": "Sources: Nyaaya, iPleaders, SCC Online"
+  },
+  {
+   "type": "detail",
+   "stat": "Every Registrar",
+   "stat_label": "In Tamil Nadu Gets the Madras HC Ruling",
+   "bullets": [
+    "Christians can also use Indian Christian Marriage Act",
+    "Self-respect marriages also need both partners Hindu",
+    "Religion can't be judged from a name alone"
+   ],
+   "credit_line": "Sources: Bar & Bench, LawChakra, LiveLaw, DT Next"
+  }
+ ]
+}
