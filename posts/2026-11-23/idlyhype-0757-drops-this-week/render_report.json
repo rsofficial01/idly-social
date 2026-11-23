@@ -1,0 +1,80 @@
+[
+ {
+  "size": 98,
+  "lines": 3,
+  "overflow": false,
+  "top": 956,
+  "credit_line": "Image: Comet",
+  "slug": "idlyhype-0757-drops-this-week",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-23/idlyhype-0757-drops-this-week/01.jpg",
+  "scale": 0.352
+ },
+ {
+  "stat": 124,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Comet, StartupPedia",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-drops-this-week",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyhype-0757-drops-this-week/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 252,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Golden Goose, The Tribune, Man's World India",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-drops-this-week",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyhype-0757-drops-this-week/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 268,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Superkicks, VegNonVeg, Complex",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyhype-0757-drops-this-week",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyhype-0757-drops-this-week/04.jpg",
+  "scale": null
+ }
+]

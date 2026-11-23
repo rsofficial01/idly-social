@@ -1,0 +1,59 @@
+{
+ "acct": "idlyhype",
+ "slug": "idlyhype-0757-drops-this-week",
+ "date": "23 Nov 2026",
+ "sources": [
+  "Comet",
+  "StartupPedia",
+  "Golden Goose",
+  "The Tribune",
+  "Superkicks",
+  "VegNonVeg"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Drops in India This Week, Led by Comet's ₹5,299 Kaali Peeli",
+   "photo": "_work/2026-11-23-hourly-0757/desks/idlyhype/frame_1/cover_source.png",
+   "photo_credit": "Image: Comet",
+   "focal": [
+    0.5,
+    0.75
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "ON SALE NOW",
+   "stat_label": "Comet Kaali Peeli at ₹5,299 MRP",
+   "bullets": [
+    "Out since 22 Nov, limited pairs online",
+    "A Mumbai kaali-peeli taxi tribute on Comet's X Lows",
+    "Back tabs read 'For Hire' and 'Nahi Jayenge'"
+   ],
+   "credit_line": "Sources: Comet, StartupPedia"
+  },
+  {
+   "type": "detail",
+   "stat": "24 NOV",
+   "stat_label": "Golden Goose × D'YAVOL X Comes to India",
+   "bullets": [
+    "Shah Rukh and Aryan Khan co-founded D'YAVOL X",
+    "Reworked Super-Stars, plus jackets, tees and hoodies",
+    "Delhi, Mumbai, Bengaluru stores; price at launch"
+   ],
+   "credit_line": "Sources: Golden Goose, The Tribune, Man's World India"
+  },
+  {
+   "type": "detail",
+   "stat": "₹19,995",
+   "stat_label": "Air Jordan 4 'Bred' Releases 27 Nov",
+   "bullets": [
+    "Same MRP at Superkicks and VegNonVeg",
+    "VegNonVeg is taking early reservations now",
+    "Superkicks lists it for pre-order"
+   ],
+   "credit_line": "Sources: Superkicks, VegNonVeg, Complex"
+  }
+ ]
+}
