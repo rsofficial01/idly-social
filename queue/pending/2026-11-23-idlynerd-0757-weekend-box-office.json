@@ -1,0 +1,72 @@
+{
+  "slug": "2026-11-23-idlynerd-0757-weekend-box-office",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "Weekend Box Office 20-22 Nov: Ramayana third weekend, Dhanush's O.M opening, ENE Repeat, Godzilla Minus Zero",
+  "headline": "Ramayana Adds Up to ₹79 Crore on Third Weekend; O.M Nears ₹50 Crore",
+  "caption": "Weekend Box Office, Friday 20 to Sunday 22 November. All figures are trade-tracker estimates, not the producers' numbers, and the trackers differ.\n\nNitesh Tiwari's Ramayana made ₹79 crore net in India over its third weekend by Sacnilk's count; Bollywood Hungama had ₹72.60 crore with Sunday still being counted. Its India net after 18 days stands at ₹942.75 crore by Sacnilk's count and ₹889.99 crore by Bollywood Hungama's.\n\nDhanush's O.M: Operation Mole opened on Friday and made ₹50.25 crore net in India over three days, Sacnilk estimates; NewsBytes reports ₹49.57 crore, and ETV Bharat's Sunday estimate was ₹46.56 crore. Its opening day was the biggest of Dhanush's career, ahead of Tere Ishk Mein, Variety India and ETV Bharat report. Rajkumar Periasamy directs, with Mammootty and Sai Pallavi. The Tamil film is also out in Telugu and Hindi.\n\nVishwak Sen's Telugu sequel ENE Repeat, out since Thursday 19 November, made ₹13.40 crore net in its first three days (Sacnilk, Koimoi). Godzilla Minus Zero opened quietly in India: ₹70 lakh net on day one by Sacnilk's count, ₹73 lakh by Bollywood Hungama's.\n\nOn Friday 27 November, Emraan Hashmi's Gunmaaster G9 and Rashmika Mandanna's Mysaa open in cinemas.\n\nWhich film did you watch in a theatre this weekend?\n\nSources: Sacnilk, Bollywood Hungama, NewsBytes, ETV Bharat, Variety India, Koimoi, Pinkvilla, The Hollywood Reporter India\n\n#Ramayana #OperationMole #Dhanush #BoxOffice #idlynerd",
+  "alt_text": "An official ReDefine still of Rama from Ramayana, in a golden crown in a pillared palace, under the headline \"Ramayana Adds Up to ₹79 Crore on Third Weekend; O.M Nears ₹50 Crore\". The next slides give the third-weekend counts by Sacnilk and Bollywood Hungama, O.M's opening-weekend estimates, and ENE Repeat, Godzilla Minus Zero and the 27 November openers.",
+  "sources": [
+    "Sacnilk",
+    "Bollywood Hungama",
+    "Koimoi",
+    "Variety India"
+  ],
+  "detail_slides": [
+    {
+      "stat": "₹72.6-79 CR",
+      "stat_label": "Ramayana's Third Weekend in India, Net",
+      "bullets": [
+        "Sacnilk ₹79 crore; Bollywood Hungama ₹72.60 crore (Sunday partial)",
+        "Fri 20 to Sun 22 Nov: days 16-18",
+        "Ramayana's India net so far: ₹890-943 crore, by tracker"
+      ],
+      "credit_line": "Sources: Sacnilk, Bollywood Hungama, India.com"
+    },
+    {
+      "stat": "NEARLY ₹50 CR",
+      "stat_label": "O.M's Opening Weekend in India, Net",
+      "bullets": [
+        "Sacnilk ₹50.25 cr, NewsBytes ₹49.57 cr, Fri to Sun",
+        "Dhanush's biggest opening day, past Tere Ishk Mein",
+        "Tamil film, also in Telugu and Hindi; Mammootty co-stars"
+      ],
+      "credit_line": "Sources: Sacnilk, NewsBytes, Variety India, ETV Bharat"
+    },
+    {
+      "stat": "₹13.40 CR",
+      "stat_label": "ENE Repeat's First Three Days, India Net",
+      "bullets": [
+        "Vishwak Sen's Telugu sequel; Sacnilk and Koimoi agree",
+        "Godzilla Minus Zero: ₹70-73 lakh net on day one",
+        "Fri 27 Nov: Gunmaaster G9 and Mysaa open"
+      ],
+      "credit_line": "Sources: Sacnilk, Koimoi, Bollywood Hungama, Pinkvilla"
+    }
+  ],
+  "image": {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama"
+  },
+  "tags": [
+    "thisisredefine"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 1,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 12,
+      "notes": "send 1: a weekend trade result for fans; no one has to act on it today. original 1: idly's own two-tracker synthesis, but the cover still repeats the 11 and 13 Nov covers (no fresh official Ramayana still on an allowlisted page). keep 2 rests on the Fri 27 Nov openers line on slide 4. reply 2: 'Which film did you watch in a theatre this weekend?' anyone can answer, 'none' included."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 0757 (Mon 23 Nov). Monday special: Weekend Box Office. G1 BUILD with fixes (no single-tracker milestone on the cover; both trackers named); G23 PASS with 2 edits applied (cover 'on Third Weekend', slide 2 stat low end = BH ₹72.60 cr, Sunday still live at 08:20 IST). Image: redefine.co (allowlisted) og:image RAMA_02.png 4096x2160, framed by the lane on 13 Nov (1 face, y 336-692, downscale 0.638). Tag @thisisredefine: linked from the redefine.co page itself. Stories paused: story false. No idly article: Sources line, no idly.news link.",
+  "created_at": "2026-11-23T08:18:29+05:30"
+}
