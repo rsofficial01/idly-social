@@ -1,0 +1,55 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-0757-launches-this-week",
+ "date": "23 Nov 2026",
+ "sources": [
+  "Autocar India",
+  "Autocar Professional",
+  "CarDekho"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "MINI Cooper SE Launches 27 Nov, Innova Hycross Facelift Due 25 Nov",
+   "photo": "_work/2026-11-23-hourly-0757/desks/idlyautomotive/frame_1/cover_source.png",
+   "photo_credit": "Image: MINI (press)",
+   "focal": [
+    0.5,
+    0.6
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "27 NOV",
+   "stat_label": "MINI Cooper SE Launches in India",
+   "bullets": [
+    "Price at launch; estimates ₹50-58 lakh ex-showroom",
+    "54.2 kWh battery, 402 km claimed range",
+    "Bookings open at MINI dealers, Paul Smith Edition too"
+   ],
+   "credit_line": "Sources: Autocar India, Autocar Professional, TimesDrive, CarHP"
+  },
+  {
+   "type": "detail",
+   "stat": "25 NOV",
+   "stat_label": "Toyota Innova Hycross Facelift Launches",
+   "bullets": [
+    "Price at launch; today's Hycross starts under ₹20 lakh",
+    "Toyota's teaser shows new LED headlamps"
+   ],
+   "credit_line": "Sources: Autocar India, News24, CarDekho, CarWale"
+  },
+  {
+   "type": "detail",
+   "stat": "27-29 NOV",
+   "stat_label": "Himalayan 750 Expected at Motoverse, Goa",
+   "bullets": [
+    "Royal Enfield yet to confirm India launch, price",
+    "New 743 cc twin makes 63 Nm",
+    "Gets cruise control and traction control"
+   ],
+   "credit_line": "Sources: Autocar India, Asianet News, Royal Enfield"
+  }
+ ]
+}

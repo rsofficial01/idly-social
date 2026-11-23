@@ -1,0 +1,80 @@
+[
+ {
+  "size": 84,
+  "lines": 3,
+  "overflow": false,
+  "top": 998,
+  "credit_line": "Image: MINI (press)",
+  "slug": "idlyautomotive-0757-launches-this-week",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-23/idlyautomotive-0757-launches-this-week/01.jpg",
+  "scale": 0.225
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, Autocar Professional, TimesDrive, CarHP",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0757-launches-this-week",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyautomotive-0757-launches-this-week/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 256,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, News24, CarDekho, CarWale",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0757-launches-this-week",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyautomotive-0757-launches-this-week/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 176,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Autocar India, Asianet News, Royal Enfield",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlyautomotive-0757-launches-this-week",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlyautomotive-0757-launches-this-week/04.jpg",
+  "scale": null
+ }
+]
