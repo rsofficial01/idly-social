@@ -1,0 +1,17 @@
+{
+  "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+  "reviewer": {
+    "hook": 2,
+    "read": 2,
+    "send": 1,
+    "keep": 2,
+    "reply": 2,
+    "original": 1,
+    "alone": 2,
+    "notes": "send 1: fan audience; tracker figures disputed (shown as ranges). original 1: same ReDefine RAMA_02 still was the cover on 11 and 13 Nov (third use). Layout: v2 slide 2 clean (2 bullets, aligned); 01/03/04 pixel-identical to v1; crown tip touches the 'nerd.' logo - no full-bleed crop avoids it (lane saliency 1.67 < 2.2), noted not held.",
+    "total": 12
+  },
+  "reviewed_at": "2026-11-23T02:58:35+00:00",
+  "reviewed_by": "blind reviewer (hourly 0757) + main",
+  "notes": "G4-r2 PASS 12/14; main re-checked BH Day 18 still not final (partial label stands), looked at all 4 slides; crown tip under logo accepted (no full-bleed crop avoids it)"
+}
