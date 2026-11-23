@@ -1,0 +1,80 @@
+[
+ {
+  "size": 82,
+  "lines": 3,
+  "overflow": false,
+  "top": 1004,
+  "credit_line": "Photo: Veeven / Wikimedia Commons, CC BY-SA 4.0 (2017 file)",
+  "slug": "idlynews-1957-bisleri-water-sample",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-23/idlynews-1957-bisleri-water-sample/01.jpg",
+  "scale": 0.469
+ },
+ {
+  "stat": 248,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Bisleri statement via PTI, Scroll, Onmanorama",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1957-bisleri-water-sample",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlynews-1957-bisleri-water-sample/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 156,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: FSSAI via ANI, PTI; Bisleri via PTI, Scroll",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1957-bisleri-water-sample",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlynews-1957-bisleri-water-sample/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 104,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: PTI, ANI",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-1957-bisleri-water-sample",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-23/idlynews-1957-bisleri-water-sample/04.jpg",
+  "scale": null
+ }
+]

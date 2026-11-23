@@ -1,0 +1,59 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-1957-bisleri-water-sample",
+ "date": "23 Nov 2026",
+ "sources": [
+  "FSSAI",
+  "Bisleri",
+  "PTI",
+  "ANI",
+  "Scroll",
+  "Onmanorama"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "FSSAI Moves to Prosecute Bisleri Over a Water Sample It Calls Unsafe",
+   "photo": "_work/2026-11-23-hourly-1957/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: Veeven / Wikimedia Commons, CC BY-SA 4.0 (2017 file)",
+   "focal": [
+    0.7,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "12 VS 10",
+   "stat_label": "Bromate in One Goa Sample, Per Bisleri",
+   "bullets": [
+    "First test, micrograms per litre: 20% over limit",
+    "The other five samples passed all standards",
+    "Bisleri says its water is safe to drink"
+   ],
+   "credit_line": "Sources: Bisleri statement via PTI, Scroll, Onmanorama"
+  },
+  {
+   "type": "detail",
+   "stat": "14 MONTHS",
+   "stat_label": "From Goa Sample to Prosecution Sanction",
+   "bullets": [
+    "30 Sep 2025: FSSAI takes six Bisleri samples",
+    "22 Nov 2025: Bisleri appeals; retest flags hydrocarbons (PAHs)",
+    "22 Nov 2026: FSSAI announces the sanction"
+   ],
+   "credit_line": "Sources: FSSAI via ANI, PTI; Bisleri via PTI, Scroll"
+  },
+  {
+   "type": "detail",
+   "stat": "ONGOING DRIVE",
+   "stat_label": "Other Major Brands Are Being Tested, Sources Say",
+   "bullets": [
+    "FSSAI took samples from all major brands",
+    "Action if samples fail, sources told PTI",
+    "No result for any other brand published yet"
+   ],
+   "credit_line": "Sources: PTI, ANI"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "account": "idlynews",
+ "story_id": null,
+ "idly_article": false,
+ "slug": "idlynews-1957-bisleri-water-sample",
+ "format": "news carousel (cover + 3 detail slides)",
+ "title": "FSSAI sanctions prosecution of Bisleri International over a packaged drinking water sample it declared unsafe (bromate on first test; PAHs at the referral lab); Bisleri says its water is safe, gives its timeline (Goa plant, six samples 30 Sep 2025, five passed, 12 vs 10 ug/L), says no notice received; FSSAI testing samples of all major brands, sources tell PTI/ANI.",
+ "headline": "FSSAI Moves to Prosecute Bisleri Over a Water Sample It Calls Unsafe",
+ "sources": [
+  {
+   "outlet": "ANI (webindia123)",
+   "url": "https://news.webindia123.com/news/Articles/India/20261123/4523227.html",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "PTI (Kashmir Observer)",
+   "url": "https://kashmirobserver.net/2026/11/23/fssai-collects-samples-of-major-packaged-water-brands-warns-of-action/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "PTI (ThePrint)",
+   "url": "https://theprint.in/india/after-fssai-prosecution-order-bisleri-claims-its-packaged-drinking-water-is-safe-for-consumption/3106306/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "PTI (The Tribune)",
+   "url": "https://www.tribuneindia.com/news/india/bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-bromate-within-prescribed-limit/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Scroll",
+   "url": "https://scroll.in/latest/1097243/food-regulator-declares-bisleri-water-samples-unsafe-firm-refutes-findings",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Onmanorama",
+   "url": "https://www.onmanorama.com/news/india/2026/11/23/fssai-flags-bisleri-water-as-unsafe-company-says-bromate-within-prescribed-limit.html",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Public TV English",
+   "url": "https://english.publictv.in/fssai-sanctions-prosecution-against-packaged-drinking-water-brand-over-unsafe-sample-bromate-and-pah-findings/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "ANI",
+   "url": "https://aninews.in/news/national/general-news/other-packaged-water-brands-under-testing-after-fssai-action-against-bisleri-sources20261123143846/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Business Standard (PTI)",
+   "url": "https://www.business-standard.com/amp/india-news/fssai-collects-samples-of-major-packaged-drinking-water-companies-126112300810_1.html",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Outlook",
+   "url": "https://www.outlookindia.com/national/bisleri-water-declared-unsafe-what-did-fssai-find-and-what-are-the-health-risks",
+   "date": "2026-11-23"
+  }
+ ],
+ "facts": [
+  {
+   "fact": "FSSAI said on Sunday 22 Nov 2026 it sanctioned prosecution against Bisleri International Pvt Ltd; a regulatory sample of 'Packaged Drinking Water (other than Mineral Water)' was non-compliant with bromate limits and declared unsafe under the FSS Act, 2006",
+   "urls": [
+    "https://news.webindia123.com/news/Articles/India/20261123/4523227.html",
+    "https://kashmirobserver.net/2026/11/23/fssai-collects-samples-of-major-packaged-water-brands-warns-of-action/",
+    "https://scroll.in/latest/1097243/food-regulator-declares-bisleri-water-samples-unsafe-firm-refutes-findings"
+   ]
+  },
+  {
+   "fact": "After the appeal, a referral food laboratory also declared the sample unsafe after detecting polynuclear aromatic hydrocarbons (PAHs) (FSSAI)",
+   "urls": [
+    "https://news.webindia123.com/news/Articles/India/20261123/4523227.html",
+    "https://english.publictv.in/fssai-sanctions-prosecution-against-packaged-drinking-water-brand-over-unsafe-sample-bromate-and-pah-findings/",
+    "https://kashmirobserver.net/2026/11/23/fssai-collects-samples-of-major-packaged-water-brands-warns-of-action/"
+   ]
+  },
+  {
+   "fact": "Per Bisleri: FSSAI took six samples at its Goa plant (one of 143) on 30 Sep 2025; five met all standards; the sixth recorded bromate 12 ug/L vs a 10 ug/L limit (first test)",
+   "urls": [
+    "https://theprint.in/india/after-fssai-prosecution-order-bisleri-claims-its-packaged-drinking-water-is-safe-for-consumption/3106306/",
+    "https://www.tribuneindia.com/news/india/bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-bromate-within-prescribed-limit/",
+    "https://www.onmanorama.com/news/india/2026/11/23/fssai-flags-bisleri-water-as-unsafe-company-says-bromate-within-prescribed-limit.html"
+   ]
+  },
+  {
+   "fact": "Per Bisleri: appeal 22 Nov 2025; referral lab found bromate within limit but flagged PAHs; its own FSSAI-approved lab found bromate within limit; results sent to FSSAI Western Regional Office with a letter dated 2 Feb 2026",
+   "urls": [
+    "https://theprint.in/india/after-fssai-prosecution-order-bisleri-claims-its-packaged-drinking-water-is-safe-for-consumption/3106306/",
+    "https://www.tribuneindia.com/news/india/bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-bromate-within-prescribed-limit/",
+    "https://scroll.in/latest/1097243/food-regulator-declares-bisleri-water-samples-unsafe-firm-refutes-findings"
+   ]
+  },
+  {
+   "fact": "Bisleri says (Mon 23 Nov) its packaged drinking water is safe, it will cooperate with FSSAI, and it has received no notice by email or hard copy",
+   "urls": [
+    "https://theprint.in/india/after-fssai-prosecution-order-bisleri-claims-its-packaged-drinking-water-is-safe-for-consumption/3106306/",
+    "https://www.onmanorama.com/news/india/2026/11/23/fssai-flags-bisleri-water-as-unsafe-company-says-bromate-within-prescribed-limit.html",
+    "https://kashmirobserver.net/2026/11/23/fssai-collects-samples-of-major-packaged-water-brands-warns-of-action/"
+   ]
+  },
+  {
+   "fact": "FSSAI has collected samples of all major packaged drinking water brands in an ongoing enforcement drive; samples being tested; inspections continue; legal action against those that fail (unnamed sources)",
+   "urls": [
+    "https://kashmirobserver.net/2026/11/23/fssai-collects-samples-of-major-packaged-water-brands-warns-of-action/",
+    "https://aninews.in/news/national/general-news/other-packaged-water-brands-under-testing-after-fssai-action-against-bisleri-sources20261123143846/",
+    "https://www.business-standard.com/amp/india-news/fssai-collects-samples-of-major-packaged-drinking-water-companies-126112300810_1.html"
+   ]
+  },
+  {
+   "fact": "idly arithmetic: 12 vs 10 = 20% over on the first test (Bisleri's figures); 30 Sep 2025 -> 22 Nov 2026 = about 14 months",
+   "urls": [
+    "https://theprint.in/india/after-fssai-prosecution-order-bisleri-claims-its-packaged-drinking-water-is-safe-for-consumption/3106306/",
+    "https://news.webindia123.com/news/Articles/India/20261123/4523227.html"
+   ]
+  }
+ ],
+ "photo_source": {
+  "page": "https://commons.wikimedia.org/wiki/File:Bisleri_PET_water_bottles_with_Telugu_labels.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bisleri_PET_water_bottles_with_Telugu_labels.jpg/3840px-Bisleri_PET_water_bottles_with_Telugu_labels.jpg",
+  "licence": "CC BY-SA 4.0",
+  "author": "Veeven",
+  "viewed": true,
+  "taken": "2017-12-05",
+  "size": "3840x2880 (original 4608x3456)",
+  "faces": 0,
+  "framing": {
+   "focal": [
+    0.7,
+    0.5
+   ],
+   "zoom": 1.0,
+   "scale": 0.47,
+   "note": "focal x moved from 0.5 to 0.7 at G23 so the vertical credit runs over dark background, not a label"
+  }
+ },
+ "tag": null,
+ "tag_proof": "Commons photographer; reviewer said not to tag Bisleri or FSSAI on a regulatory-action story.",
+ "reviewer_score_file": "_work/2026-11-23-hourly-1957/gates/idlynews-G4-r2.score.json",
+ "gates": {
+  "G1": "BUILD A (FSSAI/Bisleri), ceiling 14, realistic 12-13, 7 fixes (attribute all numbers to Bisleri; denial on slide 2; timeline slide for original; slide 4 sources; leave out the 333/1,300 Parliament figure; Commons photo OK, mark as file; reply question). B Bengal SIR SC order: NO (court procedure, Bengal-only send, KMC date unsettled). C Nepal package: NO (same story led 08:00; visiting-PM posts got 0).",
+  "G23": "FIX x4 (slide 2 'First test'; slide 3 label 'Prosecution Sanction'; slide 4 label 'Sources Say'; cover credit collision -> focal x 0.7, shorter credit), all applied",
+  "G4": "FIX 13: slide 4 stat NATIONWIDE -> ONGOING DRIVE",
+  "G4-r2": "PASS 13 (hook 2, read 2, send 2, keep 1, reply 2, original 2, alone 2)"
+ },
+ "score": {
+  "desk": 13,
+  "reviewer": 13,
+  "post_min": 13
+ }
+}
