@@ -67,5 +67,14 @@
     }
   },
   "notes": "v2 of 2026-11-23-idlynerd-0757-weekend-box-office (rendered 08:21 IST); supersedes it, so v1 should be rejected. G4 FIX applied: slide 2 filler bullet 'Fri 20 to Sun 22 Nov: days 16-18' deleted. Bollywood Hungama Day 18 still LIVE at 08:24 IST, so stat stays ₹72.6-79 CR. G1 BUILD with fixes, G23 PASS with 2 edits (both applied). Image: redefine.co (allowlisted) og:image RAMA_02.png 4096x2160 (1 face, y 336-692, downscale 0.638). Tag @thisisredefine, linked from the redefine.co page. story false (Stories paused). No idly article: Sources line, no idly.news link.",
-  "created_at": "2026-11-23T08:23:48+05:30"
+  "created_at": "2026-11-23T08:23:48+05:30",
+  "caption_final": "Weekend Box Office, Friday 20 to Sunday 22 November. All figures are trade-tracker estimates, not the producers' numbers, and the trackers differ.\n\nNitesh Tiwari's Ramayana made ₹79 crore net in India over its third weekend by Sacnilk's count; Bollywood Hungama had ₹72.60 crore with Sunday still being counted. Its India net after 18 days stands at ₹942.75 crore by Sacnilk's count and ₹889.99 crore by Bollywood Hungama's.\n\nDhanush's O.M: Operation Mole opened on Friday and made ₹50.25 crore net in India over three days, Sacnilk estimates; NewsBytes reports ₹49.57 crore, and ETV Bharat's Sunday estimate was ₹46.56 crore. Its opening day was the biggest of Dhanush's career, ahead of Tere Ishk Mein, Variety India and ETV Bharat report. Rajkumar Periasamy directs, with Mammootty and Sai Pallavi. The Tamil film is also out in Telugu and Hindi.\n\nVishwak Sen's Telugu sequel ENE Repeat, out since Thursday 19 November, made ₹13.40 crore net in its first three days (Sacnilk, Koimoi). Godzilla Minus Zero opened quietly in India: ₹70 lakh net on day one by Sacnilk's count, ₹73 lakh by Bollywood Hungama's.\n\nOn Friday 27 November, Emraan Hashmi's Gunmaaster G9 and Rashmika Mandanna's Mysaa open in cinemas.\n\nWhich film did you watch in a theatre this weekend?\n\nSources: Sacnilk, Bollywood Hungama, NewsBytes, ETV Bharat, Variety India, Koimoi, Pinkvilla, The Hollywood Reporter India\n\n#Ramayana #OperationMole #Dhanush #BoxOffice #idlynerd\n\nImage: ReDefine (Prime Focus)",
+  "image_credit": "Image: ReDefine (Prime Focus)",
+  "lane": {
+    "spec_sha256": "d80dd4741614569de7550c6dbe737154c8f36c44766802c3ba940700fd048ef9",
+    "rendered_at": "2026-11-23T02:54:48+00:00",
+    "resolver": "og_image_official",
+    "source_url": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "image_url": "https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png"
+  }
 }

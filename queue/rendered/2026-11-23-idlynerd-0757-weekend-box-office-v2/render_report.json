@@ -1,0 +1,183 @@
+{
+  "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+  "account": "idlynerd",
+  "rendered_at": "2026-11-23T02:54:48+00:00",
+  "resolver": "og_image_official",
+  "attempts": [
+    {
+      "resolver": "og_image_official",
+      "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+      "ok": true
+    }
+  ],
+  "source": {
+    "resolver": "og_image_official",
+    "ref": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "source_url": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "image_url": "https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png",
+    "credit": "Image: ReDefine (Prime Focus)",
+    "organisation": "ReDefine (Prime Focus)",
+    "image_size": [
+      4096,
+      2160
+    ],
+    "log": [
+      "page https://www.redefine.co/news/the-journey-begins-with-rama (ReDefine (Prime Focus)): og:title 'The Journey Begins with RAMA', 1 image(s)",
+      "image https://images.ctfassets.net/3sjsytt3tkv5/5SKoFksHSopoC5oQgct3bb/9812d4ed1e591e763ad1f98d92db2d96/RAMA_02.png (4096x2160)"
+    ],
+    "og_title": "The Journey Begins with RAMA"
+  },
+  "faces": [
+    [
+      1953.8,
+      622.7,
+      354.0,
+      450.8,
+      0.933
+    ]
+  ],
+  "framing": {
+    "mode": "cover",
+    "focal": [
+      0.5202,
+      0.5098
+    ],
+    "zoom": 1.02,
+    "upscale": 0.638,
+    "crop": [
+      1284.0,
+      42.0,
+      1694.0,
+      2118.0
+    ],
+    "band_top": null,
+    "band_height": null,
+    "faces_out": [
+      [
+        400,
+        336,
+        680,
+        692
+      ]
+    ],
+    "logo_saliency": 1.67,
+    "notes": [
+      "1 face(s) detected"
+    ],
+    "faces_src": [
+      [
+        1953.8,
+        622.7,
+        354.0,
+        450.8,
+        0.933
+      ]
+    ],
+    "frame": "cover",
+    "out_h": 1350
+  },
+  "upscale": 0.638,
+  "checks": {
+    "caption_errors": [],
+    "caption_warnings": [],
+    "jpeg": "ok",
+    "overflow": false,
+    "credit_lines": [
+      "Image: ReDefine (Prime Focus)",
+      "Sources: Sacnilk, Bollywood Hungama, India.com",
+      "Sources: Sacnilk, NewsBytes, Variety India, ETV Bharat",
+      "Sources: Sacnilk, Koimoi, Bollywood Hungama, Pinkvilla"
+    ],
+    "max_upscale": 2.0
+  },
+  "slides": [
+    {
+      "size": 82,
+      "lines": 3,
+      "overflow": false,
+      "top": 1004,
+      "credit_line": "Image: ReDefine (Prime Focus)",
+      "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+      "slide": 1,
+      "type": "cover",
+      "scale": 0.638
+    },
+    {
+      "stat": 160,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Bollywood Hungama, India.com",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+      "slide": 2,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 116,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, NewsBytes, Variety India, ETV Bharat",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+      "slide": 3,
+      "type": "detail",
+      "scale": null
+    },
+    {
+      "stat": 200,
+      "label": 54,
+      "bullet": 44,
+      "overflow": false,
+      "credit_line": "Sources: Sacnilk, Koimoi, Bollywood Hungama, Pinkvilla",
+      "credit_injected": false,
+      "credit_collision": [],
+      "credit_truncated": false,
+      "credit_inside": true,
+      "credit_rect": [
+        72,
+        1180,
+        1008,
+        1200
+      ],
+      "slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+      "slide": 4,
+      "type": "detail",
+      "scale": null
+    }
+  ],
+  "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg"
+  ],
+  "caption_final": "Weekend Box Office, Friday 20 to Sunday 22 November. All figures are trade-tracker estimates, not the producers' numbers, and the trackers differ.\n\nNitesh Tiwari's Ramayana made ₹79 crore net in India over its third weekend by Sacnilk's count; Bollywood Hungama had ₹72.60 crore with Sunday still being counted. Its India net after 18 days stands at ₹942.75 crore by Sacnilk's count and ₹889.99 crore by Bollywood Hungama's.\n\nDhanush's O.M: Operation Mole opened on Friday and made ₹50.25 crore net in India over three days, Sacnilk estimates; NewsBytes reports ₹49.57 crore, and ETV Bharat's Sunday estimate was ₹46.56 crore. Its opening day was the biggest of Dhanush's career, ahead of Tere Ishk Mein, Variety India and ETV Bharat report. Rajkumar Periasamy directs, with Mammootty and Sai Pallavi. The Tamil film is also out in Telugu and Hindi.\n\nVishwak Sen's Telugu sequel ENE Repeat, out since Thursday 19 November, made ₹13.40 crore net in its first three days (Sacnilk, Koimoi). Godzilla Minus Zero opened quietly in India: ₹70 lakh net on day one by Sacnilk's count, ₹73 lakh by Bollywood Hungama's.\n\nOn Friday 27 November, Emraan Hashmi's Gunmaaster G9 and Rashmika Mandanna's Mysaa open in cinemas.\n\nWhich film did you watch in a theatre this weekend?\n\nSources: Sacnilk, Bollywood Hungama, NewsBytes, ETV Bharat, Variety India, Koimoi, Pinkvilla, The Hollywood Reporter India\n\n#Ramayana #OperationMole #Dhanush #BoxOffice #idlynerd\n\nImage: ReDefine (Prime Focus)",
+  "story": {
+    "status": "off",
+    "reasons": [
+      "the spec says \"story\": false"
+    ],
+    "file": null
+  }
+}
