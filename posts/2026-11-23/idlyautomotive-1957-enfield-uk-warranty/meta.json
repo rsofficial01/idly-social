@@ -1,0 +1,152 @@
+{
+ "account": "idlyautomotive",
+ "slug": "idlyautomotive-1957-enfield-uk-warranty",
+ "format": "news carousel (cover + 3 detail slides)",
+ "headline": "Royal Enfield's Free Warranty: Up to 10 Years in the UK, 3 in India",
+ "sources": [
+  {
+   "outlet": "Royal Enfield UK (official warranty FAQ)",
+   "url": "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+   "date": "2026-11-20 (scheme start; page checked 2026-11-23)"
+  },
+  {
+   "outlet": "Visordown",
+   "url": "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+   "date": "2026-11-20"
+  },
+  {
+   "outlet": "Rushlane",
+   "url": "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html",
+   "date": "2026-11-21"
+  },
+  {
+   "outlet": "The Highland Times",
+   "url": "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "BikeWale (Classic 350 spec page)",
+   "url": "https://www.bikewale.com/royalenfield-bikes/classic-350/",
+   "date": "checked 2026-11-23"
+  },
+  {
+   "outlet": "DriveSpark (Classic 350 spec page)",
+   "url": "https://www.drivespark.com/bikes/royal-enfield/classic-350/",
+   "date": "checked 2026-11-23"
+  }
+ ],
+ "facts": [
+  {
+   "fact": "Royal Enfield UK's Service Activated Extended Warranty gives free cover up to 10 years or 70,000 miles, whichever comes first",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "The scheme started on 20 Nov 2026; new bikes bought from 20 Nov 2026 are included",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "After the 3-year factory warranty, each yearly service at an authorised RE UK dealer adds 12 months",
+   "urls": [
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html",
+    "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/"
+   ]
+  },
+  {
+   "fact": "The cover itself is free; owners pay for the yearly services",
+   "urls": [
+    "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/"
+   ]
+  },
+  {
+   "fact": "Bikes still under warranty (existing owners) qualify as well as new ones",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty"
+   ]
+  },
+  {
+   "fact": "Excluded: UCE 500s (Classic 500, Bullet 500), Himalayan 411, Scram 411",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
+    "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "350, 450, 650 and 750 ranges are covered",
+   "urls": [
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html",
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/"
+   ]
+  },
+  {
+   "fact": "UK-registered bikes only",
+   "urls": [
+    "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "Wear parts such as tyres, brake pads and chains are not covered",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://thehighlandtimes.com/royal-enfield-introduces-ten-year-warranty-for-uk-motorcycle-owners/",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "Royal Enfield's standard warranty in India is 3 years (range-wide, Rushlane); on the Classic 350 it is 3 years or 30,000 km (BikeWale, DriveSpark)",
+   "urls": [
+    "https://www.bikewale.com/royalenfield-bikes/classic-350/",
+    "https://www.drivespark.com/bikes/royal-enfield/classic-350/",
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html"
+   ]
+  },
+  {
+   "fact": "Royal Enfield hasn't announced the UK scheme for India",
+   "urls": [
+    "https://www.rushlane.com/royal-enfield-10-year-warranty-for-uk-at-no-extra-cost-will-india-get-it-12561758.html",
+    "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty"
+   ]
+  },
+  {
+   "fact": "idly arithmetic: 70,000 miles = 1,12,654 km = about 3.8x (3.755) 30,000 km",
+   "urls": [
+    "https://www.royalenfield.com/uk/en/after-sales/benefits-of-ownership/warranty-cover/",
+    "https://www.bikewale.com/royalenfield-bikes/classic-350/"
+   ]
+  }
+ ],
+ "photo_source": {
+  "page": "https://www.royalenfield.com/in/en/motorcycles/classic-350/",
+  "url": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/new-classic-350/revamp/gallery/download/mobile/gallery_2.jpg",
+  "licence": "Royal Enfield official product/press image, editorial use, credited 'Image: Royal Enfield'",
+  "author": "Royal Enfield",
+  "viewed": true,
+  "size": "1080x1920",
+  "faces": 0,
+  "framing": "pipeline.framing ok (upscale 1.0, 0 faces); cover focal [0.5, 0.65], zoom 1.0 (crop top 570 px); whole bike at y ~285-880, headline from y ~1000"
+ },
+ "tag": "royalenfield",
+ "tag_proof": "https://www.royalenfield.com/in/en/home/ footer links instagram.com/royalenfield (checked 23 Nov 2026, desk curl). RE UK's warranty page links instagram.com/royalenfielduk.",
+ "gates": {
+  "G1": "BUILD A (ceiling 14, realistic 12-13) with 7 fixes, all applied; B (Maruti hike) and C (BYD Ti7) not built, send 1",
+  "G23": "FIX: pin the 30,000 km to the Classic 350 (slide 4 label/bullet, caption para 3); optional slide 3 wording. Applied, re-rendered.",
+  "G4": "PASS 13 (2 2 2 1 2 2 2), 'It can publish.'"
+ },
+ "main_fixes": [
+  "main: 3.75x -> about 3.8x (112,654/30,000 = 3.755) on slide 4 and caption"
+ ]
+}

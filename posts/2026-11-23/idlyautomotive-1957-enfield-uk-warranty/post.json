@@ -1,0 +1,59 @@
+{
+ "acct": "idlyautomotive",
+ "slug": "idlyautomotive-1957-enfield-uk-warranty",
+ "date": "23 Nov 2026",
+ "sources": [
+  "Royal Enfield UK",
+  "Visordown",
+  "Rushlane",
+  "The Highland Times",
+  "BikeWale",
+  "DriveSpark"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Royal Enfield's Free Warranty: Up to 10 Years in the UK, 3 in India",
+   "photo": "_work/2026-11-23-hourly-1957/desks/idlyautomotive/frame_1/cover_source.png",
+   "photo_credit": "Image: Royal Enfield",
+   "focal": [
+    0.5,
+    0.65
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "10 YEARS",
+   "stat_label": "Royal Enfield's Free UK Warranty From 20 Nov",
+   "bullets": [
+    "Up to 10 years or 70,000 miles, free",
+    "Each yearly RE UK dealer service adds a year",
+    "UK-registered bikes only; wear parts aren't covered"
+   ],
+   "credit_line": "Sources: Royal Enfield UK, Visordown, Rushlane"
+  },
+  {
+   "type": "detail",
+   "stat": "350-750",
+   "stat_label": "Which Royal Enfields the UK Scheme Covers",
+   "bullets": [
+    "Bikes under warranty, plus new ones from 20 Nov",
+    "All 350, 450, 650 and 750 models",
+    "Out: old UCE 500s, Himalayan 411, Scram 411"
+   ],
+   "credit_line": "Sources: Royal Enfield UK, Visordown, The Highland Times"
+  },
+  {
+   "type": "detail",
+   "stat": "3 YEARS",
+   "stat_label": "Royal Enfield Classic 350's Standard Warranty in India",
+   "bullets": [
+    "3 years or 30,000 km, whichever comes first",
+    "UK's free cap, 1,12,654 km, is about 3.8x that",
+    "Royal Enfield hasn't announced it for India"
+   ],
+   "credit_line": "Sources: BikeWale, DriveSpark, Rushlane"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 1,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "notes": "r2: 3.75x -> about 3.8x (correct rounding). Keep 1: nothing actionable for Indian readers. Send 2: RE owner -> riding group. Original 2: own UK-vs-India km arithmetic. Visual clean.",
+ "total": 13
+}
