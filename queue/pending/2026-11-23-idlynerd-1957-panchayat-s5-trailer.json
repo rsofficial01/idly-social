@@ -1,0 +1,72 @@
+{
+  "slug": "2026-11-23-idlynerd-1957-panchayat-s5-trailer",
+  "account": "idlynerd",
+  "story_id": null,
+  "idly_article": false,
+  "evergreen": false,
+  "title": "Panchayat Season 5 trailer out 23 Nov; premieres 3 Dec on Prime Video",
+  "headline": "Banrakas Runs Phulera Now: Panchayat Season 5 Streams 3 Dec",
+  "caption": "Panchayat Season 5's trailer is out. Prime Video India released it on Monday, 23 November, ahead of the season's premiere on Thursday, 3 December, on Prime Video in India and more than 240 countries and territories.\n\nIn the trailer, Phulera has a new order. Kranti Devi (Sunita Rajwar) is the Pradhan after beating Manju Devi (Neena Gupta) in Season 4's election, and her husband Banrakas (Durgesh Kumar) calls the shots. Pradhan Ji (Raghubir Yadav) is adjusting to life out of office, and the story of Sachiv Ji (Jitendra Kumar) and Rinki (Sanvikaa) takes a turn.\n\nSeason 5 arrives 17 months after Season 4 (24 June 2025). By idly's count, that is the show's second-shortest wait between seasons: about 25 months from Season 1 to 2, 24 from 2 to 3, and 13 from 3 to 4.\n\nTVF produces the series; Deepak Kumar Mishra directs and Chandan Kumar writes.\n\nWho do you watch Panchayat with at home?\n\nSources: Prime Video, Variety India, India.com, Open, Business Upturn, Khaleej Times, The Tribune, Business Standard\n\n#Panchayat #PanchayatSeason5 #PrimeVideo #TVF #idlynerd",
+  "alt_text": "A still from Prime Video India's official Panchayat Season 5 trailer, under the headline \"Banrakas Runs Phulera Now: Panchayat Season 5 Streams 3 Dec\". The next slides give the 3 December premiere on Prime Video, who runs Phulera in the new season, and the 17-month wait since Season 4.",
+  "sources": [
+    "Variety India",
+    "India.com",
+    "Open",
+    "Prime Video"
+  ],
+  "detail_slides": [
+    {
+      "stat": "3 DEC",
+      "stat_label": "Panchayat Season 5 Streams on Prime Video",
+      "bullets": [
+        "Prime Video India released the trailer on 23 Nov",
+        "Streams in India and 240+ countries, territories",
+        "TVF produces; Deepak Kumar Mishra directs"
+      ],
+      "credit_line": "Sources: Variety India, India.com, Open"
+    },
+    {
+      "stat": "NEW PRADHAN",
+      "stat_label": "Kranti Devi Is Pradhan; Banrakas Calls the Shots",
+      "bullets": [
+        "Kranti Devi beat Manju Devi in Season 4's election",
+        "In the trailer, her husband Banrakas gives the orders",
+        "Pradhan Ji is adjusting to life out of office"
+      ],
+      "credit_line": "Sources: Variety India, India.com, Open"
+    },
+    {
+      "stat": "17 MONTHS",
+      "stat_label": "Panchayat's Second-Shortest Wait Between Seasons",
+      "bullets": [
+        "Season 4 streamed from 24 June 2025",
+        "Season 3 to 4 took 13 months, the shortest",
+        "Before that, each wait was about two years"
+      ],
+      "credit_line": "idly's count; dates: Prime Video, The Tribune, Business Standard"
+    }
+  ],
+  "image": {
+    "resolver": "youtube_official",
+    "ref": "https://www.youtube.com/watch?v=36a-E7A35F8"
+  },
+  "tags": [
+    "primevideoin"
+  ],
+  "story": false,
+  "scores": {
+    "self": {
+      "hook": 2,
+      "read": 2,
+      "send": 2,
+      "keep": 2,
+      "reply": 2,
+      "original": 1,
+      "alone": 2,
+      "total": 13,
+      "notes": "provisional, before the lane render. original 1: the trailer and its plot are what every outlet runs on the same thumbnail; idly's adds are the season-gap arithmetic (17 months, second-shortest after 13) and the who-runs-Phulera slide. hook 2 only if the lane's still is a clean, sharp Season 5 frame with faces clear of logo and headline. send 2: Panchayat is a family watch; a viewer forwards the trailer + 3 Dec date to the person they watch it with. reply 2: 'Who do you watch Panchayat with at home?' is a one-word answer about the reader's own life ('Mom', 'alone')."
+    }
+  },
+  "notes": "idlynerd desk, hourly run 1957 (Mon 23 Nov). G1 BUILD A (Panchayat S5 trailer); G23 FIX (2 bullet edits) applied. Cover: Prime Video India's landscape trailer 36a-E7A35F8 (oEmbed author_url @PrimeVideoIN, allowlisted; youtube.com/shorts/36a-E7A35F8 returns 303 -> watch). No fallback: no other landscape Season 5 upload exists, and older-season clips failed framing on 21 Nov; if framing fails, the desk skips. Tag @primevideoin (aboutamazon.in embeds a reel 'shared by prime video IN (@primevideoin)'). Stories paused: story false. No idly article: Sources line, no idly.news link.",
+  "created_at": "2026-11-23T20:22:00+05:30"
+}
