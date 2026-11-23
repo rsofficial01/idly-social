@@ -5268,5 +5268,36 @@
     "tagged": [
       "miniindia_official"
     ]
+  },
+  {
+    "lane": "official-image",
+    "lane_slug": "2026-11-23-idlynerd-0757-weekend-box-office-v2",
+    "image_credit": "Image: ReDefine (Prime Focus)",
+    "image_source": "https://www.redefine.co/news/the-journey-begins-with-rama",
+    "archived_images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-23-idlynerd-0757-weekend-box-office-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-23-idlynerd-0757-weekend-box-office-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-23-idlynerd-0757-weekend-box-office-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/posted/2026-11-23-idlynerd-0757-weekend-box-office-v2/04.jpg"
+    ],
+    "score_self": 12,
+    "score_reviewer": 12,
+    "story_id": null,
+    "account": "idlynerd",
+    "media_id": "18030183014874662",
+    "permalink": "https://www.instagram.com/p/DgEXSjwD38n/",
+    "posted_at": "2026-11-23T02:59:59+00:00",
+    "date": "2026-11-23",
+    "slot": "lane",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-23-idlynerd-0757-weekend-box-office-v2/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-23-idlynerd-0757-weekend-box-office-v2/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-23-idlynerd-0757-weekend-box-office-v2/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/queue/rendered/2026-11-23-idlynerd-0757-weekend-box-office-v2/04.jpg"
+    ],
+    "score_total": 12,
+    "tagged": [
+      "thisisredefine"
+    ]
   }
 ]
