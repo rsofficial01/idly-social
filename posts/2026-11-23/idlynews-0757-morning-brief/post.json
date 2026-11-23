@@ -1,0 +1,78 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "23 Nov 2026",
+ "sources": [
+  "Free Press Journal",
+  "OnlineKhabar",
+  "News On AIR",
+  "IANS",
+  "ANI",
+  "AFP",
+  "Cricbuzz",
+  "ESPNcricinfo",
+  "IMD",
+  "Oneindia Tamil",
+  "Angel One",
+  "INDmoney",
+  "UN News",
+  "Reuters",
+  "PTI"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Modi Hosts Nepal PM Balendra Shah Today, Pacts Due at 12:25 PM",
+   "photo": "_work/2026-11-23-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: Aloofmanish / Wikimedia Commons, CC BY-SA 4.0 (Hyderabad House, 2022 file)",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "5 WICKETS",
+   "stat_label": "India Need Five Wickets in Wellington Test",
+   "bullets": [
+    "New Zealand five down at tea, 8:10 am IST",
+    "Still about 150 behind after India's 352-run lead",
+    "Final session runs to about 10:30 am IST"
+   ],
+   "credit_line": "Sources: ANI, AFP, Cricbuzz, ESPNcricinfo"
+  },
+  {
+   "type": "detail",
+   "stat": "23-27 NOV",
+   "stat_label": "Heavy Rain Warning for Parts of Tamil Nadu",
+   "bullets": [
+    "Today: Chennai, Tiruvallur, Chengalpattu among 9 districts",
+    "Tuesday: delta and south coast, Cuddalore to Thoothukudi",
+    "Thunderstorm gusts of 40-50 km/h, IMD Chennai says"
+   ],
+   "credit_line": "Sources: IMD Chennai, Oneindia Tamil, NewsBytes"
+  },
+  {
+   "type": "detail",
+   "stat": "24 NOV",
+   "stat_label": "NSE, BSE Shut Tuesday for Guru Nanak Jayanti",
+   "bullets": [
+    "No equity trading on Gurpurab, Guru Nanak's birth anniversary",
+    "Markets trade as usual today, Monday 23 November"
+   ],
+   "credit_line": "Sources: News On AIR, Angel One, INDmoney, Bajaj Broking"
+  },
+  {
+   "type": "detail",
+   "stat": "NO DEAL",
+   "stat_label": "COP31 Climate Talks in Antalya End Without Agreement",
+   "bullets": [
+    "Talks ran two days over, split on fossil fuels",
+    "EU and Panama rejected the final draft text",
+    "India 'engaged constructively', says minister Bhupender Yadav"
+   ],
+   "credit_line": "Sources: UN News, Reuters, PTI"
+  }
+ ]
+}
