@@ -1,0 +1,58 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-launching-this-week",
+ "date": "23 Nov 2026",
+ "sources": [
+  "vivo India",
+  "Beebom",
+  "Digit",
+  "TelecomTalk",
+  "Free Press Journal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Launching in India: Vivo X500 Series 26 Nov, Moto Edge 70 Neo 24 Nov",
+   "photo": "_work/2026-11-23-hourly-0757/desks/idlytech/frame_2/cover_source.png",
+   "photo_credit": "Image: vivo India",
+   "focal": [
+    0.5,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "24 NOV",
+   "stat_label": "Motorola Edge 70 Neo Launches on Flipkart",
+   "bullets": [
+    "6.8-inch 1.5K AMOLED screen at 144Hz",
+    "Snapdragon 7s Gen 3 chip, 7,000mAh battery",
+    "Price to be announced at launch"
+   ],
+   "credit_line": "Sources: Beebom, Digit, TelecomTalk"
+  },
+  {
+   "type": "detail",
+   "stat": "26 NOV, 12 PM",
+   "stat_label": "Vivo X500 Pro Max and X500 Pro Launch",
+   "bullets": [
+    "Pro Max: 200MP ZEISS telephoto, 400mm extender add-on",
+    "Both on Dimensity 9600 Pro; prices at launch",
+    "Vivo Watch GT 2 launches the same day"
+   ],
+   "credit_line": "Sources: vivo India, Beebom, Digit"
+  },
+  {
+   "type": "detail",
+   "stat": "₹1,09,999",
+   "stat_label": "Vivo X300 Pro's India Launch Price, Dec 2025",
+   "bullets": [
+    "Only variant: 16GB RAM, 512GB storage",
+    "Vivo X300 started at ₹75,999 the same day",
+    "Vivo X500 prices come at the 26 Nov launch"
+   ],
+   "credit_line": "Sources: Digit, Free Press Journal"
+  }
+ ]
+}
