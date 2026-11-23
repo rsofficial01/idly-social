@@ -5299,5 +5299,21 @@
     "tagged": [
       "thisisredefine"
     ]
+  },
+  {
+    "story_id": null,
+    "account": "idlynews",
+    "media_id": "18224221498350002",
+    "permalink": "https://www.instagram.com/p/DgFod1ljBMV/",
+    "posted_at": "2026-11-23T14:49:19+00:00",
+    "date": "2026-11-23",
+    "slot": "pm",
+    "images": [
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-23/idlynews-1957-bisleri-water-sample/01.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-23/idlynews-1957-bisleri-water-sample/02.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-23/idlynews-1957-bisleri-water-sample/03.jpg",
+      "https://raw.githubusercontent.com/rsofficial01/idly-social/main/posts/2026-11-23/idlynews-1957-bisleri-water-sample/04.jpg"
+    ],
+    "score_total": 13
   }
 ]
