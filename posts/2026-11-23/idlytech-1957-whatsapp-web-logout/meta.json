@@ -1,0 +1,140 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "slug": "idlytech-1957-whatsapp-web-logout",
+ "format": "news_carousel",
+ "headline": "Closing the Tab Doesn't Log You Out of WhatsApp Web, MHA Warns",
+ "title": "MHA's I4C (National Cybercrime Threat Analytics Unit) advisory dated 18 Nov 2026, reported 23 Nov: a logged-in WhatsApp Web session can be misused to read chats and message contacts/groups as the user; closing the tab/window is not logging out; log out manually; avoid office/shared/cyber-cafe PCs. WhatsApp Help Center: up to four linked devices; linked devices auto-disconnected after 30 days of inactivity; logout via Linked devices.",
+ "sources": [
+  {
+   "outlet": "MediaNama",
+   "url": "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Inc42",
+   "url": "https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Storyboard18",
+   "url": "https://www.storyboard18.com/amp/digital/i4c-issues-advisory-on-whatsapp-web-security-risks-and-misuse-ws-l-115321.htm",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Cyber Security News",
+   "url": "https://cybersecuritynews.com/whatsapp-web-confidential-data/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/technology/whatsaapp-web-security-threat-whatsapp-apk-fraud-i4cs-nctau-enn26112305521",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "WhatsApp Help Center",
+   "url": "https://faq.whatsapp.com/378279804439436",
+   "date": "2026-11-23 (viewed)"
+  },
+  {
+   "outlet": "Gulf News",
+   "url": "https://gulfnews.com/lifestyle/your-whatsapp-could-still-be-linked-to-a-device-you-dont-use-or-dont-own-heres-how-to-check-1.500694345",
+   "date": "2026-10-01"
+  }
+ ],
+ "facts": [
+  {
+   "fact": "Advisory issued by MHA's Indian Cyber Crime Coordination Centre (I4C), National Cybercrime Threat Analytics Unit, dated 18 Nov 2026",
+   "urls": [
+    "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/",
+    "https://cybersecuritynews.com/whatsapp-web-confidential-data/",
+    "https://www.etvbharat.com/en/technology/whatsaapp-web-security-threat-whatsapp-apk-fraud-i4cs-nctau-enn26112305521"
+   ]
+  },
+  {
+   "fact": "A logged-in WhatsApp Web session can be misused to read messages, send messages posing as the user and reach contacts and group chats",
+   "urls": [
+    "https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/",
+    "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/",
+    "https://cybersecuritynews.com/whatsapp-web-confidential-data/"
+   ]
+  },
+  {
+   "fact": "Closing the browser tab or window is not logging out; log out manually after every session",
+   "urls": [
+    "https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/",
+    "https://www.storyboard18.com/amp/digital/i4c-issues-advisory-on-whatsapp-web-security-risks-and-misuse-ws-l-115321.htm",
+    "https://www.etvbharat.com/en/technology/whatsaapp-web-security-threat-whatsapp-apk-fraud-i4cs-nctau-enn26112305521"
+   ]
+  },
+  {
+   "fact": "Avoid staying logged in on office/shared computers; avoid cyber cafes, public kiosks, borrowed computers; if unavoidable, private browsing on a trusted computer and log out before closing",
+   "urls": [
+    "https://www.storyboard18.com/amp/digital/i4c-issues-advisory-on-whatsapp-web-security-risks-and-misuse-ws-l-115321.htm",
+    "https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/",
+    "https://www.etvbharat.com/en/technology/whatsaapp-web-security-threat-whatsapp-apk-fraud-i4cs-nctau-enn26112305521"
+   ]
+  },
+  {
+   "fact": "WhatsApp allows up to four linked devices at a time",
+   "urls": [
+    "https://faq.whatsapp.com/378279804439436",
+    "https://gulfnews.com/lifestyle/your-whatsapp-could-still-be-linked-to-a-device-you-dont-use-or-dont-own-heres-how-to-check-1.500694345"
+   ]
+  },
+  {
+   "fact": "WhatsApp automatically disconnects linked devices after 30 days of inactivity (so a session in use is not dropped by that rule)",
+   "urls": [
+    "https://faq.whatsapp.com/378279804439436",
+    "https://gulfnews.com/lifestyle/your-whatsapp-could-still-be-linked-to-a-device-you-dont-use-or-dont-own-heres-how-to-check-1.500694345"
+   ]
+  },
+  {
+   "fact": "Logout path: Android three-dot menu > Linked devices; iPhone Settings > Linked devices; tap the device > Log out",
+   "urls": [
+    "https://faq.whatsapp.com/378279804439436",
+    "https://gulfnews.com/lifestyle/your-whatsapp-could-still-be-linked-to-a-device-you-dont-use-or-dont-own-heres-how-to-check-1.500694345",
+    "https://cybersecuritynews.com/whatsapp-web-confidential-data/"
+   ]
+  }
+ ],
+ "photo_source": {
+  "page": "https://unsplash.com/photos/whatsapp-web-interface-on-a-computer-screen-KVzULr7eFtE",
+  "url": "https://images.unsplash.com/photo-1762330469727-156f5369e4f9",
+  "licence": "Unsplash License",
+  "author": "Zulfugar Karimov (@zulfugarkarimov)",
+  "published": "2025-11-05",
+  "viewed": true,
+  "size": "6000x4000",
+  "faces": 0,
+  "local": "_work/2026-11-23-hourly-1957/desks/idlytech/photos/wa_web_unsplash.jpg",
+  "framing": {
+   "photo": "_work/2026-11-23-hourly-1957/desks/idlytech/frame_1/cover_source.png",
+   "focal": [
+    0.607,
+    0.5
+   ],
+   "zoom": 1.0,
+   "scale": 0.338,
+   "upscale": null,
+   "mode": "full-bleed 4:5"
+  },
+  "credit": "Photo: Zulfugar Karimov / Unsplash"
+ },
+ "tag": null,
+ "tag_proof": "No tag: photographer image (not a brand/newsroom image); reviewer agreed at G1.",
+ "gates": {
+  "G1": "BUILD B (WhatsApp Web advisory) with the Unsplash image; ceiling 13-14. A (Nvidia reinstates Huang) fallback ceiling 11-13; C (MoEngage breach) ~9.",
+  "G23": "FIX x3 applied (slide 2 bullet 3, slide 3 bullet 2, slide 4 stat 3 STEPS)",
+  "G4": "PASS 14 (reviewer 2/2/2/2/2/2/2)"
+ },
+ "scores": {
+  "self": 14,
+  "reviewer": 14,
+  "post": 14
+ },
+ "main_fixes": [
+  "main: slide 3 bullet 3 'I4C: avoid office, shared and cyber-café PCs' -> 'I4C: don't stay logged in on office, shared PCs' (advisory urges caution and no staying logged in on office/shared PCs; avoid only cyber cafés/kiosks/borrowed: Inc42, Storyboard18, Cyber Security News)"
+ ]
+}

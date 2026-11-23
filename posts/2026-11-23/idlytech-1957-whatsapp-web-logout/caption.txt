@@ -1,0 +1,13 @@
+The Ministry of Home Affairs' Indian Cyber Crime Coordination Centre (I4C) has warned that a WhatsApp Web session left logged in can be misused to get into your account. Anyone who reaches that computer could read your chats, send messages as you and contact your groups, says the advisory from its National Cybercrime Threat Analytics Unit, dated 18 November.
+
+Closing the browser tab or window does not log you out, the advisory says. It asks users to log out manually after every session, not to stay logged in on office or shared computers, and to avoid cyber cafés, public kiosks and borrowed computers. If there is no other option, it suggests a private browsing window on a trusted computer, with a manual log-out before closing it.
+
+WhatsApp lets up to four devices stay linked to one account, and its Help Center says it disconnects a linked device only after 30 days of inactivity. To check yours, open WhatsApp on your phone and go to Linked devices (Android: the three-dot menu; iPhone: Settings), then tap any device you don't recognise and choose Log out.
+
+Is WhatsApp Web logged in on a computer you don't own?
+
+Sources: MediaNama, Inc42, Storyboard18, Cyber Security News, WhatsApp Help Center, Gulf News
+
+#WhatsApp #WhatsAppWeb #CyberSafety #I4C #idlytech
+
+Photo: Zulfugar Karimov / Unsplash

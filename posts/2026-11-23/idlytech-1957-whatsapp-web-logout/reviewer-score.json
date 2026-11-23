@@ -1,0 +1,11 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "notes": "r2: slide 3 bullet 3 now matches the advisory's wording (don't stay logged in on office/shared PCs). Keep 2: logout path on slide 4. Original 2: advisory + WhatsApp 30-day/4-device synthesis. Visual clean.",
+ "total": 14
+}

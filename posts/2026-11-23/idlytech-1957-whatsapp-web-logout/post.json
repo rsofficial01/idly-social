@@ -1,0 +1,57 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-1957-whatsapp-web-logout",
+ "date": "23 Nov 2026",
+ "sources": [
+  "MediaNama",
+  "Inc42",
+  "Storyboard18",
+  "WhatsApp Help Center"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Closing the Tab Doesn't Log You Out of WhatsApp Web, MHA Warns",
+   "photo": "_work/2026-11-23-hourly-1957/desks/idlytech/frame_1/cover_source.png",
+   "photo_credit": "Photo: Zulfugar Karimov / Unsplash",
+   "focal": [
+    0.607,
+    0.5
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "18 NOV",
+   "stat_label": "MHA Cyber Unit's Warning on WhatsApp Web",
+   "bullets": [
+    "A logged-in session can expose your chats",
+    "Others can message your contacts and groups as you",
+    "Log out by hand after every session"
+   ],
+   "credit_line": "Sources: MediaNama, Inc42, Storyboard18, Cyber Security News"
+  },
+  {
+   "type": "detail",
+   "stat": "30 DAYS",
+   "stat_label": "Before WhatsApp Drops an Unused Web Login",
+   "bullets": [
+    "WhatsApp lets up to four devices stay linked",
+    "A login someone keeps using isn't auto-dropped",
+    "I4C: don't stay logged in on office, shared PCs"
+   ],
+   "credit_line": "Sources: WhatsApp Help Center, Gulf News, Storyboard18"
+  },
+  {
+   "type": "detail",
+   "stat": "3 STEPS",
+   "stat_label": "Log Out of WhatsApp Web From Your Phone",
+   "bullets": [
+    "Android: three-dot menu > Linked devices",
+    "iPhone: Settings > Linked devices",
+    "Tap the device you don't know > Log out"
+   ],
+   "credit_line": "Sources: WhatsApp Help Center, Gulf News"
+  }
+ ]
+}

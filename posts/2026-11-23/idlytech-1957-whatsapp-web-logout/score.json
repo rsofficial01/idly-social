@@ -1,0 +1,13 @@
+{
+ "hook": 2,
+ "read": 2,
+ "send": 2,
+ "keep": 2,
+ "reply": 2,
+ "original": 2,
+ "alone": 2,
+ "total": 14,
+ "notes": "per-check min. desk 14: hook 2: the cover leads with the surprise (closing the tab is not logging out) and names MHA; real photo of the WhatsApp tab with its close X. send 2: someone who uses WhatsApp Web on an office or shared PC, or a parent who does; it asks them to act today. keep 2: the logout path for Android and iPhone and the 30-day rule are on slides. reply 2: yes/no about the reader's own setup. original 2, the weakest 2: slide 3 is idly's own synthesis (advisory plus WhatsApp Help Center: four linked devices, unused ones dropped only after 30 days), but slide 2 restates what every outlet ran today. read 2 after the G23 fixes removed the two repeated bullets. Risks: advisory is dated 18 Nov (5 days old) though widely reported only today; the photo is an Unsplash photographer's (no tag). | reviewer 14: r2: slide 3 bullet 3 now matches the advisory's wording (don't stay logged in on office/shared PCs). Keep 2: logout path on slide 4. Original 2: advisory + WhatsApp 30-day/4-device synthesis. Visual clean.",
+ "desk_total": 14,
+ "reviewer_total": 14
+}
