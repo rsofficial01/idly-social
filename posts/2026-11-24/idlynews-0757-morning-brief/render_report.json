@@ -1,0 +1,124 @@
+[
+ {
+  "size": 80,
+  "lines": 3,
+  "overflow": false,
+  "top": 1010,
+  "credit_line": "Photo: Mani chiral / Wikimedia Commons, CC BY 2.0",
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 1,
+  "type": "cover",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/01.jpg",
+  "scale": 0.281
+ },
+ {
+  "stat": 164,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: DT Next, Deccan Herald, The Hindu (as of Monday night)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 2,
+  "type": "detail",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/02.jpg",
+  "scale": null
+ },
+ {
+  "stat": 168,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hindustan Times, Bar & Bench, LiveLaw (as of Monday's hearing)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 3,
+  "type": "detail",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/03.jpg",
+  "scale": null
+ },
+ {
+  "stat": 312,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: Hindustan Times, ETV Bharat, The Statesman",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 4,
+  "type": "detail",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/04.jpg",
+  "scale": null
+ },
+ {
+  "stat": 172,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: The Indian Express, Scroll, BBC, Al Jazeera",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 5,
+  "type": "detail",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/05.jpg",
+  "scale": null
+ },
+ {
+  "stat": 244,
+  "label": 54,
+  "bullet": 44,
+  "overflow": false,
+  "credit_line": "Sources: ETV Bharat, Business Standard, Siasat (as of 23 Nov)",
+  "credit_injected": false,
+  "credit_collision": [],
+  "credit_truncated": false,
+  "credit_inside": true,
+  "credit_rect": [
+   72,
+   1180,
+   1008,
+   1200
+  ],
+  "slug": "idlynews-0757-morning-brief",
+  "slide": 6,
+  "type": "detail",
+  "jpg": "posts/2026-11-24/idlynews-0757-morning-brief/06.jpg",
+  "scale": null
+ }
+]

@@ -1,0 +1,90 @@
+{
+ "acct": "idlynews",
+ "slug": "idlynews-0757-morning-brief",
+ "date": "24 Nov 2026",
+ "format": "special",
+ "sources": [
+  "DT Next",
+  "The Hindu",
+  "Deccan Herald",
+  "Hindustan Times",
+  "LiveLaw",
+  "Bar & Bench",
+  "ETV Bharat",
+  "The Statesman",
+  "The Indian Express",
+  "Scroll",
+  "BBC",
+  "Al Jazeera",
+  "Business Standard",
+  "Siasat"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "Thiruparankundram Lamp Day: Madurai Bars Protests Till 10 AM Wednesday",
+   "photo": "_work/2026-11-24-hourly-0757/desks/idlynews/frame_1/cover_source.png",
+   "photo_credit": "Photo: Mani chiral / Wikimedia Commons, CC BY 2.0",
+   "focal": [
+    0.5,
+    0.45
+   ],
+   "zoom": 1.0
+  },
+  {
+   "type": "detail",
+   "stat": "10 AM WED",
+   "stat_label": "Order Bars Protests, Hill Climbs Across Madurai",
+   "bullets": [
+    "SC allowed a one-time lamp at the hilltop pillar",
+    "Temple rituals, weddings and funerals are exempt",
+    "Over 5,000 police deployed around Thiruparankundram"
+   ],
+   "credit_line": "Sources: DT Next, Deccan Herald, The Hindu (as of Monday night)"
+  },
+  {
+   "type": "detail",
+   "stat": "22.21 LAKH",
+   "stat_label": "Bengal SIR: Deleted Voters' Appeals First, SC Says",
+   "bullets": [
+    "That's 58% of the 38.31 lakh appeals filed",
+    "Challenges to included names deferred for now",
+    "Kolkata civic-area voters first; more tribunals ordered"
+   ],
+   "credit_line": "Sources: Hindustan Times, Bar & Bench, LiveLaw (as of Monday's hearing)"
+  },
+  {
+   "type": "detail",
+   "stat": "9 DEC",
+   "stat_label": "Bengal Plans 'Paschim Banga' as Its English Name",
+   "bullets": [
+    "Cabinet cleared it Monday, CM Suvendu Adhikari says",
+    "Proposal goes to the Assembly on 9 December",
+    "Final say rests with Parliament under Article 3"
+   ],
+   "credit_line": "Sources: Hindustan Times, ETV Bharat, The Statesman"
+  },
+  {
+   "type": "detail",
+   "stat": "₹15,000 CR",
+   "stat_label": "India's Package for Nepal After Modi-Balendra Shah Talks",
+   "bullets": [
+    "Most of it is credit for energy projects",
+    "The rest: grants for rebuilding after Nepal's floods",
+    "Ayodhya-Janakpur train launched on Monday"
+   ],
+   "credit_line": "Sources: The Indian Express, Scroll, BBC, Al Jazeera"
+  },
+  {
+   "type": "detail",
+   "stat": "30 NOV",
+   "stat_label": "Air India, IndiGo, Akasa Keep Saudi Flights Off",
+   "bullets": [
+    "Air India, AI Express: Jeddah, Riyadh, Dammam",
+    "IndiGo: all Saudi flights; Akasa: Riyadh, Jeddah",
+    "Airlines cite security; Houthis have attacked Saudi cities"
+   ],
+   "credit_line": "Sources: ETV Bharat, Business Standard, Siasat (as of 23 Nov)"
+  }
+ ]
+}
