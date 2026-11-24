@@ -1,0 +1,58 @@
+{
+ "acct": "idlytech",
+ "slug": "idlytech-0757-rbi-stop-switch",
+ "date": "24 Nov 2026",
+ "format": "news_carousel",
+ "sources": [
+  "RBI",
+  "Inc42",
+  "Upstox News",
+  "Free Press Journal"
+ ],
+ "slides": [
+  {
+   "type": "cover",
+   "headline": "One Switch Could Freeze All Payments You Make, RBI Proposes",
+   "photo": "_work/2026-11-24-hourly-0757/desks/idlytech/frame_2/cover_source.png",
+   "photo_credit": "Photo: Subodh Kulkarni / Wikimedia Commons, CC BY-SA 4.0",
+   "focal": [
+    0.5,
+    0.75
+   ],
+   "zoom": 1.2
+  },
+  {
+   "type": "detail",
+   "stat": "1 SWITCH",
+   "stat_label": "Draft: Freezes Every Payment You Start",
+   "bullets": [
+    "Stop Switch blocks your UPI payments too",
+    "No new auto-debits, no new apps linking your UPI",
+    "Money in, EMIs and existing auto-debits keep running"
+   ],
+   "credit_line": "Sources: RBI draft directions, Inc42, Upstox News"
+  },
+  {
+   "type": "detail",
+   "stat": "1 HOUR",
+   "stat_label": "Proposed: Trusted Person Must OK Big Transfers",
+   "bullets": [
+    "You set the limit; above it, they must approve",
+    "No reply in an hour cancels the transfer",
+    "Trusted Person checks skip UPI, shop payments and auto-debits"
+   ],
+   "credit_line": "Sources: RBI draft directions, Free Press Journal (IANS), Inc42"
+  },
+  {
+   "type": "detail",
+   "stat": "14 DEC",
+   "stat_label": "Last Day to Comment on RBI's Draft",
+   "bullets": [
+    "Email mcsdorfeedback@rbi.org.in or use Connect 2 Regulate",
+    "Proposed start: 1 July 2027, 219 days away",
+    "New accounts: digital payments off till you opt in"
+   ],
+   "credit_line": "Sources: RBI press release and draft, Inc42, Free Press Journal (IANS)"
+  }
+ ]
+}

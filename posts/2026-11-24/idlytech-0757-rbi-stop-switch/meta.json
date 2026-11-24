@@ -1,0 +1,154 @@
+{
+ "account": "idlytech",
+ "story_id": null,
+ "idly_article": false,
+ "slug": "idlytech-0757-rbi-stop-switch",
+ "format": "news_carousel",
+ "headline": "One Switch Could Freeze All Payments You Make, RBI Proposes",
+ "title": "RBI draft amendment directions 'Preventive Safeguards for Electronic Banking Transactions' (23 Nov 2026): mandatory Stop Switch to disable all customer-initiated outward debits; optional Trusted Person Mechanism (1-hour approval above a customer-set threshold; UPI, merchant and recurring payments excluded); digital channels off by default for new accounts; comments by 14 Dec 2026; in force 1 July 2027 (earlier at a bank's option).",
+ "sources": [
+  {
+   "outlet": "RBI (press release 2026-2027/1548)",
+   "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "RBI (draft Commercial Banks - Responsible Business Conduct Fifth Amendment Directions, 2026)",
+   "url": "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Inc42",
+   "url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Upstox News",
+   "url": "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "Free Press Journal (IANS)",
+   "url": "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud",
+   "date": "2026-11-23"
+  },
+  {
+   "outlet": "RBI Connect 2 Regulate (comment listing)",
+   "url": "https://www.rbi.org.in/scripts/Bs_Connect2Regulate.aspx",
+   "date": "2026-11-23"
+  }
+ ],
+ "facts": [
+  {
+   "fact": "RBI issued draft amendment directions on 'Preventive Safeguards for Electronic Banking Transactions' on 23 Nov 2026",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+    "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud"
+   ]
+  },
+  {
+   "fact": "Banks must offer a Stop Switch that immediately disables all customer-initiated outward future debits; with it on, no customer-initiated debits, new payment mandates, new standing instructions or UPI registration on new third-party apps",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/"
+   ]
+  },
+  {
+   "fact": "Stop Switch does not affect incoming credits, ongoing recurring mandates/standing instructions, liens or bank-initiated debits such as loan instalments and charges",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/",
+    "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud"
+   ]
+  },
+  {
+   "fact": "Controls and the Stop Switch available through points of customer interface such as branches, ATMs, internet banking, mobile banking, IVR",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/"
+   ]
+  },
+  {
+   "fact": "Trusted Person Mechanism: voluntary; an adult (18+) registered by the customer approves transfers above a customer-set threshold within one hour; no response or a rejection cancels the transfer; trusted person gets no account rights, can't see balances, no liability",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud",
+    "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/"
+   ]
+  },
+  {
+   "fact": "Trusted Person check excludes UPI payments, merchant payments and recurring payments (standing instructions, e-mandates, NACH)",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud"
+   ]
+  },
+  {
+   "fact": "All digital payment channels disabled by default at onboarding; enabled only on explicit customer consent",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+    "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/"
+   ]
+  },
+  {
+   "fact": "Public comments by 14 Dec 2026, via the Connect 2 Regulate section of RBI's website or by email to mcsdorfeedback@rbi.org.in",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+    "https://www.rbi.org.in/scripts/Bs_Connect2Regulate.aspx",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/ (date only)"
+   ]
+  },
+  {
+   "fact": "In force from 1 July 2027, or earlier if a bank decides (219 days after 24 Nov 2026: idly arithmetic)",
+   "urls": [
+    "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5221",
+    "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+    "https://www.freepressjournal.in/business/rbi-proposes-stop-switch-to-block-digital-banking-debits-instantly-strengthen-protection-against-fraud"
+   ]
+  },
+  {
+   "fact": "Drafts cover commercial, small finance, payments, local area, regional rural, urban and rural co-operative banks",
+   "urls": [
+    "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+    "https://upstox.com/news/business-news/latest-updates/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/article-203896/"
+   ]
+  }
+ ],
+ "image": {
+  "page": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Reserve_Bank_of_India_building_in_Kolkata.jpg/1920px-Reserve_Bank_of_India_building_in_Kolkata.jpg",
+  "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+  "author": "सुबोध कुलकर्णी (Subodh Kulkarni), own work, 19 Feb 2021; credit transliterated because the card font has no Devanagari",
+  "credit": "Photo: Subodh Kulkarni / Wikimedia Commons, CC BY-SA 4.0",
+  "size": "1920x3413 (original 2304x4096)",
+  "faces": 0,
+  "viewed": true,
+  "local": "_work/2026-11-24-hourly-0757/desks/idlytech/rbi_kol.jpg",
+  "framing": {
+   "photo": "_work/2026-11-24-hourly-0757/desks/idlytech/frame_2/cover_source.png",
+   "tool_output": {
+    "focal": [
+     0.5,
+     0.5
+    ],
+    "zoom": 1.0,
+    "faces": 0
+   },
+   "used": {
+    "focal": [
+     0.5,
+     0.75
+    ],
+    "zoom": 1.2
+   },
+   "why": "tool default put the 'Reserve Bank of India' sign under the headline block; focal y 0.75 + zoom 1.2 (crop 1600x2000 from top 1413, downscaled) keeps the emblem and sign above the 55% line",
+   "mode": "full-bleed 4:5"
+  }
+ },
+ "tag": null,
+ "tag_proof": null
+}

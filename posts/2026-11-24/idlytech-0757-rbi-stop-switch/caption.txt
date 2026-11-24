@@ -1,0 +1,13 @@
+The Reserve Bank of India has proposed that every bank give customers a "Stop Switch", one control that immediately blocks all future payments you start from your account. With it on, no UPI payment or transfer you start goes out, no new auto-debit mandate or standing instruction can be set up, and your UPI can't be registered on a new payments app. Money coming in, existing mandates and bank debits such as loan instalments carry on. Under the draft, released on 23 November, you could turn it on or off through channels such as a branch, an ATM, net banking, the mobile app or the bank's phone line (IVR).
+
+The draft also adds an optional Trusted Person: an adult you register, whose approval is needed for transfers above a limit you set. They get one hour to approve; no answer means the transfer is cancelled. They can't see your balance or operate your account, and UPI, shop payments and recurring mandates are outside this check. New accounts would start with every digital payment channel switched off until the customer opts in.
+
+Nothing has changed yet. RBI is taking public comments until 14 December, through the Connect 2 Regulate section of its website or by email to mcsdorfeedback@rbi.org.in. The proposed start is 1 July 2027, 219 days from today, or earlier if a bank chooses. The drafts cover commercial, small finance, payments, regional rural, local area and co-operative banks.
+
+Has anyone in your family been targeted by a payment scam this year?
+
+Sources: RBI, Inc42, Upstox News, Free Press Journal (IANS)
+
+#RBI #UPI #BankFraud #DigitalPayments #idlytech
+
+Photo: Subodh Kulkarni / Wikimedia Commons, CC BY-SA 4.0
